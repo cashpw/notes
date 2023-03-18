@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@herbertDune1999]
+:ID:       68077361-66a6-4abe-b00f-dfb3d83630f2
+:ROAM_ALIASES: Dune
+:END:
+#+title: Frank Herbert | Dune
+#+hugo_custom_front_matter: :slug "68077361-66a6-4abe-b00f-dfb3d83630f2"
+#+filetags: :reference:
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-05 Sat 12:32]
+
+[[id:7f3c7b18-3173-4c69-a4c5-b7d33630ae85][Frank Herbert]], [cite:@herbertDune1999]
+
+A note for the first book in the Dune series as well as a shorthand for the series as a whole.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

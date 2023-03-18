@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+:ID:       7dc661e4-ea71-4280-b6bc-20a32da8b49e
+:ROAM_ALIASES: VMLS "Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"
+:LAST_MODIFIED: [2023-03-14 Tue 07:36]
+:END:
+#+title: Stephen P. Boyd, Lieven Vandenberghe | Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
+#+hugo_custom_front_matter: :slug "7dc661e4-ea71-4280-b6bc-20a32da8b49e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-27 Tue 20:30]
+#+filetags: :has_todo:reference:
+
+* TODO [#3] Summary
+* TODO [#3] Thoughts
+* TODO [#3] Notes
+* Flashcards
+** Authors of [[id:7dc661e4-ea71-4280-b6bc-20a32da8b49e][Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]] :fc:
+:PROPERTIES:
+:CREATED: [2022-09-27 Tue 20:31]
+:FC_CREATED: 2022-09-28T03:31:11Z
+:FC_TYPE:  double
+:ID:       fa20ab26-2882-4193-968e-6e7ab4b92c75
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   5 |    24.28 | 2023-04-06T21:31:46Z |
+| back     | 2.35 |   6 |    81.61 | 2023-05-23T06:24:18Z |
+:END:
+
+- Stephen Boyd
+- Lieven Vandenberghe
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       39e9395f-4924-42e1-b6be-de85318ea211
+:ANKI_NOTE_ID: 1640628549051
+:FC_CREATED: 2021-12-27T18:09:09Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   329.66 | 2024-02-07T06:23:32Z |
+|        1 | 2.50 |   8 |   214.15 | 2023-07-17T22:22:21Z |
+:END:
+
+- {{Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares}@0}
+- {{VMLS}@1}
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+#+print_bibliography:

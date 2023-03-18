@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
+:LAST_MODIFIED: [2023-02-25 Sat 09:28]
+:END:
+#+title: Complete binary tree
+#+hugo_custom_front_matter: :slug "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 11:22]
+#+filetags: :concept:
+
+
+#+begin_quote
+A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Complete binary tree
+[[file:complete-binary-tree.png]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       525a799e-566f-485a-a9a5-5271f1ac6e50
+:ANKI_NOTE_ID: 1656856869333
+:FC_CREATED: 2022-07-03T14:01:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   161.55 | 2023-05-21T06:03:20Z |
+| front    | 2.95 |   7 |   361.54 | 2024-02-22T06:22:13Z |
+:END:
+[[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+*** Back
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which every level, except possibly the last, is filled, and all nodes in the last level are as far left as possible.
+*** Extra
+[[file:complete-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** Image :fc:
+:PROPERTIES:
+:ID:       5de8f699-6078-4239-801a-95188d4f91ce
+:ANKI_NOTE_ID: 1656856870333
+:FC_CREATED: 2022-07-03T14:01:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   142.27 | 2023-06-12T20:46:52Z |
+| back     | 2.65 |   6 |   114.31 | 2023-05-24T02:48:51Z |
+:END:
+[[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+*** Back
+[[file:complete-binary-tree.png]]
+*** Extra
+Also: [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+*** Source
+[cite:@BinaryTree2022]
+
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       41de1805-cd40-48a8-b889-44bd1d11ad9b
+:ANKI_NOTE_ID: 1656856872284
+:FC_CREATED: 2022-07-03T14:01:12Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   235.13 | 2023-09-17T20:01:55Z |
+:END:
+
+[[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] and [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
+
+*** Back
+- A [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]] is one in which (1) all interior nodes have two children and (2) all leaf nodes are at the same level.
+- A [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]] is one in which all levels, except possibly the last, is filled and all nodes in the last level are as far left as possible
+*** Source
+[cite:@BinaryTree2022]
+#+print_bibliography:

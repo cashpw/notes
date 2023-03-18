@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eac05f82-f0b8-4dca-84ff-0903c3bc5079
+:END:
+#+title: Use short, descriptive, link text
+#+hugo_custom_front_matter: :slug "eac05f82-f0b8-4dca-84ff-0903c3bc5079"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-08 Tue 15:26]
+#+filetags: :concept:
+
+Links should stand on their own without the context of the surrounding text. The reader should be able to understand what will happen when they click a link by only reading the link text itself.
+
+* Examples
+
+1. Bad: [[http://example.com][Click here]] to read more.
+
+   *Good*: [[http://example.com][Read more]].
+
+2. Bad: [[http:example.com][Download]] the source code to try it yourself!
+
+   *Good*: [[http:example.com][Download the source code]] to try it yourself!
+
+* Flashcards

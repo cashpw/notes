@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       d2129f29-f3a1-4e10-8a25-25ae81b949a5
+:DIR:      /home/cashweaver/proj/roam/attachments/d2129f29-f3a1-4e10-8a25-25ae81b949a5
+:END:
+#+title: Tom Limoncelli
+#+hugo_custom_front_matter: :slug "d2129f29-f3a1-4e10-8a25-25ae81b949a5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 15:50]
+#+filetags: :person:
+
+#+begin_quote
+Tom Limoncelli is an American system administrator, author, and speaker. A system administrator and network engineer since 1987, he speaks at conferences around the world on topics ranging from firewall security to time management.
+
+[cite:@TomLimoncelli2021]
+#+end_quote
+
+Among other things:
+
+- [[http://everythingsysadmin.com][everythingsysadmin.com]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

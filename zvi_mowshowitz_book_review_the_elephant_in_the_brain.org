@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@mowshowitzBookReviewElephantBrain2017]
+:ID:       29244b9e-6daa-4bee-9927-bc4c1af43f3f
+:LAST_MODIFIED: [2023-01-12 Thu 16:10]
+:END:
+#+title: Zvi Mowshowitz | Book Review: The Elephant in the Brain
+#+hugo_custom_front_matter: :slug "29244b9e-6daa-4bee-9927-bc4c1af43f3f"
+#+author: Cash Weaver
+#+date: [2023-01-12 Thu 15:31]
+#+filetags: :reference:
+
+[[id:36ccfcf4-794e-4994-bc40-ff081ed0cc01][Zvi Mowshowitz]] , [cite:@mowshowitzBookReviewElephantBrain2017]
+
+* Summary
+A review of [[id:fb0b2586-5705-4114-b735-7062ccd56043][Kevin Simler, Robin Hanson | The Elephant in the Brain: Hidden Motives in Everyday Life]]
+* Thoughts
+* Notes
+#+begin_quote
+X is about a lot more than Y. Often X is about Z far more. Even if X is mostly about Y on some levels, it is mostly about Z on others. But we fear punishment and social collapse if we claim or even believe this.
+
+This is a sort of argument for modesty in the 'believe and act like if you know what's good for you' sense -- you should profess the same beliefs you see around you because they are chosen strategically, even if they're false. You should do the same actions you see, because they have hidden social motives and purposes, and people will punish you for acting differently even if they don't know why acting differently might be bad here -- holding out for that explanation is not a chance they are willing to take. Nice human you have there. It would be a shame if someone were to ostracize it or lower its status.
+
+It's also an argument that /[[http://kajsotala.fi/2017/09/nobody-does-the-thing-that-they-are-supposedly-doing/][everyone is lying to you, all the time]] [[[id:ca067526-19a1-4996-a9fb-be54b7e86dd5][Kaj Sotala | Nobody Does the Thing That They Are Supposedly Doing]]], and you know it./
+#+end_quote
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       be4f9edc-cd40-4e17-9899-cfe136d6559d
+:ROAM_REFS: [cite:@bullTrustThermocline]
+:LAST_MODIFIED: [2023-02-16 Thu 19:51]
+:END:
+#+title: Trust thermocline
+#+hugo_custom_front_matter: :slug "be4f9edc-cd40-4e17-9899-cfe136d6559d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-13 Mon 14:55]
+#+filetags: :has_todo:concept:
+
+Trust [[id:aff17b81-0252-4f61-8195-3a83d8e5e0c3][Thermocline]]
+
+* TODO [#2] Expand
+* TODO [#2] Flashcards
+#+print_bibliography:

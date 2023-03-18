@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       8f382815-45a4-4eaf-9d0c-a5a0c27adbe8
+:LAST_MODIFIED: [2023-03-04 Sat 07:07]
+:END:
+#+title: Dmytro Matsypura
+#+hugo_custom_front_matter: :slug "8f382815-45a4-4eaf-9d0c-a5a0c27adbe8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:34]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       ebfd4bfb-3dc0-4d62-9611-0bf780ec20f4
+:ANKI_NOTE_ID: 1640627811096
+:FC_CREATED: 2021-12-27T17:56:51Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   396.54 | 2024-04-04T03:58:49Z |
+:END:
+
+[[id:8f382815-45a4-4eaf-9d0c-a5a0c27adbe8][Dmytro Matsypura]]
+
+*** Back
+[[id:2a445fab-e52e-4402-af16-3c67f29be582][Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]]

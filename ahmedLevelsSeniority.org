@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ahmedLevelsSeniority]
+:ID:       e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
+:DIR:      /home/cashweaver/proj/roam/attachments/e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
+:LAST_MODIFIED: [2022-12-14 Wed 13:37]
+:END:
+#+title: Kamran Ahmed | Levels of Seniority
+#+hugo_custom_front_matter: :slug "e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 20:50]
+#+filetags: :reference:
+ 
+[[id:356faca9-bd06-4496-a9a4-43204208fa95][Kamran Ahmed]], [cite:@ahmedLevelsSeniority]
+
+* Summary
+
+#+begin_quote
+The most important traits that you need to have in order to step up in your career are: not settling with mediocrity, having an open mindset, being humble, learning from your mistakes, working on the challenging problems and having an opportunity mindset rather than a complaining one.
+#+end_quote
+
+* Thoughts
+* Notes
+
+#+begin_quote
+I have seen fresh graduates having no industry experience get up to speed quickly and producing work of a Senior Engineer and I have seen Senior developers labeled "senior" merely because of their age and "years of experience".
+#+end_quote
+
+** Junior Developers
+#+begin_quote
+Junior developers are normally fresh graduates and it's either they don't have or they have minimal industry experience. Not only they have weak coding skills but there are also a few other things that give Junior developers away:
+
+- Their main mantra is "making it work" without giving much attention to how the solution is achieved. To them, a working software and good software are equivalent.
+- They usually require very specific and structured directions to achieve something. They suffer from tunnel vision, need supervision and continuous guidance to be effective team members.
+- Most of the Junior developers just try to live up to the role and, when stuck, they might leave work for a senior developer instead of at least trying to take a stab at something.
+- They don't know about the business side of the company and don't realize how management/sales/marketing/etc think and they don't realize how much rework, wasted effort, and end-user aggravation could be saved by getting to know the business domain.
+- Over-engineering is a major problem, often leading to fragility and bugs.
+- When given a problem, they often try to fix just the current problem a.k.a. fixing the symptoms instead of fixing the root problem.
+- You might notice the "[[id:c5f1ce6a-5a0f-4889-881b-6862d462cf08][Somebody Else's Problem]]" behavior from them.
+- They don't know what or how much they don't know, thanks to the [[id:393d22dc-fb65-4f8c-9070-6973d6c9668e][Dunning-Kruger effect]].
+- They don't take initiatives and they might be afraid to work on an unfamiliar codebase.
+- They don't participate in team discussions.
+#+end_quote
+** Mid Level Developers
+
+#+begin_quote
+The next level after the Junior developers is Mid Level developers. They are technically stronger than the Junior developers and can work with minimal supervision. They still have some issues to address in order to jump to Senior level.
+#+end_quote
+
+#+begin_quote
+Mid-level developers are quite common. Most of the organizations wrongly label them as "Senior Developers". However, they need further mentoring in order to become Senior Developers.
+#+end_quote
+
+** Senior Developers
+
+#+begin_quote
+Senior developers are the next level after the Mid-level developers. They are the people who can get things done on their own without any supervision and without creating any issues down the road. They are more mature, have gained experience by delivering both good and bad software in the past and have learned from it — they know how to be pragmatic. Here is the list of things that are normally expected of a Senior Developer:
+
+- With their past experiences, mistakes made, issues faced by over-designed or under-designed software, they can foresee the problems and persuade the direction of the codebase or the architecture.
+- They don't have a "Shiny-Toy" syndrome. They are pragmatic in the execution. They can make the tradeoffs when required, and they know why. They know where to be dogmatic and where to be pragmatic.
+- They have a good picture of the field, know what the best tool for the job is in most cases (even if they don't know the tool). They have the innate ability to pick up a new tool/language/paradigm/etc in order to solve a problem that requires it.
+- They are aware they're on a team. They view it as a part of their responsibility to mentor others. This can range from pair programming with junior devs to taking un-glorious tasks of writing docs or tests or whatever else needs to be done.
+- They have a deep understanding of the domain - they know about the business side of the company and realize how management/sales/marketing/etc think and benefit from their knowledge of the business domain during the development.
+- They don't make empty complaints, they make judgments based on the empirical evidence and they have suggestions for solutions.
+- They think much more than just code - they know that their job is to provide solutions to the problems and not just to write code.
+- They have the ability to take on large ill-defined problems, define them, break them up, and execute the pieces. A senior developer can take something big and abstract, and run with it. They will come up with a few options, discuss them with the team and implement them.
+- They have respect for the code that was written before them. They are generous when passing judgment on the architecture or the design decisions made in the codebase. They approach inheriting legacy code with an "opportunity mindset" rather than a complaining one.
+- They know how to give feedback without hurting anyone.
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

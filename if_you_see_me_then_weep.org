@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       c2eafd89-c3ec-43e8-9e06-f937d2b15073
+:LAST_MODIFIED: [2023-01-28 Sat 08:40]
+:END:
+#+title: If you see me, then weep
+#+hugo_custom_front_matter: :slug "c2eafd89-c3ec-43e8-9e06-f937d2b15073"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 09:04]
+#+filetags: :quote:
+#+begin_quote
+If you see me, then weep
+
+/Carved into a [[id:07e3fd1d-8aa7-4fe4-9a65-bf10654c9552][Hunger stone]] in the Czech Republic/
+#+end_quote
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 09:09]
+:FC_CREATED: 2022-10-12T16:09:59Z
+:FC_TYPE:  double
+:ID:       b995dbad-5836-40de-8023-54cff2f04c9d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    86.75 | 2023-04-02T09:26:44Z |
+| back     | 2.35 |   6 |   101.20 | 2023-05-09T21:27:56Z |
+:END:
+
+[[id:c2eafd89-c3ec-43e8-9e06-f937d2b15073][If you see me, then weep]]
+
+*** Back
+A famous carving on a [[id:07e3fd1d-8aa7-4fe4-9a65-bf10654c9552][Hunger stone]] in the Czech Republic.
+*** Source
+[cite:@HungerStone2022]
+#+print_bibliography:

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@EvergreenNotesPermitSmoothIncrementalProgressWritingIncrementalWriting]
+:ID:       2186c8f0-1b18-484f-8e22-9e0cd328b498
+:LAST_MODIFIED: [2022-12-14 Wed 13:47]
+:END:
+#+title: Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")
+#+hugo_custom_front_matter: :slug "2186c8f0-1b18-484f-8e22-9e0cd328b498"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 09:42]
+#+filetags: :has_todo:reference:
+
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@EvergreenNotesPermitSmoothIncrementalProgressWritingIncrementalWriting]
+
+#+begin_quote
+Evergreen notes' atomic size ([[https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1][Evergreen notes should be atomic]]) and link structures ([[id:6037800d-34c3-4d62-a33b-3931d694f083][Evergreen Notes Should Be Densely Linked]]) make it easy to stop and resume work. This helps us [[https://notes.andymatuschak.org/z8d4eJNaKrVDGTFpqRnQUPRkexB7K6XbcffAV][Close open loops]].
+
+These small, self-contained notes represent regular checkpoints. Each note takes only a few minutes to write, but because they're [[https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C][Evergreen notes]], each note is solid ground to stand on---fairly complete relative to its own concept ([[https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF][Evergreen notes should be concept-oriented]]). Of course, we'll iterate on their contents over time, but each time we do, that note will remain a mostly-complete, self-contained unit.
+
+By contrast, when we're working on a large work-in-progress manuscript, we're juggling many ideas in various states of completion. Different parts of the document are at different levels of fidelity. The document is large enough that it's easy to lose one's place or to forget where other relevant points are when one returns. Starting and stopping work for the day feel like heavy tasks, drawing heavily on working memory.
+#+end_quote
+
+Also see [[id:b0b3e596-fec2-4f36-9020-243c6c96e0d5][Incremental writing]].
+
+* TODO [#2] Extract links into nodes :noexport:
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       8f39b616-dc89-4597-b689-c65aecde4a05
+:LAST_MODIFIED: [2023-03-15 Wed 08:07]
+:END:
+#+title: Cosine
+#+hugo_custom_front_matter: :slug "8f39b616-dc89-4597-b689-c65aecde4a05"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 10:43]
+#+filetags: :concept:
+
+\(\begin{aligned}\cos(\alpha) &= \frac{\text{adjacent}}{\text{hypotenuse}} \\ &= \frac{\sin(\alpha)}{\tan(\alpha)}\end{aligned}\)
+
+Also see [[id:eba86939-f427-419c-a5d9-8115ed6f0e65][Sine]] and [[id:44aea0ad-06fe-4c46-83c3-53b6a78591c3][Tangent (Trigonometry)]]; [[id:0d69fc06-1179-402b-8231-922986e486fc][Trigonometry]].
+
+#+begin_quote
+[[file:Trigono_sine_en2.svg]]
+
+[cite:@SineCosine2022]
+#+end_quote
+
+* Graph of \(\cos\)
+[[file:cos.png]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Basic (and reversed card) :fc:
+:PROPERTIES:
+:ID:       b197f28d-78e5-4b2c-a897-430acd25237e
+:ANKI_NOTE_ID: 1654528280002
+:FC_CREATED: 2022-06-06T15:11:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   288.39 | 2023-10-24T01:04:05Z |
+| back     | 2.50 |   8 |   251.91 | 2023-09-15T12:42:25Z |
+:END:
+Graph \(f(x) = \cos(x)\)
+*** Back
+[[file:cos.png]]
+*** Source
+[cite:@SineCosine2022]
+** {{$\cos(\theta)$}@0} \(=\) {{$\frac{\text{adjacent}}{\text{hypotenuse}}$}{sides}@1} :fc:
+:PROPERTIES:
+:ID:       d3b44c94-fbed-45cf-b944-31741c49723d
+:ANKI_NOTE_ID: 1662496497453
+:FC_CREATED: 2022-09-06T20:34:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   290.78 | 2023-12-31T09:49:49Z |
+|        1 | 2.50 |   6 |    91.73 | 2023-04-27T10:33:20Z |
+:END:
+*** Source
+[cite:@SineCosine2022]
+** {{$\cos(\theta)$}@0} \(=\) {{$\frac{\sin(\theta)}{\tan(\theta)}$}{functions}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1662496497453
+:FC_CREATED: 2022-09-06T20:34:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       2132be61-60a8-4e36-a22c-d20da85a5341
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.75 |   7 |    78.59 | 2023-05-05T06:09:47Z |
+|        1 | 2.50 |   6 |   104.67 | 2023-05-15T08:25:26Z |
+:END:
+*** Source
+[cite:@SineCosine2022]
+#+print_bibliography:

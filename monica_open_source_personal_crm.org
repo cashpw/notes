@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d047a069-d533-4767-b847-4c00a9d7029e
+:ROAM_REFS: [cite:@Monica]
+:END:
+#+TITLE: Monica (Personal relationship manager)
+#+hugo_custom_front_matter: :slug "d047a069-d533-4767-b847-4c00a9d7029e"
+#+STARTUP: overview
+#+AUTHOR: Cash Prokop-Weaver
+#+DATE: [2021-12-27 Mon 22:51]
+
+Monica is a [[id:4938a000-de24-45a9-bb5b-5b8559bc99c3][Personal relationship manager]]. I have a hard time keeping track of birthdays, etc. Perhaps this would be a helpful tool.
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13
+:LAST_MODIFIED: [2023-03-18 Sat 06:42]
+:END:
+#+title: Lagrange's notation
+#+hugo_custom_front_matter: :slug "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 09:05]
+#+filetags: :concept:
+
+#+begin_quote
+One of the most common modern notations for differentiation [[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]] is named after Joseph Louis Lagrange [[[id:1f3cb355-34a1-4ccc-a91e-df3e303d6f2e][Joseph Lagrange]]], even though it was actually invented by Euler and just popularized by the former. In Lagrange's notation, a prime mark denotes a derivative. If f is a function, then its derivative evaluated at x is written
+
+$$f'(x)$$
+
+It first appeared in print in 1749.[1]
+
+Higher derivatives are indicated using additional prime marks, as in f ″ ( x ) {\displaystyle f''(x)} f''(x) for the second derivative and f ‴ ( x ) {\displaystyle f'''(x)} f'''(x) for the third derivative. The use of repeated prime marks eventually becomes unwieldy. Some authors continue by employing Roman numerals, usually in lower case,[2][3] as in
+
+$$f^{\mathrm {iv} }(x),f^{\mathrm {v} }(x),f^{\mathrm {vi} }(x),\ldots$$
+
+to denote fourth, fifth, sixth, and higher order derivatives. Other authors use Arabic numerals in parentheses, as in
+
+$$f^{(4)}(x),f^{(5)}(x),f^{(6)}(x),\ldots$$
+
+This notation also makes it possible to describe the nth derivative, where n is a variable. This is written
+
+$$f^{(n)}(x)$$
+
+[cite:@NotationDifferentiation2022]
+#+end_quote
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:08]
+:FC_CREATED: 2023-01-18T17:09:32Z
+:FC_TYPE:  double
+:ID:       42164f29-e0ec-4fa2-a8cb-8e0b2e309aa1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    78.21 | 2023-06-04T18:41:28Z |
+| back     | 2.80 |   5 |    45.16 | 2023-04-22T22:24:59Z |
+:END:
+
+$f'(x)$
+
+*** Back
+The first derivative of $f(x)$.
+*** Source
+[cite:@NotationDifferentiation2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:10]
+:FC_CREATED: 2023-01-18T17:10:59Z
+:FC_TYPE:  cloze
+:ID:       68a9f743-a417-4cf3-b105-4bc1e221a768
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    67.48 | 2023-05-17T17:01:55Z |
+|        1 | 2.35 |   5 |    30.08 | 2023-03-30T16:49:11Z |
+:END:
+
+{{$f'(x)$}{notation}@0} $=$ {{$\frac{d(f(x))}{dx}$}{notation}@1}
+
+*** Source
+[cite:@NotationDifferentiation2022]
+#+print_bibliography:

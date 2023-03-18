@@ -1,0 +1,525 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@BloomTaxonomy2022]
+:ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
+:LAST_MODIFIED: [2023-03-18 Sat 06:42]
+:END:
+#+title: Bloom's taxonomy
+#+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:38]
+#+filetags: :concept:
+ 
+#+begin_quote
+Bloom's taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. [...] The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
+
+The models were named after Benjamin Bloom [[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]], who chaired the committee of educators that devised the taxonomy.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+In order from least complex to most complex:
+
+1. Knowledge
+2. Comprehension
+3. Application
+4. Analysis
+5. Synthesis
+6. Evaluation
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/7/72/BloomsTaxonomy.png @ 2021-12-31 12:30:10
+[[file:2021-12-31_12-30-10_BloomsTaxonomy.png]]
+
+* Revised taxonomy
+
+Bloom proposed a revision in 2001 ([cite:@andersonTaxonomyLearningTeachingAssessingRevisionBloomTaxonomyEducationalObjectives2001]).
+
+#+begin_quote
+#+DOWNLOADED: https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg @ 2022-11-15 06:48:11
+[[file:2022-11-15_06-48-11_Blooms-Taxonomy-650x366.jpg]]
+
+[cite:@armstrongBloomTaxonomy]
+#+end_quote
+
+** Remember ([[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]])
+:PROPERTIES:
+:ID:       ef9484a8-00e1-4ae7-b01e-05dc13cba6c8
+:END:
+
+#+begin_quote
+[...] involves recognizing or remembering facts, terms, basic concepts, or answers without necessarily understanding what they mean.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+[[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition systems]] are most effective here.
+
+*** Example
+
+#+begin_quote
+Name three common varieties of apple.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Understand ([[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]])
+:PROPERTIES:
+:ID:       be2ec52a-7c21-46e0-92bb-c566a98b87cb
+:END:
+
+#+begin_quote
+[...] involves demonstrating an understanding of facts and ideas by organizing, summarizing, translating, generalizing, giving descriptions, and stating the main ideas.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+*** Example
+
+#+begin_quote
+Summarize the identifying characteristics of a Golden Delicious apple and a Granny Smith apple.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Apply ([[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]])
+:PROPERTIES:
+:ID:       07273f6a-3b90-48eb-8341-05aa93fbe496
+:END:
+
+#+begin_quote
+[...] involves using acquired knowledge to solve problems in new situations. This involves applying acquired knowledge, facts, techniques and rules. Learners should be able to use prior knowledge to solve problems, identify connections and relationships and how they apply in new situations.
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+*** Example
+
+#+begin_quote
+Would apples prevent scurvy, a disease caused by a deficiency in vitamin C?
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Analyze ([[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]])
+:PROPERTIES:
+:ID:       4aea47e5-059e-4ae2-86d3-6c359ad3ce66
+:END:
+
+#+begin_quote
+Analysis involves examining and breaking information into component parts, determining how the parts relate to one another, identifying motives or causes, making inferences, and finding evidence to support generalizations.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+*** Example
+
+#+begin_quote
+Compare and contrast four ways of serving foods made with apples and examine which ones have the highest health benefits.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Evaluate ([[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]])
+:PROPERTIES:
+:ID:       1e959d75-8832-405b-961d-6adc4b62c458
+:END:
+
+#+begin_quote
+Evaluation involves presenting and defending opinions by making judgments about information, the validity of ideas, or quality of work based on a set of criteria.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+*** Example
+
+#+begin_quote
+Which kinds of apples are suitable for baking a pie, and why?
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Create ([[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]])
+:PROPERTIES:
+:ID:       b7572120-7bc3-40bd-a7e0-2dd80d975114
+:END:
+
+#+begin_quote
+[...] involves building a structure or pattern from diverse elements; it also refers to the act of putting parts together to form a whole or bringing pieces of information together to form a new meaning.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+*** Example
+
+#+begin_quote
+Convert an "unhealthy" recipe for apple pie to a "healthy" recipe by replacing your choice of ingredients. Argue for the health benefits of using the ingredients you chose versus the original ones.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** [[id:f38ffe48-0117-4338-8bd5-e0b05101e64f][Mnemonic]]
+
+#+begin_quote
+Red undies attract all evil cats
+
+[cite:@MnemonicsCoBloomTaxonomy]
+#+end_quote
+
+* Related
+
+- [[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 08:47]
+:FC_CREATED: 2022-11-07T16:49:13Z
+:FC_TYPE:  double
+:ID:       d988016f-1455-4098-b501-7baab12061ce
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    78.83 | 2023-04-27T14:00:44Z |
+| back     | 2.80 |   6 |   133.96 | 2023-07-13T03:05:23Z |
+:END:
+
+[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]] (Learning)
+
+*** Back
+A set of hierarchical models used to classify educational learning objectives into levels of complexity and specificity. The cognitive model has been the primary focus of most traditional education.
+
+In order from least complex to most complex:
+
+1. [[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember]]
+2. [[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand]]
+3. [[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply]]
+4. [[id:4aea47e5-059e-4ae2-86d3-6c359ad3ce66][Analyze]]
+5. [[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate]]
+6. [[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create]]
+
+*** Source
+[cite:@BloomTaxonomy2022]
+** [[id:f38ffe48-0117-4338-8bd5-e0b05101e64f][Mnemonic]] for [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 08:56]
+:FC_CREATED: 2022-11-07T16:58:34Z
+:FC_TYPE:  normal
+:ID:       7e4c5b64-d8a6-45d3-a5d9-3f82f9897d0f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |   7 |    61.19 | 2023-04-28T20:41:33Z |
+:END:
+
+- Red: [[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]]
+- Undies: [[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]]
+- Attract: [[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]]
+- All: [[id:4aea47e5-059e-4ae2-86d3-6c359ad3ce66][Analyze (Bloom's Taxonomy)]]
+- Evil: [[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]]
+- Cats: [[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create (Bloom's Taxonomy)]]
+
+*** Source
+[cite:@MnemonicsCoBloomTaxonomy]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:32]
+:FC_CREATED: 2022-11-18T21:33:46Z
+:FC_TYPE:  double
+:ID:       e09a46fa-2b77-4a9d-bcfb-c2e55dab1c96
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   7 |   112.84 | 2023-07-09T09:53:31Z |
+| back     | 2.50 |   6 |    81.90 | 2023-05-01T16:33:51Z |
+:END:
+
+[[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]]
+
+*** Back
+Learning objective concerned with retaining facts, terms, and basic concepts
+*** Source
+[cite:@BloomTaxonomy2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:33]
+:FC_CREATED: 2022-11-18T21:34:48Z
+:FC_TYPE:  double
+:ID:       1af59239-1cb6-4449-a885-4c1f71307137
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   4 |    12.98 | 2023-03-23T02:40:16Z |
+| back     | 2.20 |   6 |    58.69 | 2023-04-16T19:46:31Z |
+:END:
+
+[[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]]
+
+*** Back
+Learning objective concerned with organizing, summarizing, translating, generalizing, and explaining facts and ideas.
+*** Source
+[cite:@BloomTaxonomy2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:33]
+:FC_CREATED: 2022-11-18T21:34:48Z
+:FC_TYPE:  double
+:ID:       ca6822fa-b767-48fe-9d1d-17cc7e40f9b9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   111.97 | 2023-07-01T04:40:56Z |
+| back     | 2.65 |   6 |   119.93 | 2023-07-11T12:41:54Z |
+:END:
+
+[[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]]
+
+*** Back
+Learning objective concerned with using acquired knowledge to solve problems in new situations.
+*** Source
+[cite:@BloomTaxonomy2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:33]
+:FC_CREATED: 2022-11-18T21:34:48Z
+:FC_TYPE:  double
+:ID:       43c871c5-1c4f-4d74-9eeb-15677d1e7b85
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   4 |    13.64 | 2023-03-29T06:32:27Z |
+| back     | 2.80 |   6 |   129.48 | 2023-07-25T01:47:35Z |
+:END:
+
+[[id:4aea47e5-059e-4ae2-86d3-6c359ad3ce66][Analyze (Bloom's Taxonomy)]]
+
+*** Back
+Learning objective concerned with:
+
+- examining and breaking information into component parts
+- determining how the parts relate to one another
+- identifying motives and causes
+- making inferences
+- finding evidence to support generalizations
+*** Source
+[cite:@BloomTaxonomy2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:33]
+:FC_CREATED: 2022-11-18T21:34:48Z
+:FC_TYPE:  double
+:ID:       e87e497a-09d8-450c-bc05-a0c30c51035f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   7 |    86.04 | 2023-06-12T14:33:31Z |
+| back     | 2.50 |   6 |    82.31 | 2023-05-06T01:08:30Z |
+:END:
+
+[[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]]
+
+*** Back
+Learning objective concerned with:
+
+- presenting and defending opinions by making judgments about information
+- the validity of ideas
+- quality of work based on a set of criteria.
+*** Source
+[cite:@BloomTaxonomy2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:33]
+:FC_CREATED: 2022-11-18T21:34:48Z
+:FC_TYPE:  double
+:ID:       6459a47c-8425-48a2-a2db-cb73d95a4bbf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    58.33 | 2023-03-29T10:06:20Z |
+| back     | 2.95 |   6 |   126.98 | 2023-07-16T23:57:53Z |
+:END:
+
+[[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create (Bloom's Taxonomy)]]
+
+*** Back
+Learning objective concerned with building a structure or pattern from diverse elements; it also refers to the act of putting parts together to form a whole or bringing pieces of information together to form a new meaning.
+*** Source
+[cite:@BloomTaxonomy2022]
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:39]
+:FC_CREATED: 2022-11-18T21:40:49Z
+:FC_TYPE:  double
+:ID:       1309d082-f63e-4e62-8592-1280048fa40b
+:FC_BLOCKED_BY:       e09a46fa-2b77-4a9d-bcfb-c2e55dab1c96
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   107.83 | 2023-05-18T12:23:45Z |
+| back     | 1.90 |   6 |    44.87 | 2023-03-23T20:50:23Z |
+:END:
+
+[[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]] (Apples)
+
+*** Back
+
+#+begin_quote
+Name three common varieties of apple.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:39]
+:FC_CREATED: 2022-11-18T21:40:49Z
+:FC_TYPE:  double
+:ID:       ebc2c337-0910-4ad8-a789-98acc7af02fc
+:FC_BLOCKED_BY:       1af59239-1cb6-4449-a885-4c1f71307137
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    93.62 | 2023-06-17T05:55:42Z |
+| back     | 2.35 |   6 |    74.74 | 2023-05-31T07:50:07Z |
+:END:
+
+[[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]] (Apples)
+
+*** Back
+
+#+begin_quote
+Summarize the identifying characteristics of a Golden Delicious apple and a Granny Smith apple.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:39]
+:FC_CREATED: 2022-11-18T21:40:49Z
+:FC_TYPE:  double
+:ID:       c92dcc38-c303-4dd8-acba-2be67b584bc6
+:FC_BLOCKED_BY:       ca6822fa-b767-48fe-9d1d-17cc7e40f9b9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    44.37 | 2023-04-01T00:26:32Z |
+| back     | 2.95 |   5 |    48.04 | 2023-04-02T15:08:36Z |
+:END:
+
+[[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]] (Apples)
+
+*** Back
+
+#+begin_quote
+Would apples prevent scurvy, a disease caused by a deficiency in vitamin C?
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:39]
+:FC_CREATED: 2022-11-18T21:40:49Z
+:FC_TYPE:  double
+:ID:       718eaa81-4d62-4d09-aa62-905c93919cbd
+:FC_BLOCKED_BY:       43c871c5-1c4f-4d74-9eeb-15677d1e7b85
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    29.42 | 2023-03-25T13:40:35Z |
+| back     | 2.65 |   5 |    42.88 | 2023-03-27T14:48:25Z |
+:END:
+
+[[id:4aea47e5-059e-4ae2-86d3-6c359ad3ce66][Analyze (Bloom's Taxonomy)]] (Apples)
+
+*** Back
+
+#+begin_quote
+Compare and contrast four ways of serving foods made with apples and examine which ones have the highest health benefits.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:39]
+:FC_CREATED: 2022-11-18T21:40:49Z
+:FC_TYPE:  double
+:ID:       966aa72b-bd95-40d0-ae53-b28ddbb86e19
+:FC_BLOCKED_BY:       e87e497a-09d8-450c-bc05-a0c30c51035f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    49.21 | 2023-03-21T19:09:31Z |
+| back     | 2.80 |   5 |    46.93 | 2023-03-18T14:38:58Z |
+:END:
+
+[[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]] (Apples)
+
+*** Back
+
+#+begin_quote
+Which kinds of apples are suitable for baking a pie, and why?
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 13:39]
+:FC_CREATED: 2022-11-18T21:40:49Z
+:FC_TYPE:  double
+:ID:       efd207b7-6345-4ae8-b266-113b5e16dc33
+:FC_BLOCKED_BY:       6459a47c-8425-48a2-a2db-cb73d95a4bbf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    50.26 | 2023-03-21T22:36:08Z |
+| back     | 2.65 |   6 |    90.37 | 2023-06-07T03:35:22Z |
+:END:
+
+[[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create (Bloom's Taxonomy)]] (Apples)
+
+
+*** Back
+
+#+begin_quote
+Convert an "unhealthy" recipe for apple pie to a "healthy" recipe by replacing your choice of ingredients. Argue for the health benefits of using the ingredients you chose versus the original ones.
+
+[cite:@BloomTaxonomy2022]
+#+end_quote
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-14 Tue 20:48]
+:FC_CREATED: 2023-02-15T04:49:16Z
+:FC_TYPE:  cloze
+:ID:       a8825ec3-394d-496b-b716-c9574d7e01ec
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   4 |    17.36 | 2023-03-20T22:19:37Z |
+:END:
+
+{{[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]}@0} developed [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]
+
+*** Source
+[cite:@BloomTaxonomy2022]
+#+print_bibliography:

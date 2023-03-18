@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b8a0fa22-27a1-4f7e-8f33-ee2710494eba
+:ROAM_REFS: [cite:@QuoteAlbertCamus]
+:LAST_MODIFIED: [2023-03-02 Thu 18:37]
+:END:
+#+title: Life is the sum of all your choices
+#+hugo_custom_front_matter: :slug "b8a0fa22-27a1-4f7e-8f33-ee2710494eba"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-02 Thu 18:36]
+#+filetags: :quote:
+
+#+begin_quote
+Life is the sum of all your choices.
+
+So, what are you doing today?
+
+[[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [cite:@QuoteAlbertCamus]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       d8ff4c8c-4032-473b-9060-8bd7903784c8
+:LAST_MODIFIED: [2023-01-30 Mon 08:22]
+:END:
+#+title: Why is it always the libs?
+#+hugo_custom_front_matter: :slug "d8ff4c8c-4032-473b-9060-8bd7903784c8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-01 Tue 08:54]
+#+filetags: :quote:
+
+#+begin_quote
+People will tell you, "I don't care about anything, I just like triggering the libs," but why is it always libs? It is piss easy (and also hilarious) to upset conservatives, why only go after the SJWs? The easy answer is, well, if you upset a feminist, you might make her cry; if you upset a Nazi, he might stab you, and that has a cooling effect. But the more obvious answer is that they actually agree with the racist, MRA, and TERF talking points they repeat, but would rather not think about it.
+
+[cite:@danskinCardSaysMoops2019]
+#+end_quote
+* Flashcards
+** [[id:d8ff4c8c-4032-473b-9060-8bd7903784c8][Why is it always the libs?]] relates to {{[[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]}{[[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]}@0} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-01T16:43:28Z
+:FC_TYPE:  cloze
+:ID:       b56c9dd0-982e-437d-bebe-e59ab7bf76f4
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    79.99 | 2023-04-17T13:28:55Z |
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-01 Tue 09:43]
+:FC_CREATED: 2022-11-01T16:44:53Z
+:FC_TYPE:  double
+:ID:       07ddcdce-7045-4a59-8df9-023558e66e56
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   106.49 | 2023-05-12T04:24:40Z |
+| back     | 2.20 |   6 |    78.11 | 2023-04-18T19:06:27Z |
+:END:
+
+[[id:d8ff4c8c-4032-473b-9060-8bd7903784c8][Why is it always the libs?]]
+
+*** Back
+A rejection of the phrase "I just like triggering the libs". It's easy and hilarious to trigger conservatives. If you're "just here to watch the world burn" or "don't care about anything", why do you always trigger the libs?
+*** Source
+[cite:@danskinCardSaysMoops2019]
+#+print_bibliography:

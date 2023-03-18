@@ -1,0 +1,133 @@
+:PROPERTIES:
+:ID:       f7ca3e99-0356-4651-996e-542a11d67f50
+:LAST_MODIFIED: [2023-03-10 Fri 21:22]
+:END:
+#+title: Queue
+#+hugo_custom_front_matter: :slug "f7ca3e99-0356-4651-996e-542a11d67f50"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 17:37]
+#+filetags: :concept:
+
+A queue is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]].
+
+#+begin_quote
+In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence.
+
+[...]
+
+The operation of adding an element to the rear of the queue is known as enqueue, and the operation of removing an element from the front is known as dequeue. Other operations may also be allowed, often including a peek or front operation that returns the value of the next element to be dequeued without dequeuing it.
+
+[...]
+
+The operations of a queue make it a [[[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]]] ([[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][FIFO]]) data structure. In a [[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][FIFO]] data structure, the first element added to the queue will be the first one to be removed. [...] Common implementations are circular buffers and linked lists.
+
+[cite:@QueueAbstractDataType2022]
+#+end_quote
+
+* Types
+
+- [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       eeba0f4b-b787-496c-8bb4-87b69ba4679e
+:ANKI_NOTE_ID: 1656857028258
+:FC_CREATED: 2022-07-03T14:03:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   7 |   187.91 | 2023-07-12T13:00:30Z |
+| front    | 2.20 |   7 |   147.98 | 2023-05-28T21:20:50Z |
+:END:
+[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
+*** Back
+An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines a collection of entities, maintained in sequence.
+*** Source
+[cite:@QueueAbstractDataType2022]
+** A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] follows {{[[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]]}{ordering}@1} :fc:
+:PROPERTIES:
+:ID:       6bba75ef-a78e-4f76-a220-3edcb5c1ecaf
+:ANKI_NOTE_ID: 1656857029683
+:FC_CREATED: 2022-07-27T15:37:46Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.95 |   7 |   368.17 | 2024-03-13T09:29:52Z |
+:END:
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
+
+
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       55a1ae59-2ad2-4a22-bcb6-6d327d4dfbe6
+:ANKI_NOTE_ID: 1656857030657
+:FC_CREATED: 2022-07-03T14:03:50Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   135.13 | 2023-06-13T22:09:55Z |
+:END:
+[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] and [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+*** Back
+- [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]: [[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]]
+- [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]: [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][First in, last out]]
+*** Source
+[cite:@QueueAbstractDataType2022]
+** A {{[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]}@0} is the opposite of a {{[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}@1} :fc:
+:PROPERTIES:
+:ID:       c214c640-6c62-47a0-9842-e979eb39d61a
+:ANKI_NOTE_ID: 1656857031382
+:FC_CREATED: 2022-07-03T14:03:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   7 |   301.91 | 2023-12-16T01:07:54Z |
+|        0 | 2.50 |   7 |   269.40 | 2023-10-22T02:33:35Z |
+:END:
+*** Extra
+A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] is [[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]] while a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]] is [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][First in, last out]].
+*** Source
+[cite:@QueueAbstractDataType2022]
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       1ec61869-52a9-4633-bb7d-915b63c3fa72
+:ANKI_NOTE_ID: 1656857031857
+:FC_CREATED: 2022-07-03T14:03:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   130.98 | 2023-03-21T16:36:17Z |
+| back     | 2.80 |   7 |   260.63 | 2023-10-16T07:38:20Z |
+:END:
+
+Common API of a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
+
+*** Back
+- =enqueue=
+- =dequeue=
+- =peek=
+*** Source
+[cite:@QueueAbstractDataType2022]
+#+print_bibliography:

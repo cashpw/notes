@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       a5079f3d-9926-4de1-8b60-5d5e64396a01
+:ROAM_ALIASES: "Euclidian norm"
+:ROAM_REFS: [cite:@EuclideanSpace2022]
+:LAST_MODIFIED: [2023-02-17 Fri 07:02]
+:END:
+#+title: L-two norm
+#+hugo_custom_front_matter: :slug "a5079f3d-9926-4de1-8b60-5d5e64396a01"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 08:45]
+#+filetags: :concept:
+
+$\|\vec{x}\|_2 = \sqrt{\vec{x}\cdot\vec{x}}$
+
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:ID:       d2fb713a-f952-4c20-bf7e-a13db2d47f2c
+:ANKI_NOTE_ID: 1640628541352
+:FC_CREATED: 2021-12-27T18:09:01Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   212.14 | 2023-06-30T21:13:18Z |
+|        1 | 2.65 |   8 |   220.28 | 2023-07-09T22:47:21Z |
+|        2 | 2.80 |   8 |   344.41 | 2024-01-28T00:59:20Z |
+:END:
+
+- {{p-norm for $p = 2$}@0}
+- {{Euclidian norm}@1}
+- {{$L^2$ norm}@2}
+
+*** Source
+[cite:@NormMathematics2022]
+** {{$\|\vec{x}\|_2$}{norm}@0} \(=\) {{$\sqrt{\vec{x}\cdot\vec{x}}$}@1} :fc:
+:PROPERTIES:
+:ID:       0c66ab1d-abef-4b00-b697-40f6850c8558
+:ANKI_NOTE_ID: 1656854715402
+:FC_CREATED: 2022-07-03T13:25:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   275.11 | 2023-10-23T17:04:39Z |
+|        1 | 2.50 |   7 |   144.64 | 2023-05-26T19:19:56Z |
+:END:
+
+*** Source
+[cite:@NormMathematics2022]
+
+#+print_bibliography:

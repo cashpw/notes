@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       7c9624d9-8abd-4581-b0df-c5db61516818
+:LAST_MODIFIED: [2023-02-13 Mon 13:57]
+:ROAM_ALIASES: S-curve "Sigmoid curve"
+:ROAM_REFS: [cite:@SigmoidFunction2022]
+:END:
+#+title: Sigmoid function
+#+hugo_custom_front_matter: :slug "7c9624d9-8abd-4581-b0df-c5db61516818"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-14 Wed 10:34]
+#+filetags: :concept:
+
+#+begin_quote
+A sigmoid function is a mathematical function having a characteristic "S"-shaped curve or sigmoid curve [[[id:7c9624d9-8abd-4581-b0df-c5db61516818][Sigmoid curve]]].
+
+[cite:@SigmoidFunction2022]
+#+end_quote
+
+* Flashcards
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       8f319a19-f393-4e3f-b17f-35b888758c7c
+:ANKI_NOTE_ID: 1640627901871
+:FC_CREATED: 2021-12-27T17:58:21Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  12 |   341.05 | 2024-01-20T15:33:08Z |
+| front    | 2.00 |  15 |   131.19 | 2023-05-06T21:20:17Z |
+:END:
+
+[[id:7c9624d9-8abd-4581-b0df-c5db61516818][Sigmoid function]]
+
+*** Back
+A bounded, differentiable, real function defined for all $\mathbb{R}$ which has a non-negative derivative at each point and has exactly one inflection point.
+
+*** Source
+[cite:@SigmoidFunction2022]
+#+print_bibliography:

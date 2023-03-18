@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       7f52f95f-c2f1-450f-b729-5738e4664c44
+:LAST_MODIFIED: [2022-12-28 Wed 15:09]
+:ROAM_REFS: [cite:@armadilloclayDampBox]
+:END:
+#+title: Damp box
+#+hugo_custom_front_matter: :slug "7f52f95f-c2f1-450f-b729-5738e4664c44"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-28 Wed 12:06]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+A damp box is a humid container in which to store in-progress claywork. You are creating a makeshift version of this every time you put a plastic bag over an incomplete piece. The advantange of a damp box is that you can do this without the hassle of the plastic bag, or the potential surface marring it can cause.
+
+[cite:@armadilloclayDampBox]
+#+end_quote
+
+Be aware of [[id:fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa][Lime popping]] which can occur if chunks of plaster get into your clay.
+
+* Build a damp box
+
+** Material
+
+1. Plastic container
+2. Enough plaster to form a 1-3 inch ([cite:@lesleyHowMakeDampBoxClay2019], [cite:@yarnellMakeClayDampBoxLess20]) layer on the bottom of your plastic container
+
+** Steps
+
+1. Mix the plaster
+
+   Refer to the instructions provided by plaster provider.
+
+2. [[id:7b23cb95-12d8-44e3-8caf-5ad91e596e1c][Pour the plaster]] and wait for it to dry
+
+* Usage
+
+Add some water to the plaster, then add your clay and close the lid to seal in the moisture.
+
+* Storage
+
+Store with the lid off to avoid mold growth.
+
+* TODO [#2] Flashcards
+#+print_bibliography:

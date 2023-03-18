@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       b3fc99fa-5b7e-4e45-83c2-6d283aecca9a
+:ROAM_ALIASES: "Self-balancing binary search trees"
+:LAST_MODIFIED: [2023-03-17 Fri 06:54]
+:END:
+#+title: Self-balancing binary search tree
+#+hugo_custom_front_matter: :slug "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 16:50]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In computer science, a self-balancing binary search tree (BST) is any node-based [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] that automatically keeps its height (maximal number of levels below the root) small in the face of arbitrary item insertions and deletions.
+
+[cite:@SelfbalancingBinarySearchTree2022]
+#+end_quote
+
+* Implementations
+- [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]
+- [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]]
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       ca5bbd72-cfcc-4b30-bb95-ad7075ab59e1
+:ANKI_NOTE_ID: 1658620453632
+:FC_CREATED: 2022-07-23T23:54:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   6 |    45.89 | 2023-03-30T15:02:58Z |
+| front    | 2.75 |   8 |    91.36 | 2023-03-22T23:01:05Z |
+:END:
+
+[[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]
+
+*** Back
+A node-based [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] which automatically keeps its height small after an arbitrary number of insertions and deletions.
+
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]
+
+** Example(s) (balance) :fc:
+:PROPERTIES:
+:ID:       6f435a7a-795e-434a-b3a3-db39352f3daa
+:ANKI_NOTE_ID: 1658620543031
+:FC_CREATED: 2022-07-23T23:55:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   7 |   303.27 | 2024-01-14T20:27:34Z |
+| back     | 2.20 |   7 |   113.64 | 2023-06-25T05:04:14Z |
+:END:
+
+[[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]
+
+*** TODO [#2] Back
+- [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]
+- [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]]
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]
+
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       0345b1e1-c33c-4db4-b727-5fa4fbe6ddf3
+:ANKI_NOTE_ID: 1658620848981
+:FC_CREATED: 2022-07-24T00:00:48Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   233.90 | 2023-09-17T12:37:44Z |
+:END:
+
+[[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]] and [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]]
+
+*** Back
+
+For an arbitrary number of insertions and deletions:
+
+- [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search trees]] keep their heights /small/
+- A [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]] keeps its height \(O(\log n)\) for a size of \(n\)
+
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]
+#+print_bibliography:

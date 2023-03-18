@@ -1,0 +1,141 @@
+:PROPERTIES:
+:ID:       b04fc3f4-7bb8-4cc3-b2b7-029f60022d84
+:LAST_MODIFIED: [2023-03-18 Sat 08:27]
+:ROAM_REFS: [cite:@DuplexTelecommunications2023]
+:END:
+#+title: Duplex
+#+hugo_custom_front_matter: :slug "b04fc3f4-7bb8-4cc3-b2b7-029f60022d84"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-18 Sat 08:20]
+#+filetags: :concept:
+
+#+begin_quote
+A duplex communication system is a point-to-point system composed of two or more connected parties or devices that can communicate with one another in both directions.
+#+end_quote
+
+* Full-duplex
+:PROPERTIES:
+:ID:       01c191e3-b264-4e86-bfcf-ecc23c67acf4
+:END:
+
+#+begin_quote
+In a full-duplex system, both parties can communicate with each other simultaneously. An example of a full-duplex device is plain old telephone service; the parties at both ends of a call can speak and be heard by the other party simultaneously.
+
+[cite:@DuplexTelecommunications2023]
+#+end_quote
+
+* Half-duplex
+:PROPERTIES:
+:ID:       ed9c7f81-7adc-4a2f-bd10-b14411a11c05
+:ROAM_ALIASES: Semiduplex
+:END:
+
+#+begin_quote
+In a half-duplex or semiduplex system, both parties can communicate with each other, but not simultaneously; the communication is one direction at a time. An example of a half-duplex device is a walkie-talkie, a two-way radio that has a push-to-talk button. When the local user wants to speak to the remote person, they push this button, which turns on the transmitter and turns off the receiver, preventing them from hearing the remote person while talking. To listen to the remote person, they release the button, which turns on the receiver and turns off the transmitter. This terminology is not completely standardized, and some sources define this mode as simplex [[[id:27a0ad69-c248-4dea-9807-4926ec05412c][Simplex]]].
+
+[cite:@DuplexTelecommunications2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:22]
+:FC_CREATED: 2023-03-18T15:23:25Z
+:FC_TYPE:  double
+:ID:       537607e6-3944-4312-9715-be66f772bcc8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:23:25Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:23:25Z |
+:END:
+
+[[id:01c191e3-b264-4e86-bfcf-ecc23c67acf4][Full-duplex]]
+
+*** Back
+A [[id:b04fc3f4-7bb8-4cc3-b2b7-029f60022d84][Duplex]] system in which both parties can communicate in both directions simultaneously.
+*** Source
+[cite:@DuplexTelecommunications2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:23]
+:FC_CREATED: 2023-03-18T15:23:55Z
+:FC_TYPE:  double
+:ID:       51ad429b-ea05-438c-beee-b2632e9e260e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:23:55Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:23:55Z |
+:END:
+
+[[id:b04fc3f4-7bb8-4cc3-b2b7-029f60022d84][Duplex]]
+
+*** Back
+A point-to-point communication system composed of two or more parties which can communicate with one another in both directions.
+*** Source
+[cite:@DuplexTelecommunications2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:23]
+:FC_CREATED: 2023-03-18T15:25:03Z
+:FC_TYPE:  double
+:ID:       b7f3a2cb-3ffa-4ce1-9e9e-e7c47be6c993
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:25:03Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:25:03Z |
+:END:
+
+[[id:ed9c7f81-7adc-4a2f-bd10-b14411a11c05][Half-duplex]]
+
+*** Back
+A [[id:b04fc3f4-7bb8-4cc3-b2b7-029f60022d84][Duplex]] system in which the parties cannot communicate simultaneously.
+*** Source
+[cite:@DuplexTelecommunications2023]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:26]
+:FC_CREATED: 2023-03-18T15:26:45Z
+:FC_TYPE:  double
+:ID:       bd3d68e2-88a1-4eb1-89cd-bf7c238215b0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:26:45Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:26:45Z |
+:END:
+
+[[id:01c191e3-b264-4e86-bfcf-ecc23c67acf4][Full-duplex]]
+
+*** Back
+- Telephones
+*** Source
+[cite:@DuplexTelecommunications2023]
+#+print_bibliography:
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:26]
+:FC_CREATED: 2023-03-18T15:26:45Z
+:FC_TYPE:  double
+:ID:       47c54505-9bf6-4393-87f0-222674a919d0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:26:45Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:26:45Z |
+:END:
+
+[[id:ed9c7f81-7adc-4a2f-bd10-b14411a11c05][Half-duplex]]
+
+*** Back
+- Push-to-talk two-way radios
+*** Source
+[cite:@DuplexTelecommunications2023]
+#+print_bibliography:

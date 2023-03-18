@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       70cbebc9-8936-4d52-885a-76d747c6577f
+:LAST_MODIFIED: [2023-02-24 Fri 19:52]
+:END:
+#+title: Heap
+#+hugo_custom_front_matter: :slug "70cbebc9-8936-4d52-885a-76d747c6577f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 14:46]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] is a specialized [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]-based [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] which is essentially [a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]] that satisfies the Heap property. In a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap]], for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a [[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap]], the key of P is less than or equal to the key of C.
+
+[cite:@HeapDataStructure2022]
+#+end_quote
+
+#+begin_quote
+The [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] is one maximally efficient implementation of an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] called a [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]].
+
+[cite:@HeapDataStructure2022]
+#+end_quote
+
+* Types
+
+- [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]]
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       51c2f4c4-f4ae-442f-bb20-e123c37c6165
+:ANKI_NOTE_ID: 1656857345608
+:FC_CREATED: 2022-07-03T14:09:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.75 |   7 |    59.66 | 2023-04-15T20:36:07Z |
+| front    | 2.50 |   7 |   276.64 | 2023-11-28T19:18:59Z |
+:END:
+
+[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]
+
+*** Back
+A specialized [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]-based [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] which is, essentially, a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]] which satisfies the heap property.
+
+*** Source
+[cite:@HeapDataStructure2022]
+#+print_bibliography:

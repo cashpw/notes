@@ -1,0 +1,115 @@
+:PROPERTIES:
+:ID:       a32b0bd9-5555-4630-b486-4d070fb5c7f0
+:END:
+#+title: Custom Anki Notes
+#+hugo_custom_front_matter: :slug "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-11 Fri 11:30]
+
+Note: I've since [[https://github.com/l3kn/org-fc/issues/84][migrated]] to [[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]].
+
+I use [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]] to help myself remember the things I learn. I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.
+
+Most of my cards include a common field: =Source=. I like to keep track of where I found the information that went into the card, be that Wikipedia, a textbook, a blog, etc.
+
+I've included a download link with each of the custom note types rather than listing the explicit field and card template information. Each =apkg= file contains one instance of the specified note type. Importing it into your Anki will also provide you with the associated note type and you can delete the specific instance of the card.
+
+* General Purpose
+
+** Basic with Source
+
+The base Basic note with an additional field for a source.
+
+** Basic (and reversed card) with Source
+
+The base "Basic (and reversed card)" note with an additional field for a source.
+
+** Cloze with Source
+
+The base Cloze note with an additional field for a source.
+
+* Authors and their Work
+
+** Author
+
+For associating an author with their sources.
+
+The =Author= note includes a field for the author's name and a few fields for sources, =Source1=, =Source2=, etc. A single card is created which asks me to recall the full list of sources given the author's name.
+
+[[https://drive.google.com/file/d/1ETNtHiZb3CBKtNYiLAN8UFGQqbRsE6HU/view?usp=sharing][Download Author note]]
+
+** Source
+
+A particular work by one or more authors.
+
+The =Source= note includes a field for the source's title and a few fields for authors, =Author1=, =Author2=, etc. A single card is created which asks me to recall the full list of authors given the source's title.
+
+[[https://drive.google.com/file/d/1ZrWGc0AZdMQ0FrPxyKs5r-uVeeXlTQ-0/view?usp=sharing][Download Source note]]
+
+* Concepts and Terms
+
+** Definition
+
+For defining terms and concepts.
+
+The =Definition= note includes fields for the term, definition, context, and a source. Two cards are created for each instance of this note. The first asks me to recall the definition given the term and the context. The second asks me to recall the term given the definition and the context.
+
+[[https://drive.google.com/file/d/1wVYeGn51nvzOn-5V1UyDqsBjRO9CXEcc/view?usp=sharing][Download Definition note]]
+
+** Describe
+
+For prompting a more well-rounded description of a concept, rather than a single point.
+
+The =Describe= note includes fields for the concept, context, description, and source. Two cards are created for each instance of this note. The first asks me to recall the description given the concept and context. The second asks me to recall the concept given the description and context.
+
+[[https://drive.google.com/file/d/1OE5H4XfflaY4DduAIIE6Nys0kzMZjK-D/view?usp=sharing][Download Describe note]]
+
+** Examples
+
+For examples of concepts.
+
+The =Example= note includes fields for the concept, example(s), and source. Two cards are created for each instance of this note. The first asks me to provide examples for the given concept. The second asks me to recall the concept given one or more examples.
+
+[[https://drive.google.com/file/d/1NkN8qngjtQnRhPK6MMMKsqIGshqk2Mez/view?usp=sharing][Download Examples note]]
+
+* Related Concepts
+
+** AKA
+
+For concepts and terms with which go by multiple names.
+
+The =AKA= note includes multiple term fields (=Term1=, =Term2=, etc). One card is created for each term I include. These cards ask me to recall the other names given a single name.
+
+[[https://drive.google.com/file/d/16zHILfAHGRearvVJD1T77n9DkrHvaSLC/view?usp=sharing][Download AKA note]]
+
+** Compare/Contrast
+
+For highlighting the difference and similarities between related concepts.
+
+The =Compare/Contrast= note includes fields for the concept, context, and comparisons and contrasts. A single card is created which asks me to recall the similarities and contrasts given the concept and context.
+
+[[https://drive.google.com/file/d/1lUpmLj-O_pniCMp2RxUOkihq_8qoOEWo/view?usp=sharing][Download Compare/Contrast note]]
+
+** Denotes
+
+For associating a term or concept with one or more, often symbolic, representations.
+
+The =Denotes= note includes a field for context and description as well as multiple fields for symbols (=Symbol1=, =Symbol2=, etc). A card is created for each symbol I provide which asks me to recall the description given the symbol and context. One more card is created, regardless of the number of symbols I provide, which asks me to recall all of the symbols given the description and context.
+
+[[https://drive.google.com/file/d/18HLY_WY2tg81ztS5soMiyWp1acKX47F3/view?usp=sharing][Download Denotes note]]
+
+** Equivalence
+
+For mathematical equivalencies: =A = B = C=.
+
+The =Equivalence= note includes six pairs of fields for an expression and label: =Expression1=, =Label1=, =Expression2=, =Label2=, etc. The labels are used to imitate the appearance of a labeled Cloze deletion (eg: "The quick [color] fox jumps over the lazy dog"). Up to 30 cards are created for each instance of this note to account for all combinations of the six pairs of fields.
+
+[[https://drive.google.com/file/d/1pF_iPI5bSd7xfmgyVj1D6T4Xb7P1Wmtm/view?usp=sharing][Download Equivalence note]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

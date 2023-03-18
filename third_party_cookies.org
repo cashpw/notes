@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       2651f5d4-f8db-45b1-9256-aadb99c39575
+:LAST_MODIFIED: [2023-02-28 Tue 20:04]
+:END:
+#+title: Third-party cookies
+#+hugo_custom_front_matter: :slug "2651f5d4-f8db-45b1-9256-aadb99c39575"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-20 Wed 10:31]
+#+filetags: :concept:
+
+#+begin_quote
+If the domain and scheme are different, the [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP cookie]] is not considered to be from the same site, and is referred to as a third-party cookie.
+
+[cite:@mdnUsingHTTPCookies]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       ddb33584-f34e-4b0c-8e7e-d88b667ce5b1
+:ANKI_NOTE_ID: 1658338830932
+:FC_CREATED: 2022-07-20T17:40:30Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   303.32 | 2023-12-29T11:44:29Z |
+| front    | 2.20 |   7 |   142.75 | 2023-06-02T09:46:16Z |
+:END:
+[[id:2651f5d4-f8db-45b1-9256-aadb99c39575][Third-party cookies]]
+*** Back
+[[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]] whose =Domain= and scheme are *not* the same as the page.
+*** Extra
+Example:
+
+- A cookie with ~Domain=example.com~ on =https://www.google.com=.
+*** Source
+[cite:@mdnUsingHTTPCookies]
+#+print_bibliography:

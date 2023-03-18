@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       b2981e3a-4e5b-41b2-a040-2fb58a7735a5
+:LAST_MODIFIED: [2022-12-24 Sat 09:40]
+:END:
+#+title: Trevor Hastie
+#+hugo_custom_front_matter: :slug "b2981e3a-4e5b-41b2-a040-2fb58a7735a5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:19]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       76a0629f-6496-4385-9a6d-1be93bfb8bf2
+:ANKI_NOTE_ID: 1640627806474
+:FC_CREATED: 2021-12-27T17:56:46Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   175.28 | 2023-05-01T04:44:25Z |
+:END:
+[[id:b2981e3a-4e5b-41b2-a040-2fb58a7735a5][Trevor Hastie]]
+*** Back
+[[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]

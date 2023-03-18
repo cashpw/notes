@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       097f418c-8af5-498a-a5e3-37bab614556e
+:LAST_MODIFIED: [2023-02-23 Thu 19:39]
+:END:
+#+title: Cognitive dissonance
+#+hugo_custom_front_matter: :slug "097f418c-8af5-498a-a5e3-37bab614556e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-25 Sat 17:29]
+#+filetags: :concept:
+
+
+#+begin_quote
+[...] the perception of contradictory information. Relevant items of information include a person's actions, feelings, ideas, beliefs, values, and things in the environment. Cognitive dissonance is typically experienced as psychological stress when persons participate in an action that goes against one or more of those things. According to this theory, when two actions or ideas are not psychologically consistent with each other, people do all in their power to change them until they become consistent. The discomfort is triggered by the person's belief clashing with new information perceived, wherein the individual tries to find a way to resolve the contradiction to reduce their discomfort.
+
+[cite:@CognitiveDissonance2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Psychology) :fc:
+:PROPERTIES:
+:ID:       7b95310c-9675-4406-a614-de20e3aa6e93
+:ANKI_NOTE_ID: 1656857416858
+:FC_CREATED: 2022-07-03T14:10:16Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.45 |   7 |    44.86 | 2023-04-10T00:16:00Z |
+| front    | 2.95 |   5 |    53.39 | 2023-03-23T02:08:18Z |
+:END:
+[[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]]
+*** Back
+The perception of contradictory information. Typically experienced when individuals act, think, believe, etc, in a way that doesn't match the information in front of them.
+*** Source
+[cite:@CognitiveDissonance2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       80ca3335-1857-4110-9574-d65b3932de29
+:ANKI_NOTE_ID: 1656857417682
+:FC_CREATED: 2022-07-03T14:10:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   7 |   120.62 | 2023-04-15T11:27:04Z |
+| back     | 2.50 |   8 |   141.17 | 2023-05-19T21:47:24Z |
+:END:
+[[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]]
+*** Back
+- Telling your family that you don't like apples before retiring to your bedroom to eat apples in secret.
+- Thinking of yourself as non-racist while belonging to a group which enacts racist policy.
+*** Source
+[cite:@CognitiveDissonance2022]
+#+print_bibliography:

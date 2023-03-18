@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       753a3fe1-3576-4549-8a5d-a8c901f6a708
+:ROAM_REFS: [cite:@ContinuousFunction2023]
+:ROAM_ALIASES: "Discontinuous function"
+:LAST_MODIFIED: [2023-03-13 Mon 08:01]
+:END:
+#+title: Continuous function
+#+hugo_custom_front_matter: :slug "753a3fe1-3576-4549-8a5d-a8c901f6a708"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 06:49]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a continuous function is a function such that a continuous variation (that is a change without jump) of the argument induces a continuous variation of the value of the function. This means that there are no abrupt changes in value, known as discontinuities. More precisely, a function is continuous if arbitrarily small changes in its value can be assured by restricting to sufficiently small changes of its argument. A discontinuous function is a function that is not continuous.
+
+[cite:@ContinuousFunction2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:50]
+:FC_CREATED: 2023-01-27T14:51:45Z
+:FC_TYPE:  double
+:ID:       015e7c6e-d63d-462b-b3f2-c1a59ff97ac8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.10 | 2023-04-10T16:33:54Z |
+| back     | 2.80 |   5 |    46.97 | 2023-04-29T14:14:02Z |
+:END:
+
+[[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][Continuous function]]
+
+*** Back
+- Colloquially: A function whose output forms an unbroken line; no jumping around like in a [[id:d1a8dddc-9e5c-4e4f-ac74-a2079025130c][Piecewise function]]
+*** Source
+[cite:@ContinuousFunction2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:58]
+:FC_CREATED: 2023-01-27T14:59:15Z
+:FC_TYPE:  cloze
+:ID:       65c1d498-6e1b-4e59-921e-0cb3a795a279
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    34.58 | 2023-04-08T04:51:32Z |
+:END:
+
+Differentiable functions {{$\implies}@0} [[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][Continuous function]]
+
+*** Source
+[cite:@ContinuousFunction2023]
+#+print_bibliography:

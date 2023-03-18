@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@shapiroHowPunctuate]
+:ID:       7f8365a4-bafd-4ab1-9034-957f76b904a0
+:DIR:      /home/cashweaver/proj/roam/attachments/7f8365a4-bafd-4ab1-9034-957f76b904a0
+:END:
+#+title: Julian Shapiro | How to Punctuate
+#+hugo_custom_front_matter: :slug "7f8365a4-bafd-4ab1-9034-957f76b904a0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 16:30]
+#+filetags: :reference:
+ 
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroHowPunctuate]
+
+* Summary
+1. Separate danglers with a comma
+2. If you can, use a period instead of a comma
+3. [[id:5b18fea0-1aab-4ad3-91ef-781a2524f11d][In a list, use a comma before the final "and"]]
+4. Use a comma before introducing a question
+5. Don't use a comma to represent vocal pauses
+6. Don't use ellipses
+7. Avoid semicolons
+8. Only use colons for standalone sentences
+9. Place ending punctuation inside quotation marks
+10. Punctuate within full-sentence parentheses
+11. Don't use exclamation marks outside of dialogue
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

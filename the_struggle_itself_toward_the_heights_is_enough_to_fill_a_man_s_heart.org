@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       fa7e7f3e-1fb6-4769-81cd-c2a200b2becf
+:ROAM_ALIASES: "One must imagine Sisyphus happy"
+:ROAM_REFS: [cite:@camusMythSisyphusOtherEssays1991]
+:LAST_MODIFIED: [2023-03-18 Sat 06:29]
+:END:
+#+title: The struggle itself toward the heights is enough to fill a man's heart
+#+hugo_custom_front_matter: :slug "fa7e7f3e-1fb6-4769-81cd-c2a200b2becf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-21 Tue 12:34]
+#+filetags: :quote:
+
+#+begin_quote
+The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
+
+[cite:@camusMythSisyphusOtherEssays1991]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** The struggle itself {{toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-16 Wed 09:18]
+:FC_CREATED: 2022-11-16T17:18:37Z
+:FC_TYPE:  cloze
+:ID:       cadd166b-9655-4d10-b873-40158eccb776
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.30 |   8 |    26.55 | 2023-04-14T02:43:36Z |
+:END:
+
+*** Source
+[cite:@camusMythSisyphusOtherEssays1991]
+#+print_bibliography:

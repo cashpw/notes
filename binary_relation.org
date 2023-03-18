@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44
+:ROAM_REFS: [cite:@BinaryRelation2022]
+:LAST_MODIFIED: [2022-12-14 Wed 13:19]
+:END:
+#+title: Binary relation
+#+hugo_custom_front_matter: :slug "52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 17:06]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a binary relation associates elements of one set, called the domain, with elements of another set, called the codomain.
+
+[cite:@BinaryRelation2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

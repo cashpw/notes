@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       f0deaa3b-c3bc-491d-adc3-6e6595cb558e
+:LAST_MODIFIED: [2023-03-17 Fri 07:13]
+:END:
+#+title: Tree rotation
+#+hugo_custom_front_matter: :slug "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-04 Thu 16:11]
+#+filetags: :concept:
+
+#+begin_quote
+In discrete mathematics, tree rotation is an operation on a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] that changes the structure without interfering with the order of the elements. A tree rotation moves one [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]] up in the tree and one [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]] down. It is used to change the shape of the tree, and in particular to decrease its height by moving smaller subtrees down and larger subtrees up, resulting in improved performance of many tree operations.
+
+[cite:@TreeRotation2022]
+#+end_quote
+
+#+begin_quote
+[[file:Tree_rotation_animation_250x250.gif]]
+
+[cite:@TreeRotation2022]
+#+end_quote
+
+#+begin_quote
+[[file:Tree_rotation.png]]
+
+[cite:@TreeRotation2022]
+#+end_quote
+
+* Left tree rotation
+:PROPERTIES:
+:ID:       5cb7f34b-cf37-4b09-aedc-671107e55219
+:END:
+| Before                                 | After                                   |
+|----------------------------------------+-----------------------------------------|
+| [[file:tree-rotation-pre-left-rotate.png]] | [[file:tree-rotation-pre-right-rotate.png]] |
+
+1. \(\text{x}\texttt{[right]} := \text{y}\texttt{[left]} \; (\beta)\)
+2. \(\text{y}\texttt{[left]} := \text{x}\)
+3. \(\text{x}\texttt{[parent][?]} := \text{y}\)
+
+* Right tree rotation
+:PROPERTIES:
+:ID:       8bc49224-0c9c-4200-a6cb-51ee0d08fa65
+:END:
+| Before                                  | After                                  |
+|-----------------------------------------+----------------------------------------|
+| [[file:tree-rotation-pre-right-rotate.png]] | [[file:tree-rotation-pre-left-rotate.png]] |
+
+1. \(\text{y}\texttt{[left]} := \text{x}\texttt{[right]} \; (\beta)\)
+2. \(\text{x}\texttt{[right]} := \text{y}\)
+3. \(\text{y}\texttt{[parent][?]} := \text{x}\)
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]) :fc:
+:PROPERTIES:
+:ID:       45a443da-cc3b-4bc4-a06a-e91f39ed4ade
+:ANKI_NOTE_ID: 1659655335948
+:FC_CREATED: 2022-08-04T23:22:15Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   7 |   353.90 | 2024-03-02T12:36:02Z |
+| front    | 2.65 |   6 |   108.79 | 2023-04-18T10:18:49Z |
+:END:
+[[id:f0deaa3b-c3bc-491d-adc3-6e6595cb558e][Tree rotation]]
+*** Back
+An operation on a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] that changes the structure without interfering with the order of the elements by moving one [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] up and one [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] down.
+*** Source
+[cite:@TreeRotation2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       9638bcae-8db3-4538-9ccc-f2c73dec6880
+:ANKI_NOTE_ID: 1659655336253
+:FC_CREATED: 2022-08-04T23:22:16Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   211.12 | 2023-08-08T17:03:29Z |
+| back     | 2.50 |   7 |   175.29 | 2023-07-04T23:01:35Z |
+:END:
+How to perform a [[id:5cb7f34b-cf37-4b09-aedc-671107e55219][Left tree rotation]]
+*** Back
+For a given [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]:
+
+[[file:tree-rotation-pre-left-rotate.png]]
+
+1. \(\text{x}\texttt{[right]} := \text{y}\texttt{[left]} \; (\beta)\)
+2. \(\text{y}\texttt{[left]} := \text{x}\)
+3. \(\text{x}\texttt{[parent][?]} := \text{y}\)
+
+*** Source
+[cite:@TreeRotation2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       703cc426-e0e2-4689-a074-02ea2499a12e
+:ANKI_NOTE_ID: 1659655619193
+:FC_CREATED: 2022-08-04T23:26:59Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   9 |   320.41 | 2024-02-01T00:04:28Z |
+| back     | 2.50 |   7 |   177.64 | 2023-07-05T06:46:14Z |
+:END:
+How to perform a [[id:8bc49224-0c9c-4200-a6cb-51ee0d08fa65][Right tree rotation]]
+*** Back
+For a given [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]:
+
+[[file:tree-rotation-pre-right-rotate.png]]
+
+1. \(\text{y}\texttt{[left]} := \text{x}\texttt{[right]} \; (\beta)\)
+2. \(\text{x}\texttt{[right]} := \text{y}\)
+3. \(\text{y}\texttt{[parent][?]} := \text{x}\)
+
+*** Source
+[cite:@TreeRotation2022]
+#+print_bibliography:

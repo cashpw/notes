@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       80c7fef7-aa9e-439f-a02f-be3edb85d8f5
+:LAST_MODIFIED: [2023-03-04 Sat 07:17]
+:END:
+#+title: Leibniz's notation
+#+hugo_custom_front_matter: :slug "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 07:41]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], Leibniz's notation, named in honor of the 17th-century German philosopher and mathematician Gottfried Wilhelm Leibniz [[[id:7d88c4e5-e3f2-4206-8b42-a842754c0dc2][Gottfried Leibniz]]], uses the symbols dx and dy to represent infinitely small (or infinitesimal) increments of x and y, respectively, just as Δx and Δy represent finite increments of x and y, respectively.
+
+Consider y as a function of a variable x, or y = f(x). If this is the case, then the derivative of y with respect to x, which later came to be viewed as the limit
+
+    $\displaystyle \lim _{\Delta x\rightarrow 0}{\frac {\Delta y}{\Delta x}}=\lim _{\Delta x\rightarrow 0}{\frac {f(x+\Delta x)-f(x)}{\Delta x}$
+
+was, according to Leibniz, the quotient of an infinitesimal increment of y by an infinitesimal increment of x, or
+
+    $\displaystyle {\frac {dy}{dx}}=f'(x)}$
+
+[cite:@LeibnizNotation2022]
+#+end_quote
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 07:43]
+:FC_CREATED: 2023-01-18T15:44:06Z
+:FC_TYPE:  double
+:ID:       29f9060f-77c8-4ed6-8ea7-6cc1adffc21a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    31.81 | 2023-03-24T16:42:49Z |
+| back     | 2.65 |   5 |    39.22 | 2023-04-12T20:22:24Z |
+:END:
+
+$d$
+
+*** Back
+infinitesimally small increments
+*** Source
+[cite:@LeibnizNotation2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 07:44]
+:FC_CREATED: 2023-01-18T15:44:43Z
+:FC_TYPE:  cloze
+:ID:       62887c7a-10e9-4f50-9b91-9dc7448e59fc
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    39.58 | 2023-03-28T17:29:17Z |
+|        1 | 2.80 |   5 |    47.18 | 2023-04-12T08:13:59Z |
+:END:
+
+{{[[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]}{notation}@0} uses {{$d$}{symbol}@1}
+
+*** Source
+[cite:@LeibnizNotation2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:10]
+:FC_CREATED: 2023-01-27T14:12:07Z
+:FC_TYPE:  double
+:ID:       ba1d4dff-90b0-4cb8-ac91-e3a8f38b4a6a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    42.98 | 2023-04-10T15:34:41Z |
+| back     | 2.65 |   5 |    43.62 | 2023-04-17T06:13:20Z |
+:END:
+
+The $n\text{-th}$ [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] of $y$ with respect to $x$ in [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]
+
+*** Back
+$\frac{d^ny}{dx^n}$
+*** Source
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:13]
+:FC_CREATED: 2023-01-27T14:16:03Z
+:FC_TYPE:  normal
+:ID:       f5a9f626-93bd-4c4a-abbe-7faad1b03b4c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    46.17 | 2023-04-17T20:01:32Z |
+:END:
+
+[[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]] for the third derivative of $y$ with respect to $x$
+
+*** Back
+$$
+\frac{d^3y}{(dx)^3} = \frac{d (\frac{d (\frac{dy}{dx})}{dx})}{dx} = \frac{d}{dx} (\frac{d}{dx} (\frac{dy}{dx}))
+$$
+*** Source
+[cite:@LeibnizNotation2022]
+#+print_bibliography:

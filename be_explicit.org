@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fd00fbf2-6b65-442f-90b9-b9d5d64a5fde
+:DIR:      /home/cashweaver/proj/roam/attachments/fd00fbf2-6b65-442f-90b9-b9d5d64a5fde
+:LAST_MODIFIED: [2022-12-14 Wed 13:17]
+:END:
+#+title: Be explicit
+#+hugo_custom_front_matter: :slug "fd00fbf2-6b65-442f-90b9-b9d5d64a5fde"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-20 Sun 10:59]
+#+filetags: :concept:
+
+- Prefer being explicit rather than implicit in writing, etc
+  - Easier for newcomers, or yourself at a later date, to understand as the context is right there rather than assumed knowledge
+  - Helps to avoid errors because you have to be more specific and therefor may find issues you otherwise wouldn't
+- [[id:069f0ef5-36f9-4da1-88ba-d8f21db8fbe4][Define Abbreviations]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

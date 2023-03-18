@@ -1,0 +1,118 @@
+:PROPERTIES:
+:ID:       05911fff-a79b-4462-bf6d-a3cec4e1c9f2
+:DIR:      /home/cashweaver/proj/roam/attachments/05911fff-a79b-4462-bf6d-a3cec4e1c9f2
+:LAST_MODIFIED: [2022-12-13 Tue 10:03]
+:END:
+#+title: Style Guide
+#+hugo_custom_front_matter: :slug "05911fff-a79b-4462-bf6d-a3cec4e1c9f2"
+#+FILETAGS: :meta:
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-05 Sat 13:12]
+
+A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system (powered by [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]]):
+
+* Prose
+
+I try to write with an emphasis on clear communication.
+
+- [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use plain language]]
+- [[id:5b18fea0-1aab-4ad3-91ef-781a2524f11d][Use serial commas]]
+- [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the length of sentences]]
+- [[id:70afedd4-60d2-4e2e-87e1-04999d90079e][Be useful]]
+- [[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be explicit]]
+
+** Use sentence case in headings and titles
+
+Use "Sentence case", rather than "Title Case" in headings and titles.
+
+* Node types
+:PROPERTIES:
+:ID:       d5d079f4-0808-40e6-905b-32a335c1ecbf
+:END:
+
+| Type       | Tag          | Description                          | Example                         |
+|------------+--------------+--------------------------------------+---------------------------------|
+| Concept    | =concept=    | A single idea/concept/term           | [[id:a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4][Plans Within Plans]]              |
+| Reference  | =reference=  | The node-form of a specific citation | [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]                            |
+| Quote      | =quote=      | A single quote                       | [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]] |
+| Person     | =person=     | About a single person                | [[id:9650cad7-fc51-4d4e-a436-e35bb038a2bf][Baron Vladimir Harkonnen]]        |
+| Poem       | =poem=       | A single poem                        | [[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]             |
+| Recipe     | =recipe=     | A cooking recipe                     | [[id:9b56dca0-39e0-4dec-a269-dd7773257c2b][Cayla's quarantine ramen]]        |
+| Ingredient | =ingredient= | A cooking ingredient                 | [[id:2caa9715-d216-41c4-babb-c6e66364ac6d][Seitan]]                          |
+
+* Prefer links to tags
+
+See [[id:47b06441-f192-42cf-9c30-9be549d2da95][Andy Matuschak | Prefer Associative Ontologies to Hierarchical Taxonomies]].
+
+Tags identify the [[id:d5d079f4-0808-40e6-905b-32a335c1ecbf][Node type]] -- not its content.
+
+* Quotes
+
+** Attribution
+
+- Place attributions on the last line of the quote.
+- The attribution may, but doesn't have to, be /italicized/.
+- The form of the attribution should be one of, in order of preference:
+  1. *Ideal*: "<link to person>, <citation>"
+  2. "<citation>"
+  3. "<link to person>"
+  4. "<general link>"
+
+*** Does it need attribution?
+
+Every quote should contain an attribution unless it meets one of the following criteria:
+
+1. The quote is from a cited source which appears in the node's bibliography and this source is the *only* citation present in the node.
+
+*** Examples
+
+#+begin_quote
+I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
+
+[[id:62152128-36b1-4229-a6ce-a78858975120][Aaron Swartz]], [cite:@swartzTheoryChange2010]
+#+end_quote
+
+#+begin_quote
+Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
+
+/Princess Irulan, [cite:@herbertDune1999]/
+#+end_quote
+
+#+begin_quote
+Org is a mode for keeping notes, maintaining TODO lists, and project planning with a fast and effective plain-text markup language. It also is an authoring system with unique support for literate programming and reproducible research.
+
+/[[https://orgmode.org/manual/Summary.html][org-mode Manual: Summary]]/
+#+end_quote
+
+** Large quotes are okay
+
+There isn't a hard rule on how much quoting is too much. Large quotes [[id:18745aec-fcd1-4dd5-a55f-73fdc409aacb][have their benefits]] and are simple to capture using [cite:@porterOrgprotocolcapturehtml2022] bookmarklets.
+
+** Nodes can just be a quote
+
+Quotes can live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]). This is multi-purpose:
+
+1. When in doubt, make the node smaller.
+2. Easier to link to specific quotes: Suppose a reader clicks on a link and arrives on a page with five quotes visible. This may confuse the reader. Which of the visible quotes is the one to which the link pointed?
+3. Works in a transclusion model better than larger nodes
+
+** Links
+
+1. Preserve links in the original quote to point to the original location or to a node representing the same idea.
+2. Wrap added links with square brackets just as you would with additional text.
+
+* Links
+
+** Show favicons alongside links
+
+Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Include them alongside external links. I've written a [[https://github.com/cashweaver/basic-favicon-links][script to make the process easier]].
+
+** Every node must include backlinks
+
+Backlinks are the backbone of a powerful [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. The published form of these notes *must* include backlinks.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

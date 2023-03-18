@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5aec5577-e490-4624-b114-9bd68b4268df
+:LAST_MODIFIED: [2022-12-14 Wed 13:33]
+:END:
+#+title: A person needs new experiences
+#+hugo_custom_front_matter: :slug "5aec5577-e490-4624-b114-9bd68b4268df"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-10 Sat 10:17]
+#+filetags: :quote:
+
+#+begin_quote
+A person needs new experiences. It jars something deep inside, allowing them to grow. Without change something sleeps inside us, and seldom awakens. The sleeper must awaken.
+
+[[id:15d4a8f5-48d0-416c-acae-f6f87d2fd145][Leto Atreides]], [cite:@herbertDune1999]
+#+end_quote
+
+[[id:f549369f-9c2b-4c90-a2c8-05cbdaf34b27][A man grows most tired while standing still]].
+
+* Flashcards
+#+print_bibliography:

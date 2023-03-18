@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       3a203296-7538-4986-a360-0db64356c9f5
+:LAST_MODIFIED: [2023-02-23 Thu 19:43]
+:END:
+#+title: Fixed mindset
+#+hugo_custom_front_matter: :slug "3a203296-7538-4986-a360-0db64356c9f5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-14 Fri 09:44]
+#+filetags: :concept:
+
+#+begin_quote
+Those with a fixed [[id:2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783][Mindset]] believe "intelligence is static" and there is very little to be done to improve ability. Feedback is seen as an "evaluation of their underlying ability" since success is seen only as a result of this innate ability, not the effort put in. Failure is much more intimidating since it "suggests constraints or limits they would not be able to overcome". Those with a fixed mindset tend to avoid challenges, give up easily, and focus on the outcome. They believe that their talents and abilities are a fixed trait that they are either born with or not born with; thus, effort is not valued as worthwhile to the fixed mindset individual.
+
+[cite:@Mindset2022]
+#+end_quote
+
+#+begin_quote
+According to [[id:e1dbf248-511f-4518-aba6-8eeb1c6bbeb3][Carol Dweck]], individuals can be placed on a continuum according to their implicit views of "where ability comes from". The two categorical extremes are [[id:3a203296-7538-4986-a360-0db64356c9f5][Fixed mindset]] and [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]].
+
+[cite:@Mindset2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-14 Fri 09:46]
+:FC_CREATED: 2022-10-14T16:46:57Z
+:FC_TYPE:  double
+:ID:       1fdff1a2-0068-4814-b02e-dbf41fab922f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   135.90 | 2023-05-24T13:03:59Z |
+| back     | 3.10 |   6 |   150.38 | 2023-07-24T12:56:15Z |
+:END:
+
+[[id:3a203296-7538-4986-a360-0db64356c9f5][Fixed mindset]]
+
+*** Back
+
+A [[id:2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783][Mindset]] which holds that there is little one can do to improve ability; you're stuck with what you're born with.
+*** Source
+[cite:@Mindset2022]
+#+print_bibliography:

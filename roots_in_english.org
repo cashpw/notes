@@ -1,0 +1,330 @@
+:PROPERTIES:
+:ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
+:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:END:
+#+title: Roots in English
+#+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-20 Fri 11:21]
+#+filetags: :concept:
+
+#+begin_quote
+A root (or root word) is the core of a word that is irreducible into more meaningful elements.
+
+[cite:@RootLinguistics2022]
+#+end_quote
+
+Example: Ur-
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-11 Wed 15:15]
+:FC_CREATED: 2023-01-11T23:15:44Z
+:FC_TYPE:  double
+:ID:       37a6af4f-a7bb-4a6c-9d92-d7af5c6e3423
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    53.85 | 2023-04-05T20:40:11Z |
+| back     | 2.95 |   5 |    48.85 | 2023-04-01T11:51:01Z |
+:END:
+
+Ur-
+
+*** Back
+- Earliest
+- Original
+*** Source
+[cite:@Ur2023]
+** Definition :fc:
+:PROPERTIES:
+:FC_CREATED: 2023-01-20T19:26:16Z
+:FC_TYPE:  double
+:ID:       26ae81dc-615b-4d7c-a66b-e25ae99c598d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.27 | 2023-04-06T22:20:58Z |
+| back     | 2.80 |   5 |    45.98 | 2023-04-30T14:37:32Z |
+:END:
+
+Ab-, a-
+
+*** Back
+Away from, down, off
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-20 Fri 11:26]
+:FC_CREATED: 2023-01-20T19:26:49Z
+:FC_TYPE:  double
+:ID:       ddc2007c-9597-4cf2-b624-d59a139ffbae
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    41.55 | 2023-04-11T04:17:40Z |
+| back     | 2.65 |   4 |    15.33 | 2023-03-21T01:26:41Z |
+:END:
+
+Ad-, a-
+
+*** Back
+Movement to or toward; in addition to
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-22 Sun 09:07]
+:FC_CREATED: 2023-01-22T17:07:42Z
+:FC_TYPE:  double
+:ID:       35889ef6-0459-4e7c-8866-1f70985f2e56
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    40.70 | 2023-04-10T20:48:06Z |
+| back     | 2.80 |   5 |    46.73 | 2023-04-26T22:53:33Z |
+:END:
+
+Endo-
+
+*** Back
+- Inside
+- Within
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022a]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-22 Sun 09:07]
+:FC_CREATED: 2023-01-22T17:08:23Z
+:FC_TYPE:  double
+:ID:       ca01a7cb-7258-45e4-9670-f95dcf94134f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    46.73 | 2023-04-16T08:29:24Z |
+| back     | 2.50 |   5 |    34.28 | 2023-04-21T20:29:13Z |
+:END:
+
+Exo-
+
+*** Back
+- Outside
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022a]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 07:05]
+:FC_CREATED: 2023-01-23T15:06:12Z
+:FC_TYPE:  double
+:ID:       b0b13cbf-e2d4-476e-80f8-1d44f52ecde8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    25.02 | 2023-04-09T15:34:32Z |
+| back     | 2.35 |   4 |    14.94 | 2023-03-23T16:48:35Z |
+:END:
+
+Epi-
+
+*** Back
+- Over
+- Outside of
+- In addition to
+- Around
+*** Source
+[cite:@Epi2023]
+
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 08:48]
+:FC_CREATED: 2023-01-28T16:49:13Z
+:FC_TYPE:  cloze
+:ID:       ff2c5b0b-635b-4456-91a8-cff22c444fb2
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    44.60 | 2023-04-16T04:31:30Z |
+|        1 | 2.50 |   5 |    42.32 | 2023-04-28T21:45:27Z |
+:END:
+
+{{Endo-}@0}'s opposite is {{Exo-}@1}
+
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022a]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 08:49]
+:FC_CREATED: 2023-01-28T16:49:33Z
+:FC_TYPE:  cloze
+:ID:       1a86f50e-a583-4e20-970e-01fe68c7424b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    34.41 | 2023-03-31T14:01:52Z |
+|        1 | 2.80 |   5 |    43.87 | 2023-04-28T12:05:19Z |
+:END:
+
+{{Ab-}@0}'s opposite is {{Ad-}@1}
+
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:29]
+:FC_CREATED: 2023-02-12T17:30:39Z
+:FC_TYPE:  double
+:ID:       db55a1ec-a182-4a05-9b06-4fe328d2d5be
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    26.53 | 2023-04-14T02:23:29Z |
+| back     | 2.50 |   4 |    14.93 | 2023-03-23T16:51:56Z |
+:END:
+
+My-
+
+*** Back
+- Shut (the eyes)
+- Mouse
+*** Source
+[cite:@ListGreekLatinRootsEnglish2023a]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:30]
+:FC_CREATED: 2023-02-12T17:30:59Z
+:FC_TYPE:  double
+:ID:       5b51b55e-7f9c-481f-817a-befa91f0108c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    43.10 | 2023-04-29T16:31:26Z |
+| back     | 2.05 |   4 |    11.25 | 2023-03-23T06:25:05Z |
+:END:
+
+Hyper-
+
+*** Back
+- Above
+- Over
+*** Source
+[cite:@ListGreekLatinRootsEnglish2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:31]
+:FC_CREATED: 2023-02-12T17:31:16Z
+:FC_TYPE:  double
+:ID:       a9058310-1c71-40d9-9d61-55c638fb6120
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    32.26 | 2023-04-12T11:35:36Z |
+| back     | 2.35 |   5 |    29.54 | 2023-04-16T03:10:09Z |
+:END:
+
+Hyp-, Hypo-
+
+*** Back
+- Under
+- Below
+*** Source
+[cite:@ListGreekLatinRootsEnglish2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:31]
+:FC_CREATED: 2023-02-12T17:31:41Z
+:FC_TYPE:  cloze
+:ID:       82e0a451-eac5-4f41-b440-f3ed47a37932
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    45.00 | 2023-04-28T15:03:33Z |
+|        1 | 2.80 |   4 |    17.07 | 2023-03-20T15:17:21Z |
+:END:
+
+{{Hyper-}@0}'s opposite is {{Hypo-}@1}.
+
+*** Source
+[cite:@ListGreekLatinRootsEnglish2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:49]
+:FC_CREATED: 2023-02-12T17:50:12Z
+:FC_TYPE:  double
+:ID:       c3c208f9-7314-423e-9e2b-4212e92d0318
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    36.40 | 2023-04-23T23:14:30Z |
+| back     | 2.80 |   4 |    17.66 | 2023-03-21T06:05:07Z |
+:END:
+
+Iso-
+
+*** Back
+- Equal
+- Same
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022b]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:56]
+:FC_CREATED: 2023-02-12T17:56:25Z
+:FC_TYPE:  double
+:ID:       0c938b83-98af-4bec-a09d-51dfa2b5c58c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    48.49 | 2023-04-28T17:17:45Z |
+| back     | 2.80 |   4 |    16.57 | 2023-03-22T07:04:03Z |
+:END:
+
+Anthro-
+
+*** Back
+- Human
+*** Source
+[cite:@ListGreekLatinRootsEnglish2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:57]
+:FC_CREATED: 2023-02-12T17:57:47Z
+:FC_TYPE:  double
+:ID:       5292a3fe-60e7-4272-9bce-f9cac836dcfa
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    50.74 | 2023-05-08T07:27:14Z |
+| back     | 2.65 |   4 |    16.44 | 2023-03-19T02:28:16Z |
+:END:
+
+Morph-, -morph
+
+*** Back
+- Form
+- Shape
+*** Source
+[cite:@ListGreekLatinRootsEnglish2023a]
+#+print_bibliography:

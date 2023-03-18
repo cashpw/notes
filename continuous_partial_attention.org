@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       ae7e202d-cab1-4ccf-8041-e76d39f7f698
+:ROAM_REFS: [cite:@ContinuousPartialAttention2022]
+:LAST_MODIFIED: [2023-02-18 Sat 08:59]
+:END:
+#+title: Continuous partial attention
+#+hugo_custom_front_matter: :slug "ae7e202d-cab1-4ccf-8041-e76d39f7f698"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 14:46]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a modern adaptive behavior of continuously dividing one's attention. Stone has clarified that continuous partial attention is not the same as multi-tasking. Where multi-tasking is driven by a conscious desire to be productive and efficient, CPA is an automatic process motivated only by "a desire to be a live node on the network" or by the willingness to connect and stay connected, scanning and optimizing opportunities, activities and contacts in an effort to not miss anything that is going on.
+
+[cite:@ContinuousPartialAttention2022]
+#+end_quote
+
+* Flashcards
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 14:47]
+:FC_CREATED: 2022-11-23T22:52:08Z
+:FC_TYPE:  normal
+:ID:       75b23bb8-8516-4191-92a9-e7ebc8b7193f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    92.04 | 2023-05-21T17:54:04Z |
+:END:
+
+Multi-tasking and [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]
+
+*** Back
+- Multi-tasking: Attempting to perform multiple tasks at once with the goal of being more productive
+- [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]: the willingness to connect, stay connected, to be a "live node on the network", scan and optimize opportunities, in an effort to not miss anything that's going on.
+*** Source
+[cite:@ContinuousPartialAttention2022]
+#+print_bibliography:

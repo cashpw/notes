@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       83bfa67e-8f43-45bd-b219-f920054bc016
+:ROAM_REFS: [cite:@Gluten2022]
+:LAST_MODIFIED: [2023-03-02 Thu 06:11]
+:END:
+#+title: Gluten
+#+hugo_custom_front_matter: :slug "83bfa67e-8f43-45bd-b219-f920054bc016"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 15:06]
+#+filetags: :concept:
+
+#+begin_quote
+Gluten is a structural protein naturally found in certain cereal grains.
+
+[cite:@Gluten2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:07]
+:FC_CREATED: 2022-11-18T23:07:42Z
+:FC_TYPE:  double
+:ID:       43797c47-e550-43a6-b020-f0448fae4485
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    62.16 | 2023-04-10T03:41:02Z |
+| back     | 2.65 |   6 |    98.46 | 2023-06-09T01:21:13Z |
+:END:
+
+[[id:83bfa67e-8f43-45bd-b219-f920054bc016][Gluten]]
+
+*** Back
+A structural protein naturally found in certain cereal grains (e.g. wheat, barley, rye).
+*** Source
+[cite:@Gluten2022]
+#+print_bibliography:

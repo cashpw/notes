@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       465e012a-7d64-4f19-8f52-f872ba68680c
+:LAST_MODIFIED: [2023-01-31 Tue 06:09]
+:END:
+#+title: Chop wood, carry water
+#+hugo_custom_front_matter: :slug "465e012a-7d64-4f19-8f52-f872ba68680c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-13 Sun 20:01]
+#+filetags: :quote:
+
+#+begin_quote
+Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
+
+Zen Proverb
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Before enlightenment, {{chop wood, carry water. After enlightenment, chop wood, carry water.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 16:19]
+:FC_CREATED: 2022-11-23T00:20:30Z
+:FC_TYPE:  cloze
+:ID:       5bf703e0-4edd-4311-9924-1746ccbe551d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   6 |    55.87 | 2023-03-28T11:05:49Z |
+:END:
+
+*** Source

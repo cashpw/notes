@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e6a6fbb2-d3ae-41e1-8821-3698d55507b0
+:LAST_MODIFIED: [2022-12-14 Wed 13:41]
+:END:
+#+title: All models are wrong
+#+hugo_custom_front_matter: :slug "e6a6fbb2-d3ae-41e1-8821-3698d55507b0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 09:28]
+#+filetags: :concept:
+
+#+begin_quote
+All models are wrong is a common aphorism in statistics; it is often expanded as "All models are wrong, but some are useful". The aphorism acknowledges that statistical models always fall short of the complexities of reality but can still be useful nonetheless. The aphorism originally referred just to statistical models, but it is now sometimes used for scientific models in general.
+
+[cite:@AllModelsAreWrong2022]
+#+end_quote
+* Flashcards
+#+print_bibliography:

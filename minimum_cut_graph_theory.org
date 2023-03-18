@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       6eefa20c-dfd3-4e0c-9b75-7d95e2d9ec91
+:LAST_MODIFIED: [2023-03-18 Sat 06:36]
+:ROAM_REFS: [cite:@MinimumCut2023]
+:END:
+#+title: Minimum cut (Graph theory)
+#+hugo_custom_front_matter: :slug "6eefa20c-dfd3-4e0c-9b75-7d95e2d9ec91"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-08 Wed 11:03]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory, a minimum cut or min-cut of a graph is a cut (a partition of the vertices of a graph into two disjoint subsets) that is minimal in some metric.
+
+Variations of the minimum cut problem consider weighted graphs, directed graphs, terminals, and partitioning the vertices into more than two sets.
+
+[cite:@MinimumCut2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-12 Sun 05:35]
+:FC_CREATED: 2023-03-12T12:35:26Z
+:FC_TYPE:  double
+:ID:       b98c40da-7f9c-4968-bcfc-c190e5a76dbb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-24T13:36:42Z |
+| back     | 2.50 |   2 |     2.00 | 2023-03-19T14:01:03Z |
+:END:
+
+[[id:6eefa20c-dfd3-4e0c-9b75-7d95e2d9ec91][Minimum cut (Graph theory)]]
+
+*** Back
+A [[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]] that is minimal in some metric.
+*** Source
+[cite:@MinimumCut2023]
+#+print_bibliography:

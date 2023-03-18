@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@NoWayPreventThisSaysOnlyNationWhereThisRegularly]
+:ID:       23e6f659-2519-4228-8813-01f4bc25518c
+:ROAM_ALIASES: "No Way To Prevent This"
+:LAST_MODIFIED: [2023-02-23 Thu 19:53]
+:END:
+#+title: The Onion | `No Way To Prevent This,' Says Only Nation Where This Regularly Happens
+#+hugo_custom_front_matter: :slug "23e6f659-2519-4228-8813-01f4bc25518c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-31 Thu 14:31]
+#+filetags: :reference:
+
+[cite:@NoWayPreventThisSaysOnlyNationWhereThisRegularly]
+
+#+begin_quote
+VIRGINIA BEACH, VA—In the hours following a violent rampage in Virginia in which a lone attacker killed 12 individuals and injured four others, citizens living in the only country where this kind of mass killing routinely occurs reportedly concluded Wednesday that there was no way to prevent the massacre from taking place. "This was a terrible tragedy, but sometimes these things just happen and there's nothing anyone can do to stop them," said Michigan resident Mark Butler, echoing sentiments expressed by tens of millions of individuals who reside in a nation where over half of the world's deadliest mass shootings have occurred in the past 50 years and whose citizens are 20 times more likely to die of gun violence than those of other developed nations. "It's a shame, but what can we do? There really wasn't anything that was going to keep this individual from snapping and killing a lot of people if that's what they really wanted." At press time, residents of the only economically advanced nation in the world where roughly two mass shootings have occurred every month for the past eight years were referring to themselves and their situation as "helpless."
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 13:32]
+:FC_CREATED: 2022-11-23T21:32:42Z
+:FC_TYPE:  double
+:ID:       a5eaf175-0399-4361-a29a-0c23d835160a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   168.93 | 2023-08-12T02:15:01Z |
+| back     | 2.50 |   6 |    73.51 | 2023-04-23T07:00:14Z |
+:END:
+
+[[id:23e6f659-2519-4228-8813-01f4bc25518c][The Onion | `No Way To Prevent This,' Says Only Nation Where This Regularly Happens]]
+
+*** Back
+The United States sees more mass shootings than other nations and yet, despite being an outlier, espouse that there's nothing to be done to prevent them.
+*** Source
+[cite:@NoWayPreventThisSaysOnlyNationWhereThisRegularly]
+#+print_bibliography:

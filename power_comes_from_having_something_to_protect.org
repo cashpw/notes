@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       e1705b21-a504-452f-b809-4d8cbf1ec3d8
+:LAST_MODIFIED: [2023-02-22 Wed 18:24]
+:END:
+#+title: Power comes from having something to protect
+#+hugo_custom_front_matter: :slug "e1705b21-a504-452f-b809-4d8cbf1ec3d8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 17:35]
+#+filetags: :has_todo:concept:
+* TODO [#3]
+See [[id:ad3762f0-6d77-4289-baa7-4c3192b9c4b1][Eliezer Yudkowsky | Something to Protect]]
+* Flashcards
+** Power comes from {{having something to protect}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 17:36]
+:FC_CREATED: 2022-11-13T01:36:30Z
+:FC_TYPE:  cloze
+:ID:       e3bc52d5-14ad-4728-94fc-4b6610aa1459
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   113.91 | 2023-06-17T00:09:25Z |
+:END:

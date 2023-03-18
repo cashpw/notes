@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       787214e0-5941-4c6f-9a61-e79b9b40baea
+:LAST_MODIFIED: [2023-01-30 Mon 08:20]
+:END:
+#+title: Mental model
+#+hugo_custom_front_matter: :slug "787214e0-5941-4c6f-9a61-e79b9b40baea"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 09:08]
+#+filetags: :concept:
+#+begin_quote
+A mental model is an explanation of someone's thought process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person's intuitive perception about their own acts and their consequences. Mental models can help shape behaviour and set an approach to solving problems (similar to a personal algorithm) and doing tasks.
+
+[cite:@MentalModel2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:20]
+:FC_CREATED: 2022-11-18T17:22:25Z
+:FC_TYPE:  double
+:ID:       f5767052-bf2d-4d00-a07d-291b27783a4c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    72.51 | 2023-04-12T14:28:37Z |
+| back     | 1.90 |   6 |    50.64 | 2023-03-22T07:48:12Z |
+:END:
+
+[[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]]
+
+*** Back
+- A explanation of how something works
+- A representation of the world, the relationship between its various parts, and a person's perception of their own acts and their consequences.
+*** Source
+[cite:@MentalModel2022]
+#+print_bibliography:

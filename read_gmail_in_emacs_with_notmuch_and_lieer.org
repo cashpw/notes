@@ -1,0 +1,182 @@
+:PROPERTIES:
+:ID:       ada68d10-cec8-4af1-903d-29dfa71d2343
+:END:
+#+title: Read Gmail in Emacs with notmuch and lieer
+#+hugo_custom_front_matter: :slug "ada68d10-cec8-4af1-903d-29dfa71d2343"
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-27 Mon 19:56]
+#+filetags: :has_todo:
+
+This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] ([[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]]) using [[https://notmuchmail.org/][=notmuch=]] and [[https://github.com/gauteh/lieer][=lieer=]].
+
+You may have to complete additional steps if you are not using [[https://github.com/hlissner/doom-emacs][=doom emacs=]] or if your set-up differs from mine in other ways.
+
+* Prerequisites
+
+Please be sure you've completed these steps before continuing:
+
+** Required Software
+
+1. =lieer=
+
+   #+BEGIN_SRC sh
+git clone https://github.com/gauteh/lieer.git
+cd lieer
+pip3 install -r requirements.txt
+#+END_SRC
+
+2. =notmuch=
+
+   #+BEGIN_SRC sh
+sudo apt install notmuch
+#+END_SRC
+
+** Create an OAuth2 Client ID
+
+1. Please refer to: [[id:486b286b-8806-4282-af4e-cfbac4fb0990][Create an OAuth2 Client ID]]
+2. Ensure GMail APIs are enabled for this Client ID.
+3. Download the JSON format of this key.
+
+** Enable =notmuch= within =emacs=
+
+This is written for those using [[https://github.com/hlissner/doom-emacs][=doom emacs=]]. Those using other flavors of =emacs= will need to enable =notmuch= on their own.
+
+1. Enable =notmuch= by uncommenting =notmuch= within =init.el= beneath the =:email= header.
+2. Run =doom sync= in your shell.
+3. Reload =doom emacs= by either killing =emacs= and restarting, or by running =doom/reload= (=SPC : doom/reload= or =SPC h r r=).
+
+* Configure =notmuch=
+
+These steps are pulled from =notmuch='s own [[https://notmuchmail.org/getting-started/][documentation]].
+
+1. Run =notmuch= in your shell to create =~/.notmuch-config=.
+
+2. Perform initial indexing:
+
+   #+BEGIN_SRC sh
+# Create a directory to house your mail if you don't already have one.
+mkdir -p /path/to/your/mail/directory
+
+cd /path/to/your/mail/directory
+notmuch new
+#+END_SRC
+
+    You should see something like:
+
+    #+BEGIN_EXAMPLE
+Found 0 total files (that's not much mail)
+No new mail.
+#+END_EXAMPLE
+
+* Configure =lieer=
+
+These steps are pulled from =lieer='s own [[https://github.com/gauteh/lieer#usage][documentation]].
+
+1. Make a directory for the lieer storage and state files (local repository).
+
+   #+BEGIN_SRC sh
+cd /path/to/your/mail/directory
+mkdir <you>.gmail
+cd you.gmail
+#+END_SRC
+
+2. Update your =~/.notmuch-config= to ignore =json=, =lock=, and =bak= files by updating the =[new]= section to read:
+
+   #+BEGIN_EXAMPLE
+[new]
+tags=new
+ignore=/.*[.](json|lock|bak)$/
+#+END_EXAMPLE
+
+3. Initialize your mail storage.
+
+   This command will open a new tab in your browser. We need to run this command once before we can specify our own credentials. Feel free to close the tab as soon as it opens as we'll be swapping the default client id with our own in the next steps.
+
+   #+BEGIN_SRC sh
+# From within /path/to/your/mail/directory/<you>.gmail
+/path/to/lieer/gmi init <you>@gmail.com
+#+END_SRC
+
+4. Cancel out (=CTRL-C=).
+
+   You should see a message similar to:
+
+   #+BEGIN_EXAMPLE
+init: repository is set up, but authorization failed. re-run 'gmi auth' with proper parameters to complete authorization
+#+END_EXAMPLE
+
+5. Set your credentials.
+
+   #+BEGIN_SRC sh
+# From within /path/to/your/mail/directory/<you>.gmail
+/path/to/lieer/gmi auth \
+  --credentials=/path/to/your/OAuth2/client/id.json
+
+# Or, if you're working remotely (SSHing into your workstation, etc)
+/path/to/lieer/gmi \
+  --noauth_local_webserver \
+  auth \
+  --credentials=/path/to/your/OAuth2/client/id.json
+#+END_SRC
+
+   Open the link and authenticate using your =@gmail.com= account. Copy the code and paste it back into the running =gmi= command. You should see a message like:
+
+   #+BEGIN_EXAMPLE
+Authentication successful.
+credentials stored in /path/to/your/mail/directory/you.gmail/.credentials.gmailieer.json
+#+END_EXAMPLE
+
+6. Sync your email.
+
+   This step may take a long time. My initial sync of 90k emails took 56 real-time minutes.
+
+   #+BEGIN_SRC sh
+# From within /path/to/your/mail/directory/<you>.gmail
+/path/to/lieer/gmi sync
+#+END_SRC
+
+* Sync emails periodically
+
+You could also use a =systemd= timer for this.
+
+1. Create a new shell script to sync your email. Remember to =chmod 777=!
+
+   #+BEGIN_SRC sh
+#!/bin/bash
+
+cd /path/to/your/mail/directory/you.gmail
+/path/to/lieer/gmi sync
+#+END_SRC
+
+2. Configure the cronjob with =crontab -e=.
+
+   #+BEGIN_EXAMPLE
+# Sync email with lieer every three minutes.
+*/3 * * * * bash /path/to/your/script/sync_email.sh
+#+END_EXAMPLE
+
+* Configure =notmuch= within =emacs= (optional)
+
+- Set up [[https://notmuchmail.org/doc/latest/notmuch-emacs.html#saved-searches][saved searches]].
+
+- Prevent wrapping text at 70 characters while composing an email:
+
+  #+BEGIN_EXAMPLE
+;; This is valid in doom emacs. You may need to customize for other distributions.
+;; Prevent wrapping at 70 characters in email composition.
+(add-hook! 'message-mode-hook 'turn-off-auto-fill)
+(add-hook! 'message-mode-hook 'visual-line-mode)
+#+END_EXAMPLE
+
+* Done!
+
+For those of you using [[https://github.com/hlissner/doom-emacs][=doom emacs=]], you can open notmuch from anywhere with =SPC o m=.
+
+* TODO [#3] Bring up to date :noexport:
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

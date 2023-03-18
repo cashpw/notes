@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa
+:ROAM_REFS: [cite:@LimePopping]
+:LAST_MODIFIED: [2023-03-09 Thu 19:05]
+:END:
+#+title: Lime popping
+#+hugo_custom_front_matter: :slug "fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-15 Thu 09:43]
+#+filetags: :concept:
+
+#+begin_quote
+A body firing problem where particles of calcium sulphate in the fired or bisque fired body slowly absorb water from the air, expand, and pop out a section of the body. These particles can be contamination or naturally occurring contaminants in the clay.
+
+[cite:@LimePopping]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-15 Thu 09:43]
+:FC_CREATED: 2022-12-15T17:45:20Z
+:FC_TYPE:  double
+:ID:       db4131e3-a872-4acb-9efb-920b65652898
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    94.93 | 2023-06-13T01:29:22Z |
+| back     | 2.65 |   5 |    47.35 | 2023-03-21T01:07:32Z |
+:END:
+
+[[id:fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa][Lime popping]]
+
+*** Back
+A clay body firing problem in which particles of calcium sulphate in the body slowly expand, and pop out a section of the body.
+*** Source
+[cite:@LimePopping]
+#+print_bibliography:

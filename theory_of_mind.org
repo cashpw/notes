@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       10453cfb-8266-404d-93e6-768747d30b74
+:ROAM_REFS: [cite:@TheoryMind2022]
+:LAST_MODIFIED: [2023-03-14 Tue 08:10]
+:END:
+#+title: Theory of mind
+#+hugo_custom_front_matter: :slug "10453cfb-8266-404d-93e6-768747d30b74"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 07:44]
+#+filetags: :concept:
+
+#+begin_quote
+In psychology, theory of mind refers to the capacity to understand other people by ascribing mental states to them (that is, surmising what is happening in their mind). This includes the knowledge that others' mental states may be different from one's own states and include beliefs, desires, intentions, emotions, and thoughts.
+
+[cite:@TheoryMind2022]
+#+end_quote
+
+#+begin_quote
+Maybe the most famous of these is "theory of mind", the ability to view things from other people's perspective. In a classic demonstration, researchers show little Amy a Skittles bag and ask what she thinks is inside. She guesses Skittles, but the researchers open it and reveal it's actually pennies. Then they close it up and invite little Brayden into the room. Then they ask Amy what Brayden thinks is inside. If Amy's three years old or younger, she'll usually say "pennies" – she knows that pennies are inside, so why shouldn't Brayden know too? If she's four or older, she'll usually say "Skittles" – she realizes on a gut level that she and Brayden are separate minds and that Brayden will have his own perspective. Sometimes the same mistake can extend to preferences and beliefs. Wikipedia gives the example of a child saying "I like Sesame Street, so Daddy must like Sesame Street too." This is another theory of mind failure grounded in an inability to separate self and environment.
+
+[cite:@alexanderWhatDevelopmentalMilestonesAreYouMissing2015]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 07:45]
+:FC_CREATED: 2023-01-12T15:46:53Z
+:FC_TYPE:  double
+:ID:       d093f690-09bf-4775-b2f9-7c0ea9c97915
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    42.24 | 2023-03-29T21:42:05Z |
+| back     | 2.35 |   6 |    69.69 | 2023-05-23T07:48:57Z |
+:END:
+
+[[id:10453cfb-8266-404d-93e6-768747d30b74][Theory of mind]]
+
+*** Back
+- The capacity to understand people by ascribing mental states to them; surmising what is happening in their mind
+- Includes knowledge that others' mental states may be different from one's own
+- Ability to view or imagine things from others' perspectives
+*** Source
+[cite:@TheoryMind2022]
+#+print_bibliography:

@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       e3806f4b-94b7-443e-8e7e-278fe8a2781c
+:LAST_MODIFIED: [2023-03-18 Sat 06:35]
+:END:
+#+title: Binomial theorem
+#+hugo_custom_front_matter: :slug "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-19 Thu 09:49]
+#+filetags: :concept:
+
+#+begin_quote
+In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial $(x + y)^n$ into a sum involving terms of the form $ax^by^c$, where the exponents $b$ and $c$ are nonnegative integers with $b + c = n$, and the coefficient $a$ of each term is a specific positive integer depending on $n$ and $b$. For example, for $n = 4$,
+
+$(x+y)^{4}=x^{4}+4x^{3}y+6x^{2}y^{2}+4xy^{3}+y^{4}$
+
+The coefficient a in the term of $ax^by^c$ is known as the binomial coefficient [[[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]] $\binom{n}{b}$ or $\tbinom {n}{c}}$ (the two have the same value).
+
+[cite:@BinomialTheorem2023]
+#+end_quote
+
+#+begin_quote
+$$
+\begin{align}
+(x+y)^{n} &=\sum _{k=0}^{n}{n \choose k}x^{n-k}y^{k} \\
+&=\sum _{k=0}^{n}{n \choose k}x^{k}y^{n-k}
+\end{align}
+$$
+
+[cite:@BinomialTheorem2023]
+#+end_quote
+
+* Flashcards
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 09:55]
+:FC_CREATED: 2023-01-19T17:56:08Z
+:FC_TYPE:  cloze
+:ID:       e806193c-2704-46af-871c-13326eb94237
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    43.81 | 2023-04-08T23:22:07Z |
+|        1 | 2.80 |   5 |    46.44 | 2023-04-25T13:27:11Z |
+:END:
+
+{{$(x+y)^{n}$}@0} $=$ {{$\sum _{k=0}^{n}{n \choose k}x^{k}y^{n-k}$}{summation}@1}
+
+*** Source
+[cite:@BinomialTheorem2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 09:56]
+:FC_CREATED: 2023-01-19T17:56:52Z
+:FC_TYPE:  double
+:ID:       633c087d-bb81-4705-b68b-73d7f90de1b2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    15.16 | 2023-03-23T22:19:46Z |
+| back     | 2.35 |   5 |    36.27 | 2023-04-23T20:09:36Z |
+:END:
+
+[[id:e3806f4b-94b7-443e-8e7e-278fe8a2781c][Binomial theorem]]
+
+*** Back
+$$
+\begin{align}
+(x+y)^{n} &=\sum _{k=0}^{n}{n \choose k}x^{n-k}y^{k} \\
+&=\sum _{k=0}^{n}{n \choose k}x^{k}y^{n-k}
+\end{align}
+$$
+*** Source
+[cite:@BinomialTheorem2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 09:57]
+:FC_CREATED: 2023-01-19T17:58:02Z
+:FC_TYPE:  normal
+:ID:       022de020-62d7-453b-8e09-272c1c38811e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    35.23 | 2023-03-24T09:05:52Z |
+:END:
+
+Relationship between the [[id:e3806f4b-94b7-443e-8e7e-278fe8a2781c][Binomial theorem]] and [[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]
+
+*** Back
+The [[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]] is the coefficient in the [[id:e3806f4b-94b7-443e-8e7e-278fe8a2781c][Binomial theorem]]'s summation:
+
+$$
+\begin{align}
+(x+y)^{n} &=\sum _{k=0}^{n}{n \choose k}x^{n-k}y^{k} \\
+&=\sum _{k=0}^{n}{n \choose k}x^{k}y^{n-k}
+\end{align}
+$$
+*** Source
+[cite:@BinomialTheorem2023]
+#+print_bibliography:

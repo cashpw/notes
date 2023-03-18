@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       449940d4-8cd4-4b71-bf71-5bd719c7a6d0
+:ROAM_REFS: [cite:@ScienceEmotionExploringBasicsEmotionalPsychology2019]
+:LAST_MODIFIED: [2023-03-13 Mon 07:55]
+:END:
+#+title: Three components of emotion
+#+hugo_custom_front_matter: :slug "449940d4-8cd4-4b71-bf71-5bd719c7a6d0"
+#+filetags: :reference:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-13 Mon 01:03]
+
+[cite:@ScienceEmotionExploringBasicsEmotionalPsychology2019]
+
+1. A subjective experience
+2. A physiological response
+3. A behavioral, or expressive, response
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 08:02]
+:FC_CREATED: 2022-11-15T16:02:58Z
+:FC_TYPE:  double
+:ID:       e1ab7c84-99d1-4c2c-a5cb-263440c96684
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   6 |    37.34 | 2023-03-20T23:41:41Z |
+| back     | 2.65 |   6 |   114.72 | 2023-07-06T08:17:40Z |
+:END:
+
+[[id:449940d4-8cd4-4b71-bf71-5bd719c7a6d0][Three components of emotion]]
+
+*** Back
+1. A subjective experience
+2. A physiological response
+3. A behavioral, or expressive, response
+*** Source
+[cite:@ScienceEmotionExploringBasicsEmotionalPsychology2019]
+#+print_bibliography:

@@ -1,0 +1,182 @@
+:PROPERTIES:
+:ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
+:ROAM_REFS: [cite:@BreadthfirstSearch2022]
+:ROAM_ALIASES: BFS
+:LAST_MODIFIED: [2023-03-14 Tue 08:13]
+:END:
+#+title: Breadth-first search
+#+hugo_custom_front_matter: :slug "cff4f06c-6179-423d-aa1d-ba54d85615e2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 17:20]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Breadth-first search (BFS) is an algorithm for searching a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [or [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]], is needed to keep track of the child nodes that were encountered but not yet explored.
+#+end_quote
+
+* Algorithm
+
+[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] follows [[id:fe9b846a-00fb-4311-8103-0ab31dd65275][Level-order tree traversal]].
+
+#+begin_src
+procedure breadthFirstSearch(graph, rootNode)
+  define a Queue: queue
+  define a Set: visited
+
+  visited.add(rootNode)
+  queue.enqueue(rootNode)
+
+  while not queue.empty() do
+    node = queue.dequeue()
+    if node not in visited do
+      visited.add(node)
+      for connectedNode in graph.connectedNodes(node) do
+        queue.enqueue(connectedNode)
+#+end_src
+
+Based on the algorithm in [cite:@BreadthfirstSearch2022].
+
+
+* Complexity
+
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+| Space | \(O(\vert V \vert)\)                 |
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+
+[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]
+
+*** Back
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] traversal algorithm which follows [[id:fe9b846a-00fb-4311-8103-0ab31dd65275][Level-order tree traversal]]. The implementation uses a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]].
+
+
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+| Space | \(O(\vert V \vert)\)                 |
+*** Source
+[cite:@Quicksort2022]
+
+
+** Compare and contrast: [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] and [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656857269010
+:FC_CREATED: 2022-09-21T15:58:16Z
+:FC_TYPE:  normal
+:ID:       de6a105f-3ea3-4df9-bf82-0f46eaccdc9a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   100.75 | 2023-04-17T08:21:46Z |
+:END:
+
+*** Context
+Computer science
+
+*** Back
+- [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] requires more memory than [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] due to the queue
+- [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] uses a queue
+- [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] uses either a stack (iterative) or the call-stack (recursive)
+- [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] is guaranteed to find the shortest path to the goal (optimal) whereas [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] isn't optimal
+
+*** Source
+
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] is {{guaranteed}@0} to find the shortest path to the goal :fc:
+:PROPERTIES:
+:ID:       3260c05c-cbb6-40be-b218-8af1d22841ab
+:ANKI_NOTE_ID: 1656857269857
+:FC_CREATED: 2022-07-03T14:07:49Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   242.45 | 2023-11-12T02:03:55Z |
+:END:
+
+*** Extra
+
+*** Source
+
+
+** {{[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}@0} follows {{[[id:fe9b846a-00fb-4311-8103-0ab31dd65275][Level-order]]}{traversal order}@1} :fc:
+:PROPERTIES:
+:ID:       a9a7cc1d-a08f-4645-bd4a-d83c9246eb90
+:ANKI_NOTE_ID: 1656857272333
+:FC_CREATED: 2022-07-03T14:07:52Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   107.36 | 2023-03-25T00:19:18Z |
+|        1 | 2.50 |   7 |   207.69 | 2023-09-26T08:17:16Z |
+:END:
+*** Extra
+*** Source
+[cite:@TreeTraversal2022]
+
+
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] time complexity: {{$O(\vert V \vert + \vert E \vert)$}@0} :fc:
+:PROPERTIES:
+:ID:       aa67bc9a-6b7d-4f7f-b666-e6f3a3adcaaa
+:ANKI_NOTE_ID: 1658437675781
+:FC_CREATED: 2022-07-21T21:07:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   4 |    11.57 | 2023-03-21T16:26:56Z |
+:END:
+*** Extra
+*** Source
+[cite:@BreadthfirstSearch2022]
+
+
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] space complexity: {{$O(\vert V \vert)$}@0} :fc:
+:PROPERTIES:
+:ID:       6ed26b66-ae5c-43e9-947f-87e37688e109
+:ANKI_NOTE_ID: 1658437676210
+:FC_CREATED: 2022-07-21T21:07:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   162.03 | 2023-06-07T17:09:36Z |
+:END:
+*** Extra
+*** Source
+[cite:@BreadthfirstSearch2022]
+
+
+** TODO [#1] Implement [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] :fc:suspended:
+:PROPERTIES:
+:ID:       0dc09732-5e53-4254-9998-2f0f304a6fab
+:ANKI_NOTE_ID: 1662498105869
+:FC_CREATED: 2022-09-06T21:01:45Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        front |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+#+print_bibliography:

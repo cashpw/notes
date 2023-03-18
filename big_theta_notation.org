@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       55b432cc-354d-406f-aa49-cb7a50c8d5a2
+:LAST_MODIFIED: [2023-03-08 Wed 10:32]
+:END:
+#+title: Big-Theta notation
+#+hugo_custom_front_matter: :slug "55b432cc-354d-406f-aa49-cb7a50c8d5a2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 19:10]
+#+filetags: :concept:
+
+Big Theta notation, written as \(\bigtheta{g(n)}\), indicates \(f\) is bound above and below, asymptotically, by \(g\) (a tight bound).
+
+\[\bigtheta{n} \implies \bigo{n} \;\text{and}\; \bigomega{n}\]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       58599ca1-1afb-4ba5-916d-c2fd7015a239
+:ANKI_NOTE_ID: 1656856945852
+:FC_CREATED: 2022-07-03T14:02:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   6 |    95.24 | 2023-05-01T20:31:43Z |
+| front    | 2.20 |   9 |   166.66 | 2023-06-13T08:22:16Z |
+:END:
+
+[[id:55b432cc-354d-406f-aa49-cb7a50c8d5a2][Big Theta notation]]
+
+*** Back
+The set of functions which have a specific upper and lower bound (tight bound).
+
+*** Extra
+\(\Theta(n)\)
+
+*** Source
+[cite:@BigNotation2022]
+
+** {{$\Theta(n)$}@0} \(\implies\) {{\(O(n)\) and \(\Omega(n)\)}@1} :fc:
+:PROPERTIES:
+:ID:       dbe4cbb8-3c90-47c2-a717-9e6c4f840108
+:ANKI_NOTE_ID: 1656856946632
+:FC_CREATED: 2022-07-03T14:02:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   253.74 | 2023-09-28T08:05:33Z |
+|        1 | 2.50 |   7 |   343.97 | 2024-02-15T17:46:31Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BigNotation2022]
+
+** Denotes (Computer science) :fc:
+:PROPERTIES:
+:ID:       6bd0b745-4aea-497d-9927-33d21100ce7b
+:ANKI_NOTE_ID: 1656856947530
+:FC_CREATED: 2022-07-03T14:02:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   349.77 | 2024-02-11T10:43:50Z |
+|        1 | 2.80 |   7 |   248.10 | 2023-10-03T19:12:47Z |
+:END:
+
+- {{$\Theta(n)$}@0}
+
+{{[[id:55b432cc-354d-406f-aa49-cb7a50c8d5a2][Big Theta notation]]}@1}
+
+*** Source
+[cite:@BigNotation2022]
+#+print_bibliography:

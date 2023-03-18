@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@griffes]
+:ID:       18745aec-fcd1-4dd5-a55f-73fdc409aacb
+:LAST_MODIFIED: [2022-12-12 Mon 15:02]
+:END:
+#+title: Milan Griffes | (A)
+#+hugo_custom_front_matter: :slug "18745aec-fcd1-4dd5-a55f-73fdc409aacb"
+#+filetags: :reference:
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 13:12]
+
+[[id:1b788031-6f76-44a3-b540-2a5e752d2289][Milan Griffes]], [cite:@griffes]
+
+* Summary
+Dead links are inevitable if your written content lives long enough online. Include archive links alongside links to off-domain content "(a)".
+
+* Thoughts
+
+I like the idea of including an archive link when linking to off-domain content. It seems like something that one could automate via a presubmit step of the publishing process. I've looked around but haven't found an addon/extension for any of the popular blogging solutions which provides an easy way to include such links. I expect that I won't bother to include them so long as I would have to include them manually. The URL to the off-domain content will be present and determined readers will be able to consult archive.org/etc on their own to achieve the same result.
+
+I also notice that the author [[https://www.flightfromperfection.com/the-best-explanation-of-modern-monetary-theory.html][includes (sometimes long) relevant quotes from links they cite]]. I think this is a fantastic practice which accomplishes most of the goal of "(a)".
+
+* Notes
+
+#+begin_quote
+For a while now, I've been using "(a)" notation to denote archived versions of linked pages. This is a small effort towards creating [[https://www.gwern.net/About#long-content][Long Content]] ([[https://web.archive.org/web/20190131084052/https://www.gwern.net/About][a]]) -- content that has a lifespan of decades or centuries, rather than months or years.
+
+I think basically anyone whose writing includes links to other work should include archived links alongside the original hyperlinks, if the writing is intended to be long-lived. (And if you're not trying to write long-lived content, what are you doing, even?)
+
+I was happy to see [[https://www.andzuck.com/people/peoplewhointerestme/][Zuck]] ([[http://archive.fo/jPk3I][a]]) & [[https://guzey.com/why-we-underappreciate-technological-progress/][Guzey]] ([[https://web.archive.org/web/20191013172904/https://guzey.com/why-we-underappreciate-technological-progress/][a]]) using "(a)" notation in some of their recent work. Perhaps "(a)" will catch on!
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

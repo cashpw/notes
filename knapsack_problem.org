@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       24b10601-c88f-46fc-bbf9-3f7687c2d2ba
+:LAST_MODIFIED: [2023-03-17 Fri 08:24]
+:ROAM_REFS: [cite:@KnapsackProblem2023]
+:END:
+#+title: Knapsack problem
+#+hugo_custom_front_matter: :slug "24b10601-c88f-46fc-bbf9-3f7687c2d2ba"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-31 Tue 09:25]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+The knapsack problem is the following problem in combinatorial optimization:
+
+Given a set of items, each with a weight and a value, determine which items to include in the collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
+
+It derives its name from the problem faced by someone who is constrained by a fixed-size knapsack and must fill it with the most valuable items. The problem often arises in resource allocation where the decision-makers have to choose from a set of non-divisible projects or tasks under a fixed budget or time constraint, respectively.
+
+[cite:@KnapsackProblem2023]
+#+end_quote
+
+* Definition
+** 0-1 knapsack problem
+:PROPERTIES:
+:ID:       9a14a1ae-fb32-497d-be27-bdc03518e87a
+:END:
+
+#+begin_quote
+The most common problem being solved is the 0-1 knapsack problem, which restricts the number $x_{i}$ of copies of each kind of item to zero or one. Given a set of $n$ items numbered from 1 up to $n$, each with a weight $w_{i}$ and a value $v_{i}$, along with a maximum weight capacity $W$,
+
+maximize $\sum _{i=1}^{n}v_{i}x_{i}$
+
+subject to $\sum _{i=1}^{n}w_{i}x_{i}\leq W$ and $x_{i}\in \{0,1\}$
+
+Here $x_i$ represents the number of instances of item $i$ to include in the knapsack. Informally, the problem is to maximize the sum of the values of the items in the knapsack so that the sum of the weights is less than or equal to the knapsack's capacity.
+
+[cite:@KnapsackProblem2023]
+#+end_quote
+
+** Bounded knapsack problem
+:PROPERTIES:
+:ID:       3e98b827-6387-47f1-a9ce-eb51992215d9
+:END:
+#+begin_quote
+The bounded knapsack problem (BKP) removes the restriction that there is only one of each item, but restricts the number $x_{i}$ of copies of each kind of item to a maximum non-negative integer value $c$
+#+end_quote
+
+** Unbounded knapsack problem
+:PROPERTIES:
+:ID:       36f6c220-126e-4c97-af0d-778a81861a99
+:END:
+
+#+begin_quote
+The unbounded knapsack problem (UKP) places no upper bound on the number of copies of each kind of item and can be formulated as above except that the only restriction on $x_{i}$ is that it is a non-negative integer.
+#+end_quote
+
+* Variations
+
+#+begin_quote
+The subset sum problem [[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]]] is a special case of the decision and 0-1 problems where each kind of item, the weight equals the value: $w_{i}=v_{i}$.
+
+[cite:@KnapsackProblem2023]
+#+end_quote
+
+
+* TODO [#2]
+* TODO [#2] Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 16:48]
+:FC_CREATED: 2023-02-08T00:48:58Z
+:FC_TYPE:  double
+:ID:       1e646729-9e69-4734-aabd-6290c9d98d4e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    52.96 | 2023-05-09T13:01:25Z |
+| back     | 2.50 |   4 |    15.41 | 2023-03-24T03:22:10Z |
+:END:
+
+[[id:24b10601-c88f-46fc-bbf9-3f7687c2d2ba][Knapsack problem]]
+
+*** Back
+Given a set of items, each with a weight and a value, determine which items to include in the collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
+*** Source
+[cite:@KnapsackProblem2023]
+#+print_bibliography:

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       773406e0-fe95-41f4-a254-b2c6ade18ce9
+:ROAM_REFS: [cite:@PersonalKnowledgeManagement2022]
+:ROAM_ALIASES: PKM
+:END:
+#+title: Personal knowledge management
+#+hugo_custom_front_matter: :slug "773406e0-fe95-41f4-a254-b2c6ade18ce9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 07:20]
+
+#+begin_quote
+Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities and the way in which these processes support work activities. It is a response to the idea that knowledge workers need to be responsible for their own growth and learning.
+
+[cite:@PersonalKnowledgeManagement2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

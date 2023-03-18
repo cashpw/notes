@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       3642d973-8af3-4d0f-a446-9ee24c2f85e7
+:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:END:
+#+title: Single-source shortest path with topological sort in Python
+#+hugo_custom_front_matter: :slug "3642d973-8af3-4d0f-a446-9ee24c2f85e7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-31 Tue 07:08]
+#+filetags: :concept:
+
+An [[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of a solution to the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]] which leverages the [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] of the underlying graph (in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]).
+
+#+begin_src python :results output
+import math
+
+from typing import List, Mapping, TypeVar, Generic
+from dataclasses import dataclass, field
+from itertools import count
+
+T = TypeVar('T')
+NodeId = int
+EdgeWeight = int
+Edges = Mapping[NodeId, Mapping[NodeId, EdgeWeight]]
+Previouses = Mapping[NodeId, NodeId]
+Distances = Mapping[NodeId, EdgeWeight]
+
+@dataclass
+class Node(Generic[T]):
+    value: T
+    id: NodeId = field(defualt_factory=count().__next__)
+
+def single_source_shortest_path(target_id: NodeId, topological_ordering: List[NodeId], edges: Edges) -> Tuple[Previouses, Distances]:
+    """Find the shortest paths from TARGET_ID to all vertices in EDGES which are connected to TARGET_ID.
+
+    Return a tuple of:
+    - previouses: Mapping from Node.id to the previous Node.id in the shortest path
+    - distances: Mapping from Node.id to the distance from TARGET_ID to that Node"""
+
+    distances = {}
+    previouses = {}
+
+    for node_id in edges:
+        distances[node_id] = math.inf
+        previouses[node_id] = None
+
+    distances[target_id] = 0
+
+    def visit(node_id: NodeId) -> None:
+        for neighbor_id, edge_weight in [(neighbor_id, edges[node_id][neighbor_id]) for neighbor_id in edges[node_id]]:
+            if distances[neighbor_id] > distances[node_id] + edge_weight:
+                distances[neighbor_id] = distances[node_id] + edge_weight
+                previouses[neighbor_id] = node_id
+
+    visit(target_id)
+    for node_id in [id for id in topological_ordering if id != target_id]:
+        visit(node_id)
+
+    return distances, previouses
+#+end_src
+
+* Flashcards
+** Normal :fc:implement:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 07:09]
+:FC_CREATED: 2023-01-31T15:10:25Z
+:FC_TYPE:  normal
+:ID:       ca38d257-3a7b-4ca8-9478-deef6a819298
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   0 |     0.00 | 2023-02-02T15:42:24Z |
+:END:
+
+Implement a solution to the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]] which leverages a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+
+*** Back
+[[id:3642d973-8af3-4d0f-a446-9ee24c2f85e7][Single-source shortest path with topological sort in Python]]
+*** Source
+[cite:@TopologicalSorting2022]
+#+print_bibliography:

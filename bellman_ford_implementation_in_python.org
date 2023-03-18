@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       1e2daf6b-a3b6-471c-b273-b91f3e1f745d
+:LAST_MODIFIED: [2023-02-13 Mon 06:10]
+:END:
+#+title: Bellman-Ford implementation in Python
+#+hugo_custom_front_matter: :slug "1e2daf6b-a3b6-471c-b273-b91f3e1f745d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-28 Wed 08:37]
+#+filetags: :concept:
+
+An [[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
+#+begin_src python :results output
+import math
+
+from dataclasses import dataclass, field
+from typing import Generic, TypeVar, Mapping, List
+from itertools import count
+
+T = TypeVar('T')
+
+@dataclass
+class Node(Generic[T]):
+    value: T
+    id: int = field(default_value=count().__next__)
+
+NodeId = int
+EdgeWeight = int
+Edges = Mapping[NodeId, Mapping[NodeId, EdgeWeight]]
+Nodes = Mapping[NodeId, Node]
+Distances = Mapping[NodeId, int]
+Previouses = Mapping[NodeId, NodeId]
+
+def bellman_ford(source: Node, edges: Edges, nodes: Nodes) -> Tuple[Distances, Previouses]:
+    """Solve single-source shortest path using Bellman Ford.
+
+    TODO: Return types, explain parameters.
+    """
+
+    def list_edges() -> Tuple[NodeId, NodeId, EdgeWeight]:
+        for a_id in edges:
+            for b_id, weight in edges[a_id]:
+                yield a_id, b_id, weight
+
+    distances = {}
+    previouses = {}
+
+    for node_id,_ in nodes:
+        distance[node_id] = math.inf
+        previouses[node_id] = None
+
+    distance[source.id] = 0
+
+    # Find single-source shortest paths
+    for _ in range(len(nodes) - 1):
+         for a_id, b_id, weight in list_edges():
+            if distance[a_id] + weight < distance[b_id]:
+                distance[b_id] = distance[a_id] + weight
+                previouses[b_id] = a_id
+
+    # Test for negative cycle
+    for a_id, b_id, weight in list_edges():
+        if distance[a_id] + weight < distance[b_id]:
+            raise Exception('Negative cycle present.')
+
+    return distances, previouses
+#+end_src
+* Flashcards
+** Implement :fc:
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 18:22]
+:FC_CREATED: 2023-01-09T02:22:38Z
+:FC_TYPE:  normal
+:ID:       c4154a8c-1256-4128-9f99-7abeb2cf685c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    47.38 | 2023-04-01T23:12:01Z |
+:END:
+
+Implement [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] to solve the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+
+*** Back
+[[id:1e2daf6b-a3b6-471c-b273-b91f3e1f745d][Bellman-Ford implementation in Python]]
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+#+print_bibliography:

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@siversThereNoSpeedLimit2009]
+:ID:       e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
+:DIR:      /home/cashweaver/proj/roam/attachments/e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
+:END:
+#+title: Derek Sivers | There's No Speed Limit
+#+hugo_custom_front_matter: :slug "e02451fc-c9d5-4c02-849b-d9b7d4cc95a7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 07:34]
+#+filetags: :reference:
+ 
+[[id:699c0a4b-7bcf-4175-851c-8dd5deac8e84][Derek Sivers]], [cite:@siversThereNoSpeedLimit2009]
+
+* Summary
+[[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]].
+* Notes
+
+#+begin_quote
+I was seventeen and about to start my first year at Berklee College of Music.
+
+I called a local recording studio with a random question about music typesetting.
+
+When the studio owner heard I was going to Berklee, he said, "I graduated from Berklee and taught there, too. I'll bet I can teach you two years of theory and arranging in only a few lessons. I suspect you can graduate in two years if you understand there's no speed limit. Come by my studio at 9:00 tomorrow for your first lesson, if you're interested. No charge."
+
+Graduate college in two years? Awesome! I liked his style. That was [[https://jkimowilliams.com/][Kimo Williams]].
+
+I showed up at his studio at 8:40 the next morning, super excited, though I waited outside before ringing his bell at 8:59.
+
+He opened the door. A tall man in a Hawaiian shirt and a big hat, with a square scar on his nose, a laid-back demeanor, and a huge smile, sizing me up, nodding.
+
+(Recently I heard him tell the story from his perspective. He said, "My doorbell rang at 8:59 one morning and I had no idea why. I run across kids all the time who say they want to be a great musician. I tell them I can help, and tell them to show up at my studio at 9:00 if they're serious. Nobody ever does. It's how I weed out the really serious ones from the kids who just talk. But there was Derek, ready to go.")
+
+[...]
+
+The pace was intense, and I loved it. Finally, someone was challenging me — keeping me in over my head — encouraging and expecting me to pull myself up quickly [[[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]]. I was learning so fast, it felt like the adrenaline rush you get while playing a video game. He tossed every fact at me and made me prove that I got it [[[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]].
+
+Kimo's high expectations set a new pace for me. He taught me that "the standard pace is for chumps" — that the system is designed so anyone can keep up. If you're more driven [[[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]]] than most people, you can do way more than anyone expects. And this principle applies to all of life, not just school.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       4d1bdced-1025-4985-8bef-3e34109fb47d
+:LAST_MODIFIED: [2023-03-13 Mon 07:54]
+:END:
+#+title: Zero-sum game
+#+hugo_custom_front_matter: :slug "4d1bdced-1025-4985-8bef-3e34109fb47d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 10:48]
+#+filetags: :concept:
+
+#+begin_quote
+Zero-sum game is a mathematical representation in [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]] and economic theory of a situation which involves two sides, where the result is an advantage for one side and an equivalent loss for the other. In other words, player one's gain is equivalent to player two's loss, therefore the net improvement in benefit of the game is zero.
+
+[cite:@ZerosumGame2022]
+#+end_quote
+
+The opposite of a [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:ID:       32ba963e-8d05-464a-933c-4ab5bb546994
+:ANKI_NOTE_ID: 1658598600031
+:FC_CREATED: 2022-07-23T17:50:00Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   7 |   209.94 | 2023-10-09T13:22:43Z |
+| front    | 2.80 |   6 |   138.63 | 2023-06-17T17:35:49Z |
+:END:
+
+[[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]
+
+*** Back
+A situation involving two or more sides in which any gain by one side is a loss for the other sides.
+
+*** Source
+[cite:@ZerosumGame2022]
+
+** Example(s) ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:ID:       834a0887-180b-4d9c-960c-fa6cc56cf94a
+:ANKI_NOTE_ID: 1658598881032
+:FC_CREATED: 2022-07-23T17:54:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   7 |   201.46 | 2023-09-26T05:35:47Z |
+| back     | 2.50 |   6 |   100.22 | 2023-03-23T23:49:39Z |
+:END:
+
+[[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]
+
+*** Back
+- The division of finite resources (e.g. Cutting a cake)
+*** Source
+[cite:@ZerosumGame2022]
+#+print_bibliography:

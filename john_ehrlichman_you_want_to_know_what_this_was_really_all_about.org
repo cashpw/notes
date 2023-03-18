@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@DrugWarConfessional]
+:ID:       a0010be4-80dd-447b-a35f-528e5d484499
+:LAST_MODIFIED: [2023-03-17 Fri 07:01]
+:END:
+#+title: John Ehrlichman | You want to know what this was really all about?
+#+hugo_custom_front_matter: :slug "a0010be4-80dd-447b-a35f-528e5d484499"
+#+author: Cash Weaver
+#+date: [2023-03-06 Mon 06:35]
+#+filetags: :reference:
+
+[[id:67e4a0c7-322e-4804-928e-856c5e0c4468][John Ehrlichman]], [cite:@DrugWarConfessional]
+
+* Thoughts
+- [[id:c0e03db8-0858-48f1-ba88-9485d7773d10][Criminals still have rights]]
+* Notes
+#+begin_quote
+You want to know what this [war on drugs] was really all about? The Nixon campaign in 1968, and the Nixon White House after that, had two enemies: the antiwar left and black people. You understand what I'm saying?
+
+We knew we couldn't make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news.
+
+Did we know we were lying about the drugs? Of course we did.
+#+end_quote
+#+print_bibliography:
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-06 Mon 06:36]
+:FC_CREATED: 2023-03-06T14:37:33Z
+:FC_TYPE:  double
+:ID:       b5ff7311-ea62-4177-b3f4-c0440cdbc603
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-19T14:36:28Z |
+| back     | 2.50 |   3 |     6.00 | 2023-03-23T14:01:59Z |
+:END:
+
+[[id:67e4a0c7-322e-4804-928e-856c5e0c4468][John Ehrlichman]] on the real reason for the war on drugs
+
+*** Back
+#+begin_quote
+[...] The Nixon campaign in 1968, and the Nixon White House after that, had two enemies: the antiwar left and black people. You understand what I'm saying?
+
+We knew we couldn't make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities. We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news.
+#+end_quote
+*** Source
+[cite:@DrugWarConfessional]
+#+print_bibliography:

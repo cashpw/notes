@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       ee39d99d-f838-4555-8732-f94bab2f67ee
+:LAST_MODIFIED: [2023-03-04 Sat 07:03]
+:END:
+#+title: We must always take sides
+#+hugo_custom_front_matter: :slug "ee39d99d-f838-4555-8732-f94bab2f67ee"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-03 Sun 11:44]
+#+filetags: :quote:
+
+#+begin_quote
+We must always take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere. When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men or women are persecuted because of their race, religion, or political views, that place must – at that moment – become the center of the universe.
+
+[[id:4bf11b17-694c-455b-8411-1e00719b30ce][Elie Wiesel]], [cite:@NobelPeacePrize1986]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 07:08]
+:FC_CREATED: 2022-11-14T15:10:05Z
+:FC_TYPE:  double
+:ID:       9cad7011-7908-405e-b269-a56c4b56ffa9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    83.83 | 2023-04-28T12:29:50Z |
+| back     | 2.95 |   6 |   159.38 | 2023-08-11T00:16:35Z |
+:END:
+
+[[id:ee39d99d-f838-4555-8732-f94bab2f67ee][We must always take sides]]
+
+*** Back
+- Neutrality helps the oppressor; never the victim
+- Spoken in the context of the holocaust
+*** Source
+[cite:@NobelPeacePrize1986]
+#+print_bibliography:

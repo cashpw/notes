@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       57d94e2b-f842-483e-bcdb-c4d8e91a6ab5
+:LAST_MODIFIED: [2023-02-27 Mon 20:46]
+:ROAM_ALIASES: "Transative dependency"
+:END:
+#+title: Transitive relation
+#+hugo_custom_front_matter: :slug "57d94e2b-f842-483e-bcdb-c4d8e91a6ab5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 17:10]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a relation $R$ on a set $X$ is transitive if, for all elements $a, b, c$ in $X$, whenever $R$ relates $a$ to $b$ and $b$ to $c$, then $R$ also relates $a$ to $c$. Each partial order as well as each equivalence relation needs to be transitive.
+
+$(a \, R \, b \; \text{and} \; b \, R \, c) \implies$ $a \, R \, c \; \forall \; a, b, c \in X \; | \; R$ is a homogeneous relation over a set $X$.
+
+[cite:@TransitiveRelation2022]
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       07ac239d-fe6d-4170-936d-66ff94ba573f
+:ANKI_NOTE_ID: 1640627860573
+:FC_CREATED: 2021-12-27T17:57:40Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   381.25 | 2024-03-15T10:40:09Z |
+| front    | 2.80 |   8 |   320.54 | 2023-12-07T06:15:20Z |
+:END:
+
+[[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive relation]]
+
+*** Back
+
+$(a \, R \, b$ and $b \, R \, c) \implies$ $a \, R \, c \; \forall \; a, b, c \in X \; | \; R$ is a homogeneous relation over a set $X$.
+
+*** Extra
+Eg: "ancestor of"
+
+*** Source
+[cite:@TransitiveRelation2022]
+** Definition (Software Engineering) :fc:
+:PROPERTIES:
+:ID:       a7f095b4-3f5d-4674-9b0d-ebfe569b576b
+:ANKI_NOTE_ID: 1640627792945
+:FC_CREATED: 2021-12-27T17:56:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   7 |   113.68 | 2023-03-21T10:40:35Z |
+| front    | 2.35 |   7 |    84.21 | 2023-03-28T21:47:23Z |
+:END:
+
+[[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transative dependency]]
+
+*** Back
+An indirect dependency through one or more other objects.
+
+*** Extra
+eg: $(A \to B$ and $B \to C) \implies$ $A \to C$
+
+*** Source
+[cite:@TransitiveDependency2022]
+#+print_bibliography:

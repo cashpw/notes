@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       5b235c79-d75b-4e4e-808a-b43f532b6226
+:ROAM_ALIASES: "Prefix trie" "Prefix tree"
+:ROAM_REFS: [cite:@Trie2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:END:
+#+title: Trie
+#+hugo_custom_front_matter: :slug "5b235c79-d75b-4e4e-808a-b43f532b6226"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-21 Wed 19:18]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]], also called digital tree or [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]], is a type of k-ary search tree, a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] used for locating specific keys from within a set. These keys are most often strings, with links between [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]] defined not by the entire key, but by individual characters. In order to access a key (to recover its value, change it, or remove it), the trie is traversed [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first]], following the links between nodes, which represent each character in the key.
+
+[cite:@Trie2022]
+#+end_quote
+
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/500px-Trie_example.svg.png @ 2022-09-21 19:20:50
+[[file:2022-09-21_19-20-50_500px-Trie_example.svg.png]]
+
+[cite:@Trie2022]
+#+end_quote
+
+* Flashcards
+
+** Describe :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-27T16:44:32Z
+:FC_TYPE:  double
+:ID:       0767079c-534c-477d-a458-4a55ed24f202
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    47.15 | 2023-04-29T18:05:26Z |
+| back     | 2.50 |   6 |    96.07 | 2023-05-24T16:43:08Z |
+:END:
+
+[[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
+
+*** Back
+
+A k-ary search tree for locating keys within a set.
+
+** Image :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-27T16:46:17Z
+:FC_TYPE:  double
+:ID:       d09f73ae-c386-401e-b37e-093fcfffe038
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   119.34 | 2023-05-08T22:24:02Z |
+| back     | 2.50 |   6 |   119.34 | 2023-05-29T10:46:00Z |
+:END:
+
+[[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
+
+*** Back
+
+[[file:2022-09-21_19-20-50_500px-Trie_example.svg.png]]
+
+** Examples :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-27T16:47:52Z
+:FC_TYPE:  double
+:ID:       0dd1121f-c2e1-4f9d-bb83-a60665f35e4b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   102.81 | 2023-05-11T11:48:00Z |
+| back     | 2.35 |   6 |    56.70 | 2023-04-06T11:13:48Z |
+:END:
+
+Applications of a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
+
+*** Back
+- Full text search
+- Spell checking
+- Autocomplete or predictive text
+
+** {{[[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]]}{trie}@0} edges are {{one character}{length}@1} long :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:20]
+:FC_CREATED: 2022-11-25T18:21:35Z
+:FC_TYPE:  cloze
+:ID:       832264ca-e355-44f9-93fa-125b7c2896f5
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    90.06 | 2023-06-15T15:39:39Z |
+|        1 | 2.20 |   6 |    56.21 | 2023-04-08T04:45:55Z |
+:END:
+
+*** Source
+[cite:@Trie2022]
+#+print_bibliography:

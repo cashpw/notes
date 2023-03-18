@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0
+:ROAM_ALIASES: "Reasoning from assumptions"
+:LAST_MODIFIED: [2023-02-17 Fri 06:59]
+:END:
+#+title: Reasoning from analogies
+#+hugo_custom_front_matter: :slug "58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 08:24]
+#+startup: overview
+#+filetags: :concept:
+
+The act of using analogy, assumptions, and otherwise pre-existing arguments, to build an argument, proof, etc.
+
+In contrast to [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][reasoning from first principles]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 20:19]
+:FC_CREATED: 2022-11-22T04:19:27Z
+:FC_TYPE:  normal
+:ID:       cf0460b7-46c5-4107-9044-5e04d147bdd4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   102.83 | 2023-05-30T23:23:57Z |
+:END:
+
+[[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][Reasoning from analogies]] and [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]
+
+*** Back
+- [[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][Reasoning from analogies]]
+  - Less mentally taxing
+  - Useful for doing things that have been figured out
+- [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]
+  - More mentally taxing
+  - Useful for developing original insights
+*** Source
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 20:28]
+:FC_CREATED: 2022-11-22T04:31:29Z
+:FC_TYPE:  double
+:ID:       ec5131db-a0ff-418d-8437-d67625838e74
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   118.10 | 2023-05-31T18:10:18Z |
+| back     | 2.50 |   6 |    91.06 | 2023-05-19T16:25:56Z |
+:END:
+
+[[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][Reasoning from analogies]]
+
+*** Back
+The technique of crafting an argument from higher-order principles.
+*** Source

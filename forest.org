@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       326df302-a17b-4f2c-8bcd-027be7a459f5
+:LAST_MODIFIED: [2023-02-08 Wed 10:43]
+:END:
+#+title: Forest
+#+hugo_custom_front_matter: :slug "326df302-a17b-4f2c-8bcd-027be7a459f5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-05 Tue 17:57]
+#+filetags: :concept:
+
+#+begin_quote
+A forest is an undirected [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are connected by at most one path, or equivalently an acyclic [[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]] or equivalently a disjoint union of trees.
+
+[cite:@TreeGraphTheory2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
+:PROPERTIES:
+:ID:       9295df9e-9fcc-4523-b5c6-0fbe0cb08b10
+:ANKI_NOTE_ID: 1658321253970
+:FC_CREATED: 2022-07-20T12:47:33Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   242.78 | 2023-10-09T13:32:56Z |
+| front    | 2.50 |  10 |   187.12 | 2023-08-13T02:23:04Z |
+:END:
+[[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]
+*** Back
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are connected by at most one path.
+*** Source
+[cite:@TreeGraphTheory2022]
+** AKA ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
+:PROPERTIES:
+:ID:       0a69a1f9-430d-4ea6-8ba0-6149cc72bdcc
+:ANKI_NOTE_ID: 1658321255144
+:FC_CREATED: 2022-07-20T12:47:35Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   255.94 | 2023-10-02T14:55:19Z |
+|        1 | 2.80 |   7 |   296.37 | 2023-12-01T03:12:56Z |
+:END:
+- {{[[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]}@0}
+- {{Disjoint union of [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Trees]]}@1}
+*** Source
+[cite:@TreeGraphTheory2022]
+#+print_bibliography:

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@edingSparseMatrices]
+:ID:       26116df3-08f6-4a3d-ab21-c1f33d2facfd
+:LAST_MODIFIED: [2022-12-14 Wed 13:30]
+:END:
+#+title: Matt Eding | Sparse Matrices
+#+hugo_custom_front_matter: :slug "26116df3-08f6-4a3d-ab21-c1f33d2facfd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-21 Tue 18:33]
+#+filetags: :has_todo:reference:
+#+hugo_auto_set_lastmod: t
+ 
+TODO_AUTHOR, [cite:@edingSparseMatrices]
+
+[[id:2c005434-56e2-430d-a4b9-8ad05d052f49][Sparse matrices]]
+
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
+
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

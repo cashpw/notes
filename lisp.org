@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       f6e9082b-3589-448a-9877-b9a2b31d88ba
+:LAST_MODIFIED: [2023-01-25 Wed 08:58]
+:END:
+#+title: Lisp
+#+hugo_custom_front_matter: :slug "f6e9082b-3589-448a-9877-b9a2b31d88ba"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 08:45]
+#+filetags: :concept:
+
+#+begin_quote
+Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
+
+[...]
+
+The name LISP derives from "LISt Processor". Linked lists are one of Lisp's major data structures, and Lisp source code is made of lists. Thus, Lisp programs can manipulate source code as a data structure, giving rise to the macro systems that allow programmers to create new syntax or new domain-specific languages embedded in Lisp.
+
+The interchangeability of code and data gives Lisp its instantly recognizable syntax. All program code is written as [[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][S-expressions]], or parenthesized lists. A function call or syntactic form is written as a list with the function or operator's name first, and the arguments following; for instance, a function =f= that takes three arguments would be called as =(f arg1 arg2 arg3)=.
+
+[cite:@LispProgrammingLanguage2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]] uses {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expressions]]}@0} to represent {{both source code and data}@1}. :fc:
+:PROPERTIES:
+:ID:       6578cd58-d130-40da-a630-5f3b574d1c9b
+:ANKI_NOTE_ID: 1656857163282
+:FC_CREATED: 2022-07-03T14:06:03Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   160.36 | 2023-04-14T08:49:37Z |
+|        1 | 2.65 |   7 |   189.66 | 2023-05-24T06:02:36Z |
+:END:
+*** Extra
+*** Source
+[cite:@LispProgrammingLanguage2022]
+** The name {{[[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]}@0} derives from {{LISt Processor}@1} :fc:
+:PROPERTIES:
+:ID:       7a112386-55ba-41b4-9412-ceee61740a3d
+:ANKI_NOTE_ID: 1656857164108
+:FC_CREATED: 2022-07-03T14:06:04Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   261.94 | 2023-10-14T15:33:27Z |
+|        1 | 2.50 |   7 |   230.90 | 2023-09-06T13:01:02Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@LispProgrammingLanguage2022]
+#+print_bibliography:

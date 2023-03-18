@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       0a8c2a35-590e-4f8b-9d98-40a44e15dfb7
+:LAST_MODIFIED: [2023-03-17 Fri 06:54]
+:END:
+#+title: Path (graph theory)
+#+hugo_custom_front_matter: :slug "0a8c2a35-590e-4f8b-9d98-40a44e15dfb7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 11:58]
+#+filetags: :concept:
+
+#+begin_quote
+A path is a trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]]] in which all vertices (and therefore also all edges) are distinct.
+
+[cite:@PathGraphTheory2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:01]
+:FC_CREATED: 2022-12-22T20:02:09Z
+:FC_TYPE:  double
+:ID:       aebc682e-dc1e-4ad7-953c-28739cfeec76
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    14.34 | 2023-03-26T08:40:55Z |
+| back     | 2.65 |   6 |   116.41 | 2023-07-11T23:42:56Z |
+:END:
+
+[[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]
+
+*** Back
+A [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which all [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] (and therefore all [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]) distinct.
+*** Source
+[cite:@PathGraphTheory2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:02]
+:FC_CREATED: 2022-12-22T20:03:25Z
+:FC_TYPE:  normal
+:ID:       f8d401bb-ab28-4dc5-ad50-62ccf07a5f8d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    75.19 | 2023-05-17T18:42:09Z |
+:END:
+
+- [[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]]
+- [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]]
+- [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]
+
+*** Back
+- [[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]]: finite or infinite sequence of edges which join a sequence of vertices
+- [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]]: [[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]] with distinct edges
+- [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]: [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] with distinct vertices
+*** Source
+[cite:@PathGraphTheory2022]
+#+print_bibliography:

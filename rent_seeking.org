@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       7b600674-2c87-4532-b676-a6e025fca18e
+:LAST_MODIFIED: [2023-02-28 Tue 06:59]
+:END:
+#+title: Rent-seeking
+#+hugo_custom_front_matter: :slug "7b600674-2c87-4532-b676-a6e025fca18e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 15:25]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Rent-seeking is the act of growing one's existing wealth without creating new wealth by manipulating the social or political environment. Rent-seeking activities have negative effects on the rest of society. They result in reduced economic efficiency through misallocation of resources, reduced wealth creation, lost government revenue, heightened income inequality, and potential national decline.
+
+[cite:@Rentseeking2022]
+#+end_quote
+
+* TODO [#4] Expand :noexport:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:26]
+:FC_CREATED: 2022-11-18T23:27:39Z
+:FC_TYPE:  double
+:ID:       fecd0330-7dd9-455e-9e16-a240445b6b5a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    91.47 | 2023-05-29T03:26:17Z |
+| back     | 2.80 |   6 |    94.29 | 2023-06-02T21:57:31Z |
+:END:
+
+[[id:7b600674-2c87-4532-b676-a6e025fca18e][Rent-seeking]]
+
+*** Back
+The act of growing one's existing wealth without creating new wealth by manipulating the social or political environment.
+*** Source
+[cite:@Rentseeking2022]
+#+print_bibliography:

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ChooseBoringTechnology] [cite:@mckinleyChooseBoringTechnology]
+:ID:       ffc17a16-4fd4-436f-ba8a-fcb9db62f150
+:END:
+#+title: Dan McKinley | Choose Boring Technology
+#+hugo_custom_front_matter: :slug "ffc17a16-4fd4-436f-ba8a-fcb9db62f150"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-10 Thu 17:13]
+#+filetags: :has_todo:reference:
+
+[[id:19926ee0-23db-4536-83c1-3bf90fd9f5f4][Dan McKinley]], [cite:@mckinleyChooseBoringTechnology], [cite:@ChooseBoringTechnology]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       c9e0ef8d-dace-4826-8d45-83605f4ec7e2
+:ROAM_REFS: [cite:@EquivalenceRelation2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:07]
+:END:
+#+title: Equivalence relation
+#+hugo_custom_front_matter: :slug "c9e0ef8d-dace-4826-8d45-83605f4ec7e2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-06 Tue 06:58]
+#+filetags: :has_todo:concept:
+#+begin_quote
+In mathematics, an equivalence relation is a binary relation that is reflexive [[[id:48d05562-111f-4e9a-b005-013d54d4419e][Reflexive relation]]], symmetric, [[[id:bc7c3e81-4498-43dd-9f65-b2c0e0cbf521][Symmetric relation]]] and transitive [[[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive relation]]].
+
+[cite:@EquivalenceRelation2022]
+#+end_quote
+
+* Flashcards
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       86a9c5c6-8c16-421a-bfeb-6944c9f3be89
+:ANKI_NOTE_ID: 1640627860972
+:FC_CREATED: 2021-12-27T17:57:40Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   399.43 | 2024-04-20T00:25:09Z |
+| front    | 2.65 |   8 |   248.46 | 2023-08-12T02:44:56Z |
+:END:
+
+[[id:c9e0ef8d-dace-4826-8d45-83605f4ec7e2][Equivalence relation]]
+
+*** Back
+A binary relation that is [[id:48d05562-111f-4e9a-b005-013d54d4419e][reflexive]], [[id:bc7c3e81-4498-43dd-9f65-b2c0e0cbf521][symmetric]] and [[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][transitive]].
+
+*** Extra
+Eg: "is equal to"
+
+*** TODO [#4] Source
+https://en.wikipedia.org/wiki/Equivalence_relation
+#+print_bibliography:

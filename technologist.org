@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       3923eefd-c5ff-455e-a107-cd5a9e9191c3
+:LAST_MODIFIED: [2023-02-16 Thu 19:25]
+:END:
+#+title: Technologist
+#+hugo_custom_front_matter: :slug "3923eefd-c5ff-455e-a107-cd5a9e9191c3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-17 Thu 07:57]
+#+filetags: :has_todo:concept:
+
+A technologist is one who:
+
+- is more focused on the /how/ than the /why/ or /what/; the [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]
+- focuses on the tool rather than what they're building with the tool
+- views [[id:f1b52515-ce90-451f-8b58-281cc314a693][Programming as poetry]] rather than [[id:d2918b36-ab82-4e9c-a7ee-ded62efb1d62][Programming as a tool to make things]]
+- [[id:8d287bb5-ccd4-4e23-a3df-7e7a2f929351][Solves the general case]] rather than a specific case
+* TODO [#4] Expand :noexport:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-11T01:38:23Z
+:FC_TYPE:  double
+:ID:       86f24130-3cc1-489c-8938-57f984b81a46
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    84.82 | 2023-04-27T13:03:07Z |
+| back     | 2.50 |   6 |    74.50 | 2023-05-02T15:28:25Z |
+:END:
+
+[[id:3923eefd-c5ff-455e-a107-cd5a9e9191c3][Technologist]] ([[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]])
+
+*** Back
+- someone more focused on the /how/ than the /why/ or /what/
+- focuses on the tool rather than what they're building with the tool
+- focuses on the general case -- the [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] -- rather than a specific case
+
+*** Source
+[cite:@tellmanTrappedTechnologistFactory]
+#+print_bibliography:

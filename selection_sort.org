@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       f8918bbe-8164-4105-8489-2f74fd10df6d
+:ROAM_REFS: [cite:@SelectionSort2022]
+:LAST_MODIFIED: [2023-03-04 Sat 07:01]
+:END:
+#+title: Selection sort
+#+hugo_custom_front_matter: :slug "f8918bbe-8164-4105-8489-2f74fd10df6d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-14 Fri 09:51]
+#+filetags: :concept:
+
+#+begin_quote
+The algorithm divides the input list into two parts: a sorted sublist of items which is built up from left to right at the front (left) of the list and a sublist of the remaining unsorted items that occupy the rest of the list. Initially, the sorted sublist is empty and the unsorted sublist is the entire input list. The algorithm proceeds by finding the smallest (or largest, depending on sorting order) element in the unsorted sublist, exchanging (swapping) it with the leftmost unsorted element (putting it in sorted order), and moving the sublist boundaries one element to the right.
+
+[cite:@SelectionSort2022]
+#+end_quote
+
+- [[id:cedb0b84-030c-4de7-b4ae-0ce16f09fa19][Comparison sorting algorithm]]
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 14:49]
+:FC_CREATED: 2022-11-18T22:50:25Z
+:FC_TYPE:  double
+:ID:       6ce251ca-57f9-4582-926a-8a889f495c28
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   123.63 | 2023-07-06T06:12:50Z |
+| back     | 2.20 |   6 |    60.02 | 2023-04-16T05:10:19Z |
+:END:
+
+[[id:f8918bbe-8164-4105-8489-2f74fd10df6d][Selection sort]]
+
+*** Back
+A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which builds up a sorted list of items by picking the next in-order item from the unsorted items.
+*** Source
+[cite:@SelectionSort2022]
+#+print_bibliography:

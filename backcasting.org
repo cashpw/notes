@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       bff6cb4c-8091-4c3d-87a9-397f54218d38
+:ROAM_ALIASES: Backcast
+:LAST_MODIFIED: [2023-02-16 Thu 19:31]
+:END:
+#+title: Backcasting
+#+hugo_custom_front_matter: :slug "bff6cb4c-8091-4c3d-87a9-397f54218d38"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-16 Wed 07:54]
+#+filetags: :concept:
+#+begin_quote
+Backcasting is a planning method that starts with defining a desirable future and then works backwards to identify policies and programs that will connect that specified future to the present. [...] The fundamental question of backcasting asks: "if we want to attain a certain goal, what actions must be taken to get there?"
+
+[cite:@Backcasting2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-16 Wed 07:57]
+:FC_CREATED: 2022-11-16T15:57:59Z
+:FC_TYPE:  double
+:ID:       6f7d510b-8b1b-4f57-8e0c-8569bd9ea48b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   6 |    53.26 | 2023-03-20T21:05:35Z |
+| back     | 2.65 |   6 |    95.91 | 2023-05-24T01:26:34Z |
+:END:
+
+[[id:bff6cb4c-8091-4c3d-87a9-397f54218d38][Backcasting]]
+
+*** Back
+A planning method which starts from a desirable future and works backward to identify policies, programs, etc, that connect that future to the present.
+*** Source
+[cite:@Backcasting2022]
+#+print_bibliography:

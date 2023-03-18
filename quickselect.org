@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       df6876e1-5035-4432-9b8a-19898faa4fdd
+:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:END:
+#+title: Quickselect
+#+hugo_custom_front_matter: :slug "df6876e1-5035-4432-9b8a-19898faa4fdd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-01 Fri 16:09]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, quickselect is a [[id:7fbcef27-68c4-4793-8fc0-e10114318765][Selection algorithm]] to find the kth smallest element in an unordered list. It is related to the [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]].
+#+end_quote
+
+* Algorithm
+
+To find the =k=-th smallest element in a =list=:
+
+1. Select a =pivotIndex=
+2. =Partition= the =list= around the =pivotIndex=
+3. If =Partition(...)= returns =k=: =return list[k]=
+4. Else if =Partition(...) < k=: Apply =Quicksort= to the left set
+5. Else: Apply =Quicksort= to the right set
+
+#+begin_src
+procedure QuickSort(list, targetIndex) is
+  procedure Swap(list, indexA, indexB) is
+    ...
+
+  procedure Partition(list, leftIndex, rightIndex, pivotIndex) is
+    pivotValue = list[pivotIndex]
+    swap list[pivotIndex] and list[rightIndex]
+
+    i = leftIndex - 1
+    for j from leftIndex to rightIndex - 1 do
+      if list[j] <= pivotValue then
+        i += 1
+        swap list[i] and list[j]
+    i += 1
+    swap list[i] and list[rightIndex]
+    return i
+
+  procedure QuickSortInner(list, leftIndex, rightIndex, targetIndex) is
+    pivotIndex = rightIndex
+    pivotIndex = Partition(list, leftIndex, rightIndex, pivotIndex)
+
+    if targetIndex is pivotIndex then
+      return list[pivotIndex]
+
+    if targetIndex < pivotIndex then
+      return QuickSortInner(list, leftIndex, pivotIndex - 1, targetIndex)
+
+    return QuickSortInner(list, pivotIndex + 1, rightIndex, targetIndex)
+
+  return QuickSortInner(list, 0, len(list)-1, targetIndex)
+#+end_src
+
+* Implementation
+
+- [[id:ffec0117-bbea-4197-865c-112e417c8f1d][Quickselect implementation in Python]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Basic with Source :fc:implement:
+:PROPERTIES:
+:ID:       464adc50-faf3-444b-a522-2cc35e497d61
+:ANKI_NOTE_ID: 1662498708646
+:FC_CREATED: 2022-09-06T21:11:48Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY: ed13ac90-e2d7-4d6b-a22b-2987362aa88d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   0 |     0.00 | 2023-01-23T14:48:22Z |
+:END:
+
+Implement [[id:df6876e1-5035-4432-9b8a-19898faa4fdd][Quickselect]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+
+*** Back
+[[id:ffec0117-bbea-4197-865c-112e417c8f1d][Quickselect implementation in Python]]
+
+** Algorithm :fc:
+:PROPERTIES:
+:ID:       ed13ac90-e2d7-4d6b-a22b-2987362aa88d
+:ANKI_NOTE_ID: 1662498717045
+:FC_CREATED: 2022-09-06T21:11:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   126.92 | 2023-06-05T17:26:47Z |
+| back     | 2.35 |   6 |    67.66 | 2023-04-15T10:52:13Z |
+:END:
+
+[[id:df6876e1-5035-4432-9b8a-19898faa4fdd][Quickselect]]
+
+*** Back
+To find the =k=-th smallest element in a =list=:
+
+1. Select a =pivotIndex=
+2. =Partition= the =list= around the =pivotIndex=
+3. If =Partition(...)= returns =k=: =return list[k]=
+4. Else if =Partition(...) < k=: Apply =Quicksort= to the left set
+5. Else: Apply =Quicksort= to the right set

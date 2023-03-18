@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4be26817-4ffd-4975-97aa-deda536235a5
+:ROAM_ALIASES: org-fc
+:ROAM_REFS: [cite:@leonOrgFlashcards2022]
+:END:
+#+title: Org flashcards
+#+hugo_custom_front_matter: :slug "4be26817-4ffd-4975-97aa-deda536235a5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 07:39]
+#+filetags: :concept:
+
+#+begin_quote
+Org-fc is a [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]] system for [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]]' [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]].
+
+It allows you to mark headlines in a file as "flashcards", turning pieces of knowledge you want to learn into a question-answer test.
+
+These cards are reviewed at regular interval. After each review, the next review interval is calculated based on how well you remembered the contents of the card.
+
+[cite:@leonOrgFlashcards2022]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e549e41e-1a12-41a9-8547-540eefac6d81
+:ROAM_REFS: [cite:@HeatDeathUniverse2023]
+:LAST_MODIFIED: [2023-03-13 Mon 07:51]
+:END:
+#+title: Heat death of the universe
+#+hugo_custom_front_matter: :slug "e549e41e-1a12-41a9-8547-540eefac6d81"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-13 Mon 07:50]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+The heat death of the universe (also known as the Big Chill or Big Freeze)[1] is a hypothesis on the ultimate fate of the universe, which suggests the universe will evolve to a state of no thermodynamic free energy, and will therefore be unable to sustain processes that increase entropy.
+
+[cite:@HeatDeathUniverse2023]
+#+end_quote
+
+* TODO [#4] Flashcards
+#+print_bibliography:

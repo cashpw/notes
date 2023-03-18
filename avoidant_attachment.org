@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       e0b22ae5-2b52-4433-8282-ad86037915d4
+:LAST_MODIFIED: [2023-02-18 Sat 09:23]
+:END:
+#+title: Avoidant attachment
+#+hugo_custom_front_matter: :slug "e0b22ae5-2b52-4433-8282-ad86037915d4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 13:22]
+#+filetags: :concept:
+
+An [[id:5f944538-ef8c-464f-b2da-c0f973558eca][attachment]] pattern in which the child "gives up" on receiving comfort altogether.
+
+#+begin_quote
+An infant with an anxious-avoidant pattern of attachment will avoid or ignore the caregiver—showing little emotion when the caregiver departs or returns. The infant will not explore very much regardless of who is there. Infants classified as anxious-avoidant (A) represented a puzzle in the early 1970s. They did not exhibit distress on separation, and either ignored the caregiver on their return (A1 subtype) or showed some tendency to approach together with some tendency to ignore or turn away from the caregiver (A2 subtype). Ainsworth and Bell theorized that the apparently unruffled behaviour of the avoidant infants was in fact a mask for distress, a hypothesis later evidenced through studies of the heart-rate of avoidant infants.
+
+[...]
+
+Main proposed that avoidance has two functions for an infant whose caregiver is consistently unresponsive to their needs. Firstly, avoidant behaviour allows the infant to maintain a conditional proximity with the caregiver: close enough to maintain protection, but distant enough to avoid rebuff. Secondly, the cognitive processes organising avoidant behaviour could help direct attention away from the unfulfilled desire for closeness with the caregiver—avoiding a situation in which the child is overwhelmed with emotion ("disorganized distress"), and therefore unable to maintain control of themselves and achieve even conditional proximity.
+
+[cite:@AttachmentTheory2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       c7462755-36de-477a-97b1-45bc812e8d3e
+:ANKI_NOTE_ID: 1656857252534
+:FC_CREATED: 2022-07-03T14:07:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   164.08 | 2023-05-24T21:18:01Z |
+| back     | 2.50 |   7 |   152.32 | 2023-05-20T23:57:22Z |
+:END:
+
+[[id:e0b22ae5-2b52-4433-8282-ad86037915d4][Avoidant attachment]]
+
+*** Back
+An unhealthy attachment pattern in which the child "gives up" on receiving comfort from their guardian(s) and instead attempts to distance themselves emotionally; go it alone and become distrustful of interpersonal relationships.
+*** Source
+[cite:@AttachmentTheory2022]
+
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       f246f6b4-5260-45bd-be94-15238cfc2f9a
+:ANKI_NOTE_ID: 1656857253108
+:FC_CREATED: 2022-07-03T14:07:33Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |   7 |    56.82 | 2023-04-16T13:11:21Z |
+| back     | 2.20 |   6 |    82.77 | 2023-04-13T11:44:34Z |
+:END:
+
+[[id:e0b22ae5-2b52-4433-8282-ad86037915d4][Avoidant attachment]]
+
+*** Back
+- A neglected or abused child seeking to distance themselves from their guardians.
+*** Source
+[cite:@AttachmentTheory2022]
+#+print_bibliography:

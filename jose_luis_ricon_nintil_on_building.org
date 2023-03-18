@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@riconBuilding]
+:ID:       b88f8a74-52c1-44a8-a39e-d66b5587516f
+:LAST_MODIFIED: [2023-01-11 Wed 11:05]
+:END:
+#+title: Jose Luis Ricon | On Building
+#+hugo_custom_front_matter: :slug "b88f8a74-52c1-44a8-a39e-d66b5587516f"
+#+author: Cash Weaver
+#+date: [2023-01-11 Wed 09:34]
+#+filetags: :reference:
+
+[[id:803ade2e-9b8f-4bac-9ddb-565e9a8bfce7][Jose Luis Ricon]], [cite:@riconBuilding]
+
+* Notes
+#+begin_quote
+There is one more that can be added, besides failing to plan or build: failing to maintain.
+
+In 2006, California, under Gov. Schwarzenegger had a plan in place to address pandemics like the current one, and it wasn't just a plan, the equipment required was actually manufactured and subsequently purchased.
+
+#+begin_quote2
+The state, [[https://www.latimes.com/archives/la-xpm-2006-may-13-me-budget13-story.html][flush with tax revenue]], soon sunk more than $200 million into the mobile hospital program and a related Health Surge Capacity Initiative to stockpile medicines and medical gear for use in outbreaks of infectious disease, according to former emergency management officials and state budget records.
+#+end_quote2
+
+But then
+
+#+begin_quote2
+But the ambitious effort, which would have been vital as the state confronts the new coronavirus today, hit a wall: a brutal recession, a free fall in state revenues -- and in 2011, the administration of a fiscally minded Democratic governor, Jerry Brown, who came into office facing a $26 billion deficit.
+
+And so, that year, the state cut off the money to store and maintain the stockpile of supplies and the mobile hospitals. The hospitals were defunded before they'd ever been used.
+
+Much of the medical equipment -- including the ventilators, critical life-saving tools that are in short supply in the current pandemic -- was given to local hospitals and health agencies, former health officials said. But the equipment was donated without any funding to maintain them. The respirators were allowed to expire without being replaced.
+#+end_quote2
+
+Now one may wonder what can be done to avoid this entire class of mistakes. Sure enough, becoming a prepper society is not the most efficient thing there is, but if you are going to predictably have impredictable shocks (As to the when and what exactly) that affect everyone, you probably need those emergency plans. So the working assumption should be that there will be a next global pandemic for sure, what is unknown is what virus and where it will come from, but it will come. There will be plenty of time to plan and build and prepare, but those preparations have to be maintained over time.
+#+end_quote
+** Death by friction
+
+#+begin_quote
+Finance is another of the topics touched on by the article; the fact that the US government can be paid by everyone but not easily pay everyone probably shares something with the US tax hell; in at least the UK there is no need to think about taxes for most people the government knows everything they need to know about you anyway so they are paid for you. In the US it is the same case - that's why tax fraud is a thing, they are double checking your work for no good reason. In the UK I was once taxed in excess. As the meme goes, you won't believe what happened next; I just had to log-in in a -nicely- designed website, write my bank account details in a box and two days later I was refunded. Just like that. No need for complex forms, any paperwork, phone calls, or anything of the sort.
+#+end_quote
+
+** Skyscrapers, fast and slow
+
+#+begin_quote
+#+begin_quote2
+You don't just see this smug complacency, this satisfaction with the status quo and the unwillingness to build, in the pandemic, or in healthcare generally. You see it throughout Western life, and specifically throughout American life.
+
+You see it in housing and the physical footprint of our cities. We can't build nearly enough housing in our cities with surging economic potential — which results in crazily skyrocketing housing prices in places like San Francisco, making it nearly impossible for regular people to move in and take the jobs of the future. We also can't build the cities themselves anymore. When the producers of HBO's "Westworld" wanted to portray the American city of the future, they didn't film in Seattle or Los Angeles or Austin — they went to Singapore. We should have gleaming skyscrapers and spectacular living environments in all our best cities at levels way beyond what we have now; where are they?
+
+[cite:@andreessenItTimeBuild2020]
+#+end_quote2
+
+I wouldn't say it is smug complacency. There is some complacency, to be sure, though I don't know how smug it is. There is no demand for smartphones unless Apple shows up; or there is no demand for fast email apps until Superhuman shows up. Once you see 90 Hz refresh rates on screens you didn't know you wanted it. There is no demand for the future until the future is here.
+
+In housing it's not complacency either. Take San Francisco. Why isn't San Francisco outcompeting Singapore at skypscraper building? It's illegal to build. Okay, but why? After all San franciscoans do want more housing, it's not just the tech bros who rant on twitter about it. Once it is possible to build those gleaming skyscrapers, the US does not do bad compared to other countries, the need for national flagellation here is rather moderate. So here it's not that the real state developers are lazy and complacent, it's that the political structures of, in this case, San Francisco, are captured by a politically organized minority who does not want density and skyscrapers. That's not a problem of not building, but of not allowing building in the first place: politics and regulation. [...]
+
+At first a reaction I can imagine to the piece may be that focus on skyscrapers may be misguided; while they have some intrinsic appeal as unique works of art - a reason skyscrapers are so expensive is that each one tends to be an artisanal, one of a kind piece, not a mass-market product - they are demanded because they enable economies of scale in cities but in turn those exist because we are not pushing hard enough for remote work. The right ideal would thus be not skyscrapers but nice walkable cities and work from home, which while they appeal less to the futuristically inclined, is what people actually would prefer. However that critique would be misplaced: With skyscrapers and faster transportation, life in the city becomes compatible with life in a spacious house with an ample garden, so you can fluidly decide where you want to live.
+#+end_quote
+
+** Education
+#+begin_quote
+#+begin_quote2
+You see it in education. We have top-end universities, yes, but with the capacity to teach only a microscopic percentage of the 4 million new 18 year olds in the U.S. each year, or the 120 million new 18 year olds in the world each year. Why not educate every 18 year old? Isn't that the most important thing we can possibly do? Why not build a far larger number of universities, or scale the ones we have way up? The last major innovation in K-12 education was Montessori, which traces back to the 1960s; we've been doing education research that's never reached practical deployment for 50 years since; why not build a lot more great K-12 schools using everything we now know? We know one-to-one tutoring can reliably increase education outcomes by two standard deviations (the Bloom two-sigma effect); we have the internet; why haven't we built systems to match every young learner with an older tutor to dramatically improve student success?
+
+[cite:@andreessenItTimeBuild2020]
+#+end_quote2
+
+One answer to why not do all the things we have learned is because very little works. I wrote a longer research essay on [[https://nintil.com/bloom-sigma/][Bloom's two sigma]] [[[id:05f362b2-ab02-4cfb-9185-aae4e1c9e235][Jose Luis Ricon | On Bloom's Two Sigma Problem]]] and education research in general and the conclusion one gets from it is that researching better ways to learn is hard. Bloom's two sigma is more like Bloom's one sigma, at best, though there is promise in software-based methods to complement or even replace teachers. It remains a puzzle why large public education systems have not deployed these systems at scale; for them developing software tutoring is a one-off cost - the content of what is taught changes very little -, so presumably this may have to do with either lack of knowledge that these systems are possible, or opposition from within the system itself (again, politics).
+
+The emphasis on more universities is also misplaced; those top end universities are to a large extent [[https://nintil.com/notes-on-the-case-against-education/][accreditation systems]] [[[id:9868e181-4731-42f0-86bf-ca1651457322][Jose Luis Ricon | Notes on The Case Against Education]]] for those already skilled. Sure you can scale up Harvard to educate 1000x more people but I doubt that will yield anywhere near 1000x more patents, companies, or research coming out of the expanded set of alumni.
+#+end_quote
+
+** The P-word
+
+#+begin_quote
+#+begin_quote2
+I expect this essay to be the target of criticism. Here's a modest proposal to my critics. Instead of attacking my ideas of what to build, conceive your own! What do you think we should build? There's an excellent chance I'll agree with you.
+#+end_quote2
+
+While I don't intend this to be a critique of Andreessen's essay; in fact I agree with its spirit; I think the more interesting question is Why aren't thing being built? Why aren't things being built faster than they are? What are the mechanistic forces at play in each sector?. My thesis is that the mentality of improvement - to put it in [[https://antonhowes.substack.com/p/age-of-invention-higher-perfection][Anton Howes]]' terms- has not been lost; rather the frictions in going from zero to curing cancer have increased.
+
+But what should be built. Look at any organization that has been around for a long time. Is it a law of nature that, as they age, organizations degrade in function and stop making the most efficient use of resources, making their replacement a necessity^{[[https://nintil.com/on-building#value][4]]}? Take the entire world's space launch sector. For decades we launched rockets and threw them away; sure there were [[https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-X][proof of concepts]] that showed that avoiding this engineering form of economic masochism was achievable but the idea of reusing rockets didn't really became a thing until [[https://www.quora.com/What-is-SpaceXs-market-share][SpaceX]] came in.
+#+end_quote
+
+** What better regulation could look like
+
+#+begin_quote
+[...] imagine if you had, in the US, FDA competitors (regulated by a Meta-FDA); one could for example scrap the Phase I/II/III trial system and have relaxed requirements on a case-by-case basis. Any proposal on accelerating drug-to-market could be tried. One would have to design the meta-regulations carefully so as to line up incentives to balance safety and innovation [...]
+#+end_quote
+
+Sounds like an adversarial relationship like a [[id:0f560f37-8170-46a9-8ec3-160de418eb7d][Generative adversarial network]].
+
+* Flashcards
+#+print_bibliography:

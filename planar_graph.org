@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       d03ccb7a-a338-4fc4-9669-f4ffc1572132
+:LAST_MODIFIED: [2023-03-18 Sat 06:40]
+:ROAM_REFS: [cite:@PlanarGraph2023]
+:END:
+#+title: Planar graph
+#+hugo_custom_front_matter: :slug "d03ccb7a-a338-4fc4-9669-f4ffc1572132"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-12 Sun 05:37]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory, a planar graph is a graph that can be embedded in the plane, i.e., it can be drawn on the plane in such a way that its edges intersect only at their endpoints. In other words, it can be drawn in such a way that no edges cross each other.
+
+[cite:@PlanarGraph2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-12 Sun 05:38]
+:FC_CREATED: 2023-03-12T12:39:03Z
+:FC_TYPE:  double
+:ID:       f95249c2-49c2-48c8-9a6f-f392f385429b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-23T13:58:46Z |
+| back     | 2.50 |   2 |     2.00 | 2023-03-20T13:40:08Z |
+:END:
+
+[[id:d03ccb7a-a338-4fc4-9669-f4ffc1572132][Planar graph]]
+
+*** Back
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] that one can draw such that no edges cross.
+*** Source
+[cite:@PlanarGraph2023]
+#+print_bibliography:

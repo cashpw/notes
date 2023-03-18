@@ -1,0 +1,3493 @@
+:PROPERTIES:
+:ID:       714128e9-11e7-44ec-8635-c978630d546d
+:LAST_MODIFIED: [2023-03-17 Fri 07:09]
+:END:
+#+title: Math
+#+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 11:15]
+#+filetags: :has_todo:concept:
+* TODO [#2] Flashcards
+** AKA :fc:
+:PROPERTIES:
+:ID:       9292d330-e8d2-436d-8f52-29055a270cc6
+:ANKI_NOTE_ID: 1640627789023
+:FC_CREATED: 2021-12-27T17:56:29Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  11 |   341.52 | 2024-02-10T05:54:40Z |
+|        1 | 1.75 |   7 |    50.37 | 2023-05-01T09:16:28Z |
+:END:
+
+- {{P/E ratio}@0}
+- {{Price multiple}@1}
+
+*** Source
+[cite:@PriceEarningsRatio2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       236ffe09-2bda-4e2a-8010-256dd71947b7
+:ANKI_NOTE_ID: 1640628531174
+:FC_CREATED: 2021-12-27T18:08:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    75.40 | 2023-03-27T01:45:25Z |
+|        1 | 2.65 |   8 |   130.23 | 2023-03-26T19:52:09Z |
+:END:
+
+- {{Codomain of the function}@0}
+- {{The target set}@1}
+
+*** Source
+[cite:@Codomain2021]
+** AKA :fc:
+:PROPERTIES:
+:ID:       64d7aa84-fdf5-4f83-8b7b-6772518cc6a7
+:ANKI_NOTE_ID: 1640628531731
+:FC_CREATED: 2021-12-27T18:08:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  10 |   290.30 | 2023-10-22T22:32:07Z |
+|        1 | 2.15 |   6 |    69.75 | 2023-05-09T22:17:23Z |
+:END:
+
+- {{Identity element}@0}
+- {{Neutral element}@1}
+
+*** Source
+[cite:@IdentityElement2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       05d8787e-ccd8-4fbe-8639-41d372237f86
+:ANKI_NOTE_ID: 1640627851047
+:FC_CREATED: 2021-12-27T17:57:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   169.41 | 2023-04-29T02:09:16Z |
+| front    | 2.65 |   8 |   185.82 | 2023-05-24T12:04:25Z |
+:END:
+
+Cardinality of a set
+
+*** Back
+The number of elements of the set.
+
+*** Source
+[cite:@Cardinality2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       324bf539-3bd5-4b74-9d88-744f7dcbc7f7
+:ANKI_NOTE_ID: 1640627843098
+:FC_CREATED: 2021-12-27T17:57:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  11 |   263.88 | 2023-10-08T11:30:46Z |
+| front    | 2.50 |   8 |   299.32 | 2023-12-25T11:43:46Z |
+:END:
+
+Parameter
+
+*** Back
+A variable in a system of equations which is used to describe the set of solutions.
+
+*** Extra
+Eg: \[\{(x, y, z) | 2x+z=3\ and\ -y-3z=1\}\] is parameterized by $x$, $y$, and $z$. While \[\{(3-z,1-3z,z) | z\in\mathbb{R}\}\] is parameterized by $z$.
+** Definition (Math) :fc:
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       cf7fae4c-d73f-4b88-8a9d-97031276f114
+:ANKI_NOTE_ID: 1640627843871
+:FC_CREATED: 2021-12-27T17:57:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   6 |    88.58 | 2023-04-22T04:06:54Z |
+| front    | 2.50 |   9 |   297.53 | 2023-12-28T06:07:43Z |
+:END:
+
+Odd function
+
+*** Back
+$-f(x) = f(-x)$
+
+$f(x) + f(-x) = 0$
+
+*** Source
+[cite:@EvenOddFunctions2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f2dbd2f8-fa90-420d-be99-70c41d10c3a1
+:ANKI_NOTE_ID: 1640627846323
+:FC_CREATED: 2021-12-27T17:57:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   156.01 | 2023-04-03T16:50:39Z |
+| front    | 2.65 |   8 |   206.76 | 2023-06-24T12:56:43Z |
+:END:
+
+Operand
+
+*** Back
+An input to an operation.
+
+*** Extra
+eg: $3$ and $2$ in $3+2$
+
+*** Source
+[cite:@Operand2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       e8c39060-1e6c-4b83-b990-b193c8a94697
+:ANKI_NOTE_ID: 1640627848624
+:FC_CREATED: 2021-12-27T17:57:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   6 |    73.89 | 2023-05-15T13:14:17Z |
+| front    | 2.30 |  10 |   110.45 | 2023-03-21T04:33:44Z |
+:END:
+
+Real number
+
+*** Back
+A value of a continuous quantity that can represent a distance along a line.
+
+*** Source
+[cite:@RealNumber2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       d32b97c0-2210-4c05-aada-ee4b6dd9fca9
+:ANKI_NOTE_ID: 1640627851496
+:FC_CREATED: 2021-12-27T17:57:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   408.15 | 2024-04-16T21:12:11Z |
+| front    | 1.45 |   7 |    51.72 | 2023-04-30T20:09:56Z |
+:END:
+
+Law of cosines
+
+*** Back
+$c^2 = a^2 + b^2 - 2ab\cos(\theta)$
+
+*** Extra
+Where $\theta$ is the angle across from side $c$.
+
+*** Source
+[cite:@LawCosines2022]
+
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       033040d3-0dce-44d5-b1eb-411f71811b42
+:ANKI_NOTE_ID: 1640627852123
+:FC_CREATED: 2021-12-27T17:57:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   9 |   284.87 | 2023-10-15T13:35:06Z |
+| front    | 2.35 |   9 |   347.10 | 2024-02-20T05:12:55Z |
+:END:
+
+Triangle Inequality (general)
+
+*** Back
+For any triangle, the sum of the lengths of any two sides must be greater than or equal to the sum of the remaining side.
+
+*** Extra
+$c \leq a+b$
+
+*** Source
+[cite:@hefferonLinearAlgebra2020]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       31b87fb1-065b-425b-b554-9b88dc5c7b73
+:ANKI_NOTE_ID: 1640627852322
+:FC_CREATED: 2021-12-27T17:57:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   9 |   309.26 | 2024-01-12T00:29:44Z |
+| front    | 2.50 |   8 |   220.42 | 2023-08-25T12:20:24Z |
+:END:
+
+Triangle Inequality (vectors)
+
+*** Back
+For any two vectors, the length of the sum of the two is less than or equal to the sum of the lengths of each.
+
+*** Extra
+$\lVert\vec{x}+\vec{y}\rVert \leq \lVert\vec{x}\rVert + \lVert\vec{y}\rVert$
+
+*** Source
+[cite:@hefferonLinearAlgebra2020]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f9d7ea31-dc8f-455a-a587-47a0ce6f03e2
+:ANKI_NOTE_ID: 1640627848396
+:FC_CREATED: 2021-12-27T17:57:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   362.39 | 2024-02-25T14:18:32Z |
+| front    | 2.50 |   8 |   310.64 | 2024-01-01T19:08:59Z |
+:END:
+
+Multiplicative inverse
+
+*** Back
+A number which, when multiplied by $x$ yields the multiplicative identity; $1$.
+
+*** Extra
+Denoted $x^{-1}$ or $\frac{1}{x}$.
+
+*** Source
+[cite:@InverseElement2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       cf84038d-69d7-47b0-abfa-fb0872505200
+:ANKI_NOTE_ID: 1640627847546
+:FC_CREATED: 2021-12-27T17:57:27Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |   104.72 | 2023-06-26T08:17:48Z |
+| front    | 2.65 |   7 |   174.95 | 2023-04-10T14:08:56Z |
+:END:
+
+Codomain of a function
+
+*** Back
+The set into which all of the output of the function is constrained to fall.
+
+*** Extra
+$f: \mathbb{R}^2 \to \mathbb{R}$; the codomain is $\mathbb{R}$
+
+*** Source
+[cite:@Codomain2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       74de8995-d466-4c9b-8f4c-a86be4c44939
+:ANKI_NOTE_ID: 1640627845872
+:FC_CREATED: 2021-12-27T17:57:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   6 |    69.08 | 2023-05-08T06:57:51Z |
+| front    | 2.65 |   7 |   155.95 | 2023-03-30T13:49:02Z |
+:END:
+
+Commutative property
+
+*** Back
+Changing the order of operands does not change the result.
+
+*** Extra
+eg: $4 + 3 = 3 + 4$
+
+*** Source
+[cite:@CommutativeProperty2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       7dd11d8c-494c-41de-ae49-053f78325eff
+:ANKI_NOTE_ID: 1640627847147
+:FC_CREATED: 2021-12-27T17:57:27Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   320.70 | 2023-11-25T08:19:01Z |
+| front    | 2.80 |   8 |   313.61 | 2023-11-15T05:20:55Z |
+:END:
+
+Domain of a function
+
+*** Back
+The set of "input" for which the function is defined.
+
+*** Extra
+$f: \mathbb{R}^2 \to \mathbb{R}$; the codomain is $\mathbb{R}^2$
+
+*** Source
+[cite:@DomainFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       effa49e1-597c-48cb-8c93-2ff1322576f3
+:ANKI_NOTE_ID: 1640627843693
+:FC_CREATED: 2021-12-27T17:57:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   265.20 | 2023-09-23T02:43:10Z |
+| front    | 2.65 |   8 |   406.67 | 2024-04-24T06:43:34Z |
+:END:
+
+Even function
+
+*** Back
+$f(x) = f(-x)$
+
+$f(x) - f(-x) = 0$
+
+*** Source
+[cite:@EvenOddFunctions2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       935f852b-0273-41f0-9dcc-f0f9dfd68982
+:ANKI_NOTE_ID: 1640627845073
+:FC_CREATED: 2021-12-27T17:57:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   373.98 | 2024-03-23T14:37:08Z |
+| front    | 2.65 |   8 |   152.10 | 2023-04-14T17:58:34Z |
+:END:
+
+Expression
+
+*** Back
+A finite combination of symbols that is well-formed according to the rules (which depend on the context).
+
+*** Source
+[cite:@ExpressionMathematics2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       4be94b82-396d-40b4-99b2-8c7fbf62d815
+:ANKI_NOTE_ID: 1640627845272
+:FC_CREATED: 2021-12-27T17:57:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   231.58 | 2023-08-04T10:38:16Z |
+| front    | 2.65 |   8 |   274.28 | 2023-09-21T22:12:16Z |
+:END:
+
+Field (Math)
+
+*** Back
+A set for which addition, subtraction, multiplication, and division are defined and behave as the corresponding operations on rational and real numbers do.
+
+*** Source
+[cite:@FieldMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f6c4c747-15ae-4d83-8cf6-05fc5cb179d8
+:ANKI_NOTE_ID: 1640627847746
+:FC_CREATED: 2021-12-27T17:57:27Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   209.64 | 2023-07-03T15:40:49Z |
+| front    | 2.50 |  10 |   340.26 | 2024-02-04T10:37:26Z |
+:END:
+
+Identity element
+
+*** Back
+An element of a set, with respect to a binary operation on that set, which leaves any element of the set unchanged when combined with it.
+
+*** Extra
+eg: 0 for addition; $0 + 4 = 4$
+
+*** Source
+[cite:@IdentityElement2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       53af0939-2446-4f1e-8783-d373adbec3f1
+:ANKI_NOTE_ID: 1640627843299
+:FC_CREATED: 2021-12-27T17:57:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   264.94 | 2023-10-01T13:14:11Z |
+| front    | 2.65 |   8 |   207.71 | 2023-06-16T19:16:25Z |
+:END:
+
+Lemma
+
+*** Back
+A "helping theorem"; a proven proposition which is used as a stepping stone to a larger result rather than as a statement of interest on its own.
+*** Source
+[cite:@LemmaMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       0dfbfdff-fa5c-43b5-9e27-94454716d67e
+:ANKI_NOTE_ID: 1640627846946
+:FC_CREATED: 2021-12-27T17:57:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   385.35 | 2024-03-18T00:28:04Z |
+| front    | 2.50 |   8 |   334.10 | 2024-01-30T18:17:12Z |
+:END:
+
+Arity
+
+*** Back
+The number of arguments, or operands, that the function takes.
+
+*** Extra
+eg: $f(a, b)$ has an arity of 2; 2-ary, binary, dyadic.
+
+*** Source
+[cite:@Arity2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       26858d0e-7fe8-43d0-b5e2-7effd3c6f8c3
+:ANKI_NOTE_ID: 1640627845671
+:FC_CREATED: 2021-12-27T17:57:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   273.74 | 2023-11-07T15:17:46Z |
+| front    | 2.50 |   8 |   300.30 | 2023-12-14T22:08:04Z |
+:END:
+
+Associative property
+
+*** Back
+The order in which one performs operations does not matter as long as the sequence of the operands is not changed.
+
+*** Extra
+eg: $(a + b) + c = a + (b + c)$
+
+*** Source
+[cite:@AssociativeProperty2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       6110e18b-1d2d-4add-b26e-6913b595af66
+:ANKI_NOTE_ID: 1640627846523
+:FC_CREATED: 2021-12-27T17:57:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   311.44 | 2023-11-14T01:11:12Z |
+| front    | 2.65 |   8 |   197.58 | 2023-06-03T05:45:10Z |
+:END:
+
+Binary operation
+
+*** Back
+A calculation which combines two elements (the operands) to produce another element.
+
+*** Extra
+eg: $+$
+
+*** Source
+[cite:@BinaryOperation2022]
+** Definition (Geometry) :fc:
+:PROPERTIES:
+:ID:       16e25eb5-911a-4b9c-a253-078f3dd266bf
+:ANKI_NOTE_ID: 1640627882521
+:FC_CREATED: 2021-12-27T17:58:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  15 |   370.50 | 2024-02-13T06:20:13Z |
+| front    | 2.65 |   7 |   172.88 | 2023-04-28T13:49:55Z |
+:END:
+Affine transformation
+*** Back
+Informally: A transformation between two vector spaces consisting of a linear transformation followed by a translation.
+*** Source
+[cite:@weissteinAffineFunction]
+** {{$(f \circ g)(x)$}@0} $\triangleq$ {{$f(g(x))$}@1} :fc:
+:PROPERTIES:
+:ID:       51ffb0e9-2fa4-47d3-b3b6-066bbf7267ce
+:ANKI_NOTE_ID: 1640627797098
+:FC_CREATED: 2021-12-27T17:56:37Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   161.47 | 2023-03-25T14:29:55Z |
+|        1 | 2.65 |   8 |   215.46 | 2023-06-15T13:54:33Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@FunctionComposition2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       91416348-3620-412a-b059-13b828abc0e2
+:ANKI_NOTE_ID: 1640627796723
+:FC_CREATED: 2021-12-27T17:56:36Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   6 |    56.96 | 2023-03-31T14:44:47Z |
+|        1 | 2.65 |   8 |   167.80 | 2023-05-03T09:31:40Z |
+:END:
+
+- {{$(f \circ g)(x)$}@0}
+
+{{The composition of the functions $f$ and $g$.}@1}
+
+*** Source
+[cite:@FunctionComposition2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       5aea5f4c-82cc-492d-9764-0954e10b339b
+:ANKI_NOTE_ID: 1640628559450
+:FC_CREATED: 2021-12-27T18:09:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.15 |  14 |   191.08 | 2023-09-03T05:39:17Z |
+|        1 | 2.20 |   7 |   149.87 | 2023-08-02T14:23:57Z |
+|        2 | 2.80 |   6 |   127.85 | 2023-06-15T19:25:49Z |
+:END:
+
+- {{Step function}@0}
+- {{Staircase function}@1}
+- {{Finite piecewise constant function}@2}
+
+*** Source
+[cite:@StepFunction2022]
+
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       079ec3a8-2797-4c64-8014-6fe9c3b31bd9
+:ANKI_NOTE_ID: 1640627882099
+:FC_CREATED: 2021-12-27T17:58:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  14 |   356.05 | 2024-02-16T05:22:10Z |
+| front    | 2.50 |   6 |    92.01 | 2023-04-24T16:59:14Z |
+:END:
+
+Affine function
+
+*** Back
+- A vector-valued function of the form $f(\vec{x}) =$ $\alpha_1 \vec{x}_1 + \cdots + \alpha_n \vec{x}_n + \beta$.
+
+- Informally: A linear function, plus some constant.
+*** Source
+[cite:@AffineTransformation2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       eccf93dc-ec36-4708-a300-dd5e924ebaf0
+:ANKI_NOTE_ID: 1640627885973
+:FC_CREATED: 2021-12-27T17:58:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   144.60 | 2023-03-22T05:56:28Z |
+| front    | 2.80 |   8 |   289.85 | 2023-12-03T22:17:25Z |
+:END:
+
+Arguments of the maxima
+
+*** Back
+The elements of the domain of a function at which the function output is maximized.
+*** Source
+[cite:@ArgMax2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       23b6f7f6-1077-4639-ae79-c0f2b58272d0
+:ANKI_NOTE_ID: 1640627887673
+:FC_CREATED: 2021-12-27T17:58:07Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   295.69 | 2023-11-08T18:45:09Z |
+| front    | 2.30 |  11 |   188.74 | 2023-07-20T08:55:02Z |
+:END:
+
+Arguments of the minima
+
+*** Back
+The elements of the domain of a function at which the function output is minimized.
+*** Source
+[cite:@ArgMax2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       edf21c2b-8713-42d6-8018-846209675bc7
+:ANKI_NOTE_ID: 1640627902348
+:FC_CREATED: 2021-12-27T17:58:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   231.15 | 2023-07-19T20:06:29Z |
+| front    | 2.65 |   7 |   185.99 | 2023-04-25T01:22:43Z |
+:END:
+
+Asymptote
+
+*** Back
+A line such that the distance between a curve and the line approaches zero as the curve goes out to infinity.
+*** Extra
+[[file:Lim_of_1_over_x_graph.png]]
+*** Source
+[cite:@Asymptote2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       dc39274f-2a69-40b8-9e6d-c69cfc5b2b12
+:ANKI_NOTE_ID: 1640627858298
+:FC_CREATED: 2021-12-27T17:57:38Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   276.06 | 2023-10-13T17:12:30Z |
+| front    | 2.80 |   9 |   328.99 | 2024-01-10T15:39:58Z |
+:END:
+
+Automorphism
+
+*** Back
+An isomorphic endomorphism.
+
+*** Extra
+Eg: $f: \mathbb{R}^2 \to \mathbb{R}^2$
+
+*** Source
+[cite:@Automorphism2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       1b9ee850-325c-442e-a867-0d7fdf9ea42d
+:ANKI_NOTE_ID: 1640627859572
+:FC_CREATED: 2021-12-27T17:57:39Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   313.56 | 2023-11-17T04:46:32Z |
+| front    | 2.65 |   9 |   204.26 | 2023-05-28T23:26:10Z |
+:END:
+
+Bijective function
+
+*** Back
+An injective (one-to-one) and surjective (onto) mapping between two sets.
+
+*** Extra
+[[file:Bijection.svg.png]]
+
+$f: X \to Y;$ $f^{-1}: Y \to X;$ $f(x) = y \; \forall \; x \in X \;|\; y \in Y$
+
+*** Source
+[cite:@Bijection2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       9f8236d8-38f1-4d0e-8688-a6ed24c53050
+:ANKI_NOTE_ID: 1640627898498
+:FC_CREATED: 2021-12-27T17:58:18Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   6 |    81.94 | 2023-04-07T15:01:59Z |
+| front    | 1.90 |  19 |    73.45 | 2023-04-03T03:16:16Z |
+:END:
+
+Boxcar function
+
+*** Back
+A function which is zero over the whole real number line except for a single interval where it is equal to a constant.
+
+*** Extra
+$\operatorname{boxcar}(x) = \begin{cases} 0 & \text{if}\; x < a \\ c & \text{if}\; a < x < b \\ 0 &\text{if}\; x > b \\ \text{various} & \text{if}\; x = a \;\text{or}\; x = b\end{cases}$
+
+*** Source
+[cite:@BoxcarFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       119f6b82-a8a6-4648-bfe0-2ab94cbeb2e4
+:ANKI_NOTE_ID: 1640627889573
+:FC_CREATED: 2021-12-27T17:58:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  13 |   282.31 | 2023-10-27T22:47:17Z |
+| front    | 2.05 |   6 |    55.70 | 2023-04-11T21:35:58Z |
+:END:
+
+Centroid
+
+*** Back
+The arithmetic mean position of all relevant points.
+
+*** Extra
+$C = \frac{1}{n} \sum \vec{x}_i$
+
+*** Source
+[cite:@Centroid2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       3c5758a5-f8d0-45b9-a8be-7a125530a345
+:ANKI_NOTE_ID: 1640627894174
+:FC_CREATED: 2021-12-27T17:58:14Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.90 |   7 |   112.11 | 2023-06-30T05:46:45Z |
+| front    | 2.50 |   6 |    83.43 | 2023-04-11T00:42:32Z |
+:END:
+
+Closed-form expression
+
+*** Back
+A mathematical expression expressed using a finite number of standard operations; constants, variables, functions, but no limit, differentiation, or integration.
+
+*** Source
+[cite:@ClosedformExpression2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       798f3636-689e-4008-838e-2c18e74e36a2
+:ANKI_NOTE_ID: 1640627892323
+:FC_CREATED: 2021-12-27T17:58:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |    88.88 | 2023-04-20T11:31:01Z |
+| front    | 2.65 |   7 |   116.98 | 2023-03-30T18:46:25Z |
+:END:
+
+Closure
+
+*** Back
+A property of a set under an operation for which performing the operation on members of the set always produces an element of that set.
+
+*** Source
+[cite:@ClosureMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       e11ee154-5b9d-4499-9366-569f6d6dcefc
+:ANKI_NOTE_ID: 1640627872917
+:FC_CREATED: 2021-12-27T17:57:52Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   9 |   297.65 | 2023-11-24T08:06:14Z |
+| front    | 2.80 |   9 |   319.25 | 2023-12-02T20:27:34Z |
+:END:
+
+Concave function
+
+*** Back
+- Informally: A function shaped like $\cap$.
+
+- Formally: A real-valued function on a n-dimensional interval for which all possible line segments connecting a pair of points on the graph lies below the graph.
+
+- eg: $f(x) = -(x^2)$, $f(x) = \operatorname{log}(x)$, $f(x) = \sqrt{x}$
+*** Extra
+$f((1-t)x_1 + tx_2) \geq (1-t)f(x_1) + tf(x_2) \;|\; \forall \; x_1, x_2 \in X,\; \forall \; t \in [0, 1]$
+*** Source
+[cite:@ConcaveFunction2022]
+** Definition (Probability theory) :fc:
+:PROPERTIES:
+:ID:       98bc794b-3633-4dfc-9336-ef26f667f281
+:ANKI_NOTE_ID: 1640627874496
+:FC_CREATED: 2021-12-27T17:57:54Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   288.61 | 2023-12-14T05:32:37Z |
+| front    | 2.80 |   8 |   311.46 | 2023-11-18T02:57:47Z |
+:END:
+
+Conditional probability
+
+*** Back
+A measure of the probability of an event occurring, given that another event has already occurred.
+
+*** Extra
+e.g. $\operatorname{P}(\text{cough}|\text{sick})$: Probability of cough, given sick.
+
+*** Source
+[cite:@ConditionalProbability2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       4836105b-53df-429d-8a90-3801621f3a8e
+:ANKI_NOTE_ID: 1640627896223
+:FC_CREATED: 2021-12-27T17:58:16Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   324.50 | 2024-01-14T15:51:57Z |
+| front    | 2.80 |   8 |   357.71 | 2024-02-17T21:09:40Z |
+:END:
+
+Constant function
+
+*** Back
+A function whose output is the same for every input value.
+
+*** Extra
+Of the form: $f(x) = c$
+
+*** Source
+[cite:@ConstantFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       457e2634-c792-4c6b-a4c9-3725b578d5ad
+:ANKI_NOTE_ID: 1640627872497
+:FC_CREATED: 2021-12-27T17:57:52Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   157.27 | 2023-03-20T22:27:05Z |
+| front    | 2.80 |   8 |   412.82 | 2024-04-11T23:28:32Z |
+:END:
+
+Convex function
+
+*** Back
+Informally: A function shaped like $\cup$.
+
+Formally: A real-valued function on a n-dimensional interval for which all possible line segments connecting a pair of points on the graph lies above the graph.
+
+eg: $f(x) = x^2$, $f(x) = |x|$
+*** Extra
+$$ \begin{align} & \forall \; x_1, x_2 \in X \\ & \forall \; t \in [0,1] \\ & f(tx_1 + (1 - t)x_2) \leq tf(x_1) + (1-t)f(x_2) \end{align} $$
+*** Source
+[cite:@ConvexFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       10c2d808-8317-4ce7-9740-6f7ce9971feb
+:ANKI_NOTE_ID: 1640627894397
+:FC_CREATED: 2021-12-27T17:58:14Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   142.68 | 2023-03-23T08:58:30Z |
+| front    | 2.65 |   7 |   148.11 | 2023-04-03T18:56:48Z |
+:END:
+
+Dirac delta function
+
+*** Back
+A function which is equal to zero everywhere except for zero and whose integral over the entire real numer line is equal to one.
+
+*** Extra
+$\delta(x) = \begin{cases} 0 & \text{if}\; x \neq 0 \\ 1 & \text{if}\; x = 0\end{cases}$
+
+*** Source
+[cite:@DiracDeltaFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       1e63bbf3-0288-44c2-9c40-5505137feeb5
+:ANKI_NOTE_ID: 1640627888323
+:FC_CREATED: 2021-12-27T17:58:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   295.02 | 2024-01-02T15:29:43Z |
+| front    | 2.80 |   8 |   313.50 | 2023-12-18T10:37:59Z |
+:END:
+
+Elementary operators
+
+*** Back
+Addition, subtraction, multiplication, and division
+
+*** Source
+[cite:@IndicatorFunction2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       03fa8585-9657-43c8-b28a-bbbed0dfec30
+:ANKI_NOTE_ID: 1640628555704
+:FC_CREATED: 2021-12-27T18:09:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   298.10 | 2023-10-29T20:11:57Z |
+|        1 | 2.50 |   9 |   318.08 | 2024-01-22T05:00:04Z |
+:END:
+
+- {{Arguments of the maxima}@0}
+- {{$\operatorname{argmax}$}@1}
+
+*** Source
+[cite:@ArgMax2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       fff635c5-6ae3-4116-8dc9-29d6ee7d56e6
+:ANKI_NOTE_ID: 1640628556052
+:FC_CREATED: 2021-12-27T18:09:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   234.78 | 2023-09-14T11:40:17Z |
+|        1 | 2.80 |   8 |   412.38 | 2024-04-24T03:08:14Z |
+:END:
+
+- {{Arguments of the minima}@0}
+- {{$\operatorname{argmin}$}@1}
+
+*** Source
+[cite:@ArgMax2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       89ab0058-61f3-4e2e-803d-87c294e3aa02
+:ANKI_NOTE_ID: 1640628539377
+:FC_CREATED: 2021-12-27T18:08:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |  13 |   199.56 | 2023-07-07T05:54:10Z |
+|        1 | 3.10 |   6 |   154.64 | 2023-06-18T09:42:06Z |
+|        2 | 1.90 |   3 |     6.00 | 2023-03-19T14:34:17Z |
+:END:
+
+- {{Bijective function}@0}
+- {{Invertible function}@1}
+- {{A one-to-one correspondence}@2}
+
+*** Source
+[cite:@Bijection2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       8b94e1be-cf69-459b-894c-29e5bc572a2b
+:ANKI_NOTE_ID: 1640628556603
+:FC_CREATED: 2021-12-27T18:09:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  11 |   362.06 | 2024-03-07T06:47:29Z |
+|        1 | 2.65 |   7 |   146.05 | 2023-04-01T17:55:25Z |
+|        2 | 2.15 |  11 |   136.29 | 2023-03-27T23:21:13Z |
+:END:
+
+- {{Centroid}@0}
+- {{Geometric center}@1}
+- {{Representative vector of a cluster}@2}
+
+*** Source
+[cite:@Centroid2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       81a341c1-c29e-4ace-bc4c-7162cb6e6932
+:ANKI_NOTE_ID: 1640628562101
+:FC_CREATED: 2021-12-27T18:09:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   106.69 | 2023-04-30T08:58:37Z |
+|        1 | 2.80 |   8 |   324.73 | 2024-01-15T21:12:14Z |
+:END:
+
+- {{Concave}@0}
+- {{Concave downward}@1}
+
+*** Source
+[cite:@InflectionPoint2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       4ecd920b-dcbe-46d2-93c8-63094e25d3b0
+:ANKI_NOTE_ID: 1640628562652
+:FC_CREATED: 2021-12-27T18:09:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   343.33 | 2024-02-04T23:56:52Z |
+|        1 | 2.50 |   8 |   261.15 | 2023-11-06T20:55:52Z |
+:END:
+
+- {{Convex}@0}
+- {{Concave upward}@1}
+
+*** Source
+[cite:@InflectionPoint2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       7cfdda43-e7a8-4745-b17d-60ce0d801658
+:ANKI_NOTE_ID: 1640628558551
+:FC_CREATED: 2021-12-27T18:09:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.30 |  11 |   163.98 | 2023-06-11T18:13:48Z |
+|        1 | 3.10 |   6 |   138.47 | 2023-06-08T04:35:05Z |
+|        2 | 2.20 |   6 |    61.28 | 2023-04-11T00:56:11Z |
+:END:
+
+- {{Dirac delta function}@0}
+- {{Impulse}@1}
+- {{Unit impulse}@2}
+
+*** Source
+[cite:@DiracDeltaFunction2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       04ebaa8f-f312-44d1-b747-8fb79f7a7571
+:ANKI_NOTE_ID: 1640628559150
+:FC_CREATED: 2021-12-27T18:09:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   334.04 | 2024-02-05T18:24:10Z |
+|        1 | 2.35 |   7 |   144.83 | 2023-04-04T12:21:55Z |
+:END:
+
+- {{Heaviside step function}@0}
+- {{Unit step function}@1}
+
+*** Source
+[cite:@HeavisideStepFunction2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       40c693a1-acbf-49cf-822e-69b904f58483
+:ANKI_NOTE_ID: 1640628538851
+:FC_CREATED: 2021-12-27T18:08:58Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   234.95 | 2023-08-07T19:24:35Z |
+|        1 | 2.20 |   8 |   217.36 | 2023-09-07T01:34:02Z |
+:END:
+
+- {{Injective function}@0}
+- {{A "one-to-one" function}@1}
+
+*** Source
+[cite:@InjectiveFunction2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       948fe3ae-fe49-4fcd-8f45-12017a02038a
+:ANKI_NOTE_ID: 1640628561173
+:FC_CREATED: 2021-12-27T18:09:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  10 |   303.54 | 2023-11-15T05:25:38Z |
+|        1 | 2.20 |   8 |   187.34 | 2023-07-04T00:34:39Z |
+|        2 | 2.35 |   8 |   284.60 | 2023-12-21T14:44:33Z |
+:END:
+
+- {{Moving average}@0}
+- {{Rolling average}@1}
+- {{Running average}@2}
+
+*** Source
+[cite:@MovingAverage2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       ba574e92-e84e-42b6-ad40-78339275c902
+:ANKI_NOTE_ID: 1640628561504
+:FC_CREATED: 2021-12-27T18:09:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  10 |   174.95 | 2023-04-22T15:11:45Z |
+|        1 | 2.05 |   6 |    52.27 | 2023-03-21T23:05:04Z |
+|        2 | 2.20 |   6 |    64.66 | 2023-04-08T07:49:08Z |
+:END:
+
+- {{Natural numbers}@0}
+- {{Cardinal numbers}@1}
+- {{Ordinal numbers}@2}
+
+*** Source
+[cite:@NaturalNumber2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       b03361a6-10a3-4266-a5fc-57179acdf3e9
+:ANKI_NOTE_ID: 1640628553127
+:FC_CREATED: 2021-12-27T18:09:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    63.35 | 2023-03-21T10:33:05Z |
+|        1 | 2.65 |   7 |   122.56 | 2023-03-23T15:51:07Z |
+:END:
+
+- {{Postfix notation}@0}
+- {{Reverse Polish notation}@1}
+
+*** Source
+[cite:@ReversePolishNotation2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       db3af4b1-1ab4-48e9-ad08-4eb25b9796c1
+:ANKI_NOTE_ID: 1640628552528
+:FC_CREATED: 2021-12-27T18:09:12Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   9 |   224.50 | 2023-07-27T05:27:14Z |
+|        1 | 2.50 |   8 |   263.99 | 2023-10-28T21:13:48Z |
+:END:
+
+- {{Prefix notation}@0}
+- {{Polish notation}@1}
+
+*** Source
+[cite:@PolishNotation2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       a10b6352-de23-452d-9661-3ec8a6c74e19
+:ANKI_NOTE_ID: 1640628539927
+:FC_CREATED: 2021-12-27T18:08:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    87.37 | 2023-04-10T00:02:40Z |
+|        1 | 2.50 |  11 |   219.89 | 2023-07-23T18:04:28Z |
+:END:
+
+- {{Proper subset}@0}
+- {{Strict subset}@1}
+
+*** Extra
+$A \subset B$
+
+*** Source
+[cite:@Subset2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       3dbfd604-dc88-4c2c-8f44-fd62afff0b89
+:ANKI_NOTE_ID: 1640628560573
+:FC_CREATED: 2021-12-27T18:09:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    94.16 | 2023-03-27T17:46:21Z |
+|        1 | 3.10 |   6 |   173.26 | 2023-07-30T06:02:25Z |
+:END:
+
+- {{Real function}@0}
+- {{Function of a real variable}@1}
+
+*** Source
+[cite:@FunctionRealVariable2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       16183567-6110-49e7-8632-347331ed4d2d
+:ANKI_NOTE_ID: 1640627873623
+:FC_CREATED: 2021-12-27T17:57:53Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   141.28 | 2023-03-24T23:09:12Z |
+| front    | 2.80 |   8 |   258.39 | 2023-09-27T23:56:48Z |
+:END:
+
+Exponential function
+
+*** Back
+A function that can be written as $f(x) = b^x$.
+
+*** Source
+[cite:@Exponentiation2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       36797cd1-dce4-4acc-941c-9b918b582ff1
+:ANKI_NOTE_ID: 1640627904222
+:FC_CREATED: 2021-12-27T17:58:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   166.08 | 2023-04-18T18:13:29Z |
+| front    | 2.35 |   8 |   187.54 | 2023-06-03T07:15:26Z |
+:END:
+
+Exponential moving average
+
+*** Back
+A weighted moving average with a weight function/vector whose values decrease exponentially
+
+*** Extra
+The convolution of the underlying data points with a exponentially decreasing weighting function; $\text{data} * \vec{\omega}_n$.
+
+*** Source
+[cite:@MovingAverage2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       9144b893-74f0-4a16-bc6f-786fe6652b86
+:ANKI_NOTE_ID: 1640627895546
+:FC_CREATED: 2021-12-27T17:58:15Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   328.67 | 2024-02-09T05:25:50Z |
+| front    | 2.60 |  15 |   264.32 | 2023-11-15T11:38:31Z |
+:END:
+
+Heaviside step function
+
+*** Back
+A step function whose value is zero for all negative arguments and one for all positive arguments.
+
+*** Extra
+$\operatorname{f}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ \text{various} & \text{if}\; x = 0 \\ 1 & \text{if}\; x > 0 \end{cases}$
+
+*** Source
+[cite:@HeavisideStepFunction2022]
+** Definition (Algebra) :fc:
+:PROPERTIES:
+:ID:       88b69ba6-cdfd-4f3d-9568-fadf8e128355
+:ANKI_NOTE_ID: 1640627858697
+:FC_CREATED: 2021-12-27T17:57:38Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   216.53 | 2023-06-30T03:17:15Z |
+| front    | 2.50 |   8 |   282.96 | 2023-11-16T22:45:49Z |
+:END:
+
+Homomorphism
+
+*** Back
+A structure-preserving map between two algebraic structures of the same type.
+
+*** Extra
+eg: two groups, two rings, or two vector spaces
+
+*** Source
+[cite:@Homomorphism2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f7d4e5d8-860e-421b-bac9-4f8fc7906a37
+:ANKI_NOTE_ID: 1640627879122
+:FC_CREATED: 2021-12-27T17:57:59Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |   109.05 | 2023-04-15T17:50:34Z |
+| front    | 2.80 |   8 |   379.45 | 2024-03-13T15:43:29Z |
+:END:
+
+Idempotence
+
+*** Back
+A property of certain operations whereby they can be applied many times without changing the result beyond the initial application.
+
+*** Extra
+eg: $1^2 = 1^3 = \cdots = 1$
+
+*** Source
+[cite:@Idempotence2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       54f3e093-6b6a-4004-b591-277aed14ed2c
+:ANKI_NOTE_ID: 1640627878672
+:FC_CREATED: 2021-12-27T17:57:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  10 |   336.49 | 2024-01-26T15:35:07Z |
+| front    | 2.35 |   8 |   189.60 | 2023-06-14T05:12:42Z |
+:END:
+
+Idempotent element
+
+*** Back
+An element, $a$, for which $a^2 = a$.
+
+*** Source
+[cite:@IdempotentRingTheory2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       03f945e6-fda2-4ed1-8eb9-8cec1ae27f5c
+:ANKI_NOTE_ID: 1640627888097
+:FC_CREATED: 2021-12-27T17:58:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   9 |   257.04 | 2023-11-23T06:21:21Z |
+| front    | 2.65 |   7 |   127.32 | 2023-03-20T22:49:29Z |
+:END:
+
+Indicator function
+
+*** Back
+A function defined on a set, $X$, that indicates membership in a subset of $X$, $A$, having the value $1$ for all elements in $A$ and $0$ otherwise.
+
+*** Source
+[cite:@IndicatorFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f8462582-5ed4-4cf5-bde1-eb817c0c81ac
+:ANKI_NOTE_ID: 1640627883798
+:FC_CREATED: 2021-12-27T17:58:03Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   288.27 | 2023-10-17T10:40:07Z |
+| front    | 2.80 |   8 |   364.92 | 2024-02-26T14:03:52Z |
+:END:
+
+Infix notation
+
+*** Back
+A mathematical notation in which operands surround their operators.
+
+*** Extra
+eg: $2 + 2$
+
+*** Source
+[cite:@InfixNotation2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       1167bf54-f8ba-4ed6-b798-ef9b6e06bac2
+:ANKI_NOTE_ID: 1640627902070
+:FC_CREATED: 2021-12-27T17:58:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   253.02 | 2023-08-20T17:25:00Z |
+| front    | 2.65 |   8 |   217.79 | 2023-07-09T14:38:20Z |
+:END:
+
+Inflection point
+
+*** Back
+The points on a curve where the curvature changes its sign; between concave and convex.
+
+*** Source
+[cite:@InflectionPoint2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       6eff2e67-0657-45b8-ac85-0064b01fb759
+:ANKI_NOTE_ID: 1640627859871
+:FC_CREATED: 2021-12-27T17:57:39Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   8 |   228.67 | 2023-09-17T06:15:30Z |
+| front    | 2.65 |   8 |   306.09 | 2024-01-08T20:37:10Z |
+:END:
+
+Injective function
+
+*** Back
+A function that maps distinct elements of its domain to distinct elements of its codomain.
+
+*** Extra
+[[file:180px-Injection.svg.png]]
+*** Source
+[cite:@InjectiveFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       713283e7-4ef8-43b8-8009-c321a06a7a21
+:ANKI_NOTE_ID: 1640627899797
+:FC_CREATED: 2021-12-27T17:58:19Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   342.50 | 2024-01-17T06:12:28Z |
+| front    | 2.50 |   8 |   260.70 | 2023-09-23T07:40:42Z |
+:END:
+
+Integer
+
+*** Back
+A number that can be written without a fractional component; a "whole" number. Consists of zero, all positive natural numbers, and their additive inverses.
+
+*** Extra
+$\mathbb{Z}$
+
+*** Source
+[cite:@Integer2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       d6394fb9-4225-4ae0-a7e4-b0f5db3d35b2
+:ANKI_NOTE_ID: 1640627896672
+:FC_CREATED: 2021-12-27T17:58:16Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   347.66 | 2024-02-15T07:10:57Z |
+| front    | 2.50 |   6 |    84.01 | 2023-05-07T17:45:38Z |
+:END:
+
+Interval
+
+*** Back
+A set of real numbers that contains all real numbers lying between any two numbers of the set.
+
+*** Extra
+$0 \leq x \leq 1$
+
+*** Source
+[cite:@IntervalMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       ca77352e-4860-4bc7-8bb9-4cd61b9b4c86
+:ANKI_NOTE_ID: 1640627858098
+:FC_CREATED: 2021-12-27T17:57:38Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   326.51 | 2024-01-20T16:59:01Z |
+| front    | 2.50 |   8 |   342.68 | 2024-01-05T05:59:16Z |
+:END:
+
+Isomorphism
+
+*** Back
+A mapping between two structures of the same type that can be reversed by an inverse mapping.
+
+*** Source
+[cite:@Isomorphism2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       61aa096c-9827-44b9-be5c-4e72940ed76b
+:ANKI_NOTE_ID: 1640627894846
+:FC_CREATED: 2021-12-27T17:58:14Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   326.28 | 2024-01-30T09:32:49Z |
+| front    | 2.35 |   8 |   210.38 | 2023-06-28T03:59:35Z |
+:END:
+
+Kronecker delta
+
+*** Back
+A function of two variables whose value is one if the variables are equal and zero otherwise.
+
+*** Extra
+$\delta_{ij} = \begin{cases}0 & \text{if}\; i \neq j \\ 1 & \text{if}\; i = j\end{cases}$
+
+*** Source
+[cite:@KroneckerDelta2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       7161426f-db25-47a0-ae2b-750562771cd3
+:ANKI_NOTE_ID: 1640627872275
+:FC_CREATED: 2021-12-27T17:57:52Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |  10 |   249.61 | 2023-10-11T07:13:47Z |
+| front    | 2.65 |   8 |   171.42 | 2023-04-25T10:35:16Z |
+:END:
+
+Monotonic function
+
+*** Back
+A function between ordered sets that preserves order
+
+*** Extra
+In other words, entirely either non-increasing or non-decreasing.
+
+*** Source
+[cite:@MonotonicFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       a53a7b72-5260-4815-b952-0c7b92edad53
+:ANKI_NOTE_ID: 1640627859298
+:FC_CREATED: 2021-12-27T17:57:39Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   152.97 | 2023-03-20T14:37:38Z |
+| front    | 2.20 |   6 |    74.06 | 2023-03-20T16:08:31Z |
+:END:
+
+Morphism
+
+*** Back
+A structure-preserving map from one mathematical structure to another of the same type.
+
+*** Source
+[cite:@Morphism2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       060b98b6-fb7f-407f-a9f7-bdad261aad7a
+:ANKI_NOTE_ID: 1640627898697
+:FC_CREATED: 2021-12-27T17:58:18Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   308.27 | 2024-01-12T09:32:53Z |
+| front    | 3.10 |   6 |   132.00 | 2023-05-15T16:28:21Z |
+:END:
+
+Moving average
+
+*** Back
+A calculation over a series of data points creating a series of averages of different subsets of the full dataset.
+
+*** Source
+[cite:@MovingAverage2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       98da6f19-4de7-40da-9864-98b800841d2c
+:ANKI_NOTE_ID: 1640627899348
+:FC_CREATED: 2021-12-27T17:58:19Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   7 |   125.62 | 2023-07-19T06:05:44Z |
+| front    | 2.50 |   6 |   110.96 | 2023-05-21T15:23:46Z |
+:END:
+
+Natural numbers
+
+*** Back
+The set of numbers used for counting and ordering; non-negative integers.
+
+*** Extra
+$\mathbb{N}$
+
+*** Source
+[cite:@NaturalNumber2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       7a774072-48d7-4aa1-9974-af260e0119bf
+:ANKI_NOTE_ID: 1640627885298
+:FC_CREATED: 2021-12-27T17:58:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |  12 |   296.85 | 2023-12-17T23:58:35Z |
+| front    | 2.65 |   8 |   143.38 | 2023-03-28T09:08:39Z |
+:END:
+
+Partition of a set
+
+*** Back
+A grouping of the elements of some set, $X$, into non-empty subsets in such a way that every element in $X$ is included in exactly one sub-set.
+
+*** Source
+[cite:@PartitionSet2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       39e29ebc-6124-40ee-b6a5-6b95f2d7614d
+:ANKI_NOTE_ID: 1640627897997
+:FC_CREATED: 2021-12-27T17:58:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  10 |   350.48 | 2024-02-02T13:15:58Z |
+| front    | 2.35 |   8 |   295.33 | 2023-12-09T22:55:47Z |
+:END:
+
+Periodic function
+
+*** Back
+A function that repeats its values at regular intervals.
+
+*** Extra
+eg: trig functions
+
+*** Source
+[cite:@PeriodicFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       dca4c46c-33ac-414a-94d0-e7aa7593dcdb
+:ANKI_NOTE_ID: 1640627883999
+:FC_CREATED: 2021-12-27T17:58:03Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   4 |    15.80 | 2023-03-25T22:13:02Z |
+| front    | 2.65 |   7 |   144.85 | 2023-03-20T11:49:21Z |
+:END:
+
+Postfix notation
+
+*** Back
+A mathematical notation in which operators follow their operands.
+
+*** Extra
+eg: $2 \, 2 \, +$
+
+*** Source
+[cite:@InfixNotation2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       e11af599-2436-4a11-ae81-4626c6e7acc5
+:ANKI_NOTE_ID: 1640627884221
+:FC_CREATED: 2021-12-27T17:58:04Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   219.71 | 2023-07-19T08:23:41Z |
+| front    | 2.50 |   8 |   214.20 | 2023-07-28T21:33:00Z |
+:END:
+
+Prefix notation
+
+*** Back
+A mathematical notation in which operators precede their operands.
+
+*** Extra
+eg: $+ 2 \, 2$
+
+*** Source
+[cite:@PolishNotation2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       7a97334b-a704-49f8-b29c-06b70c9224bf
+:ANKI_NOTE_ID: 1640627889997
+:FC_CREATED: 2021-12-27T17:58:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   176.84 | 2023-05-12T10:41:49Z |
+| front    | 2.80 |   8 |   370.15 | 2024-02-16T03:16:27Z |
+:END:
+
+Radix point
+
+*** Back
+The symbol used to separate the integer part of a number from its fractional part.
+
+*** Extra
+eg: the "." in $3.14$
+
+*** Source
+[cite:@DecimalSeparator2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f4a8ccd6-6fda-419f-b39e-9b6e5ca4e37f
+:ANKI_NOTE_ID: 1640627900672
+:FC_CREATED: 2021-12-27T17:58:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   185.70 | 2023-05-25T09:44:20Z |
+| front    | 2.50 |   8 |   301.08 | 2023-11-10T18:36:47Z |
+:END:
+
+Ramp function
+
+*** Back
+A unary real function whose graph is shaped like a ramp.
+
+*** Source
+[cite:@RampFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       6b043cdb-9b01-4328-8ed5-2ae727f540e1
+:ANKI_NOTE_ID: 1640627900022
+:FC_CREATED: 2021-12-27T17:58:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   196.06 | 2023-06-21T17:01:26Z |
+| front    | 2.65 |   8 |   417.56 | 2024-05-08T03:36:04Z |
+:END:
+
+Rational number
+
+*** Back
+A number that can be expressed as the quotient of two integers.
+
+*** Extra
+$\frac{p}{q} \in \mathbb{Q} \; \forall \; p, q \in \mathbb{Z}$
+
+*** Source
+[cite:@RationalNumber2023]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f20f1103-c6bf-417d-ae39-f8c81cc5774a
+:ANKI_NOTE_ID: 1640627897747
+:FC_CREATED: 2021-12-27T17:58:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   195.64 | 2023-06-15T08:43:44Z |
+| front    | 2.50 |   6 |   120.36 | 2023-05-21T22:45:49Z |
+:END:
+
+Real function
+
+*** Back
+A function whose domain is the real numbers, $\mathbb{R}$, or a subset of $\mathbb{R}$ that contains an interval of positive length.
+
+*** Extra
+$f\colon \mathbb{R} \to X$
+
+*** Source
+[cite:@FunctionRealVariable2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       4d5c742a-fe22-4077-8b75-cbff32361f2d
+:ANKI_NOTE_ID: 1640627901422
+:FC_CREATED: 2021-12-27T17:58:21Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.60 |  11 |   152.16 | 2023-05-07T18:39:05Z |
+| front    | 2.80 |   6 |   136.72 | 2023-07-10T21:10:38Z |
+:END:
+
+Rectangular function
+
+*** Back
+$f(x) = \begin{cases} 0 & \text{if}\; \lvert x \rvert > \frac{1}{2} \\ \frac{1}{2} & \text{if}\; \lvert x \rvert = \frac{1}{2} \\ 1 & \text{if}\; \lvert x \rvert < \frac{1}{2} \end{cases}$
+
+*** Extra
+[[file:rect-fn.png]]
+*** Source
+[cite:@RectangularFunction2022]
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       74c67312-cf9a-4ba8-b097-6e6d05a5ba95
+:ANKI_NOTE_ID: 1640628591025
+:FC_CREATED: 2021-12-27T18:09:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |    98.98 | 2023-04-11T03:30:19Z |
+|        1 | 2.50 |   6 |   106.67 | 2023-05-24T15:56:01Z |
+:END:
+
+- {{$\operatorname{H}(x)$}@0}
+
+{{Heaviside step function}@1}
+
+*** Source
+[cite:@HeavisideStepFunction2022]
+** Denotes (Math) :fc:
+:PROPERTIES:
+:ID:       f3eca18b-0e92-4eb0-bcf1-acb74d977882
+:ANKI_NOTE_ID: 1640628594152
+:FC_CREATED: 2021-12-27T18:09:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   346.59 | 2024-01-29T17:43:12Z |
+|        1 | 2.50 |  10 |   328.09 | 2024-02-04T16:49:57Z |
+:END:
+- {{$\operatorname{rect}(x)$}@0}
+
+{{Rectangular function}@1}
+*** Source
+[cite:@RectangularFunction2022]
+** Denotes (Math) :fc:
+:PROPERTIES:
+:ID:       79c4feb9-66d8-4e63-9537-e173d979842e
+:ANKI_NOTE_ID: 1640628593775
+:FC_CREATED: 2021-12-27T18:09:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   381.24 | 2024-03-16T09:45:51Z |
+|        1 | 3.10 |   6 |   154.35 | 2023-06-12T22:42:48Z |
+:END:
+
+- {{$\operatorname{succ}(x)$}@0}
+
+{{Successor function}@1}
+
+*** Source
+[cite:@SuccessorFunction2021]
+** Describe :fc:
+:PROPERTIES:
+:ID:       8e72b0de-4af7-4ba4-aa7b-c825b4e0fa84
+:ANKI_NOTE_ID: 1655822566633
+:FC_CREATED: 2022-06-21T14:42:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    14.43 | 2023-04-01T00:24:11Z |
+| back     | 2.80 |   8 |   297.17 | 2023-12-19T21:36:30Z |
+:END:
+
+Even function
+
+*** Back
+- $\overset{\Delta}{=}$ $f(x) = f(-x)$
+- They are symmetric with respect to the y-axis.
+- Examples: $x^2$, $\lvert x\rvert$
+** Describe :fc:
+:PROPERTIES:
+:ID:       c3934861-9b1f-499a-8129-209a555748ab
+:ANKI_NOTE_ID: 1640628526576
+:FC_CREATED: 2021-12-27T18:08:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   9 |   281.93 | 2023-11-19T22:08:00Z |
+| back     | 2.80 |   8 |   320.40 | 2024-01-11T13:27:11Z |
+:END:
+
+$f(x) = b^x$
+
+*** Back
+- Defined over: $(-\infty, \infty)$
+- $f(0) = 1$
+- $f(1) = b$
+- $\lim \limits_{x \to -\infty} f(x) = 0$
+- $\lim \limits_{x \to \infty} f(x) = \infty$
+*** Extra
+[[file:an-example-of-one-of-the-most-general-exponential-graph.jpg]]
+*** Source
+[cite:@Exponentiation2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       5dffe2eb-b285-45c9-aa66-44e036e7cabe
+:ANKI_NOTE_ID: 1640627831673
+:FC_CREATED: 2021-12-27T17:57:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   246.87 | 2023-08-22T00:33:46Z |
+| back     | 2.80 |  10 |   351.40 | 2024-02-10T13:31:45Z |
+:END:
+
+Closed-form expression
+
+*** Back
+- $\sum_{i=1}^{n}i = \frac{n(n+1)}{2}$
+
+*** Source
+[cite:@ClosedformExpression2022]
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       0a19ab13-2b97-4f79-8496-121b58a90beb
+:ANKI_NOTE_ID: 1640627833094
+:FC_CREATED: 2021-12-27T17:57:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   321.53 | 2024-01-04T16:08:47Z |
+| back     | 2.65 |   8 |   187.86 | 2023-05-27T22:53:20Z |
+:END:
+
+Periodic functions
+
+*** Back
+- $\sin$
+- $\cos$
+*** Source
+[cite:@PeriodicFunction2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       d4bbf599-ce61-4e3f-ae7b-395601d321fb
+:ANKI_NOTE_ID: 1640627832023
+:FC_CREATED: 2021-12-27T17:57:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   9 |   323.97 | 2023-12-07T01:13:09Z |
+| back     | 2.35 |   8 |   252.14 | 2023-09-29T20:15:45Z |
+:END:
+
+Piecewise function
+
+*** Back
+- $f(x) = |x|$
+*** Source
+[cite:@Piecewise2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       e507857f-3240-4cec-9542-5c6301beab73
+:ANKI_NOTE_ID: 1640627833247
+:FC_CREATED: 2021-12-27T17:57:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   9 |   253.84 | 2023-09-22T10:43:50Z |
+| back     | 2.65 |   8 |   317.15 | 2024-01-14T17:40:03Z |
+:END:
+
+[[id:7c9624d9-8abd-4581-b0df-c5db61516818][Sigmoid function]]
+
+*** Back
+- $\operatorname{logistic}(x)$
+*** Source
+[cite:@SigmoidFunction2022]
+** ImageOf :fc:
+:PROPERTIES:
+:ID:       cbf29c7f-5c85-427a-b8cf-6084589f71e5
+:ANKI_NOTE_ID: 1640628527926
+:FC_CREATED: 2021-12-27T18:08:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   9 |   351.24 | 2024-02-11T23:08:43Z |
+| back     | 2.65 |   8 |   389.29 | 2024-04-02T10:17:16Z |
+:END:
+
+Dirac delta function
+
+*** Back
+[[file:dirac-delta-fn-graph.gif]]
+*** Source
+[cite:@HeavisideStepFunction2022]
+** Image :fc:
+:PROPERTIES:
+:ID:       0ad107ea-48c3-4559-b9f1-79514682cbec
+:ANKI_NOTE_ID: 1640628530103
+:FC_CREATED: 2021-12-27T18:08:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    23.77 | 2023-03-19T22:26:07Z |
+| back     | 2.35 |   6 |    67.19 | 2023-04-15T04:23:34Z |
+:END:
+
+$f(x) = \frac{1}{x}$
+
+*** Back
+[[file:Lim_of_1_over_x_graph.png]]
+*** Source
+[cite:@MultiplicativeInverse2022]
+** ImageOf :fc:
+:PROPERTIES:
+:ID:       ec166bae-9005-4236-af35-ed7b1b6a7611
+:ANKI_NOTE_ID: 1640628528177
+:FC_CREATED: 2021-12-27T18:08:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   169.65 | 2023-04-08T17:09:06Z |
+| back     | 2.35 |   6 |    81.48 | 2023-05-29T06:04:31Z |
+:END:
+
+Heaviside step function
+
+*** Back
+[[file:heaviside-step-function.png]]
+*** Source
+[cite:@HeavisideStepFunction2022]
+** ImageOf :fc:
+:PROPERTIES:
+:ID:       a440fb9a-1160-4dc3-809a-a93a0e748e9e
+:ANKI_NOTE_ID: 1640628528875
+:FC_CREATED: 2021-12-27T18:08:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |  11 |   277.84 | 2023-10-16T11:04:39Z |
+| back     | 2.80 |   8 |   316.69 | 2024-01-09T08:30:34Z |
+:END:
+
+$\operatorname{boxcar}(x)$
+
+*** Back
+[[file:boxcar-fn.png]]
+*** Source
+[cite:@BoxcarFunction2022]
+** Image :fc:
+:PROPERTIES:
+:ID:       8a4a7e00-7a5a-4d52-9187-06f91bd505c9
+:ANKI_NOTE_ID: 1640628529598
+:FC_CREATED: 2021-12-27T18:08:49Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   292.16 | 2023-11-22T20:26:04Z |
+| back     | 2.30 |  10 |   155.96 | 2023-05-11T13:53:07Z |
+:END:
+
+$\operatorname{rect}(x)$
+
+*** Back
+[[file:rect-fn.png]]
+*** Source
+[cite:@RectangularFunction2022]
+** ImageOf :fc:
+:PROPERTIES:
+:ID:       b3088017-8ce3-4153-8087-89c8bf5f7d7c
+:ANKI_NOTE_ID: 1640628528401
+:FC_CREATED: 2021-12-27T18:08:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |  10 |   272.44 | 2023-10-31T00:55:06Z |
+| back     | 2.50 |   9 |   303.64 | 2023-11-12T06:02:13Z |
+:END:
+
+Step function
+
+*** Back
+[[file:StepFunctionExample.png]]
+*** Source
+[cite:@StepFunction2022]
+** ImageOf :fc:
+:PROPERTIES:
+:ID:       2ffa71a4-7824-4f81-b7e0-5cbc86e0c84a
+:ANKI_NOTE_ID: 1640628529101
+:FC_CREATED: 2021-12-27T18:08:49Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   241.16 | 2023-08-14T21:37:46Z |
+| back     | 2.80 |   8 |   296.82 | 2023-10-29T10:35:24Z |
+:END:
+
+Unit ramp function
+
+*** Back
+[[file:RampFunction_801.gif]]
+*** Source
+[cite:@RampFunction2022]
+** {{$\delta_{ij}$}@0} $=$ {{$\begin{cases}0 & \text{if}\; i \neq j \\ 1 & \text{if}\; i = j}\end{cases}$}{cases}@1} :fc:
+:PROPERTIES:
+:ID:       21602a8f-22db-4b9d-932e-10a380830f15
+:ANKI_NOTE_ID: 1656854718777
+:FC_CREATED: 2022-07-03T13:25:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   136.11 | 2023-06-11T17:30:41Z |
+|        1 | 1.90 |   7 |    94.02 | 2023-06-19T14:31:05Z |
+:END:
+
+*** Source
+[cite:@KroneckerDelta2022]
+** {{$\delta(x)$}{function}@0} $=$ {{$\begin{cases} 0 & \text{if}\; x \neq 0 \\ 1 & \text{if}\; x = 0\end{cases}$}{cases}@1} :fc:
+:PROPERTIES:
+:ID:       77a9ae28-481c-498a-b389-f20bfffc7067
+:ANKI_NOTE_ID: 1656854719403
+:FC_CREATED: 2022-07-03T13:25:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    95.18 | 2023-04-24T20:49:04Z |
+|        1 | 2.20 |   7 |   168.20 | 2023-08-12T08:26:07Z |
+:END:
+*** Source
+[cite:@DiracDeltaFunction2022]
+** {{$\displaystyle \frac{1}{1 + x^{-y}}$}@0} $=$ {{$\displaystyle \frac{x^y}{x^y + 1}$}@1} :fc:
+:PROPERTIES:
+:ID:       3a84c4f2-6811-4828-8043-ed7e088a2e45
+:ANKI_NOTE_ID: 1656854720027
+:FC_CREATED: 2022-07-03T13:25:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   119.21 | 2023-05-19T21:57:30Z |
+|        1 | 1.90 |   6 |    52.79 | 2023-04-18T22:38:59Z |
+:END:
+** {{$\operatorname{boxcar}(x)$}{function}@0} $=$ {{$\begin{cases} 0 & \text{if}\; x < a \\ c & \text{if}\; a < x < b \\ 0 &\text{if}\; x > b \\ \text{various} & \text{if}\; x = a \;\text{or}\; x = b\end{cases}$}{cases}@1} :fc:
+:PROPERTIES:
+:ID:       feee185f-abc0-4ff9-b4d2-fc9b5feaf5ae
+:ANKI_NOTE_ID: 1656854720628
+:FC_CREATED: 2022-07-03T13:25:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   195.55 | 2023-08-01T03:45:47Z |
+|        1 | 2.95 |   7 |   279.43 | 2023-11-15T04:39:00Z |
+:END:
+** {{$\operatorname{boxcar}(x)$}{function}@0} $=$ {{$c(\operatorname{H}(x - a) - \operatorname{H}(x - b))$}{functions}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854720628
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:FC_CREATED: 2022-07-03T13:25:20Z
+:ID:       64f53d79-7ab8-4910-8017-f4102f4ab010
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   136.91 | 2023-04-18T17:19:52Z |
+|        1 | 1.75 |   7 |    64.51 | 2023-04-22T15:51:07Z |
+:END:
+** {{$\operatorname{H}(x)$}{function}@0} $=$ {{$\begin{cases} 0 & \text{if}\; x < 0 \\ 1 & \text{if}\; x > 0 \\ \text{various} & \text{if}\; x = 0\end{cases}$}{cases}@1} :fc:
+:PROPERTIES:
+:ID:       4d5fbf80-873d-4d7b-b9fa-772917eadd08
+:ANKI_NOTE_ID: 1656854721452
+:FC_CREATED: 2022-07-03T13:25:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   198.26 | 2023-08-16T22:35:50Z |
+|        1 | 2.65 |   7 |   172.89 | 2023-06-05T15:58:24Z |
+:END:
+** {{$\operatorname{max}(a, b)$}@0} $=$ {{$\displaystyle \frac{a + b + \lvert a - b \rvert}{2}$}@1} :fc:
+:PROPERTIES:
+:ID:       c467e62b-af8a-458a-b890-c7e7022f8d0f
+:ANKI_NOTE_ID: 1656854722677
+:FC_CREATED: 2022-07-03T13:25:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   104.68 | 2023-05-04T08:32:25Z |
+|        1 | 2.50 |   7 |   206.72 | 2023-09-03T11:59:09Z |
+:END:
+
+*** Source
+[cite:@RampFunction2022]
+** {{$\operatorname{min}(a, b)$}@0} $=$ {{$\displaystyle \frac{a + b - \lvert a - b \rvert}{2}$}@1} :fc:
+:PROPERTIES:
+:ID:       0cd5c636-b8aa-4012-8d9f-a48628f1274f
+:ANKI_NOTE_ID: 1656854723326
+:FC_CREATED: 2022-07-03T13:25:23Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   104.86 | 2023-04-10T13:26:31Z |
+|        1 | 2.20 |   7 |   160.70 | 2023-06-30T09:35:48Z |
+:END:
+
+*** Source
+[cite:@mathematicianAnswerArithmeticFunctionReturnLowestInparameter2010]
+** {{$\operatorname{ramp}(x)$}@0} $=$ {{$\begin{cases} 0 & \text{if}\; x < 0 \\ x & \text{if}\; x \ge 0\end{cases}$}{cases}@1} :fc:
+:PROPERTIES:
+:ID:       6dabe05c-e389-42ce-ad0b-d0a49ed06c31
+:ANKI_NOTE_ID: 1656854724152
+:FC_CREATED: 2022-07-03T13:25:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   244.84 | 2023-09-16T14:48:43Z |
+|        1 | 2.95 |   7 |   332.94 | 2024-01-29T12:47:44Z |
+:END:
+
+*** Source
+[cite:@RampFunction2022]
+** {{$\operatorname{ramp}(x)$}@0} $=$ {{$x\operatorname{H}(x)$}{function}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854724152
+:FC_CREATED: 2022-07-03T13:25:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       02adce71-69b7-40b8-bed6-13a52350b67f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   364.30 | 2024-03-04T00:29:18Z |
+|        1 | 2.65 |   7 |   195.73 | 2023-08-12T09:43:12Z |
+:END:
+
+*** Source
+[cite:@RampFunction2022]
+** {{$\operatorname{ramp}(x)$}@0} $=$ {{$\operatorname{H}(x) * \operatorname{H}(x)$}{functions}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854724152
+:FC_CREATED: 2022-07-03T13:25:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       f57bc853-dc1c-4686-a1d7-56988d897078
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   188.96 | 2023-09-18T13:32:05Z |
+|        1 | 3.10 |   6 |   147.44 | 2023-06-14T00:58:53Z |
+:END:
+
+*** Source
+[cite:@RampFunction2022]
+** {{$\operatorname{rect}(x)$}@0} $=$ {{$\begin{cases} 0 & \text{if}\; \lvert x \rvert > \frac{1}{2} \\ \frac{1}{2} & \text{if}\; \lvert x \rvert = \frac{1}{2} \\ 1 & \text{if}\; \lvert x \rvert < \frac{1}{2} \end{cases}$}{cases}@1} :fc:
+:PROPERTIES:
+:ID:       cfe618c3-a08d-40d3-95f6-0b64ca29edb3
+:ANKI_NOTE_ID: 1656854724801
+:FC_CREATED: 2022-07-03T13:25:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   8 |   153.29 | 2023-07-11T05:43:07Z |
+|        1 | 2.35 |   7 |   223.85 | 2023-10-18T13:49:07Z |
+:END:
+
+*** Source
+[cite:@RectangularFunction2022]
+** {{$\operatorname{succ}(x)$}{function}@0} $=$ {{$x + 1$}@1} :fc:
+:PROPERTIES:
+:ID:       46840619-f1ca-4989-a45e-1eb9f663d715
+:ANKI_NOTE_ID: 1656854725377
+:FC_CREATED: 2022-07-03T13:25:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   134.60 | 2023-05-08T06:37:25Z |
+|        1 | 2.50 |   6 |   100.75 | 2023-05-02T08:28:10Z |
+:END:
+
+*** Source
+[cite:@SuccessorFunction2021]
+
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       0dd516cb-3e1f-4e37-8a84-878d29f8729d
+:ANKI_NOTE_ID: 1640627819398
+:FC_CREATED: 2021-12-27T17:56:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   171.48 | 2023-04-10T11:13:05Z |
+|        1 | 2.65 |   9 |   345.18 | 2024-02-25T18:24:40Z |
+:END:
+- {{Denary}@0}
+- {{base-10}@1}
+*** Source
+[cite:@Decimal2023]
+** AKA :fc:
+:PROPERTIES:
+:ID:       f68a3923-cee7-4f41-921b-52e80f6ba232
+:ANKI_NOTE_ID: 1640628557152
+:FC_CREATED: 2021-12-27T18:09:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   155.50 | 2023-03-25T13:47:44Z |
+|        1 | 2.20 |   8 |   245.93 | 2023-10-30T14:15:25Z |
+:END:
+
+- {{Significand}@0}
+- {{Mantissa}@1}
+
+*** Source
+[cite:@Significand2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       41eaa7c6-6ef3-470d-9330-aa3700af62fa
+:ANKI_NOTE_ID: 1640627884872
+:FC_CREATED: 2021-12-27T17:58:04Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  10 |   272.69 | 2023-10-31T06:56:07Z |
+| front    | 2.80 |   8 |   341.44 | 2024-01-14T14:31:49Z |
+:END:
+
+Loss function
+
+*** Back
+A function that maps from events to real numbers which represent the "cost" associated with the event.
+
+*** Source
+[cite:@LossFunction2022]
+** {{$(x+y)^2$}@0} $=$ {{$x^2 + 2xy + y^2$}@1}
+:PROPERTIES:
+:ID:       88942c62-7b9a-4b99-977a-9931aaaee885
+:ANKI_NOTE_ID: 1658243766422
+:FC_CREATED: 2022-07-19T15:16:06Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   5 |       23 | 2022-09-27T13:00:00Z |
+|        1 |  2.5 |   5 |       23 | 2022-10-02T13:00:00Z |
+:END:
+** {{$(x-y)^2$}@0} $=$ {{$x^2 - 2xy + y^2$}@1}
+:PROPERTIES:
+:ID:       1bd234da-5ec6-4079-a6f8-bf0d224c7060
+:ANKI_NOTE_ID: 1658694010284
+:FC_CREATED: 2022-07-24T20:20:10Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   5 |       59 | 2022-11-01T13:00:00Z |
+|        1 |  2.5 |   5 |       32 | 2022-09-18T13:00:00Z |
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       c3566fcc-c407-43d7-bb5d-56b453fde10f
+:ANKI_NOTE_ID: 1640627870325
+:FC_CREATED: 2021-12-27T17:57:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  10 |   336.09 | 2024-02-09T05:25:16Z |
+| front    | 2.80 |   8 |   347.49 | 2024-02-12T15:54:22Z |
+:END:
+
+Qualitative
+
+*** Back
+A property that takes on values in one of $K$ different classes.
+
+*** Extra
+eg: Gender
+
+*** Source
+** Definition :fc:
+:PROPERTIES:
+:ID:       f68e83c5-5ec1-4cbe-82c5-e699965abf1e
+:ANKI_NOTE_ID: 1640627870124
+:FC_CREATED: 2021-12-27T17:57:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   183.53 | 2023-05-08T05:53:16Z |
+| front    | 2.65 |   8 |   225.53 | 2023-07-16T07:23:59Z |
+:END:
+
+Quantitative
+
+*** Back
+A property that takes a numerical value
+
+*** Extra
+eg: Age
+
+*** Source
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       d6c96849-a5e4-48e1-939b-5e3a58f850bf
+:ANKI_NOTE_ID: 1640627871647
+:FC_CREATED: 2021-12-27T17:57:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   9 |   241.21 | 2023-10-05T23:58:28Z |
+| front    | 2.80 |   8 |   293.87 | 2023-12-08T00:34:13Z |
+:END:
+Degrees of freedom
+*** Back
+The number of values in the final calculation of a statistic which are free to vary.
+*** Extra
+Eg: $x + y + z = 0$ has 2 degrees of freedom
+*** Source
+[cite:@DegreesFreedomStatistics2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       82ccd8ac-86b6-47cf-ab13-be28d67729dc
+:ANKI_NOTE_ID: 1640628587926
+:FC_CREATED: 2021-12-27T18:09:47Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   391.24 | 2024-04-09T20:45:57Z |
+|        1 | 2.80 |   8 |   313.96 | 2023-11-16T13:50:01Z |
+|        2 | 2.65 |   7 |   148.48 | 2023-04-04T04:13:30Z |
+|        3 | 2.65 |   8 |   186.99 | 2023-05-19T15:33:40Z |
+:END:
+
+- {{$|S|$ given $S = \{ \cdots \}$}@0}
+- {{$\operatorname{card}(S)$}@1}
+- {{$\operatorname{n}(S)$}@2}
+
+{{Cardinality of the set}@3}
+
+*** Source
+[cite:@Cardinality2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       35e7200d-bee1-412e-9bb0-de783b03aef2
+:ANKI_NOTE_ID: 1640628565623
+:FC_CREATED: 2021-12-27T18:09:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   317.44 | 2023-11-18T04:34:42Z |
+|        1 | 2.20 |   7 |   138.34 | 2023-07-22T01:23:27Z |
+:END:
+
+- {{$A \subset B$}@0}
+
+{{$A$ is a proper subset of $B$}@1}
+
+*** Source
+[cite:@SetMathematics2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       c9b9bbce-b92d-42d5-8092-d2ba22ae6725
+:ANKI_NOTE_ID: 1640628566177
+:FC_CREATED: 2021-12-27T18:09:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   9 |   269.88 | 2023-10-13T23:12:51Z |
+|        1 | 2.50 |   8 |   249.50 | 2023-09-06T04:55:14Z |
+:END:
+
+- {{$A \subseteq B$}@0}
+
+{{$A$ is a subset of $B$}@1}
+
+*** Source
+[cite:@SetMathematics2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       1aa81b48-c82d-4064-8b20-c94d6ba8c299
+:ANKI_NOTE_ID: 1640628564703
+:FC_CREATED: 2021-12-27T18:09:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   210.14 | 2023-07-01T01:32:25Z |
+|        1 | 2.80 |   8 |   349.67 | 2024-02-12T20:54:36Z |
+:END:
+
+- {{$\mathbb{R}$}@0}
+
+{{The set of real numbers}@1}
+
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:ID:       18b6a915-652a-4475-bf61-b0a1bc2f5572
+:ANKI_NOTE_ID: 1640628565054
+:FC_CREATED: 2021-12-27T18:09:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   397.55 | 2024-04-04T03:08:38Z |
+|        1 | 2.50 |   8 |   304.02 | 2023-12-26T04:15:59Z |
+:END:
+
+- {{$\mathbb{R}^n$}@0}
+
+{{The set of n-dimensional real number space. That is, the set of all lists, of length $n$, containing only elements from $\mathbb{R}$}@1}
+
+*** Source
+** {{$\sum_{i = 1}^n i$}{summation}@0} $=$ {{$\frac{n(n+1)}{2}$}{closed form}@1} :fc:
+:PROPERTIES:
+:ID:       1128e30e-0ef6-4b47-a169-6141fb5162ff
+:ANKI_NOTE_ID: 1656854726551
+:FC_CREATED: 2022-07-03T13:25:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   239.48 | 2023-09-24T01:15:03Z |
+|        1 | 2.20 |   6 |    64.24 | 2023-03-22T07:59:30Z |
+:END:
+
+*** Source
+[cite:@NaturalNumberInfiniteSeries2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       a544ac70-db01-4071-91b1-105f95739547
+:ANKI_NOTE_ID: 1656854735676
+:FC_CREATED: 2022-07-03T13:25:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.75 |   7 |    69.28 | 2023-05-04T10:40:05Z |
+| front    | 2.50 |   7 |   219.33 | 2023-07-25T23:45:35Z |
+:END:
+
+Invariant
+
+*** Back
+A property of a mathematical object, or class of objects, which remains unchanged after operations or transformations of a certain type are applied to the object(s).
+
+*** Source
+[cite:@InvariantMathematics2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       62cbfad4-30d6-4041-bd11-b756f72e361c
+:ANKI_NOTE_ID: 1640627831847
+:FC_CREATED: 2021-12-27T17:57:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   391.11 | 2024-03-27T17:06:30Z |
+| back     | 2.35 |   7 |   152.12 | 2023-03-18T17:35:30Z |
+:END:
+
+Constant function
+
+*** Back
+- $f(x) = 4$
+*** Source
+[cite:@ConstantFunction2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       cbdc7e85-34a6-4c16-a31e-300572700eb1
+:ANKI_NOTE_ID: 1640627832398
+:FC_CREATED: 2021-12-27T17:57:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   370.76 | 2024-03-15T23:38:31Z |
+| back     | 2.65 |   7 |   138.04 | 2023-03-21T17:09:20Z |
+:END:
+
+Interval
+
+*** Back
+- $[0, 1]$: $0 \leq x \leq 1$
+- $(0, 1)$: $0 < x < 1$
+*** Source
+[cite:@IntervalMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       68d01e45-13b7-400b-96cf-6573beb1708b
+:ANKI_NOTE_ID: 1640627890645
+:FC_CREATED: 2021-12-27T17:58:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   363.53 | 2024-02-27T03:48:12Z |
+| front    | 2.35 |   8 |   337.00 | 2024-02-08T17:28:13Z |
+:END:
+
+Scientific notation
+
+*** Back
+A number written in the form $\text{significand} \times 10^{\text{exponent}}$
+
+*** Source
+[cite:@ScientificNotation2023]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       f1f2d530-f9d3-4545-bbae-4eb2bab1bbd8
+:ANKI_NOTE_ID: 1640627891693
+:FC_CREATED: 2021-12-27T17:58:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   9 |   278.68 | 2023-12-02T08:17:39Z |
+| front    | 2.65 |   8 |   173.84 | 2023-05-09T10:13:30Z |
+:END:
+
+Seminorm
+
+*** Back
+A vector space norm that need not be positive definite.
+
+*** Source
+[cite:@NormMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       225ef08e-604f-41f4-99eb-6cfc3c4ebac7
+:ANKI_NOTE_ID: 1640627888745
+:FC_CREATED: 2021-12-27T17:58:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   214.24 | 2023-07-08T06:16:56Z |
+| front    | 2.80 |   8 |   298.95 | 2023-11-08T15:08:08Z |
+:END:
+
+Series
+
+*** Back
+A description of the operation of adding an infinite number of quantities, one after another, to a starting value.
+
+*** Extra
+eg: $a_1 + a_2 + \cdots$, $\sum a_i$
+
+*** Source
+[cite:@SeriesMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       afd619dd-70ba-4aae-b701-2821a855a788
+:ANKI_NOTE_ID: 1640627888923
+:FC_CREATED: 2021-12-27T17:58:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |  14 |   271.04 | 2023-11-29T14:57:51Z |
+| front    | 1.90 |   7 |    90.90 | 2023-06-10T02:56:50Z |
+:END:
+
+Series expansion
+
+*** Back
+A method of approximating some function, one that cannot be expressed only with elementary operators, with a series.
+
+*** Source
+[cite:@SeriesExpansion2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       b866b2d1-de63-444c-b8eb-20f878ad7c89
+:ANKI_NOTE_ID: 1640627890220
+:FC_CREATED: 2021-12-27T17:58:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   9 |   234.03 | 2023-08-20T19:11:35Z |
+| front    | 3.10 |   6 |   179.98 | 2023-07-05T14:13:42Z |
+:END:
+
+Significand
+
+*** Back
+A part of a number in scientific notation, or a floating-point number, consisting of its significant digits.
+
+*** Extra
+$\text{significand} \times \text{base}^{\text{exponent}}$
+
+*** Source
+[cite:@Significand2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       84757b29-f393-4c98-b612-378c933a5d9b
+:ANKI_NOTE_ID: 1640627903522
+:FC_CREATED: 2021-12-27T17:58:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   386.05 | 2024-03-25T18:36:27Z |
+| front    | 2.65 |   7 |   140.15 | 2023-03-21T20:04:00Z |
+:END:
+
+Simple moving average
+
+*** Back
+A series of averages built by computing the average of the $n$ previous data points in the underlying series.
+
+*** Extra
+The convolution of the underlying data points with $\frac{1}{n}\vec{1}_n$.
+
+*** Source
+[cite:@MovingAverage2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       1a5fd5cb-5fce-4cfa-a9cb-bde80f2307d3
+:ANKI_NOTE_ID: 1640627895797
+:FC_CREATED: 2021-12-27T17:58:15Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   338.17 | 2024-02-11T07:03:10Z |
+| front    | 2.50 |   8 |   319.04 | 2023-12-22T19:46:06Z |
+:END:
+
+Step function
+
+*** Back
+A function on the real numbers which can be written as a finite linear combination of indicator functions of intervals.
+
+Informally: A piecewise constant function with finite pieces.
+
+$f\colon \mathbb{R} \to \mathbb{R}$ $f(x) = \sum_{i=0}^n \alpha_i 1_{A_i}(x)$
+
+Where
+
+$n \geq 0$, $\alpha_i \in \mathbb{R} \; \forall \; i$, $A_i$ are intervals, and $1_{A}$ is the indicator function.
+*** Extra
+[[file:StepFunctionExample.png]]
+*** Source
+[cite:@StepFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       224e0538-f987-41c7-8fa8-125f65bb2410
+:ANKI_NOTE_ID: 1640627892124
+:FC_CREATED: 2021-12-27T17:58:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   196.51 | 2023-06-21T03:14:25Z |
+| front    | 2.20 |   6 |    75.15 | 2023-04-04T19:58:25Z |
+:END:
+
+Subadditivity
+
+*** Back
+$f: A \to B$
+
+$f(x + y) \leq f(x) + f(y) \; \forall \; x, y \in A$
+*** Extra
+A property of a function, $f$, for which evaluating $f$ for the sum of any two elements of the domain is less than or equal to the sum of $f$ evaluated at each element individually.
+*** Source
+[cite:@Subadditivity2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       13501a94-89c5-4666-8e31-2376c36cd377
+:ANKI_NOTE_ID: 1640627900472
+:FC_CREATED: 2021-12-27T17:58:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   396.02 | 2024-04-02T14:39:48Z |
+| front    | 2.50 |   8 |   273.07 | 2023-11-30T15:48:10Z |
+:END:
+
+Successor function
+
+*** Back
+$\begin{aligned}\operatorname{f}\colon \; & \mathbb{N} \to \mathbb{N} \\ & n \mapsto n + 1\end{aligned}$
+
+*** Source
+[cite:@SuccessorFunction2021]
+** Definition (Math) :suspended:fc:
+:PROPERTIES:
+:ID:       80dc5676-d032-43c8-b0ef-e49a253457ff
+:ANKI_NOTE_ID: 1640627889348
+:FC_CREATED: 2021-12-27T17:58:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.15 |  14 |    40.08 | 2022-11-23T03:14:58Z |
+| front    |  2.5 |   6 |       37 | 2022-09-19T13:00:00Z |
+:END:
+
+Taylor series
+
+*** Back
+A power series of a function expressed in terms of the function's derivative at a single point.
+
+*** Extra
+[[file:600px-Sintay_SVG.svg.png]]
+*** Source
+[cite:@TaylorSeries2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       964ed0a7-ac4a-44ff-98fc-f8760c51c9be
+:ANKI_NOTE_ID: 1640627855699
+:FC_CREATED: 2021-12-27T17:57:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   6 |    83.70 | 2023-03-30T08:12:29Z |
+| front    | 2.80 |   8 |   327.17 | 2023-12-02T18:39:14Z |
+:END:
+
+The image of a function
+
+*** Back
+The set of all possible outputs of a function.
+
+*** Source
+[cite:@ImageMathematics2022]
+
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       3e96bb20-652a-4e44-879f-f6df0eb919e0
+:ANKI_NOTE_ID: 1640627899150
+:FC_CREATED: 2021-12-27T17:58:19Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   315.35 | 2024-01-08T00:31:15Z |
+| front    | 2.65 |   8 |   202.53 | 2023-06-06T03:43:17Z |
+:END:
+
+Unary function
+
+*** Back
+A function that takes one argument
+
+*** Extra
+eg: $\sin(x)$, $\operatorname{succ}(x)$
+
+*** Source
+[cite:@UnaryFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       a4d69160-79af-460f-ad3d-57bf6671020e
+:ANKI_NOTE_ID: 1640627901144
+:FC_CREATED: 2021-12-27T17:58:21Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   9 |   279.13 | 2023-10-25T19:33:11Z |
+| front    | 2.80 |   8 |   301.23 | 2023-12-06T00:01:33Z |
+:END:
+
+Unit ramp function
+
+*** Back
+A ramp function with a slope of one, starting at zero.
+
+*** Extra
+$\operatorname{R}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ x & \text{if}\; x > 0\end{cases}$
+
+[[file:RampFunction_801.gif]]
+*** Source
+[cite:@RampFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       97c560db-f647-4ae6-80cd-e92cee4a0e59
+:ANKI_NOTE_ID: 1640627903749
+:FC_CREATED: 2021-12-27T17:58:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   254.01 | 2023-08-16T18:13:52Z |
+| front    | 2.50 |   8 |   345.36 | 2024-02-04T12:13:49Z |
+:END:
+
+Weighted moving average
+
+*** Back
+A series of averages of an underlying ordered series computed by a weighted average of the $n$ previous underlying data points.
+
+*** Extra
+The convolution of the underlying data points with a fixed weighting function; $\text{data} * \vec{\omega}_n$.
+
+*** Source
+[cite:@MovingAverage2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       a753890e-8948-46a3-95d7-2b723cd42181
+:ANKI_NOTE_ID: 1640628588276
+:FC_CREATED: 2021-12-27T18:09:48Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   209.32 | 2023-07-03T01:26:39Z |
+|        1 | 2.65 |   7 |   166.92 | 2023-04-19T14:40:59Z |
+:END:
+
+- {{$1_A(x)$}@0}
+
+{{The indicator function}@1}
+
+*** Source
+[cite:@IndicatorFunction2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       4803dc6f-cbb0-46bb-bcd6-46691933eedb
+:ANKI_NOTE_ID: 1640628577151
+:FC_CREATED: 2021-12-27T18:09:37Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   363.04 | 2024-02-29T14:40:36Z |
+|        1 | 2.65 |   8 |   137.97 | 2023-03-21T15:55:53Z |
+:END:
+
+- {{$A \cap B$}@0}
+
+{{The intersection of $A$ and $B$.}@1}
+
+*** Source
+[cite:@SetTheory2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       793532f1-9aa0-4051-8b85-2eae7ae6645c
+:ANKI_NOTE_ID: 1640628576525
+:FC_CREATED: 2021-12-27T18:09:36Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   284.86 | 2023-11-12T11:00:06Z |
+|        1 | 2.65 |   8 |   221.65 | 2023-07-21T07:02:56Z |
+:END:
+
+- {{$A \cup B$}@0}
+
+{{The union of $A$ and $B$.}@1}
+
+*** Source
+[cite:@SetTheory2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       d476180f-bf3d-4e0d-96b5-41c84349aeb8
+:ANKI_NOTE_ID: 1640628575952
+:FC_CREATED: 2021-12-27T18:09:35Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   324.52 | 2023-12-28T10:07:37Z |
+|        1 | 2.80 |   6 |   147.88 | 2023-06-04T12:18:19Z |
+:END:
+
+- {{$\cap$}@0}
+
+{{Intersection}@1}
+
+*** Source
+[cite:@SetTheory2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       f3aebb7f-6476-421a-8dd6-2b0f9eea4310
+:ANKI_NOTE_ID: 1640628575422
+:FC_CREATED: 2021-12-27T18:09:35Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   167.95 | 2023-04-18T15:14:35Z |
+|        1 | 2.65 |   8 |   333.14 | 2024-02-08T03:42:10Z |
+:END:
+
+- {{$\cup$}@0}
+
+{{Union}@1}
+
+*** Source
+[cite:@SetTheory2022]
+** Denotes (Math) :fc:
+:PROPERTIES:
+:ID:       484504d4-34f6-433d-a4c9-ea2c6941e909
+:ANKI_NOTE_ID: 1640628591651
+:FC_CREATED: 2021-12-27T18:09:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.45 |  13 |   152.25 | 2023-05-01T00:18:22Z |
+|        1 | 2.35 |   8 |   206.18 | 2023-07-04T21:42:48Z |
+:END:
+
+- {{$\delta_{ij}$}@0}
+
+{{Kronecker delta function}@1}
+
+*** Source
+[cite:@KroneckerDelta2022]
+** Denotes (Math) :fc:
+:PROPERTIES:
+:ID:       6dd89c53-5abf-42f9-9442-d9318961e484
+:ANKI_NOTE_ID: 1640628590425
+:FC_CREATED: 2021-12-27T18:09:50Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   273.52 | 2023-11-16T04:26:13Z |
+|        1 | 2.35 |   7 |   154.75 | 2023-03-25T09:35:13Z |
+:END:
+
+- {{$\delta(x)$}@0}
+
+{{Dirac delta function}@1}
+
+*** Source
+[cite:@DiracDeltaFunction2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       ccfaba46-7dc1-4dd3-8d40-2dc67de11a1a
+:ANKI_NOTE_ID: 1640628589502
+:FC_CREATED: 2021-12-27T18:09:49Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   188.75 | 2023-05-13T11:00:27Z |
+|        1 | 2.80 |   8 |   360.98 | 2024-02-22T15:37:15Z |
+:END:
+
+- {{$f_1 * f_2$}@0}
+
+{{Convolution of $f_1$ and $f_2$}@1}
+
+*** Source
+[cite:@Convolution2022]
+** Denotes (Math) :fc:
+:PROPERTIES:
+:ID:       b9cf677a-3eef-40d8-a27a-9e6c15512f6b
+:ANKI_NOTE_ID: 1640628591975
+:FC_CREATED: 2021-12-27T18:09:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   324.41 | 2023-12-28T07:34:17Z |
+|        1 | 2.65 |   7 |   144.36 | 2023-03-31T00:57:54Z |
+:END:
+
+- {{$\mathbb{N}$}@0}
+
+{{Natural numbers}@1}
+
+*** Source
+[cite:@NaturalNumber2022]
+** Denotes (Math) :fc:
+:PROPERTIES:
+:ID:       eb0d3e8b-e91c-47c3-bc39-0ee9f2fc96cb
+:ANKI_NOTE_ID: 1640628593154
+:FC_CREATED: 2021-12-27T18:09:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   9 |   302.82 | 2023-11-20T09:58:20Z |
+|        1 | 2.20 |   8 |   229.15 | 2023-09-17T17:50:49Z |
+:END:
+
+- {{$\mathbb{Q}$}@0}
+
+{{The set of all rational numbers}@1}
+
+*** Source
+[cite:@RationalNumber2023]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       04bb816f-7194-4596-bea5-74546dbf21c0
+:ANKI_NOTE_ID: 1640628592575
+:FC_CREATED: 2021-12-27T18:09:52Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   182.28 | 2023-05-20T22:38:53Z |
+|        1 | 2.50 |   6 |    82.08 | 2023-04-09T03:57:03Z |
+:END:
+
+- {{$\mathbb{Z}$}@0}
+
+{{The set of all integers}@1}
+
+*** Source
+[cite:@Integer2022]
+** Denotes (Logic) :fc:
+:PROPERTIES:
+:ID:       515e5060-da66-4144-9280-9c8198f01d53
+:ANKI_NOTE_ID: 1640628579529
+:FC_CREATED: 2021-12-27T18:09:39Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   242.17 | 2023-08-17T22:55:44Z |
+|        1 | 2.50 |   8 |   281.94 | 2023-11-19T22:52:20Z |
+:END:
+
+- {{$\neg$}@0}
+
+{{Not}@1}
+
+*** Source
+[cite:@ListLogicSymbols2022]
+** Denotes (Argument) :fc:
+:PROPERTIES:
+:ID:       724f2c71-5e4d-44c1-b5c5-baec99c9545b
+:ANKI_NOTE_ID: 1658447861407
+:FC_CREATED: 2022-07-21T23:57:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   215.04 | 2023-08-20T02:56:08Z |
+|        1 | 2.50 |   7 |   209.03 | 2023-08-14T15:09:20Z |
+:END:
+- {{$\therefore$}@0}
+
+{{Therefore}@1}
+*** Source
+[cite:@ListLogicSymbols2022]
+** Definition (Signal processing) :fc:
+:PROPERTIES:
+:ID:       3ccd684d-c523-40f4-859d-81a8da0500e8
+:ANKI_NOTE_ID: 1640627823272
+:FC_CREATED: 2021-12-27T17:57:03Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.30 |  12 |   154.15 | 2023-05-02T21:49:00Z |
+| front    | 2.80 |   8 |   353.91 | 2024-01-30T21:49:02Z |
+:END:
+
+Impulse response
+
+*** Back
+The output of a dynamic system when presented with a brief input signal, called an impulse.
+
+*** Source
+[cite:@ImpulseResponse2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:50]
+:FC_CREATED: 2023-01-18T17:51:00Z
+:FC_TYPE:  cloze
+:ID:       4f5d6b4f-ec38-4303-9ee1-ba9fc62943a9
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    35.32 | 2023-03-22T12:33:17Z |
+|        1 | 2.65 |   5 |    39.27 | 2023-04-05T10:36:41Z |
+:END:
+
+{{$x^{-y}$}@0} $=$ {{$\frac{1}{x^y}$}@1}
+
+*** Source
+#+print_bibliography:

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@newport]
+:ID:       aa3b22f0-3771-464e-824d-8d0eeb7f331b
+:DIR:      /home/cashweaver/proj/roam/attachments/aa3b22f0-3771-464e-824d-8d0eeb7f331b
+:END:
+#+title: Cal Newport | About
+#+hugo_custom_front_matter: :slug "aa3b22f0-3771-464e-824d-8d0eeb7f331b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:14]
+#+filetags: :reference:
+
+[[id:b89cc482-a774-43af-a690-14ed0270480c][Cal Newport]], [cite:@newport]
+
+* Summary
+* Thoughts
+* Notes
+
+#+begin_quote
+The [[id:82d1d3b6-dd55-43bf-828e-b34508ac136c][Deep work]] Hypothesis: The ability to concentrate without distraction on a demanding task (what I call "deep work") is becoming more rare at the same time that it's becoming more valuable in the knowledge sector. As a result, those individuals and organizations who put in the hard work to cultivate this skill will thrive.
+#+end_quote
+
+#+begin_quote
+Digital Minimalism: The services delivered through your devices have become so alluring and addictive that they can significantly erode the quality of your life and your sense of autonomy. My solution is a philosophy I call digital minimalism, which argues that you should radically reduce the time you spend online, focusing on a small number of activities chosen because they support things you deeply value, and then happily miss out on everything else.
+#+end_quote
+
+#+begin_quote
+[[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][Attention capital theory]]: In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains' ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g., email and IM). I predict that as this sector evolves, we'll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

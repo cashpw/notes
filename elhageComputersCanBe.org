@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@elhageComputersCanBeUnderstood]
+:ID:       19ba13d6-259f-4734-a1be-aaa5d51fcd16
+:LAST_MODIFIED: [2023-02-08 Wed 10:34]
+:END:
+#+title: Nelson Elhage | Computers Can Be Understood
+#+hugo_custom_front_matter: :slug "19ba13d6-259f-4734-a1be-aaa5d51fcd16"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 04:56]
+#+filetags: :reference:
+ 
+[[id:5c0d65a3-c200-43e2-afdc-ef6811b3c8ff][Nelson Elhage]], [cite:@elhageComputersCanBeUnderstood]
+
+* Summary
+A [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth Mindset]] oriented approach based on the truth that computer systems are deterministic and can be understood in time that asserts that learning about such systems -- diving into the depths rather than letting systems remain [[id:ab1c1113-290b-4715-b2d7-94f2af485b2e][Black boxes]] -- is worthwhile.
+
+Related: [[id:279afdb0-48ca-4542-94f1-d20add351cae][Be curious]].
+* Notes
+
+#+begin_quote
+At core, computers are built on a set of (mostly) deterministic foundations, which follow strict rules at each tick of the clock. We built layers upon layers of abstractions upon those foundations, each of which, as well, behaves in a (mostly) reproducible and deterministic way based on the abstractions at the previous level.
+
+There is no magic. There is no layer beyond which we leave the realm of logic and executing instructions and encounter unknowable demons making arbitrary and capricious decisions. Most behaviors in one layer are comprehensible in terms of the concepts of the next layer, and all behaviors can be understood by digging down through enough layers.
+#+end_quote
+
+#+begin_quote
+My advice for a practical upshot from this post would be: cultivate a deep sense of curiosity about the systems you work with. Ask questions about how they work, why they work that way, and how they were built. Ask yourself questions like "How would I have built this library?," identify the gaps where you don't know the answer, and add them to your mental backlog of topics to learn.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 15:52]
+:FC_CREATED: 2022-10-28T22:54:02Z
+:FC_TYPE:  double
+:ID:       2b43e56f-d117-4720-8224-cae1c2e2a05a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   135.48 | 2023-06-22T10:30:07Z |
+| back     | 2.20 |   6 |    61.59 | 2023-04-11T08:44:41Z |
+:END:
+
+[[id:19ba13d6-259f-4734-a1be-aaa5d51fcd16][Nelson Elhage | Computers Can Be Understood]]
+
+*** Back
+A [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]]-oriented approach to thinking about computers based on the truth that computer systems are (except in rare cases) deterministic.
+*** Source
+[cite:@elhageComputersCanBeUnderstood]
+#+print_bibliography:

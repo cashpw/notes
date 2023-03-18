@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       a2e19c5c-0969-49ae-a0c2-740fc61279c3
+:LAST_MODIFIED: [2023-01-18 Wed 07:15]
+:END:
+#+title: Yes, and
+#+hugo_custom_front_matter: :slug "a2e19c5c-0969-49ae-a0c2-740fc61279c3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-14 Fri 11:20]
+#+filetags: :concept:
+
+#+begin_quote
+"Yes, and...", also referred to as "Yes, and..." thinking, is a rule-of-thumb in improvisational comedy that suggests that a participant should accept what another participant has stated ("yes") and then expand on that line of thinking ("and").
+
+[cite:@Yes2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-14 Fri 11:20]
+:FC_CREATED: 2022-10-14T18:21:43Z
+:FC_TYPE:  double
+:ID:       a4bb53fb-7ee7-4e06-afbc-01294048a34e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    75.43 | 2023-03-24T01:26:01Z |
+| back     | 2.20 |   6 |    76.39 | 2023-04-05T00:35:33Z |
+:END:
+
+[[id:a2e19c5c-0969-49ae-a0c2-740fc61279c3][Yes, and]]
+
+*** Back
+A rule of thumb originating from improvisational comedy which asserts participants should:
+
+- (...) accept what other participants have stated
+- (...) expand on that line of thinking
+*** Source
+[cite:@Yes2022]
+#+print_bibliography:

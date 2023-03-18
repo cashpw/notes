@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       d87d7e23-c861-4cec-adf8-c19125cc6327
+:LAST_MODIFIED: [2023-01-30 Mon 10:02]
+:END:
+#+title: Merge sort implementation in Python
+#+hugo_custom_front_matter: :slug "d87d7e23-c861-4cec-adf8-c19125cc6327"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-01 Fri 11:44]
+#+filetags: :concept:
+
+[[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
+#+begin_src python :results output
+import math
+from typing import List, Callable, Tuple
+
+def split(ints: List[int]) -> Tuple[List[int], List[int]]:
+    if len(ints) <= 1:
+        return ints, []
+
+    split_index = math.floor(len(ints) / 2)
+
+    return ints[0:split_index], ints[split_index:len(ints)]
+
+def merge(a: List[int], b: List[int], comparator: Callable[[id:int, int], bool]) -> List[int]:
+    a_index = 0
+    b_index = 0
+    out = []
+
+    for _ in range(len(a) + len(b)):
+        if a_index >= len(a):
+            out.append(b[b_index])
+            b_index += 1
+            continue
+
+        if b_index >= len(b):
+            out.append(a[a_index])
+            a_index += 1
+            continue
+
+        if comparator(a[a_index], b[b_index]):
+            out.append(a[a_index])
+            a_index += 1
+        else:
+            out.append(b[b_index])
+            b_index += 1
+
+    return out
+
+
+def merge_sort(ints: List[int], comparator: Callable[[id:int, int], bool]) -> None:
+    if len(ints) <= 1:
+        return ints
+
+    left, right = split(ints)
+    left = merge_sort(left, comparator)
+    right = merge_sort(right, comparator)
+
+    return merge(left, right, comparator)
+
+a = [10, 5, 2, 20, 1]
+print(merge_sort(a, lambda x, y: x <= y))
+#+end_src
+
+#+RESULTS:
+: [1, 2, 5, 10, 20]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

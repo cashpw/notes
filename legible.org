@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       20ff7657-2f1f-459e-be7e-c59be0b042f0
+:ROAM_ALIASES: Legibility
+:LAST_MODIFIED: [2023-03-14 Tue 08:06]
+:END:
+#+title: Legible
+#+hugo_custom_front_matter: :slug "20ff7657-2f1f-459e-be7e-c59be0b042f0"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-09 Mon 08:21]
+#+filetags: :concept:
+
+#+begin_quote
+The legibility described in Seeing Like a State, and imposed by Palmer Eldritch, is singular; It overrides our own experience, forcing us to live within the mind of its creator. The legibility described in Image of the City, and offered by Marco Polo, is faceted; it complements our own experience, allowing us to apply it where we see fit.
+
+[cite:@tellmanTwoConceptsLegibility]
+#+end_quote
+
+* As singular
+
+#+begin_quote
+[A legible thing is] arranged in a way that made it easy to monitor and control.
+
+[cite:@alexanderBookReviewSeeingState2017]
+#+end_quote
+
+#+begin_quote
+[Legibility is] something a state imposes on its people and resources. It is a coercive abstraction, not only treating different people, places, and ways of life as if they were the same, but creating an environment which encourages people to forget those differences ever existed.
+
+[cite:@tellmanTwoConceptsLegibility]
+#+end_quote
+
+* As faceted
+
+#+begin_quote
+In The Image of the City, Kevin Lynch defines "legibility" as something that a complex environment offers to its inhabitants, allowing them to easily navigate it. It is a clarifying abstraction, making the world more than an endless deluge of minute details.
+
+[cite:@tellmanTwoConceptsLegibility]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 08:46]
+:FC_CREATED: 2023-01-09T16:48:33Z
+:FC_TYPE:  double
+:ID:       edb7a749-6d57-43ea-bccf-04ec5a1f444f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    60.16 | 2023-05-09T07:11:16Z |
+| back     | 2.35 |   6 |    76.59 | 2023-05-27T14:35:18Z |
+:END:
+
+[[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (from the outside)
+
+*** Back
+An imposed, coercive, abstraction imposed on people and resources; treating different people, places, ways of live, etc as the same and creating an environment which encourages people to forget those differences ever existed
+*** Source
+
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 08:48]
+:FC_CREATED: 2023-01-09T16:49:58Z
+:FC_TYPE:  double
+:ID:       bc46da00-64da-4343-ad4c-158a087dba19
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    45.82 | 2023-03-24T19:23:31Z |
+| back     | 2.65 |   5 |    38.76 | 2023-03-24T08:25:32Z |
+:END:
+
+[[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (from the inside)
+
+*** Back
+- A way of seeing, offered by or within a complex environment, to its inhabitants which clarifies the complexity and makes it easier to navigate
+*** Source
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 08:50]
+:FC_CREATED: 2023-01-09T16:52:25Z
+:FC_TYPE:  double
+:ID:       032c81bd-cf24-40a8-9785-074b35f3a3ad
+:FC_BLOCKED_BY:       edb7a749-6d57-43ea-bccf-04ec5a1f444f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    47.43 | 2023-04-25T03:49:09Z |
+| back     | 2.80 |   5 |    46.71 | 2023-04-30T08:03:06Z |
+:END:
+
+[[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (from the outside)
+
+*** Back
+- Arranging a city in a grid layout
+- Forcing people to adopt a specific naming convention (e.g. First Middle Last)
+- Restricting where and people can build homes/etc
+*** Source
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 08:52]
+:FC_CREATED: 2023-01-09T16:54:15Z
+:FC_TYPE:  double
+:ID:       f0b4bcea-563f-4e69-8237-d6e8d66a70e6
+:FC_BLOCKED_BY:       bc46da00-64da-4343-ad4c-158a087dba19
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    35.17 | 2023-04-14T07:06:15Z |
+| back     | 2.50 |   5 |    35.88 | 2023-04-18T12:16:50Z |
+:END:
+
+[[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (from the inside)
+
+*** Back
+- The landmarks of a city
+- A [[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]]
+*** Source
+#+print_bibliography:

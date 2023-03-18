@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       5d946894-c987-4bf3-9709-290fad48044c
+:LAST_MODIFIED: [2023-02-16 Thu 18:00]
+:END:
+#+title: Autarky
+#+hugo_custom_front_matter: :slug "5d946894-c987-4bf3-9709-290fad48044c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-28 Fri 13:43]
+#+filetags: :concept:
+
+#+begin_quote
+Autarky is the characteristic of self-sufficiency, usually applied to societies, communities, states, and their economic systems.[1]
+
+[cite:@Autarky2022]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:44]
+:FC_CREATED: 2022-10-28T20:44:40Z
+:FC_TYPE:  double
+:ID:       488c88d5-4954-4552-a034-eb4e80e5d6ff
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   104.49 | 2023-05-23T06:05:21Z |
+| back     | 2.50 |   6 |    83.71 | 2023-05-11T19:09:01Z |
+:END:
+
+[[id:5d946894-c987-4bf3-9709-290fad48044c][Autarky]]
+
+*** Back
+The characteristic of self-sufficiency, usually applied to societies, communities, states, and their economic systems.
+*** Source
+[cite:@Autarky2022]
+#+print_bibliography:

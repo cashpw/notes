@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       f41ce01a-f8d7-4d5e-a7c6-178706176f6c
+:ROAM_ALIASES: "Instrumental value (finance)" "Extrinsic value (finance)"
+:ROAM_REFS: [cite:@OptionTimeValue2022]
+:LAST_MODIFIED: [2023-03-04 Sat 07:09]
+:END:
+#+title: Option time value
+#+hugo_custom_front_matter: :slug "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:44]
+#+filetags: :concept:
+
+#+begin_quote
+In finance, the time value (TV) (extrinsic or instrumental value) of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]] is the premium a rational investor would pay over its current exercise value ([[id:04af40d8-212f-471a-acb7-8d68aabfa2ed][Intrinsic value (finance)]]), based on the probability it will increase in value before expiry. For an [[id:d3ad448d-c93d-4f29-9e91-dea656de0bb2][American option]] this value is always greater than zero in a fair market, thus an option is always worth more than its current exercise value.
+
+[cite:@OptionTimeValue2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 18:59]
+:FC_CREATED: 2022-11-15T03:12:46Z
+:FC_TYPE:  double
+:ID:       9f0d1cb6-5c6e-4b77-ac54-d051a22b0b24
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   106.05 | 2023-05-08T17:37:56Z |
+| back     | 2.80 |   6 |   137.56 | 2023-07-05T04:11:51Z |
+:END:
+
+[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Option time value]]
+
+*** Back
+The part of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]]'s value based on the probability that it will increase in value before expiry.
+*** Source
+[cite:@OptionTimeValue2022]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 19:18]
+:FC_CREATED: 2022-11-15T03:18:45Z
+:FC_TYPE:  cloze
+:ID:       e1b2ab35-d95f-47dc-9873-bfb5728300c9
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    76.55 | 2023-04-25T12:05:55Z |
+|        1 | 2.65 |   6 |   119.23 | 2023-07-01T20:41:14Z |
+|        2 | 1.90 |   6 |    50.90 | 2023-04-21T01:59:25Z |
+:END:
+
+- {{[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Option time value]]}@0}
+- {{[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Extrinsic value (finance)]]}@1} of an option
+- {{[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Instrumental value (finance)]]}@2} of an option
+
+*** Source
+[cite:@OptionTimeValue2022]
+#+print_bibliography:

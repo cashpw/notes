@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       8c1b0569-db17-41af-90a3-7f2c75dc8923
+:LAST_MODIFIED: [2023-02-14 Tue 20:41]
+:END:
+#+title: Realpolitik
+#+hugo_custom_front_matter: :slug "8c1b0569-db17-41af-90a3-7f2c75dc8923"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 11:20]
+#+filetags: :concept:
+
+#+begin_quote
+Realpolitik refers to enacting or engaging in diplomatic or political policies based primarily on considerations of given circumstances and factors, rather than strictly binding itself to explicit ideological notions or moral and ethical premises.
+#+end_quote
+
+Also see [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       4628fa14-3f89-405c-b67f-e5ce3a1116d9
+:ANKI_NOTE_ID: 1658600755331
+:FC_CREATED: 2022-07-23T18:25:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   6 |   146.97 | 2023-06-17T13:42:40Z |
+| front    | 2.80 |   6 |   118.92 | 2023-06-14T02:39:06Z |
+:END:
+[[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]]
+*** Back
+Politics through the lens of the current circumstances as opposed to moral, ideological, or ethical premises.
+
+Informally: A pejorative used to signal the public-facing rationale for a political action isn't the true rationale.
+*** Source
+[cite:@Realpolitik2022]
+#+print_bibliography:

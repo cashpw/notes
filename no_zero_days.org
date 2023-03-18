@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a
+:DIR:      /home/cashweaver/proj/roam/attachments/a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a
+:LAST_MODIFIED: [2023-02-28 Tue 19:54]
+:END:
+#+title: No zero days
+#+hugo_custom_front_matter: :slug "a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-12 Sat 08:30]
+#+filetags: :concept:
+
+Make at least a little bit of [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][growth]] every day. You don't need to move mountains but you do have to move /something/. Something is better than nothing because it [[id:92cf48f0-63a6-4d1d-9275-c80f6743ccb9][compounds]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 18:50]
+:FC_CREATED: 2022-11-22T02:52:33Z
+:FC_TYPE:  double
+:ID:       8fb2bba9-894f-41f8-b3be-a1280aad6116
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   149.77 | 2023-07-26T10:32:19Z |
+| back     | 2.50 |   6 |    98.22 | 2023-06-07T09:09:52Z |
+:END:
+
+[[id:a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a][No zero days]]
+
+*** Back
+Make at least a little bit of progress every day. Don't let a day go by without doing /something/ to progress toward your goals.
+*** Source
+[cite:@ryans01NoZeroDays2013]
+#+print_bibliography:

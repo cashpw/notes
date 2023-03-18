@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       ffff7383-e701-4fca-ad82-4e1a0ac3d509
+:ROAM_REFS: [cite:@SwitchingBarriers2022]
+:ROAM_ALIASES: "Switching cost"
+:LAST_MODIFIED: [2023-01-29 Sun 18:17]
+:END:
+#+title: Switching barrier
+#+hugo_custom_front_matter: :slug "ffff7383-e701-4fca-ad82-4e1a0ac3d509"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 11:00]
+#+filetags: :concept:
+
+#+begin_quote
+Switching costs or switching barriers [...] may be defined as the disadvantages or expenses consumers feel they experience, along with the economic and psychological costs of switching from one alternative to another.
+
+[cite:@SwitchingBarriers2022]
+#+end_quote
+
+Also see [[id:877f3321-faac-463a-8619-787467251655][Network effect]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 11:56]
+:FC_CREATED: 2022-11-18T19:57:10Z
+:FC_TYPE:  double
+:ID:       bcd7b869-e21d-4838-beca-e4b2c15c15fb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   104.70 | 2023-05-22T16:24:00Z |
+| back     | 2.20 |   6 |    66.28 | 2023-04-06T08:57:45Z |
+:END:
+
+[[id:ffff7383-e701-4fca-ad82-4e1a0ac3d509][Switching barrier]]
+
+*** Back
+Disadvantages or expenses incurred by changing from one alternative to another.
+*** Source
+[cite:@SwitchingBarriers2022]
+#+print_bibliography:

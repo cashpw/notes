@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       3bd13351-ede1-473b-8789-6a8bfe90a786
+:ROAM_ALIASES: **kwargs kwargs "Python keyword arguments"
+:LAST_MODIFIED: [2023-03-15 Wed 08:13]
+:END:
+#+title: Python keyword argument
+#+hugo_custom_front_matter: :slug "3bd13351-ede1-473b-8789-6a8bfe90a786"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-08 Wed 09:35]
+#+filetags: :concept:
+
+#+begin_quote
+an argument preceded by an identifier (e.g. ~name=~) in a function call or passed as a value in a dictionary preceded by =**=. For example, =3= and =5= are both keyword arguments in the following calls to =complex()=:
+
+#+begin_src python :results output
+complex(real=3, imag=5)
+complex(**{'real': 3, 'imag': 5})
+#+end_src
+
+[cite:@pythondocumentationGlossary]
+#+end_quote
+
+Also see [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 09:40]
+:FC_CREATED: 2023-02-08T17:42:00Z
+:FC_TYPE:  double
+:ID:       66f739e0-f597-4702-abf4-6bd75507fece
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    45.47 | 2023-04-30T02:35:21Z |
+| back     | 2.35 |   4 |    14.07 | 2023-03-24T04:40:09Z |
+:END:
+
+[[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]]
+
+*** Back
+Arguments to a function which are either:
+
+1. Preceded by an identifier (e.g. ~name=~)
+2. Passed as a value in a dictionary preceded by =**= (e.g. =**{'real': 3, 'imaginary': 5}=)
+
+*** Source
+[cite:@pythondocumentationGlossary]
+#+print_bibliography:

@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       477fb65f-3351-4154-a270-08c58cdcaf88
+:LAST_MODIFIED: [2023-03-17 Fri 06:55]
+:END:
+#+title: Single-pair shortest path problem
+#+hugo_custom_front_matter: :slug "477fb65f-3351-4154-a270-08c58cdcaf88"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 11:46]
+#+filetags: :concept:
+
+Find the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][shortest path]] from the source [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] to the target vertex in a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]].
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:47]
+:FC_CREATED: 2022-12-21T19:48:01Z
+:FC_TYPE:  double
+:ID:       94279779-5f6a-4af6-b9b5-599fd6b74148
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   112.37 | 2023-07-07T22:43:21Z |
+| back     | 2.35 |   6 |    68.60 | 2023-05-10T06:32:17Z |
+:END:
+
+[[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]
+
+*** Back
+A problem in which the goal is to find the shortest path in a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] between two given [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]].
+*** Source
+[cite:@ShortestPathProblem2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 08:58]
+:FC_CREATED: 2022-12-22T17:08:13Z
+:FC_TYPE:  double
+:ID:       2687506b-e286-46d9-8b1b-4ce1974d6bbc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    86.27 | 2023-05-30T23:57:09Z |
+| back     | 2.35 |   6 |    69.11 | 2023-05-16T21:04:52Z |
+:END:
+
+Algorithm to solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]
+
+*** Back
+- [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] or [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] (for [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graphs]] with non-negative weights)
+- [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] (for [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graphs]] without [[id:92976e2e-a367-4517-a287-1b4a95db9592][Negative cycles]])
+*** Source
+- [cite:@SearchAlgorithm2022]
+- [cite:@DijkstraAlgorithm2022]
+#+print_bibliography:

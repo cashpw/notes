@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       3619f0c9-baa8-44da-8667-c13b7dc3e3bd
+:LAST_MODIFIED: [2023-01-25 Wed 08:37]
+:ROAM_ALIASES: "How to be more creative"
+:END:
+#+title: Creativity is a product of volume
+#+hugo_custom_front_matter: :slug "3619f0c9-baa8-44da-8667-c13b7dc3e3bd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-24 Mon 11:27]
+#+filetags: :concept:
+
+1. Write a <large number> of ideas down without regard to quality. "Here's the magic trick: if you can't come up with ten ideas, come up with 20 ideas." [cite:@altucherUltimateGuideBecomingIdeaMachine2014]
+2. Pick the good ones
+3. If there are no good ideas, go to step 1
+
+The best way I know to be creative is to produce a whole bunch of ideas without caring whether or not they're good or bad and then select from what's in front of me.
+
+References:
+
+- [[id:bbb82ce2-0bab-4746-acc1-7bb95da9bb72][Julian Shapiro | Creativity Faucet: How to Be More Creative]]
+- [[id:876f8d80-902c-427a-9109-bb3bd447715c][James Altucher | The Ultimate Guide for Becoming an Idea Machine]]
+
+Similar ideas:
+
+- [[id:b46ea6ee-5a61-47ee-81e1-163af9ff9cc4][Rewriting and Editing]]: Rewriting is "easier" than writing
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-10-26 Wed 09:28]
+:FC_CREATED: 2022-10-26T16:28:19Z
+:FC_TYPE:  cloze
+:ID:       cbabd9f4-2d2b-4072-9e73-62d656979f2e
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   161.42 | 2023-07-06T02:45:36Z |
+:END:
+
+Creativity is a product of {{volume}@0}
+*** Source
+Me
+#+print_bibliography:

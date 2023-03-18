@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       3784b9a9-ad2f-4537-864a-7362f21cd014
+:LAST_MODIFIED: [2023-01-12 Thu 15:04]
+:END:
+#+title: Tree book
+#+hugo_custom_front_matter: :slug "3784b9a9-ad2f-4537-864a-7362f21cd014"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-17 Sun 09:48]
+#+filetags: :concept:
+
+#+begin_quote
+Tree books are books that lay out a framework of ideas. A good example is Daniel Kahneman's Thinking: Fast and Slow, which lays out his life's work — the entirety of behavioural economics — in a single book. (So an entire field, like a tree of knowledge, in one book. Geddit, geddit?) Other books I can think of in this category are High Output Management by Andy Grove, and Principles by Ray Dalio.
+
+[...]
+
+[...] tree books and narratives are difficult to summarise. And I'd warn against reading summaries of those books in lieu of reading the actual text: too much gets lost in translation.
+
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+end_quote
+
+Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:
+:PROPERTIES:
+:ID:       c4368fb8-a26f-4a72-9140-f63bdc06d288
+:ANKI_NOTE_ID: 1640627827897
+:FC_CREATED: 2021-12-27T17:57:07Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   197.70 | 2023-06-18T10:37:38Z |
+| front    | 2.65 |   8 |   282.25 | 2023-11-16T05:58:53Z |
+:END:
+[[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+*** Back
+Books that lay out a framework of ideas
+*** Source
+[cite:@chinThreeKindsNonfictionBooks2018]
+** Example(s) ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:
+:PROPERTIES:
+:ID:       bc9b8e5f-4701-46ad-b541-5eb59e3ccb4c
+:ANKI_NOTE_ID: 1658076800655
+:FC_CREATED: 2022-07-17T16:53:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   186.36 | 2023-05-30T23:58:15Z |
+| back     | 2.80 |   7 |   280.46 | 2023-10-17T01:18:14Z |
+:END:
+[[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+*** Back
+- [[id:c605b581-d3f9-4eed-a296-f7d72b580db3][Ray Dalio | Principles]]
+- [[id:84e0e30f-a362-4aae-b540-4541e00af0a8][Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus]]
+*** Source
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+print_bibliography:

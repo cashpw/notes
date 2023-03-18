@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       c19c4cf1-9304-46b7-9441-8fed0ed17a57
+:LAST_MODIFIED: [2023-02-01 Wed 09:12]
+:END:
+#+title: Growth mindset
+#+hugo_custom_front_matter: :slug "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-20 Sun 15:27]
+#+filetags: :concept:
+
+#+begin_quote
+Those with a growth [[id:2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783][Mindset]] believe "intelligence can be developed" and their abilities can be enhanced through the learning process. With a growth mindset, individuals tend to embrace challenges, persevere in the face of adversity, accept and learn from failure, and focus on the process rather than the outcome. They see talents and abilities as skills that are developed through effort. Feedback and failure are seen as opportunities for increasing ability signaling the "need to pay attention, invest effort, apply time to practice, and master the new learning opportunity".
+
+[[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]] closely relates to a growth mindset.
+
+[cite:@Mindset2022]
+#+end_quote
+
+#+begin_quote
+According to [[id:e1dbf248-511f-4518-aba6-8eeb1c6bbeb3][Carol Dweck]], individuals can be placed on a continuum according to their implicit views of "where ability comes from". The two categorical extremes are [[id:3a203296-7538-4986-a360-0db64356c9f5][Fixed mindset]] and [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]].
+
+[cite:@Mindset2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-14 Fri 09:34]
+:FC_CREATED: 2022-10-14T16:36:04Z
+:FC_TYPE:  double
+:ID:       bae5ee1f-f465-4770-ad9c-6b957fefd8d9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   136.73 | 2023-06-15T12:33:59Z |
+| back     | 2.20 |   6 |    70.75 | 2023-04-13T11:07:22Z |
+:END:
+
+[[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]]
+
+*** Back
+A concept which holds that individuals can enhance/expand/grow their intelligence, ability, aptitude, etc, through the learning process.
+*** Source
+[cite:@Mindset2022]
+#+print_bibliography:

@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       ac25c22f-8025-4664-893d-ce98825c25c0
+:ROAM_ALIASES: "One must be invented" "The military force which is denied an external target always turns against its own people"
+:LAST_MODIFIED: [2023-03-02 Thu 07:59]
+:END:
+#+title: If there is no enemy, one must be invented
+#+hugo_custom_front_matter: :slug "ac25c22f-8025-4664-893d-ce98825c25c0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-15 Tue 09:36]
+#+filetags: :quote:
+#+begin_quote
+If there is no enemy, one must be invented. The military force which is denied an external target always turns against its own people.
+
+[[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]], [cite:@herbertGodEmperorDune2020]
+#+end_quote
+* Flashcards
+** If there is no enemy, {{one must be invented.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:38]
+:FC_CREATED: 2022-11-15T17:38:55Z
+:FC_TYPE:  cloze
+:ID:       84d0840b-1536-440b-8050-4a3253ca0211
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    89.39 | 2023-05-31T01:17:17Z |
+:END:
+
+*** Source
+[cite:@herbertGodEmperorDune2020]
+** The military force which is {{denied an external target always turns against its own people.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:38]
+:FC_CREATED: 2022-11-15T17:38:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       08b472c2-79d3-4c32-a796-f06e934bdddb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    95.84 | 2023-05-22T12:11:31Z |
+:END:
+
+*** Source
+[cite:@herbertGodEmperorDune2020]
+#+print_bibliography:

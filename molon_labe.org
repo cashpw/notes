@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       51bbc6a1-382e-4827-97ea-75534856341f
+:LAST_MODIFIED: [2023-03-02 Thu 08:10]
+:ROAM_REFS: [cite:@MolonLabe2023]
+:END:
+#+title: Molon labe
+#+hugo_custom_front_matter: :slug "51bbc6a1-382e-4827-97ea-75534856341f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-22 Sun 09:23]
+#+filetags: :concept:
+
+#+begin_quote
+Molon labe, meaning 'come and take [them]', is a classical expression of defiance. It is among the Laconic phrases reported by Plutarch, attributed to King Leonidas I in reply to the demand by Xerxes I that the Spartans surrender their weapons. The exchange between Leonidas and Xerxes occurs in writing, on the eve of the Battle of Thermopylae (480 BC).
+
+[cite:@MolonLabe2023]
+#+end_quote
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-22 Sun 09:23]
+:FC_CREATED: 2023-01-22T17:24:26Z
+:FC_TYPE:  cloze
+:ID:       beefb157-2dec-4ef5-bb81-32b6b0f1754f
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    34.71 | 2023-04-02T08:54:55Z |
+|        1 | 2.80 |   5 |    46.84 | 2023-04-18T12:17:50Z |
+:END:
+
+{{[[id:51bbc6a1-382e-4827-97ea-75534856341f][Molon labe]]}{Ancient greek}@0} :: {{Come and take [them]}{English}@1}
+
+*** Source
+[cite:@MolonLabe2023]
+#+print_bibliography:

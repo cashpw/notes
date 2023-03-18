@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       46dd2e05-cb80-4cb6-876e-8bf46551ec2f
+:LAST_MODIFIED: [2022-12-30 Fri 06:17]
+:END:
+#+title: Jim Hefferon
+#+hugo_custom_front_matter: :slug "46dd2e05-cb80-4cb6-876e-8bf46551ec2f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-24 Wed 08:34]
+#+filetags: :has_todo:person:
+Among other things:
+
+* TODO [#4]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Author :fc:
+:PROPERTIES:
+:ID:       313afb00-a26f-4d25-9d5f-a6affbe13573
+:ANKI_NOTE_ID: 1662498488793
+:FC_CREATED: 2022-09-06T21:08:08Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   129.44 | 2023-05-09T00:47:30Z |
+:END:
+
+[[id:46dd2e05-cb80-4cb6-876e-8bf46551ec2f][Jim Hefferon]]
+
+*** Back
+[[id:f62d92d7-7151-46f1-a3e8-bb06cc72f02b][Linear Algebra]]

@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       2e9a36f6-43e0-4f9a-af7e-64a4ef069a19
+:LAST_MODIFIED: [2023-01-18 Wed 07:07]
+:END:
+#+title: Power politics
+#+hugo_custom_front_matter: :slug "2e9a36f6-43e0-4f9a-af7e-64a4ef069a19"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 10:44]
+#+filetags: :concept:
+
+#+begin_quote
+Power politics is a theory in international relations which contends that distributions of power and national interests, or changes to those distributions, are fundamental causes of war and of system stability.
+
+The concept of power politics provides a way of understanding systems of international relations: in this view, states compete for the world's limited resources, and it is to an individual state's advantage to be manifestly able to harm others. Power politics prioritizes national self-interest over the interests of other nations or the international community, and thus may include threatening one another with military, economic or political aggression to protect one nation's own interest.
+
+[cite:@PowerPolitics2022]
+#+end_quote
+
+A [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]] view of international relations.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       85d1ca54-4af1-4aef-b4d9-0cbbd2076f94
+:ANKI_NOTE_ID: 1658598493535
+:FC_CREATED: 2022-07-23T17:48:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   135.85 | 2023-05-11T12:57:44Z |
+| back     | 2.80 |   6 |   130.44 | 2023-05-23T01:10:10Z |
+:END:
+[[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]]
+*** Back
+A way of understanding international relations which focuses on power dynamics -- that is, the ability of each state to manifestly harm other states.
+*** Extra
+*** Source
+[cite:@PowerPolitics2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       a6ac4f79-a522-47e8-a010-d1e9c4680181
+:ANKI_NOTE_ID: 1658598493333
+:FC_CREATED: 2022-07-23T17:48:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.60 |  10 |   253.69 | 2023-09-29T07:46:36Z |
+| front    | 2.50 |   7 |   223.28 | 2023-07-28T00:28:50Z |
+:END:
+[[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]]
+*** Back
+A theory of international relations which contends that distributions of power and changes to those distributions are the fundamental causes of war and of system stability.
+*** Source
+[cite:@PowerPolitics2022]
+#+print_bibliography:

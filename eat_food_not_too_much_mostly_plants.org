@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       f029d4ec-6c14-4dbc-9782-3aa92783ae91
+:LAST_MODIFIED: [2023-02-15 Wed 08:08]
+:END:
+#+title: Eat food. Not too much. Mostly plants.
+#+hugo_custom_front_matter: :slug "f029d4ec-6c14-4dbc-9782-3aa92783ae91"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 13:54]
+#+filetags: :concept:
+
+#+begin_quote
+Eat food. Not too much. Mostly plants.
+
+[cite:@pollanDefenseFoodEaterManifesto2008]
+#+end_quote
+
+* Flashcards
+** Eat food. {{Not too much. Mostly plants.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 13:56]
+:FC_CREATED: 2022-11-23T21:57:13Z
+:FC_TYPE:  cloze
+:ID:       6c2222d4-e844-4bbe-aea6-a7ce117a3387
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    96.17 | 2023-05-22T20:07:10Z |
+:END:
+
+*** Source
+[cite:@pollanDefenseFoodEaterManifesto2008]
+#+print_bibliography:

@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       ab54f3ea-b019-482e-8af3-3ff03c495635
+:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:ROAM_ALIASES: "Monotone heuristic"
+:ROAM_REFS: [cite:@ConsistentHeuristic2022]
+:END:
+#+title: Consistent heuristic
+#+hugo_custom_front_matter: :slug "ab54f3ea-b019-482e-8af3-3ff03c495635"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 14:22]
+#+filetags: :concept:
+
+#+begin_quote
+In the study of path-finding problems in artificial intelligence, a heuristic function is said to be consistent, or monotone, if its estimate is always less than or equal to the estimated distance from any neighbouring vertex to the goal, plus the cost of reaching that neighbour.
+
+[cite:@ConsistentHeuristic2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 14:22]
+:FC_CREATED: 2022-12-21T22:25:19Z
+:FC_TYPE:  double
+:ID:       1691350f-a3ee-4293-a47c-8a39e8ce5c92
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   121.34 | 2023-07-14T23:20:40Z |
+| back     | 2.65 |   6 |   103.86 | 2023-06-29T10:49:56Z |
+:END:
+
+[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]
+
+*** Back
+A heuristic function whose estimate is always less than or equal to the estimated distance from any neighboring vertex to the goal, plus the cost of reaching that neighbor.
+*** Source
+[cite:@ConsistentHeuristic2022]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 15:51]
+:FC_CREATED: 2022-12-21T23:51:41Z
+:FC_TYPE:  cloze
+:ID:       ccba79ff-6aa9-404e-a1f7-507502e7ec82
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    99.22 | 2023-06-20T20:11:43Z |
+|        1 | 2.20 |   5 |    31.42 | 2023-04-11T15:28:47Z |
+:END:
+
+- {{[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]}@0}
+- {{[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Monotone heuristic]]}@1}
+
+*** Source
+[cite:@ConsistentHeuristic2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 14:25]
+:FC_CREATED: 2022-12-21T22:26:47Z
+:FC_TYPE:  cloze
+:ID:       7532ad10-e8f9-4eea-80ba-fbddabf947f9
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   120.67 | 2023-07-12T07:11:31Z |
+|        1 | 2.05 |   6 |    65.28 | 2023-05-06T22:47:46Z |
+|        2 | 2.95 |   5 |    58.02 | 2023-04-09T16:46:42Z |
+:END:
+
+{{[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]}@0} {{does}{yes/no}@1} $\implies$ {{[[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]]}@2}
+*** Source
+[cite:@ConsistentHeuristic2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 14:25]
+:FC_CREATED: 2022-12-21T22:26:47Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       ef8c862b-5b9d-4df5-ae78-db512a378164
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    93.97 | 2023-06-03T03:33:35Z |
+:END:
+
+[[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]] {{doesn't}{yes/no}@0} $\implies$ [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]
+*** Source
+[cite:@ConsistentHeuristic2022]
+#+print_bibliography:

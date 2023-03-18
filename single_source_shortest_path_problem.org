@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       9d301c65-05c3-44f8-9660-90e0e963e6aa
+:LAST_MODIFIED: [2023-03-15 Wed 08:05]
+:END:
+#+title: Single-source shortest path problem
+#+hugo_custom_front_matter: :slug "9d301c65-05c3-44f8-9660-90e0e963e6aa"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 11:48]
+#+filetags: :concept:
+
+Find the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][shortest path]] from the source [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] to all other vertices in a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:48]
+:FC_CREATED: 2022-12-21T19:49:09Z
+:FC_TYPE:  double
+:ID:       49e27d05-e61a-4813-b94f-e4a83170de7d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    83.16 | 2023-05-18T07:41:27Z |
+| back     | 2.65 |   6 |   106.56 | 2023-06-25T18:54:29Z |
+:END:
+
+[[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+
+*** Back
+For a given [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and a source [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]: find the shortest path from the source to all other vertices in the graph.
+*** Source
+[cite:@ShortestPathProblem2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 09:08]
+:FC_CREATED: 2022-12-22T17:08:49Z
+:FC_TYPE:  double
+:ID:       cd8d0e84-fa9c-4ed2-b3f8-1c5a5a1e470e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |    98.85 | 2023-06-22T11:35:32Z |
+| back     | 2.35 |   6 |    77.91 | 2023-05-22T14:38:32Z |
+:END:
+
+Algorithm(s) which solve the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+
+*** Back
+- [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]
+- *not* [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]
+- [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
+*** Source
+- [cite:@SearchAlgorithm2022]
+- [cite:@DijkstraAlgorithm2022]
+#+print_bibliography:

@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       d553899d-ac5d-4ecf-bf57-9eabb3407b6e
+:ROAM_REFS: [cite:@StreetlightEffect2022]
+:ROAM_ALIASES: "Where the light is"
+:LAST_MODIFIED: [2023-02-26 Sun 07:56]
+:END:
+#+title: Streetlight effect
+#+hugo_custom_front_matter: :slug "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-10 Thu 16:43]
+#+filetags: :concept:
+#+begin_quote
+The streetlight effect, or the drunkard's search principle, is a type of observational bias that occurs when people only search for something where it is easiest to look. Both names refer to a well-known joke:
+
+A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, "this is where the light is".
+
+[cite:@StreetlightEffect2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 12:00]
+:FC_CREATED: 2022-11-18T20:00:45Z
+:FC_TYPE:  double
+:ID:       48adfa0c-e795-44f9-8644-16ea4a8439bd
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    89.20 | 2023-05-01T22:09:31Z |
+| back     | 2.80 |   6 |   113.78 | 2023-06-20T10:38:57Z |
+:END:
+[[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Streetlight effect]]
+*** Back
+Observational bias wherein people tend to only search for something where it is easiest to look.
+*** Source
+[cite:@StreetlightEffect2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 12:01]
+:FC_CREATED: 2022-11-18T20:01:55Z
+:FC_TYPE:  normal
+:ID:       ae976ec2-b8f6-4831-90f7-2cffec1f5fec
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   101.41 | 2023-05-23T10:07:53Z |
+:END:
+
+[[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Where the light is]] (Joke)
+
+*** Back
+A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, "this is where the light is".
+*** Source
+[cite:@StreetlightEffect2022]
+#+print_bibliography:

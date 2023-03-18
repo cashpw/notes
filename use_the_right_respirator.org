@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f
+:LAST_MODIFIED: [2023-03-05 Sun 09:21]
+:END:
+#+title: Use the right respirator
+#+hugo_custom_front_matter: :slug "7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-28 Wed 12:35]
+#+filetags: :concept:
+
+#+begin_quote
+- The selection of N-, R-, and P-series filters depends on the presence or absence of oil particles, as follows:
+
+  - If no oil particles are present in the work environment, use a filter of any series (i.e., N-, R-, or P-series).
+  - If oil particles (e.g., lubricants, cutting fluids, glycerine, etc.) are present, use an R- or P-series filter. Note: N-series filters cannot be used if oil particles are present.
+  - If oil particles are present and the filter is to be used for more than one work shift, use only a P-series filter.
+
+  Note: To help you remember the filter series, use the following guide:
+
+  - N for Not resistant to oil [[[id:56765e75-dbcf-45a3-a233-14b71e86094e][N-series respirator]]]
+  - R for Resistant to oil [[[id:bf537b65-5b59-4a79-9578-de8470199a80][R-series respirator]]]
+  - P for oil Proof [[[id:0713e3e8-92b8-458d-84f0-024a1ca6bafe][P-series respirator]]]
+
+- Selection of filter efficiency [[[id:e2654ce4-60be-45de-b87b-889570a6e1d9][Respirator efficiency]]] (i.e., 95%, 99%, or 99.97%) depends on how much filter leakage can be accepted. Higher filter efficiency means lower filter leakage.
+- The choice of facepiece depends on the level of protection needed–that is, the assigned protection factor (APF) needed.
+
+[cite:@NIOSHGuideSelectionUseParticulateRespiratorsCertified42CFR842020], formatting mine
+#+end_quote
+
+* Respirator for crystalline silica
+:PROPERTIES:
+:ID:       eef0239d-9c61-4d0e-b1f1-d4e802dd0bef
+:END:
+
+#+begin_quote
+NIOSH recommends the use of half-facepiece particulate respirators with N95 or better filters for airborne exposures to crystalline silica at concentrations less than or equal to 0.5 mg/m3.
+
+[...]
+
+The NIOSH recommended exposure limit (REL) remains 50 μg/m3 today.
+
+[...]
+
+The improved filtering efficiency characteristics of the particulate filters certified according to 42 CFR 84, compared to DM filters, result in filter ef- ficiencies of at least 95% for all sizes of silica dust; consequently, 100-rated filter efficiency (99.97%) is not required to achieve an APF of 10 in a properly fitted half-facepiece particulate respirator for crystalline silica exposures.
+
+[cite:@NIOSHPolicyStatementRespiratoryProtectionRecommendationsAirborneExposuresCrystallineSilica2008]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:16]
+:FC_CREATED: 2023-01-30T03:18:09Z
+:FC_TYPE:  cloze
+:ID:       7ecd9181-3a1c-4e6b-91c2-aa668fcf60d1
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    44.79 | 2023-04-19T12:22:32Z |
+:END:
+
+For crystalline silica, use a {{n95 or better}{type}@0} filter.
+
+*** Source
+[cite:@NIOSHPolicyStatementRespiratoryProtectionRecommendationsAirborneExposuresCrystallineSilica2008]
+#+print_bibliography:

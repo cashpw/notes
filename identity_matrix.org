@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       562ca40a-737f-43b5-9ff5-47c5996f9b5c
+:ROAM_REFS: [cite:@IdentityMatrix2022]
+:LAST_MODIFIED: [2023-03-13 Mon 07:33]
+:END:
+#+title: Identity matrix
+#+hugo_custom_front_matter: :slug "562ca40a-737f-43b5-9ff5-47c5996f9b5c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 18:21]
+#+filetags: :concept:
+
+#+begin_quote
+In linear algebra, the identity matrix of size \(n\) is the \(n \times n\) [[id:09208dbb-8043-4ef2-ac56-be944afb1dfa][Square matrix]] with ones on the main diagonal and zeros elsewhere.
+
+\(I_{1}=\begin{bmatrix}1\end{bmatrix}, \; I_{2}=\begin{bmatrix}1&0\\0&1\end{bmatrix}, \; I_{3}=\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}, \; \dots , \; I_{n}=\begin{bmatrix}1&0&0&\cdots &0\\0&1&0&\cdots &0\\0&0&1&\cdots &0\\ \vdots &\vdots &\vdots &\ddots &\vdots \\0&0&0&\cdots &1\end{bmatrix}.\)
+
+[cite:@IdentityMatrix2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       53a5026e-f927-4eb4-b798-3575112877d5
+:ANKI_NOTE_ID: 1655822066188
+:FC_CREATED: 2022-06-21T14:34:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   231.49 | 2023-08-18T05:17:46Z |
+| back     | 2.35 |  10 |   353.88 | 2024-03-01T11:34:10Z |
+:END:
+
+[[id:562ca40a-737f-43b5-9ff5-47c5996f9b5c][Identity matrix]]
+
+*** Back
+- A square binary matrix
+- Has exactly one entry of 1 in each row and column, with 0s elsewhere
+- The result of multiplying it (in either direction) with another matrix ($\pmb{A}$) is that same matrix ($\pmb{A}$)
+
+*** Source
+[cite:@IdentityMatrix2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-10-21 Fri 19:37]
+:FC_CREATED: 2022-10-22T02:37:51Z
+:FC_TYPE:  cloze
+:ID:       9efb2d49-7ab0-43ab-89ac-be8473820eef
+:FC_CLOZE_MAX: -1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due |
+|----------+------+-----+----------+-----|
+:END:
+
+- $I_n$
+
+[[id:562ca40a-737f-43b5-9ff5-47c5996f9b5c][Identity matrix]]
+
+*** Source
+[cite:@IdentityMatrix2022]
+#+print_bibliography:

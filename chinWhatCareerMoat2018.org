@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chinWhatCareerMoat2018]
+:ID:       bef6464a-d3ae-41c1-b63a-8871326a1d23
+:DIR:      /home/cashweaver/proj/roam/attachments/bef6464a-d3ae-41c1-b63a-8871326a1d23
+:END:
+#+title: Cedric Chin | What Is a Career Moat?
+#+hugo_custom_front_matter: :slug "bef6464a-d3ae-41c1-b63a-8871326a1d23"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:53]
+#+filetags: :has_todo:reference:
+ 
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinWhatCareerMoat2018]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Create "Career moat" node
+* TODO [#2] Notes
+#+begin_quote
+A career moat is an individual's ability to maintain competitive advantages over your competition (say, in the job market) in order to protect your long term prospects, your employability, and your ability to generate sufficient financial returns to support the life you want to live. Just like a medieval castle, the moat serves to protect those inside the fortress and their riches from outsiders.
+#+end_quote
+* TODO [#2] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

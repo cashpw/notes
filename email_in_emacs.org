@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8f61e9e6-4f19-4a64-b392-185062df45a0
+:END:
+#+title: Email in emacs
+#+hugo_custom_front_matter: :slug "8f61e9e6-4f19-4a64-b392-185062df45a0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-11 Fri 10:46]
+#+filetags: :concept:
+
+- [[id:5e8b11e4-9600-44b7-8cd4-1be85f359948][Read Gmail in Emacs with mbsync and mu4e]]
+- [[id:ada68d10-cec8-4af1-903d-29dfa71d2343][Read Gmail in Emacs with notmuch and lieer]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

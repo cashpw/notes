@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       21c0c229-16c5-4eb8-bd12-e1947c5c47f3
+:ROAM_ALIASES: LIFO "First in, last out" FILO
+:END:
+#+title: Last in, first out
+#+hugo_custom_front_matter: :slug "21c0c229-16c5-4eb8-bd12-e1947c5c47f3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-07 Wed 06:49]
+#+filetags: :concept:
+
+#+begin_quote
+[[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][FIFO]]'s opposite is LIFO, last-in-first-out, where the youngest entry or "top of the stack" is processed first.
+
+[cite:@FIFOComputingElectronics2022]
+#+end_quote
+
+Related: [[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

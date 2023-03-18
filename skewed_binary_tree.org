@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       4c7bf5db-dc29-44a1-bb77-36d560b38688
+:LAST_MODIFIED: [2023-02-28 Tue 20:16]
+:END:
+#+title: Skewed binary tree
+#+hugo_custom_front_matter: :slug "4c7bf5db-dc29-44a1-bb77-36d560b38688"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A skewed binary tree is a pathological/degenerate tree in which the tree is either dominated by the left nodes or the right nodes. Thus, there are two types of skewed binary tree: left-skewed binary tree and right-skewed binary tree.
+
+[cite:@programizBinaryTree]
+#+end_quote
+
+#+attr_html: :alt Skewed binary tree
+[[file:skewed-binary-tree.png]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       29161d48-add8-4999-bf7c-3fb80b990ac6
+:ANKI_NOTE_ID: 1656856951808
+:FC_CREATED: 2022-07-03T14:02:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   7 |   151.23 | 2023-05-22T20:49:01Z |
+| front    | 2.95 |   7 |   327.96 | 2024-01-23T03:13:23Z |
+:END:
+
+[[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
+
+*** Back
+A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which all nodes are either on the left or right side.
+
+*** Extra
+[[file:skewed-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+
+** Image :fc:
+:PROPERTIES:
+:ID:       af5817cc-e825-4e70-b813-2ab87814577d
+:ANKI_NOTE_ID: 1656856952707
+:FC_CREATED: 2022-07-03T14:02:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   362.05 | 2024-02-23T17:09:58Z |
+| back     | 2.05 |   7 |    95.95 | 2023-06-04T03:38:15Z |
+:END:
+[[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
+*** Back
+[[file:skewed-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** A [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]] is a type of {{[[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]}@0} :fc:
+:PROPERTIES:
+:ID:       896c3be1-82fd-4ad0-a9e9-52c83370ea72
+:ANKI_NOTE_ID: 1658243494775
+:FC_CREATED: 2022-07-19T15:11:34Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   134.23 | 2023-05-20T20:25:59Z |
+:END:
+*** Extra
+*** Source
+[cite:@BinaryTree2022]
+#+print_bibliography:

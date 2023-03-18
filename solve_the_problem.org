@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       b00a62dd-b06c-4943-81d7-140b11e15c8b
+:DIR:      /home/cashweaver/proj/roam/attachments/b00a62dd-b06c-4943-81d7-140b11e15c8b
+:END:
+#+title: Solve the problem
+#+hugo_custom_front_matter: :slug "b00a62dd-b06c-4943-81d7-140b11e15c8b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 16:37]
+#+filetags: :has_todo:concept:
+
+* TODO [#4] Your goal should be solving the problem first and foremost
+
+See:
+
+- [cite:@tabacuYouReNotWritingCodeYouReSolvingProblems2020]
+- [cite:@navarroDonJustWriteCodeSolveProblems2021]
+
+[[id:4dc60214-2e6b-45de-bed5-6e2fec793385][Stages of problem solving]]
+
+The goal isn't to [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] the problem (i.e. productivity porn) -- just solve it.
+
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

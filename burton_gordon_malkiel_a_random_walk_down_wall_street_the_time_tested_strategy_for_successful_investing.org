@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@malkielRandomWalkWallStreetTimetestedStrategySuccessfulInvesting2007]
+:ID:       d5216a1b-5838-4518-aab4-f0521ae6fc21
+:LAST_MODIFIED: [2023-02-15 Wed 15:21]
+:ROAM_ALIASES: "A Random Walk Down Wall Street"
+:END:
+#+title: Burton Gordon Malkiel | A Random Walk down Wall Street: The Time-Tested Strategy for Successful Investing
+#+hugo_custom_front_matter: :slug "d5216a1b-5838-4518-aab4-f0521ae6fc21"
+#+author: Cash Weaver
+#+date: [2022-12-24 Sat 09:51]
+#+filetags: :has_todo:reference:
+
+[[id:e943172b-03c0-4a37-881d-5c8e620c9ec7][Burton Malkiel]], [cite:@malkielRandomWalkWallStreetTimetestedStrategySuccessfulInvesting2007]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+* Flashcards
+** Source :fc:
+:PROPERTIES:
+:ID:       e4199248-0fa8-4a50-ad6c-8b444cce3a2b
+:ANKI_NOTE_ID: 1640627803922
+:FC_CREATED: 2021-12-27T17:56:43Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   9 |   221.24 | 2023-07-28T00:30:49Z |
+:END:
+
+[[id:d5216a1b-5838-4518-aab4-f0521ae6fc21][A Random Walk Down Wall Street]]
+
+*** Back
+[[id:e943172b-03c0-4a37-881d-5c8e620c9ec7][Burton Malkiel]]
+#+print_bibliography:

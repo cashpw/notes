@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ManMan2022]
+:ID:       37bbf306-c299-4c06-acac-bb6f34b26b37
+:DIR:      /home/cashweaver/proj/roam/attachments/37bbf306-c299-4c06-acac-bb6f34b26b37
+:LAST_MODIFIED: [2022-12-14 Wed 13:29]
+:END:
+#+title: Man After Man
+#+hugo_custom_front_matter: :slug "37bbf306-c299-4c06-acac-bb6f34b26b37"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-18 Fri 15:08]
+#+filetags: :reference:
+ 
+[cite:@ManMan2022]
+
+* Summary
+A work in [[id:6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55][Speculative evolution]].
+* Thoughts
+* Notes
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

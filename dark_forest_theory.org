@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       53a94f95-9ee7-4f8a-92bf-9501d5768a1f
+:ROAM_REFS: [cite:@liuDarkForest2015]
+:LAST_MODIFIED: [2023-02-24 Fri 19:51]
+:END:
+#+title: Dark forest theory
+#+hugo_custom_front_matter: :slug "53a94f95-9ee7-4f8a-92bf-9501d5768a1f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 14:09]
+#+filetags: :concept:
+
+#+begin_quote
+The universe is a dark forest. Every civilization is an armed hunter stalking through the trees like a ghost, gently pushing aside branches that block the path and trying to tread without sound. Even breathing is done with care. The hunter has to be careful because everywhere in the forest are stealthy hunters like him. If he finds another life — another hunter, angel, or a demon, a delicate infant to tottering old man, a fairy or demigod — there's only one thing he can do: open fire and eliminate them.
+
+[cite:@liuDarkForest2015]
+#+end_quote
+
+The dark forest theory is derived, in [cite:@liuDarkForest2015], from two axioms:
+
+1. Survival is the primary need of civilization
+2. Civilization continuously grows and expands, but the total matter in the universe remains constant
+
+Further conclusions relative to these axioms:
+
+1. [[id:7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d][Chain of suspicion]]: Communication between civilizations is slow due to interstellar distances and complex due to differing cultures and biology.
+2. Technological explosion: Rapid technological progress can change the balance of power between two civilizations.
+
+These combine to a single conclusion: The only winning move is striking first and wiping out any other intelligent life you discover. If you don't, then they could do the same to you (chain of suspicion). Your technological prowess is no deterrent as they could develop the necessary technologies to destroy you in the time between rounds of communication at light speed.
+
+Related: [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:46]
+:FC_CREATED: 2022-11-22T23:48:30Z
+:FC_TYPE:  double
+:ID:       0250c497-8fda-4759-8ffb-b9123e091a68
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    88.08 | 2023-05-10T01:53:20Z |
+| back     | 2.50 |   6 |    98.56 | 2023-06-03T17:25:14Z |
+:END:
+
+[[id:53a94f95-9ee7-4f8a-92bf-9501d5768a1f][Dark forest theory]]
+
+*** Back
+Civilizations are compelled to eliminate any other civilization they find in the universe lest the others eliminate them first.
+*** Source
+[cite:@liuDarkForest2015]
+#+print_bibliography:

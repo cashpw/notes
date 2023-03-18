@@ -1,0 +1,207 @@
+:PROPERTIES:
+:ID:       adda1031-550c-4f65-9384-1ee018532adc
+:ROAM_REFS: [cite:@FundamentalTheoremCalculus2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:END:
+#+title: Fundamental theorem of calculus
+#+hugo_custom_front_matter: :slug "adda1031-550c-4f65-9384-1ee018532adc"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 07:59]
+#+filetags: :concept:
+
+#+begin_quote
+The fundamental theorem of calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]] is a theorem that links the concept of differentiating [[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differential calculus]]] a function (calculating its slopes, or rate of change at each time) with the concept of integrating [[[id:61de6a28-e681-45bd-a086-fff5b924354e][Integral calculus]]] a function (calculating the area under its graph, or the cumulative effect of small contributions). The two operations are inverses of each other apart from a constant value which depends on where one starts to compute area.
+
+The first part of the theorem, the first fundamental theorem of calculus, states that for a function $f$, an antiderivative [[[id:4dafe179-aeb8-4718-9eb8-ac96a27f9a58][Antiderivative]]] or indefinite integral $F$ may be obtained as the integral of $f$ over an interval with a variable upper bound. This implies the existence of antiderivatives for continuous functions.
+
+Conversely, the second part of the theorem, the second fundamental theorem of calculus, states that the integral of a function $f$ over a fixed interval is equal to the change of any antiderivative $F$ between the ends of the interval. This greatly simplifies the calculation of a definite integral provided an antiderivative can be found by symbolic integration, thus avoiding numerical integration.
+
+[cite:@FundamentalTheoremCalculus2022]
+#+end_quote
+
+* First part
+:PROPERTIES:
+:ID:       61b5706f-ac2e-4457-ad14-40b18da74229
+:ROAM_ALIASES: "First fundamental theorem of calculus"
+:END:
+
+#+begin_quote
+Given $f$ is [[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][continuous]] over a [[id:7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc][Closed interval]] $[a,b]$:
+
+$F(x) = \int_a^x f(t)dt$, where $x$ is in $[a,b]$
+
+$$
+\begin{align}
+\frac{dF}{dx} &= \frac{d}{dx}\int_a^xf(t)dt = f(x)
+\frac{dF}{dx} &= f(x) \\
+F'(x) &= f(x)
+\end{align}
+$$
+
+[paraphrased]
+
+[cite:@FundamentalTheoremCalculus2022]
+#+end_quote
+
+** Example
+
+#+begin_quote
+$\frac{d}{dx}(\int_{\pi}^x \frac{\cos^2t}{\ln(t-\sqrt{t})}dt) = \frac{\cos^2x}{\ln(x-\sqrt{x})}$
+
+[cite:@khanacademyFundamentalTheoremCalculusAccumulationFunctions]
+#+end_quote
+
+* Second part
+:PROPERTIES:
+:ID:       c45039dd-ffe1-46e4-b2ae-42a8658601db
+:ROAM_ALIASES: "Second fundamental theorem of calculus"
+:END:
+
+#+begin_quote
+Given:
+
+- $f$ is [[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][continuous]] over a [[id:7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc][Closed interval]] $[c,d]$
+- $F(x) = \int_c^x f(t)dt$ by [[id:61b5706f-ac2e-4457-ad14-40b18da74229][First fundamental theorem of calculus]]
+- $c < a < b < d$
+
+$$
+\begin{align}
+\int_a^b f(t)dt &= \int_c^b f(t)dt - \int_c^a f(t)dt \\
+&= F(b) - F(a)
+\end{align}
+$$
+
+[paraphrased]
+
+[cite:@FundamentalTheoremCalculus2022], [cite:@khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-21 Sat 06:41]
+:FC_CREATED: 2023-01-21T14:41:40Z
+:FC_TYPE:  cloze
+:ID:       20b4f978-5e81-4f12-8c42-11d36fc596e3
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    43.88 | 2023-04-09T01:03:14Z |
+|        1 | 2.95 |   5 |    48.67 | 2023-04-23T08:54:59Z |
+|        2 | 2.80 |   5 |    45.36 | 2023-05-01T22:48:01Z |
+:END:
+
+{{[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]}@0} is the {{inverse}@1} of {{[[id:61de6a28-e681-45bd-a086-fff5b924354e][Integration]]}@2}.
+
+*** Source
+[cite:@FundamentalTheoremCalculus2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:45]
+:FC_CREATED: 2023-01-27T14:47:29Z
+:FC_TYPE:  double
+:ID:       df68be3d-403a-4bac-ad72-7d09d152a4af
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-19T15:02:17Z |
+| back     | 2.80 |   5 |    44.52 | 2023-04-28T03:32:08Z |
+:END:
+
+[[id:61b5706f-ac2e-4457-ad14-40b18da74229][First fundamental theorem of calculus]]
+
+*** Back
+
+Given $f$ is [[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][continuous]] over a [[id:7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc][Closed interval]] $[a,b]$:
+
+$F(x) = \int_a^x f(t)dt$, where $x$ is in $[a,b]$
+
+$$
+\begin{align}
+\frac{dF}{dx} &= \frac{d}{dx}\int_a^xf(t)dt = f(x)
+\frac{dF}{dx} &= f(x) \\
+F'(x) &= f(x)
+\end{align}
+$$
+*** Source
+[[id:61b5706f-ac2e-4457-ad14-40b18da74229][First fundamental theorem of calculus]]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:47]
+:FC_CREATED: 2023-01-27T14:48:02Z
+:FC_TYPE:  cloze
+:ID:       ae0ec97a-3739-4f01-b769-896707dfac3b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    42.16 | 2023-04-07T07:40:14Z |
+|        1 | 2.50 |   5 |    42.39 | 2023-04-25T23:52:22Z |
+:END:
+
+{{[[id:adda1031-550c-4f65-9384-1ee018532adc][Fundamental theorem of calculus]]}@0} relates {{[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] and [[id:61de6a28-e681-45bd-a086-fff5b924354e][Integral]]}@1}.
+
+*** Source
+[cite:@FundamentalTheoremCalculus2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 08:35]
+:FC_CREATED: 2023-01-27T16:36:26Z
+:FC_TYPE:  cloze
+:ID:       71f8fadb-8a27-46be-af92-20e76c2da725
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    48.05 | 2023-04-22T18:45:58Z |
+|        1 | 2.65 |   5 |    36.70 | 2023-04-19T07:41:43Z |
+:END:
+
+{{The [[id:adda1031-550c-4f65-9384-1ee018532adc][Fundamental theorem of calculus]]}@0} relates {{[[id:61de6a28-e681-45bd-a086-fff5b924354e][Definite integral]] and [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]}@1}.
+
+*** Source
+[cite:@Integral2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 09:01]
+:FC_CREATED: 2023-01-27T17:02:19Z
+:FC_TYPE:  double
+:ID:       c1d31e01-d5d9-4928-a647-71208676f95a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    33.76 | 2023-04-14T18:29:24Z |
+| back     | 2.65 |   5 |    44.17 | 2023-04-23T07:06:19Z |
+:END:
+
+[[id:c45039dd-ffe1-46e4-b2ae-42a8658601db][Second fundamental theorem of calculus]]
+
+*** Back
+#+begin_quote
+Given:
+
+- $f$ is [[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][continuous]] over a [[id:7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc][Closed interval]] $[c,d]$
+- $F(x) = \int_c^x f(t)dt$
+- $c < a < b < d$
+
+$$
+\begin{align}
+\int_a^b f(t)dt &= \int_c^b f(t)dt - \int_c^a f(t)dt \\
+&= F(b) - F(a)
+\end{align}
+$$
+#+end_quote
+
+*** Source
+- [cite:@FundamentalTheoremCalculus2022], [cite:@khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013]
+- [[id:c45039dd-ffe1-46e4-b2ae-42a8658601db][Second fundamental theorem of calculus]]
+#+print_bibliography:

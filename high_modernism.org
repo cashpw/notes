@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       94f5d6dd-a97a-45af-be05-4e7096dea51a
+:ROAM_REFS: [cite:@HighModernism2022]
+:LAST_MODIFIED: [2023-02-08 Wed 10:15]
+:END:
+#+title: High modernism
+#+hugo_custom_front_matter: :slug "94f5d6dd-a97a-45af-be05-4e7096dea51a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-15 Tue 06:22]
+#+filetags: :concept:
+
+#+begin_quote
+[...] form of modernity, characterized by an unfaltering confidence in science and technology as means to reorder the social and natural world.
+
+Disregard for historical, geographical and social context in development.
+
+[cite:@HighModernism2022]
+#+end_quote
+
+#+begin_quote
+[High modernism is] standardization, Henry Ford, the factory as metaphor for the best way to run everything, conquest of nature, New Soviet Man, people with college degrees knowing better than you, wiping away the foolish irrational traditions of the past, Brave New World, everyone living in dormitories and eating exactly 2000 calories of Standardized Food Product (TM) per day, anything that is For Your Own Good, gleaming modernist skyscrapers, The X Of The Future, complaints that the unenlightened masses are resisting The X Of The Future, demands that if the unenlightened masses reject The X Of The Future they must be re-educated For Their Own Good, and (of course) evenly-spaced rectangular grids.
+
+[cite:@alexanderBookReviewSeeingState2017]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       bfc86a70-0002-4dc4-8e4f-9911585cfdea
+:ANKI_NOTE_ID: 1640627825395
+:FC_CREATED: 2021-12-27T17:57:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  13 |   279.50 | 2023-10-06T04:56:19Z |
+| front    | 2.50 |   6 |    80.19 | 2023-04-29T22:54:56Z |
+:END:
+[[id:94f5d6dd-a97a-45af-be05-4e7096dea51a][High modernism]]
+*** Back
+A form of modernity, characterized by an unfaltering confidence in science and technology as means to reorder the social and natural world. Includes a disregard for historical, geographical, and social context in development.
+*** Source
+[cite:@HighModernism2022]
+#+print_bibliography:

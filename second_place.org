@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       734b5d37-a342-4dbe-9e6a-e63df297433a
+:LAST_MODIFIED: [2023-03-03 Fri 05:49]
+:END:
+#+title: Second place
+#+hugo_custom_front_matter: :slug "734b5d37-a342-4dbe-9e6a-e63df297433a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-11 Sun 11:57]
+#+filetags: :concept:
+
+#+begin_quote
+The "second place" is the workplace—where people may actually spend most of their time.
+
+[cite:@ThirdPlace2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-11 Sun 12:00]
+:FC_CREATED: 2022-12-11T20:01:25Z
+:FC_TYPE:  double
+:ID:       27ab0c60-4953-4a92-b975-5a30ff4c4708
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    77.35 | 2023-04-29T23:55:39Z |
+| back     | 2.65 |   6 |   101.25 | 2023-06-12T19:44:13Z |
+:END:
+
+[[id:734b5d37-a342-4dbe-9e6a-e63df297433a][Second place]]
+
+*** Back
+The workplace; where people spend most of their waking time.
+*** Source
+[cite:@ThirdPlace2022]
+#+print_bibliography:

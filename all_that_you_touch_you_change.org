@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       5a289064-2f24-4877-88a3-c9825dc2dbbe
+:LAST_MODIFIED: [2023-02-21 Tue 08:44]
+:END:
+#+title: All that you touch You Change
+#+hugo_custom_front_matter: :slug "5a289064-2f24-4877-88a3-c9825dc2dbbe"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-10 Sat 09:56]
+#+filetags: :quote:
+
+#+begin_quote
+All that you touch You Change. All that you Change Changes you. The only lasting truth is Change. God is Change.
+
+[cite:@butlerParableSowerParableSeriesBook2012]
+#+end_quote
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 09:30]
+:FC_CREATED: 2022-11-23T17:31:24Z
+:FC_TYPE:  cloze
+:ID:       94fdd99f-6fe3-4b7f-bb68-c0f923bce0cc
+:FC_BLOCKED_BY:       88e711e3-3464-4a12-ae21-0fc53cc1fa16,710f9aee-e3b0-4a8b-b7a5-9ae479486cc2,06928035-df85-486a-ab9d-d3f3f544c72c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    46.57 | 2023-03-30T05:06:59Z |
+:END:
+
+All that you touch {{You Change. All that you Change Changes you. The only lasting truth is Change. God is Change.}{full}@0}
+
+*** Source
+[cite:@butlerParableSowerParableSeriesBook2012]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED:  [2022-11-23 Wed 09:31]
+:FC_CREATED: 2022-11-23T17:32:05Z
+:FC_TYPE:  cloze
+:ID:       88e711e3-3464-4a12-ae21-0fc53cc1fa16
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   101.31 | 2023-05-21T01:47:04Z |
+:END:
+
+All that you Change {{Changes you.}@0}
+
+*** Source
+[cite:@butlerParableSowerParableSeriesBook2012]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 09:31]
+:FC_CREATED: 2022-11-23T17:32:05Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       710f9aee-e3b0-4a8b-b7a5-9ae479486cc2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    52.94 | 2023-03-31T17:25:18Z |
+:END:
+
+The only lasting truth {{is Change.}@0}
+
+*** Source
+[cite:@butlerParableSowerParableSeriesBook2012]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-19 Mon 08:39]
+:FC_CREATED: 2022-12-19T16:39:38Z
+:FC_TYPE:  cloze
+:ID:       06928035-df85-486a-ab9d-d3f3f544c72c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    84.22 | 2023-05-16T22:07:05Z |
+:END:
+
+All that you touch {{You Change.}{short}@0}
+
+*** Source
+[cite:@butlerParableSowerParableSeriesBook2012]
+#+print_bibliography:

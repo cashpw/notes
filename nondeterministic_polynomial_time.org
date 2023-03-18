@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       afffc2b8-0f87-4c45-814c-f0fc7b337339
+:ROAM_ALIASES: "NP (Complexity)" NP
+:LAST_MODIFIED: [2023-03-17 Fri 06:59]
+:ROAM_REFS: [cite:@NPComplexity2022]
+:END:
+#+title: Nondeterministic polynomial time
+#+hugo_custom_front_matter: :slug "afffc2b8-0f87-4c45-814c-f0fc7b337339"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 07:50]
+#+filetags: :concept:
+
+#+begin_quote
+In computational complexity theory [[[id:235c1171-e8bd-4b52-820c-109f34a0bc80][Computational complexity theory]]], NP (nondeterministic polynomial time) is a complexity class used to classify decision problems. NP is the set of decision problems for which the problem instances, where the answer is "yes", have proofs verifiable in polynomial time by a deterministic Turing machine, or alternatively the set of problems that can be solved in polynomial time by a nondeterministic Turing machine.
+
+[cite:@NPComplexity2022]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:34]
+:FC_CREATED: 2023-01-30T03:34:57Z
+:FC_TYPE:  cloze
+:ID:       80f1762a-0f24-4add-bed2-65e5c97621d1
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    46.39 | 2023-04-12T13:27:14Z |
+|        1 | 2.20 |   5 |    23.71 | 2023-04-03T22:34:55Z |
+:END:
+
+{{[[id:afffc2b8-0f87-4c45-814c-f0fc7b337339][NP]]}@0} stands for {{[[id:afffc2b8-0f87-4c45-814c-f0fc7b337339][Nondeterministic polynomial time]]}@1}
+
+*** Source
+[cite:@NPComplexity2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:11]
+:FC_CREATED: 2023-01-30T17:13:28Z
+:FC_TYPE:  double
+:ID:       aba70ca4-0118-491c-ac74-12c5aa8870d0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    45.18 | 2023-04-29T19:32:02Z |
+| back     | 2.65 |   5 |    40.72 | 2023-04-27T07:22:08Z |
+:END:
+
+[[id:afffc2b8-0f87-4c45-814c-f0fc7b337339][Nondeterministic polynomial time]]
+
+*** Back
+A complexity class of problems which have solutions that are verifiable in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]].
+*** Source
+[cite:@NPComplexity2022]
+#+print_bibliography:

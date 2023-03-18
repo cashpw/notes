@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       be3d36b2-8fb7-4917-b739-5717643a35b3
+:LAST_MODIFIED: [2023-02-03 Fri 08:33]
+:END:
+#+title: Inverse function
+#+hugo_custom_front_matter: :slug "be3d36b2-8fb7-4917-b739-5717643a35b3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-25 Fri 09:10]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, the inverse function of a function $f$ (also called the inverse of $f$) is a function that undoes the operation of $f$. The inverse of $f$ exists if and only if $f$ is bijective, and if it exists, is denoted by $\displaystyle f^{-1}$.
+
+For a function $f\colon X\to Y$, its inverse $\displaystyle f^{-1}\colon Y\to X$ admits an explicit description: it sends each element $y\in Y$ to the unique element $x\in X$ such that $f(x) = y$.
+
+[cite:@InverseFunction2022]
+#+end_quote
+
+#+begin_quote
+For example, if $f$ is the function
+
+$f(x)=(2x+8)^{3}$
+
+then to determine $f^{-1}(y)$ for a real number $y$, one must find the unique real number $x$ such that $(2x + 8)3 = y$. This equation can be solved:
+
+$\begin{aligned}y&=(2x+8)^{3}\\{\sqrt[{3}]{y}}&=2x+8\\{\sqrt[{3}]{y}}-8&=2x\\{\dfrac {{\sqrt[{3}]{y}}-8}{2}}&=x.\end{aligned}$
+
+Thus the inverse function $f^{-1}$ is given by the formula
+
+$f^{-1}(y)={\frac {{\sqrt[{3}]{y}}-8}{2}}$.
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 09:16]
+:FC_CREATED: 2022-11-25T17:19:13Z
+:FC_TYPE:  normal
+:ID:       74527491-0230-45d4-b4b5-6f81b10aa908
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    74.60 | 2023-04-19T06:52:15Z |
+:END:
+
+How to find the [[id:be3d36b2-8fb7-4917-b739-5717643a35b3][Inverse function]] of $f\colon \mathbf{R}\to \mathbf{R}$, $f(x) = y$
+
+*** Back
+For $f(x) = \dots x$:
+
+1. Swap $f(x)$ and $x$ and rename $f(x)$ to $f^{-1}(x)$
+2. Solve for $f^{-1}(x)$
+*** Source
+[cite:@InverseFunction2022]
+#+print_bibliography:

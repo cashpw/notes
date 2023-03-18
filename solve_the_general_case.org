@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8d287bb5-ccd4-4e23-a3df-7e7a2f929351
+:END:
+#+title: Solve the general case
+#+hugo_custom_front_matter: :slug "8d287bb5-ccd4-4e23-a3df-7e7a2f929351"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-18 Fri 19:23]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Where possible, solving the general form of any problem is preferable to solving a single instance.
+
+[cite:@tellmanSeniorEngineersReduceRisk]
+#+end_quote
+
+* TODO [#4] Expand :noexport:
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

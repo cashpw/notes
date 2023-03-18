@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       2ca66fa1-f304-4132-bd6e-78f9a73f4f38
+:LAST_MODIFIED: [2023-03-17 Fri 07:02]
+:ROAM_REFS: [cite:@AdLibitum2022]
+:END:
+#+title: Ad libitum
+#+hugo_custom_front_matter: :slug "2ca66fa1-f304-4132-bd6e-78f9a73f4f38"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-12 Sun 09:51]
+#+filetags: :concept:
+
+"As much or as often as necessary or desired".
+
+#+begin_quote
+[...] the phrase ad libitum (/ædˈlɪbɪtəm/; from Latin [[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]] for 'at one's pleasure' or 'as you desire'),
+
+[cite:@AdLibitum2022]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-12 Sun 09:51]
+:FC_CREATED: 2023-02-12T17:52:34Z
+:FC_TYPE:  cloze
+:ID:       828df235-b94c-4f34-9f53-2d22ee831093
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   5 |    28.61 | 2023-04-15T04:43:02Z |
+|        1 | 2.65 |   4 |    16.43 | 2023-03-22T03:44:05Z |
+:END:
+
+{{[[id:2ca66fa1-f304-4132-bd6e-78f9a73f4f38][Ad libitum]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} :: {{As much or as often as necessary or desired}{English}@1}
+
+*** Source
+[cite:@AdLibitum2022]
+#+print_bibliography:

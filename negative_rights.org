@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310
+:ROAM_ALIASES: "Negative right"
+:LAST_MODIFIED: [2023-03-09 Thu 19:20]
+:END:
+#+title: Negative rights
+#+hugo_custom_front_matter: :slug "7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 09:46]
+#+filetags: :concept:
+
+#+begin_quote
+Negative [...] rights are rights that oblige [...] inaction [...].
+
+[cite:@NegativePositiveRights2022]
+#+end_quote
+
+Also see [[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]].
+
+* Examples
+
+- Freedom of speech: "Freedom of speech is usually seen as a negative right. This means that the government is legally obliged to take no action against the speaker based on the speaker's views, but that no one is obliged to help any speakers publish their views, and no one is required to listen to, agree with, or acknowledge the speaker or the speaker's views." [cite:@FreedomSpeech2022]
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       2f017ed5-50ca-4c4a-a209-1615b70bb19a
+:ANKI_NOTE_ID: 1658594948131
+:FC_CREATED: 2022-07-23T16:49:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   294.83 | 2023-12-29T23:16:41Z |
+| front    | 2.50 |   7 |   194.83 | 2023-07-13T10:15:45Z |
+:END:
+
+[[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative right]]
+
+*** Back
+A right that obliges inaction.
+
+*** Extra
+Example: Freedom of speech
+
+*** Source
+[cite:@NegativePositiveRights2022]
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       7781d9f2-4772-4557-8cdf-82f9e6a45f2e
+:ANKI_NOTE_ID: 1658594948310
+:FC_CREATED: 2022-07-23T16:49:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    90.31 | 2023-04-08T23:01:33Z |
+| back     | 2.80 |   7 |   246.43 | 2023-08-29T01:35:44Z |
+:END:
+
+[[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative right]]
+
+*** Back
+- Freedom of speech
+- Freedom from slavery
+- Freedom of religion
+*** Source
+[cite:@NegativePositiveRights2022]
+#+print_bibliography:

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@friedHabitsAlwaysForm2019]
+:ID:       02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
+:LAST_MODIFIED: [2023-03-02 Thu 18:42]
+:ROAM_ALIASES: "Habits are always forming"
+:END:
+#+title: Jason Fried | Habits Always Form
+#+hugo_custom_front_matter: :slug "02b5bf70-cf7f-49d0-b1f0-60fc0270abb0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 17:53]
+#+filetags: :reference:
+ 
+[[id:a9705d03-a4bf-4f25-935f-5aaa78a41a07][Jason Fried]], [cite:@friedHabitsAlwaysForm2019]
+
+#+begin_quote
+Habits are always forming. No matter what you do, you're also forming habits too. Keep that in mind with whatever you do.
+
+When we talk about habits, we generally talk about learning good habits. Or forming good habits. Both of these outcomes suggest we can end up with the habits we want. And technically we can! But most of the habits we have are habits we ended up with after years of unconscious behavior. They're not intentional. They've been planting deep roots under the surface, sight unseen. Fertilized, watered, and well-fed by recurring behavior. Trying to pull that habit out of the ground later is going to be incredibly difficult. Your grip has to be better than its grip, and it rarely is.
+
+So be aware of what you do, what you're doing, and how you're doing it. Every do digs deeper. Every does grips stronger.
+#+end_quote
+
+Similar: [[id:b8a0fa22-27a1-4f7e-8f33-ee2710494eba][Life is the sum of all your choices]]
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:02]
+:FC_CREATED: 2022-11-22T23:02:36Z
+:FC_TYPE:  cloze
+:ID:       6bdda9b4-9526-4d86-bcaf-1cbf2c86210d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    68.51 | 2023-04-21T03:35:57Z |
+:END:
+
+Habits are {{always}@0} forming.
+
+*** Source
+[cite:@friedHabitsAlwaysForm2019]
+#+print_bibliography:

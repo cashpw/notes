@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       5ad7ef93-a1e3-4b69-85bc-b5c5c550df73
+:ROAM_REFS: [cite:@bertholtWorkerReadsHistory]
+:ROAM_ALIASES: "A worker reads history" "Who built the seven gates of Thebes?"
+:LAST_MODIFIED: [2023-03-17 Fri 06:56]
+:END:
+#+title: Bertolt Brecht | A worker reads history
+#+hugo_custom_front_matter: :slug "5ad7ef93-a1e3-4b69-85bc-b5c5c550df73"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-15 Tue 07:12]
+#+filetags: :has_todo:poem:
+
+#+begin_verse
+Who built the seven gates of Thebes?
+The books are filled with names of kings.
+Was it the kings who hauled the craggy blocks of stone?
+And Babylon, so many times destroyed.
+Who built the city up each time? In which of Lima's houses,
+That city glittering with gold, lived those who built it?
+In the evening when the Chinese wall was finished
+Where did the masons go? Imperial Rome
+Is full of arcs of triumph. Who reared them up? Over whom
+Did the Caesars triumph? Byzantium lives in song.
+Were all her dwellings palaces? And even in Atlantis of the legend
+The night the seas rushed in,
+The drowning men still bellowed for their slaves.
+
+Young Alexander conquered India.
+He alone?
+Caesar beat the Gauls.
+Was there not even a cook in his army?
+Phillip of Spain wept as his fleet
+was sunk and destroyed. Were there no other tears?
+Frederick the Great triumphed in the Seven Years War.
+Who triumphed with him?
+
+Each page a victory
+At whose expense the victory ball?
+Every ten years a great man,
+Who paid the piper?
+
+So many particulars.
+So many questions.
+#+end_verse
+
+[[id:4f021a49-df35-4350-951f-5b463223ae8a][Bertolt Brecht]], [cite:@bertholtWorkerReadsHistory]
+
+* Flashcards
+** {{[[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][A worker reads history]]}@0} starts {{[[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][Who built the seven gates of Thebes?]]}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 07:14]
+:FC_CREATED: 2022-11-15T15:15:40Z
+:FC_TYPE:  cloze
+:ID:       6b253ea5-55a5-473d-b813-317189784a76
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    61.22 | 2023-04-26T09:12:44Z |
+|        1 | 2.35 |   6 |    82.24 | 2023-06-07T19:47:45Z |
+:END:
+
+*** Source
+[cite:@bertholtWorkerReadsHistory]
+** {{Bertolt Brecht}@0} wrote [[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][A worker reads history]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 07:15]
+:FC_CREATED: 2022-11-15T15:19:35Z
+:FC_TYPE:  cloze
+:ID:       1c067206-b9cf-4b8f-8343-f577ef2664a4
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    90.06 | 2023-05-30T05:26:05Z |
+:END:
+
+*** Source
+[cite:@bertholtWorkerReadsHistory]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-14 Wed 10:17]
+:FC_CREATED: 2022-12-14T18:19:47Z
+:FC_TYPE:  double
+:ID:       0b744984-8049-4510-a5e5-bd27e859e49b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   134.76 | 2023-07-28T09:22:00Z |
+| back     | 2.80 |   5 |    52.57 | 2023-03-25T04:09:52Z |
+:END:
+
+[[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][A worker reads history]]
+
+*** Back
+A poem, by [[id:4f021a49-df35-4350-951f-5b463223ae8a][Bertolt Brecht]], which emphasizes the efforts of the many over the efforts of the rulers in answer to "Who built/did/conquered/etc X".
+*** Source
+[cite:@bertholtWorkerReadsHistory]
+** TODO [#2] Create verse cloze cards
+
+#+print_bibliography:

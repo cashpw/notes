@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be
+:LAST_MODIFIED: [2023-02-27 Mon 20:53]
+:END:
+#+title: Clay firing stages
+#+hugo_custom_front_matter: :slug "dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-23 Tue 08:49]
+#+filetags: :concept:
+
+1. [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]]
+2. Bisque firing
+3. [[id:7a78f2f9-4a22-43aa-86a7-11dceb13e96a][Bisque]]
+4. Glaze firing
+5. [[id:c23949a7-63c4-4c3f-9101-8d1d233684f4][Glazeware]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       500ccdf2-2c8a-484e-9286-e9045afbdbd7
+:ANKI_NOTE_ID: 1661270829162
+:FC_CREATED: 2022-08-23T16:07:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   126.24 | 2023-06-13T03:25:50Z |
+| back     | 3.10 |   6 |   175.46 | 2023-08-22T15:49:13Z |
+:END:
+
+[[id:dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be][Clay firing stages]]
+
+*** Back
+1. [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]]
+2. [[id:7a78f2f9-4a22-43aa-86a7-11dceb13e96a][Bisque (Ceramics)]]
+3. [[id:c23949a7-63c4-4c3f-9101-8d1d233684f4][Glazeware]]
+*** Source
+[cite:@Pottery2022]
+
+#+print_bibliography:

@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       1a068ad5-3e16-4ec4-b238-6fdc5904aeb4
+:ROAM_ALIASES: Trees
+:LAST_MODIFIED: [2023-03-09 Thu 18:56]
+:END:
+#+title: Tree
+#+hugo_custom_front_matter: :slug "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 14:47]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a tree is a widely used [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that represents a hierarchical tree structure with a set of connected [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]. Each node in the tree can be connected to many children (depending on the type of tree), but must be connected to exactly one parent, except for the root node, which has no parent. These constraints mean there are no cycles or "loops" (no node can be its own ancestor), and also that each child can be treated like the root node of its own subtree, making recursion a useful technique for tree traversal.
+
+[cite:@TreeDataStructure2022]
+#+end_quote
+
+* Traversal
+
+- [[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]
+- [[id:5069eb5e-f5c6-49de-8329-ba07dafe320e][In-order tree traversal]]
+- [[id:81611da6-3ea4-45d9-b2db-b96ed95d946d][Post-order tree traversal]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       b6433e8b-070a-4b5d-8771-a3575b3158a0
+:ANKI_NOTE_ID: 1658321303450
+:FC_CREATED: 2022-07-20T12:48:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   4 |    14.33 | 2023-03-24T10:48:10Z |
+| front    | 1.75 |   7 |    76.36 | 2023-05-17T12:56:15Z |
+:END:
+[[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]
+*** Back
+- An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] representing a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in the form of a hierarchical [...] structure
+- There is only one path between any two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]
+- There are no cycles or "loops"
+*** Source
+[cite:@TreeDataStructure2022]
+#+print_bibliography:

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       da833ef8-d4df-45d7-be80-428ee62bff86
+:LAST_MODIFIED: [2023-03-04 Sat 07:00]
+:END:
+#+title: Binomial
+#+hugo_custom_front_matter: :slug "da833ef8-d4df-45d7-be80-428ee62bff86"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 10:30]
+#+filetags: :concept:
+
+#+begin_quote
+In algebra, a binomial is a polynomial [[[id:b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de][Polynomial]]] that is the sum of two terms, each of which is a monomial [[[id:cbd532d2-7ec0-4710-ba42-54212961b1c3][Monomial]]].
+
+[cite:@BinomialPolynomial2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 10:31]
+:FC_CREATED: 2022-12-21T18:31:48Z
+:FC_TYPE:  double
+:ID:       fd36aa7a-d2d8-46c1-b9c0-9b7481c7d88d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    86.02 | 2023-05-29T15:35:05Z |
+| back     | 2.95 |   5 |    52.18 | 2023-03-31T04:18:26Z |
+:END:
+
+[[id:da833ef8-d4df-45d7-be80-428ee62bff86][Binomial]]
+
+*** Back
+A [[id:b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de][Polynomial]] which is the sum of two [[id:cbd532d2-7ec0-4710-ba42-54212961b1c3][Monomials]].
+*** Source
+[cite:@BinomialPolynomial2022]
+#+print_bibliography:

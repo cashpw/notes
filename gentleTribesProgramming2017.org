@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@gentleTribesProgramming2017]
+:ID:       2f62e8c7-6d64-4820-9b12-3949627c2386
+:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:END:
+#+title: Joseph Gentle | Three Tribes of Programming
+#+hugo_custom_front_matter: :slug "2f62e8c7-6d64-4820-9b12-3949627c2386"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-14 Mon 10:06]
+#+filetags: :reference:
+ 
+[[id:1b0fdfea-7b5d-46b9-abde-7b5140109299][Joseph Gentle]], [cite:@gentleTribesProgramming2017]
+
+* Summary
+
+#+begin_quote
+Programs, obviously, hold all of these properties. But I think there's fundamentally 3 architypes of programmers, divided by which ideals we hold in highest esteem:
+
+1. You are a poet and a mathematician. Programming is your poetry
+1. You are a hacker. You make hardware dance to your tune [[[id:3923eefd-c5ff-455e-a107-cd5a9e9191c3][Technologist]]]
+1. You are a maker. You build things for people to use
+
+We self-select into communities of our peers based on these ideals. We use coded language to express these ideals to our peers.
+
+I think each group has its own conferences, and its own subreddits. Its own programming languages, heroes and its own villains.
+#+end_quote
+
+* Notes
+** Programming as applied mathematics
+:PROPERTIES:
+:ID:       f1b52515-ce90-451f-8b58-281cc314a693
+:END:
+
+#+begin_quote
+- Source code: The source should read like poetry - dense, with very few lines of code needed to express an idea. Once understood, the terse program seems like a beautiful and obvious description of your program. It is more important that the source code is simple than the execution is simple or fast. High level languages are better than low level languages because they let you express your intent more clearly.
+- Execution: How the program is executed by the computer is an implementation detail of the compiler. It is more important that the code is simple than the execution is fast.
+- Correctness: A program is correct if it implements the spec exactly. The best programs use tools like Ada to formally prove correctness.
+- UI: How the code interacts with humans is a separate consideration from its implementation. Beautiful code is more important than beautiful UI.
+#+end_quote
+
+#+begin_quote
+Most (arguably all) of the modern advancements in programming languages come from people in this camp. If you've used React to make a website, you should know that the model of immutability and expressing your view as a pure function from data to DOM came from functional programming. Actually, most modern language features are invented by people who think of programming as thought. Years (or decades) later, those features get copied into the more popular languages and get treated as new ideas.
+#+end_quote
+
+** Programming as hardware hacking
+:PROPERTIES:
+:ID:       8aba3ca3-4de0-46cc-be4a-4e7c4611fafd
+:END:
+
+#+begin_quote
+- Source code: The code should be clean, but clean code is less important than a clean execution. Low level languages are often better than high level languages because you can be more explicit about what the computer will do when it executes your code. (Thus you have more room to optimize).
+- Execution: How the computer executes your code is paramount. Programming without thinking about execution is just begging for slow performance.
+- Correctness: A program is correct if it runs the way you expect it to run, given normal parameters. Execution elegance is more important than correctness. And if a theoretical issue can't happen in practice due to how the machine works, its not a real bug. A program must be adequately fast to be considered correct.
+- UI: How the code interacts with humans is a separate consideration from its implementation. Its ok to let the constraints of the hardware guide the user experience.
+#+end_quote
+
+#+begin_quote
+To this community we owe almost all performance improvements in our computers, above and beyond what is demanded by customers. Nobody else cares about performance quite like people who think about the hardware all day. But if you're thinking about your computer as a machine, what greater ugliness can you inflict than pointless work?
+#+end_quote
+
+** Programming as a tool to make things
+:PROPERTIES:
+:ID:       d2918b36-ab82-4e9c-a7ee-ded62efb1d62
+:END:
+
+#+begin_quote
+- Source code: The code should be clean, but only because cleaner code is easier to iterate on. Code cleanliness is less important than most other considerations.
+- Execution: The program only has to be fast enough for the users. If you make it even faster, you're taking time away from adding features that people care about more.
+- Correctness: Bugs are bad only in proportion to their impact. The program should act the way the users expect it to act.
+- UI: The UI is more important than anything else. Every other part of the program only exists in service to the user interface.
+#+end_quote
+
+#+begin_quote
+I think most professional software engineers are in this tribe - which makes sense, because this is the place where it is easiest to make money writing software.
+
+In my experience people in this camp are better at community. They seem to be much more positive and encouraging of new members, and willing to help. I guess its because you can tell if you're doing a good job in the other two camps by simply taking a look yourself. If you make software for other humans, satisfaction comes from making the people around you happy.
+
+I can't help but feel that this place is a touch soulless. Taken to the extreme, this world view doesn't value the beauty in the engineering itself. Although you could probably make the opposite criticism against the other groups - they don't value how their software can impact the world.
+#+end_quote
+
+Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:50]
+:FC_CREATED: 2022-11-22T22:51:25Z
+:FC_TYPE:  double
+:ID:       c59bb6b5-df20-4430-915c-6667370bf326
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   106.97 | 2023-06-15T04:12:20Z |
+| back     | 2.80 |   6 |   122.19 | 2023-07-17T18:39:12Z |
+:END:
+
+[[id:2f62e8c7-6d64-4820-9b12-3949627c2386][Joseph Gentle | Three Tribes of Programming]]
+
+*** Back
+1. Poets and mathematicians: [[id:f1b52515-ce90-451f-8b58-281cc314a693][Programming as applied mathematics]]
+2. Hackers: [[id:8aba3ca3-4de0-46cc-be4a-4e7c4611fafd][Programming as hardware hacking]]
+3. Makers: [[id:d2918b36-ab82-4e9c-a7ee-ded62efb1d62][Programming as a tool to make things]]
+*** Source
+[cite:@gentleTribesProgramming2017]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:53]
+:FC_CREATED: 2022-11-22T22:54:50Z
+:FC_TYPE:  double
+:ID:       218016e5-f1b6-4b65-a7c4-75dfaf15220a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   113.36 | 2023-06-06T02:24:12Z |
+| back     | 2.35 |   6 |    73.07 | 2023-05-15T15:25:06Z |
+:END:
+
+[[id:f1b52515-ce90-451f-8b58-281cc314a693][Programming as applied mathematics]]
+
+*** Back
+#+begin_quote
+- Source code: The source should read like poetry - dense, with very few lines of code needed to express an idea.
+- Execution: How the program is executed by the computer is an implementation detail of the compiler.
+- Correctness: A program is correct if it implements the spec exactly.
+- UI: Beautiful code is more important than beautiful UI.
+#+end_quote
+*** Source
+[cite:@gentleTribesProgramming2017]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:54]
+:FC_CREATED: 2022-11-22T22:55:47Z
+:FC_TYPE:  double
+:ID:       73b82b82-6b1e-41b9-a01c-b3ccd8a0bc55
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    88.21 | 2023-05-02T21:30:24Z |
+| back     | 2.35 |   6 |    85.78 | 2023-05-03T16:34:50Z |
+:END:
+
+[[id:8aba3ca3-4de0-46cc-be4a-4e7c4611fafd][Programming as hardware hacking]]
+
+*** Back
+#+begin_quote
+- Source code: The code should be clean, but clean code is less important than a clean execution.
+- Execution: How the computer executes your code is paramount.
+- Correctness: A program is correct if it runs the way you expect it to run, given normal parameters.
+- UI: How the code interacts with humans is a separate consideration from its implementation.
+#+end_quote
+*** Source
+[cite:@gentleTribesProgramming2017]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:55]
+:FC_CREATED: 2022-11-22T22:56:16Z
+:FC_TYPE:  double
+:ID:       ed8ed853-549a-4f97-9d05-b44eacb4e681
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   103.58 | 2023-05-31T17:17:09Z |
+| back     | 2.80 |   6 |   109.15 | 2023-06-15T19:57:00Z |
+:END:
+
+[[id:d2918b36-ab82-4e9c-a7ee-ded62efb1d62][Programming as a tool to make things]]
+
+*** Back
+#+begin_quote
+- Source code: The code should be clean, but only because cleaner code is easier to iterate on.
+- Execution: The program only has to be fast enough for the users.
+- Correctness: Bugs are bad only in proportion to their impact.
+- UI: The UI is more important than anything else.
+#+end_quote
+*** Source
+[cite:@gentleTribesProgramming2017]
+#+print_bibliography:

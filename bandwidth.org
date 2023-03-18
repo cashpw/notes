@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       d8a227fc-1de2-4dc8-bfc1-236ac1531f69
+:LAST_MODIFIED: [2023-03-18 Sat 06:38]
+:END:
+#+title: Bandwidth
+#+hugo_custom_front_matter: :slug "d8a227fc-1de2-4dc8-bfc1-236ac1531f69"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-17 Fri 09:30]
+#+filetags: :concept:
+
+#+begin_quote
+Maximum throughput of a logical or physical communication path.
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:30]
+:FC_CREATED: 2023-03-17T16:31:04Z
+:FC_TYPE:  double
+:ID:       608c328b-0dc0-4a6e-88c3-ba709ec4cf68
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-03-19T13:38:30Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T16:31:04Z |
+:END:
+
+[[id:d8a227fc-1de2-4dc8-bfc1-236ac1531f69][Bandwidth]]
+
+*** Back
+Maximum throughput of a logical or physical communication path.
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+print_bibliography:

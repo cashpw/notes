@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       0d2abc68-9f65-4676-9f62-37b07cb1b86b
+:LAST_MODIFIED: [2023-03-03 Fri 05:57]
+:END:
+#+title: 2sum linear time solution in Python
+#+hugo_custom_front_matter: :slug "0d2abc68-9f65-4676-9f62-37b07cb1b86b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-07 Tue 16:13]
+#+filetags: :concept:
+
+[[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]] is a [[id:9b224cb9-823c-468b-be5d-4431d65d9ee1][Technical interview question]] and a variant of the [[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]].
+
+#+begin_src python :results output
+from typing import Optional, List
+
+def two_sum(numbers: List[int], target: int) -> Optional[List[int]]:
+    """Return the two elements in NUMBERS which sum to TARGET; else None."""
+
+    previous_numbers = {}
+
+    for num in numbers:
+        difference = target - num
+        if difference in previous_numbers:
+            return [num, difference]
+
+        previous_numbers[num] = True
+
+    return None
+
+print(two_sum([2,4,5], 7), 'should be [2, 5]')
+print(two_sum([2,4,5], 2), 'should be None')
+#+end_src
+
+* Flashcards
+** Solve :fc:implement:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 16:15]
+:FC_CREATED: 2023-02-08T00:16:21Z
+:FC_TYPE:  normal
+:ID:       f0373648-15d4-4d0d-8700-379e8106c186
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-02-13T00:16:51Z |
+:END:
+
+#+begin_quote
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+[cite:@leetcodeTwoSum]
+#+end_quote
+
+*** Back
+[[id:0d2abc68-9f65-4676-9f62-37b07cb1b86b][2sum linear time solution in Python]]
+*** Source
+[[id:0d2abc68-9f65-4676-9f62-37b07cb1b86b][2sum linear time solution in Python]]
+#+print_bibliography:

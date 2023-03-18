@@ -1,0 +1,289 @@
+:PROPERTIES:
+:ID:       668cbbcc-170b-42c8-b92b-75f6868a0138
+:LAST_MODIFIED: [2023-03-18 Sat 06:44]
+:ROAM_REFS: [cite:@DijkstraAlgorithm2022]
+:END:
+#+title: Dijkstra's algorithm
+#+hugo_custom_front_matter: :slug "668cbbcc-170b-42c8-b92b-75f6868a0138"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 07:30]
+#+filetags: :concept:
+
+#+begin_quote
+Dijkstra's original algorithm found the shortest path between two given nodes, but a more common variant fixes a single node as the "source" node and finds shortest paths from the source to all other nodes in the graph, producing a shortest-path tree.
+
+[cite:@DijkstraAlgorithm2022]
+#+end_quote
+
+Dijkstra's algorithm is a [[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy]] [[id:e1661be1-5f0f-481c-9899-d5cb476096e5][Best-first search]] algorithm.
+
+* Algorithm
+
+Dijkstra's algorithm uses [[id:48e26e71-a0e3-4086-99f2-53e2fa6f7fc8][Dynamic programming]]. Since we re-use previously-computed information (i.e. the distance up to the current point).
+
+** [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+
+1. Mark all nodes as unvisited; create an empty visited =set=
+2. Set a temporary distance of infinity for all nodes except for the source which has a distance of 0
+3. Push all nodes onto the minqueue
+4. Work through the minqueue: mark nodes visited and update their non-visited children if the potential distance is less than the currently known distance
+5. Return the mapping of distances and previous nodes
+
+[[id:d3309005-8d35-4421-8f3d-60ab14e1f2eb][Dijkstra's algorithm implementation in Python]]
+
+** [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]
+
+Same as the single-source solution, but stop when you've found the target node.
+
+* Time complexity
+
+- $\bigtheta((|E| + |V|)\log|V|)$, or $\bigtheta{|E|\log(|V|)}$ for a connected graph, when implemented with a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]].
+- $\bigtheta(|E| + |V|\log|V|)$ when implemented with a [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]].
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:49]
+:FC_CREATED: 2022-12-21T19:50:18Z
+:FC_TYPE:  cloze
+:ID:       e0a72f82-b3d9-4eb3-8cca-93b583c506d1
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    89.04 | 2023-05-30T16:55:22Z |
+:END:
+
+[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] can solve {{both the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]] and [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]}{[[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]}@0}
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 13:46]
+:FC_CREATED: 2022-12-21T21:47:09Z
+:FC_TYPE:  double
+:ID:       445210be-83bb-4ccb-bbe0-3710d84ca784
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    68.42 | 2023-05-16T04:29:49Z |
+| back     | 2.05 |   6 |    59.41 | 2023-04-29T13:56:34Z |
+:END:
+
+[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] for solving the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+
+*** Back
+- [[id:48e26e71-a0e3-4086-99f2-53e2fa6f7fc8][Dynamic programming]]
+- [[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy algorithm]]
+
+Algorithm:
+
+1. Mark all nodes as unvisited; create an empty visited =set=
+2. Set a temporary distance of infinity for all nodes except for the source which has a distance of 0
+3. Push all nodes onto the minqueue
+4. Work through the minqueue: mark nodes visited and update their non-visited children if the potential distance is less than the currently known distance
+5. Return the mapping of distances and previous nodes
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 13:49]
+:FC_CREATED: 2022-12-21T21:50:05Z
+:FC_TYPE:  cloze
+:ID:       99d8c8a4-957c-40a1-b01e-dc3a9c8b4f64
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    50.43 | 2023-03-20T03:06:39Z |
+|        1 | 2.50 |   6 |    64.82 | 2023-05-06T00:00:03Z |
+:END:
+
+{{[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}@0} can solve the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]] for {{non-negative}{positive/negative}@1} edge weights.
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Normal :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 13:56]
+:FC_CREATED: 2022-12-21T21:57:21Z
+:FC_TYPE:  normal
+:ID:       b2070c18-5525-45fd-9f9b-44c037c5f77d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   104.99 | 2023-06-26T14:28:28Z |
+:END:
+
+Time complexity of [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]
+
+*** Back
+- $\bigtheta{(|E| + |V|)\log|V|}$, or $\bigtheta{|E|\log(|V|)}$ for a connected graph, when implemented with a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]].
+- $\bigtheta{|E| + |V|\log|V|}$ when implemented with a [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]].
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 13:57]
+:FC_CREATED: 2022-12-21T21:58:46Z
+:FC_TYPE:  cloze
+:ID:       e2f0b4f3-1fb2-42a6-87d4-c8f7a0031e2c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   112.09 | 2023-07-03T16:38:03Z |
+:END:
+
+{{[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}@0} is, asymptotically, the fastest known [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]] solution for arbitrary directed graphs with unbounded non-negative weights.
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:17]
+:FC_CREATED: 2022-12-22T18:18:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       430a0fe5-0b08-4533-9116-a82c5e2d73b7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.60 |   4 |    10.53 | 2023-03-20T16:01:34Z |
+|        1 | 2.35 |   5 |    32.85 | 2023-04-19T09:41:38Z |
+:END:
+
+Time complexity for [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] is {{$\bigtheta{(|E| + |V|)\log(|V|)}$, or $\bigtheta{|E|\log(|V|)}$ for a connected graph}@0} when {{implemented with a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]] or [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]]}@1}.
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:17]
+:FC_CREATED: 2022-12-22T18:18:25Z
+:FC_TYPE:  cloze
+:ID:       000cc41a-9947-41ac-a813-822eefebba9d
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   146.91 | 2023-08-11T12:03:31Z |
+|        1 | 2.35 |   3 |     6.00 | 2023-03-24T13:44:19Z |
+:END:
+
+Time complexity for [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] is {{$\bigtheta{|E| + |V|\log(|V|)}$}@0} when {{implemented with a [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]]}@1}.
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:18]
+:FC_CREATED: 2022-12-22T19:19:06Z
+:FC_TYPE:  cloze
+:ID:       e9d40880-5985-4cb0-8d3f-8f093cc6de5b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   105.36 | 2023-06-19T02:03:21Z |
+|        1 | 2.50 |   6 |    87.18 | 2023-05-24T20:11:31Z |
+:END:
+
+Failure cases for {{[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}{algorithm}@0} are {{any negative weights}@1}.
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:23]
+:FC_CREATED: 2022-12-22T19:26:46Z
+:FC_TYPE:  double
+:ID:       c2330456-8d59-4433-9ce4-c5b5cfc618cc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    50.18 | 2023-03-20T23:52:56Z |
+| back     | 2.65 |   5 |    42.90 | 2023-03-18T14:16:20Z |
+:END:
+
+Why does [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] fail with negative weights?
+
+*** Back
+[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] is [[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy]]; it halts once it has found a single pathway between the source and target nodes.
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:47]
+:FC_CREATED: 2022-12-22T19:47:24Z
+:FC_TYPE:  cloze
+:ID:       6ddeca2b-c6e7-47b2-8f4e-33e4718e20be
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   104.47 | 2023-06-18T04:45:20Z |
+:END:
+
+[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] iterates over {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@0}.
+
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 05:58]
+:FC_CREATED: 2023-01-27T14:02:24Z
+:FC_TYPE:  normal
+:ID:       f7105f41-fd0a-44ad-bc99-c140a52e46de
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    43.20 | 2023-04-22T08:10:43Z |
+:END:
+
+Benefit(s) of only queuing a single item at the start of [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]].
+
+*** Back
+- The set of nodes relevant to the shortest path is likely to be smaller than the total set of nodes in a graph
+- Allows the algorithm to be applied to infinite graphs or graphs too large to fit into memory
+*** Source
+[cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:30]
+:FC_CREATED: 2022-12-22T00:31:33Z
+:FC_TYPE:  cloze
+:ID:       f49f3f2a-8384-4703-8a1a-91a411e370c1
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    72.80 | 2023-05-15T09:00:42Z |
+:END:
+
+[[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] and [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] are generally outperformed by {{algorithms which can pre-process the graph}@0}.
+
+*** Source
+[cite:@SearchAlgorithm2022]
+#+print_bibliography:

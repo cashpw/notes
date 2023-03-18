@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       50751f5a-e3b9-48cb-9745-26b79a3d3fe9
+:ROAM_REFS: [cite:@SymmetricGame2022]
+:LAST_MODIFIED: [2023-02-02 Thu 07:46]
+:END:
+#+title: Symmetric game
+#+hugo_custom_front_matter: :slug "50751f5a-e3b9-48cb-9745-26b79a3d3fe9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-28 Wed 07:41]
+#+filetags: :concept:
+
+#+begin_quote
+In [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], a [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][Symmetric game]] is a game where the payoffs for playing a particular strategy depend only on the other strategies employed, not on who is playing them. If one can change the identities of the players without changing the payoff to the strategies, then a game is symmetric.
+#+end_quote
+
+A 2x2 game is [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][symmetric]] if and only if the payout matrix is of the form:
+
+|   | E   | F   |
+|---+-----+-----|
+| E | a,a | b,c |
+| F | c,b | d,d |
+
+* Examples
+
+- [[id:f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a][Chicken]]
+- [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]]
+- [[id:23bf567f-d642-4b20-93cf-9adf39789da2][Stag hunt]]
+
+* Flashcards
+** Definition ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 14:36]
+:FC_CREATED: 2022-09-30T21:38:24Z
+:FC_TYPE:  double
+:ID:       8ace8285-a9b4-4064-8432-24a31656a828
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   121.07 | 2023-05-08T16:49:41Z |
+| back     | 2.20 |   6 |    80.13 | 2023-04-20T19:14:01Z |
+:END:
+
+[[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][Symmetric game]]
+
+*** Back
+
+A game where the payoffs are independent of the person playing them -- the strategies are all that matter.
+
+*** Source
+[cite:@SymmetricGame2022]
+** Example(s) ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 14:45]
+:FC_CREATED: 2022-09-30T21:45:32Z
+:FC_TYPE:  double
+:ID:       6d215dbe-ab5c-4ee4-9ad2-80394ae94b05
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    95.04 | 2023-04-22T02:47:16Z |
+| back     | 2.20 |   6 |    67.96 | 2023-04-11T14:45:53Z |
+:END:
+
+[[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][Symmetric game]]
+
+*** Back
+- [[id:f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a][Chicken]]
+- [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]]
+- [[id:23bf567f-d642-4b20-93cf-9adf39789da2][Stag hunt]]
+
+*** Source
+[cite:@SymmetricGame2022]
+#+print_bibliography:

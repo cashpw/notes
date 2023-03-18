@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       a85bd4a5-3009-4995-a7be-082f26b5ef0c
+:LAST_MODIFIED: [2023-02-20 Mon 13:18]
+:END:
+#+title: Bonding costs
+#+hugo_custom_front_matter: :slug "a85bd4a5-3009-4995-a7be-082f26b5ef0c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 08:07]
+#+filetags: :concept:
+
+#+begin_quote
+Costs borne by the agent to build trust with their principal. [...] Bonding costs may include contractually limiting the agent's decision making powers, or increasing the transparency of the agent's decision. In theory, agents will only take on bonding costs where the marginal benefit of these costs are equal to or greater than the marginal cost to the agent. Bonding costs may reduce the steps that a principal will need to take to monitor the agent. Therefore, the agent's acceptance of these costs may produce a higher utility outcome for both parties. In practice, bonding costs are nearly impossible to measure.
+
+[cite:@AgencyCost2022]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:07]
+:FC_CREATED: 2023-01-17T16:07:48Z
+:FC_TYPE:  double
+:ID:       58194721-a9f5-4a2d-bc11-b62a1dbda8bf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    32.92 | 2023-03-22T01:45:53Z |
+| back     | 2.35 |   5 |    29.66 | 2023-03-19T06:56:30Z |
+:END:
+
+[[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]
+
+*** Back
+Costs borne by the agent to build trust with their principal.
+*** Source
+[cite:@AgencyCost2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:07]
+:FC_CREATED: 2023-01-17T16:09:32Z
+:FC_TYPE:  double
+:ID:       755e9b1f-1a4b-48d0-9ed1-3ca2290bdba0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.25 | 2023-03-28T21:12:00Z |
+| back     | 2.50 |   5 |    34.00 | 2023-03-26T21:13:19Z |
+:END:
+
+[[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]
+
+*** Back
+- Provide transparency into the decision making process
+- Limiting the agent's decision making powers
+- Getting a license or accreditation
+*** Source
+[cite:@AgencyCost2022]
+#+print_bibliography:

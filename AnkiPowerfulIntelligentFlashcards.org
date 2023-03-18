@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@AnkiPowerfulIntelligentFlashcards]
+:ID:       6472f018-ab80-4c73-b973-adb8417939db
+:LAST_MODIFIED: [2022-12-14 Wed 13:26]
+:END:
+#+title: Anki
+#+hugo_custom_front_matter: :slug "6472f018-ab80-4c73-b973-adb8417939db"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-08 Tue 13:08]
+#+filetags: :concept:
+
+A software solution for [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][spaced repetition]].
+
+#+begin_quote
+Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
+
+[cite:@AnkiPowerfulIntelligentFlashcards]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+
+
+
+
+
+
+
+
+#+print_bibliography:

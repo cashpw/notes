@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f6dc97ab-0ff3-4751-9742-b8ce764c99cb
+:ROAM_ALIASES: 3sum
+:LAST_MODIFIED: [2023-02-07 Tue 16:27]
+:END:
+#+title: Three sum
+#+hugo_custom_front_matter: :slug "f6dc97ab-0ff3-4751-9742-b8ce764c99cb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-07 Tue 16:24]
+#+filetags: :concept:
+#+begin_quote
+In computational complexity theory, the 3SUM problem asks if a given set of $n$ real numbers contains three elements that sum to zero. A generalized version, k-SUM, asks the same question on k numbers. 3SUM can be easily solved in $\bigo{n^2}$ time, ${\bigomega{n^{\lceil k/2\rceil }}}$ lower bounds are known in some specialized models of computation (Erickson 1999).
+
+[cite:@3SUM2022]
+#+end_quote
+
+[[id:f6dc97ab-0ff3-4751-9742-b8ce764c99cb][Three sum]] is a [[id:9b224cb9-823c-468b-be5d-4431d65d9ee1][Technical interview question]] and a variant of the [[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]].
+
+* Quadratic solution ($\bigo{n^2}$)
+
+[[id:8940a6c3-151a-4bbd-8264-fc4cecd7ba5a][3sum solution in Python]]
+
+* Flashcards
+#+print_bibliography:

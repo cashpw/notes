@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       2caa9715-d216-41c4-babb-c6e66364ac6d
+:ROAM_REFS: [cite:@Seitan2022]
+:LAST_MODIFIED: [2023-02-28 Tue 20:19]
+:END:
+#+title: Seitan
+#+hugo_custom_front_matter: :slug "2caa9715-d216-41c4-babb-c6e66364ac6d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-02 Fri 15:39]
+#+filetags: :concept:
+
+#+begin_quote
+Seitan is a food made from gluten, the main protein of wheat. [...] It is made by washing wheat flour dough with water [[[id:aec8ffce-c854-4800-8a3d-bf8ac3616eef][Wash the flour seitan]]] until all the starch granules have been removed, leaving the sticky insoluble gluten as an elastic mass, which is then cooked before being eaten.
+
+[cite:@Seitan2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:05]
+:FC_CREATED: 2022-11-18T23:06:06Z
+:FC_TYPE:  double
+:ID:       2cc3f0be-7e0b-4e9c-99a6-17fdfb1ae424
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    80.53 | 2023-04-25T04:23:52Z |
+| back     | 2.50 |   6 |    74.00 | 2023-05-14T04:24:02Z |
+:END:
+
+[[id:2caa9715-d216-41c4-babb-c6e66364ac6d][Seitan]]
+
+*** Back
+Food made from gluten.
+*** Source
+[cite:@Seitan2022]
+#+print_bibliography:

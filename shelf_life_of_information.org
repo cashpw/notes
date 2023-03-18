@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       0b20dbe0-1576-4c38-baa4-32522b42f798
+:ROAM_ALIASES: "Half-life of information"
+:ROAM_REFS: [cite:@streetHalfLifeDecayKnowledgeWhatIt2018]
+:LAST_MODIFIED: [2023-02-12 Sun 09:36]
+:END:
+#+title: Shelf-life of information
+#+hugo_custom_front_matter: :slug "0b20dbe0-1576-4c38-baa4-32522b42f798"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-28 Fri 15:13]
+#+filetags: :concept:
+
+The shelf-life of information is the length of time for which the information remains useful (i.e. valuable, correct, etc). The utility of information decays over time and rate of decay varies.
+
+As examples:
+
+- Short shelf-life: The latest finding in psychology
+- Long shelf-life: $f = ma$
+
+Another way to think of this is to answer "How much will X matter to people 100 (or some other large number) of years in the future?"
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 15:20]
+:FC_CREATED: 2022-10-28T22:22:09Z
+:FC_TYPE:  double
+:ID:       1ae46ffc-aab7-40a6-91d8-f57d3b713cbb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   149.88 | 2023-07-10T21:06:17Z |
+| back     | 2.80 |   6 |   112.53 | 2023-06-05T06:25:48Z |
+:END:
+
+[[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Shelf-life of information]]
+
+*** Back
+The length of time for which a piece of information is useful.
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 15:32]
+:FC_CREATED: 2022-10-28T22:32:45Z
+:FC_TYPE:  cloze
+:ID:       5b009069-c779-4a20-ac64-2cd495e586f5
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   133.06 | 2023-06-08T16:29:53Z |
+|        1 | 2.50 |   6 |   116.10 | 2023-05-26T18:46:27Z |
+:END:
+
+- {{[[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Half-life of information]]}@0}
+- {{[[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Shelf-life of information]]}@1}
+*** Source
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 15:33]
+:FC_CREATED: 2022-10-28T22:34:50Z
+:FC_TYPE:  double
+:ID:       da59c892-1476-4466-ae17-a3ec171d1a05
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    75.60 | 2023-03-31T08:41:41Z |
+| back     | 2.50 |   6 |    89.74 | 2023-05-11T09:55:33Z |
+:END:
+
+[[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Shelf-life of information]]
+
+*** Back
+
+- Long [...]: $f = ma$
+- Short [...]: The latest celebrity gossip
+*** Source
+#+print_bibliography:

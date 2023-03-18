@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       4ab64054-a7a8-432e-bd5b-da1d8a01ae16
+:ROAM_REFS: [cite:@UnixPhilosophy2022]
+:LAST_MODIFIED: [2023-01-26 Thu 07:03]
+:END:
+#+title: Unix philosophy
+#+hugo_custom_front_matter: :slug "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-10 Thu 18:46]
+#+filetags: :concept:
+
+#+begin_quote
+The Unix philosophy emphasizes building simple, compact, clear, modular, and extensible code that can be easily maintained and repurposed by developers other than its creators. The Unix philosophy favors composability as opposed to monolithic design.
+
+[cite:@UnixPhilosophy2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-10 Thu 18:48]
+:FC_CREATED: 2022-11-11T02:49:42Z
+:FC_TYPE:  double
+:ID:       2d4480fa-4475-46ed-8ff8-d70c4a02569f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    86.76 | 2023-04-23T09:23:21Z |
+| back     | 2.50 |   6 |   106.69 | 2023-05-24T16:38:38Z |
+:END:
+
+[[id:4ab64054-a7a8-432e-bd5b-da1d8a01ae16][Unix philosophy]]
+
+*** Back
+- Emphasizing simple, compact, clear, [[id:5d0c9c41-219f-4330-b2e6-0ae5daaa5355][Composable]], and extensible code
+*** Source
+[cite:@UnixPhilosophy2022]
+#+print_bibliography:

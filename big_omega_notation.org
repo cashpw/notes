@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       ad8549b5-9c51-48c0-b3e9-462d18827bb4
+:LAST_MODIFIED: [2023-02-28 Tue 20:13]
+:END:
+#+title: Big-Omega notation
+#+hugo_custom_front_matter: :slug "ad8549b5-9c51-48c0-b3e9-462d18827bb4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 19:08]
+#+filetags: :concept:
+
+Big Omega notation, written as \(\bigomega{g(n)}\), indicates an worst-case asymptotic lower bound. While \(2n^2\) is in \(\bigomega{1}\), it's preferred to be as precise as possible and state the lowest valid case: \(2n^2 = \bigomega{n^2}\).
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       7cba9cd1-5e9c-47e3-bc17-669530d152ff
+:ANKI_NOTE_ID: 1656856944082
+:FC_CREATED: 2022-07-03T14:02:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   7 |   113.53 | 2023-06-11T03:46:11Z |
+| front    | 2.50 |   7 |   213.77 | 2023-07-15T12:48:21Z |
+:END:
+
+[[id:ad8549b5-9c51-48c0-b3e9-462d18827bb4][Big Omega notation]]
+
+*** Back
+The set of functions which have a specific asymptotic lower bound.
+
+*** Extra
+\(\Omega(n)\)
+
+*** Source
+[cite:@BigNotation2022]
+
+** Denotes (Computer science) :fc:
+:PROPERTIES:
+:ID:       7ab8b7e0-5648-4933-b34e-bbb4de9dd051
+:ANKI_NOTE_ID: 1656856945033
+:FC_CREATED: 2022-07-03T14:02:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   365.20 | 2024-02-29T08:54:49Z |
+|        1 | 2.65 |   7 |   240.78 | 2023-09-25T08:43:11Z |
+:END:
+
+- {{$\Omega(n)$}@0}
+
+{{[[id:ad8549b5-9c51-48c0-b3e9-462d18827bb4][Big Omega notation]]}@1}
+
+*** Source
+[cite:@BigNotation2022]
+#+print_bibliography:

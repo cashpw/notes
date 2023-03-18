@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       b2575705-10cd-4523-aaa6-153360d7bd07
+:LAST_MODIFIED: [2023-02-27 Mon 20:45]
+:END:
+#+title: Moving the goalposts
+#+hugo_custom_front_matter: :slug "b2575705-10cd-4523-aaa6-153360d7bd07"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-25 Sat 17:03]
+#+filetags: :concept:
+
+#+begin_quote
+Moving the goalposts (or shifting the goalposts) is a metaphor, derived from goal-based sports, that means to change the rule or criterion (goal) of a process or competition while it is still in progress, in such a way that the new goal offers one side an advantage or disadvantage.
+
+[cite:@MovingGoalposts2022]
+#+end_quote
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:34]
+:FC_CREATED: 2022-11-22T18:35:19Z
+:FC_TYPE:  double
+:ID:       6d732c5d-623f-4f5a-9b99-47fb1a8f2707
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   158.33 | 2023-08-05T12:44:25Z |
+| back     | 2.95 |   5 |    49.02 | 2023-03-20T16:56:30Z |
+:END:
+
+[[id:b2575705-10cd-4523-aaa6-153360d7bd07][Moving the goalposts]]
+
+*** Back
+A phrase meaning to change the rules or criterion of a process/competition/etc, while it's in progress, to give an advantage or disadvantage.
+*** Source
+[cite:@MovingGoalposts2022]
+#+print_bibliography:

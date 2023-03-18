@@ -1,0 +1,656 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@blitzsteinIntroductionProbability2019]
+:ID:       dcd814bd-4e7b-45e1-a53f-994dc334ff80
+:LAST_MODIFIED: [2023-01-28 Sat 13:49]
+:END:
+#+title: Joseph K. Blitzstein, Jessica Hwang | Introduction to Probability
+#+hugo_custom_front_matter: :slug "dcd814bd-4e7b-45e1-a53f-994dc334ff80"
+#+author: Cash Weaver
+#+date: [2023-01-18 Wed 06:19]
+#+filetags: :has_todo:reference:
+
+[[id:5bd484ff-a525-429a-92cb-7b79894f4d61][Joseph Blitzstein]], [[id:3e857ca5-35ca-42ec-846e-4158b2c06e7c][Jessica Hwang]], [cite:@blitzsteinIntroductionProbability2019]
+
+* TODO [#3] Summary
+* TODO [#3] Thoughts
+* TODO [#3] Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/dc/d814bd-4e7b-45e1-a53f-994dc334ff80/Blitzstein_Hwang_2019_Introduction_to_probability.pdf
+:NOTER_PAGE: 14
+:END:
+** Skeleton
+*** Cover
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+*** Half Title
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+*** Title Page
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+*** Copyright Page
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+*** Dedication
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+*** Table of Contents
+:PROPERTIES:
+:NOTER_PAGE: 10
+:END:
+*** Preface
+:PROPERTIES:
+:NOTER_PAGE: 14
+:END:
+*** 1: Probability and counting
+:PROPERTIES:
+:NOTER_PAGE: 18
+:END:
+**** 1.1 Why study probability?
+:PROPERTIES:
+:NOTER_PAGE: 18
+:END:
+**** 1.2 Sample spaces and Pebble World
+:PROPERTIES:
+:NOTER_PAGE: 20
+:END:
+**** 1.3 Naive definition of probability
+:PROPERTIES:
+:NOTER_PAGE: 23
+:END:
+**** 1.4 How to count
+:PROPERTIES:
+:NOTER_PAGE: 25
+:END:
+**** 1.5 Story proofs
+:PROPERTIES:
+:NOTER_PAGE: 37
+:END:
+**** 1.6 Non-naive definition of probability
+:PROPERTIES:
+:NOTER_PAGE: 38
+:END:
+**** 1.7 Recap
+:PROPERTIES:
+:NOTER_PAGE: 43
+:END:
+**** 1.8 R
+:PROPERTIES:
+:NOTER_PAGE: 46
+:END:
+**** 1.9 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 50
+:END:
+*** 2: Conditional probability
+:PROPERTIES:
+:NOTER_PAGE: 62
+:END:
+**** 2.1 The importance of thinking conditionally
+:PROPERTIES:
+:NOTER_PAGE: 62
+:END:
+**** 2.2 Definition and intuition
+:PROPERTIES:
+:NOTER_PAGE: 63
+:END:
+**** 2.3 Bayes' rule and the law of total probability
+:PROPERTIES:
+:NOTER_PAGE: 69
+:END:
+**** 2.4 Conditional probabilities are probabilities
+:PROPERTIES:
+:NOTER_PAGE: 76
+:END:
+**** 2.5 Independence of events
+:PROPERTIES:
+:NOTER_PAGE: 80
+:END:
+**** 2.6 Coherency of Bayes' rule
+:PROPERTIES:
+:NOTER_PAGE: 84
+:END:
+**** 2.7 Conditioning as a problem-solving tool
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+**** 2.8 Pitfalls and paradoxes
+:PROPERTIES:
+:NOTER_PAGE: 91
+:END:
+**** 2.9 Recap
+:PROPERTIES:
+:NOTER_PAGE: 96
+:END:
+**** 2.10 R
+:PROPERTIES:
+:NOTER_PAGE: 97
+:END:
+**** 2.11 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 100
+:END:
+*** 3: Random variables and their distributions
+:PROPERTIES:
+:NOTER_PAGE: 120
+:END:
+**** 3.1 Random variables
+:PROPERTIES:
+:NOTER_PAGE: 120
+:END:
+**** 3.2 Distributions and probability mass functions
+:PROPERTIES:
+:NOTER_PAGE: 123
+:END:
+**** 3.3 Bernoulli and Binomial
+:PROPERTIES:
+:NOTER_PAGE: 129
+:END:
+**** 3.4 Hypergeometric
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+**** 3.5 Discrete Uniform
+:PROPERTIES:
+:NOTER_PAGE: 135
+:END:
+**** 3.6 Cumulative distribution functions
+:PROPERTIES:
+:NOTER_PAGE: 137
+:END:
+**** 3.7 Functions of random variables
+:PROPERTIES:
+:NOTER_PAGE: 140
+:END:
+**** 3.8 Independence of r.v.s
+:PROPERTIES:
+:NOTER_PAGE: 146
+:END:
+**** 3.9 Connections between Binomial and Hypergeometric
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+**** 3.10 Recap
+:PROPERTIES:
+:NOTER_PAGE: 153
+:END:
+**** 3.11 R
+:PROPERTIES:
+:NOTER_PAGE: 155
+:END:
+**** 3.12 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 157
+:END:
+*** 4: Expectation
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+**** 4.1 Definition of expectation
+:PROPERTIES:
+:NOTER_PAGE: 166
+:END:
+**** 4.2 Linearity of expectation
+:PROPERTIES:
+:NOTER_PAGE: 169
+:END:
+**** 4.3 Geometric and Negative Binomial
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+**** 4.4 Indicator r.v.s and the fundamental bridge
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+**** 4.5 Law of the unconscious statistician (LOTUS)
+:PROPERTIES:
+:NOTER_PAGE: 187
+:END:
+**** 4.6 Variance
+:PROPERTIES:
+:NOTER_PAGE: 188
+:END:
+**** 4.7 Poisson
+:PROPERTIES:
+:NOTER_PAGE: 191
+:END:
+**** 4.8 Connections between Poisson and Binomial
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+**** 4.9 *Using probability and expectation to prove existence
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** 4.10 Recap
+:PROPERTIES:
+:NOTER_PAGE: 206
+:END:
+**** 4.11 R
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+**** 4.12 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 211
+:END:
+*** 5: Continuous random variables
+:PROPERTIES:
+:NOTER_PAGE: 230
+:END:
+**** 5.1 Probability density functions
+:PROPERTIES:
+:NOTER_PAGE: 230
+:END:
+**** 5.2 Uniform
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+**** 5.3 Universality of the Uniform
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+**** 5.4 Normal
+:PROPERTIES:
+:NOTER_PAGE: 248
+:END:
+**** 5.5 Exponential
+:PROPERTIES:
+:NOTER_PAGE: 255
+:END:
+**** 5.6 Poisson processes
+:PROPERTIES:
+:NOTER_PAGE: 261
+:END:
+**** 5.7 Symmetry of i.i.d. continuous r.v.s
+:PROPERTIES:
+:NOTER_PAGE: 265
+:END:
+**** 5.8 Recap
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+**** 5.9 R
+:PROPERTIES:
+:NOTER_PAGE: 270
+:END:
+**** 5.10 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 272
+:END:
+*** 6: Moments
+:PROPERTIES:
+:NOTER_PAGE: 284
+:END:
+**** 6.1 Summaries of a distribution
+:PROPERTIES:
+:NOTER_PAGE: 284
+:END:
+**** 6.2 Interpreting moments
+:PROPERTIES:
+:NOTER_PAGE: 289
+:END:
+**** 6.3 Sample moments
+:PROPERTIES:
+:NOTER_PAGE: 293
+:END:
+**** 6.4 Moment generating functions
+:PROPERTIES:
+:NOTER_PAGE: 296
+:END:
+**** 6.5 Generating moments with MGFs
+:PROPERTIES:
+:NOTER_PAGE: 300
+:END:
+**** 6.6 Sums of independent r.v.s via MGFs
+:PROPERTIES:
+:NOTER_PAGE: 303
+:END:
+**** 6.7 *Probability generating functions
+:PROPERTIES:
+:NOTER_PAGE: 304
+:END:
+**** 6.8 Recap
+:PROPERTIES:
+:NOTER_PAGE: 309
+:END:
+**** 6.9 R
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+**** 6.10 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 315
+:END:
+*** 7: Joint distributions
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+**** 7.1 Joint, marginal, and conditional
+:PROPERTIES:
+:NOTER_PAGE: 321
+:END:
+**** 7.2 2D LOTUS
+:PROPERTIES:
+:NOTER_PAGE: 341
+:END:
+**** 7.3 Covariance and correlation
+:PROPERTIES:
+:NOTER_PAGE: 343
+:END:
+**** 7.4 Multinomial
+:PROPERTIES:
+:NOTER_PAGE: 349
+:END:
+**** 7.5 Multivariate Normal
+:PROPERTIES:
+:NOTER_PAGE: 354
+:END:
+**** 7.6 Recap
+:PROPERTIES:
+:NOTER_PAGE: 360
+:END:
+**** 7.7 R
+:PROPERTIES:
+:NOTER_PAGE: 363
+:END:
+**** 7.8 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+*** 8: Transformations
+:PROPERTIES:
+:NOTER_PAGE: 384
+:END:
+**** 8.1 Change of variables
+:PROPERTIES:
+:NOTER_PAGE: 386
+:END:
+**** 8.2 Convolutions
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+**** 8.3 Beta
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+**** 8.4 Gamma
+:PROPERTIES:
+:NOTER_PAGE: 404
+:END:
+**** 8.5 Beta-Gamma connections
+:PROPERTIES:
+:NOTER_PAGE: 413
+:END:
+**** 8.6 Order statistics
+:PROPERTIES:
+:NOTER_PAGE: 415
+:END:
+**** 8.7 Recap
+:PROPERTIES:
+:NOTER_PAGE: 419
+:END:
+**** 8.8 R
+:PROPERTIES:
+:NOTER_PAGE: 421
+:END:
+**** 8.9 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 424
+:END:
+*** 9: Conditional expectation
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+**** 9.1 Conditional expectation given an event
+:PROPERTIES:
+:NOTER_PAGE: 432
+:END:
+**** 9.2 Conditional expectation given an r.v.
+:PROPERTIES:
+:NOTER_PAGE: 441
+:END:
+**** 9.3 Properties of conditional expectation
+:PROPERTIES:
+:NOTER_PAGE: 443
+:END:
+**** 9.4 *Geometric interpretation of conditional expectation
+:PROPERTIES:
+:NOTER_PAGE: 448
+:END:
+**** 9.5 Conditional variance
+:PROPERTIES:
+:NOTER_PAGE: 449
+:END:
+**** 9.6 Adam and Eve examples
+:PROPERTIES:
+:NOTER_PAGE: 453
+:END:
+**** 9.7 Recap
+:PROPERTIES:
+:NOTER_PAGE: 456
+:END:
+**** 9.8 R
+:PROPERTIES:
+:NOTER_PAGE: 458
+:END:
+**** 9.9 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 460
+:END:
+*** 10: Inequalities and limit theorems
+:PROPERTIES:
+:NOTER_PAGE: 474
+:END:
+**** 10.1 Inequalities
+:PROPERTIES:
+:NOTER_PAGE: 475
+:END:
+**** 10.2 Law of large numbers
+:PROPERTIES:
+:NOTER_PAGE: 484
+:END:
+**** 10.3 Central limit theorem
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+**** 10.4 Chi-Square and Student-t
+:PROPERTIES:
+:NOTER_PAGE: 494
+:END:
+**** 10.5 Recap
+:PROPERTIES:
+:NOTER_PAGE: 497
+:END:
+**** 10.6 R
+:PROPERTIES:
+:NOTER_PAGE: 500
+:END:
+**** 10.7 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 503
+:END:
+*** 11: Markov chains
+:PROPERTIES:
+:NOTER_PAGE: 514
+:END:
+**** 11.1 Markov property and transition matrix
+:PROPERTIES:
+:NOTER_PAGE: 514
+:END:
+**** 11.2 Classification of states
+:PROPERTIES:
+:NOTER_PAGE: 519
+:END:
+**** 11.3 Stationary distribution
+:PROPERTIES:
+:NOTER_PAGE: 523
+:END:
+**** 11.4 Reversibility
+:PROPERTIES:
+:NOTER_PAGE: 530
+:END:
+**** 11.5 Recap
+:PROPERTIES:
+:NOTER_PAGE: 537
+:END:
+**** 11.6 R
+:PROPERTIES:
+:NOTER_PAGE: 538
+:END:
+**** 11.7 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 541
+:END:
+*** 12: Markov chain Monte Carlo
+:PROPERTIES:
+:NOTER_PAGE: 552
+:END:
+**** 12.1 Metropolis-Hastings
+:PROPERTIES:
+:NOTER_PAGE: 553
+:END:
+**** 12.2 Gibbs sampling
+:PROPERTIES:
+:NOTER_PAGE: 565
+:END:
+**** 12.3 Recap
+:PROPERTIES:
+:NOTER_PAGE: 571
+:END:
+**** 12.4 R
+:PROPERTIES:
+:NOTER_PAGE: 572
+:END:
+**** 12.5 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 574
+:END:
+*** 13: Poisson processes
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+**** 13.1 Poisson processes in one dimension
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+**** 13.2 Conditioning, superposition, and thinning
+:PROPERTIES:
+:NOTER_PAGE: 578
+:END:
+**** 13.3 Poisson processes in multiple dimensions
+:PROPERTIES:
+:NOTER_PAGE: 590
+:END:
+**** 13.4 Recap
+:PROPERTIES:
+:NOTER_PAGE: 592
+:END:
+**** 13.5 R
+:PROPERTIES:
+:NOTER_PAGE: 592
+:END:
+**** 13.6 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 594
+:END:
+*** A: Math
+:PROPERTIES:
+:NOTER_PAGE: 598
+:END:
+**** A.1 Sets
+:PROPERTIES:
+:NOTER_PAGE: 598
+:END:
+**** A.2 Functions
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+**** A.3 Matrices
+:PROPERTIES:
+:NOTER_PAGE: 607
+:END:
+**** A.4 Difference equations
+:PROPERTIES:
+:NOTER_PAGE: 609
+:END:
+**** A.5 Differential equations
+:PROPERTIES:
+:NOTER_PAGE: 610
+:END:
+**** A.6 Partial derivatives
+:PROPERTIES:
+:NOTER_PAGE: 611
+:END:
+**** A.7 Multiple integrals
+:PROPERTIES:
+:NOTER_PAGE: 611
+:END:
+**** A.8 Sums
+:PROPERTIES:
+:NOTER_PAGE: 613
+:END:
+**** A.9 Pattern recognition
+:PROPERTIES:
+:NOTER_PAGE: 616
+:END:
+**** A.10 Common sense and checking answers
+:PROPERTIES:
+:NOTER_PAGE: 616
+:END:
+*** B: R
+:PROPERTIES:
+:NOTER_PAGE: 618
+:END:
+**** B.1 Vectors
+:PROPERTIES:
+:NOTER_PAGE: 618
+:END:
+**** B.2 Matrices
+:PROPERTIES:
+:NOTER_PAGE: 619
+:END:
+**** B.3 Math
+:PROPERTIES:
+:NOTER_PAGE: 619
+:END:
+**** B.4 Sampling and simulation
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+**** B.5 Plotting
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+**** B.6 Programming
+:PROPERTIES:
+:NOTER_PAGE: 620
+:END:
+**** B.7 Summary statistics
+:PROPERTIES:
+:NOTER_PAGE: 621
+:END:
+**** B.8 Distributions
+:PROPERTIES:
+:NOTER_PAGE: 621
+:END:
+*** C: Table of distributions
+:PROPERTIES:
+:NOTER_PAGE: 622
+:END:
+*** References
+:PROPERTIES:
+:NOTER_PAGE: 624
+:END:
+*** Index
+:PROPERTIES:
+:NOTER_PAGE: 626
+:END:
+
+* TODO [#3] Flashcards
+#+print_bibliography:

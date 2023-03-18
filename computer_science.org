@@ -1,0 +1,173 @@
+:PROPERTIES:
+:ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
+:LAST_MODIFIED: [2023-03-17 Fri 07:04]
+:END:
+#+title: Computer science
+#+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 15:23]
+#+filetags: :has_todo:concept:
+* TODO [#2] Flashcards
+** AKA :fc:
+:PROPERTIES:
+:ID:       33ba0758-ea58-4c2b-948e-f7c8eb52e7b1
+:ANKI_NOTE_ID: 1640627808172
+:FC_CREATED: 2021-12-27T17:56:48Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   337.57 | 2024-02-10T16:40:19Z |
+|        1 | 2.65 |   8 |   326.91 | 2024-02-04T12:49:26Z |
+:END:
+
+- {{Floating point operations per second}@0}
+- {{FLOP/s}@1}
+** {{$\texttt{int16}$}@0} has a range of {{$[-2^{15}, 2^{15} - 1]$}@1} :fc:suspended:
+:PROPERTIES:
+:ID:       92316645-fc23-4684-a362-54ff3b7ccc41
+:ANKI_NOTE_ID: 1640627815972
+:FC_CREATED: 2021-12-27T17:56:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    59.80 | 2023-01-07T11:21:13Z |
+|        1 | 2.65 |   3 |     6.00 | 2022-11-24T16:08:12Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@IntegerComputerScience2022]
+** {{$\texttt{int8}$}@0} has a range of {{$[-2^7, 2^7 - 1]$}@1} :fc:suspended:
+:PROPERTIES:
+:ID:       81a06d34-cb52-446f-9ea4-07a1bab8b6e0
+:ANKI_NOTE_ID: 1640627815822
+:FC_CREATED: 2021-12-27T17:56:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    49.59 | 2023-01-19T08:06:33Z |
+|        1 | 2.65 |   3 |     6.00 | 2022-12-08T22:10:38Z |
+:END:
+
+*** Source
+[cite:@IntegerComputerScience2022]
+** {{$\texttt{intX}$}@0} has a range of {{$[-(2^{x-1}), 2^{x-1} - 1]$}@1} :fc:
+:PROPERTIES:
+:ID:       30a431b9-c728-4918-b443-5c772716ab3f
+:ANKI_NOTE_ID: 1640627816349
+:FC_CREATED: 2021-12-27T17:56:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   226.75 | 2023-07-15T10:52:01Z |
+|        1 | 2.65 |  10 |   148.87 | 2023-03-25T12:13:47Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@IntegerComputerScience2022]
+** {{$\texttt{uintX}$}@0} has a range of {{$[0, 2^{x} - 1]$}@1} :fc:
+:PROPERTIES:
+:ID:       d8d470d9-8cd7-4769-9c4a-066aee26538f
+:ANKI_NOTE_ID: 1640627816497
+:FC_CREATED: 2021-12-27T17:56:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   337.61 | 2024-01-15T06:10:31Z |
+|        1 | 2.25 |  13 |   158.71 | 2023-06-06T10:43:01Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@IntegerComputerScience2022]
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       64145b59-154a-4933-acba-092a119cc548
+:ANKI_NOTE_ID: 1640627817598
+:FC_CREATED: 2021-12-27T17:56:57Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   8 |   197.18 | 2023-06-21T18:08:27Z |
+:END:
+
+Floating and fixed point number representations
+
+*** Back
+- Fixed point number representation maintains the radix point in a fixed location; essentially scaling the underlying integer by some implicit factor.
+- A floating point number representation places the radix point based on an exponent value.
+  - The fixed point representation can represent fewer total numbers than the floating point representation can.
+*** Source
+[cite:@FloatingpointArithmetic2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       812540df-4af6-4896-bf89-9557ddb8ff77
+:ANKI_NOTE_ID: 1656854711373
+:FC_CREATED: 2022-07-03T13:25:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
+| front    | 1.30 |   8 |    34.94 | 2023-04-12T16:42:21Z |
+:END:
+
+IMAP
+
+*** Back
+Internet protocol used by email clients to retrieve email from a mail server over TCP/IP
+
+*** TODO [#4] Source
+https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+** Definition (Information theory) :fc:
+:PROPERTIES:
+:ID:       0b73a544-dfc1-4507-a8b2-12e3d9f4f13a
+:ANKI_NOTE_ID: 1640627813173
+:FC_CREATED: 2021-12-27T17:56:53Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   9 |   355.10 | 2024-02-18T07:12:08Z |
+| front    | 2.65 |   7 |   149.23 | 2023-03-26T20:59:54Z |
+:END:
+
+Hamming distance
+
+*** Back
+The number of positions in two strings of equal length at which the corresponding symbols are different.
+
+*** Extra
+"ABC" and "BBB" have a hamming distance of two.
+
+*** Source
+TODO: Source
+#+print_bibliography:

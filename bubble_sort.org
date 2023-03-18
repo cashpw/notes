@@ -1,0 +1,169 @@
+:PROPERTIES:
+:ID:       c6bc266e-1090-492f-bdba-f044e04db3ff
+:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:END:
+#+title: Bubble sort
+#+hugo_custom_front_matter: :slug "c6bc266e-1090-492f-bdba-f044e04db3ff"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-30 Thu 10:47]
+#+filetags: :concept:
+
+#+begin_quote
+Bubble sort, sometimes referred to as sinking sort, is a simple [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+
+[links added]
+
+[cite:@BubbleSort2022]
+#+end_quote
+
+Bubble sort is [[id:740ce42a-3a80-4ecb-9438-fedff074443b][stable]].
+
+* Algorithm
+
+#+begin_src
+while list is not sorted do
+  for i in range(len(list) - 1) do
+    if list[i] > list[i+1] do
+      swap(i, i+1)
+#+end_src
+
+* Implementation
+
+- [[id:af832252-c4a9-4364-bdef-59c1a8ea6ebe][Bubble sort implementation in Python]]
+* Complexity
+
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Time  | \(O(n^2)\) | \(O(n)\)  |
+| Space | \(O(n)\)   | \(O(n)\)  |
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       81783587-7f66-4330-af7c-e49d7e7e2d98
+:ANKI_NOTE_ID: 1656856910908
+:FC_CREATED: 2022-07-03T14:01:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   232.85 | 2023-09-22T13:10:22Z |
+| back     | 2.80 |   7 |   150.64 | 2023-05-08T09:39:05Z |
+:END:
+
+[[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] algorithm
+
+*** Back
+A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedly loops over the full list and conditionally swaps adjacent elements.
+
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Time  | \(O(n^2)\) | \(O(n)\)  |
+| Space | \(O(n)\)   | \(O(n)\)  |
+
+[cite:@BubbleSort2022]
+
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] time complexity: {{$O(n^2)$}@0} :fc:
+:PROPERTIES:
+:ID:       ec58bda6-e982-4329-998f-8f33f442bd5e
+:ANKI_NOTE_ID: 1659743900080
+:FC_CREATED: 2022-08-05T23:58:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   166.34 | 2023-07-06T22:39:05Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BubbleSort2022]
+
+
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] space complexity: {{$O(n)$}@0} :fc:
+:PROPERTIES:
+:ID:       f9836739-dfeb-4dcb-8910-3ab2ff1bced7
+:ANKI_NOTE_ID: 1659743900996
+:FC_CREATED: 2022-08-05T23:58:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   141.26 | 2023-05-27T20:41:38Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BubbleSort2022]
+
+
+** Algorithm :fc:
+:PROPERTIES:
+:ID:       a329b611-1d87-4d19-882c-21636b03c1f8
+:ANKI_NOTE_ID: 1656856914233
+:FC_CREATED: 2022-07-03T14:01:54Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   214.18 | 2023-07-23T18:28:44Z |
+| back     | 2.65 |   6 |   150.07 | 2023-03-30T17:47:41Z |
+:END:
+
+[[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]]
+
+*** Back
+1. While the list isn't sorted
+   1. Walk the list and swap elements based on the =comparator=
+*** Source
+[cite:@BubbleSort2022]
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] is a {{stable}{stability}@0} sort :fc:
+:PROPERTIES:
+:ID:       bab0b4c2-979f-412e-b2ae-797dd4c58168
+:ANKI_NOTE_ID: 1656856915032
+:FC_CREATED: 2022-07-03T14:01:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.70 |   8 |    66.97 | 2023-05-23T13:20:37Z |
+:END:
+*** Extra
+*** Source
+[cite:@BubbleSort2022]
+
+
+** Implement [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] in Python :fc:
+:PROPERTIES:
+:ID:       2841574b-9c02-4ed6-ba75-d9306d5743ba
+:ANKI_NOTE_ID: 1656856915683
+:FC_CREATED: 2022-07-03T14:01:55Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   112.53 | 2023-04-28T04:03:59Z |
+:END:
+[[id:af832252-c4a9-4364-bdef-59c1a8ea6ebe][Bubble sort implementation in Python]]
+*** Source
+[cite:@BubbleSort2022]
+#+print_bibliography:

@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@valentineNoticingTasteLotus2018]
+:ID:       83ed5740-7670-4308-b82b-4bb788978e54
+:DIR:      /home/cashweaver/proj/roam/attachments/83ed5740-7670-4308-b82b-4bb788978e54
+:LAST_MODIFIED: [2023-02-16 Thu 19:28]
+:END:
+#+title: Notice the taste of lotus
+#+hugo_custom_front_matter: :slug "83ed5740-7670-4308-b82b-4bb788978e54"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 06:33]
+#+filetags: :reference:
+ 
+#+begin_quote
+Duncan Sabien sometimes talks about "lotus-eating". He's referring to a [[https://en.wikipedia.org/wiki/Lotus-eaters][part of the Odyssey where they land on an island of "lotus-eaters"]]. It turns out that once you eat some of this kind of lotus, all you want to do is eat more. You stop caring about your other goals. The lotus just grabs your wants directly.
+
+[[id:9acbb70a-b102-4633-a1ee-bf1821e80735][Michael Smith]], [cite:@valentineNoticingTasteLotus2018]
+#+end_quote
+
+The idea of noticing the taste of lotus is closely related to mindfullness, attention, [[id:f2121807-897d-4d94-ad45-440a33d8007e][Stoicism]], [[id:cce498c6-3fd2-40e1-9aee-fbc273d7fb32][Akrasia]], etc.
+
+Valentine wrote a [[https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus?commentId=3buxF2Wk45a7QYLM2][follow-up review]] in which they emphasized the specific claims they made in his original article:
+
+#+begin_quote
+1. External forces can shape what we want to do. (I.e., there are lotuses.)
+2. It's possible to notice this in real time. (I.e., you can notice the taste of lotuses.)
+3. It's good to do so. Otherwise we find our wanting aligned with others' goals regardless of how they relate to our own.
+4. If you notice this, you'll find yourself wanting to spit out lotuses that you can tell pull you away from your goals.
+
+[[https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus?commentId=3buxF2Wk45a7QYLM2][Valentine]]
+#+end_quote
+
+I like this way of breaking a piece of writing apart into claims. Doing so reminds me of breaking a commit down into small, independent, chunks and all the benefits that come with that practice. There's a balancing act between leveraging links to other, single-purpose, writing throughout a piece and writing a monolithic entry which can be taken as is without further context or external references.
+
+As for the claims themselves, I identify with the way the author has phrased claim #3. I find myself at the precipice of rabbit holes regularly with regard to video games. Factorio, for example, is a game that I enjoyed playing (read: felt compelled to play) so much that I had to cut myself off from it. I thought  about my factory and future factories throughout the day. The optimization problems were enchanting and satisfied a need to accomplish and be productive so well that I dropped a lot of other goals/etc and replaced them, for a time, with Factorio. It's not that Factorio is bad -- it's a fantastic game -- but rather: I discover, after coming out of the haze of hours and hours of perfecting resource gathering, delivery, and processing, that I'd realigned my goals around the game; those goals won't take me where I want to go.
+
+Related: [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your defaults]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 12:14]
+:FC_CREATED: 2022-11-14T20:14:57Z
+:FC_TYPE:  double
+:ID:       8848c3b8-0b19-46e0-beea-1c0067fad374
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   114.18 | 2023-06-11T07:46:12Z |
+| back     | 2.50 |   6 |    97.93 | 2023-05-21T16:01:15Z |
+:END:
+
+[[id:83ed5740-7670-4308-b82b-4bb788978e54][Notice the taste of lotus]]
+
+*** Back
+- Be aware of the things which seek to grab your attention away from you
+- [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your defaults]]
+- Be aware of your sources of [[id:cce498c6-3fd2-40e1-9aee-fbc273d7fb32][Akrasia]]
+#+print_bibliography:

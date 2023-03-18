@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       5f8f88a2-e975-442c-952e-28dbc54f1eb6
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/5f8f88a2-e975-442c-952e-28dbc54f1eb6
+:LAST_MODIFIED: [2023-03-02 Thu 06:12]
+:END:
+#+title: Rules must always be evaluated for their power to oppress
+#+hugo_custom_front_matter: :slug "5f8f88a2-e975-442c-952e-28dbc54f1eb6"
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-24 Mon 12:30]
+
+#+begin_quote
+Rules must always be evaluated for their power to oppress.
+
+[[id:cfeb6969-326d-4804-a08c-d232cbd40369][Dan Olson]], [cite:@foldingideasLineGoesProblemNFTs2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Rules must always {{be evaluated for their power to oppress.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 18:54]
+:FC_CREATED: 2022-11-22T03:12:01Z
+:FC_TYPE:  cloze
+:ID:       7cb61650-2b9e-470a-986f-5a7fe45bd230
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   151.14 | 2023-07-31T17:32:04Z |
+:END:
+
+*** Source
+[cite:@foldingideasLineGoesProblemNFTs2022]
+#+print_bibliography:

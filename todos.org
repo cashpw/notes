@@ -1,0 +1,1218 @@
+:PROPERTIES:
+:ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
+:DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
+:LAST_MODIFIED: [2023-03-17 Fri 09:12]
+:END:
+#+title: Todos
+#+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 16:30]
+#+filetags: :has_todo:
+
+* TODO [#2] Node idea: Specifics of my blog post authoring process with =emacs=, =org-mode=, =ox-hugo=, and =org-roam=.
+* TODO [#2] Node idea: Thoughts on productivity, guilt, and free time as an illusion.
+* TODO [#2] Node idea: My process for managing my Anki cards in Emacs.
+* TODO [#2] Node idea: Future impact of climate change on USA with focus on picking a place to live
+:PROPERTIES:
+:Created: [2022-02-07 Mon 20:42]
+:END:
+* TODO [#2] Tag nodes with =concept=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:14]
+:END:
+* TODO [#2] Tag nodes with =reference=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:15]
+:END:
+* TODO [#2] Tag nodes with =person=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:15]
+:END:
+* TODO [#2] Tag nodes with =quote=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:15]
+:END:
+* TODO [#2] Node idea: Akido/etc as a metaphor for redirecting unhelpful thoughts. "I must be productive at all times" can become helpful by redefining what it means to be productive and the types of activities which are productive.
+:PROPERTIES:
+:Created: [2022-02-11 Fri 21:02]
+:END:
+* TODO [#3] Node idea: Pursuasion
+- [[id:b1a664cb-c661-4c44-bf55-fc407c528ad1][Wizard's First Rule]]
+- [[id:d0930766-c7f4-4d54-83d4-fd62a418783e][When their salary depends on their not understanding]]
+* TODO [#2] Amusing ourselves to death; the book and the comic
+* TODO [#2] Node idea: Hard truths I've learned and (hopefully) internalized - or - things I read when I was young and just started "getting" recently; tacit knowledge
+:PROPERTIES:
+:Created: [2022-02-13 Sun 12:55]
+:END:
+* TODO [#2] Node idea: I'm not good at keepting habits; techinquest to improve the likelyhood of success; the hardest thing I've ever done is establish and maintain habits; the most impactful things I've ever done have been in establishing and maintaining habits
+:PROPERTIES:
+:Created: [2022-02-13 Sun 13:14]
+:END:
+* TODO [#2] Node idea: Do small experiments; Time yourself for a few minutes to extrapolate for a whole task
+:PROPERTIES:
+:Created: [2022-02-13 Sun 22:40]
+:END:
+* TODO [#2] Node idea: Preference falsification; broader than virtue signaling
+:PROPERTIES:
+:Created: [2022-02-14 Mon 08:16]
+:END:
+* TODO [#2] Acting in line with my values requires occassional disagreement or broaching uncomfortable topics or cutting people out of my life. I have found those actions to be worthwhile in 100% of cases.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 09:10]
+:END:
+* TODO [#2] Node idea: Try to proactively solve problems; fix things before they're even problems. Avoid war by removing the conditions that give rise to war.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 09:35]
+:END:
+* TODO [#2] Node idea: "If you face reality too much, it kills you. ~ Woody Allen"
+:PROPERTIES:
+:Created: [2022-02-14 Mon 10:20]
+:END:
+* TODO [#2] Node idea: Overall workflow for roam notes is to have individual ideas that build up connections over time. These connections form groups from which synthesized ideas can be extracted. The roam notes aren't meant to be read by others on their own -- other should start with the synthesis.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 10:36]
+:END:
+* TODO [#2] Node idea: Be curious; implies a growth mindset; implies humbleness and "I don't know everything"; required careful listening and attention rather than "waiting for you to finish so I can say my thing"
+:PROPERTIES:
+:Created: [2022-02-14 Mon 11:44]
+:END:
+* TODO [#2] Node idea: http://five.sentenc.es/
+:PROPERTIES:
+:Created: [2022-02-14 Mon 11:57]
+:END:
+* TODO [#2] Node idea: Butlarian Jihad
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:05]
+:END:
+* TODO [#2] Node idea: Meaning of life: There is no specific meaning of life. Choose your own. Link to john green's other people quote. I've chosen "Empower meaningful lives" as my purpose.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:07]
+:END:
+* TODO [#2] Node idea: Don't go back to sleep (https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep); Learn from experiences and don't just revert to prior behaviors
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:25]
+:END:
+* TODO [#2] Node idea: Consume media/essays/etc using RSS or another non-intrusive "background"-type process :idea:
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:27]
+:END:
+* TODO [#2] Node idea: Focus on topics/areas for some amount of time; analogous to multi-tasking. Don't read a lisp article, then a farming article, then a political article (or books, etc). Dive into lisp for a little while, say a week of focus, summarize what you've taken away, then move to another topic. Work to synthesize later. :idea:
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:30]
+:END:
+* TODO [#2] Node idea: You think the way you practice. To think with a long term perspective it isn't sufficient to know a long term perspective exists -- you must cultivate a regular practice of long term thinking. Perhaps take up bonsai or another hobby/etc which forces a long term perspective.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:53]
+:END:
+* TODO [#2] Atomic habits, tiny habits, power of habit: Habits
+:PROPERTIES:
+:Created: [2022-02-14 Mon 13:54]
+:END:
+* TODO [#2] Node idea: Stating the basics is a good starting point. It's easy to assume your audience has already heard X so you omit it. Try including it nonetheless :idea:
+:PROPERTIES:
+:Created: [2022-02-14 Mon 14:12]
+:END:
+* TODO [#2] Use https://github.com/org-roam/org-roam-ui to identify unconnected nodes
+:PROPERTIES:
+:Created: [2022-02-15 Tue 09:39]
+:END:
+* TODO [#2] Node idea: Concept, not sure of name, things like litany against fear, serenity prayer, etc, are phrases (better word?) that are used to bring about a particular state of mind :idea:
+:PROPERTIES:
+:Created: [2022-02-17 Thu 07:10]
+:END:
+
+Term ideas:
+
+- perspective bridges
+
+Related
+
+- [[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]
+- [[id:6957a9e8-cfa5-45c3-acb5-805aac1fd68e][2.1]]
+* TODO [#2] Node idea: "Keep a Code" Keep to a code of ethics that you define. The "lawful" alignment in the old d&d grids :idea:
+:PROPERTIES:
+:Created: [2022-02-18 Fri 16:07]
+:END:
+* TODO [#2] Node idea: Habits I keep, or am trying to keep :idea:
+:PROPERTIES:
+:Created: [2022-02-18 Fri 16:08]
+:END:
+* TODO [#3] Remove customized attachment dir properties from all nodes
+* TODO [#2] Node idea: Org-mode as a personal relationship management platform. org-roam, nodes-as-contacts, Google Drive as storage
+* TODO [#2] Node idea: Simple things are hard, simple things are true :idea:
+:PROPERTIES:
+:Created: [2022-03-12 Sat 07:46]
+:END:
+* TODO [#2] Learn about Edith Health
+:PROPERTIES:
+:Effort:   1h
+:END:
+
+- https://www.youtube.com/watch?v=IJFM8Kui1W0
+* TODO [#2] Node idea: Parenting / Interacting with Children
+
+- [[id:99e14785-13bb-420c-b0b5-b14bad1bd163][Freddish]]
+- [[id:cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce][Dave Orr | Parenting Rules]]
+* TODO [#2] Node idea: Writing good software / Software patterns I like
+
+- [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure Functions]]
+- "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
+- [cite:@smithWriteCodeNotTooMuchMostlyFunctions]
+
+* TODO [#2] Note idea: Bread and circus
+* TODO [#2] Node idea: Understand Before Building
+
+Related:
+
+- [[id:975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5][Chesterton's Fence]]
+- [cite:@matthewsaltzUnderstandFirstCritiqueLater2020]
+* TODO [#2] Node idea: Picking a place to live based on climate change
+* TODO [#2] Node idea: Designing a home
+
+Related:
+
+- [cite:@potterHowDesignHouseLast1000YearsPart2021]
+- [cite:@potterHowDesignHouseLast1000YearsPartII2021]
+- [cite:@potterHowDesignHouseLast1000YearsPartIII2022]
+* TODO [#2] Node idea: My dear boy, why don't you try acting?
+* TODO [#2] Node idea: How I use Anki, create/edit cards, backup cards
+
+- [[id:abb1e1cc-12bb-42fe-9004-555145c8faaa][Laura Taylor | Git + Google Drive = Simple Git Host]]
+- [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]]
+* TODO [#2] Node idea: Things you can do in Emacs besides editing text
+
+- Email (text, but more!)
+- Browse the web
+- Calculator
+* TODO [#2] Node idea: The unbearable lightness of being
+* TODO [#2] Node idea: This is water
+* TODO [#2] Node idea: Sapir-Worph hypothesis, Linguistic relativity; this is water as an illustration
+* TODO [#2] Node idea: Tips for writing emails/communication; brevity, above the fold, clear action items, etc
+* TODO [#2] Node idea: Healthspan extension; supplements, techniques or exercises, etc
+* TODO [#2] Node idea: Male life-long supplementation
+* TODO [#2] Node idea: Female life-long supplementation
+* TODO [#2] Node idea: Passive houses; air quality, principles, advantages, properties
+* TODO [#2] Node idea: This is the dreamtime. Rapid, explosive, technological development which shines light into all of the dark places. Elimination of privacy. [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]. Optimizing away the "human"-ness of humanity. The proliferation of existential threats through technologic progression; first we're not capable of destroying ourselves, then governments are capable, then well-funded groups are capable, then groups are capable, then individuals are capable -- nuclear, biologic, technologic.
+* TODO [#4] Reconsider the types/tags for nodes; remove them altogether? Is such a taxonomy useless?
+* TODO [#4] Remove explicit :DIR: property
+* TODO [#2] Split "Lessons learned" into nodes
+:PROPERTIES:
+:ID:       f1e1fb6c-5dbd-45fa-85cb-6d7fc7551486
+:END:
+
+Also see [[id:ba1c8bfe-7353-4fac-9202-768763ba4692][Project intake form]].
+
+From [[https://docs.google.com/document/d/13zmbnnY1C6Dqls9k1oHN0ApaYB-rKn-vLb4vcfIWP9A/edit#][Lessons learned]] :
+
+I'll write more completely about these things later. The goal for this writing session is only to get them down and out of my head. They are listed in no particular order.
+
+- Only work on things that matter. Things that matter can be defended and argued to others; ideally with hard numbers. Be cautious about investing into projects that cannot be argued with numbers. Taking a closer look at the numbers around search keyboard usage may have led me to invest less in a technically complex keyboard solution (Kabu).
+- Verify assumptions/expectations as early as possible. Get an experiment out there to confirm the things you think will happen as soon as possible. What is the minimum viable product? Build that and send it out. Confirm, with numbers, that the thing you want to build is worth building. Write your assumptions down throughout the duration of the project, especially at the beginning, and track them. How and when will you test them?
+- Under promise and over deliver. Pad estimates. Be cautious when agreeing to deadlines. The unexpected always happens.
+- Break projects down. Then break them down more. Trim all of the fat and get to MVP as soon as you can. From there, ensure steady and meaningful deliverables.
+- Coding should be more typing than thinking. Design a solution away from the computer, then return and type it up.
+- Document everything. Specifically, document what you do and the status of your projects. You'll forget more than you ever know so write it down. I have come to like this process: write down the important things you do on a daily basis, summarize those at the end of the week, summarize those every month. Then, in addition to those notes, keep a set of notes specific to each project you're working on. These project notes should include an up-to-date-at-all-times timeline of events and should include references to everything related to the project. This is more than you would ever send to someone but that's not what it is for. This document is the bible for the project. It's what you'll pull from whenever you're asked any question about the project from now until the end of time. Put time on your calendar to keep these documents up to date.
+- Communicate regularly with stakeholders. Keep in mind that your audience dictates the way you present information. I've found through trial and error that a bi-weekly update is sufficient for most projects. More often than that and it's difficult to make meaningful progress enough to make the update worthwhile to write. That said, it may be useful to send something brief to your immediate team every week, or update them in a meeting.
+- Communicate delays or other changes to the plan as early as possible.
+
+Taken from my Keep notepad:
+
+- Reach out to other teams before your invest time and effort to be sure they haven't already fixed the problem
+- Find a single point of contact (tl, etc) on collaborating teams. Send them docs for easily review. Proactively communicate. It's your job to surface things and ask questions, it's not their job to think of your questions for you. Or, rather, you can't assume they will do you should act like they won't.
+- Don't enter into a project without a good understanding of the benefits in a numeric sense. Kabu is, potentially, a massive 5 quarter long project which will introduce additional download times for our users and provide little in tangible benefits.
+- Communicate especially when you feel too stressed to communicate. Take notes and document especially when you feel like there's no time to. Adhere to all the good engineering habits especially when you feel like you'll get them first thing on Monday when you get back.
+- When feeling overwhelmed, take a moment to go for a quick walk and when you're done with the walk write down the things that need to be done. Now that it certain down, does it feel as overwhelming? Is there any way to shorten the list by making concessions or cutting features? Can you reach out to anybody on the team to help you prioritize the list?
+
+Taken from another Keep note:
+
+- How much mayonnaise is in the jar? Meaning, to borrow another saying, how large is the market. The same hour of effort has different results based on the project it's applied to. Understand what the payout stands to be for anything you're working on.
+- Think about your project from the perspective of an l7 who couldn't give less of a shit. Can you convince them, with something concrete, to give a shit about the project?
+- Rapid iteration beats coding in a tower for 6 months. Get to experiment quickly with a hack to prove that the real version is worth the effort.
+- Think metrics first.
+- Write up a step by step guide to evaluating projects and working on them. Include this shit so I won't forget it again.
+
+Taken from a Keep note:
+
+- Thoroughly reviewing existing code when coming into extend an existing project. Don't assume it's bug free. Don't assume it's written well. Don't assume the engineers who wrote it adhered to best practices or designed it in an extensible way. Don't assume there are tests of any kind (unit, integration, end-to-end).
+
+Prioritize [[id:82d1d3b6-dd55-43bf-828e-b34508ac136c][Deep work]]
+
+I realized when writing this that the whole lot of it is the same as what's posted all over the internet. The only difference is that these words mean more to me because I bled to learn them. It makes me wonder how much value there really is in seeking out advice online.
+
+2019-08-20
+
+- Only work on things that have buy in from L+1, ideally L+2 or L+3. Things that higher ups are going to be judged against are going to be the things that they are motivated to invest in. Ideally, they're success should depend on your success. This will ensure they make sure you succeed without you needing to do extra maneuvering.
+- I cannot work in a silo for too long. Sometimes it is useful or necessary to work an isolation, but be extremely too long. Sometimes it is useful or necessary to work an isolation, but be extremely weary of letting it run too long.
+* TODO [#2] Node idea: Consistency is a sign of competency; create processes for greater consistency; todo lists are good!
+* TODO [#2] Node idea: if you want to go fast, go alone; if you want to go far, go together and [cite:@whitbyWhoFirstSaidIfYouWantGoFastGoAlone]
+* TODO [#2] Node idea: Prefer information with a long [[id:0b20dbe0-1576-4c38-baa4-32522b42f798][shelf-life]] to [[id:92cf48f0-63a6-4d1d-9275-c80f6743ccb9][Do things that compound]]
+* TODO [#2] Topic idea: What does an idealized effective education program look like -- not necessarily a "this would work for every child in the USA/World"-style approach; useful for planning the education of my children
+* TODO [#2] Node idea: On writing code
+
+- [[id:163d0358-3196-4842-94ce-ffb2c22465be][Brandon Smith | Write Code. Not Too Much. Mostly Functions.]]
+- [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]]
+* TODO [#2] Node idea: Don't punish, prevent
+
+- Make the behavior you want easy and the behavior you don't want hard
+- Have your barking dog bring visitors a pillow. They won't be able to bark with the pillow in their mouth.
+
+* TODO [#2] Techne : [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]] :: Metis : [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Implicit knowledge]]; all items in closures
+* TODO [#2] The games where the best strategy is not talking about the game you're playing or the way you're playing it
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 07:34]
+:END:
+
+- Lying, or at best not telling the whole truth, but different in the situations in which its applied
+- You want to be president of the USA
+  - Better to not go around expressing "I want to be president" from the get-go. Instead, say you're focused on whatever your current role is and continue to climb.
+- You need to downsize your company and don't want to worry current employees or pay severance
+  - Remove the work from home policy and let people leave on their own
+* TODO [#2] [cite:@ModernMonetaryTheory2022]
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 14:23]
+:END:
+* TODO [#2] [cite:@SecondComingPoem2022]
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 14:24]
+:END:
+* TODO [#2] [cite:@ColossusPainting2022]
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 14:25]
+:END:
+* TODO [#2] [cite:@sophiefrommarsKaijuMonsterMen2022]
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:42]
+:END:
+* TODO [#2] 5/3/1
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:39]
+:END:
+* TODO [#2] https://commoncog.com/start-here/
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 16:37]
+:END:
+* TODO [#2] Consider merging [[id:7ad4b787-5657-4dfb-ae93-a50f843e670e][Beneficial evolutionary pressure]] and [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of discontent]]
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 08:16]
+:END:
+* TODO [#2] Node idea: How to be more strategic
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 08:51]
+:END:
+
+Based on [[id:3bac7cee-9146-45df-be28-bb51ac48be68][Anna Salamon | Humans Are Not Automatically Strategic]]
+
+- Develop a [[id:cb4d578c-d0d4-4056-aad1-c6ee153eb42f][Theory of change]]
+- [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your defaults]]
+- Improve your ability to [[id:b481f4e5-63b4-4455-8406-49825121b06c][pattern match]]
+- Develop processes that /are/ strategic which you can follow
+  - [[id:ba1c8bfe-7353-4fac-9202-768763ba4692][Project intake form]]
+  - [[id:3442bdf5-97f0-496e-9d8c-3c368e9ea517][Improving as a software engineer]]
+- [[id:83ed5740-7670-4308-b82b-4bb788978e54][Notice the taste of lotus]]
+* TODO [#2] https://thesephist.com/
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 09:51]
+:END:
+* TODO [#2] [cite:@alexanderGrowingChildrenBostromDisneyland2014] and [cite:@alexanderPoorFolksSmileNow2013]
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 11:03]
+:END:
+* TODO [#2] [cite:@yudkowskyInadequateEquilibriaTableContents]
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 11:05]
+:END:
+* TODO [#2] [cite:@zviMolochHasnWon]
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 11:06]
+:END:
+* TODO [#2] Law of total probability
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 07:33]
+:END:
+* TODO [#2] Node idea: Read deeply, read widely (maybe two nodes?)
+:PROPERTIES:
+:CREATED: [2022-11-29 Tue 16:45]
+:END:
+
+- Read deeply: For learning
+  - Dive deep on a topic, and author, a publication, to get a multi-dimensional view of the subject
+- Read widely: For discovery
+  - Asynchronous [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]] via RSS feeds
+  - Twitter recommendations
+  - Aggregation boards/communities like Reddit, Hacker News
+* TODO [#2] Deep dive: [cite:@branwenEssays2009], [cite:@branwenThisWebsite2010]
+:PROPERTIES:
+:CREATED: [2022-12-01 Thu 08:37]
+:END:
+* TODO [#2] RPCs
+:PROPERTIES:
+:CREATED: [2022-12-01 Thu 11:41]
+:END:
+* TODO [#2] Protobuffers
+:PROPERTIES:
+:CREATED: [2022-12-01 Thu 11:42]
+:END:
+* TODO [#2] gRPC
+:PROPERTIES:
+:CREATED: [2022-12-01 Thu 11:42]
+:END:
+* TODO [#2] Tail latency
+:PROPERTIES:
+:CREATED: [2022-12-01 Thu 11:42]
+:END:
+* TODO [#2] Read through best of [cite:@luuHome]
+:PROPERTIES:
+:CREATED: [2022-12-02 Fri 15:11]
+:END:
+* TODO [#2] https://www.lesswrong.com/s/ix7grGajtrJJYXsY3
+:PROPERTIES:
+:CREATED: [2022-12-05 Mon 17:14]
+:END:
+* TODO [#2] https://www.lesswrong.com/highlights
+:PROPERTIES:
+:CREATED: [2022-12-05 Mon 17:15]
+:END:
+* TODO [#2] Air quality in homes / rooms: CO2, particulate matter, etc
+:PROPERTIES:
+:CREATED: [2022-12-06 Tue 07:38]
+:END:
+
+
+- [cite:@wtfwhatthehellStaleAirCO2CognitiveFunction2021]
+- [cite:@alexanderCarbonDioxideOpenDoorPolicy2018]
+- [cite:@TrainingMySenseCO2Ppm]
+- [cite:@AskHNYouMeasureMitigateCO2YourLivingSpaceHacker]
+
+* TODO [#2] Make a checklist
+:PROPERTIES:
+:CREATED: [2022-12-06 Tue 07:49]
+:END:
+
+Make the process explicit.
+
+- [[id:8331d841-b588-4780-b730-ded8ada343f2][Make implicit knowledge explicit]] by enumerating it
+- [[id:c74e3129-38af-45f8-bd2b-8a6fa5a0cad0][Documenting your work]]
+- [[id:bfc1e54d-2c91-4514-ad99-54e6494268bb][Write to think]]
+* TODO [#2] Mesa (related to meta)
+:PROPERTIES:
+:CREATED: [2022-12-07 Wed 07:41]
+:END:
+* TODO [#2] Domain specific language
+:PROPERTIES:
+:CREATED: [2022-12-07 Wed 10:09]
+:END:
+* TODO [#2] Load shedding
+https://g3doc.corp.google.com/production/uniformity/g3doc/library/service/load-shedding-principles.md?cl=head
+* TODO [#2] Functional programming patterns and methods
+:PROPERTIES:
+:CREATED: [2022-12-07 Wed 11:11]
+:END:
+
+- Map
+- Reduce
+- Filter
+* TODO [#2] Copyleft
+:PROPERTIES:
+:CREATED: [2022-12-07 Wed 13:32]
+:END:
+* TODO [#2] Lame duck behavior
+:PROPERTIES:
+:CREATED: [2022-12-08 Thu 13:36]
+:END:
+* TODO [#2] What is a servlet?
+:PROPERTIES:
+:CREATED: [2022-12-08 Thu 13:39]
+:END:
+* TODO [#2] Big five personality traits; one page for each of them
+:PROPERTIES:
+:CREATED: [2022-12-08 Thu 14:52]
+:END:
+* TODO [#2] What is ReactiveX? What are the observer and iterator patterns?
+:PROPERTIES:
+:CREATED: [2022-12-10 Sat 10:19]
+:END:
+* TODO [#2] How does authentication work; oauth2 for example?
+:PROPERTIES:
+:CREATED: [2022-12-16 Fri 09:43]
+:END:
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+* TODO [#2] Note idea: Work smart /and/ work hard
+:PROPERTIES:
+:CREATED: [2022-12-20 Tue 15:35]
+:END:
+
+- Cultivate a personal mindset wherein it's "cool" to try and "cool" to work hard
+- Surround yourself with like-minded people (some startup-adjacent article mentioning the people you surround yourself with shape you and can either lift or drag you)
+- Don't fall for the trap of working smart and not working hard because it's necessary to do both to reach as far as you can reach
+  - Why do you want to reach so far? After all, it's a lot of work. [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]], but also enthusiasm and curiosity and all the good reasons too.
+* TODO [#2] P, NP, etc
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 07:59]
+:END:
+* TODO [#2] Graph traversal and [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path algorithm]] which pre-process the graph
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:31]
+:END:
+* TODO [#2] Effective reading / How to read
+:PROPERTIES:
+:CREATED: [2022-12-24 Sat 09:17]
+:END:
+
+- [cite:@puruggananHowReadScientificArticle2004]
+- [cite:@keshavHowReadPaper]
+- [[id:52512c4c-d011-4cca-afd5-87db8442f9c3][Mortimer Jerome Adler, Charles Van Doren | How to Read a Book]]
+* TODO [#2] What is the Montessori way?
+:PROPERTIES:
+:CREATED: [2022-12-24 Sat 15:56]
+:END:
+* TODO [#2] What is direct instruction?
+:PROPERTIES:
+:CREATED: [2022-12-24 Sat 15:56]
+:END:
+
+http://journals.sagepub.com/doi/abs/10.3102/0034654317751919?journalCode=rera
+* TODO [#2] https://www.goodelephant.com/recent-work.html
+:PROPERTIES:
+:CREATED: [2022-12-27 Tue 20:57]
+:END:
+* TODO [#2] Note: Notes on the Synthesis of Form by Chrisopher Alexander
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:15]
+:END:
+* TODO [#2] [cite:@meadowsThinkingSystemsPrimer2008]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:16]
+:END:
+* TODO [#2] [cite:@stanleyWhyGreatnessCannotBePlannedMythObjective2015]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:17]
+:END:
+* TODO [#2] [cite:@Cybernetics2023]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:18]
+:END:
+* TODO [#2] Tools for Conviviality, Ivan Illich
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:22]
+:END:
+* TODO [#2] How buildings learn by Stweart Brand
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:25]
+:END:
+* TODO [#2] [cite:@ShearingLayers2021]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:26]
+:END:
+* TODO [#2] [cite:@woodsBasicPatternsHowAdaptiveSystemsFail2011]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:32]
+:END:
+* TODO [#2] [cite:@PatternsGordonBrander]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:39]
+:END:
+* TODO [#2] [cite:@WorldGDPLastTwoMillennia]; [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:41]
+:END:
+* TODO [#2] [cite:@blechmanSciFiAuthorMyBookInventedTormentNexusCautionaryTaleTech2021]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:45]
+:END:
+* TODO [#2] [cite:@ThreadTivadarDankaThreadReaderApp], [cite:@dankaBeholdOneMightiestToolsMathematicsCamelPrincipleAmDeadSerious2022]
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 10:50]
+:END:
+* TODO [#2] [cite:@hickelWantTellYouStory]
+:PROPERTIES:
+:CREATED: [2023-01-03 Tue 08:08]
+:END:
+* TODO [#2] [cite:@neededEpisode157HowCultureWarsLabelObscuresTrivializesLifeandDeathPolitical2022]
+:PROPERTIES:
+:CREATED: [2023-01-03 Tue 08:10]
+:END:
+* TODO [#2] [cite:@mollickReadThesePages]
+:PROPERTIES:
+:CREATED: [2023-01-03 Tue 08:11]
+:END:
+* TODO [#2] https://probml.github.io/pml-book/book2.html
+* TODO [#2] https://t.co/cMHeaFnEDM
+* TODO [#2] https://mobile.twitter.com/jamesclear/status/1047643455722283009?lang=en
+* TODO [#2] https://web.archive.org/web/20210825163445/https://www.sevenpipes.com/blog/themes-in-dune-part-1-terrible-purpose
+* TODO [#2] https://web.archive.org/web/20221223155045/https://www.sevenpipes.com/blog/themes-in-dune-part-2-plans-within-plans-within-plans
+* TODO [#2] https://commoncog.com/2022-commoncog-recap/
+* TODO [#2] https://commoncog.com/commonplace-newsletter-archives/
+* TODO [#2] Make It Clear: Speak and Write to Persuade and Inform
+* TODO [#2] How to evaluate a new city/area to see if you want to move there
+* TODO [#2] shibboleth
+* TODO [#2] bona fides
+* TODO [#2] James carth finite and infinite games
+https://www.ribbonfarm.com/series/mediocratopia/
+* TODO [#2] Debt to income
+* TODO [#2] Towards a New Socialism
+* TODO [#2] high-complexity low-cruelty society
+* TODO [#2] Keep a note titled "things I've changed my mind on"
+- MSG bad to MSG good
+- Omnivorism is natural and good for humans to omnivism is no longer necessary and, by my moral framework, bad
+- Learning is something you do at school and while you are of an age to go to school to learning something you do for your entire life and occurs in school, out of school, and is driven by the individual farm more than the institution
+- The world is driven by individuals to the world is driven by systems, and the people that are emergent properties of those system
+- There is a speed limit to there is no speed limit
+- What got you here won't get you there
+* TODO [#2] Misgosis; comfort crisis
+* TODO [#2] En media res
+* TODO [#2] https://edutechwiki.unige.ch/en/Main_Page
+* TODO [#2] https://www.armadilloclay.com/learning-center.html
+* TODO [#2] https://en.wikipedia.org/wiki/Psychohistory_(fictional)
+* TODO [#2] https://e2eml.school/transformers.html
+* TODO [#2] https://e2eml.school/blog.html
+* TODO [#2] Chomsky quote. "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views."
+- Culture war
+* TODO [#2] Bread and circuses
+* TODO [#2] depersonalizationn
+* TODO [#2] https://news.ycombinator.com/item?id=394609
+* TODO [#2] https://en.m.wikipedia.org/wiki/Hermeneutics
+* TODO [#2] For understanding Denise
+- Adult child syndrome
+- https://www.amazon.com/Complex-PTSD-Surviving-RECOVERING-CHILDHOOD-ebook/dp/B00HJBMDXK
+* TODO [#2] For understanding Laura Klapper
+- https://qr.ae/prnaZz
+* TODO [#2] Fermentation
+- https://www.goodreads.com/book/show/13598307-the-art-of-fermentation
+- https://www.goodreads.com/book/show/109800.Wild_Fermentation
+- https://www.goodreads.com/book/show/37590384-foundations-of-flavor
+- https://www.goodreads.com/book/show/30648724-fiery-ferments
+- https://www.goodreads.com/book/show/18490874-asian-pickles
+- https://www.goodreads.com/book/show/25614386-sourdough
+- https://www.goodreads.com/book/show/6453006-the-joy-of-pickling
+* TODO [#2] Ceramics
+- https://www.google.com/url?q=https://minjuandjeff.com/blog/open-studio-30-resources-for-the-self-taught-potter&sa=U&ved=2ahUKEwj2uKuo15b8AhUuGEQIHWCdDVYQFnoECAQQAg&usg=AOvVaw3OhRnKyItCeVXaGeBP0r5n
+* TODO [#2] https://en.m.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
+* TODO [#2] What song did Cayla and I walk down the aisle to? Pennies from heaven. What is the significance of pennies from heaven?
+* TODO [#2] The Overstory (book)
+* TODO [#2] Talking to people
+- FORD method
+- Open, conversation starting questions like: favorite meal to cook, etc
+* TODO [#2] https://news.ycombinator.com/item?id=2899692
+* TODO [#2] https://news.ycombinator.com/item?id=27798202
+* TODO [#2] https://news.ycombinator.com/item?id=20363297
+* TODO [#2] https://www.versobooks.com/
+* TODO [#2] https://news.ycombinator.com/item?id=29231936
+* TODO [#2] https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/
+* TODO [#2] https://m.youtube.com/watch?v=3oQTSP4FngY
+* TODO [#2] https://m.youtube.com/watch?v=1bNOO3xxMc0
+* TODO [#2] https://www.neelnanda.io/blog/43-making-friends
+* TODO [#2] https://news.ycombinator.com/item?id=27802233
+* TODO [#2] https://news.ycombinator.com/item?id=20023209
+* TODO [#2] https://en.wikipedia.org/wiki/Macrocognition
+* TODO [#2] https://notes.andymatuschak.org/Effective_system_design_requires_insights_drawn_from_serious_contexts_of_use
+* TODO [#2] https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems
+* TODO [#2] https://quillette.com/2018/09/25/forget-nature-versus-nurture-nature-has-won/
+* TODO [#2] Vocab
+- syllogisms
+- Municipal
+- Semiotics
+- Chutney
+* TODO [#2] https://www.gwern.net/Complement
+* TODO [#2] http://www.paulgraham.com/nerds.html
+* TODO [#2] https://poets.org/poem/do-not-go-gentle-good-night
+* TODO [#2] https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/
+- Language alone protects us from the scariness of things with no names. Language alone is meditation.
+* TODO [#2] bertrand russle in praise of idleness
+* TODO [#2] make hay while the sun's shining
+* TODO [#2] https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff
+* TODO [#2] https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
+* TODO [#2] https://www.flightfromperfection.com/archives.html
+* TODO [#2] https://news.ycombinator.com/item?id=34011293
+* TODO [#2] https://en.m.wikipedia.org/wiki/Neuroplasticity#Functional_neuroplasticity
+* TODO [#2] https://magicalchildhood.wordpress.com/2010/08/31/what-should-a-4-year-old-know/
+* TODO [#2] Essay on pedagogy for the purpose of informing leaves of the space of options available to them; in service to me in the past week didn't know about spaced repetition or taking advanced classes at the University (framing/signaling)
+* TODO [#2] On essays
+- https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=essay&sort=byPopularity&type=story
+* TODO [#2] What is robots.txt? Are there other related files?
+* TODO [#2] What is a nofollow link?
+* TODO [#2] What is a pathological personality?
+* TODO [#2] What is a psychopathic personality?
+* TODO [#2] https://en.wikipedia.org/wiki/Piss_Christ
+* TODO [#2] http://www.paulgraham.com/talk.html
+* TODO [#2] False consciousness
+- https://youtu.be/RNineSEoxjQ
+* TODO [#2] Reflecting listening
+- Reflect back what you heard
+* TODO [#2] Saw sharpening
+- Get better at doing a thing – meta
+- Using writing as an example: Don't just write more but reflect on your process and see how to improve it.
+* TODO [#2] Picking vs Fermenting
+* TODO [#2] What is vinegar? How to make?
+* TODO [#2] Why add salt to ferment/pickle?
+* TODO [#2] What is lacto fermentation. Are there other types?
+* TODO [#2] Rent seeking behavior
+* TODO [#2] Elisp/Lisp
+- Mapcar
+- letf
+- etc
+* TODO [#2] Dollar cost averaging
+* TODO [#2] Games where it is advantageous to pretend you are not playing the game
+- Writing a book: writing a book gets you access to speaking circuits. It is widely respected. You make money. All of these are things that are benefited by not coming out and saying this is why I'm writing the book. It is better, instead, to say that you are writing the book because you just had to get this idea out there. Even though there are other more concise, more shareable, more "open source information" types of ways to get that idea out there
+* TODO [#2] https://oishii-desu.com/2022/07/16/the-best-japanese-miso-brands-and-their-packaging-design-to-help-you-identify-them-in-the-market/amp/
+- Types of miso paste
+- Which to use for which purpose
+* TODO [#2] https://www.google.com/search?q=cf+abbreviation+meaning&oq=cf+abb&aqs=chrome.1.0i131i433i512j0i512j69i57j0i512l6.2772j0j7&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8
+* TODO [#2] Cult of the operating ratio news brief Biden congressional Democrats
+- Mouse trap business
+* TODO [#2] https://news.ycombinator.com/item?id=32430395
+* TODO [#2] Super determinism and many worlds
+* TODO [#2] https://www.sevenpipes.com/blog/themes-in-dune-part-1-terrible-purpose
+* TODO [#2] https://commoncog.com/deep-work/
+* TODO [#2] https://commoncog.com/start-here/#learning-better
+* TODO [#2] https://www.julian.com/blog/mental-model-examples
+* TODO [#2] https://critter.blog/2022/04/22/write-a-letter/
+* TODO [#2] https://www.julian.com/blog/storytelling
+* TODO [#2] https://www.julian.com/blog/life-planning
+* TODO [#2] https://en.wikipedia.org/wiki/Critical_path_method
+* TODO [#2] https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8?stackedNotes=z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS
+* TODO [#2] https://danluu.com/writing-non-advice/
+* TODO [#2] https://www.neelnanda.io/
+- https://www.neelnanda.io/blog/29-meaningful-rest
+- https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest
+- http://benjaminrosshoffman.com/sabbath-hard-and-go-home/
+* TODO [#2] https://thezvi.wordpress.com/2017/08/26/play-in-hard-mode/
+* TODO [#2] http://bastiat.org/en/twisatwins.html
+* TODO [#2] https://en.m.wikipedia.org/wiki/Parable_of_the_broken_window
+* TODO [#2] https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu
+* TODO [#2] https://notes.andymatuschak.org/z8AfCaQJdp852orumhXPxHb3r278FHA9xZN8J
+* TODO [#2] https://notes.andymatuschak.org/Beware_automatic_import_into_the_reading_inbox
+* TODO [#2] http://from-ai-to-zombies.eu/
+* TODO [#2] https://michaelnotebook.com/projects.html
+* TODO [#2] Teaching children sign language as babies for communication
+* TODO [#2] https://www.goodreads.com/quotes/102359-when-you-see-a-good-move-look-for-a-better
+* TODO [#2] https://youtu.be/BKP1I7IocYU?t=142
+- Instrumental versus free play
+- Instrumental play related to metagame
+* TODO [#2] https://acoup.blog/resources-for-teachers/
+- https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization
+* TODO [#2] https://pinchofyum.com/vegan-crunchwrap But what is a convolution?
+* TODO [#2] https://larrysanger.org/wp-content/uploads/2010/12/How-and-Why-I-Taught-My-Toddler-to-Read.pdf
+* TODO [#2] https://samkriss.substack.com/p/the-internet-is-already-over
+* TODO [#2] https://en.wikipedia.org/wiki/Goodhart%27s_law
+* TODO [#2] https://en.wikipedia.org/wiki/Span_of_control
+* TODO [#2] https://www.overcomingbias.com/2019/09/stamina-succeeds.html
+* TODO [#2] https://en.m.wikipedia.org/wiki/LU_decomposition
+* TODO [#2] Modem
+* TODO [#2] Router
+* TODO [#2] Trivet
+* TODO [#2] https://danluu.com/nothing-works/
+* TODO [#2] https://www.barbellmedicine.com/blog/resistance-training-for-the-youth-population/
+* TODO [#2] https://en.wikipedia.org/wiki/Modern_Monetary_Theory
+* TODO [#2] https://news.ycombinator.com/item?id=29515882
+* TODO [#2] https://en.m.wikipedia.org/wiki/Thieves%27_cant
+* TODO [#2] https://www.reddit.com/r/learnmachinelearning/comments/z0dyny/are_mathematicians_doomed/
+* TODO [#2] https://en.m.wikipedia.org/wiki/Mere-exposure_effect
+* TODO [#2] The Machiavellians, and The Managerial Revolution
+* TODO [#2] Public Choice Theory and the Illusion of Grand Strategy
+* TODO [#2] Humint, sigint, etc
+* TODO [#2] tuberculosis
+* TODO [#2] Monograph
+* TODO [#2] NSAID
+- What it stands for
+- Common types
+* TODO [#2] Ascetametophin aka paracetamol
+- What is it if not an NSAID
+* TODO [#2] Child development stages and their related ages
+* TODO [#2] How to teach children
+-Play driven learning
+-So when the child is frustrated; they learn better when they want to learn and avoid reinforcing negative opinions of the subject or of learning in general
+* TODO [#2] What to teach children, and when
+- Authority figures are fallible and should be questioned
+  - They often don't like it when you question them
+- Topics
+  - Math
+    - Statistics
+  - Computer science
+  - Reading
+  - Art
+- Mindset
+  - Grit
+  - Growth mindset, the first lesson, love of learning
+  - Curiosity
+  - Joy of working with a problem/question
+  - Delayed gratification
+- Body, fitness, flexibility, coordination
+- Social skills
+* TODO [#2] Cybernetics
+- What is Cybernetics? Conference by Stafford Beer
+- https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does
+* TODO [#2] Kangaroo court
+* TODO [#2] https://en.wikipedia.org/wiki/Semiotics
+* TODO [#2] https://en.wikipedia.org/wiki/Seeing_Like_a_State
+* TODO [#2] Python ordered dictionary
+* TODO [#2] Can a priority queue be distributed to scale across more than one machine? External memory algorithm
+* TODO [#2] Imperative vs declarative
+* TODO [#2] https://en.m.wikipedia.org/wiki/Precautionary_principle
+* TODO [#2] Normalized vs denormalized
+* TODO [#2] Is homework effective?
+* TODO [#2] https://mobile.twitter.com/emollick/status/1588691459741745153
+* TODO [#2] https://complexityexplained.github.io/
+* TODO [#2] https://en.m.wikipedia.org/wiki/Illusory_truth_effect#:~:text=The%20illusory%20truth%20effect%20(also,Villanova%20University%20and%20Temple%20University.
+* TODO [#2] https://tivadardanka.com/book
+* TODO [#2] Redis
+* TODO [#2] noSQL
+* TODO [#2] SQL
+* TODO [#2] router vs modem
+* TODO [#2] Embrace extend extinguish
+* TODO [#2] https://gotheborg.com/glossary/jiggerandjolly.shtml
+* TODO [#2] Terraform watch worlds burn collection of short stories
+* TODO [#2] Is microwave bad?
+* TODO [#2] https://www.julian.com/blog/mental-model-examples
+* TODO [#2] Variance, statistics in general
+* TODO [#2] https://marshallbrain.com/manna1
+* TODO [#2] https://en.m.wikipedia.org/wiki/Kettle_logic#:~:text=Kettle%20logic%20(la%20logique%20du,are%20inconsistent%20with%20each%20other.
+* TODO [#2] https://en.m.wikipedia.org/wiki/Method_of_loci
+* TODO [#2] https://en.m.wikipedia.org/wiki/17776
+* TODO [#2] Add vegan recipes Reddit to inoreader
+* TODO [#2] Active listening techniques and examples: "Don't just do something, stand there" john green
+* TODO [#2] Node for science of discomfort
+* TODO [#2] https://slatestarcodex.com/2013/05/06/raikoth-laws-language-and-society/
+* TODO [#2] https://slatestarcodex.com/2014/03/01/searching-for-one-sided-tradeoffs/
+* TODO [#2] https://slatestarcodex.com/2013/03/03/reactionary-philosophy-in-an-enormous-planet-sized-nutshell/
+- https://unqualifiedreservations.wordpress.com/2007/05/20/the-magic-of-symmetric-sovereignty/
+* TODO [#2] https://www.lesswrong.com/posts/MzKKi7niyEqkBPnyu/your-cheerful-price
+* TODO [#2] https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/
+* TODO [#2] https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
+* TODO [#2] Node: Stay sharp through practice (https://old.reddit.com/r/PublicFreakout/comments/y0cg3w/van_lathan_goes_off_on_kanye_west/irrlvze/)
+* TODO [#2] Compressive sensing
+* TODO [#2] Information theory
+* TODO [#2] Control theory
+* TODO [#2] Game theory
+* TODO [#2] Optimization (math)
+* TODO [#2] Bulberism
+* TODO [#2] El nino, la Nina
+* TODO [#2] Fail open and fail closed
+* TODO [#2] https://www.commonwealmagazine.org/three-cheers-socialism
+* TODO [#2] Missing middle
+- https://news.ycombinator.com/item?id=33039643
+* TODO [#2] Hydroxide is anti-inch, antihistamine
+* TODO [#2] What is an antihistamine? What is a histamine?
+* TODO [#2] How to model education behavior for your children. How to make learning fun and a normal part of not just their young life but their entire life.
+* TODO [#2] Can you unlearn motion sickness; how to prevent motion sickness in children in cars
+* TODO [#2] Marinated tempeh to taste like bacon; freeze for longevity and convenience
+* TODO [#2] https://lovelygreens.com/how-to-make-diy-ollas-low-tech-self-watering-systems-for-plants/
+* TODO [#2] Irony poisoning
+* TODO [#2] The half life of caffeine
+* TODO [#2] https://www.sciencedirect.com/science/article/pii/S2352721821000309
+* TODO [#2] Linear thinker
+* TODO [#2] Global thinker
+* TODO [#2] sea change
+* TODO [#2] Never underestimate the power of feeling like a part of something.
+* TODO [#2] Clandestine
+* TODO [#2] Love is not just looking at each other, it is looking in the same direction
+* TODO [#2] Simulation vs Simulacra
+* TODO [#2] Incremental reading
+- Implement cards blocking other cards
+- Convert all headings in unread.org to flashcards tagged with "to_read"
+- Create context for cards tagged with to read
+- Create context for cards not tagged with to read which sorts randomly, but in priority order. Random within the same priority tier that is
+- Workflow would be: start reviewing two_read flashcards. For each one, create new roam node from citation, refile flash card into new node, Read the piece and create flashcards, when done with this reading session Mark all flash cards as blocking the to read flash card (helper function scans Current buffer for headings tagged to_read and suggests for completing read), increment priority of to read flashcard by one
+* TODO [#2] Is there a phrase that describes the inappropriate individualizing of systemic problems? I thought about this in the context of citations needed episode 166. They discuss education specifically. It's propagandisement as a great equalizer. Pursuing an education is a fantastic individual strategy to increase earning potential. However, systemically, one cannot say that everything can be solved by giving people more education. That is definitely part of a solution. More education is a great thing after all. However, the episode focuses on the rhetoric around providing education as a panacea against poverty, where it is one of many things that need to be done to alleviate poverty. It is the twisting of something that's a great idea for an individual, however, is not wholly representative of a good systemic strategy.
+* TODO [#2] Half life of caffeine
+* TODO [#2] Basics of plumbing
+* TODO [#2] Basics of HVAC
+* TODO [#2] Basics of Electrician
+* TODO [#2] Basics of construction
+* TODO [#2] Stages of building a home
+* TODO [#2] https://www.natemeyvis.com/index.html
+* TODO [#2] https://danluu.com/wat/
+* TODO [#2] What are thermal bridges, specifically in the context of building construction?
+* TODO [#2] How does air conditioning work?
+* TODO [#2] How does a heart pump work?
+* TODO [#2] Passive house
+* TODO [#2] https://www.chrisbehan.ca/posts/Ideas-I-live-by
+* TODO [#2] presentiment
+* TODO [#2] Seven Kill Stele
+* TODO [#2] https://i.redd.it/ekf7m24v5ck91.jpg
+* TODO [#2] Yak shaving
+* TODO [#2] More dakka
+* TODO [#2] Sardonic
+* TODO [#2] Take time to answer, give time to think
+- https://mobile.twitter.com/nevmed/status/1476258800105660429
+* TODO [#2] Add reserve person birthdate
+* TODO [#2] Ensure both breath and depth first search have worst case of |V+E|
+* TODO [#2] Level order reversal
+* TODO [#2] Predominance versus dominance
+* TODO [#2] Valar morgules/dohaires nodes
+* TODO [#2] Mathjax macro for transpose
+* TODO [#2] Denotes the de-meaned vector
+* TODO [#2] Sitting method used in Python: Timsort
+* TODO [#2] Quicksort has an average time complexity of n log. N and a worst case time complexity of n squared
+* TODO [#2] https://en.m.wikipedia.org/wiki/The_Resurrection_(Fazzini)
+* TODO [#2] https://www.google.com/search?q=there+is+no+reason+to+be+alive+if+you+can%27t+do+deadlift&oq=there+is+no+reason+to+be+alive&aqs=chrome.1.69i57j0i512l2j0i22i30l6.6000j0j7&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8
+* TODO [#2] Bash how to iterate over array
+* TODO [#2] Bash array length
+* TODO [#2] Description of how I use emacs, roam, and Anki
+* TODO [#2] https://en.wikipedia.org/wiki/Escalation_of_commitment
+* TODO [#2] working to rule
+* TODO [#2] Neologism
+* TODO [#2] Logit function
+* TODO [#2] Types of clay
+- Earthenware
+- Porcelaine
+- Stoneware
+- Bone china
+* TODO [#2] How much clay to throw an 8 oz coffee cup
+* TODO [#2] How much play to throw an espresso cup
+* TODO [#2] How much clay to throw a small, medium, large bowl
+* TODO [#2] Expecting Short Inferential Distances - LessWrong
+* TODO [#2] Individual cards for Socratic questioning categories
+* TODO [#2] https://www.poetryfoundation.org/poems/51642/invictus
+* TODO [#2] Combine sparse matrix and vector cards
+* TODO [#2] https://www.wikiart.org/en/mark-rothko/no-14-1960
+* TODO [#2] Parenting
+- Julia Leonard and child confidence through letting them figure things out and struggle so they learn they're capable of solving problems
+- Emotional contagion: make those around you X by being X yourself
+- https://news.ycombinator.com/item?id=13726395
+- https://news.ycombinator.com/item?id=20367432
+- The first lesson
+- https://www.chrisbehan.ca/posts/killing-your-child-softly
+- https://news.ycombinator.com/item?id=32602181
+- https://www.lesswrong.com/tag/parenting
+- Biodeterminist's Guide to Parenting
+  - https://astralcodexten.substack.com/p/obscure-pregnancy-interventions-much
+  - https://www.reddit.com/r/slatestarcodex/comments/q9einm/updates_to_biodeterminists_guide_to_parenting/
+- Sleep
+  - https://www.reddit.com/r/ScienceBasedParenting/comments/ts8405/interesting_article_from_bbc_what_really_happens/
+  - https://www.reddit.com/r/ScienceBasedParenting/comments/k1hdzu/were_grossly_misled_about_normal_infant_sleep/
+- https://www.reddit.com/r/ScienceBasedParenting/comments/eiqq3k/lpt_using_positive_language_with_toddlers_please/
+- https://www.reddit.com/r/ScienceBasedParenting/comments/n3u548/notes_on_the_science_of_childcare/
+- https://www.reddit.com/r/tumblr/comments/wujluk/so_fuckin_true/
+* TODO [#2] https://www.npr.org/2019/08/30/756028025/episode-937-moving-to-opportunity
+- https://www.opportunityatlas.org/it
+* TODO [#2] Dear Hank& John 313 committing to the bit is a virtue
+* TODO [#2] Cross counter
+* TODO [#2] Coordinate vector equivalence inverse basis times vector
+* TODO [#2] Annealing
+* TODO [#2] Examples of the map is not the territory
+* TODO [#2] How to use a semicolon
+* TODO [#2] Lilac
+* TODO [#2] Rose
+* TODO [#2] Gardenia
+* TODO [#2] Daphne
+* TODO [#2] https://www.reddit.com/r/Futurology/comments/wp1ege/much_of_the_us_will_be_an_extreme_heat_belt_by/
+* TODO [#2] https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+- The Domain and Path attributes define the scope of a cookie: what URLs the cookies should be sent to.
+* TODO [#2] Describe the types of attachment
+* TODO [#2] Compare and contrast different types of attachment
+* TODO [#2] Describe tsuyuko naraitai
+* TODO [#2] Compare and contrast theory of action and theory of change
+* TODO [#2] Compare and contrast codomain and image of a function
+* TODO [#2] https://mobile.twitter.com/noupside/status/1406326800133754886
+- https://hapgood.us/2021/06/12/participatory-propaganda-tropes-and-trope-field-fit-part-one/
+* TODO [#2] http://www.paulgraham.com/submarine.html
+* TODO [#2] https://www.poetryfoundation.org/poetrymagazine/articles/60484/the-third-thing
+* TODO [#2] Semantic satiation
+* TODO [#2] Have a code that you live by
+- I find i have heater freedom when I'm following my code. I may not feel it in each moment when I may compel myself to do this or that. I feel the freedom in the moments I don't follow my code and am compelled by the world to do this or that, YouTube etc, and I look up to notice the daylight is gone – taken without my consent.
+* TODO [#2] Spqr
+* TODO [#2] Both sides have merit aka teach both sides
+- A phrase I see brought to bear more and more, and overwhelmingly regarding culture war topics. The big one, in my mind at least, used to be creationism and the Big Bang – that schools should teach both as equally powerful and correct.
+- Often wrong; only one side has merit.
+- Though not a phase at the time I first heard the phrase, the underlying rationale maps cleanly onto "alternative facts". Cultural matters aren't math insofar as there isn't an objective right answer. We live in a cold universe after all. However, we can make our part of the universe warm (related, moloch and gardens). We can decide that slavery (yes I'm going for the emotionally resonant examples because I find that's what they're used with most often) is abhorrent.
+- Related to "This is a matter for the states" only when a nation-wide federal/judicial-level policy isn't possible.
+- Related to "The science/jury is still out"; we're right, so if the evidence doesn't bear that out then we clearly aren't fine collecting evidence and arguing – especially arguing.
+* TODO [#2] https://en.wikipedia.org/wiki/Missing_stair
+* TODO [#2] Carpe futura
+* TODO [#2] Level order search
+* TODO [#2] The word bear derives from a term that we think was used in the style of Voldemort to talk about a thing without using its true name; honey eaters
+* TODO [#2] Odd finding have rotational symmetry
+* TODO [#2] Even functions have mirror symmetry
+* TODO [#2] Avg(v) = 1/n * 1 t v
+* TODO [#2] Python list indexing cloze for names [start:end:step]
+* TODO [#2] P(A U B) equivalence
+* TODO [#2] Centering matrix equivalence
+* TODO [#2] Suspend Name to Letter NATO phonetic alphabet
+* TODO [#2] What is the determinant?
+* TODO [#2] More Python list indexing examples
+* TODO [#2] Python standard functions, like reverse()
+* TODO [#2] How to read from a file in Python
+* TODO [#2] How to write to a file in Python
+* TODO [#2] Breadth first search uses a queue
+* TODO [#2] Depth first search uses a stack
+* TODO [#2] Sista soldier moment
+* TODO [#2] Manufacturing consent
+* TODO [#2] Cookies vs Local storage
+* TODO [#2] Browser local storage
+* TODO [#2] `this` in Javascript
+* TODO [#2] Semiotics
+* TODO [#2] The inverse of the logistic finding is the logit function
+* TODO [#2] Vector length definition
+* TODO [#2] Angles in vector spaces definition cos (theta) = and theta =
+* TODO [#2] Dialectical
+* TODO [#2] Materialism
+* TODO [#2] NATO alphabet
+* TODO [#2] Abstract data type is to API as data structure is to implementation
+* TODO [#2] Reevaluate algorithm card notes for bubble sort
+* TODO [#2] Images for bias and variance
+* TODO [#2] Four fundamental spaces in linear algebra
+* TODO [#2] Graph of
+- X^2, 3, 4, 5
+- 1/x^2,3
+- Square root of x
+- Arccos
+- Arctan
+- Arcsin
+* TODO [#2] Arccos, arcsin, arctan
+* TODO [#2] This is the dream time: tech companies profits are aligned with maintaining the mental and spiritual health of their employee. Partly because the employee could go elsewhere for that kind of thing because it is now in Vogue. However, it is in Vogue because a happy employee who identifies with the company who is spiritually fulfilled produce more than employees who lack these things. And it isn't a small magnifying effect. It's a huge magnifying effect. The employees, the knowledge workers, are the asset of the company. Maintaining their mental and spiritual health is the new form of mechanization or offshoring. This kind of thing will be dropped the moment it becomes unprofitable, as moloch demands. 22:00 https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjAwNzgzNTY2L3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTI2NjcxNzI3MQ?ep=14
+* TODO [#2] https://news.ycombinator.com/item?id=32053175 related to inability to sit in a room alone
+* TODO [#2] Examples of dynamical systems
+* TODO [#2] Powerlifting
+* TODO [#2] Avoid using the passive voice
+* TODO [#2] Add underlines to links on cashweaver.com
+* TODO [#2] Investigate possible duplicates, staying with Bubble sort
+* TODO [#2] What's up with two cards asking for the steps to bubble sort in a different way?
+* TODO [#2] What's up with a card for implementation of bubble sort in Python. That is just a link
+* TODO [#2] Fix color on phone: https://www.reddit.com/r/Anki/comments/dwx71r/need_help_with_ankidroid_night_mode_css/
+* TODO [#2] "We are what we pretend to be, so we must be careful about what we pretend to be." - Kurt Vonnegut, Mother Night
+* TODO [#2] Net vs gross
+* TODO [#2] Big pie represents the product in the same way big sigma represents the sum
+* TODO [#2] commensalism
+* TODO [#2] https://www.goodreads.com/quotes/8146477-what-is-necessary-after-all-is-only-this-solitude-vast
+* TODO [#2] https://www.reddit.com/r/4chan/comments/5ofih3/beforeafter_the_internet/
+* TODO [#2] This is the dreamtime as related to the carrying capacity of an environment and the lack of fighting/stress/etc necessary when the carrying capacity is much higher than the population size. The dreamtime is the time in which we have yet to hit our carrying capacity.
+* TODO [#2] HTTP status codes
+- Individually (e.g. 404)
+- Group (e.g. 4xx)
+* TODO [#2] Cookies in the browser. Their whole lifecycle. Applications
+* TODO [#2] https://www.goodreads.com/quotes/7870768-never-believe-that-anti-semites-are-completely-unaware-of-the-absurdity
+* TODO [#2] Upper triangular
+* TODO [#2] Lower triangular
+* TODO [#2] Definition of L-Max, p-Max, ||x||\infty
+* TODO [#2] Sativa vs Indica
+* TODO [#2] Baby stages, ages, to help understand how old children
+* TODO [#2] How to talk to children at different ages
+* TODO [#2] Unit conversions
+- Number of ounces in a cup
+- Number of ounces in a liter
+- Number of grams in a pound
+Fahrenheit to Celsius and back
+* TODO [#2] pitched battle
+* TODO [#2] But doctor, I am pagliachi
+* TODO [#2] Coordinate vector = inverse basis * vector
+* TODO [#2] https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm
+* TODO [#2] Python list syntax [::-1] for reverse order
+* TODO [#2] Python default argument values with type (foo(cat:int=4)
+* TODO [#2] Positive freedoms
+* TODO [#2] Negative freedoms
+* TODO [#2] https://soundcloud.com/citationsneeded/news-brief-bidens-dictator (transcript on https://citationsneeded.medium.com/ eventually)
+* TODO [#2] https://jvns.ca/blog/so-you-want-to-be-a-wizard/
+* TODO [#2] https://jvns.ca/blog/good-questions/
+* TODO [#2] https://jvns.ca/blog/2016/09/19/getting-things-done/
+* TODO [#2] https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
+* TODO [#2] https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/
+* TODO [#2] The man in the arena is the one that counts
+* TODO [#2] Angle between two vectors is arccos(...)
+* TODO [#2] The length of a vector, a, is the square root of a\cdot a
+* TODO [#2] n(n+1)/2
+* TODO [#2] https://dearhankandjohnshortpoems.tumblr.com/
+* TODO [#2] Location of major cities in California
+- Concord
+- Petaluma
+- San Jose
+- San Francisco
+- Sacramento
+- Stockton
+- Truckee
+- Chico
+- Fresno
+- Bakersfield
+- Los Angeles
+- San Diego
+- Redding
+* TODO [#2] Read The Art of Strategy: A Game Theorist's Guide to Success in Business and Life
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 19:41]
+:END:
+* TODO [#2] Create timeline / date cards for major events in recent history
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 07:43]
+:END:
+
+- Wars
+  - World war 1
+  - World war 2
+- Berlin wall went up and when it went down
+* TODO [#2] [cite:@Nino2023], [cite:@Nina2023], [cite:@NinoSouthernOscillation2022]
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 10:44]
+:END:
+* TODO [#2] [cite:@Mines2018]
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 11:06]
+:END:
+* TODO [#2] [cite:@KolmogorovOption2017], https://news.ycombinator.com/item?id=14966002
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 11:14]
+:END:
+* TODO [#1] [cite:@kuhnStaringAbyssCoreLifeSkill]
+:PROPERTIES:
+:CREATED: [2023-01-11 Wed 20:58]
+:END:
+* TODO [#2] [cite:@TwelveLeveragePoints2021]
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 11:23]
+:END:
+* TODO [#2] https://www.goodreads.com/quotes/7870768-never-believe-that-anti-semites-are-completely-unaware-of-the-absurdity
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 15:15]
+:END:
+* TODO [#1] https://old.reddit.com/r/slatestarcodex/comments/3sjtar/a_robin_hanson_primer/
+:PROPERTIES:
+:CREATED: [2023-01-15 Sun 11:03]
+:END:
+* TODO [#1] https://thezvi.wordpress.com/2017/11/27/you-have-the-right-to-think/
+:PROPERTIES:
+:CREATED: [2023-01-15 Sun 11:04]
+:END:
+* TODO [#1] https://slatestarcodex.com/2016/02/04/book-review-superforecasting/
+:PROPERTIES:
+:CREATED: [2023-01-15 Sun 11:04]
+:END:
+* TODO [#1] https://meltingasphalt.com/social-status-down-the-rabbit-hole/
+:PROPERTIES:
+:CREATED: [2023-01-15 Sun 11:04]
+:END:
+* TODO [#2] beta test, de-risk, non-fiction writing book using blog posts as way of gauging interest and engagement
+:PROPERTIES:
+:CREATED: [2023-01-22 Sun 09:21]
+:END:
+* TODO [#2] [cite:@apprehensiveshock655WhatWorstPartHavingChild2023] :parenting:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 08:02]
+:END:
+* TODO [#2] [cite:@flipstablesDrunkPostThingsVeLearnedSrEngineer2021]
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 12:47]
+:END:
+* TODO [#2] [cite:@ReflectionsDecadeCoding]
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 12:47]
+:END:
+* TODO [#2] [cite:@vbtempSoberPostThingsVeLearnedDownlevelingMyCareer2021]
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 12:47]
+:END:
+* TODO [#2] https://betterexplained.com/guides/calculus/ :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:49]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=17474646 :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:49]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=16267178 :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:49]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=14161876 :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:49]
+:END:
+* TODO [#2] https://projects.iq.harvard.edu/stat110/home :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:50]
+:END:
+* TODO [#2] https://www.edx.org/course/introduction-to-probability :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:50]
+:END:
+* TODO [#2] https://betterexplained.com/calculus/lesson-1/ :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:50]
+:END:
+* TODO [#2] http://calculusmadeeasy.org/ :math:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:50]
+:END:
+* TODO [#1] https://eli.thegreenplace.net/tag/math :math:
+:PROPERTIES:
+:CREATED: [2023-02-16 Thu 19:49]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=34901571 :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-22 Wed 14:22]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=34816145 :career:
+:PROPERTIES:
+:CREATED: [2023-02-22 Wed 15:01]
+:END:
+* TODO [#2] [cite:@ross40HzBinauralBeatsEnhanceTrainingMitigateAttentionalBlink2020]
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 08:34]
+:END:
+[cite:@OnlineToneGenerator]
+* TODO [#2] [cite:@alexanderParableTalents2015]
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 18:50]
+:END:
+* TODO [#2] [cite:@48LawsPower2023]
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 19:31]
+:END:
+* TODO [#2] [cite:@StrongerScience]
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 19:50]
+:END:
+
+- [cite:@nuckolsHowBenchPressDefinitiveGuide]
+- [cite:@nuckolsHowSquatDefinitiveGuide]
+- [cite:@nuckolsHowDeadliftDefinitiveGuide]
+- [cite:@nuckolsCompleteStrengthTrainingGuide]
+- [cite:@nuckolsComprehensiveCoreTrainingGuide2023]
+* TODO [#2] [cite:@evansChronicleDeathForetold2022] :parenting:
+* TODO [#2] [cite:@oroszDropWhatYouReDoing] :career:
+* TODO [#2] [cite:@clearGreatTalksMostPeopleHaveNeverHeard]
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 10:53]
+:END:
+* TODO [#2] [cite:@dynomightArePersonalitiesJustBetter2021]
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 11:01]
+:END:
+* TODO [#2] [cite:@dynomightUnderratedReasonsBeThankful2021]
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 11:01]
+:END:
+* TODO [#2] [cite:@dynomightBetterAirQualityEasiestWayNot2021]
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 11:01]
+:END:
+* TODO [#2] [cite:@dynomightBigAlcoholStudyThatDidnHappenMyPrimalScreamRage2021]
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 11:01]
+:END:
+#+print_bibliography:
+* TODO [#2] [cite:@Shuhari2023]
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 12:43]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=32897784
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 14:25]
+:END:
+* TODO [#2] https://jamesclear.com/articles
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 14:32]
+:END:
+* TODO [#2] https://vetaro.wordpress.com/2022/08/14/i-read-all-of-slate-star-codex-heres-the-best-stuff/
+:PROPERTIES:
+:CREATED: [2023-03-04 Sat 08:05]
+:END:
+* TODO [#2] https://twitter.com/eriktorenberg/status/1244050977180618752?lang=en
+:PROPERTIES:
+:CREATED: [2023-03-04 Sat 08:05]
+:END:
+* TODO [#2] [cite:@alicornExpressiveVocabulary2018]
+:PROPERTIES:
+:CREATED: [2023-03-04 Sat 08:06]
+:END:
+#+print_bibliography:

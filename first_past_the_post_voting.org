@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       5842347b-87fb-4454-a1f9-e92c46a92a6d
+:ROAM_ALIASES: "Choose-one voting" "Single-member plurality voting" SMP FPP FPTP
+:LAST_MODIFIED: [2023-02-16 Thu 19:39]
+:END:
+#+title: First-past-the-post voting
+#+hugo_custom_front_matter: :slug "5842347b-87fb-4454-a1f9-e92c46a92a6d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-13 Fri 10:10]
+#+filetags: :concept:
+
+#+begin_quote
+In a first-past-the-post electoral system (FPTP or FPP),[1] formally called single-member plurality voting (SMP) when used in single-member districts or informally choose-one voting in contrast to ranked voting,[2] or score voting,[3] voters cast their vote for a candidate of their choice, and the candidate who receives the most votes wins even if the top candidate gets less than 50%, which can happen when there are more than two popular candidates.
+
+As a winner-take-all method, FPTP often produces disproportional results (when electing members of an assembly, such as a parliament) in the sense that political parties do not get representation according to their share of the popular vote. This usually favours the largest party and parties with strong regional support to the detriment of smaller parties without a geographically concentrated base.
+
+[cite:@FirstpastthepostVoting2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 10:37]
+:FC_CREATED: 2023-01-13T18:37:58Z
+:FC_TYPE:  double
+:ID:       53d75dc3-f410-418d-8098-1c5c51a8deb2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    40.58 | 2023-03-25T06:31:28Z |
+| back     | 2.65 |   5 |    42.53 | 2023-03-31T16:21:25Z |
+:END:
+
+[[id:5842347b-87fb-4454-a1f9-e92c46a92a6d][First-past-the-post voting]]
+
+*** Back
+Voting system in which voters cast a single vote for a single candidate. The winner is the candidate who receives a plurality of votes.
+*** Source
+[cite:@FirstpastthepostVoting2023]
+#+print_bibliography:

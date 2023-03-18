@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@lippmannBasicProblemDemocracy1919]
+:ID:       c3261b11-bf35-4ecd-b796-4157d766e7ed
+:DIR:      /home/cashweaver/proj/roam/attachments/c3261b11-bf35-4ecd-b796-4157d766e7ed
+:END:
+#+title: Walter Lippmann | The Basic Problem of Democracy
+#+hugo_custom_front_matter: :slug "c3261b11-bf35-4ecd-b796-4157d766e7ed"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 07:13]
+#+filetags: :reference:
+ 
+[[id:c75046ee-38c3-419b-8ab2-34ef718adade][Walter Lippman]], [cite:@lippmannBasicProblemDemocracy1919]
+
+* Summary
+
+A well written essay whose thesis eludes me.
+
+* Thoughts
+
+I expect one could find gold in this essay but I think I will instead read, as [[https://news.ycombinator.com/item?id=21896607][one commenter recommended]], "Goliath" by Matt Stoller.
+
+* Notes
+
+#+begin_quote
+If we substitute the word indifference for the word liberty, we shall come much closer to the real intention that lies behind the classic argument. Liberty is to be permitted where differences are of no great moment. It is this definition which has generally guided practice. In times when men feel themselves secure, heresy is cultivated as the spice of life. During a war liberty disappears as the as the community feels itself menaced. When revolution seems to be contagious, heresy-hunting is a respectable occupation. In other words, when men are not afraid, they are not afraid of ideas; when they are much afraid, they are afraid of anything that seems, or can even be made to appear, seditious. That is why nine tenths of the effort to live and let live consists in proving that the thing we wish to have tolerated is really a matter of indifference.
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

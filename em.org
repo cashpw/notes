@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       8e50c265-f020-4b20-bf7f-f7a3ce818bba
+:ROAM_ALIASES: Ems
+:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:END:
+#+title: Em
+#+hugo_custom_front_matter: :slug "8e50c265-f020-4b20-bf7f-f7a3ce818bba"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-15 Tue 09:00]
+#+filetags: :concept:
+
+Ems are copies of human minds which exist on computers in [[id:6d55a204-cace-464c-b771-66bd9af50ed0][Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-09-28 Wed 07:34]
+:FC_CREATED: 2022-09-28T14:35:10Z
+:FC_TYPE:  double
+:ID:       6dbf9c50-ad06-4d3a-83d7-66042fd03c76
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   7 |   162.93 | 2023-08-27T12:26:50Z |
+| back     | 2.80 |   6 |   121.94 | 2023-06-12T22:28:14Z |
+:END:
+
+[[id:8e50c265-f020-4b20-bf7f-f7a3ce818bba][Em]]
+
+*** Back
+Copies of human minds which exist on computers in [[id:6d55a204-cace-464c-b771-66bd9af50ed0][Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]].
+*** Source
+[cite:@hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016]
+#+print_bibliography:

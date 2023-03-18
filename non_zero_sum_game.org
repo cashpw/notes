@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       9f52c68a-3302-47bc-a4a4-3a4ff20d41be
+:LAST_MODIFIED: [2023-02-17 Fri 07:04]
+:END:
+#+title: Non-zero-sum game
+#+hugo_custom_front_matter: :slug "9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 10:51]
+#+filetags: :concept:
+
+#+begin_quote
+[...] non-zero-sum describes a situation [([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]])] in which the interacting parties' aggregate gains and losses can be less than or more than zero.
+
+[cite:@ZerosumGame2022]
+#+end_quote
+
+The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Example(s) ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:ID:       deaa9dc6-d6eb-4463-bef2-4b73222fc06b
+:ANKI_NOTE_ID: 1658599006657
+:FC_CREATED: 2022-07-23T17:56:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   147.93 | 2023-06-26T17:38:58Z |
+| back     | 1.75 |   6 |    40.78 | 2023-03-30T09:45:28Z |
+:END:
+[[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
+*** Back
+Payoffs
+
+- [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]]
+*** Source
+[cite:@ZerosumGame2022]
+** Definition ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:ID:       f04cb0af-969a-448e-8479-a24e40f7b8ca
+:ANKI_NOTE_ID: 1658599007332
+:FC_CREATED: 2022-07-23T17:56:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |   103.32 | 2023-04-05T21:57:55Z |
+| front    | 3.10 |   6 |   157.56 | 2023-06-12T04:18:44Z |
+:END:
+[[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
+*** Back
+A situation in which the player's aggregate gains and losses can be less than or more than zero. That is, one player's gain doesn't require an equivalent loss by one or more other players.
+*** Source
+[cite:@ZerosumGame2022]
+#+print_bibliography:

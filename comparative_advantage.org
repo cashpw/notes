@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f
+:LAST_MODIFIED: [2023-02-26 Sun 07:58]
+:END:
+#+title: Comparative advantage
+#+hugo_custom_front_matter: :slug "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-27 Thu 16:48]
+#+filetags: :concept:
+
+#+begin_quote
+Comparative advantage is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners.
+
+[cite:@WhatComparativeAdvantage]
+#+end_quote
+
+#+begin_quote
+In an economic model, agents have a comparative advantage over others in producing a particular good if they can produce that good at a lower relative opportunity cost or [[id:5d946894-c987-4bf3-9709-290fad48044c][Autarky]] price, i.e. at a lower relative marginal cost prior to trade. Comparative advantage describes the economic reality of the work gains from trade for individuals, firms, or nations, which arise from differences in their factor endowments or technological progress. (The absolute advantage, comparing output per time (labor efficiency) or per quantity of input material (monetary efficiency), is generally considered more intuitive, but less accurate — as long as the opportunity costs of producing goods across countries vary, productive trade is possible.)
+
+[cite:@ComparativeAdvantage2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:32]
+:FC_CREATED: 2022-10-28T20:39:39Z
+:FC_TYPE:  double
+:ID:       bb603a51-050d-4bfa-a1d1-af518244ebab
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   124.00 | 2023-06-15T00:27:31Z |
+| back     | 2.35 |   6 |    76.40 | 2023-05-12T13:30:45Z |
+:END:
+
+[[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]]
+
+*** Back
+One's ability to produce a given good or service in a more efficient and economically competitive manner than one's peers.
+*** Source
+[cite:@WhatComparativeAdvantage]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:41]
+:FC_CREATED: 2022-10-28T20:43:00Z
+:FC_TYPE:  double
+:ID:       b40eea7f-37bf-40c5-b1fd-5be097506b33
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   142.76 | 2023-07-19T10:07:40Z |
+| back     | 2.20 |   6 |    71.03 | 2023-04-29T15:43:08Z |
+:END:
+
+[[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]]
+
+*** Back
+
+- An attorney, with absolute advantage, who can earn $175/hour for legal work and $25/hour for secretarial work
+- A secretary who can earn $0/hour for legal work and $20/hour for secretarial work
+
+The attorney is better off hiring the secretary so they can focus on their [...]: legal work.
+*** Source
+[cite:@WhatComparativeAdvantage]
+#+print_bibliography:

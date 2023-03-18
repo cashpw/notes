@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       cd02a339-815c-4ada-b9f9-f0008db4684a
+:LAST_MODIFIED: [2023-03-02 Thu 08:10]
+:END:
+#+title: All-pairs shortest path problem
+#+hugo_custom_front_matter: :slug "cd02a339-815c-4ada-b9f9-f0008db4684a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 09:11]
+#+filetags: :concept:
+
+Find the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][shortest path]] between all pairs of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] in a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 09:12]
+:FC_CREATED: 2022-12-22T17:12:30Z
+:FC_TYPE:  double
+:ID:       985b3133-3d9d-4911-b399-3998cd24ca05
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    54.73 | 2023-04-08T10:05:02Z |
+| back     | 2.20 |   6 |    50.35 | 2023-04-19T13:22:42Z |
+:END:
+
+[[id:cd02a339-815c-4ada-b9f9-f0008db4684a][All-pairs shortest path problem]]
+
+*** Back
+Find the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][shortest path]] between all pairs of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] in a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]].
+*** Source
+[cite:@ShortestPathProblem2022]
+
+** Example(s) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-12-22T18:40:07Z
+:FC_TYPE:  double
+:ID:       19353c1e-b39c-4548-94ac-dd62d24d96bd
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    56.47 | 2023-04-24T03:12:53Z |
+| back     | 2.20 |   6 |    63.67 | 2023-05-05T08:12:04Z |
+:END:
+Solves the [[id:cd02a339-815c-4ada-b9f9-f0008db4684a][All-pairs shortest path problem]]
+
+*** Back
+- [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]]
+*** Source
+[cite:@FloydWarshallAlgorithm2022]
+#+print_bibliography:

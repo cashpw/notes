@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       5664432e-6bb3-4670-9669-08ee70b5ca6d
+:ROAM_REFS: [cite:@AgileSoftwareDevelopment2022]
+:LAST_MODIFIED: [2023-01-21 Sat 06:18]
+:END:
+#+title: Agile (Software development)
+#+hugo_custom_front_matter: :slug "5664432e-6bb3-4670-9669-08ee70b5ca6d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-27 Thu 16:32]
+#+filetags: :concept:
+
+#+begin_quote
+Based on their combined experience of developing software and helping others do that, the authors of the manifesto declared that they valued:
+
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
+That is to say, while both sides have value and the items on the right should be considered, the authors felt that the items on the left should have more influence on how people approach their work.
+
+As Scott Ambler explained:
+
+- Tools and processes are important, but it is more important to have competent people working together effectively.
+- Good documentation is useful in helping people to understand how the software is built and how to use it, but the main point of development is to create software, not documentation.
+- A contract is important but is no substitute for working closely with customers to discover what they need.
+- A project plan is important, but it must not be too rigid to accommodate changes in technology or the environment, stakeholders' priorities, and people's understanding of the problem and its solution.
+
+[cite:@AgileSoftwareDevelopment2022]
+#+end_quote
+
+#+begin_quote
+The Manifesto for Agile Software Development is based on twelve principles:
+
+1. Customer satisfaction by early and continuous delivery of valuable software.
+2. Welcome changing requirements, even in late development.
+3. Deliver working software frequently (weeks rather than months).
+4. Close, daily cooperation between business people and developers.
+5. Projects are built around motivated individuals, who should be trusted.
+6. Face-to-face conversation is the best form of communication (co-location).
+7. Working software is the primary measure of progress.
+8. Sustainable development, able to maintain a constant pace.
+9. Continuous attention to technical excellence and good design.
+10. Simplicity—the art of maximizing the amount of work not done—is essential.
+11. Best architectures, requirements, and designs emerge from self-organizing teams.
+12. Regularly, the team reflects on how to become more effective, and adjusts accordingly.
+
+[cite:@AgileSoftwareDevelopment2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 11:16]
+:FC_CREATED: 2022-10-28T18:18:39Z
+:FC_TYPE:  double
+:ID:       42b4cb2c-b9c8-4113-a7f5-d2e60f68557f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    86.42 | 2023-04-18T00:26:32Z |
+| back     | 2.50 |   6 |    79.22 | 2023-04-27T05:07:18Z |
+:END:
+
+[[id:5664432e-6bb3-4670-9669-08ee70b5ca6d][Agile (Software development)]]
+
+*** Back
+A set of guiding principles for how to manage software development teams which prioritizes (among other things):
+
+- working software
+- empowering individual contributors
+- flexibility to respond to changing requirements
+*** Source
+[cite:@AgileSoftwareDevelopment2022]
+#+print_bibliography:

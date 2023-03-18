@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       0b13cdf1-2678-420e-b919-4a349d4ef81a
+:ROAM_ALIASES: "First principles thinking"
+:LAST_MODIFIED: [2023-03-10 Fri 21:14]
+:END:
+#+title: Reasoning from first principles
+#+hugo_custom_front_matter: :slug "0b13cdf1-2678-420e-b919-4a349d4ef81a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 08:18]
+#+startup: overview
+#+filetags: :concept:
+
+#+begin_quote
+First principles thinking consists of deriving things to their fundamental proven axioms [[[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]]] in the given arena, before reasoning up by asking which ones are relevant to the question at hand, then cross referencing conclusions based on chosen axioms and making sure conclusions don't violate any fundamental laws.
+
+[cite:@FirstPrinciple2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       a18aed12-e2fa-4d78-9826-2dae61105089
+:ANKI_NOTE_ID: 1658447657906
+:FC_CREATED: 2022-07-21T23:54:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   232.46 | 2023-09-18T03:31:49Z |
+| back     | 2.20 |   8 |   204.01 | 2023-10-01T05:33:02Z |
+:END:
+
+[[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]
+
+*** Back
+A way of thinking which builds higher-order assertions from fundamental proven axioms.
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       58ab4577-8e7d-420a-866b-f557144181cd
+:ANKI_NOTE_ID: 1658447826332
+:FC_CREATED: 2022-07-21T23:57:06Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   322.48 | 2023-12-28T05:51:08Z |
+| back     | 2.80 |   7 |   204.86 | 2023-06-24T12:20:37Z |
+:END:
+
+[[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]
+
+*** Back
+- (1) All men are mortal, (2) Socrates is a man, \(\therefore\) Socrates is mortal
+- Developing an original play in American football
+- Reviewing the financial fundamentals of a company rather than listening to pundits
+** [[id:cf0460b7-46c5-4107-9044-5e04d147bdd4][Compare and contrast]]
+#+print_bibliography:

@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3
+:ROAM_REFS: [cite:@SubsetSumProblem2023]
+:LAST_MODIFIED: [2023-03-18 Sat 06:31]
+:END:
+#+title: Subset sum problem
+#+hugo_custom_front_matter: :slug "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-31 Tue 07:30]
+#+filetags: :concept:
+
+#+begin_quote
+The subset sum problem (SSP) is a decision problem [[[id:53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82][Decision problem]]] in computer science. In its most general formulation, there is a multiset [[[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]]] $S$ of integers and a target-sum $T$, and the question is to decide whether any subset of the integers sum to precisely $T$. The problem is known to be NP-hard. Moreover, some restricted variants of it are NP-complete too, for example:
+
+- The variant in which all inputs are positive.
+- The variant in which inputs may be positive or negative, and $T=0$. For example, given the set $\{-7,-3,-2,9000,5,8\}$, the answer is yes because the subset $\{-3,-2,5\}$ sums to zero.
+- The variant in which all inputs are positive, and the target sum is exactly half the sum of all inputs, i.e., $T=\frac {1}{2}}(a_{1}+\dots +a_{n})$ . This special case of SSP is known as the partition problem.
+
+SSP can also be regarded as an optimization problem: find a subset whose sum is at most T, and subject to that, as close as possible to T. It is NP-hard, but there are several algorithms that can solve it reasonably quickly in practice.
+
+SSP is a special case of the knapsack problem [[[id:24b10601-c88f-46fc-bbf9-3f7687c2d2ba][Knapsack problem]]] and of the multiple subset sum problem.
+
+[cite:@SubsetSumProblem2023]
+#+end_quote
+
+* [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]] time [[id:48e26e71-a0e3-4086-99f2-53e2fa6f7fc8][Dynamic programming]] solution
+
+** Algorithm
+
+#+begin_quote
+SSP can be solved in pseudo-polynomial time using dynamic programming. Suppose we have the following sequence of elements in an instance:
+
+$x_{1},\ldots ,x_{N}$
+
+We define a state as a pair $(i, s)$ of integers. This state represents the fact that
+
+"there is a nonempty subset of $x_{1},\ldots ,x_{i}$ which sums to $s$."
+
+Each state $(i, s)$ has two next states:
+
+1. $(i+1, s)$, implying that $x_{i+1}$ is not included in the subset
+2. $(i+1, s+ x_{i+1})$, implying that $x_{i+1}$ is included in the subset
+
+Starting from the initial state $(0, 0)$, it is possible to use any graph search algorithm (e.g. BFS) to search the state $(N, T)$. If the state is found, then by backtracking we can find a subset with a sum of exactly $T$.
+#+end_quote
+
+[[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time subset sum problem implementation in Python]].
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 08:40]
+:FC_CREATED: 2023-01-31T17:16:30Z
+:FC_TYPE:  double
+:ID:       2632faf8-13d9-4a61-90a4-a41af2342b8c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    48.40 | 2023-04-26T03:02:23Z |
+| back     | 2.80 |   5 |    43.87 | 2023-04-26T11:16:09Z |
+:END:
+
+[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]]
+
+*** Back
+Determine whether any subset of values in a [[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]], $S$, sum to a target-sum, $T$.
+*** Source
+[cite:@SubsetSumProblem2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 09:25]
+:FC_CREATED: 2023-01-31T17:25:54Z
+:FC_TYPE:  cloze
+:ID:       420b7ba3-4adf-4198-942b-0de06a8dd139
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    37.98 | 2023-04-20T14:24:25Z |
+|        1 | 2.65 |   5 |    38.49 | 2023-04-26T01:22:41Z |
+:END:
+
+{{[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]]}@0} is a special case of {{the [[id:24b10601-c88f-46fc-bbf9-3f7687c2d2ba][Knapsack problem]]}@1}.
+
+*** Source
+[cite:@SubsetSumProblem2023]
+#+print_bibliography:

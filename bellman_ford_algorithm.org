@@ -1,0 +1,254 @@
+:PROPERTIES:
+:ID:       2fe284fb-7fbc-4956-9857-db90b66e504e
+:ROAM_REFS: [cite:@BellmanFordAlgorithm2022]
+:LAST_MODIFIED: [2023-03-18 Sat 06:44]
+:END:
+#+title: Bellman-Ford algorithm
+#+hugo_custom_front_matter: :slug "2fe284fb-7fbc-4956-9857-db90b66e504e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 10:49]
+#+filetags: :concept:
+
+#+begin_quote
+The Bellman–Ford algorithm is an algorithm that computes shortest paths from a single source vertex to all of the other vertices in a weighted digraph. It is slower than Dijkstra's algorithm for the same problem, but more versatile, as it is capable of handling graphs in which some of the edge weights are negative numbers.
+
+[cite:@BellmanFordAlgorithm2022]
+#+end_quote
+
+* Algorithm
+
+#+begin_quote
+#+begin_src
+function BellmanFord(list vertices, list edges, vertex source) is
+
+    // This implementation takes in a graph, represented as
+    // lists of vertices (represented as integers [0..n-1]) and edges,
+    // and fills two arrays (distance and predecessor) holding
+    // the shortest path from the source to each vertex
+
+    distance := list of size n
+    predecessor := list of size n
+
+    // Step 1: initialize graph
+    for each vertex v in vertices do
+
+        distance[v] := inf             // Initialize the distance to all vertices to infinity
+        predecessor[v] := null         // And having a null predecessor
+
+    distance[source] := 0              // The distance from the source to itself is, of course, zero
+
+    // Step 2: relax edges repeatedly
+
+    repeat |V|−1 times:
+         for each edge (u, v) with weight w in edges do
+             if distance[u] + w < distance[v] then
+                 distance[v] := distance[u] + w
+                 predecessor[v] := u
+
+    // Step 3: check for negative-weight cycles
+    for each edge (u, v) with weight w in edges do
+        if distance[u] + w < distance[v] then
+            // Step 4: find a negative-weight cycle
+            negativeloop := [v, u]
+            repeat |V|−1 times:
+                u := negativeloop[0]
+                for each edge (u, v) with weight w in edges do
+                    if distance[u] + w < distance[v] then
+                        negativeloop := concatenate([v], negativeloop)
+            find a cycle in negativeloop, let it be ncycle
+            // use any cycle detection algorithm here
+            error "Graph contains a negative-weight cycle", ncycle
+
+    return distance, predecessor
+
+#+end_src
+
+Simply put, the algorithm initializes the distance to the source to 0 and all other nodes to infinity. Then for all edges, if the distance to the destination can be shortened by taking the edge, the distance is updated to the new lower value.
+
+The core of the algorithm is a loop that scans across all edges at every loop. For every $i \leq |V| - 1$, at the end of the $i\text{-th}$ iteration, from any vertex v, following the predecessor trail recorded in predecessor yields a path that has a total weight that is at most distance[v], and further, distance[v] is a lower bound to the length of any path from source to v that uses at most i edges.
+
+Since the longest possible path without a cycle can be $|V| - 1$ edges, the edges must be scanned $|V| - 1$ times to ensure the shortest path has been found for all nodes. A final scan of all the edges is performed and if any distance is updated, then a path of length $|V|$ edges has been found which can only occur if at least one negative cycle exists in the graph.
+
+[cite:@BellmanFordAlgorithm2022]
+#+end_quote
+
+[[id:1e2daf6b-a3b6-471c-b273-b91f3e1f745d][Bellman-Ford implementation in Python]]
+
+* Flashcards
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:50]
+:FC_CREATED: 2022-12-22T18:51:39Z
+:FC_TYPE:  normal
+:ID:       5a49d79b-86af-47bf-a86e-f43acee1e6e5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   111.82 | 2023-07-01T01:01:50Z |
+:END:
+
+[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
+
+*** Back
+- Both solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair]] and [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+- [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] supports negative weights whereas [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] doesn't
+*** Source
+- [cite:@BellmanFordAlgorithm2022]
+- [cite:@DijkstraAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:29]
+:FC_CREATED: 2022-12-22T19:29:53Z
+:FC_TYPE:  cloze
+:ID:       caca9164-2831-4f64-9c25-b6f2641725f1
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   133.28 | 2023-07-29T20:12:26Z |
+|        1 | 2.65 |   6 |   102.08 | 2023-06-23T16:27:22Z |
+:END:
+
+Failure cases for {{[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]}@0} are {{[[id:92976e2e-a367-4517-a287-1b4a95db9592][Negative cycles]]}@1}, but not negative edges.
+
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:32]
+:FC_CREATED: 2022-12-22T19:32:30Z
+:FC_TYPE:  cloze
+:ID:       6510f3b0-7fc6-4105-972a-1d02429c8314
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    46.97 | 2023-03-21T14:27:11Z |
+:END:
+
+[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] is {{slower}{speed}@0} than [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]
+
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:45]
+:FC_CREATED: 2022-12-22T19:45:35Z
+:FC_TYPE:  cloze
+:ID:       00e1a328-13db-4840-808d-f7d6131d7049
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   5 |    28.13 | 2023-03-26T19:25:56Z |
+:END:
+
+Time complexity of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] is {{$\bigtheta{|V||E|}$}@0}.
+
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:46]
+:FC_CREATED: 2022-12-22T19:46:56Z
+:FC_TYPE:  cloze
+:ID:       bf3bdc9a-79e0-4cef-9cb4-97311c3b029c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   112.74 | 2023-07-09T07:26:54Z |
+:END:
+
+[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] iterates over {{[[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]}@0}
+
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:52]
+:FC_CREATED: 2022-12-22T19:54:56Z
+:FC_TYPE:  double
+:ID:       ed1503c6-e795-456a-9a91-2c0f99c49dcb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |    97.97 | 2023-06-16T02:30:27Z |
+| back     | 2.95 |   5 |    53.97 | 2023-04-02T17:47:56Z |
+:END:
+
+Iterations in [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
+
+*** Back
+The algorithm iterates through all edges in the graph $|V|$ times.
+
+1. The first $|V|-1$ times are to solve the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]].
+2. The $|V|_{\text{th}}$ time through the edges is to check for negative cycles.
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:54]
+:FC_CREATED: 2022-12-22T19:58:03Z
+:FC_TYPE:  double
+:ID:       19a83074-44ad-45e0-b2a0-657cb1c71346
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   106.44 | 2023-07-03T00:12:32Z |
+| back     | 2.50 |   5 |    44.00 | 2023-03-22T23:44:31Z |
+:END:
+
+[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
+
+*** Back
+An exhaustive (try every combination) search for the optimal pathway.
+
+1. Initialize
+   1. Distances to all nodes to be $\infty$
+   2. Distance to the source node to be $0$
+2. Relax edges
+
+   #+begin_src
+   repeat |V|−1 times:
+     for each edge (u, v) with weight w in edges do
+       if distance[u] + w < distance[v] then
+         distance[v] := distance[u] + w
+         predecessor[v] := u
+   #+end_src
+
+3. Check for any [[id:92976e2e-a367-4517-a287-1b4a95db9592][Negative cycle]]
+   1. Iterate over all edges one more time. If any distances can be updated, then there's a negative cycle; throw an error.
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-23 Fri 05:30]
+:FC_CREATED: 2022-12-23T13:31:27Z
+:FC_TYPE:  cloze
+:ID:       9d7f6b7d-ce5b-4698-ac6b-a8329d878a34
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    54.72 | 2023-03-22T08:03:52Z |
+:END:
+
+[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] supports negative weights because {{it's an exhaustive search; it tries every pathway}@0}.
+
+*** Source
+[cite:@BellmanFordAlgorithm2022]
+#+print_bibliography:

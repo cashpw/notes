@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       a4a360b0-9898-4d9b-a0f0-c84a6ae07f42
+:ROAM_ALIASES: "Exercise price"
+:LAST_MODIFIED: [2023-02-23 Thu 20:03]
+:END:
+#+title: Strike price
+#+hugo_custom_front_matter: :slug "a4a360b0-9898-4d9b-a0f0-c84a6ae07f42"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 06:30]
+#+filetags: :concept:
+
+#+begin_quote
+In finance, the strike price (or exercise price) of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]] is a fixed price at which the owner of the option can buy (in the case of a [[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call option]]), or sell (in the case of a [[id:7b7185c2-db8c-4e53-b9a1-795cc36ab508][Put option]]), the underlying security or commodity.
+
+[cite:@StrikePrice2022]
+#+end_quote
+* Flashcards
+
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       988729aa-d999-4157-a8e5-6c753b32ec9f
+:ANKI_NOTE_ID: 1640627791751
+:FC_CREATED: 2021-12-27T17:56:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   152.69 | 2023-03-19T07:50:32Z |
+| front    | 2.65 |   8 |   232.45 | 2023-07-21T03:23:55Z |
+:END:
+
+[[id:a4a360b0-9898-4d9b-a0f0-c84a6ae07f42][Strike price]]
+
+*** Back
+The price in a derivative contract at which the owner can buy or sell the underlying asset when exercising the contract.
+*** Source
+[cite:@StrikePrice2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       eb9f94da-e440-4146-9d13-cbc523beb042
+:ANKI_NOTE_ID: 1640627792223
+:FC_CREATED: 2021-12-27T17:56:32Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |  11 |   286.95 | 2023-11-09T13:55:23Z |
+|        1 | 2.80 |   8 |   337.31 | 2024-01-27T11:22:36Z |
+:END:
+
+- {{[[id:a4a360b0-9898-4d9b-a0f0-c84a6ae07f42][Strike price]]}@0}
+- {{[[id:a4a360b0-9898-4d9b-a0f0-c84a6ae07f42][Exercise price]]}@1}
+
+*** Source
+[cite:@StrikePrice2022]
+#+print_bibliography:

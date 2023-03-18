@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       258a5932-07d8-4d5c-8442-ef08e3f8d45d
+:LAST_MODIFIED: [2023-03-13 Mon 07:32]
+:END:
+#+title: Gamma (finance)
+#+hugo_custom_front_matter: :slug "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 17:29]
+#+filetags: :concept:
+#+begin_quote
+Gamma (Γ) is an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][options]] risk metric that describes the rate of change in an option's [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][delta]] per one-point move in the underlying asset's price.
+
+[cite:@WhatGammaInvestingHowItUsed]
+#+end_quote
+
+#+begin_quote
+Gamma measures the rate of change in the delta with respect to changes in the underlying price. Gamma is the second derivative of the value function with respect to the underlying price.
+
+$\Gamma = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}$
+
+[cite:@GreeksFinance2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:46]
+:FC_CREATED: 2022-11-07T01:48:09Z
+:FC_TYPE:  double
+:ID:       af523a8c-2e9b-4eae-8372-55659c0ef8c8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    93.25 | 2023-04-20T08:16:08Z |
+| back     | 2.20 |   6 |    66.96 | 2023-04-04T12:31:30Z |
+:END:
+
+[[id:258a5932-07d8-4d5c-8442-ef08e3f8d45d][Gamma (finance)]]
+
+*** Back
+- Describes the rate of change in a derivative's [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][delta]] per one-point move in the underlying asset's price.
+- The second derivative of the derivative's value, $V$, with respect to the underlying asset's price, $S$
+
+$? = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}$
+*** Source
+[cite:@GreeksFinance2022]
+** (Finance) {{$\Gamma$}@0} $=$ {{$\frac{\partial\Delta}{\partial S}$}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-07T01:49:06Z
+:FC_TYPE:  cloze
+:ID:       a79dbf2d-d46e-462d-84d1-5a262d4b49c9
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   103.64 | 2023-05-04T08:35:38Z |
+|        1 | 2.20 |   6 |    90.53 | 2023-05-08T07:41:08Z |
+:END:
+
+*** Source
+[cite:@GreeksFinance2022]
+** {{[[id:258a5932-07d8-4d5c-8442-ef08e3f8d45d][Gamma (finance)]]}@0} is the {{second}{n-th}@1} derivative of {{the derivative's value with respect to the underlying asset's price}@2} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-29 Tue 10:43]
+:FC_CREATED: 2022-11-29T18:44:47Z
+:FC_TYPE:  cloze
+:ID:       9587f36d-7a66-4e70-8ea0-4092efc877b5
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    79.37 | 2023-04-29T03:31:31Z |
+|        1 | 2.05 |   4 |    12.85 | 2023-03-24T20:41:05Z |
+|        2 | 2.05 |   3 |     6.00 | 2023-03-19T14:32:06Z |
+:END:
+
+*** Source
+[cite:@GreeksFinance2022]
+#+print_bibliography:

@@ -1,0 +1,963 @@
+:PROPERTIES:
+:ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
+:LAST_MODIFIED: [2023-03-18 Sat 06:35]
+:END:
+#+title: Greek alphabet
+#+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-03 Sun 06:37]
+#+filetags: :concept:
+
+#+begin_quote
+| Name    | Letter |
+|---------+--------|
+| Alpha   | Αα     |
+| Beta    | Ββ     |
+| Chi     | Χχ     |
+| Delta   | Δδ     |
+| Epsilon | Εε     |
+| Eta     | Ηη     |
+| Gamma   | Γγ     |
+| Iota    | Ιι     |
+| Kappa   | Κκ     |
+| Lambda  | Λλ     |
+| Mu      | Μμ     |
+| Nu      | Νν     |
+| Omega   | Ωω     |
+| Omicron | Οο     |
+| Phi     | Φφ     |
+| Pi      | Ππ     |
+| Psi     | Ψψ     |
+| Rho     | Ρρ     |
+| Sigma   | Σσς    |
+| Tau     | Ττ     |
+| Theta   | Θθ     |
+| Upsilon | Υυ     |
+| Xi      | Ξξ     |
+| Zeta    | Ζζ     |
+
+[cite:@GreekAlphabet2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Greek letter {{Alpha}@1}: {{$A$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       80e331c8-8321-4d2b-93d1-8f3fb7b58ed9
+:ANKI_NOTE_ID: 1640627833897
+:FC_CREATED: 2021-12-27T17:57:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   8 |   342.10 | 2024-02-02T06:15:09Z |
+|        0 | 2.35 |   8 |   213.15 | 2023-07-11T21:41:34Z |
+:END:
+
+*** Extra
+Pronounced: /al-fa/
+
+*** Source
+
+
+** Greek letter {{alpha}@1}: {{$\alpha$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       7d1fb8c2-e2ee-4628-8eb3-95d0c80797e6
+:ANKI_NOTE_ID: 1640627833746
+:FC_CREATED: 2021-12-27T17:57:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   9 |   289.22 | 2023-10-22T19:44:45Z |
+|        1 | 2.50 |   8 |   233.14 | 2023-10-08T07:05:29Z |
+:END:
+*** Extra
+Pronounced: /al-fa/
+*** Source
+
+** Greek letter {{Beta}@1}: {{$B$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       c5407ba9-f42b-4644-931b-1ea17a65c54e
+:ANKI_NOTE_ID: 1640627834046
+:FC_CREATED: 2021-12-27T17:57:14Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   189.39 | 2023-06-03T00:47:14Z |
+|        0 | 2.35 |   8 |   205.31 | 2023-06-29T22:04:44Z |
+:END:
+
+*** Extra
+Pronounced: /bee-tah/
+
+*** Source
+
+
+** Greek letter {{beta}@1}: {{$\beta$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       02d18573-d531-4c62-b184-a2acb9b4872c
+:ANKI_NOTE_ID: 1640627834397
+:FC_CREATED: 2021-12-27T17:57:14Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  10 |   225.67 | 2023-07-27T10:18:31Z |
+|        1 | 2.50 |   8 |   150.28 | 2023-04-11T09:33:39Z |
+:END:
+
+*** Extra
+Pronounced: /bee-tah/
+
+*** Source
+
+
+** Greek letter {{chi}@1}: {{$\chi$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       e0c987f1-826a-4799-bb74-de47f960ece1
+:ANKI_NOTE_ID: 1640627839471
+:FC_CREATED: 2021-12-27T17:57:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.50 |   8 |   331.09 | 2024-01-08T02:25:36Z |
+|        0 | 2.20 |  10 |   211.69 | 2023-08-27T06:19:44Z |
+:END:
+
+*** Extra
+Pronounced: /kai/
+
+*** Source
+
+
+** Greek letter {{delta}@1}: {{$\delta$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       f0769c93-6d5e-4da1-b81e-0418b2507a78
+:ANKI_NOTE_ID: 1640627835195
+:FC_CREATED: 2021-12-27T17:57:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   180.98 | 2023-05-06T21:33:26Z |
+|        1 | 2.80 |   8 |   408.76 | 2024-04-22T23:28:10Z |
+:END:
+
+*** Extra
+Pronounced: /del-tah/
+
+*** Source
+
+
+** Greek letter {{Delta}@1}: {{$\Delta$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       828179c9-f84d-4db3-acc6-d10cf04e03b4
+:ANKI_NOTE_ID: 1640627835071
+:FC_CREATED: 2021-12-27T17:57:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   142.08 | 2023-03-29T16:55:24Z |
+|        1 | 2.65 |   7 |   139.46 | 2023-03-31T02:44:36Z |
+:END:
+
+*** Extra
+Pronounced: /del-tah/
+
+*** Source
+
+
+** Greek letter {{Epsilon}@1}: {{$E$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       b6c81540-7a22-4fc9-ab6c-687759aa80b0
+:ANKI_NOTE_ID: 1640627835372
+:FC_CREATED: 2021-12-27T17:57:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.50 |   8 |   299.06 | 2023-12-21T05:39:10Z |
+|        0 | 2.20 |   8 |   252.62 | 2023-11-03T18:47:03Z |
+:END:
+
+*** Extra
+Pronounced: /ehp-sil-on/
+
+*** Source
+
+
+** Greek letter {{eta}@1}: {{$\eta$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       18c327d3-cc88-45ce-b531-805ed72db3f8
+:ANKI_NOTE_ID: 1640627836048
+:FC_CREATED: 2021-12-27T17:57:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   8 |   192.92 | 2023-06-16T22:26:31Z |
+|        0 | 1.90 |   7 |    65.82 | 2023-05-08T09:37:16Z |
+:END:
+
+*** Extra
+Pronounced: /ee-tah/
+
+*** Source
+
+
+** Greek letter {{Eta}@1}: {{$H$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       496bcbe4-0bbd-4257-9586-82ef175232ad
+:ANKI_NOTE_ID: 1640627836197
+:FC_CREATED: 2021-12-27T17:57:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   349.76 | 2024-02-26T08:46:37Z |
+|        1 | 2.65 |   8 |   182.74 | 2023-05-10T09:57:02Z |
+:END:
+
+*** Extra
+Pronounced: /ee-tah/
+
+*** Source
+
+
+** Greek letter {{gamma}@1}: {{$\gamma$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       ed8574c7-714f-49a8-8866-302ca1bedf24
+:ANKI_NOTE_ID: 1640627834549
+:FC_CREATED: 2021-12-27T17:57:14Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   8 |   371.31 | 2024-03-01T11:11:21Z |
+|        0 | 2.65 |   8 |   168.68 | 2023-04-15T08:01:04Z |
+:END:
+
+*** Extra
+Pronounced: /gam-ah/
+
+*** Source
+
+
+** Greek letter {{Gamma}@1}: {{$\Gamma$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       56374b14-fa9b-4627-be41-7ee863d7b86f
+:ANKI_NOTE_ID: 1640627834700
+:FC_CREATED: 2021-12-27T17:57:14Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   206.86 | 2023-06-25T14:21:43Z |
+|        0 | 2.65 |   8 |   181.96 | 2023-05-09T14:47:24Z |
+:END:
+
+*** Extra
+Pronounced: /gam-ah/
+
+*** Source
+
+
+** Greek letter {{Iota}@1}: {{$I$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       3091dd34-2edb-491d-a38d-67d2c8db488b
+:ANKI_NOTE_ID: 1640627839922
+:FC_CREATED: 2021-12-27T17:57:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   341.23 | 2024-02-07T19:15:18Z |
+|        0 | 2.65 |   7 |   150.35 | 2023-03-29T00:13:57Z |
+:END:
+
+*** Extra
+Pronounced: /y-oh-tah/
+
+*** Source
+
+
+** Greek letter {{iota}@1}: {{$\iota$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       2bcd473c-5aa5-40d0-ad04-d556edc446c0
+:ANKI_NOTE_ID: 1640627836850
+:FC_CREATED: 2021-12-27T17:57:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   272.75 | 2023-10-05T09:03:41Z |
+|        1 | 2.65 |   8 |   226.91 | 2023-07-28T15:54:14Z |
+:END:
+
+*** Extra
+Pronounced: /y-oh-tah/
+
+*** Source
+
+
+** Greek letter {{Kappa}@1}: {{$K$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       42261920-4aab-441e-bd5f-5af41f0346f9
+:ANKI_NOTE_ID: 1640627840272
+:FC_CREATED: 2021-12-27T17:57:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.50 |   8 |   291.77 | 2023-10-27T09:56:36Z |
+|        0 | 2.65 |   8 |   147.19 | 2023-03-24T20:12:33Z |
+:END:
+
+*** Extra
+Pronounced: /cap-ah/
+
+*** Source
+
+
+** Greek letter {{kappa}@1}: {{$\kappa$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       abe92e8e-1649-4d7a-b75f-6dcd38192aa8
+:ANKI_NOTE_ID: 1640627836998
+:FC_CREATED: 2021-12-27T17:57:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   8 |   347.47 | 2024-02-03T07:40:47Z |
+|        0 | 2.65 |   8 |   367.84 | 2024-03-10T14:25:37Z |
+:END:
+
+*** Extra
+Pronounced: /cap-ah/
+
+*** Source
+
+
+** Greek letter {{lambda}@1}: {{$\lambda$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       fb96584c-a81b-4380-b61e-aa2ba63d8f89
+:ANKI_NOTE_ID: 1640627837349
+:FC_CREATED: 2021-12-27T17:57:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   7 |   140.05 | 2023-03-25T18:15:41Z |
+|        0 | 2.65 |   9 |   149.65 | 2023-04-05T13:42:25Z |
+:END:
+
+*** Extra
+Pronounced: /lam-duh/
+
+*** Source
+
+
+** Greek letter {{Lambda}@1}: {{$\Lambda$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       ea1c8c6e-9404-428f-8588-7b88f506c575
+:ANKI_NOTE_ID: 1640627840422
+:FC_CREATED: 2021-12-27T17:57:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   211.91 | 2023-06-16T12:00:01Z |
+|        0 | 2.35 |   9 |   138.21 | 2023-03-18T21:31:53Z |
+:END:
+
+*** Extra
+Pronounced: /lam-duh/
+
+*** Source
+
+
+** Greek letter {{Mu}@1}: {{$M$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       ff1fff2f-21b2-44c9-a963-ad2c96d0b1c0
+:ANKI_NOTE_ID: 1640627840572
+:FC_CREATED: 2021-12-27T17:57:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   8 |   253.18 | 2023-10-28T05:59:31Z |
+|        1 | 2.65 |   8 |   326.06 | 2024-02-02T16:14:50Z |
+:END:
+
+*** Extra
+Pronounced: /moo/
+
+*** Source
+
+
+** Greek letter {{mu}@1}: {{$\mu$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       523e7539-3602-4d38-bb57-b6001f6b139a
+:ANKI_NOTE_ID: 1640627837501
+:FC_CREATED: 2021-12-27T17:57:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   141.22 | 2023-04-02T08:13:26Z |
+|        1 | 2.65 |   8 |   227.65 | 2023-07-18T09:37:31Z |
+:END:
+
+*** Extra
+Pronounced: /moo/
+
+*** Source
+
+
+** Greek letter {{Nu}@1}: {{$N$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       d1310af2-f3b1-4808-a769-6c94d8cfc73e
+:ANKI_NOTE_ID: 1640627840699
+:FC_CREATED: 2021-12-27T17:57:20Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   8 |   206.31 | 2023-07-09T01:15:27Z |
+|        0 | 2.80 |   8 |   381.55 | 2024-03-12T17:09:53Z |
+:END:
+
+*** Extra
+Pronounced: /n-oo/, <i>new</i>
+
+*** Source
+
+
+** Greek letter {{nu}@1}: {{$\nu$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       cfd19944-3fd3-4e33-ad34-bcdd6d8ac2d2
+:ANKI_NOTE_ID: 1640627837648
+:FC_CREATED: 2021-12-27T17:57:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   8 |   203.28 | 2023-06-22T00:37:09Z |
+|        0 | 2.20 |   6 |    82.14 | 2023-04-04T18:32:17Z |
+:END:
+
+*** Extra
+Pronounced: /n-oo/, <i>new</i>
+
+*** Source
+
+
+** Greek letter {{omega}@1}: {{$\omega$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       244c9116-25a8-434f-ac35-3ce64b770e5d
+:ANKI_NOTE_ID: 1640627839771
+:FC_CREATED: 2021-12-27T17:57:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   296.54 | 2023-12-11T03:15:35Z |
+|        1 | 1.75 |   7 |    44.28 | 2023-03-31T22:50:14Z |
+:END:
+
+*** Extra
+Pronounced: /oh-meg-uh/
+
+*** Source
+
+
+** Greek letter {{Omega}@1}: {{$\Omega$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       52875344-1fb2-46e4-b264-e47cbca3fcab
+:ANKI_NOTE_ID: 1640627842522
+:FC_CREATED: 2021-12-27T17:57:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   8 |   332.01 | 2024-01-22T04:14:14Z |
+|        0 | 2.80 |   8 |   322.21 | 2024-01-13T08:51:54Z |
+:END:
+
+*** Extra
+Pronounced: /oh-meg-uh/
+
+*** Source
+
+
+** Greek letter {{phi}@1}: {{$\phi, \varphi$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       0d773127-88cb-417c-a7ea-c0d8d55e6b25
+:ANKI_NOTE_ID: 1640627839099
+:FC_CREATED: 2021-12-27T17:57:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  10 |   404.42 | 2024-04-06T01:55:08Z |
+|        1 | 2.35 |   7 |   154.60 | 2023-03-25T05:14:02Z |
+:END:
+
+*** Extra
+Pronounced: /fee/
+
+*** Source
+
+** Greek letter {{pi}@1}: {{$\pi$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       db9b7a76-b59a-41b9-b24b-32a750881afb
+:ANKI_NOTE_ID: 1640627838145
+:FC_CREATED: 2021-12-27T17:57:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   267.09 | 2023-09-14T16:14:24Z |
+|        0 | 2.50 |   8 |   252.73 | 2023-10-14T09:08:30Z |
+:END:
+
+*** Extra
+Pronounced: /py/
+
+*** Source
+
+
+** Greek letter {{Pi}@1}: {{$\Pi$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       2aeb0571-f0eb-4ffa-9548-de3cc79a0e88
+:ANKI_NOTE_ID: 1640627841198
+:FC_CREATED: 2021-12-27T17:57:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   359.92 | 2024-02-23T03:03:10Z |
+|        1 | 2.80 |   8 |   327.36 | 2023-12-02T00:13:56Z |
+:END:
+
+*** Extra
+Pronounced: /py/
+
+*** Source
+
+
+** Greek letter {{psi}@1}: {{$\psi$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       34c0cb13-27e6-4d2d-8c28-e18f84445518
+:ANKI_NOTE_ID: 1640627839622
+:FC_CREATED: 2021-12-27T17:57:19Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |  12 |   279.63 | 2023-12-18T05:35:26Z |
+|        1 | 2.50 |   8 |   287.06 | 2023-10-21T16:43:48Z |
+:END:
+
+*** Extra
+Pronounced: /psy/
+
+*** Source
+
+
+** Greek letter {{Rho}@1}: {{$P$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       aa6f788a-5731-4b25-b9de-4877627889df
+:ANKI_NOTE_ID: 1640627841349
+:FC_CREATED: 2021-12-27T17:57:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   301.64 | 2023-11-06T06:13:42Z |
+|        1 | 2.65 |   7 |   154.83 | 2023-03-25T11:22:50Z |
+:END:
+
+*** Extra
+Pronounced: /row/
+
+*** Source
+
+
+** Greek letter {{rho}@1}: {{$\rho$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       f7a474e1-e0d1-4438-a43b-5b9f467b884a
+:ANKI_NOTE_ID: 1640627838300
+:FC_CREATED: 2021-12-27T17:57:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   8 |   366.71 | 2024-02-16T21:52:42Z |
+|        0 | 2.35 |   8 |   193.57 | 2023-06-12T06:36:32Z |
+:END:
+
+*** Extra
+Pronounced: /row/
+
+*** Source
+
+
+** Greek letter {{sigma}@1}: {{$\sigma$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       5b48016e-c32b-4cbd-bdf4-43bf15a38cd0
+:ANKI_NOTE_ID: 1640627838450
+:FC_CREATED: 2021-12-27T17:57:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   382.21 | 2024-04-03T18:43:28Z |
+|        1 | 2.65 |   7 |   164.30 | 2023-05-04T09:33:54Z |
+:END:
+
+*** Extra
+Pronounced: /sig-mah/
+
+*** Source
+
+
+** Greek letter {{Sigma}@1}: {{$\Sigma$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       f1024ebd-f49b-4896-a8d1-21a027ba634b
+:ANKI_NOTE_ID: 1640627841698
+:FC_CREATED: 2021-12-27T17:57:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   215.06 | 2023-06-20T17:06:06Z |
+|        0 | 2.65 |   8 |   201.56 | 2023-06-09T06:01:54Z |
+:END:
+
+*** Extra
+Pronounced: /sig-mah/
+
+*** Source
+
+
+** Greek letter {{Tau}@1}: {{$T$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       8e313216-1cd6-45c2-840d-2258dddd86ff
+:ANKI_NOTE_ID: 1640627841822
+:FC_CREATED: 2021-12-27T17:57:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   8 |   218.77 | 2023-07-24T22:00:38Z |
+|        0 | 2.65 |   8 |   205.78 | 2023-06-08T11:06:42Z |
+:END:
+
+*** Extra
+Pronounced: /taw/
+
+*** Source
+
+
+** Greek letter {{tau}@1}: {{$\tau$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       9d431730-7e99-4bd3-8c5b-3abc190847fd
+:ANKI_NOTE_ID: 1640627838822
+:FC_CREATED: 2021-12-27T17:57:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   379.72 | 2024-03-31T07:22:28Z |
+|        1 | 2.65 |   8 |   207.59 | 2023-06-29T09:26:26Z |
+:END:
+
+*** Extra
+Pronounced: /taw/
+
+*** Source
+
+
+** Greek letter {{theta}@1}: {{$\theta$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       d949ed44-7ea9-4d12-a683-7e51bbef022e
+:ANKI_NOTE_ID: 1640627836697
+:FC_CREATED: 2021-12-27T17:57:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   8 |   314.89 | 2024-01-14T14:36:11Z |
+|        1 | 2.80 |   8 |   338.73 | 2024-01-31T09:23:39Z |
+:END:
+
+*** Extra
+Pronounced: /thee-tah/, /th-ay-tah/
+
+*** Source
+
+
+** Greek letter {{Theta}@1}: {{$\Theta$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       66e653d9-bc94-47b1-adbf-bac5a48c2fa7
+:ANKI_NOTE_ID: 1640627836547
+:FC_CREATED: 2021-12-27T17:57:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   349.48 | 2024-02-28T02:42:48Z |
+|        1 | 2.65 |   8 |   190.22 | 2023-05-21T19:42:10Z |
+:END:
+
+*** Extra
+Pronounced: /thee-tah, th-ay-tah/
+
+*** Source
+
+
+** Greek letter {{upsilon}@1}: {{$\upsilon$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       c9ead361-ca37-4384-8859-8e70d7cddc56
+:ANKI_NOTE_ID: 1640627838949
+:FC_CREATED: 2021-12-27T17:57:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    42.12 | 2023-04-23T03:17:14Z |
+|        1 | 2.65 |   8 |   321.48 | 2024-01-12T15:37:34Z |
+:END:
+
+*** Extra
+Pronounced: /up-sil-on/
+
+*** Source
+
+
+** Greek letter {{Upsilon}@1}: {{$\Upsilon$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       9c1ac8ed-23d5-427b-9021-159b4f69989e
+:ANKI_NOTE_ID: 1640627841972
+:FC_CREATED: 2021-12-27T17:57:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   8 |   233.38 | 2023-08-09T03:57:42Z |
+|        0 | 2.20 |   8 |   271.52 | 2023-11-23T16:10:16Z |
+:END:
+
+*** Extra
+Pronounced: /up-sil-on/
+
+*** Source
+
+
+** Greek letter {{xi}@1}: {{$\xi$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       c379ada2-927e-4c16-b44e-dafa051f2c0a
+:ANKI_NOTE_ID: 1640627838000
+:FC_CREATED: 2021-12-27T17:57:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   8 |   224.27 | 2023-07-29T00:10:39Z |
+|        0 | 1.30 |   6 |    11.50 | 2023-03-30T01:42:09Z |
+:END:
+
+*** Extra
+Pronounced: /khee/
+
+*** Source
+
+
+** Greek letter {{Xi}@1}: {{$\Xi$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       ec0365a6-95da-414a-a559-74abe4aabc32
+:ANKI_NOTE_ID: 1640627841049
+:FC_CREATED: 2021-12-27T17:57:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   8 |   400.68 | 2024-04-12T10:56:31Z |
+|        0 | 2.20 |   8 |   268.26 | 2023-11-20T10:24:49Z |
+:END:
+
+*** Extra
+Pronounced: /khee/
+
+*** Source
+
+
+** Greek letter {{Zeta}@1}: {{$Z$}{UPPERCASE}@0} :fc:
+:PROPERTIES:
+:ID:       14fc205a-1439-4e6f-930e-458b71457714
+:ANKI_NOTE_ID: 1640627835522
+:FC_CREATED: 2021-12-27T17:57:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.50 |   8 |   299.49 | 2023-11-08T02:49:18Z |
+|        0 | 2.80 |   8 |   384.22 | 2024-03-14T09:03:43Z |
+:END:
+
+*** Extra
+Pronounced: /zee-tah/
+
+*** Source
+
+** Greek letter {{zeta}@1}: {{$\zeta$}{lowercase}@0} :fc:
+:PROPERTIES:
+:ID:       c0207203-903d-4e3a-90da-0a8185d35262
+:ANKI_NOTE_ID: 1640627835871
+:FC_CREATED: 2021-12-27T17:57:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 1.45 |   5 |    13.45 | 2023-03-27T01:27:04Z |
+|        0 | 2.00 |  15 |   150.96 | 2023-06-22T15:49:29Z |
+:END:
+
+*** Extra
+Pronounced: /zee-tah/
+
+*** Source
+#+print_bibliography:

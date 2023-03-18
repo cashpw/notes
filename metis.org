@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       0fb4e788-6220-4127-9175-761e6f1c1e16
+:LAST_MODIFIED: [2023-02-10 Fri 15:48]
+:END:
+#+title: Metis
+#+hugo_custom_front_matter: :slug "0fb4e788-6220-4127-9175-761e6f1c1e16"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-09 Mon 08:01]
+#+filetags: :concept:
+
+#+begin_quote
+The term mētis, [...] descends from classical Greek and denotes the knowledge that can come only from practical experience [...]
+
+[cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]
+#+end_quote
+
+Related: [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
+
+#+print_bibliography:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 08:03]
+:FC_CREATED: 2023-01-09T16:03:42Z
+:FC_TYPE:  double
+:ID:       3a2a4660-2cda-4a9f-953e-5012979c684d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    47.80 | 2023-03-27T18:02:33Z |
+| back     | 2.35 |   5 |    36.07 | 2023-03-19T01:32:41Z |
+:END:
+
+[[id:0fb4e788-6220-4127-9175-761e6f1c1e16][Metis]]
+
+*** Back
+Knowledge that can only come from practical experience; [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
+*** Source
+[cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]
+#+print_bibliography:

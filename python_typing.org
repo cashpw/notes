@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       7667a3b3-727e-42e4-a2e6-a3d7c7169366
+:ROAM_REFS: [cite:@TypingSupportTypeHintsPython10Documentation]
+:END:
+#+title: Python typing
+#+hugo_custom_front_matter: :slug "7667a3b3-727e-42e4-a2e6-a3d7c7169366"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-25 Thu 09:29]
+#+filetags: :has_todo:concept:
+
+Type hints in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
+* TODO [#3] Generics
+:PROPERTIES:
+:ANKI_FAILURE_REASON: Note was not found: 1661445279563
+:END:
+
+#+begin_src python :results output
+from typing import TypeVar
+
+T = TypeVar("T")
+
+def generic_adder(a: T, b: T) -> T:
+    return a + b
+#+end_src
+
+#+begin_src python :results output
+from typing import TypeVar, Generic, List
+from dataclasses import dataclass
+
+T = TypeVar("T")
+
+@dataclass
+class Vertex(Generic[T]):
+    children: List[Vertex]
+    value: T
+#+end_src
+
+* TODO [#3] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

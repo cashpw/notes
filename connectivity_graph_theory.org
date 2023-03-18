@@ -1,0 +1,191 @@
+:PROPERTIES:
+:ID:       9ee639e1-b92d-4bdb-8d13-9c53e22bf945
+:ROAM_REFS: [cite:@ConnectivityGraphTheory2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:13]
+:END:
+#+title: Connectivity (Graph theory)
+#+hugo_custom_front_matter: :slug "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-28 Sat 13:17]
+#+filetags: :concept:
+
+#+begin_quote
+In an undirected graph [[[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]] $G$, two vertices $u$ and $v$ are called connected if $G$ contains a path [[[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]] from $u$ to $v$. Otherwise, they are called disconnected. If the two vertices are additionally connected by a path of length 1, i.e. by a single edge, the vertices are called adjacent.
+
+[cite:@ConnectivityGraphTheory2022]
+#+end_quote
+
+* Connected graph
+:PROPERTIES:
+:ID:       b5c13a71-b6a2-4963-8d5e-4107f54a912a
+:END:
+
+#+begin_quote
+A graph is said to be connected if every pair of vertices in the graph is connected. This means that there is a path between every pair of vertices.
+
+[cite:@ConnectivityGraphTheory2022]
+#+end_quote
+
+* Disconnected graph
+:PROPERTIES:
+:ID:       59479a24-ff8a-4119-9c2c-a81fed2f8985
+:END:
+#+begin_quote
+An undirected graph that is not connected is called disconnected.
+
+[cite:@ConnectivityGraphTheory2022]
+#+end_quote
+
+* Weakly connected graph
+:PROPERTIES:
+:ID:       eec29aba-ca7d-4462-8d47-1fe86377ca10
+:END:
+#+begin_quote
+A directed graph [[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] is called weakly connected if replacing all of its directed edges with undirected edges produces a connected (undirected) graph [[[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]]].
+
+[cite:@ConnectivityGraphTheory2022]
+#+end_quote
+
+* Unilaterally connected graph
+:PROPERTIES:
+:ID:       f761e11f-71c5-49b6-a480-c42c5c067fd5
+:ROAM_ALIASES: "Semiconnected graph"
+:END:
+
+#+begin_quote
+[A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] is unilaterally connected or unilateral (also called semiconnected) if it contains a directed path from u to v or a directed path from v to u for every pair of vertices u, v.
+
+[cite:@ConnectivityGraphTheory2022]
+#+end_quote
+* Strongly connected graph
+:PROPERTIES:
+:ID:       b2774fef-e5fb-4557-96bf-6e9e8c47a96a
+:END:
+
+#+begin_quote
+[A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] is strongly connected, or simply strong, if it contains a directed path from u to v and a directed path from v to u for every pair of vertices u, v.
+
+[cite:@ConnectivityGraphTheory2022]
+#+end_quote
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:23]
+:FC_CREATED: 2023-01-28T21:24:35Z
+:FC_TYPE:  cloze
+:ID:       b0a394ec-4436-4aa4-95e3-408462d9e0c6
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    50.65 | 2023-04-28T09:45:56Z |
+|        1 | 2.80 |   5 |    41.74 | 2023-04-24T08:45:04Z |
+:END:
+
+Two vertices, $u$ and $v$, in a graph, $G$, are {{connected}@0} when {{there exists a [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]] between $u$ and $v$}@1}.
+
+*** Source
+[cite:@ConnectivityGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:29]
+:FC_CREATED: 2023-01-28T21:30:55Z
+:FC_TYPE:  double
+:ID:       a611dbf1-2e43-4c01-961a-34e23b6c6be4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    50.25 | 2023-04-29T09:01:49Z |
+| back     | 2.80 |   5 |    47.69 | 2023-05-01T07:49:00Z |
+:END:
+
+[[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]]
+
+*** Back
+A graph whose vertices are all connected.
+*** Source
+[cite:@ConnectivityGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:30]
+:FC_CREATED: 2023-01-28T21:31:24Z
+:FC_TYPE:  double
+:ID:       9252fee0-0cd6-4f0d-a92b-d49274ca4fef
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    48.29 | 2023-04-14T10:46:37Z |
+| back     | 2.50 |   5 |    34.39 | 2023-04-06T01:16:24Z |
+:END:
+
+[[id:59479a24-ff8a-4119-9c2c-a81fed2f8985][Disconnected graph]]
+
+*** Back
+A graph with at least one vertex which isn't connected.
+*** Source
+[cite:@ConnectivityGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:41]
+:FC_CREATED: 2023-01-28T21:41:57Z
+:FC_TYPE:  double
+:ID:       0c18d801-136e-419c-a58d-9a217b1910f8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    24.06 | 2023-04-06T16:24:03Z |
+| back     | 2.65 |   5 |    41.73 | 2023-04-28T07:43:09Z |
+:END:
+
+[[id:eec29aba-ca7d-4462-8d47-1fe86377ca10][Weakly connected graph]]
+
+*** Back
+A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] which would be [[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][connected]] if you were to replace the directed edges with undirected edges.
+*** Source
+[cite:@ConnectivityGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:42]
+:FC_CREATED: 2023-01-28T21:43:36Z
+:FC_TYPE:  double
+:ID:       5109c83d-72ee-4b91-b96f-90abc731eddf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    39.71 | 2023-04-19T22:28:39Z |
+| back     | 2.65 |   5 |    40.91 | 2023-04-27T11:03:42Z |
+:END:
+
+[[id:f761e11f-71c5-49b6-a480-c42c5c067fd5][Unilaterally connected graph]]
+
+*** Back
+A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] which contains a path from $u \to v$ or from $v \to u$ for every pair of vertices $u$, $v$.
+*** Source
+[cite:@ConnectivityGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:44]
+:FC_CREATED: 2023-01-28T21:45:02Z
+:FC_TYPE:  double
+:ID:       40582c60-4b25-4248-af46-546b19317693
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    53.44 | 2023-04-21T02:20:43Z |
+| back     | 2.80 |   5 |    48.58 | 2023-04-28T19:15:00Z |
+:END:
+
+[[id:b2774fef-e5fb-4557-96bf-6e9e8c47a96a][Strongly connected graph]]
+
+*** Back
+A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] which contains paths from $u \to v$ and $v \to u$ for every pair of vertices $u$, $v$.
+*** Source
+[cite:@ConnectivityGraphTheory2022]
+#+print_bibliography:

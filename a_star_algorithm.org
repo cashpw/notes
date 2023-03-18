@@ -1,0 +1,259 @@
+:PROPERTIES:
+:ID:       4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087
+:ROAM_REFS: [cite:@SearchAlgorithm2022]
+:ROAM_ALIASES: "A* search algorithm" A*
+:LAST_MODIFIED: [2023-03-17 Fri 06:59]
+:END:
+#+title: A-star search algorithm
+#+hugo_custom_front_matter: :slug "4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 13:50]
+#+filetags: :concept:
+
+#+begin_quote
+A* (pronounced "A-star") is a graph traversal and path search algorithm, which is used in many fields of computer science due to its completeness, optimality, and optimal efficiency.
+
+[...]
+
+A* is an informed search algorithm, or a best-first search [[[id:e1661be1-5f0f-481c-9899-d5cb476096e5][Best-first search]]], meaning that it is formulated in terms of weighted graphs: starting from a specific starting node of a graph, it aims to find a path to the given goal node having the smallest cost (least distance travelled, shortest time, etc.). It does this by maintaining a tree of paths originating at the start node and extending those paths one edge at a time until its termination criterion is satisfied.
+
+At each iteration of its main loop, A* needs to determine which of its paths to extend. It does so based on the cost of the path and an estimate of the cost required to extend the path all the way to the goal. Specifically, A* selects the path that minimizes
+
+$f(n) = g(n) + h(n)$
+
+where n is the next node on the path, g(n) is the cost of the path from the start node to n, and h(n) is a heuristic function that estimates the cost of the cheapest path from n to the goal. A* terminates when the path it chooses to extend is a path from start to goal or if there are no paths eligible to be extended. The heuristic function is problem-specific.
+
+[cite:@SearchAlgorithm2022]
+#+end_quote
+
+#+begin_quote
+Dijkstra's algorithm [[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]], as another example of a uniform-cost search algorithm, can be viewed as a special case of A* where $h(x) = 0$ for all $x$.
+
+[cite:@SearchAlgorithm2022]
+#+end_quote
+
+Like [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]], A*'s implementation uses [[id:48e26e71-a0e3-4086-99f2-53e2fa6f7fc8][Dynamic programming]].
+
+* What does the "*" mean?
+
+#+begin_quote
+The reason is that scientists first came up with an improved version of the Dijkstra algorithm they called A1. Later on, the inventors of A* discovered an improvement of A1 that they called A2. These people then managed to prove that A2 was actually optimal under some assumptions on the heuristic in use. Because A2 was optimal, it was renamed A*. In science, and in optimisation in particular, a " * " symbol is often used to denote optimal solutions. Some also interpret the " * " as meaning "any version number" since it was proven impossible to build an "A3" algorithm that would outperform A2/A*.
+
+By the way, in this context, "optimal" doesn't mean that it reaches the optimal solution, but that it does so while exploring the minimum number of nodes. Of course, A* is also complete, which means it reaches the optimal solution (if we use an admissible heuristic).
+
+[cite:@francoisrAnswerWhatDoesStarAlgorithmMean2016]
+#+end_quote
+
+* Flashcards
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:15]
+:FC_CREATED: 2022-12-22T00:17:23Z
+:FC_TYPE:  normal
+:ID:       a03a0c60-7364-4d06-83f3-155718fbe7ab
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    77.58 | 2023-05-09T11:19:15Z |
+:END:
+
+Heuristics for [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A-star search algorithm]]
+
+*** Back
+:PROPERTIES:
+:ID:       9ae7014c-b92f-420f-b896-7590647c88b1
+:END:
+- [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][Manhattan distance]]
+- [[id:a5079f3d-9926-4de1-8b60-5d5e64396a01][Euclidian distance]]
+*** Source
+[cite:@SearchAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:21]
+:FC_CREATED: 2022-12-22T00:21:39Z
+:FC_TYPE:  cloze
+:ID:       6e88e6dd-60f2-4503-a46e-158fd424d0e6
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    73.05 | 2023-05-12T05:58:46Z |
+:END:
+
+The time complexity of [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] {{depends on the heuristic}@0}.
+
+*** Source
+[cite:@SearchAlgorithm2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:51]
+:FC_CREATED: 2022-12-22T00:55:56Z
+:FC_TYPE:  cloze
+:ID:       0944bcf3-853b-4af7-b05b-f8fe06d4451b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    53.21 | 2023-03-22T21:49:20Z |
+|        1 | 2.95 |   5 |    51.57 | 2023-03-26T05:30:14Z |
+:END:
+
+{{The =*=, for example in [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]],}@0} denotes {{optimal solutions}@1}
+
+*** Source
+[cite:@francoisrAnswerWhatDoesStarAlgorithmMean2016]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:56]
+:FC_CREATED: 2022-12-22T03:37:22Z
+:FC_TYPE:  cloze
+:ID:       48ec8689-63e2-458b-b080-26438b44177a
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    89.33 | 2023-06-06T01:29:28Z |
+|        1 | 2.35 |   6 |    73.31 | 2023-05-25T21:54:06Z |
+:END:
+
+[[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] is {{optimal}{property}@0} if {{it uses an [[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]]}@1}
+
+*** Source
+[cite:@SearchAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 20:05]
+:FC_CREATED: 2022-12-22T04:07:41Z
+:FC_TYPE:  double
+:ID:       48d68ac4-b0ec-47d3-8ba4-a950ccae0b97
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   102.53 | 2023-06-21T18:13:29Z |
+| back     | 2.95 |   6 |   133.50 | 2023-07-29T01:58:42Z |
+:END:
+
+$f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
+
+*** Back
+[[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] selects the path which minimizes the sum of:
+
+1. The cost of the path from the start node to $n$
+2. The value of the heuristic function at $n$
+*** Source
+[cite:@SearchAlgorithm2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 20:07]
+:FC_CREATED: 2022-12-22T04:08:22Z
+:FC_TYPE:  cloze
+:ID:       08fa447c-f75d-4b9f-b9ce-57330ba224cc
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   110.01 | 2023-07-02T15:27:26Z |
+|        1 | 2.50 |   6 |   113.10 | 2023-07-06T17:26:54Z |
+:END:
+
+- {{$f(n)$}@0}
+
+{{The cost of the path from the start node to the target node}@1} ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
+
+*** Source
+[cite:@SearchAlgorithm2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 20:07]
+:FC_CREATED: 2022-12-22T04:08:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       03d246ab-1589-45f7-b16f-a1d2b6f0ecb7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   105.89 | 2023-06-24T00:40:17Z |
+|        1 | 2.20 |   6 |    58.75 | 2023-04-25T11:29:17Z |
+:END:
+
+- {{$g(n)$}@0}
+
+{{The cost of the path from the start node to $n$}@1} ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
+
+*** Source
+[cite:@SearchAlgorithm2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 20:07]
+:FC_CREATED: 2022-12-22T04:08:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       f0280363-e9cc-48a6-8029-7865e656e0c2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    52.39 | 2023-03-24T01:51:32Z |
+|        1 | 2.95 |   5 |    51.14 | 2023-03-26T20:07:49Z |
+:END:
+
+- {{$h(n)$}@0}
+
+{{The heuristic function which estimates the cost of the path from $n$ to the target node}@1} ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
+
+*** Source
+[cite:@SearchAlgorithm2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 08:46]
+:FC_CREATED: 2022-12-22T16:47:44Z
+:FC_TYPE:  normal
+:ID:       e8375664-50f0-41c4-8fb5-02dd18983abe
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    51.06 | 2023-03-20T17:40:34Z |
+:END:
+
+[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]
+
+*** Back
+- [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] can solve both the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair]] and [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]] whereas [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] can only solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]
+- [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] is [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] plus a heuristic function
+*** Source
+- [cite:@DijkstraAlgorithm2022]
+- [cite:@SearchAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:33]
+:FC_CREATED: 2022-12-22T19:33:51Z
+:FC_TYPE:  cloze
+:ID:       9fbae59a-65ae-41ff-a389-528537a86a24
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   129.54 | 2023-07-17T15:53:18Z |
+:END:
+
+[[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] is {{faster}{speed}@0} than [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]
+
+*** Source
+[cite:@SearchAlgorithm2022]
+#+print_bibliography:

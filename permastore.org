@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       772a02cc-f238-4f25-bc41-a584ac13c301
+:LAST_MODIFIED: [2023-03-13 Mon 08:00]
+:END:
+#+title: Permastore
+#+hugo_custom_front_matter: :slug "772a02cc-f238-4f25-bc41-a584ac13c301"
+#+filetags: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-31 Fri 12:05]
+
+#+begin_quote
+Extremely long-term or lasting memory which forms following extensive training, learning, or experience.
+
+/[[https://psychologydictionary.org/permastore/][Psychology Dictionary]]/
+#+end_quote
+
+Bahrick posited the concept in [[doi:10.1037/0096-3445.113.1.1][Fifty years of memory for Spanish learned in school]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 09:45]
+:FC_CREATED: 2022-11-22T17:46:38Z
+:FC_TYPE:  double
+:ID:       bf729abc-f459-483c-8bba-490b13991189
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   121.02 | 2023-06-13T16:59:27Z |
+| back     | 2.95 |   6 |   155.70 | 2023-08-16T07:47:21Z |
+:END:
+
+[[id:772a02cc-f238-4f25-bc41-a584ac13c301][Permastore]]
+
+*** Back
+Memories which last a long time following extensive training, learning, or experience.
+*** Source

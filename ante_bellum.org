@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       7d4a4c55-b66f-447e-8b27-f64eeed59f26
+:ROAM_REFS: [cite:@Antebellum2022]
+:ROAM_ALIASES: Antebellum
+:LAST_MODIFIED: [2023-02-16 Thu 17:57]
+:END:
+#+title: Ante bellum
+#+hugo_custom_front_matter: :slug "7d4a4c55-b66f-447e-8b27-f64eeed59f26"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 08:17]
+#+filetags: :concept:
+
+[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]], meaning "before the war".
+* Flashcards
+** {{[[id:7d4a4c55-b66f-447e-8b27-f64eeed59f26][Ante bellum]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Before the war}{English}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 08:18]
+:FC_CREATED: 2022-11-12T16:18:31Z
+:FC_TYPE:  cloze
+:ID:       6a6152d0-997b-4eab-811f-cb18ff19b9a8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    72.84 | 2023-04-08T12:59:29Z |
+|        1 | 2.80 |   6 |   117.67 | 2023-06-14T17:56:44Z |
+:END:
+
+*** Source
+[cite:@Antebellum2022]
+#+print_bibliography:

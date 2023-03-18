@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       ac618a25-545b-48af-90dd-c777fce9cbed
+:LAST_MODIFIED: [2023-02-13 Mon 06:15]
+:END:
+#+title: Negative partisanship
+#+hugo_custom_front_matter: :slug "ac618a25-545b-48af-90dd-c777fce9cbed"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-11 Wed 15:00]
+#+filetags: :concept:
+
+#+begin_quote
+Negative partisanship is the tendency of some voters to form their political opinions primarily in opposition to political parties they dislike. Whereas traditional partisanship involves supporting the policy positions of one's own party, its negative counterpart in turn means opposing those positions of a disliked party.
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-11 Wed 15:01]
+:FC_CREATED: 2023-01-11T23:02:05Z
+:FC_TYPE:  double
+:ID:       f6ea6c89-194d-4af7-bc69-61da1b2a333b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    43.07 | 2023-03-26T01:28:18Z |
+| back     | 2.65 |   5 |    42.23 | 2023-03-27T19:49:31Z |
+:END:
+
+[[id:ac618a25-545b-48af-90dd-c777fce9cbed][Negative partisanship]]
+
+*** Back
+When voters form their political opinions primarily in opposition to political parties they dislike; they define themselves as "against that" rather than "for this".
+*** Source
+[cite:@NegativePartisanship2022]
+#+print_bibliography:

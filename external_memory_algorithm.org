@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       0f240189-7ede-4505-a900-21330b55f4c9
+:ROAM_REFS: [cite:@ExternalMemoryAlgorithm2021]
+:LAST_MODIFIED: [2023-02-16 Thu 17:49]
+:END:
+#+title: External memory algorithm
+#+hugo_custom_front_matter: :slug "0f240189-7ede-4505-a900-21330b55f4c9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-01 Fri 13:02]
+#+filetags: :concept:
+
+#+begin_quote
+In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a computer's main memory at once. Such algorithms must be optimized to efficiently fetch and access data stored in slow bulk memory (auxiliary memory) such as hard drives or tape drives, or when memory is on a computer network.
+
+[cite:@ExternalMemoryAlgorithm2021]
+#+end_quote
+
+See [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]].
+
+* Flashcardscomputer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       6396bdd0-28bc-4d49-8f6a-d859bd392290
+:ANKI_NOTE_ID: 1656856970707
+:FC_CREATED: 2022-07-03T14:02:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   290.55 | 2023-11-26T07:34:43Z |
+| front    | 2.50 |   7 |   224.91 | 2023-09-08T13:02:31Z |
+:END:
+[[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+*** Back
+Algorithms designed to process data that are too large to fit into a single computer's main memory at once. Instead, the algorithm processes data from external memory (e.g. hard disk, tapes, network/delegation).
+*** Source
+[cite:@ExternalMemoryAlgorithm2021]
+** Example(s) (Memory) :fc:
+:PROPERTIES:
+:ID:       a4e783cc-6e98-4189-823b-9fe75c394a9e
+:ANKI_NOTE_ID: 1656856971432
+:FC_CREATED: 2022-07-03T14:02:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   242.53 | 2023-09-08T04:09:35Z |
+| back     | 2.80 |   7 |   282.67 | 2023-11-26T17:48:07Z |
+:END:
+[[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+*** Back
+- [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+*** Source
+[cite:@MergeSort2022]
+#+print_bibliography:

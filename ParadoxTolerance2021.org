@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ParadoxTolerance2021]
+:ID:       b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9
+:LAST_MODIFIED: [2023-02-16 Thu 19:25]
+:END:
+#+title: Paradox of tolerance
+#+hugo_custom_front_matter: :slug "b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-15 Tue 09:25]
+#+filetags: :concept:
+ 
+#+begin_quote
+The paradox of tolerance states that if a society is tolerant without limit, its ability to be tolerant is eventually seized or destroyed by the intolerant. Karl Popper described it as the seemingly paradoxical idea that in order to maintain a tolerant society, the society must retain the right to be intolerant of intolerance.
+
+[cite:@ParadoxTolerance2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 13:29]
+:FC_CREATED: 2022-11-23T21:31:26Z
+:FC_TYPE:  double
+:ID:       549e0c8b-6968-4b31-8adf-3c9fc1e7a59c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    99.18 | 2023-05-17T07:57:30Z |
+| back     | 2.50 |   6 |   102.39 | 2023-05-30T12:53:39Z |
+:END:
+
+[[id:b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9][Paradox of tolerance]]
+
+*** Back
+Maintaining a tolerant society requires intolerance of intolerance. Tolerating intolerance begets intolerance.
+*** Source
+[cite:@ParadoxTolerance2021]
+#+print_bibliography:

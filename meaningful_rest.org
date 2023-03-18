@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       ef6148e5-0f53-4535-89fa-1f67b3c557b7
+:ROAM_REFS: [cite:@nandaMeaningfulRest]
+:LAST_MODIFIED: [2023-02-12 Sun 09:46]
+:END:
+#+title: Meaningful rest
+#+hugo_custom_front_matter: :slug "ef6148e5-0f53-4535-89fa-1f67b3c557b7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 19:53]
+#+filetags: :concept:
+
+[[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] is a type of rest which leaves the individual feeling rejuvenated. It exists in contrast to default actions -- "the things that take no activation energy to start, the things [one] reflexively reaches for" [cite:@nandaPost29MeaningfulRest]. [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your defaults]].
+
+The term is from [[id:43e87bd7-89df-40b8-9c47-dc357c05fa63][Neel Nanda | Post 29: Meaningful Rest]].
+
+* Things I want to do when I feel tired and low energy
+1. Watch youtube videos
+2. (Doom)Scroll on Reddit
+3. Play a video game
+4. Continue doing whatever is making me tired in defiance of my own bodily limits
+5. Lay on the floor
+6. Try to read, "be productive", or some other mentally demanding activity which is different than the one which I was previously doing
+7. Eat, sometimes
+
+* Things that I feel rejuvenated after having done
+
+1. Going for a walk; be outside in general
+2. Get up, away from computer/etc, and talk with my wife, family, friends, etc
+3. Meditate
+4. Nap / sleep
+5. Play with the cats
+6. Stretch / flexibility work
+7. Zone out and let my mind wander
+8. Drink water
+9. Switch from sitting desk to standing desk
+10. If I'm working; taking any form of break where I let myself think about not-work
+11. Work out
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 19:56]
+:FC_CREATED: 2022-10-13T02:57:14Z
+:FC_TYPE:  double
+:ID:       b95766f1-7285-4495-90ba-b6b544c88c37
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   124.53 | 2023-05-24T05:04:42Z |
+| back     | 3.10 |   6 |   164.21 | 2023-07-26T22:42:26Z |
+:END:
+
+[[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]]
+
+*** Back
+
+A type of rest which rejuvenates the individual.
+*** Source
+[cite:@nandaMeaningfulRest]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 19:57]
+:FC_CREATED: 2022-10-13T02:59:11Z
+:FC_TYPE:  normal
+:ID:       0a626a2c-ff11-4d3b-9c03-2bd64f26c3ad
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    98.57 | 2023-04-30T03:46:52Z |
+:END:
+
+[[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] and default actions
+
+*** Back
+- Activities which provide [[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] leaves one feeling rejuvenated but are usually less desirable when you're tired
+- Default actions are the rest activities you "reflexively reach for" but are also likely to be those which don't rejuvenate you
+*** Source
+[cite:@nandaMeaningfulRest]
+#+print_bibliography:

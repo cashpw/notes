@@ -1,0 +1,270 @@
+:PROPERTIES:
+:ID:       019be402-8bef-48f3-afbf-6441010dd8cf
+:ROAM_REFS: [cite:@RedblackTree2022]
+:LAST_MODIFIED: [2023-03-09 Thu 19:10]
+:END:
+#+title: Red-black tree
+#+hugo_custom_front_matter: :slug "019be402-8bef-48f3-afbf-6441010dd8cf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 16:54]
+#+options: prop:t
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In computer science, a red–black tree is a kind of [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]. Each [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] stores an extra bit representing "color" ("red" or "black"), used to ensure that the [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] remains balanced during insertions and deletions.
+
+When the tree is modified, the new tree is rearranged [[[id:f0deaa3b-c3bc-491d-adc3-6e6595cb558e][Tree rotation]]] and "repainted" to restore the coloring properties that constrain how unbalanced the tree can become in the worst case. The properties are designed such that this rearranging and recoloring can be performed efficiently.
+
+[cite:@RedblackTree2022]
+#+end_quote
+
+* Properties
+:PROPERTIES:
+:ID:       265af7fb-38f7-4e99-8f49-07b7461ef5de
+:END:
+
+#+begin_quote
+1. Every node is either red or black
+2. All =NIL= nodes are considered black
+3. A red node does not have a red child
+4. Every path from a given node to any of its descendant =NIL= nodes goes through the same number of black nodes
+
+[cite:@RedblackTree2022]
+#+end_quote
+
+* Space Complexity
+
+\(\bigo{n}\)
+
+* Time Complexity
+
+| Function | Amortized         | Worse case        |
+|----------+-------------------+-------------------|
+| Search   | \(\bigo{\log n}\) | \(\bigo{\log n}\) |
+| Insert   | \(\bigo{1}\)      | \(\bigo{\log n}\) |
+| Delete   | \(\bigo{1}\)      | \(\bigo{\log n}\) |
+
+
+* TODO [#3] Algorithm
+
+** Insertion
+
+#+begin_quote
+Insertion begins by placing the new (non-=NIL=) node, say =N=, at the position in the binary search tree of a =NIL= node whose in-order predecessor's key compares less than the new node's key, which in turn compares less than the key of its in-order successor. (Frequently, this positioning is the result of a search within the tree immediately preceding the insert operation and consists of a node P together with a direction dir with ~P->child[dir] == NIL~.) The newly inserted node is temporarily colored red so that all paths contain the same number of black nodes as before.
+
+[cite:@RedblackTree2022]
+#+end_quote
+
+Insertion may invalidate one or more [[id:265af7fb-38f7-4e99-8f49-07b7461ef5de][Properties]] of the [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]].
+
+*** Cases
+*** Implementation
+
+#+begin_src python :results output
+def insert(key, value):
+    inserted_node = binary_tree_insert(key, value, root)
+    insert_fix(inserted_node)
+
+def binary_tree_insert(value):
+    pass
+
+def insert_fix(inserted_node):
+    pass
+#+end_src
+
+** Deletion
+
+*** Cases
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** A [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]] is a type of {{[[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]}@0} :fc:
+:PROPERTIES:
+:ID:       b2354a9d-8744-4563-839d-2650b687e96e
+:ANKI_NOTE_ID: 1661274359648
+:FC_CREATED: 2022-08-23T17:05:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   272.72 | 2023-11-11T08:43:02Z |
+:END:
+*** Extra
+*** Source
+[cite:@RedblackTree2022]
+
+** [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]] search time complexity: {{$\bigo{\log n}$}@0} :fc:
+:PROPERTIES:
+:ID:       2e1c1bc1-3d54-4f8b-b0e4-1ef3705c4ffc
+:ANKI_NOTE_ID: 1662482184775
+:FC_CREATED: 2022-09-06T16:36:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   165.77 | 2023-07-10T11:36:10Z |
+:END:
+*** Extra
+*** Source
+[cite:@RedblackTree2022]
+
+** [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]] insertion time complexity: {{amortized $\bigo{1}$, worst case $\bigo{\log n}$}@0} :fc:
+:PROPERTIES:
+:ID:       4900a445-c751-4b35-8d1b-338413108e4b
+:ANKI_NOTE_ID: 1662482186552
+:FC_CREATED: 2022-09-06T16:36:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    78.45 | 2023-04-28T05:38:20Z |
+:END:
+*** Extra
+*** Source
+[cite:@RedblackTree2022]
+
+** [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]] deletion time complexity: {{amortized $\bigo{1}$, worst case $\bigo{\log n}$}@0} :fc:
+:PROPERTIES:
+:ID:       944132c5-6721-4acc-9178-42a2fbe7e527
+:ANKI_NOTE_ID: 1662482188550
+:FC_CREATED: 2022-09-06T16:36:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   5 |    22.37 | 2023-03-23T13:01:17Z |
+:END:
+*** Extra
+*** Source
+[cite:@RedblackTree2022]
+
+** [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]] space complexity: {{$\bigo{n}$}@0} :fc:
+:PROPERTIES:
+:ID:       bdd3dd64-b387-45f2-8304-18897ffb9cd1
+:ANKI_NOTE_ID: 1662482190272
+:FC_CREATED: 2022-09-06T16:36:30Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   138.49 | 2023-05-25T02:36:42Z |
+:END:
+*** Extra
+*** Source
+[cite:@RedblackTree2022]
+** Properties :fc:
+:PROPERTIES:
+:ID:       9f02a70e-b3bc-4927-9a49-dd1a6b3ac9b0
+:ANKI_NOTE_ID: 1661274229748
+:FC_CREATED: 2022-08-23T17:03:49Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 5
+:FC_CLOZE_TYPE: deletion
+:FC_BLOCKED_BY:       a9784b27-128c-4a08-a347-dfd6ab204b00,559db6ae-f4f7-4f9c-8c16-1ecf7e9b021d,2f628869-4f2b-49ee-ad78-3b44389ab7e5,4e3440f5-ce7a-43e3-ba81-046d16d0f3ae
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        4 | 2.65 |   6 |   125.08 | 2023-07-06T15:38:16Z |
+|        0 | 2.80 |   7 |   121.75 | 2023-05-03T21:56:01Z |
+|        1 | 2.80 |   6 |    84.42 | 2023-04-27T03:21:09Z |
+|        2 | 2.50 |   6 |    64.51 | 2023-04-06T02:13:23Z |
+|        3 | 2.35 |   6 |    82.47 | 2023-05-31T14:31:56Z |
+:END:
+
+Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4}
+
+1. {{Every node is either red or black}{color}@0}
+2. {{All NIL nodes are considered black}{NIL}@1}
+3. {{A red node does not have a red child}{children}@2}
+4. {{Every path from a given node to any of its descendant NIL nodes goes through the same number of black nodes}{paths}@3}
+
+
+*** Source
+[cite:@RedblackTree2022]
+** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) Every node is {{red or black}{color}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-11 Fri 07:48]
+:FC_CREATED: 2022-11-11T15:49:03Z
+:FC_TYPE:  cloze
+:ID:       a9784b27-128c-4a08-a347-dfd6ab204b00
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   155.92 | 2023-07-14T16:57:19Z |
+:END:
+
+*** Source
+[cite:@RedblackTree2022]
+** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) All {{=NIL= nodes}@0} are considered {{black}{color}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-11 Fri 07:49]
+:FC_CREATED: 2022-11-11T15:50:25Z
+:FC_TYPE:  cloze
+:ID:       559db6ae-f4f7-4f9c-8c16-1ecf7e9b021d
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   116.19 | 2023-05-26T07:02:22Z |
+|        1 | 2.50 |   6 |    70.02 | 2023-04-22T00:18:20Z |
+:END:
+
+*** Source
+[cite:@RedblackTree2022]
+** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) Red nodes {{cannot}{can/can't}@0} have red children :fc:
+:PROPERTIES:
+:CREATED: [2022-11-11 Fri 07:50]
+:FC_CREATED: 2022-11-11T15:51:17Z
+:FC_TYPE:  cloze
+:ID:       4e3440f5-ce7a-43e3-ba81-046d16d0f3ae
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   171.16 | 2023-08-02T21:23:27Z |
+:END:
+
+*** Source
+[cite:@RedblackTree2022]
+** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) Every path from a node to its descendant =NIL= node(s) {{goes through the same number of black nodes}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-11 Fri 07:52]
+:FC_CREATED: 2022-11-11T15:52:47Z
+:FC_TYPE:  cloze
+:ID:       2f628869-4f2b-49ee-ad78-3b44389ab7e5
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   101.02 | 2023-05-10T19:24:52Z |
+:END:
+
+*** Source
+[cite:@RedblackTree2022]
+#+print_bibliography:

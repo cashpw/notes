@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       129f1b92-49f6-44af-bae3-d8a171f66f04
+:LAST_MODIFIED: [2023-02-14 Tue 20:45]
+:END:
+#+title: Directed graph
+#+hugo_custom_front_matter: :slug "129f1b92-49f6-44af-bae3-d8a171f66f04"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-05 Tue 17:45]
+#+filetags: :concept:
+
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which the [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] have an orientation. The [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]] for a directed graph isn't symmetric.
+
+#+begin_quote
+[[file:Directed.svg.png]]
+
+[cite:@GraphDiscreteMathematics2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
+:PROPERTIES:
+:ID:       85fc71f7-edba-4121-a4b5-16b6138faa10
+:ANKI_NOTE_ID: 1658321219876
+:FC_CREATED: 2022-07-20T12:46:59Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   7 |   214.43 | 2023-08-17T04:57:46Z |
+| front    | 2.50 |   7 |   213.92 | 2023-08-24T14:56:06Z |
+:END:
+
+[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]
+
+*** Back
+- A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] have an orientation.
+- A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a non-symmetric [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
+
+*** Source
+[cite:@GraphDiscreteMathematics2022]
+
+** Image :fc:
+:PROPERTIES:
+:ID:       eef20657-fc6d-4e77-9dbe-535ea8616df1
+:ANKI_NOTE_ID: 1658321220550
+:FC_CREATED: 2022-07-20T12:47:00Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   186.97 | 2023-07-01T15:43:36Z |
+| back     | 2.95 |   7 |   313.25 | 2023-12-25T10:43:01Z |
+:END:
+
+[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]
+
+*** Back
+[[file:Directed.svg.png]]
+
+*** Source
+[cite:@GraphDiscreteMathematics2022]
+#+print_bibliography:

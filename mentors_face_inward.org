@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       40d6bbef-ec19-45e2-9fe2-bf6de3c8aded
+:DIR:      /home/cashweaver/proj/roam/attachments/40d6bbef-ec19-45e2-9fe2-bf6de3c8aded
+:LAST_MODIFIED: [2023-01-30 Mon 08:14]
+:END:
+#+title: Mentors face inward
+#+hugo_custom_front_matter: :slug "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 16:10]
+#+filetags: :concept:
+
+[[id:1af39408-7a58-4e23-99dd-ade56a6bce53][Mentors]] face inward, rather than [[id:8ff15f08-a2b1-432c-b093-c774ab951f2c][outward]], toward the one they mentor. They seek to improve their mentee directly.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Compare and contrast :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-12-01T16:03:07Z
+:FC_TYPE:  normal
+:ID:       b1ddf039-8c77-4e7b-a0d7-4ae1e77259f7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    61.83 | 2023-04-02T12:06:23Z |
+:END:
+
+[[id:1af39408-7a58-4e23-99dd-ade56a6bce53][Mentors]] and [[id:0979614d-3fe7-443c-844f-22fa71465ba1][Sponsors]] (direction)
+
+*** Back
+- [[id:40d6bbef-ec19-45e2-9fe2-bf6de3c8aded][Mentors face inward]]
+- [[id:8ff15f08-a2b1-432c-b093-c774ab951f2c][Sponsors face outward]]
+*** Source
+[cite:@allspawBeingSeniorEngineer]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 19:14]
+:FC_CREATED: 2022-11-22T03:16:57Z
+:FC_TYPE:  double
+:ID:       eee8026e-ca6a-4bb6-9331-ca9ef8b974d1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    74.96 | 2023-04-15T01:42:23Z |
+| back     | 2.20 |   6 |    61.32 | 2023-04-09T05:19:07Z |
+:END:
+
+[[id:40d6bbef-ec19-45e2-9fe2-bf6de3c8aded][Mentors face inward]]
+
+*** Back
+Mentors seek to improve their mentee directly.
+*** Source
+
+#+print_bibliography:

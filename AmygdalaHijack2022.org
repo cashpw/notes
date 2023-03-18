@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@AmygdalaHijack2022]
+:ID:       d3077e94-b0b6-4880-b17f-0cd06fd06008
+:ROAM_ALIASES: "Affective override"
+:LAST_MODIFIED: [2023-02-17 Fri 06:55]
+:END:
+#+title: Amygdala hijack
+#+hugo_custom_front_matter: :slug "d3077e94-b0b6-4880-b17f-0cd06fd06008"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-21 Tue 09:56]
+#+filetags: :reference:
+ 
+#+begin_quote
+An amygdala hijack is an emotional response that is immediate, overwhelming, and out of measure with the actual stimulus because it has triggered a much more significant emotional threat.
+
+[cite:@AmygdalaHijack2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       55f345ce-9a23-408d-95dc-c3befb9a89ad
+:ANKI_NOTE_ID: 1656854568476
+:FC_CREATED: 2022-07-03T13:22:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |  11 |   274.63 | 2023-11-18T18:23:48Z |
+| front    | 2.35 |   6 |    64.52 | 2023-04-23T03:27:20Z |
+:END:
+[[id:d3077e94-b0b6-4880-b17f-0cd06fd06008][Amygdala hijack]]
+*** Back
+- An emotional response that is immediate, overwhelming, and out of measure with the actual stimulus because it has triggered a much more significant emotional threat.
+- The moment emotion shuts down critical thinking
+*** Source
+[cite:@AmygdalaHijack2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       57409a71-4f64-4242-84c8-61423ff75eba
+:ANKI_NOTE_ID: 1656854505101
+:FC_CREATED: 2022-07-03T13:21:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   119.07 | 2023-05-20T16:01:22Z |
+|        1 | 2.50 |   6 |    89.54 | 2023-05-09T07:38:09Z |
+:END:
+
+- {{[[id:d3077e94-b0b6-4880-b17f-0cd06fd06008][Amygdala hijack]]}@0}
+- {{[[id:d3077e94-b0b6-4880-b17f-0cd06fd06008][Affective override]]}@1}
+
+*** Source
+- [cite:@danskinEndnoteWhiteFascismYouTube]
+- [cite:@AmygdalaHijack2022]
+#+print_bibliography:

@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@SerenityPrayer2021]
+:ID:       749f3b30-7a42-4262-9175-f9b2046557ec
+:LAST_MODIFIED: [2023-03-09 Thu 19:06]
+:END:
+#+title: Serenity prayer
+#+hugo_custom_front_matter: :slug "749f3b30-7a42-4262-9175-f9b2046557ec"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-17 Thu 07:20]
+#+filetags: :reference:
+ 
+Reinhold Niebuhr, [cite:@SerenityPrayer2021]
+
+#+begin_verse
+God, grant me the serenity to accept the things I cannot change,
+courage to change the things I can,
+and wisdom to know the difference.
+#+end_verse
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** God, grant me {{the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 12:03]
+:FC_CREATED: 2022-11-23T20:03:46Z
+:FC_TYPE:  cloze
+:ID:       2d926629-7a2b-4839-8fac-c0bd8d599123
+:FC_BLOCKED_BY:       643691ed-1829-4765-bb0a-6c1dc612f78a,24e7efce-ae21-4484-9190-a3caffd5c2c7,7a957633-9eab-4b9e-af2f-186ce83d6a99
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   5 |    36.93 | 2023-04-11T15:30:59Z |
+:END:
+
+*** Source
+[cite:@SerenityPrayer2021]
+** God, grant me {{the serenity to accept the things I cannot change}@0}, courage to change the things I can, and wisdom to know the difference. :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 12:03]
+:FC_CREATED: 2022-11-23T20:03:46Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       7a957633-9eab-4b9e-af2f-186ce83d6a99
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    74.31 | 2023-05-02T09:33:08Z |
+:END:
+*** Source
+[cite:@SerenityPrayer2021]
+** God, grant me the serenity to accept the things I cannot change, {{courage to change the things I can}@0}, and wisdom to know the difference. :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 12:03]
+:FC_CREATED: 2022-11-23T20:03:46Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       643691ed-1829-4765-bb0a-6c1dc612f78a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    97.20 | 2023-06-15T07:47:44Z |
+:END:
+*** Source
+[cite:@SerenityPrayer2021]
+** God, grant me the serenity to accept the things I cannot change, courage to change the things I can, {{and wisdom to know the difference}@0}. :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 12:03]
+:FC_CREATED: 2022-11-23T20:03:46Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       24e7efce-ae21-4484-9190-a3caffd5c2c7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    78.27 | 2023-05-04T22:27:06Z |
+:END:
+*** Source
+[cite:@SerenityPrayer2021]
+#+print_bibliography:

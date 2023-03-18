@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       858c6cb1-52a9-446a-b11f-b35229b528e0
+:ROAM_REFS: [cite:@TestingEffect2022]
+:LAST_MODIFIED: [2023-03-08 Wed 10:36]
+:ROAM_ALIASES: "Active recall"
+:END:
+#+title: Testing effect
+#+hugo_custom_front_matter: :slug "858c6cb1-52a9-446a-b11f-b35229b528e0"
+#+filetags: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-31 Fri 11:36]
+
+#+begin_quote
+The testing effect [...] suggests long-term memory is increased when some of the learning period is devoted to retrieving information from memory.[4] It is different from more general practice effect, defined in the APA Dictionary of Psychology as "any change or improvement that results from practice or repetition of task items or activities."[
+
+[cite:@TestingEffect2022]
+#+end_quote
+
+Retrieving a piece of information from memory will increase ones ability to recall that piece of information over long periods of time. A common example would be using tests as a tool for study. The student has to attempt to recall the information from memory while taking the test and thereby improves their recall.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 11:45]
+:FC_CREATED: 2022-11-18T19:46:05Z
+:FC_TYPE:  double
+:ID:       460b5af5-495f-4ec1-8068-d1791564f383
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   112.86 | 2023-06-19T12:32:56Z |
+| back     | 2.65 |   6 |   119.90 | 2023-07-06T16:12:31Z |
+:END:
+
+[[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]
+
+*** Back
+Long term memory is increased when some of the learning period is devoted to retrieving information from memory.
+*** Source
+
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-12-13 Tue 10:22]
+:FC_CREATED: 2022-12-13T18:22:18Z
+:FC_TYPE:  cloze
+:ID:       18adcef7-d4c5-4085-a32d-1c6bb52197e8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    76.52 | 2023-05-04T14:18:51Z |
+|        1 | 2.95 |   5 |    44.45 | 2023-03-20T03:10:35Z |
+:END:
+
+- {{[[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Active recall]]}@0}
+- {{[[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]}@1}
+
+*** Source
+[cite:@TestingEffect2022]
+#+print_bibliography:

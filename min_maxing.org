@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       7ecdf7fa-6b7e-43f9-8268-484b9007ea87
+:ROAM_ALIASES: Powergaming
+:ROAM_REFS: [cite:@Powergaming2022]
+:LAST_MODIFIED: [2023-03-09 Thu 19:06]
+:END:
+#+title: Min-maxing
+#+hugo_custom_front_matter: :slug "7ecdf7fa-6b7e-43f9-8268-484b9007ea87"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-27 Tue 12:53]
+#+filetags: :concept:
+
+#+begin_quote
+Playing [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][The meta]], at possible detriment to the story and/or enjoyment of the game.
+
+[cite:@GlossaryVideoGameTerms2022]
+#+end_quote
+
+A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] technique.
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:51]
+:FC_CREATED: 2022-11-22T18:53:08Z
+:FC_TYPE:  double
+:ID:       2f2d506d-94ad-4888-bcf1-e1751f675aba
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    65.54 | 2023-04-10T05:32:53Z |
+| back     | 2.95 |   6 |   134.51 | 2023-07-22T15:19:30Z |
+:END:
+
+[[id:7ecdf7fa-6b7e-43f9-8268-484b9007ea87][Min-maxing]]
+
+*** Back
+A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] technique which focuses on effectiveness -- the [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] -- over enjoyment, exploration, fun, etc.
+*** Source
+[cite:@Powergaming2022]
+#+print_bibliography:

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5b40598c-308f-429d-8a0a-9c72bc1653f3
+:ROAM_REFS: [cite:@modiOxHugoCarefullyCraftedOrgExporterBackendHugo2022]
+:END:
+#+title: ox-hugo
+#+hugo_custom_front_matter: :slug "5b40598c-308f-429d-8a0a-9c72bc1653f3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 09:06]
+
+#+begin_quote
+ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).
+
+[cite:@modiOxHugoCarefullyCraftedOrgExporterBackendHugo2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

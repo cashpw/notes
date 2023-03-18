@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       e20ac0c6-f1ba-420d-9afb-c9f031264a2b
+:ROAM_REFS: [cite:@SpeedLight2023]
+:LAST_MODIFIED: [2023-03-18 Sat 06:34]
+:END:
+#+title: Speed of light
+#+hugo_custom_front_matter: :slug "e20ac0c6-f1ba-420d-9afb-c9f031264a2b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-17 Fri 09:06]
+#+filetags: :concept:
+
+#+begin_quote
+The speed of light in vacuum, commonly denoted $c$, is a universal physical constant that is exactly equal to 299,792,458 metres per second (approximately 300,000 kilometres per second; 186,000 miles per second; 671 million miles per hour).
+
+[cite:@SpeedLight2023]
+#+end_quote
+#+print_bibliography:
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:07]
+:FC_CREATED: 2023-03-17T16:08:19Z
+:FC_TYPE:  cloze
+:ID:       da7a9cf9-27b9-42b3-9060-868ad343719f
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-03-19T13:32:59Z |
+:END:
+
+The speed of light in a vacuum is approximately {{300,000}@0} kilometers per second.
+
+*** Source
+[cite:@SpeedLight2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 06:34]
+:FC_CREATED: 2023-03-18T13:34:57Z
+:FC_TYPE:  cloze
+:ID:       d5eb2dd0-1ddc-4b8d-ae64-a23ae90828fe
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-03-18T13:34:57Z |
+:END:
+
+The speed of light in a vacuum is approximately {{186,000}@0} miles per second.
+
+*** Source
+[cite:@SpeedLight2023]
+#+print_bibliography:

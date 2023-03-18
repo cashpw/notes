@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       85cfa8c4-9c7b-47d9-a593-8548385027f7
+:LAST_MODIFIED: [2023-02-24 Fri 20:05]
+:END:
+#+title: Pedagogy
+#+hugo_custom_front_matter: :slug "85cfa8c4-9c7b-47d9-a593-8548385027f7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-18 Mon 18:48]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Pedagogy, most commonly understood as the approach to teaching, is the theory and practice of learning, and how this process influences, and is influenced by, the social, political and psychological development of learners.
+
+[cite:@Pedagogy2022]
+#+end_quote
+
+* Related
+
+- [[id:39b74423-8abb-4fd6-8ca1-536539e2d05b][Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?]]
+- [[id:e6b1cd50-8293-44a3-bcba-d302d0835470][S Keshav | How to Read a Paper]]
+- [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced Repetition]]
+
+* TODO [#2] Expand
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       333dcd14-375f-4412-b24f-6bedda5dd0c5
+:ANKI_NOTE_ID: 1658195446075
+:FC_CREATED: 2022-07-19T01:50:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   6 |    93.42 | 2023-04-21T00:23:39Z |
+| front    | 2.20 |   6 |    66.12 | 2023-05-02T07:01:43Z |
+:END:
+[[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]]
+*** Back
+The theory and practice of learning
+*** Extra
+The theory and practice of learning, and how this process influences and is influenced by the development of learners.
+*** Source
+[cite:@Pedagogy2022]
+#+print_bibliography:

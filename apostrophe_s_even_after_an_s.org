@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c55c9efc-9920-4534-9d67-7d540dae4dba
+:LAST_MODIFIED: [2022-12-14 Wed 13:50]
+:END:
+#+title: Apostrophe-s even after an s
+#+hugo_custom_front_matter: :slug "c55c9efc-9920-4534-9d67-7d540dae4dba"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-01 Fri 18:49]
+#+filetags: :concept:
+
+Prefer "Chris's car" to "Chris' car" to show posession.
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

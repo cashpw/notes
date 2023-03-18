@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       db0d4876-ce19-4f03-8357-d199d72966e6
+:LAST_MODIFIED: [2023-03-03 Fri 07:12]
+:END:
+#+title: Nothing ever ends
+#+hugo_custom_front_matter: :slug "db0d4876-ce19-4f03-8357-d199d72966e6"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-03 Fri 07:08]
+#+filetags: :quote:
+
+#+begin_quote
+[[id:79c4e687-2f0a-49be-8290-6760b5e9b7be][Adrian Veidt]]: Jon, wait, before you leave... I [[id:d2444c40-8496-482e-a1fd-10d0351f531e][did the right thing]], didn't I? It all worked out in the end.
+
+[[id:8a26109a-beb9-453c-b5c6-97bbc9974e30][Dr. Manhattan]]: "In the end"? Nothing ends, Adrian. Nothing *ever* ends.
+
+[cite:@mooreWatchmen2005]
+#+end_quote
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,100 @@
+:PROPERTIES:
+:ID:       622f9a3c-b4a2-400e-9ee3-434efaa1f0c2
+:ROAM_REFS: [cite:@PowerRule2022]
+:LAST_MODIFIED: [2023-03-14 Tue 08:15]
+:END:
+#+title: Power rule
+#+hugo_custom_front_matter: :slug "622f9a3c-b4a2-400e-9ee3-434efaa1f0c2"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-21 Sat 06:33]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], the power rule is used to differentiate [[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiate]]] functions of the form $f(x) = x^r$, whenever $r$ is a real number. Since differentiation is a linear operation on the space of differentiable functions, polynomials can also be differentiated using this rule. The power rule underlies the Taylor series as it relates a power series with a function's derivatives.
+
+Let $f$ be a function satisfying $\displaystyle f(x)=x^{r}$ for all $x$, where $r\in {\mathbb {R}}$. Then,
+
+    $\displaystyle f'(x)=rx^{r-1}$
+
+The power rule for integration states that
+
+    $\int\! x^r \, dx=\frac{x^{r+1}}{r+1}+C$
+
+for any real number $r \neq -1$. It can be derived by inverting the power rule for differentiation. In this equation $C$ is any constant.
+
+[cite:@PowerRule2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-21 Sat 06:36]
+:FC_CREATED: 2023-01-21T14:38:10Z
+:FC_TYPE:  double
+:ID:       0fb2e1eb-e670-41f2-939f-080b5e95fc1c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    37.98 | 2023-04-03T03:19:36Z |
+| back     | 2.80 |   5 |    46.62 | 2023-04-24T09:17:22Z |
+:END:
+
+[[id:622f9a3c-b4a2-400e-9ee3-434efaa1f0c2][Power rule]] for [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]
+
+*** Back
+$$
+\begin{align}
+f(x) &= x^r \\
+f'(x) &= rx^{r-1}
+\end{align}
+$$
+*** Source
+[cite:@PowerRule2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 09:40]
+:FC_CREATED: 2023-01-19T17:49:04Z
+:FC_TYPE:  cloze
+:ID:       953c4ef7-63f9-42a4-b721-b4ab1ed67caf
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    37.75 | 2023-04-03T22:12:50Z |
+:END:
+
+$y = x^{-4}$
+
+$\frac{dy}{dx}=$ {{$-4x^{-5}$}@0}
+
+*** Source
+[cite:@thompsonCalculusMadeEasy1914]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-21 Sat 06:42]
+:FC_CREATED: 2023-01-21T14:43:57Z
+:FC_TYPE:  double
+:ID:       e284e674-ef01-4fd7-a8c1-d2093b50fb87
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.69 | 2023-04-18T19:31:22Z |
+| back     | 2.80 |   5 |    50.52 | 2023-05-04T03:51:02Z |
+:END:
+
+[[id:622f9a3c-b4a2-400e-9ee3-434efaa1f0c2][Power rule]] for [[id:61de6a28-e681-45bd-a086-fff5b924354e][Integration]]
+
+*** Back
+$$
+\begin{align}
+f(x) &= x^r \\
+\int\! f(x) \, dx&=\frac{x^{r+1}}{r+1}+C
+\end{align}
+$$
+*** Source
+[cite:@PowerRule2022]
+#+print_bibliography:

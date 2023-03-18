@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       bb89b03a-068d-49b1-a25f-d9c4924558b3
+:ROAM_REFS: [cite:@AdmissibleHeuristic2022]
+:LAST_MODIFIED: [2023-03-05 Sun 09:26]
+:END:
+#+title: Admissible heuristic
+#+hugo_custom_front_matter: :slug "bb89b03a-068d-49b1-a25f-d9c4924558b3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 14:13]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, specifically in algorithms related to pathfinding, a heuristic [[[id:302ef720-52b0-4d58-b652-7812ad5a8c1e][Heuristic]]] function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path.
+
+[cite:@AdmissibleHeuristic2022]
+#+end_quote
+
+See also [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 14:20]
+:FC_CREATED: 2022-12-21T22:20:44Z
+:FC_TYPE:  double
+:ID:       d977a815-79d0-4671-ba59-d29c2f8ea285
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    75.83 | 2023-05-20T13:20:49Z |
+| back     | 2.20 |   6 |    57.53 | 2023-04-27T16:45:53Z |
+:END:
+
+[[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]]
+
+*** Back
+A heuristic function which never overestimates the cost of reaching the goal.
+*** Source
+[cite:@AdmissibleHeuristic2022]
+#+print_bibliography:

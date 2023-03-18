@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       b1a664cb-c661-4c44-bf55-fc407c528ad1
+:DIR:      /home/cashweaver/proj/roam/attachments/b1a664cb-c661-4c44-bf55-fc407c528ad1
+:LAST_MODIFIED: [2023-02-16 Thu 19:45]
+:END:
+#+title: Wizard's first rule
+#+hugo_custom_front_matter: :slug "b1a664cb-c661-4c44-bf55-fc407c528ad1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-22 Tue 18:52]
+#+filetags: :quote:
+
+#+begin_quote
+Wizard's First Rule: people are stupid.
+
+People are stupid; given proper motivation, almost anyone will believe almost anything. Because people are stupid, they will believe a lie because they want to believe it's true, or because they are afraid it might be true. People's heads are full of knowledge, facts, and beliefs, and most of it is false, yet they think it all true. People are stupid; they can only rarely tell the difference between a lie and the truth, and yet they are confident they can, and so are all the easier to fool."
+
+Zedd, [cite:@WizardFirstRule2021]
+#+end_quote
+
+I think "stupid" here is punching above its weight. That is, the full meaning isn't imparted by "People are stupid" since one could just as easily interpret that as "People haven't learned ___" ([[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be explicit]]). I think the follow-up is more useful: "People will believe almost anything, given the proper motivation."
+
+Related:
+
+- [[id:d0930766-c7f4-4d54-83d4-fd62a418783e][When their salary depends on their not understanding]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:b1a664cb-c661-4c44-bf55-fc407c528ad1][Wizard's first rule]] is better phrased as: {{People will believe almost anything when given the proper motivation.}@0} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-18T04:01:00Z
+:FC_TYPE:  cloze
+:ID:       51000b30-e975-4d04-849d-cea7e048f637
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |    95.88 | 2023-05-24T00:55:25Z |
+:END:
+** [[id:b1a664cb-c661-4c44-bf55-fc407c528ad1][Wizard's first rule]]: {{People are stupid}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 06:52]
+:FC_CREATED: 2022-11-14T14:52:51Z
+:FC_TYPE:  cloze
+:ID:       63b2ca16-1392-4471-bd0e-3a25d4c19f04
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    59.17 | 2023-03-18T19:22:26Z |
+:END:
+
+*** Source
+[cite:@WizardFirstRule2021]
+#+print_bibliography:

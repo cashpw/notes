@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       23bf567f-d642-4b20-93cf-9adf39789da2
+:ROAM_REFS: [cite:@StagHunt2022]
+:LAST_MODIFIED: [2023-02-11 Sat 07:31]
+:END:
+#+title: Stag hunt
+#+hugo_custom_front_matter: :slug "23bf567f-d642-4b20-93cf-9adf39789da2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-30 Fri 14:29]
+#+filetags: :concept:
+
+#+begin_quote
+In game theory, the stag hunt, sometimes referred to as the assurance game, trust dilemma or common interest game, describes a conflict between safety and social cooperation. The stag hunt problem originated with philosopher Jean-Jacques Rousseau in his Discourse on Inequality. In Rousseau's telling, two hunters must decide separately, and without the other knowing, whether to hunt a stag or a hare. However, both hunters know the only way to successfully hunt a stag is with the other's help. One hunter can catch a hare alone with less effort and less time, but it is worth far less than a stag and has much less meat. Rousseau therefore posits it would be much better for each hunter, acting individually, to give up total autonomy and minimal risk, which brings only the small reward of the hare. Instead, each hunter should separately choose the more ambitious and far more rewarding goal of getting the stag, thereby giving up some autonomy in exchange for the other hunter's cooperation and added might.
+
+[cite:@StagHunt2022]
+#+end_quote
+
+See also: [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]].
+
+* Examples
+
+- Social cooperation; international agreements regarding climate change
+
+* Flashcards
+** Example(s) :fc:suspended:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 14:33]
+:FC_CREATED: 2022-09-30T21:36:06Z
+:FC_TYPE:  cloze
+:ID:       f3e9d0a5-dd51-4987-aa7e-da9cd42bfad3
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   3 |     6.00 | 2022-12-09T19:56:23Z |
+|        1 |  2.5 |  -1 |        0 | 2022-09-30T21:36:06Z |
+:END:
+
+{{[[id:23bf567f-d642-4b20-93cf-9adf39789da2][Stag hunt]]}@0} ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]])
+
+- {{Social cooperation; international agreements regarding climate change}@1}
+
+*** Source
+[cite:@StagHunt2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 12:29]
+:FC_CREATED: 2022-11-18T20:30:15Z
+:FC_TYPE:  double
+:ID:       6c1486b7-121c-4e75-b691-179e48e0bde7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    75.82 | 2023-04-15T21:55:37Z |
+| back     | 2.20 |   6 |    58.05 | 2023-04-10T16:46:06Z |
+:END:
+
+[[id:23bf567f-d642-4b20-93cf-9adf39789da2][Stag hunt]]
+
+*** Back
+- Players can gain more through cooperation than they can on their own
+- Sometimes involves deciding whether or not to cooperate with [[id:f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff][Imperfect information]]
+*** Source
+[cite:@StagHunt2022]
+#+print_bibliography:

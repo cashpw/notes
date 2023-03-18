@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       440b6c99-7394-44d1-8e62-61a15673dd95
+:LAST_MODIFIED: [2023-03-11 Sat 16:21]
+:END:
+#+title: Red Queen's race
+#+hugo_custom_front_matter: :slug "440b6c99-7394-44d1-8e62-61a15673dd95"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 10:25]
+#+filetags: :concept:
+
+#+begin_quote
+"Well, in our country," said Alice, still panting a little, "you'd generally get to somewhere else—if you run very fast for a long time, as we've been doing."
+
+"A slow sort of country!" said the Queen. "Now, here, you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that!"
+
+[cite:@carrollLookingglassWhatAliceFoundThere1999]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 10:31]
+:FC_CREATED: 2022-11-23T18:32:30Z
+:FC_TYPE:  double
+:ID:       5cca26ab-9f70-4236-9230-4582dab66f73
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |    98.91 | 2023-05-25T02:22:40Z |
+| back     | 3.10 |   6 |   153.15 | 2023-08-12T03:57:12Z |
+:END:
+
+[[id:440b6c99-7394-44d1-8e62-61a15673dd95][Red Queen's race]]
+
+*** Back
+A situation in which it takes all one's effort just to remain where they are.
+*** Source
+[cite:@RedQueenRace2022]
+#+print_bibliography:

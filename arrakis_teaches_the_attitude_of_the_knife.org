@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       d1c3e5ea-068e-457c-92dd-289b5ee04a5a
+:LAST_MODIFIED: [2023-03-14 Tue 08:11]
+:END:
+#+title: Arrakis teaches the attitude of the knife
+#+hugo_custom_front_matter: :slug "d1c3e5ea-068e-457c-92dd-289b5ee04a5a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 17:29]
+#+filetags: :quote:
+#+begin_quote
+Arrakis teaches the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here.'
+
+"Collected Sayings of [[id:9f491719-8277-4aab-94fd-39c512730430][Muad'Dib]]" by the [[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Princess Irulan]], [cite:@herbertDune1999]
+#+end_quote
+* Flashcards
+** Arrakis teaches {{the attitude of the knife - chopping off what's incomplete and saying: 'Now, it's complete because it's ended here'.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 17:32]
+:FC_CREATED: 2022-11-13T01:32:43Z
+:FC_TYPE:  cloze
+:ID:       6aa1c02a-6aeb-42f3-9841-ff2de4580291
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    79.14 | 2023-06-01T18:39:30Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+#+print_bibliography:

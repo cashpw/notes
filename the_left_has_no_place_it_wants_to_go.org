@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       89f17c46-04dc-42ba-bda2-7ac14c5cbae0
+:LAST_MODIFIED: [2023-03-10 Fri 21:23]
+:END:
+#+title: The left has no place it wants to go
+#+hugo_custom_front_matter: :slug "89f17c46-04dc-42ba-bda2-7ac14c5cbae0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-07 Thu 19:01]
+#+filetags: :quote:
+
+#+begin_quote
+The left has no particular place it wants to go. And, to rehash an old quip, if you have no destination, any direction can seem as good as any other. The left careens from this oppressed group or crisis moment to that one, from one magical or morally pristine constituency or source of political agency (youth/students; undocumented immigrants; the Iraqi labor movement; the Zapatistas; the urban "precariat"; green whatever; the black/Latino/LGBT "community"; the grassroots, the netroots, and the blogosphere; this season's worthless Democrat; Occupy; a "Trotskyist" software engineer elected to the Seattle City Council) to another. It lacks focus and stability; its métier is bearing witness, demonstrating solidarity, and the event or the gesture. Its reflex is to "send messages" to those in power, to make statements, and to stand with or for the oppressed.
+
+[[id:26b5b285-6345-4c27-bdd6-26ae906aefdb][Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures Read More]]
+#+end_quote
+
+This is in part (in the context of politics in the US) because those on the left want what the rich/powerful don't want and yet the left must at some level appeal to the rich/powerful in order to maintain their own power.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:29]
+:FC_CREATED: 2022-11-18T17:33:17Z
+:FC_TYPE:  double
+:ID:       2d5af258-b12b-4e9c-bce4-c09e38bb2bb2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   105.07 | 2023-06-09T05:21:20Z |
+| back     | 2.35 |   6 |    76.90 | 2023-05-27T02:58:08Z |
+:END:
+
+[[id:89f17c46-04dc-42ba-bda2-7ac14c5cbae0][The left has no place it wants to go]]
+
+*** Back
+The left has no clear direction -- they careen from this oppressed group or crisis moment to that one. It lacks focus and stability; its métier is bearing witness, demonstrating solidarity, and the event or the gesture. It's reflex is to "send messages" to those in power, to make statements, and to stand with or for the oppressed.
+*** Source
+[cite:@reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014]
+** [The left] lacks {{focus and stability; ...}{short}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:33]
+:FC_CREATED: 2022-11-18T17:33:45Z
+:FC_TYPE:  cloze
+:ID:       ef87947a-09a2-4ef0-ac00-8beecda465ee
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    66.40 | 2023-04-28T06:53:15Z |
+:END:
+
+*** Source
+[cite:@reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014]
+** [The left] lacks focus and stability; {{its métier is bearing witness, demonstrating solidarity, and the event or the gesture.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:33]
+:FC_CREATED: 2022-11-18T17:34:40Z
+:FC_TYPE:  cloze
+:ID:       99d15d8d-35b9-4d56-95d7-f2fe3679faa3
+:FC_BLOCKED_BY:       03e144e8-9c16-4428-b987-6c8013ed326a,ef87947a-09a2-4ef0-ac00-8beecda465ee
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.75 |   5 |    21.07 | 2023-03-23T05:55:31Z |
+:END:
+
+*** Source
+[cite:@reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014]
+** The left's métier is {{bearing witness.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:34]
+:FC_CREATED: 2022-11-18T17:35:22Z
+:FC_TYPE:  cloze
+:ID:       03e144e8-9c16-4428-b987-6c8013ed326a
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    60.51 | 2023-04-18T13:56:44Z |
+:END:
+
+*** Source
+[cite:@reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014]
+#+print_bibliography:

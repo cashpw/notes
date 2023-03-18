@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       764647e5-a75c-42ee-be97-0b56a1bbd8fc
+:LAST_MODIFIED: [2023-03-11 Sat 16:29]
+:ROAM_REFS: [cite:@QuoteEdwardMurrow]
+:END:
+#+title: We are not descended from fearful men
+#+hugo_custom_front_matter: :slug "764647e5-a75c-42ee-be97-0b56a1bbd8fc"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-22 Sun 09:25]
+#+filetags: :quote:
+
+#+begin_quote
+We must not confuse dissent with disloyalty. We must remember always that accusation is not proof and that conviction depends upon evidence and due process of law. We will not walk in fear, one of another. We will not be driven by fear into an age of unreason, if we dig deep in our history and our doctrine, and remember that we are not descended from fearful men – not from men who feared to write, to speak, to associate, and to defend causes that were, for the moment, unpopular.
+
+[cite:@QuoteEdwardMurrow]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-22 Sun 09:26]
+:FC_CREATED: 2023-01-22T17:29:44Z
+:FC_TYPE:  double
+:ID:       34478684-ebd4-4d7f-b8b5-094cc50706cb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    39.20 | 2023-04-04T08:48:13Z |
+| back     | 2.80 |   5 |    50.36 | 2023-05-01T09:04:48Z |
+:END:
+
+[[id:764647e5-a75c-42ee-be97-0b56a1bbd8fc][We are not descended from fearful men]]
+
+*** Back
+A quote by [[id:83a8f1dd-f250-40da-886f-8b5512a83f1a][Edward Murrow]] refuting fear of others, of the unknown, of the different.
+*** Source
+[cite:@QuoteEdwardMurrow]
+#+print_bibliography:

@@ -1,0 +1,225 @@
+:PROPERTIES:
+:ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
+:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:ROAM_REFS: [cite:@MinimumSpanningTree2022]
+:END:
+#+title: Minimum spanning tree
+#+hugo_custom_front_matter: :slug "eb6b18c0-f0ff-45e9-a747-2b7516ddef52"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 08:20]
+#+filetags: :concept:
+
+#+begin_quote
+A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight. That is, it is a spanning tree [[[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]]] whose sum of edge weights is as small as possible.
+
+[...]
+
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minimum_spanning_tree.svg/300px-Minimum_spanning_tree.svg.png @ 2023-01-28 13:01:17
+[[file:2023-01-28_13-01-17_300px-Minimum_spanning_tree.svg.png]]
+
+[cite:@MinimumSpanningTree2022]
+#+end_quote
+
+* Cycle property
+:PROPERTIES:
+:ID:       c7d1c673-664e-4f45-9504-97e600a1db09
+:END:
+#+begin_quote
+For any cycle $C$ in the graph, if the weight of an edge $e$ of $C$ is larger than any of the individual weights of all other edges of $C$, then this edge cannot belong to an [minimum spanning tree].
+
+[cite:@MinimumSpanningTree2022]
+#+end_quote
+
+* Cut property
+:PROPERTIES:
+:ID:       1f772508-2f8d-42c6-ac79-2ed7dd02f874
+:END:
+#+begin_quote
+For any cut [[[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]]] $C$ of the graph, if the weight of an edge $e$ in the cut-set of $C$ is strictly smaller than the weights of all other edges of the cut-set of $C$, then this edge belongs to all [minimum spanning tree] of the graph.
+
+[cite:@MinimumSpanningTree2022]
+#+end_quote
+
+* Minimum-cost edge
+:PROPERTIES:
+:ID:       ec97ceb5-b281-4f2d-bbba-9d8760236901
+:END:
+
+#+begin_quote
+If the minimum cost edge e of a graph is unique, then this edge is included in any MST.
+
+[cite:@MinimumSpanningTree2022]
+#+end_quote
+
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:25]
+:FC_CREATED: 2023-01-17T16:27:14Z
+:FC_TYPE:  double
+:ID:       f8189fb8-fba0-4403-8b9d-6e1bb2eccc64
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    48.03 | 2023-04-15T16:39:14Z |
+| back     | 2.80 |   5 |    51.78 | 2023-05-02T00:09:18Z |
+:END:
+
+[[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
+
+*** Back
+A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] whose sum of edge weights is the smallest possible for the graph.
+*** Source
+[cite:@MinimumSpanningTree2022]
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:01]
+:FC_CREATED: 2023-01-28T21:01:42Z
+:FC_TYPE:  double
+:ID:       d185ea40-e8b7-4f13-b4ab-e0a8ce4cd927
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    51.72 | 2023-04-26T10:42:12Z |
+| back     | 2.80 |   5 |    45.33 | 2023-04-28T22:59:28Z |
+:END:
+
+[[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
+
+*** Back
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minimum_spanning_tree.svg/300px-Minimum_spanning_tree.svg.png @ 2023-01-28 13:01:17
+[[file:2023-01-28_13-01-17_300px-Minimum_spanning_tree.svg.png]]
+*** Source
+[cite:@MinimumSpanningTree2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:02]
+:FC_CREATED: 2023-01-28T21:04:28Z
+:FC_TYPE:  cloze
+:ID:       36089fc1-b164-40c4-89a8-d1e01a9433e3
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    41.20 | 2023-04-07T08:52:39Z |
+|        1 | 2.65 |   5 |    45.15 | 2023-04-26T04:02:53Z |
+:END:
+
+A graph has {{a single}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]] when {{each edge has a distinct weight}@1}.
+
+*** Source
+[cite:@MinimumSpanningTree2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:04]
+:FC_CREATED: 2023-01-28T21:05:44Z
+:FC_TYPE:  cloze
+:ID:       36d472af-ee57-4e64-b975-7cbe08eebe3a
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    36.75 | 2023-04-08T10:00:14Z |
+|        1 | 2.80 |   5 |    49.64 | 2023-04-27T10:04:35Z |
+:END:
+
+A graph has {{more than one}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]] when {{some edges have the same weight}@1}.
+
+*** Source
+[cite:@MinimumSpanningTree2022]
+
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:19]
+:FC_CREATED: 2023-01-28T21:20:15Z
+:FC_TYPE:  double
+:ID:       fc0a5c62-6617-4c21-8276-a0cf8f5d7e07
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   3 |     6.00 | 2023-03-23T14:00:05Z |
+| back     | 2.80 |   5 |    46.62 | 2023-05-01T06:03:04Z |
+:END:
+
+[[id:c7d1c673-664e-4f45-9504-97e600a1db09][Cycle property]] of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
+
+*** Back
+#+begin_quote
+For any cycle $C$ in the graph, if the weight of an edge $e$ of $C$ is larger than any of the individual weights of all other edges of $C$, then this edge cannot belong to an [minimum spanning tree].
+#+end_quote
+*** Source
+[cite:@MinimumSpanningTree2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:20]
+:FC_CREATED: 2023-01-28T21:20:53Z
+:FC_TYPE:  double
+:ID:       f37fe090-1326-44c2-ba42-1824e3c30789
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    46.67 | 2023-05-01T07:11:01Z |
+| back     | 2.65 |   4 |    15.07 | 2023-03-20T19:04:31Z |
+:END:
+
+[[id:1f772508-2f8d-42c6-ac79-2ed7dd02f874][Cut property]] of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
+
+*** Back
+#+begin_quote
+For any cut [[[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]]] $C$ of the graph, if the weight of an edge $e$ in the cut-set of $C$ is strictly smaller than the weights of all other edges of the cut-set of $C$, then this edge belongs to all [[[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]] of the graph.
+#+end_quote
+*** Source
+[cite:@MinimumSpanningTree2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:23]
+:FC_CREATED: 2023-01-30T17:23:44Z
+:FC_TYPE:  double
+:ID:       2d123008-3eae-41ad-a7ca-ad8b4dc954d7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    52.29 | 2023-04-30T01:12:42Z |
+| back     | 2.80 |   5 |    54.03 | 2023-05-08T15:50:52Z |
+:END:
+
+[[id:ec97ceb5-b281-4f2d-bbba-9d8760236901][Minimum-cost edge]] property of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
+
+*** Back
+#+begin_quote
+If the minimum cost edge e of a graph is unique, then this edge is included in any MST.
+#+end_quote
+*** Source
+[cite:@MinimumSpanningTree2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:23]
+:FC_CREATED: 2023-01-30T17:24:15Z
+:FC_TYPE:  double
+:ID:       2fdb57d6-6ba3-4eb1-b202-0efd09563ab3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    46.42 | 2023-04-21T03:42:05Z |
+| back     | 1.90 |   4 |    12.08 | 2023-03-22T05:03:33Z |
+:END:
+
+Algorithms which generate a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
+
+*** Back
+- [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
+*** Source
+[cite:@MinimumSpanningTree2022]
+#+print_bibliography:

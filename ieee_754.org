@@ -1,0 +1,291 @@
+:PROPERTIES:
+:ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
+:ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
+:LAST_MODIFIED: [2023-03-11 Sat 16:32]
+:END:
+#+title: IEEE 754
+#+hugo_custom_front_matter: :slug "23e97230-9b73-4232-a76e-a1223b9bb70e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-24 Sun 10:52]
+#+filetags: :has_todo:concept:
+
+[[id:8659234c-fc9e-4d57-9e09-c8f7a81924d9][Institute of electrical and electronics engineers]]'s standard for floating-point arithmetic defines, among other things:
+
+- single (32 bit) and double (64 bit) precision floating point number representations
+
+* TODO [#4] Single-precision floating-point number
+:PROPERTIES:
+:ID:       f032f7df-4b61-4155-8edd-3808d76a1fa9
+:END:
+
+* TODO [#4] Double-precision floating-point number
+:PROPERTIES:
+:ID:       61d6d080-7462-46d7-8107-ed71b6296e30
+:END:
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]] divides the bits composing a floating-point number into groups: {{sign}@0}, {{exponent}@1}, and {{mantissa}@2}. :fc:
+:PROPERTIES:
+:ID:       45f0657e-1bd8-4a55-98de-a132c4eae058
+:ANKI_NOTE_ID: 1640627819548
+:FC_CREATED: 2021-12-27T17:56:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   114.79 | 2023-05-06T09:28:45Z |
+|        1 | 2.65 |   7 |   131.97 | 2023-03-20T15:22:54Z |
+|        2 | 2.65 |   7 |   162.36 | 2023-04-22T01:59:24Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@IEEE7542022]
+
+** IEEE 754 divides the bits composing a floating-point number into groups: {{sign, exponent, and mantissa}@0}. :fc:
+:PROPERTIES:
+:ID:       5eb48b0f-c582-4114-ad3d-9fa3241c6e6d
+:ANKI_NOTE_ID: 1640627819700
+:FC_CREATED: 2021-12-27T17:56:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   227.34 | 2023-07-24T04:20:25Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@IEEE7542022]
+
+
+** {{[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]] [[id:61d6d080-7462-46d7-8107-ed71b6296e30][Double-precision floating-point number]]}@0} are composed of :fc:
+:PROPERTIES:
+:ID:       5b7bf825-f53c-4683-b344-59960220fd4e
+:ANKI_NOTE_ID: 1640627820372
+:FC_CREATED: 2021-12-27T17:57:00Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        3 | 2.80 |  10 |   348.19 | 2024-01-31T08:00:30Z |
+|        2 | 2.35 |   8 |   282.72 | 2023-12-17T20:29:06Z |
+|        1 | 2.80 |   9 |   325.23 | 2024-01-24T22:52:02Z |
+|        0 | 2.80 |   6 |   114.23 | 2023-05-20T20:12:35Z |
+:END:
+
+- {{1 sign bit}@1}
+- {{11 exponent bits}@2}
+- {{52 singnificand bits}@3}
+*** Extra
+
+*** Source
+[cite:@IEEE7542022]
+
+
+** {{[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]] [[id:f032f7df-4b61-4155-8edd-3808d76a1fa9][Single-precision floating-point numbers]]}@0} are composed of :fc:
+:PROPERTIES:
+:ID:       6e8a3fbe-726a-4503-9e73-eb085826eeb6
+:ANKI_NOTE_ID: 1640627820224
+:FC_CREATED: 2021-12-27T17:57:00Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   297.98 | 2023-12-25T15:17:26Z |
+|        1 | 2.65 |   8 |   164.27 | 2023-04-14T22:48:17Z |
+|        2 | 2.65 |  13 |   308.84 | 2024-01-06T09:49:05Z |
+|        3 | 2.65 |   8 |   197.41 | 2023-06-11T01:19:24Z |
+:END:
+
+- {{1 sign bit}@1}
+- {{8 exponent bits}@2}
+- {{23 singnificand bits}@3}
+*** Extra
+
+*** Source
+[cite:@IEEE7542022]
+
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       9a5505ea-412d-4682-9f45-bbe35841a995
+:ANKI_NOTE_ID: 1640627816948
+:FC_CREATED: 2021-12-27T17:56:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.60 |  11 |   234.91 | 2023-09-29T21:42:38Z |
+|        1 | 2.65 |   7 |   136.72 | 2023-03-21T17:41:08Z |
+:END:
+
+- {{[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]]}@0}
+
+{{[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE standard for floating-point arithmetic]]}@1}
+
+*** Source
+[cite:@IEEE7542022]
+
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       441dfee5-c183-4862-93ef-cff3a9556e88
+:ANKI_NOTE_ID: 1640627818172
+:FC_CREATED: 2021-12-27T17:56:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   9 |   377.64 | 2024-03-23T15:48:07Z |
+| back     | 2.35 |   7 |   129.87 | 2023-03-18T13:09:04Z |
+:END:
+
+Fixed-point number representation
+
+*** Back
+Represents a fractional number by scaling a stored integer by an implicit specific factor.
+*** Source
+[cite:@FixedpointArithmetic2022]
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       990e1ad5-086d-4dc3-859b-664975db643e
+:ANKI_NOTE_ID: 1640627817771
+:FC_CREATED: 2021-12-27T17:56:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   421.87 | 2024-05-03T15:21:07Z |
+| back     | 2.35 |   9 |   196.20 | 2023-06-20T18:50:31Z |
+:END:
+
+Floating-point number representation
+
+*** Back
+Represents a number using a significand and an exponent: \(\text{significand} \times \text{base}^{\text{exponent}}\)
+*** Source
+[cite:@FixedpointArithmetic2022]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       cb092cc7-a019-4a9a-84e3-f5788a15d8b5
+:ANKI_NOTE_ID: 1640627818922
+:FC_CREATED: 2021-12-27T17:56:58Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   161.61 | 2023-04-12T07:02:04Z |
+|        1 | 2.65 |   9 |   197.59 | 2023-05-31T06:30:39Z |
+:END:
+
+- {{[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]] [[id:61d6d080-7462-46d7-8107-ed71b6296e30][Double-precision floating-point number]]}@0}
+- {{$\texttt{binary64}$}@1}
+
+*** Source
+[cite:@IEEE7542022]
+
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       2b1cd42b-43ae-4348-816b-16aa02ea54bd
+:ANKI_NOTE_ID: 1640627818422
+:FC_CREATED: 2021-12-27T17:56:58Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   143.85 | 2023-06-14T10:43:09Z |
+|        1 | 2.80 |   6 |   132.23 | 2023-06-30T22:59:54Z |
+:END:
+
+- {{[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]] [[id:f032f7df-4b61-4155-8edd-3808d76a1fa9][Single-precision floating-point number]]}@0}
+- {{$\texttt{binary32}$}@1}
+
+*** Source
+[cite:@IEEE7542022]
+
+
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       0806b73c-7fff-4cff-ad14-dd1de778b657
+:ANKI_NOTE_ID: 1658685641493
+:FC_CREATED: 2022-07-24T18:00:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   110.01 | 2023-04-22T04:17:09Z |
+| back     | 2.50 |   6 |    99.58 | 2023-04-30T07:10:29Z |
+:END:
+
+[[id:f032f7df-4b61-4155-8edd-3808d76a1fa9][Single-precision floating-point number]]
+
+*** Back
+32 bits divided into three groups:
+
+1. 1 sign bit
+2. 8 exponent bits
+3. 23 significand bits
+*** Source
+[cite:@IEEE7542022]
+
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       b1a27d7b-40d5-4803-8f36-7b617e951141
+:ANKI_NOTE_ID: 1658685642158
+:FC_CREATED: 2022-07-24T18:00:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   258.39 | 2023-10-12T23:07:26Z |
+| back     | 2.80 |   6 |   112.42 | 2023-04-02T04:28:11Z |
+:END:
+
+[[id:61d6d080-7462-46d7-8107-ed71b6296e30][Double-precision floating-point number]]
+
+*** Back
+64 bits divided into three groups:
+
+1. 1 sign bit
+2. 11 exponent bits
+3. 52 significand bits
+*** Source
+[cite:@IEEE7542022]
+#+print_bibliography:

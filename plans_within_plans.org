@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4
+:DIR:      /home/cashweaver/proj/roam/attachments/a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4
+:END:
+#+title: Plans within plans
+#+hugo_custom_front_matter: :slug "a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4"
+#+filetags: :has_todo:concept:
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-08 Tue 10:44]
+
+Related:
+
+- [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]]
+- [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][Xanatos gambit]]
+
+* TODO [#4] Expand :noexport:
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

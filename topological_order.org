@@ -1,0 +1,145 @@
+:PROPERTIES:
+:ID:       518c35ac-35d7-4c12-9522-efb13e5be1e8
+:LAST_MODIFIED: [2023-03-17 Fri 06:57]
+:ROAM_ALIASES: "Topological sorting"
+:ROAM_REFS: [cite:@TopologicalSorting2022]
+:END:
+#+title: Topological order
+#+hugo_custom_front_matter: :slug "518c35ac-35d7-4c12-9522-efb13e5be1e8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 07:31]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a topological sort or topological ordering of a directed graph [[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] is a linear ordering of its vertices such that for every directed edge $uv$ from vertex [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]] $u$ to vertex $v$, $u$ comes before $v$ in the ordering. For instance, the vertices of the graph may represent tasks to be performed, and the edges may represent constraints that one task must be performed before another; in this application, a topological ordering is just a valid sequence for the tasks. Precisely, a topological sort is a graph traversal in which each node $v$ is visited only after all its dependencies are visited. A topological ordering is possible if and only if the graph has no directed cycles, that is, if it is a directed acyclic graph (DAG) [[[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]].
+
+[cite:@TopologicalSorting2022]
+#+end_quote
+
+* Algorithms
+
+- Using [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]: [[id:2c232805-4cb3-47ba-8f89-d9090f29f740][Topological order by Depth-first search in Python]]
+
+  #+begin_src
+  L ← Empty list that will contain the sorted nodes
+  while exists nodes without a permanent mark do
+    select an unmarked node n
+    visit(n)
+
+  function visit(node n)
+    if n has a permanent mark then
+        return
+    if n has a temporary mark then
+        stop   (graph has at least one cycle)
+
+    mark n with a temporary mark
+
+    for each node m with an edge from n to m do
+        visit(m)
+
+    remove temporary mark from n
+    mark n with a permanent mark
+    add n to head of L
+  #+end_src
+
+  In English:
+
+  1. Visit each node in the graph
+     1. Using [[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]], visit its children, then add it to the topological order
+     2. Use a temporary mark to identify cycles
+
+* Improvement to [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]
+
+One can use a topological ordering to reduce the time complexity of the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]] from (see [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]) to linear time: $\bigtheta{|E| + |V|}$. See [[id:3642d973-8af3-4d0f-a446-9ee24c2f85e7][Single-source shortest path with topological sort in Python]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 09:53]
+:FC_CREATED: 2023-01-23T17:56:38Z
+:FC_TYPE:  double
+:ID:       2d2818d9-bea7-4cbf-bf56-a11d3eb04a22
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    34.05 | 2023-03-30T05:06:46Z |
+| back     | 2.80 |   5 |    54.10 | 2023-05-01T19:56:56Z |
+:END:
+
+[[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]
+
+*** Back
+- Graph traversal in which each node is only visited /after/ all of its dependencies are visited
+- Linear ordering of vertices in a [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] such that for all edges $u \to v$, the [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] $u$ comes before $v$
+- Only possible for [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]
+*** Source
+[cite:@TopologicalSorting2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:03]
+:FC_CREATED: 2023-01-30T18:04:58Z
+:FC_TYPE:  double
+:ID:       b63bf293-b270-42f8-96f2-bdfd132b3e9d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   3 |     6.00 | 2023-03-23T13:57:11Z |
+| back     | 2.80 |   5 |    52.55 | 2023-05-06T03:44:29Z |
+:END:
+
+(Pseudocode) Find a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] for a given graph
+
+*** Back
+  #+begin_src
+  L ← Empty list that will contain the sorted nodes
+  while exists nodes without a permanent mark do
+    select an unmarked node n
+    visit(n)
+
+  function visit(node n)
+    if n has a permanent mark then
+        return
+    if n has a temporary mark then
+        stop   (graph has at least one cycle)
+
+    mark n with a temporary mark
+
+    for each node m with an edge from n to m do
+        visit(m)
+
+    remove temporary mark from n
+    mark n with a permanent mark
+    add n to head of L
+  #+end_src
+*** Source
+[cite:@TopologicalSorting2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:15]
+:FC_CREATED: 2023-01-30T18:16:41Z
+:FC_TYPE:  cloze
+:ID:       9f0a1b31-1a90-41de-9380-1b1d21da422c
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    41.34 | 2023-04-16T01:36:31Z |
+:END:
+
+Time complexity for constructing a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] using [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] is {{$\bigo{|V|+|E|}$}@0}.
+
+*** Source
+[cite:@TopologicalSorting2022]
+** Cloze
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 10:22]
+:END:
+
+Implementing [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological sorting]] marks vertices with {{permanent and temporary marks}}.
+
+*** Source
+#+print_bibliography:

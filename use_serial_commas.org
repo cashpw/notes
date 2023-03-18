@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       5b18fea0-1aab-4ad3-91ef-781a2524f11d
+:END:
+#+title: Use serial commas
+#+hugo_custom_front_matter: :slug "5b18fea0-1aab-4ad3-91ef-781a2524f11d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-20 Sun 13:16]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a serial comma (also called a series comma, Oxford comma, or Harvard comma) is a comma placed immediately after the penultimate term (i.e., before the coordinating conjunction, such as and or or) in a series of three or more terms.
+
+[cite:@SerialComma2022]
+#+end_quote
+
+Examples:
+
+- Incorrect: "To my parents, Abraham Lincoln and God."
+- *Correct*: "To my parents, Abraham Lincoln, and God."
+
+Note that serial commas are not a fix-all for ambigious sentences. They may, in fact, /introduce/ ambiguity [cite:@SerialComma2022].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

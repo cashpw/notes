@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de
+:LAST_MODIFIED: [2023-03-05 Sun 09:16]
+:ROAM_REFS: [cite:@Polynomial2022]
+:END:
+#+title: Polynomial
+#+hugo_custom_front_matter: :slug "b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 10:32]
+#+filetags: :concept:
+#+begin_quote
+In mathematics, a polynomial is an expression consisting of indeterminates (also called variables) and coefficients, that involves only the operations of addition, subtraction, multiplication, and positive-integer powers of variables. An example of a polynomial of a single indeterminate $x$ is $x^{2} − 4x + 7$. An example with three indeterminates is $x^{3} + 2xyz^{2} − yz + 1$.
+
+[cite:@Polynomial2022]
+#+end_quote
+
+* Degree
+:PROPERTIES:
+:ID:       aa684635-2a2e-4669-85c0-946ee50393a2
+:END:
+#+begin_quote
+In mathematics, the degree of a polynomial is the highest of the degrees of the polynomial's monomials (individual terms) with non-zero coefficients. The degree of a term is the sum of the exponents of the variables that appear in it, and thus is a non-negative integer.
+
+[cite:@DegreePolynomial2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       8f943fca-bc21-4cb6-9aaf-7514f645c024
+:ANKI_NOTE_ID: 1640627844471
+:FC_CREATED: 2021-12-27T17:57:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   252.78 | 2023-08-20T13:02:32Z |
+| front    | 2.65 |   8 |   217.00 | 2023-07-01T15:06:33Z |
+:END:
+
+[[id:b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de][Polynomial]]
+
+*** Back
+An expression consisting of [[id:cbd532d2-7ec0-4710-ba42-54212961b1c3][Monomials]] and the operations of addition and subtraction.
+
+*** Extra
+eg: $2x^2 + 3$
+
+*** Source
+[cite:@Polynomial2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       74f4a4ce-6ea8-42ca-bcf7-233f84427632
+:ANKI_NOTE_ID: 1640627854272
+:FC_CREATED: 2021-12-27T17:57:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   224.13 | 2023-07-12T20:34:57Z |
+| front    | 2.50 |   8 |   312.79 | 2024-01-12T12:12:28Z |
+:END:
+
+Degree of a polynomial
+
+*** Back
+The highest degree of the polynomial's monomials.
+
+*** Source
+[cite:@DegreePolynomial2022]
+#+print_bibliography:

@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       d80fe9f3-c36e-4878-89fc-d7ad8d6e247f
+:LAST_MODIFIED: [2023-03-08 Wed 10:30]
+:END:
+#+title: Complete information
+#+hugo_custom_front_matter: :slug "d80fe9f3-c36e-4878-89fc-d7ad8d6e247f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-22 Sat 15:56]
+#+filetags: :concept:
+
+#+begin_quote
+In economics and game theory, complete information is an economic situation or game in which knowledge about other market participants or players is available to all participants. The utility functions (including risk aversion), payoffs, strategies and "types" of players are thus common knowledge.
+
+[...]
+
+In a game of complete information, the structure of the game and the payoff functions of the players are commonly known but players may not see all of the moves made by other players (for instance, the initial placement of ships in Battleship); there may also be a chance element (as in most card games).
+
+[cite:@CompleteInformation2021]
+#+end_quote
+
+* Example(s)
+
+- Strategy video games which implement "[[https://en.wikipedia.org/wiki/Fog_of_war#In_video_games][fog of war]]"
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-22 Sat 16:02]
+:FC_CREATED: 2022-10-22T23:03:18Z
+:FC_TYPE:  double
+:ID:       19aa4dcf-4cc6-4744-a661-f955771a1dc3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   105.93 | 2023-04-27T13:17:59Z |
+| back     | 2.65 |   4 |    15.77 | 2023-03-24T12:55:06Z |
+:END:
+
+[[id:d80fe9f3-c36e-4878-89fc-d7ad8d6e247f][Complete information]]
+
+*** Back
+
+A game in which the structure is known to all players but they may not see all moves made by other players.
+
+*** Source
+[cite:@CompleteInformation2021]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-29 Sat 08:33]
+:FC_CREATED: 2022-10-29T15:34:20Z
+:FC_TYPE:  double
+:ID:       beb57ea8-6e66-4905-a35c-0c8eccc35843
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   113.77 | 2023-05-21T08:14:39Z |
+| back     | 2.80 |   6 |   112.91 | 2023-06-10T01:23:34Z |
+:END:
+
+[[id:d80fe9f3-c36e-4878-89fc-d7ad8d6e247f][Complete information]]
+
+*** Back
+- Strategy games which implement a "fog of war"
+- The board game Battleship
+*** Source
+[cite:@CompleteInformation2021]
+#+print_bibliography:

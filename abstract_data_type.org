@@ -1,0 +1,119 @@
+:PROPERTIES:
+:ID:       2eae74ba-4003-45cf-8425-7291aaa7a537
+:ROAM_ALIASES: "Abstract data types" ADT
+:ROAM_REFS: [cite:@AbstractDataType2022]
+:LAST_MODIFIED: [2023-02-20 Mon 13:17]
+:END:
+#+title: Abstract data type
+#+hugo_custom_front_matter: :slug "2eae74ba-4003-45cf-8425-7291aaa7a537"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 14:49]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, an abstract data type (ADT) is a mathematical model for data types. An abstract data type is defined by its behavior (semantics) from the point of view of a user, of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. This mathematical model contrasts with data structures [[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structures]]], which are concrete representations of data, and are the point of view of an implementer, not a user.
+
+[cite:@AbstractDataType2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       1690dd15-72ec-4785-bb14-de59ef7c712c
+:ANKI_NOTE_ID: 1656856857107
+:FC_CREATED: 2022-07-03T14:00:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   288.11 | 2023-12-05T23:58:21Z |
+| front    | 2.50 |   7 |   205.35 | 2023-07-09T04:54:49Z |
+:END:
+[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]
+*** Back
+A mathematical model for data types which is defined by its behavior from the point of view of the user (i.e. analogous to an interface or API).
+*** Source
+[cite:@AbstractDataType2022]
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       40945ea3-44b0-48c5-9c27-735057ce9b03
+:ANKI_NOTE_ID: 1656856858007
+:FC_CREATED: 2022-07-03T14:00:58Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   222.36 | 2023-08-17T23:51:04Z |
+:END:
+[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] and [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]
+*** Back
+Both concepts relate to how the system stores and interacts with data.
+
+- [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]: Defined in terms of how the system interacts with the data type (i.e. interface or API)
+- [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structures]]: Defined in terms of their implementation
+*** Source
+[cite:@AbstractDataType2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       388c9150-a2a0-448f-a348-799cdb2d7294
+:ANKI_NOTE_ID: 1656856858557
+:FC_CREATED: 2022-07-03T14:00:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   288.78 | 2023-11-26T19:00:36Z |
+| back     | 2.80 |   7 |   304.02 | 2023-12-16T05:08:41Z |
+:END:
+[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]
+*** Back
+- Queue
+- Stack
+- List
+- Map
+- Set
+*** Source
+[cite:@AbstractDataType2022]
+** [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data types]] are analogous to {{an interface or API}@0} :fc:
+:PROPERTIES:
+:ID:       8021401e-7c15-4ea5-b20f-58f6048d8a66
+:ANKI_NOTE_ID: 1660053792072
+:FC_CREATED: 2022-08-09T14:03:12Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    89.83 | 2023-05-17T23:34:35Z |
+:END:
+*** Extra
+*** Source
+
+
+** AKA (Computer science) :suspended:fc:
+:PROPERTIES:
+:ID:       7c6a874a-49c8-4891-a197-6aed2b17ea73
+:ANKI_NOTE_ID: 1656856856184
+:FC_CREATED: 2022-07-03T14:00:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    41.59 | 2022-12-03T04:47:25Z |
+|        1 | 2.35 |   1 |     1.00 | 2022-11-11T17:28:51Z |
+:END:
+- {{[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}@0}
+- {{[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][ADT]]}@1}
+*** Source
+[cite:@AbstractDataType2022]
+#+print_bibliography:

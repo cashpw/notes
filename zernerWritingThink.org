@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@zernerWritingThink]
+:ID:       53938c1e-d71b-436a-bbc5-f3c220c677ea
+:DIR:      /home/cashweaver/proj/roam/attachments/53938c1e-d71b-436a-bbc5-f3c220c677ea
+:END:
+#+title: Adam Zerner | Writing to Think
+#+hugo_custom_front_matter: :slug "53938c1e-d71b-436a-bbc5-f3c220c677ea"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 18:46]
+#+filetags: :reference:
+ 
+[[id:92f1cbba-b874-40c1-80ee-ec3cb3858c7e][Adam Zerner]], [cite:@zernerWritingThink]
+
+* Summary
+* Thoughts
+* Notes
+#+begin_quote
+There's an insight I learned from Paul Graham in The Age of the Essay that I think addresses all of this. A lot of people want to collect their thoughts first before starting the process of putting them down on paper. To address all of the hesitations I mention above before getting started. You don't want to publish something that has these issues, so you may as well resolve them before you start writing, right? Seems pretty logical.
+
+Here's the problem though. The act of writing can help you to resolve the issues. Actually, that's a huge understatement: it's enormously helpful. Someone who writes in this exploratory sense has a huge leg up on someone who tries to resolve the issues in their head. It's almost like trying to solve an algebra problem in your head vs. with paper and pencil.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

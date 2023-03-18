@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       b74a709a-ff6f-425e-8a45-9f6acf47cbad
+:LAST_MODIFIED: [2023-03-15 Wed 07:31]
+:ROAM_REFS: [cite:@CulturalEvolution2022]
+:END:
+#+title: Cultural evolution
+#+hugo_custom_front_matter: :slug "b74a709a-ff6f-425e-8a45-9f6acf47cbad"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-10 Tue 09:25]
+#+filetags: :concept:
+
+#+begin_quote
+Cultural evolution is an evolutionary theory of social change. It follows from the definition of culture as "information capable of affecting individuals' behavior that they acquire from other members of their species through teaching, imitation and other forms of social transmission". Cultural evolution is the change of this information over time.
+
+[...]
+
+There have been a number of different approaches to the study of cultural evolution, including [[https://en.wikipedia.org/wiki/Dual_inheritance_theory][dual inheritance theory]], [[https://en.wikipedia.org/wiki/Sociocultural_evolution][sociocultural evolution]], [[https://en.wikipedia.org/wiki/Memetics][memetics]], [[https://en.wikipedia.org/wiki/Cultural_evolutionism][cultural evolutionism]] and other variants on [[https://en.wikipedia.org/wiki/Cultural_selection_theory][cultural selection theory]]. The approaches differ not just in the history of their development and discipline of origin but in how they conceptualize the process of cultural evolution and the assumptions, theories and methods that they apply to its study. In recent years, there has been a convergence of the cluster of related theories towards seeing cultural evolution as a unified discipline in its own right.
+
+[cite:@CulturalEvolution2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 14:49]
+:FC_CREATED: 2023-01-10T22:50:47Z
+:FC_TYPE:  double
+:ID:       0c585590-4508-4914-b08e-24f00246042a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   102.38 | 2023-06-25T23:45:09Z |
+| back     | 2.95 |   5 |    49.78 | 2023-04-03T11:07:21Z |
+:END:
+
+[[id:b74a709a-ff6f-425e-8a45-9f6acf47cbad][Cultural evolution]]
+
+*** Back
+Cultural changes based on a process similar to genetic evolution.
+*** Source
+[cite:@CulturalEvolution2022]
+#+print_bibliography:

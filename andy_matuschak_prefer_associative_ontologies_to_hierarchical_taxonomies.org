@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@PreferAssociativeOntologiesHierarchicalTaxonomies]
+:ID:       47b06441-f192-42cf-9c30-9be549d2da95
+:LAST_MODIFIED: [2022-12-14 Wed 13:47]
+:END:
+#+title: Andy Matuschak | Prefer Associative Ontologies to Hierarchical Taxonomies
+#+hugo_custom_front_matter: :slug "47b06441-f192-42cf-9c30-9be549d2da95"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 09:38]
+#+filetags: :reference:
+
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@PreferAssociativeOntologiesHierarchicalTaxonomies]
+
+#+begin_quote
+Let structure emerge organically. When it's imposed from the start, you prematurely constrain what may emerge and artificially compress the nuanced relationships between ideas.
+
+Our file systems, organizational structures, and libraries suggest that hierarchical categories are the natural structure of the world. But often items belong in many places. And items relate to other items in very different hierarchical categories.
+
+Worse, by presorting things into well-specified categories, we necessarily fuzz their edges. Things don't always fit /exactly/. Maybe once enough new ideas are collected, a new category would emerge... except you can't see its shape because everything's already been sorted. And because everything's already been sorted, further sorting requires undoing existing structure.
+
+It's better to let networks of related ideas to gradually emerge, unlabeled: [[https://notes.andymatuschak.org/z5uSCvx3W2GdzBVhWAAXrrCcykJ8SHimdJzg7][Let ideas and beliefs emerge organically]]. Once you can see the shape, then you can think about its character. This is one reason why [[https://notes.andymatuschak.org/z8RTzukqNLKFXzqLwx25HrUrg5E5jiziGznWB][Evergreen notes are a safe place to develop wild ideas]].
+
+But beware: [[https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z][Tags are an ineffective association structure]].
+
+One consequence of following this advice: [[https://notes.andymatuschak.org/zT6iA52811NuLvbU9W8ixeDc3KUqyCT1wN8][It's hard to navigate to unlinked "neighbors" in associative note systems]].
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

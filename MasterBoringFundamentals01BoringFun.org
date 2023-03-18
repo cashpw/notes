@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@stuberMasterBoringFundamentals01BoringFun]
+:ID:       3baf57be-df25-429e-9bd6-5654d2fea9cf
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/3baf57be-df25-429e-9bd6-5654d2fea9cf
+:LAST_MODIFIED: [2022-12-14 Wed 13:29]
+:END:
+#+title: James Stuber | Master Boring Fundamentals 01: Boring Is Fun
+#+hugo_custom_front_matter: :slug "3baf57be-df25-429e-9bd6-5654d2fea9cf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:51]
+#+filetags: :reference:
+ 
+[[id:014faa45-9f1d-4203-a935-e317eecf92fe][James Stuber]], [cite:@stuberMasterBoringFundamentals01BoringFun]
+
+* Summary
+Embrace the [[id:650501e5-3253-46a2-8795-cf09c86edf16][Boring fundamentals]].
+* Thoughts
+* Notes
+
+#+begin_quote
+We go to incredible lengths to avoid actions that we know are good for us.
+
+For any endeavor, there are a set of basic skills needed to build a strong foundation. These are the boring fundamentals:
+
+- Sleeping 8 hours a night, exercising consistently, eating your vegetables.
+- Meditating, reading books, writing for yourself and for your peers.
+- Domain specific fundamentals, like drilling guitar chords, or calculus.
+
+Even when we know they are good for us, even when we know they will advance our goals, we avoid taking the steps needed.
+
+We don't do the boring fundamentals because, well, they're boring. Repetitive actions done day after day are not a recipe for excitement. There's a disconnect between the future positive result and the present slog. Progress often plateaus, and only arrives in unpredictable bursts.
+#+end_quote
+
+#+begin_quote
+Ski enthusiast Tim Peck shows us that there are actually two types of fun:
+
+Type 1 Fun: Pure fun, untarnished by setbacks
+Type 2 Fun: Suffering now; fun after the fact, in retrospect
+Not Fun: Not fun now, not fun later, "I'm never doing that again"
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

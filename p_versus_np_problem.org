@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       ed88423b-621f-4581-9601-40e631bb4f62
+:LAST_MODIFIED: [2023-03-18 Sat 06:31]
+:ROAM_REFS: [cite:@NPProblem2023]
+:END:
+#+title: P versus NP problem
+#+hugo_custom_front_matter: :slug "ed88423b-621f-4581-9601-40e631bb4f62"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-31 Tue 09:29]
+#+filetags: :concept:
+
+#+begin_quote
+The P [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]] versus NP [[[id:afffc2b8-0f87-4c45-814c-f0fc7b337339][NP (Complexity)]]] problem is a major unsolved problem in theoretical computer science. In informal terms, it asks whether every problem whose solution can be quickly verified [[[id:afffc2b8-0f87-4c45-814c-f0fc7b337339][NP]]] can also be quickly solved [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P]]].
+
+[cite:@NPProblem2023]
+#+end_quote
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-17 Fri 14:05]
+:FC_CREATED: 2023-02-17T22:09:51Z
+:FC_TYPE:  double
+:ID:       d12a3dba-6f88-4917-a93d-08bde32039dc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    42.12 | 2023-04-29T16:25:19Z |
+| back     | 2.50 |   4 |    15.04 | 2023-03-25T03:46:23Z |
+:END:
+
+[[id:ed88423b-621f-4581-9601-40e631bb4f62][P versus NP problem]]
+
+*** Back
+Can every problem which can be quickly (in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]]) verified also be quickly solved?
+*** Source
+[cite:@NPProblem2023]
+#+print_bibliography:

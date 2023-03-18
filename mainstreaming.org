@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       111a6e96-cead-445c-8061-2b7498d7f9a3
+:LAST_MODIFIED: [2023-02-12 Sun 09:46]
+:END:
+#+title: Mainstreaming
+#+hugo_custom_front_matter: :slug "111a6e96-cead-445c-8061-2b7498d7f9a3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:10]
+#+filetags: :concept:
+
+The process by which a group or idea from the fringes moves toward the center.
+
+See [[id:de73d179-937a-4d95-9c1b-0ea865d0e469][Ian Danskin | Mainstreaming]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       d299827f-9860-4b62-82d3-727a27fa29ed
+:ANKI_NOTE_ID: 1656856835933
+:FC_CREATED: 2022-07-03T14:00:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   7 |   160.58 | 2023-06-05T06:24:50Z |
+| front    | 2.20 |   7 |   128.23 | 2023-04-26T00:21:09Z |
+:END:
+[[id:111a6e96-cead-445c-8061-2b7498d7f9a3][Mainstreaming]]
+*** Back
+The process by which a group or idea from the fringes moves toward the center.
+*** Source
+[cite:@danskinMainstreaming2018]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       ca808074-e2d8-45a0-a5b1-438ae1f9c42c
+:ANKI_NOTE_ID: 1656856836107
+:FC_CREATED: 2022-07-03T14:00:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   125.32 | 2023-05-23T23:02:28Z |
+| back     | 2.80 |   6 |   139.78 | 2023-07-02T12:27:14Z |
+:END:
+[[id:111a6e96-cead-445c-8061-2b7498d7f9a3][Mainstreaming]]
+*** Back
+- Normalization of LGBTQ culture, vocabulary
+*** Source
+[cite:@danskinMainstreaming2018]
+#+print_bibliography:

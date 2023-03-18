@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       37699e33-fccb-43bf-ab4b-ca9e74a03510
+:LAST_MODIFIED: [2023-02-10 Fri 15:45]
+:END:
+#+title: Spacing effect
+#+hugo_custom_front_matter: :slug "37699e33-fccb-43bf-ab4b-ca9e74a03510"
+#+FILETAGS: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-30 Thu 15:26]
+
+#+begin_quote
+The spacing effect demonstrates that learning is more effective when study sessions are spaced out.
+
+[cite:@SpacingEffect2022]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 07:52]
+:FC_CREATED: 2022-11-07T15:53:50Z
+:FC_TYPE:  double
+:ID:       c3df7f4d-2d51-4c42-aee6-2ae181a1f09c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   157.04 | 2023-07-15T19:49:35Z |
+| back     | 2.50 |   6 |    82.60 | 2023-05-04T14:07:02Z |
+:END:
+
+[[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]]
+
+*** Back
+Learning is more effective when the learner spreads their study sessions out over time.
+*** Source
+[cite:@SpacingEffect2022]
+#+print_bibliography:

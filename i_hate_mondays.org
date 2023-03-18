@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       2aba17e5-6dca-46ae-ad64-1feb6e91a01d
+:LAST_MODIFIED: [2023-02-16 Thu 19:34]
+:END:
+#+title: I hate mondays
+#+hugo_custom_front_matter: :slug "2aba17e5-6dca-46ae-ad64-1feb6e91a01d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:07]
+#+filetags: :concept:
+
+Engaging in coping strategies (e.g. commiserate, thoughts and prayers) rather than taking action because of the belief that the underlying problem is unfixable.
+
+See [[id:d15c77d7-fde1-4f65-a68d-59a6a51ed7d1][Ian Danskin | I Hate Mondays]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       98b1ca4a-4ce4-4ada-af3d-f2020ea0fe9f
+:ANKI_NOTE_ID: 1656857358255
+:FC_CREATED: 2022-07-03T14:09:18Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   104.30 | 2023-04-21T22:27:19Z |
+| back     | 2.50 |   6 |    78.13 | 2023-04-07T19:18:43Z |
+:END:
+[[id:2aba17e5-6dca-46ae-ad64-1feb6e91a01d][I hate mondays]]
+*** Back
+Engaging in coping strategies (e.g. commiserate, thoughts and prayers) rather than taking action because of the belief that we cannot fix the underlying problem.
+*** Extra
+Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't believe anything can be done to change it.
+*** Source
+[cite:@danskinHateMondays2020]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       b2d63133-eb0f-445f-a4e1-510323099944
+:ANKI_NOTE_ID: 1656857359133
+:FC_CREATED: 2022-07-03T14:09:19Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   351.64 | 2024-02-03T18:59:53Z |
+| back     | 2.50 |   7 |   173.83 | 2023-06-28T11:15:38Z |
+:END:
+[[id:2aba17e5-6dca-46ae-ad64-1feb6e91a01d][I hate mondays]]
+*** Back
+- Mass shootings in USA political discourse
+- Death; [[id:2a13c6a7-c74c-408b-b30e-69a18c9ad9ab][Nick Bostrom | The Fable of the Dragon Tyrant]]
+*** Source
+[cite:@danskinHateMondays2020]
+#+print_bibliography:

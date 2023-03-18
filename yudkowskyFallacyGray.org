@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@yudkowskyFallacyGray]
+:ID:       0c317a9b-c62b-418b-a78f-2543944dd8bc
+:DIR:      /home/cashweaver/proj/roam/attachments/0c317a9b-c62b-418b-a78f-2543944dd8bc
+:END:
+#+title: Eliezer Yudkowsky | The Fallacy of Gray
+#+hugo_custom_front_matter: :slug "0c317a9b-c62b-418b-a78f-2543944dd8bc"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-17 Thu 10:30]
+#+filetags: :reference:
+ 
+[[id:614d0317-e7fc-4ee2-a68a-e93471500fa0][Eliezer Yudkowsky]], [cite:@yudkowskyFallacyGray]
+* Summary
+[[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of gray]]
+* Notes
+#+begin_quote
+The Sophisticate: "The world isn't black and white. No one does pure good or pure bad. It's all gray. Therefore, no one is better than anyone else."
+
+The Zetet: "Knowing only gray, you conclude that all grays are the same shade. You mock the simplicity of the two-color view, yet you replace it with a one-color view"
+
+—Marc Stiegler, David's Sling
+#+end_quote
+
+#+begin_quote
+I don't know if the Sophisticate's mistake has an official name, but I call it the [[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of gray]]. We saw it manifested in [[https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/q7Me34xvSG3Wm97As][the previous essay]]—the one who believed that odds of two to the power of seven hundred and fifty million to one, against, meant "there was still a chance." All probabilities, to him, were simply "uncertain" and that meant he was licensed to ignore them if he pleased.
+
+[...]
+
+That which I cannot eliminate may be well worth reducing [].
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

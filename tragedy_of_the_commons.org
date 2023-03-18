@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       d6d36741-18ca-48fe-bb2e-85bc849ddd93
+:LAST_MODIFIED: [2023-02-14 Tue 20:41]
+:END:
+#+title: Tragedy of the commons
+#+hugo_custom_front_matter: :slug "d6d36741-18ca-48fe-bb2e-85bc849ddd93"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-14 Mon 08:05]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a situation in which individual users, who have open access to a resource unhampered by shared social structures or formal rules that govern access and use, act independently according to their own self-interest and, contrary to the common good of all users, cause depletion of the resource through their uncoordinated action.
+
+[cite:@TragedyCommons2022]
+#+end_quote
+
+Related: [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       cc814678-4a98-45c2-ad78-2cdf9c6b1090
+:ANKI_NOTE_ID: 1658599231931
+:FC_CREATED: 2022-07-23T18:00:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |    66.26 | 2023-03-19T20:50:05Z |
+| front    | 2.80 |   6 |   116.64 | 2023-06-11T19:58:01Z |
+:END:
+[[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]
+*** Back
+A situation in which individuals who have access to a shared resource, acting in their own interest (uncoordinated), cause depletion of the resource.
+*** Source
+[cite:@TragedyCommons2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       9955ee79-06d7-4f4b-b1f4-c0791ba527f3
+:ANKI_NOTE_ID: 1658599232981
+:FC_CREATED: 2022-07-23T18:00:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   186.92 | 2023-07-19T15:00:21Z |
+| back     | 2.50 |   7 |   167.93 | 2023-06-28T13:13:45Z |
+:END:
+[[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]
+*** Back
+- Overfishing; see [[id:314c1b9f-bc99-4536-8b9f-f4d24a41dc36][Fish farming story]]
+- The Earth's climate; see climate change
+- Everything; see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+[cite:@TragedyCommons2022]
+#+print_bibliography:

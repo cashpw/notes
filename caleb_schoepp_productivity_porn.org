@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@schoeppProductivityPorn]
+:ID:       2a4a8e7e-7b3e-4942-9fb9-19a5f57549c8
+:END:
+#+title: Caleb Schoepp | Productivity Porn
+#+hugo_custom_front_matter: :slug "2a4a8e7e-7b3e-4942-9fb9-19a5f57549c8"
+#+author: Cash Weaver
+#+date: [2022-11-23 Wed 14:49]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@schoeppProductivityPorn]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

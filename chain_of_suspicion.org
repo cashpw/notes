@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d
+:LAST_MODIFIED: [2023-03-10 Fri 21:19]
+:END:
+#+title: Chain of suspicion
+#+hugo_custom_front_matter: :slug "7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-22 Tue 15:49]
+#+filetags: :concept:
+
+Communication between civilizations is slow due to interstellar distances and complex due to differing cultures and biology.
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:50]
+:FC_CREATED: 2022-11-22T23:51:29Z
+:FC_TYPE:  double
+:ID:       7b7d60ba-7bf0-4884-b708-19d2a3df31ff
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   7 |   105.66 | 2023-06-24T21:03:47Z |
+| back     | 2.50 |   6 |    92.28 | 2023-05-20T21:38:01Z |
+:END:
+
+[[id:7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d][Chain of suspicion]]
+
+*** Back
+The inability for distinct civilizations to trust each other due to distance and cultural/biological differences.
+*** Source
+[cite:@liuDarkForest2015]
+#+print_bibliography:

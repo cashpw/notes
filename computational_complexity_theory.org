@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       235c1171-e8bd-4b52-820c-109f34a0bc80
+:LAST_MODIFIED: [2023-02-17 Fri 14:11]
+:ROAM_REFS: [cite:@ComputationalComplexityTheory2022]
+:END:
+#+title: Computational complexity theory
+#+hugo_custom_front_matter: :slug "235c1171-e8bd-4b52-820c-109f34a0bc80"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-30 Mon 09:35]
+#+filetags: :concept:
+
+#+begin_quote
+In theoretical computer science and mathematics, computational complexity theory focuses on classifying computational problems according to their resource usage, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an algorithm.
+
+[cite:@ComputationalComplexityTheory2022]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

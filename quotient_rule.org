@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       0f72c0d9-5638-4da7-92a9-796043efb670
+:ROAM_REFS: [cite:@QuotientRule2022]
+:LAST_MODIFIED: [2023-03-08 Wed 10:10]
+:END:
+#+title: Quotient rule
+#+hugo_custom_front_matter: :slug "0f72c0d9-5638-4da7-92a9-796043efb670"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 08:54]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], the quotient rule is a method of finding the derivative [[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]] of a function that is the ratio of two differentiable functions. Let $\displaystyle h(x)=f(x)/g(x)$, where both $f$ and $g$ are differentiable and $\displaystyle g(x)\neq 0$. The quotient rule states that the derivative of $h(x)$ is
+
+$\displaystyle h'(x)={\frac {f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}}$
+
+It is provable in many ways by using other derivative rules.
+
+[cite:@QuotientRule2022]
+#+end_quote
+
+This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 08:58]
+:FC_CREATED: 2023-01-23T16:58:34Z
+:FC_TYPE:  double
+:ID:       77cec718-0953-48ed-b5ac-834c639911c4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    44.71 | 2023-04-18T08:05:12Z |
+| back     | 2.80 |   5 |    49.80 | 2023-04-27T13:15:47Z |
+:END:
+
+[[id:0f72c0d9-5638-4da7-92a9-796043efb670][Quotient rule]]
+
+*** Back
+
+$h(x)=\frac{f(x)}{g(x)}$
+$\displaystyle h'(x)={\frac {f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}}$
+*** Source
+[cite:@QuotientRule2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 08:58]
+:FC_CREATED: 2023-01-23T17:01:32Z
+:FC_TYPE:  cloze
+:ID:       f7698f9a-186b-46c1-aaea-a4d4f00a1de0
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    52.99 | 2023-04-25T13:29:25Z |
+:END:
+
+$h(x)=\frac{f(x)}{g(x)}$
+
+
+$h'(x)$ $=$ {{$\frac {f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$}@0}
+
+*** Source
+[cite:@QuotientRule2022]
+#+print_bibliography:

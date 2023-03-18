@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       7add4362-8a4e-4148-ac25-185213327b33
+:LAST_MODIFIED: [2023-01-12 Thu 10:28]
+:END:
+#+title: Why I write notes
+#+hugo_custom_front_matter: :slug "7add4362-8a4e-4148-ac25-185213327b33"
+#+author: Cash Weaver
+#+date: [2022-11-16 Wed 08:54]
+#+filetags: :has_todo:concept:
+
+I write these notes for myself and they model the way I've read and the way I think. I don't consider a post "readable" when it links off to a dozen other pages each of which links further and all of which must be read and understood to understand the initial post. [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]] are for note taking and thinking but not, at least primarily, for consuming. For that I want to create synthesis notes more akin to blog posts.
+
+Reasons for writing these notes:
+
+- [[id:c74e3129-38af-45f8-bd2b-8a6fa5a0cad0][Document your work]]
+- In terms of [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]:
+  - [[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]]
+    - I append flashcards ([[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]]) to (almost) every note
+      - I have a similar [[id:abb1e1cc-12bb-42fe-9004-555145c8faaa][private]] repository for confidential work-related notes
+  - [[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]]
+    - Restating things in my own words
+    - Creating connections between cards
+    - "Summary" section of reference notes
+  - [[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]] and [[id:4aea47e5-059e-4ae2-86d3-6c359ad3ce66][Analyze (Bloom's Taxonomy)]]
+    - [[id:bfc1e54d-2c91-4514-ad99-54e6494268bb][Write to think]]
+  - [[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]]
+    - The "Thoughts" section of reference notes
+  - [[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create (Bloom's Taxonomy)]]
+    - Original, insofar as anything's original, thoughts and insights
+
+Also see [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][How I write notes]].
+
+* TODO [#2] Expand :noexport:
+* Flashcards

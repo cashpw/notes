@@ -1,0 +1,180 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@andreessenItTimeBuild2020]
+:ID:       c0cb9a04-2e57-4da8-b221-03d84508e801
+:LAST_MODIFIED: [2023-02-20 Mon 13:13]
+:END:
+#+title: Marc Andreessen | It's Time to Build
+#+hugo_custom_front_matter: :slug "c0cb9a04-2e57-4da8-b221-03d84508e801"
+#+author: Cash Weaver
+#+date: [2023-01-10 Tue 14:19]
+#+filetags: :reference:
+
+[[id:2009319a-d974-4bb0-946d-b6a8f9845ab7][Marc Andreessen]], [cite:@andreessenItTimeBuild2020]
+
+* Summary
+The first step in problem solving is to [[id:e3a7869c-d28d-4733-85ca-bcce823054e2][Understand and agree about the problem]]. This essay puts forward a good, albeit vague and almost-too-encompasing, definition of one of our problems: America isn't building enough and we're suffering because of it. The next steps are identifying why we aren't building, what we need to build, how we can build it, and generally constructing a [[id:cb4d578c-d0d4-4056-aad1-c6ee153eb42f][Theory of change]] for the future in which we can and do build.
+
+* Responses
+- [[id:c4b17938-7653-4ff6-8c54-5b76904b1a5f][Tanner Greer | On Cultures That Build]]
+- [[id:a3d2b0f5-daff-4aef-9c5f-e34ab410efa6][Mark Lutter | Build Institutions, Not Apps]]
+- [[id:b88f8a74-52c1-44a8-a39e-d66b5587516f][Jose Luis Ricon | On Building]]
+- [[id:69494a1d-7a68-48d6-87dd-3f664106e9d3][Isaac Wilks | It's Time to Build for Good]]
+- [[id:2ff2cbd5-43a3-4c54-bb11-d7e4f34a0bfc][Ezra Klein | Why We Can't Build]]
+
+* Thoughts
+- [[id:0a6b116f-5db9-4fcd-9a36-439d63e5a036][Bias toward action]]
+- Our [[id:c73b15fa-a2bc-48bc-8f3d-6edffc332da1][Systems]] are slow to move and biased against change. This isn't necessarily a problem provided we couple these slow moving systems and institutions with an attitude of preparedness so we have processes ready for when we need them. It doesn't matter if a pandemic response took many years to develop if it's ready before the pandemic occurs (and, I suppose, that the process is still relevant and viable at that time). The problem is that we lack preparedness -- our vision only extends a few years at most; rarely if ever beyond our own lifetimes.
+- Slow start-up and slow iteration time lead to slow development
+- [[id:10a267a0-61e5-4627-bce0-8b2d46847551][X isn't your fault but Y is your responsibility]]
+* Notes
+#+begin_quote
+Every Western institution was unprepared for the coronavirus pandemic, despite many prior warnings. This monumental failure of institutional effectiveness will reverberate for the rest of the decade, but it's not too early to ask why, and what we need to do about it.
+
+Many of us would like to pin the cause on one political party or another, on one government or another. But the harsh reality is that it all failed — no Western country, or state, or city was prepared — and despite hard work and often extraordinary sacrifice by many people within these institutions. So the problem runs deeper than your favorite political opponent or your home nation.
+
+Part of the problem is clearly foresight, a failure of imagination. But the other part of the problem is what we didn't \*do\* in advance, and what we're failing to do now. And that is a failure of action, and specifically our widespread inability to \*build\*.
+#+end_quote
+
+#+begin_quote
+We see this today with the things we urgently need but don't have:
+
+- coronavirus tests
+- test materials — including, amazingly, cotton swabs and common reagents
+- surgical masks
+- eye shields
+- medical gowns
+- therapies or a vaccine — despite, again, years of advance warning about bat-borne coronaviruses
+- the manufacturing factories required to scale [the therapy or vaccine's] production
+- the ability to get federal bailout money to the people and businesses that need it
+
+[paraphrasing, formatting mine]
+
+Why do we not have these things? Medical equipment and financial conduits involve no rocket science whatsoever. At least therapies and vaccines are hard! Making masks and transferring money are not hard. We could have these things but we chose not to — specifically we chose not to have the mechanisms, the factories, the systems to make these things. We chose not to \*build\*.
+#+end_quote
+
+#+begin_quote
+You see it in housing and the physical footprint of our cities. We can't build nearly enough housing in our cities with surging economic potential — which results in crazily skyrocketing housing prices in places like San Francisco, making it nearly impossible for regular people to move in and take the jobs of the future. We also can't build the cities themselves anymore. When the producers of HBO's "Westworld" wanted to portray the American city of the future, they didn't film in Seattle or Los Angeles or Austin — they went to Singapore. We should have gleaming skyscrapers and spectacular living environments in all our best cities at levels way beyond what we have now; where are they?
+#+end_quote
+
+I disagree that gleaming skyscrapers are the emblem of an advanced city but that's beside the point. San Francisco, and the Bay Area in general, has a horrible housing situation which prices out all but (1) the rich, (2) those who were here early (i.e Prop 13 [cite:@1978CaliforniaProposition132022]), and (3) those willing to lower their standard of living by doubling or tripling up, etc. I agree with the phrasing of "choosing" not to build. Councils in the Bay Area have chosen housing stagnation by /not/ choosing agressive housing policies to keep pace with the population and demand growth. Then again, I am sympathetic to the idea that "just because people want to come here doesn't mean we need to change to facilitate that demand".
+
+I'm not sure how I'd handle the situation if I were to become [[id:b292ed4e-5a75-4b1e-aab3-158d1e02bbc5][BDFL]] as I'd inherit existing infrastructure and buildings with users and owners both happy and unhappy, as well as not enough money to push through truly dramatic changes. One change I'd love to make would be to radically restrict car transport throughout the Bay Area in favor of reliable, safe, clean, etc, public transport in the form of trains, light rail, and buses. I'd need to couple this with a similarly radical densification to facilitiate that public transportation. This would involve demolishing existing single-family homes, etc, and building denser housing options. This wouldn't be immediately popular or profitable and would get me laughed out of the room before work even got started.
+
+#+begin_quote
+You see it in education. We have top-end universities, yes, but with the capacity to teach only a microscopic percentage of the 4 million new 18 year olds in the U.S. each year, or the 120 million new 18 year olds in the world each year. Why not educate every 18 year old? Isn't that the most important thing we can possibly do? Why not build a far larger number of universities, or scale the ones we have way up? The last major innovation in K-12 education was Montessori, which traces back to the 1960s; we've been doing education research that's never reached practical deployment for 50 years since; why not build a lot more great K-12 schools using everything we now know? We know one-to-one tutoring can reliably increase education outcomes by two standard deviations (the Bloom two-sigma effect [[[id:6eb6bfde-37f3-4555-bbe2-1bd639b518ec][Bloom's 2 sigma problem]]]); we have the internet; why haven't we built systems to match every young learner with an older tutor to dramatically improve student success?
+#+end_quote
+
+See [[id:b26b15e5-48c4-4968-a645-5743b571021e][Evidence-based education]].
+
+#+begin_quote
+You see it in manufacturing. Contrary to conventional wisdom, American manufacturing output is higher than ever, but why has so much manufacturing been offshored to places with cheaper manual labor? We know how to build highly automated factories. We know the enormous number of higher paying jobs we would create to design and build and operate those factories. We know — and we're experiencing right now! — the strategic problem of relying on offshore manufacturing of key goods.
+#+end_quote
+
+I'd assumed capital moved manufacturing offshore because doing so was cheaper than the automation Marc suggests we embrace. Knowing the strategic problem of relying on offshore manufacturing and doing it anyway is a [[id:2e6843f6-0096-4e58-8d86-51126cadca19][Coordination]] problem. It's not something any single person can solve -- even in government. You need buy-in from multiple parties each of whom would receive individual benefits from defecting (moving manufacturing offshore) ([[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's dilemma]], [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]).
+
+#+begin_quote
+You see it in transportation. Where are the supersonic aircraft? Where are the millions of delivery drones? Where are the high speed trains, the soaring monorails, the hyperloops, and yes, the flying cars?
+#+end_quote
+
+To address specific points:
+
+- Supersonic aircraft aren't better than the aircraft we have now -- it takes more and more fuel to fly even a little bit faster. Current air travel optimizes along that curve to move more for less.
+- High speed trains: Yes, 100%. Why don't we have trains!?
+- Hyperloops: They were, in my opinion of course, introduced amid peak Elon hype to derail (pun intended) policical ambition in high-speed rail and public -- not private! -- transportation.
+- Flying cars: I don't trust anyone I've ever met on the road in a flying car
+
+That said, yes, I continue to broadly agree that we have chosen not to "build".
+
+#+begin_quote
+Is the problem money? That seems hard to believe when we have the money to wage endless wars in the Middle East and repeatedly bail out incumbent banks, airlines, and carmakers. The federal government just passed a $2 trillion coronavirus rescue package in two weeks! Is the problem capitalism? I'm with Nicholas Stern when he says that capitalism is how we take care of people we don't know — all of these fields are highly lucrative already and should be prime stomping grounds for capitalist investment, good both for the investor and the customers who are served. Is the problem technical competence? Clearly not, or we wouldn't have the homes and skyscrapers, schools and hospitals, cars and trains, computers and smartphones, that we already have.
+#+end_quote
+
+My bias toward thinking [[id:c73b15fa-a2bc-48bc-8f3d-6edffc332da1][Systems]] are the problem does bristle when he moves past the idea that our primary economic system might be at fault. [[id:5d2ca4dd-4c57-43f1-996d-f76540f45fa1][Capitalism]] isn't the /only/ problem but it is /part/, and I'd say a large part, of the problem. Capitalism:
+
+- concentrates power in the hands of the few -- the very people who most benefit from a system will be reluctant to make dramatic changes to that system
+- encourages short-term thinking ([[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]; [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]) on timescales less, sometimes much less, than a single human lifetime
+
+#+begin_quote
+The right starts out in a more natural, albeit compromised, place. The right is generally pro production, but is too often corrupted by forces that hold back market-based competition and the building of things. The right must fight hard against crony capitalism, regulatory capture, ossified oligopolies, risk-inducing offshoring, and investor-friendly buybacks in lieu of customer-friendly (and, over a longer period of time, even more investor-friendly) innovation.
+
+It's time for full-throated, unapologetic, uncompromised political support from the right for aggressive investment in new products, in new industries, in new factories, in new science, in big leaps forward.
+#+end_quote
+
+#+begin_quote
+The left starts out with a stronger bias toward the public sector in many of these areas. To which I say, prove the superior model! Demonstrate that the public sector can build better hospitals, better schools, better transportation, better cities, better housing. Stop trying to protect the old, the entrenched, the irrelevant; commit the public sector fully to the future. Milton Friedman once said the great public sector mistake is to judge policies and programs by their intentions rather than their results. Instead of taking that as an insult, take it as a challenge — build new things and show the results!
+
+Show that new models of public sector healthcare can be inexpensive and effective — how about starting with the VA? When the next coronavirus comes along, blow us away! Even private universities like Harvard are lavished with public funding; why can't 100,000 or 1 million students a year attend Harvard? Why shouldn't regulators and taxpayers demand that Harvard build? Solve the climate crisis by building — energy experts say that all carbon-based electrical power generation on the planet could be replaced by a few thousand new zero-emission nuclear reactors, so let's build those. Maybe we can start with 10 new reactors? Then 100? Then the rest?
+#+end_quote
+
+Agreed. I'm tired of the American left (read: Democrats, not the actual left) whining rather than getting things done (related: [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]] and [[id:89f17c46-04dc-42ba-bda2-7ac14c5cbae0][The left has no place it wants to go]]). While they get some things done, and I am sympathetic to the structural imbalances which hinder them (e.g. congressional bias toward republican states and first-past-the-post), it's not nearly enough and it pales to the aggressive, [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]], approaches employed by the American right.
+
+There are systemic reasons underlying the difficulty the American left has with regard to passing policy but I view those as explanations and the party tends to present them as excuses. Just fix it. [[id:10a267a0-61e5-4627-bce0-8b2d46847551][X isn't your fault but Y is your responsibility]].
+
+#+begin_quote
+Building isn't easy, or we'd already be doing all this. We need to demand more of our political leaders, of our CEOs, our entrepreneurs, our investors. We need to demand more of our culture, of our society. And we need to demand more from one another. We're all necessary, and we can all contribute, to building.
+
+Every step of the way, to everyone around us, we should be asking the question, what are you building? What are you building directly, or helping other people to build, or teaching other people to build, or taking care of people who are building? If the work you're doing isn't either leading to something being built or taking care of people directly, we've failed you, and we need to get you into a position, an occupation, a career where you can contribute to building. There are always outstanding people in even the most broken systems — we need to get all the talent we can on the biggest problems we have, and on building the answers to those problems.
+
+I expect this essay to be the target of criticism. Here's a modest proposal to my critics. Instead of attacking my ideas of what to build, conceive your own! What do you think we should build? There's an excellent chance I'll agree with you.
+
+Our nation and our civilization were built on production, on building. Our forefathers and foremothers built roads and trains, farms and factories, then the computer, the microchip, the smartphone, and uncounted thousands of other things that we now take for granted, that are all around us, that define our lives and provide for our well-being. There is only one way to honor their legacy and to create the future we want for our own children and grandchildren, and that's to build.
+#+end_quote
+
+Good conversations about progress are ones in which people both critique existing ideas and contribute new ideas. People will -- or at least I tend to -- leave conversations in which criticism dominates. Think of brainstorming, etc, and "there are no bad ideas". [[id:3619f0c9-baa8-44da-8667-c13b7dc3e3bd][Creativity is a product of volume]] or, in this context, good ideas are the result of picking through lots of bad ideas.
+
+The first step in problem solving is to [[id:e3a7869c-d28d-4733-85ca-bcce823054e2][Understand and agree about the problem]]. This essay puts forward a good, albeit vague and almost-too-encompasing, definition of one of our problems: America isn't building enough and we're suffering because of it. The next steps are identifying why we aren't building, what we need to build, how we can build it, and generally constructing a [[id:cb4d578c-d0d4-4056-aad1-c6ee153eb42f][Theory of change]] for the future in which we can and do build.
+
+As for specifics, insofar as a direction is specific, I agree with [[id:2ff2cbd5-43a3-4c54-bb11-d7e4f34a0bfc][Ezra Klein's response]]:
+
+#+begin_quote
+A sustained and concerted movement that cares about institutional reform. But people get much more excited about building something, anything, than about reforming existing institutions. [[[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Meta]]]-building isn't a popular pastime, and the patient, focused work it requires is particularly frustrating, in my experience, to entrepreneurial personalities.
+
+[cite:@kleinWhyWeCanBuild2020]
+#+end_quote
+
+* Flashcards
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2023-01-11 Wed 08:48]
+:FC_CREATED: 2023-01-11T16:49:36Z
+:FC_TYPE:  double
+:ID:       9734b3d5-f0a7-4e00-872e-a83798a1ab84
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    56.55 | 2023-04-08T13:37:32Z |
+| back     | 2.95 |   5 |    54.19 | 2023-04-08T18:52:05Z |
+:END:
+
+[[id:c0cb9a04-2e57-4da8-b221-03d84508e801][Marc Andreessen | It's Time to Build]]
+
+*** Back
+- Essay decrying America's slowing recent movement of the gears of progress compared against historic speed
+- Key American systems have a bias toward inaction [cite:@kleinWhyWeCanBuild2020]
+*** Source
+[cite:@andreessenItTimeBuild2020]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-11 Wed 13:57]
+:FC_CREATED: 2023-01-11T22:54:07Z
+:FC_TYPE:  double
+:ID:       9b5534cd-168e-4c1e-a303-f6e8928746da
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.27 | 2023-03-28T10:02:50Z |
+| back     | 2.95 |   5 |    47.47 | 2023-04-09T08:37:04Z |
+:END:
+
+([[id:c0cb9a04-2e57-4da8-b221-03d84508e801][Marc Andreessen | It's Time to Build]]) Why is it difficult to build?
+
+*** Back
+- The general cultural vibe toward the future is one of pessimism
+- Those with the power to change the system benefit from it and are unwilling to change it
+- Key American systems have a bias toward inaction
+*** Source
+- [[id:c0cb9a04-2e57-4da8-b221-03d84508e801][Marc Andreessen | It's Time to Build]]
+- [cite:@kleinWhyWeCanBuild2020]
+#+print_bibliography:

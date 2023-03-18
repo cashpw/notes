@@ -1,0 +1,249 @@
+:PROPERTIES:
+:ID:       81c88eaa-3ec9-486c-bcdf-457dd40b4eba
+:ROAM_ALIASES: DFS
+:LAST_MODIFIED: [2023-03-18 Sat 06:36]
+:END:
+#+title: Depth-first search
+#+hugo_custom_front_matter: :slug "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 16:36]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Depth-first search (DFS) is an algorithm for traversing or searching [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] or [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structures]]. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+
+[cite:@DepthfirstSearch2022]
+#+end_quote
+
+* Algorithm
+** Iterative
+
+#+begin_src
+procedure DepthFirstSearch (graph, rootNode) is
+  define a Stack: stack
+  define a Set: visited
+
+  stack.push(rootNode)
+
+  while not stack.empty() do
+    node = stack.pop()
+    if node not in visited then
+      if node is a goal then
+        return node
+      for connectedNode in graph.connectedNodes(node) do
+        stack.push(connectedNode)
+#+end_src
+
+Based on iterative algorithm in [cite:@DepthfirstSearch2022].
+#+end_quote
+** Recursive
+
+#+begin_src
+procedure DepthFirstSearch (graph, node) is
+  define a Set: visited
+
+  procedure DepthFirstSearchInner (graph, node) is
+    if node in visited then
+      return nil
+    visited.add(node)
+
+    if node is a goal then
+      return node
+
+    found = nil
+    for connectedNode in graph.connectedNodes(node) do
+      found = DepthFirstSearchInner(graph, connectedNode)
+      if found then
+         return found
+
+    return nil
+
+  return DepthFirstSearchInner(graph, node)
+#+end_src
+
+Based on recursive algorithm in [cite:@DepthfirstSearch2022].
+
+* Complexity
+
+|       | Worst-case                               |
+|-------+------------------------------------------|
+| Time  | \(\bigo{\vert V \vert + \vert E \vert}\) |
+| Space | \(\bigo{\vert V \vert}\)                 |
+
+Where \(V\) is the set of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] and \(E\) is the set of [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]].
+
+* Alternatives
+- [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       37f26d0b-c80e-4a1b-a26e-4b76ccbf1e05
+:ANKI_NOTE_ID: 1656857069633
+:FC_CREATED: 2022-07-03T14:04:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   7 |   258.03 | 2023-10-23T04:46:20Z |
+| back     | 3.10 |   6 |   143.78 | 2023-05-09T12:42:22Z |
+:END:
+
+[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]
+
+*** Back
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] traversal algorithm which follows [[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]. The non-recursive implementation uses a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]].
+
+|       | Worst-case                               |
+|-------+------------------------------------------|
+| Time  | \(\bigo{\vert V \vert + \vert E \vert}\) |
+| Space | \(\bigo{\vert V \vert}\)                 |
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] follows {{[[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]}{traversal order}@0} :fc:
+:PROPERTIES:
+:ID:       80da2ae6-40f7-43ce-9cd8-9b71e4df15fe
+:ANKI_NOTE_ID: 1656857070507
+:FC_CREATED: 2022-07-03T14:04:30Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   167.24 | 2023-05-16T23:31:32Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+
+** AKA (Computer science) :fc:
+:PROPERTIES:
+:ID:       0269b7f7-0564-4900-a617-217d9e0a5fd7
+:ANKI_NOTE_ID: 1656857071432
+:FC_CREATED: 2022-07-03T14:04:31Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   135.38 | 2023-04-28T03:27:43Z |
+|        1 | 2.80 |   7 |   195.98 | 2023-08-04T16:46:44Z |
+:END:
+
+- {{[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]}@0}
+- {{[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][DFS]]}@1}
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+
+** The iterative version of [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] uses a {{[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}@0} :fc:
+:PROPERTIES:
+:ID:       a2bae121-f49c-4b24-ad85-c33cff736918
+:ANKI_NOTE_ID: 1656857076357
+:FC_CREATED: 2022-07-03T14:04:36Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   164.90 | 2023-06-13T13:40:33Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] is {{not guaranteed}@0} to find the shortest path to the goal :fc:
+:PROPERTIES:
+:ID:       8ae6545b-095f-42a7-a296-60395bf5c60e
+:ANKI_NOTE_ID: 1656857076906
+:FC_CREATED: 2022-07-03T14:04:36Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   310.68 | 2024-01-18T07:23:22Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] time complexity: {{$O(\vert V \vert + \vert E \vert)$}@0} :fc:
+:PROPERTIES:
+:ID:       b12ed8e6-9606-4a72-a552-437fbfcb7c1b
+:ANKI_NOTE_ID: 1658437572833
+:FC_CREATED: 2022-07-21T21:06:12Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    66.23 | 2023-03-26T21:30:54Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] space complexity: {{$O(\vert V \vert)$}@0} :fc:
+:PROPERTIES:
+:ID:       dfe4cf84-f5d6-4229-b422-09773d7fe9a1
+:ANKI_NOTE_ID: 1658437573584
+:FC_CREATED: 2022-07-21T21:06:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    37.77 | 2023-04-25T08:03:40Z |
+:END:
+*** Extra
+*** Source
+[cite:@DepthfirstSearch2022]
+
+
+** TODO [#1] Implement recursive [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] :fc:suspended:
+:PROPERTIES:
+:ID:       b1c16692-ad44-48bc-8fe0-24d62df2e512
+:ANKI_NOTE_ID: 1661442745538
+:FC_CREATED: 2022-08-25T15:52:25Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        front |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+TODO
+*** Source
+[cite:@DepthfirstSearch2022]
+#+print_bibliography:

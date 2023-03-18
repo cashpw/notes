@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       6eb6bfde-37f3-4555-bbe2-1bd639b518ec
+:ROAM_REFS: [cite:@BloomSigmaProblem2022]
+:LAST_MODIFIED: [2023-03-14 Tue 08:16]
+:END:
+#+title: Bloom's 2 sigma problem
+#+hugo_custom_front_matter: :slug "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-12 Mon 19:16]
+#+filetags: :concept:
+
+#+begin_quote
+Bloom's 2 sigma problem refers to an educational phenomenon and associated problem observed by educational psychologist Benjamin Bloom [[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]] and initially reported in 1984 in the journal Educational Researcher. Bloom found that the average student tutored one-to-one using mastery learning [[[id:162d37be-0ce1-4ba1-baff-101ba72fa811][Mastery learning]]] techniques performed two standard deviations better than students educated in a classroom environment with one teacher to 30 students, with or without mastery learning. As quoted by Bloom: "the average tutored student was above 98% of the students in the control class". Additionally, the variation of the students' achievement changed: "about 90% of the tutored students ... attained the level of summative achievement reached by only the highest 20%" of the control class.
+
+[cite:@BloomSigmaProblem2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-12 Mon 19:21]
+:FC_CREATED: 2022-12-13T03:23:11Z
+:FC_TYPE:  double
+:ID:       29730a4f-e07f-4553-93cb-bb6fb85b487b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   159.38 | 2023-08-21T00:16:46Z |
+| back     | 2.95 |   5 |    58.61 | 2023-03-25T07:34:42Z |
+:END:
+
+[[id:6eb6bfde-37f3-4555-bbe2-1bd639b518ec][Bloom's 2 sigma problem]]
+
+*** Back
+The average student who receives 1-on-1 tutoring, using [[id:162d37be-0ce1-4ba1-baff-101ba72fa811][Mastery learning]] techniques, perform two standard deviations better than students educated in a many students to one teacher classroom environment (with or without mastery learning).
+*** Source
+[cite:@BloomSigmaProblem2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-14 Tue 20:49]
+:FC_CREATED: 2023-02-15T04:50:11Z
+:FC_TYPE:  cloze
+:ID:       598fe548-54ba-4f19-84e6-d4610be06691
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   4 |    14.98 | 2023-03-23T18:10:37Z |
+:END:
+
+{{[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]}@0} developed [[id:6eb6bfde-37f3-4555-bbe2-1bd639b518ec][Bloom's 2 sigma problem]]
+
+*** Source
+[cite:@BloomSigmaProblem2022]
+#+print_bibliography:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       097a3b5d-13a8-43b4-9b94-576ffec8adb3
+:ROAM_ALIASES: "Critical path analysis"
+:LAST_MODIFIED: [2023-01-09 Mon 06:08]
+:END:
+#+title: Critical path method
+#+hugo_custom_front_matter: :slug "097a3b5d-13a8-43b4-9b94-576ffec8adb3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-15 Tue 17:45]
+#+filetags: :has_todo:concept:
+* TODO [#2]
+[cite:@CriticalPathMethod2022]
+* TODO [#2] Flashcards
+#+print_bibliography:

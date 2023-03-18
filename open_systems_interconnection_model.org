@@ -1,0 +1,282 @@
+:PROPERTIES:
+:ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
+:LAST_MODIFIED: [2023-03-18 Sat 08:34]
+:ROAM_ALIASES: "OSI model"
+:ROAM_REFS: [cite:@OSIModel2023]
+:END:
+#+title: Open systems interconnection model
+#+hugo_custom_front_matter: :slug "582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-17 Fri 08:23]
+#+filetags: :concept:
+
+#+begin_quote
+The Open Systems Interconnection model (OSI model) is a conceptual model, originally conceived as the 7 layer onion skin architecture by Jack Houldsworth of ICL that 'provides a common basis for the coordination of [ISO] standards development for the purpose of systems interconnection'. In the OSI reference model, the communications between a computing system are split into seven different abstraction layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+
+[cite:@OSIModel2023]
+#+end_quote
+* Layers
+
+From bottom-to-top:
+
+1. [[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
+2. [[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]
+3. [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
+4. [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]
+5. [[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]
+6. [[id:134da303-601d-40f9-929e-67cc4f35761d][Presentation layer (OSI model)]]
+7. [[id:28c1811a-bfe1-4910-8622-f1568dd7c388][Application layer (OSI model)]]
+
+** Application layer (OSI model)
+:PROPERTIES:
+:ID:       28c1811a-bfe1-4910-8622-f1568dd7c388
+:END:
+** Presentation layer (OSI model)
+:PROPERTIES:
+:ID:       134da303-601d-40f9-929e-67cc4f35761d
+:END:
+** Session layer (OSI model)
+:PROPERTIES:
+:ID:       68b61c7b-c05c-4aee-8f9a-1e1a4612dac7
+:END:
+#+begin_quote
+The session layer creates the setup, controls the connections, and ends the teardown, between two or more computers, which is called a "session" [[[id:42be7ce6-d83b-4717-86a0-0766565b2049][Session]]]. Since DNS and other Name Resolution Protocols operate in this part of the layer, common functions of the session layer include user logon (establishment), name lookup (management), and user logoff (termination) functions. Including this matter, authentication protocols are also built into most client software, such as FTP Client and NFS Client for Microsoft Networks. Therefore, the session layer establishes, manages and terminates the connections between the local and remote application. The session layer also provides for full-duplex [[[id:01c191e3-b264-4e86-bfcf-ecc23c67acf4][Full-duplex]]], half-duplex [[[id:ed9c7f81-7adc-4a2f-bd10-b14411a11c05][Half-duplex]]], or simplex [[[id:27a0ad69-c248-4dea-9807-4926ec05412c][Simplex]]] operation, and establishes procedures for checkpointing, suspending, restarting, and terminating a session between two related streams of data, such as an audio and a video stream in a web-conferencing application. Therefore, the session layer is commonly implemented explicitly in application environments that use remote procedure calls [[[id:f85a49e5-6718-4da8-b325-22b23a44985f][Remote procedure call]]].
+
+[cite:@OSIModel2023]
+#+end_quote
+** Transport layer (OSI model)
+:PROPERTIES:
+:ID:       0fb85eb1-d3f9-4f69-9258-70b6839aed86
+:END:
+#+begin_quote
+The transport layer provides the functional and procedural means of transferring variable-length data sequences from a source host to a destination host from one application to another across a network, while maintaining the quality-of-service functions.
+
+[cite:@OSIModel2023]
+#+end_quote
+** Network layer (OSI model)
+:PROPERTIES:
+:ID:       3c1ce87f-29cd-46ae-bfdf-457d251e9536
+:END:
+#+begin_quote
+The network layer provides the functional and procedural means of transferring packets from one node to another connected in "different networks". A network is a medium to which many nodes can be connected, on which every node has an address and which permits nodes connected to it to transfer messages to other nodes connected to it by merely providing the content of a message and the address of the destination node and letting the network find the way to deliver the message to the destination node, possibly routing it through intermediate nodes. If the message is too large to be transmitted from one node to another on the data link layer between those nodes, the network may implement message delivery by splitting the message into several fragments at one node, sending the fragments independently, and reassembling the fragments at another node. It may, but does not need to, report delivery errors.
+
+Message delivery at the network layer is not necessarily guaranteed to be reliable; a network layer protocol may provide reliable message delivery, but it need not do so.
+
+[cite:@OSIModel2023]
+#+end_quote
+** Data link layer (OSI model)
+:PROPERTIES:
+:ID:       4776c8f6-742f-4a7e-b059-d1c2c421552e
+:END:
+#+begin_quote
+The data link layer provides node-to-node data transfer—a link between two directly connected nodes. It detects and possibly corrects errors that may occur in the physical layer. It defines the protocol to establish and terminate a connection between two physically connected devices. It also defines the protocol for flow control between them.
+
+[cite:@OSIModel2023]
+#+end_quote
+** Physical layer (OSI model)
+:PROPERTIES:
+:ID:       8f6fd595-a2ae-4bc6-a870-5fccb9616bc7
+:END:
+
+#+begin_quote
+The physical layer is responsible for the transmission and reception of unstructured raw data between a device, such as a network interface controller, Ethernet hub, or network switch, and a physical transmission medium. It converts the digital bits into electrical, radio, or optical signals.
+
+[cite:@OSIModel2023]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 07:48]
+:FC_CREATED: 2023-03-18T14:49:56Z
+:FC_TYPE:  double
+:ID:       69c2a8c7-5a15-4fae-a750-2c1f15bba740
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T14:49:56Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T14:49:56Z |
+:END:
+
+[[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
+
+*** Back
+A conceptual model for abstract network connections.
+*** Source
+[cite:@OSIModel2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 07:53]
+:FC_CREATED: 2023-03-18T14:55:10Z
+:FC_TYPE:  double
+:ID:       165a1a73-fddc-4fd4-8683-01ecae2d1feb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T14:55:10Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T14:55:10Z |
+:END:
+
+[[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
+
+*** Back
+Layer responsible for transmission and reception of unstructured raw data between a device (e.g. network swtich) and a physical transmission medium (e.g. fiber optic cable).
+*** Source
+[cite:@OSIModel2023]
+** Cloze :fc:
+:PROPERTIES:
+:FC_CREATED: 2023-03-18T14:57:36Z
+:FC_TYPE:  cloze
+:ID:       74cca720-df11-4f6e-bd71-caefd390a574
+:FC_CLOZE_MAX: 6
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        1 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        2 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        3 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        4 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        5 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        6 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+:END:
+
+[[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]] layers
+
+1. {{[[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]}@0}
+2. {{[[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]}@1}
+3. {{[[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]}@2}
+4. {{[[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]}@3}
+5. {{[[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]}@4}
+6. {{[[id:134da303-601d-40f9-929e-67cc4f35761d][Presentation layer (OSI model)]]}@5}
+7. {{[[id:28c1811a-bfe1-4910-8622-f1568dd7c388][Application layer (OSI model)]]}@6}
+
+** Normal :fc:
+:PROPERTIES:
+:FC_CREATED: 2023-03-18T14:58:45Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY:       74cca720-df11-4f6e-bd71-caefd390a574
+:ID:       f9387200-ffeb-499e-b792-3c272b1377cb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T14:58:45Z |
+:END:
+
+[[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]] layers
+
+1. [[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
+2. [[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]
+3. [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
+4. [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]
+5. [[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]
+6. [[id:134da303-601d-40f9-929e-67cc4f35761d][Presentation layer (OSI model)]]
+7. [[id:28c1811a-bfe1-4910-8622-f1568dd7c388][Application layer (OSI model)]]
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 07:59]
+:FC_CREATED: 2023-03-18T15:00:37Z
+:FC_TYPE:  double
+:ID:       72f1431e-fcf9-4701-9107-a511b300d364
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:00:37Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:00:37Z |
+:END:
+
+[[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]
+
+*** Back
+This layer provides node-to-node data transfer (e.g. network switch to network switch)
+*** Source
+[cite:@OSIModel2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:01]
+:FC_CREATED: 2023-03-18T15:02:11Z
+:FC_TYPE:  double
+:ID:       21f70540-a5f7-450a-9e95-79f4eb26c4a6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:02:11Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:02:11Z |
+:END:
+
+[[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
+
+*** Back
+This layer provides functional and procedural means of transferring packets from one node to another connected in "different networks".
+*** Source
+[cite:@OSIModel2023]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:04]
+:FC_CREATED: 2023-03-18T15:06:34Z
+:FC_TYPE:  normal
+:ID:       e92ab38f-0ba1-4280-a801-84c54dca0c97
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:06:34Z |
+:END:
+
+Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
+
+*** Back
+- Nodes: The devices which make up the network itself (switches, routers, etc) which may also include hosts
+- Hosts: Devices which use the network to communicate with each other
+*** Source
+[cite:@OSIModel2023] and [[id:a45ed3de-c710-40c8-86c4-3beab753cf41][Bard]]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:07]
+:FC_CREATED: 2023-03-18T15:08:51Z
+:FC_TYPE:  normal
+:ID:       1019b1b3-d665-4712-859e-de1974cfda76
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:08:51Z |
+:END:
+
+[[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
+
+*** Back
+- [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]: Provides a *reliable* connection between two hosts; also flow and congestion control
+- [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]: Provides /a/ connection between two hosts
+*** Source
+[cite:@OSIModel2023] and [[id:a45ed3de-c710-40c8-86c4-3beab753cf41][Bard]]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:29]
+:FC_CREATED: 2023-03-18T15:30:52Z
+:FC_TYPE:  double
+:ID:       6161f87b-321f-436e-ab49-4ffdfed0b4e2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:30:52Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:30:52Z |
+:END:
+
+[[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]
+
+*** Back
+This layer handles setup, teardown, and controls the connections between two or more computers.
+
+*** Source
+[cite:@OSIModel2023]
+#+print_bibliography:

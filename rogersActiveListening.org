@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@rogersActiveListening]
+:ID:       cf76d35e-d0df-434b-ab27-2792f4fd3d79
+:END:
+#+title: Carl R Rogers, Richard E Farson | Active Listening
+#+hugo_custom_front_matter: :slug "cf76d35e-d0df-434b-ab27-2792f4fd3d79"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 03:46]
+#+filetags: :has_todo:reference:
+ 
+[cite:@rogersActiveListening]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/cf/76d35e-d0df-434b-ab27-2792f4fd3d79/active-listening.pdf
+:NOTER_PAGE: 4
+:END:
+
+* TODO [#2] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

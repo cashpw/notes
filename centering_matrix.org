@@ -1,0 +1,127 @@
+:PROPERTIES:
+:ID:       87b4549f-d8f7-44ec-b11e-4fa14166f157
+:LAST_MODIFIED: [2023-02-24 Fri 19:35]
+:END:
+#+title: Centering matrix
+#+hugo_custom_front_matter: :slug "87b4549f-d8f7-44ec-b11e-4fa14166f157"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-17 Wed 09:48]
+#+filetags: :concept:
+#+begin_quote
+In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1299-0411-4b80-945b-0740cc8b5348][symmetric]] and [[id:8ffd5a59-aecd-4482-879a-ecbf2a720043][Idempotent matrix]], which when multiplied with a vector has the same effect as subtracting the mean of the components of the vector from every component of that vector.
+
+\(C_n = I_n - \tfrac{1}n J_n\)
+
+[cite:@CenteringMatrix2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Properties :fc:
+:PROPERTIES:
+:ID:       9dbb9710-0ba9-4f7f-81bd-772c73bf5bd1
+:ANKI_NOTE_ID: 1640627829947
+:FC_CREATED: 2021-12-27T17:57:09Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  13 |   213.96 | 2023-06-28T14:11:48Z |
+|        1 | 2.35 |   8 |   221.93 | 2023-07-16T14:04:17Z |
+:END:
+
+[[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]]
+
+1. {{[[id:30dd1299-0411-4b80-945b-0740cc8b5348][Symmetric matrix]]}@0}
+1. {{[[id:8ffd5a59-aecd-4482-879a-ecbf2a720043][Idempotent matrix]]}@1}
+
+*** Source
+[cite:@CenteringMatrix2021]
+
+** {{$C_n \vec{v}$}{matrix}@0} \(=\) {{$\vec{v} - \operatorname{avg}(\vec{v})\vec{1}$}{function}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-15T02:25:09Z
+:ID:       1ed15296-9d9a-4b89-a13a-2895a062b1ac
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   169.58 | 2023-05-04T04:28:03Z |
+|        1 | 1.45 |   8 |    30.44 | 2023-03-27T14:06:20Z |
+:END:
+
+
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       59e5a328-282e-46f6-abf6-d971ede35228
+:ANKI_NOTE_ID: 1640627879749
+:FC_CREATED: 2021-12-27T17:57:59Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   173.15 | 2023-04-16T18:07:31Z |
+| front    | 2.50 |   8 |   322.38 | 2023-12-09T23:29:15Z |
+:END:
+
+[[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]]
+
+*** Back
+A symmetric and idempotent matrix which, when multiplied by a vector, has the same effect as subtracting the mean of the components of the vector from every component of that vector.
+
+*** Extra
+\(C_n = I_n - \frac{1}{n}J_n\)
+
+*** Source
+[cite:@CenteringMatrix2021]
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       ec317bbd-ed3c-4637-8c94-90dfc3efe5ee
+:ANKI_NOTE_ID: 1640628583697
+:FC_CREATED: 2021-12-27T18:09:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   210.98 | 2023-07-01T18:10:16Z |
+|        1 | 2.80 |   8 |   294.96 | 2023-11-17T13:11:12Z |
+:END:
+
+- {{$C_n$}@0}
+
+{{The [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]] of size \(n \times n\).}@1}
+
+*** Source
+[cite:@CenteringMatrix2021]
+
+** {{$C_n$}@0} \(=\) {{$I_n - \frac{1}{n}J_n$}@1}
+:PROPERTIES:
+:ID:       e71564bf-d5b7-4244-b331-26084e3f2118
+:ANKI_NOTE_ID: 1661186904910
+:FC_CREATED: 2022-08-22T16:48:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|        1 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+*** Source
+[cite:@CenteringMatrix2021]
+#+print_bibliography:

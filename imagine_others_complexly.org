@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       91aae608-44c7-4dd0-94e1-512d5d5263cf
+:LAST_MODIFIED: [2023-03-09 Thu 18:51]
+:END:
+#+title: Imagine others complexly
+#+hugo_custom_front_matter: :slug "91aae608-44c7-4dd0-94e1-512d5d5263cf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 10:05]
+#+filetags: :concept:
+
+It's easy to see yourself complexly. It's more difficult, but also more important, to imagine others complexly.
+
+#+begin_quote
+Literacy is important. Literacy is vital, but literacy is not the finish line. Literature is not just in the business of See Jane Run. Literature is in the business of helping us to imagine ourselves and others more complexly, of connecting us to the ancient conversation about how to live as a person in a world full of other people.
+
+[...]
+
+Let me tell you what is, in my opinion, the central problem of human existence: I am stuck in my body, in my consciousness, seeing out of my eyes. I am the only me I ever get to be, and so I am the only person I can imagine endlessly complexly. That's not the problem, actually. The problem is you. You are so busy taking in your own wondrousness that you can't be bothered to acknowledge mine.
+[cite:@greenSpeechWroteALANConference2015], [cite:@ImagineOthersComplexly2020]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:33]
+:FC_CREATED: 2022-11-22T22:33:59Z
+:FC_TYPE:  double
+:ID:       4aa8147d-ca85-4551-a159-457cb27576e5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   108.98 | 2023-06-18T03:34:06Z |
+| back     | 2.80 |   6 |   125.43 | 2023-07-13T13:06:02Z |
+:END:
+
+[[id:91aae608-44c7-4dd0-94e1-512d5d5263cf][Imagine others complexly]]
+
+*** Back
+It's easy to see yourself complexly. It's more difficult, but also more important, to imagine others complexly.
+
+Related: Empathy
+*** Source
+[cite:@greenSpeechWroteALANConference2015]
+#+print_bibliography:

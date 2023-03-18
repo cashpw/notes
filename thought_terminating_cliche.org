@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       f454378e-9a94-4c15-b8b2-44f486077626
+:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:END:
+#+title: Thought-terminating cliché
+#+hugo_custom_front_matter: :slug "f454378e-9a94-4c15-b8b2-44f486077626"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 10:43]
+#+filetags: :concept:
+
+#+begin_quote
+[...] (also known as a semantic stop-sign, a thought-stopper, bumper sticker logic, or cliché thinking) is a form of loaded language, often passing as folk wisdom, intended to end an argument and quell cognitive dissonance [[[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]]].
+
+[cite:@ThoughtterminatingCliche2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       ece5a441-8c19-4925-9325-5112e3ad7fb2
+:ANKI_NOTE_ID: 1656857169806
+:FC_CREATED: 2022-07-03T14:06:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.60 |   7 |    61.28 | 2023-04-09T06:42:07Z |
+| front    | 1.45 |   4 |     8.29 | 2023-03-23T22:07:14Z |
+:END:
+[[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]
+*** Back
+A form of loaded language, often passing as folk wisdom or common sense, intended to end an argument and quell [[id:097f418c-8af5-498a-a5e3-37bab614556e][cognitive dissonance]].
+*** Source
+[cite:@ThoughtterminatingCliche2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       41aa29c0-09ba-46ac-b019-a0f5517a8193
+:ANKI_NOTE_ID: 1656857169956
+:FC_CREATED: 2022-07-03T14:06:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   9 |   264.25 | 2023-10-08T20:18:13Z |
+| back     | 2.65 |   7 |   298.28 | 2023-12-21T22:40:48Z |
+:END:
+[[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]
+*** Back
+- "It's just human nature"
+- Veganism isn't natural, look at the food chain. Animals eat other animals.
+#+print_bibliography:

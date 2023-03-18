@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@kuenzliKeyPracticesAchievingLargeProfessionalGoals2019]
+:ID:       3e7f1498-0d7c-4794-99c3-c22d6e316c52
+:DIR:      /home/cashweaver/proj/roam/attachments/3e7f1498-0d7c-4794-99c3-c22d6e316c52
+:END:
+#+title: Stephen Kuenzli | Key Practices for Achieving Large Professional Goals
+#+hugo_custom_front_matter: :slug "3e7f1498-0d7c-4794-99c3-c22d6e316c52"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 20:49]
+#+filetags: :reference:
+ 
+[[id:5a7ebf66-7622-47b1-9778-91cbb4566561][Stephen Kuenzli]], [cite:@kuenzliKeyPracticesAchievingLargeProfessionalGoals2019]
+
+* Summary
+
+#+begin_quote
+I attribute much of my success in 2019 to the practices of:
+
+1. writing to develop my thoughts [[[id:bfc1e54d-2c91-4514-ad99-54e6494268bb][Writing to think]]]
+2. learning to focus [[[id:82d1d3b6-dd55-43bf-828e-b34508ac136c][Deep work]]]
+#+end_quote
+
+#+begin_quote
+I wrote a lot in 2019 ... This practice of writing resulted in a couple major changes:
+
+1. I now use writing as a primary mechanism to develop my thoughts on a subject
+2. Writing is now a healthy habit for my professional skills and business
+#+end_quote
+
+Kuenzli mentions that they "really learned how to focus and extract much more value out of the time I have available". They specifically call attention to four ways they pursued [[id:82d1d3b6-dd55-43bf-828e-b34508ac136c][Deep Work]]:
+
+1. Removing social media from their daily routine ([[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][Attention capital theory]])
+
+   #+begin_quote
+Two 'surprising' things happened when I reduced the Twitter app timer limit to 30 then 5 minutes:
+
+1. I didn't miss it
+2. My stress level dropped and mood improved significantly
+   #+end_quote
+
+2. Scheduling their work day using pen and paper
+3. Scheduling important work for the beginning of the day ([[id:7644f829-ad5c-44c0-98ba-02cb0c698c75][Strike when you are hot]])
+
+   #+begin_quote
+It's only possible to work at peak levels sustainably for 3-4 hours per day. So, I pack writing, product management, product development, and planning into the morning. The most creative and intense work of the day is usually done by the time I go to lunch.
+   #+end_quote
+
+4. Wrapping up work in preparation for the next day
+
+   #+begin_quote
+At 15 minutes to 5, I start getting my work to a good stopping point, check my email for urgent issues, then I say this mantra out loud to recognize myself for the day's efforts and combat my perfectionist, always on tendencies:
+
+"That's good for today." [[[id:3dd67ed4-d1d5-47f4-982d-164f55c8a4ff][Good enough]]]
+   #+end_quote
+
+* Thoughts
+
+I've added an "End the Day" event to my calendar for the last 15 minutes of the day.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

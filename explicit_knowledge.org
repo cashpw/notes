@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       19124270-bb87-450d-8726-fe6aae18716f
+:ROAM_REFS: [cite:@ExplicitKnowledge2022]
+:ROAM_ALIASES: "Expressive knowledge"
+:LAST_MODIFIED: [2023-03-03 Fri 05:44]
+:END:
+#+title: Explicit knowledge
+#+hugo_custom_front_matter: :slug "19124270-bb87-450d-8726-fe6aae18716f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 08:07]
+#+filetags: :concept:
+
+#+begin_quote
+Explicit knowledge (also expressive knowledge) is knowledge that can be readily articulated, codified, stored and accessed. It can be expressed in formal and systematical language and shared in the form of data, scientific formulae, specifications, manuals and such like. It is easily codifiable and thus transmittable without loss of integrity once the syntactical rules required for deciphering it are known. Most forms of explicit knowledge can be stored in certain media. Explicit knowledge is often seen as complementary to [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]].
+
+[cite:@ExplicitKnowledge2022]
+#+end_quote
+
+#+begin_quote
+For example, knowing that London is in the United Kingdom is a piece of explicit knowledge; it can be written down, transmitted, and understood by a recipient.
+
+[cite:@TacitKnowledge2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 08:11]
+:FC_CREATED: 2022-11-12T16:13:01Z
+:FC_TYPE:  double
+:ID:       294b6239-470a-4ebd-a890-10cfc2e6e027
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   107.33 | 2023-05-20T01:05:50Z |
+| back     | 2.95 |   6 |   164.92 | 2023-08-15T11:52:36Z |
+:END:
+
+[[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]
+
+*** Back
+Knowledge which can be readily articulated, codified, stored, and accessed.
+*** Source
+[cite:@ExplicitKnowledge2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 08:13]
+:FC_CREATED: 2022-11-12T16:13:59Z
+:FC_TYPE:  double
+:ID:       a220a1dc-9e14-4df1-ba3d-da82632d39a3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   125.38 | 2023-06-12T08:57:06Z |
+| back     | 2.80 |   6 |   135.59 | 2023-06-23T12:55:18Z |
+:END:
+
+[[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]
+
+*** Back
+- The capital of California
+- The number of protons in a hydrogen atom
+- Amount of water in the Great Lakes
+*** Source
+[cite:@ExplicitKnowledge2022]
+** [[id:2f8eeb26-9db9-4c0b-bf52-80cbde1091d9][Compare and contrast]]
+
+#+print_bibliography:

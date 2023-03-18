@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       0141c9e2-e1b7-4b2f-8655-f977a9f41569
+:ROAM_REFS: [cite:@MagicalThinking2022]
+:LAST_MODIFIED: [2023-03-05 Sun 09:20]
+:END:
+#+title: Magical thinking
+#+hugo_custom_front_matter: :slug "0141c9e2-e1b7-4b2f-8655-f977a9f41569"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 07:55]
+#+filetags: :concept:
+
+#+begin_quote
+Magical thinking, or superstitious thinking, is the belief that unrelated events are causally connected despite the absence of any plausible causal link between them, particularly as a result of supernatural effects. Examples include the idea that personal thoughts can influence the external world without acting on them, or that objects must be causally connected if they resemble each other or have come into contact with each other in the past.
+
+[cite:@MagicalThinking2022]
+#+end_quote
+
+#+begin_quote
+Maybe little Amy gets mad at Brayden and shouts "I HATE HIM" to her mother. The next day, Brayden falls off a step and skins his knee. Amy intuits a cause-and-effect relationship between her hatred and Brayden's accident and feels guilty. She doesn't realize that her hatred is internal to herself and can't affect the world directly. Or kids displaying animism at this age, and expecting that the TV doesn't work because it's angry, or the car's not starting because it's tired.
+
+[cite:@alexanderWhatDevelopmentalMilestonesAreYouMissing2015]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 08:00]
+:FC_CREATED: 2023-01-12T16:01:25Z
+:FC_TYPE:  double
+:ID:       b226d5b8-cf86-46b9-824a-1574eeb31f0f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    38.66 | 2023-03-26T07:58:28Z |
+| back     | 2.95 |   5 |    44.32 | 2023-04-10T11:31:28Z |
+:END:
+
+[[id:0141c9e2-e1b7-4b2f-8655-f977a9f41569][Magical thinking]]
+
+*** Back
+The belief that unrelated events are causally connected despite the absence of any plausible causal link.
+*** Source
+[cite:@MagicalThinking2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 08:01]
+:FC_CREATED: 2023-01-12T16:04:01Z
+:FC_TYPE:  double
+:ID:       c7de6fae-aca2-45c3-955a-1c2245ad62f0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    45.32 | 2023-03-30T01:10:05Z |
+| back     | 2.80 |   5 |    48.20 | 2023-04-22T22:01:45Z |
+:END:
+
+[[id:0141c9e2-e1b7-4b2f-8655-f977a9f41569][Magical thinking]]
+
+*** Back
+- I thought about Sarah falling off her bike and she did!
+- Voodoo dolls, etc
+- Amy yells at their friend. Later, the friend scrapes their knee. Amy claims their actions caused the scraped knee.
+- I didn't say goodnight to the cat and that's why he scratched up the couch
+- (sad) Parents divorce is the children's fault (e.g. I didn't pick up my toys, and that's why this is happening)
+*** Source
+[cite:@MagicalThinking2022]
+#+print_bibliography:

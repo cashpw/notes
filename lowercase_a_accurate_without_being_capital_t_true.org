@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       9b054cbc-f7f4-4443-b28a-65d66eef4880
+:LAST_MODIFIED: [2023-03-14 Tue 07:36]
+:END:
+#+title: Lowercase-a accurate without being capital-T True
+#+hugo_custom_front_matter: :slug "9b054cbc-f7f4-4443-b28a-65d66eef4880"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 14:39]
+#+filetags: :quote:
+
+#+begin_quote
+But, like Newtonian physics, this framing is lowercase-a accurate without being capital-T True.
+
+[cite:@danskinCardSaysMoops2019]
+#+end_quote
+
+Describes a condition in which a certain framing is correct in that acting as if it is true will grant useful results. However, it's not the whole picture. It doesn't capture /all/ the truth. Or perhaps it is deficient in some other way.
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 14:41]
+:FC_CREATED: 2023-01-12T22:41:44Z
+:FC_TYPE:  double
+:ID:       925b57d0-f36d-4516-9273-503c209acce6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    82.21 | 2023-06-04T19:31:52Z |
+| back     | 2.80 |   5 |    38.51 | 2023-03-22T03:57:07Z |
+:END:
+
+[[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]
+
+*** Back
+Describes a condition in which a certain framing is correct in that acting as if it is true will grant useful results. However, it's not the whole picture. It doesn't capture /all/ the truth. Or perhaps it is deficient in some other way.
+*** Source
+[cite:@danskinCardSaysMoops2019]
+#+print_bibliography:

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       78cc7b2d-7eb9-4387-aa91-c7fe435b7c35
+:ROAM_ALIASES: Cluster
+:ROAM_REFS: [cite:@ComputerCluster2022]
+:LAST_MODIFIED: [2023-02-23 Thu 19:43]
+:END:
+#+title: Computer cluster
+#+hugo_custom_front_matter: :slug "78cc7b2d-7eb9-4387-aa91-c7fe435b7c35"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-01 Thu 11:23]
+#+filetags: :concept:
+
+#+begin_quote
+A computer cluster is a set of computers that work together so that they can be viewed as a single system.
+
+[cite:@ComputerCluster2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-01 Thu 11:24]
+:FC_CREATED: 2022-12-01T19:25:21Z
+:FC_TYPE:  double
+:ID:       d46365e8-31e0-497a-9bed-6b4d066d7612
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   115.72 | 2023-06-14T10:48:21Z |
+| back     | 2.50 |   6 |    81.50 | 2023-05-16T15:37:53Z |
+:END:
+
+[[id:78cc7b2d-7eb9-4387-aa91-c7fe435b7c35][Computer cluster]]
+
+*** Back
+A set of computers that work together such that one can view them as a single system.
+*** Source
+[cite:@ComputerCluster2022]
+#+print_bibliography:

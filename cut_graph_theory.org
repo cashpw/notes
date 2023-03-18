@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       d10d6ecb-87e1-446a-81a0-6afe74eddb78
+:ROAM_REFS: [cite:@CutGraphTheory2022]
+:LAST_MODIFIED: [2023-03-10 Fri 21:22]
+:END:
+#+title: Cut (Graph theory)
+#+hugo_custom_front_matter: :slug "d10d6ecb-87e1-446a-81a0-6afe74eddb78"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-28 Sat 13:15]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], a cut is a partition of the vertices of a graph into two disjoint subsets. Any cut determines a cut-set, the set of edges that have one endpoint in each subset of the partition. These edges are said to cross the cut. In a connected graph [[[id:9ee639e1-b92d-4bdb-8d13-9c53e22bf945][Connectivity (Graph theory)]]], each cut-set determines a unique cut, and in some cases cuts are identified with their cut-sets rather than with their vertex partitions.
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:21]
+:FC_CREATED: 2023-01-28T21:22:07Z
+:FC_TYPE:  double
+:ID:       4ab5e108-a638-436d-8655-e61a64d25e88
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    37.61 | 2023-04-09T06:54:22Z |
+| back     | 2.80 |   5 |    51.60 | 2023-04-30T17:26:38Z |
+:END:
+
+[[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]]
+
+*** Back
+A partition of vertices in a graph into two disjoint sets.
+*** Source
+[cite:@CutGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:22]
+:FC_CREATED: 2023-01-28T21:22:57Z
+:FC_TYPE:  double
+:ID:       35cd8a54-edc5-4ccb-9a20-7567a35c2943
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    45.04 | 2023-04-19T18:22:37Z |
+| back     | 2.35 |   4 |    12.93 | 2023-03-24T03:46:30Z |
+:END:
+
+Cut-set
+
+*** Back
+The set of edges which have one endpoint in each subset of a [[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]].
+*** Source
+[cite:@CutGraphTheory2022]
+#+print_bibliography:

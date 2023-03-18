@@ -1,0 +1,165 @@
+:PROPERTIES:
+:ID:       555a96ec-560f-4087-939f-5985f0ad0cb6
+:LAST_MODIFIED: [2023-03-15 Wed 08:10]
+:ROAM_ALIASES: "Instantaneous rate of change"
+:END:
+#+title: Derivative (math)
+#+hugo_custom_front_matter: :slug "555a96ec-560f-4087-939f-5985f0ad0cb6"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:20]
+#+filetags: :has_todo:concept:
+#+begin_quote
+In mathematics, the derivative of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). Derivatives are a fundamental tool of calculus. For example, the derivative of the position of a moving object with respect to time is the object's velocity: this measures how quickly the position of the object changes when time advances.
+
+The derivative of a function of a single variable at a chosen input value, when it exists, is the slope of the tangent line to the graph of the function at that point. The tangent line is the best linear approximation of the function near that input value. For this reason, the derivative is often described as the "instantaneous rate of change", the ratio of the instantaneous change in the dependent variable to that of the independent variable.
+
+[...]
+
+The process of finding a derivative is called differentiation [[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]]. The reverse process is called antidifferentiation [[[id:4dafe179-aeb8-4718-9eb8-ac96a27f9a58][Antiderivative]]]. The fundamental theorem of calculus [[[id:adda1031-550c-4f65-9384-1ee018532adc][Fundamental theorem of calculus]]] relates antidifferentiation with integration [[[id:61de6a28-e681-45bd-a086-fff5b924354e][Integration]]]. Differentiation and integration constitute the two fundamental operations in single-variable calculus.
+
+[cite:@Derivative2022]
+#+end_quote
+
+* Geometric interpretation of derivatives
+:PROPERTIES:
+:ID:       7a09b41a-d29b-45e6-b196-b79b4dce82b5
+:END:
+
+$f'(x)$ is the slope of the tangent line of $f(x)$.
+
+* Finding [[id:c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f][Maxima and minima]] with differentiation
+
+The [[id:9771cc5d-138e-45dc-9d64-81ee31ec55a2][Global minima]] of $y = x^2 + 4x - 5$ is at $y=-2$. To solve:
+
+1. Find the [[id:c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f][Extrema]]
+
+   $$
+   \begin{align}
+   y &= x^2 + 4x - 5 \\
+   \frac{dy}{dx} &= 2x + 4 \\
+   \end{align}
+   $$
+
+   Now equate to zero...
+
+   $$
+   \begin{align}
+   0 &= 2x + 4 \\
+   x &= \frac{-4}{2} \\
+   x &= -2
+   \end{align}
+   $$
+
+2. Determine maxima or minima
+
+   $$
+   \begin{align}
+   y &= x^2 + 4x - 5 \\
+   \frac{d^2y}{(dx)^2} &= 2
+   \end{align}
+   $$
+
+   The slope of the slope is positive ($2 > 0$), so the [[id:c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f][Extrema]] is a [[id:9771cc5d-138e-45dc-9d64-81ee31ec55a2][Global minima]].
+
+Another example with a higher [[id:aa684635-2a2e-4669-85c0-946ee50393a2][Degree]]: $f(x) = x^3 - 2x^2 + 8x + 1$
+
+$$
+\begin{align}
+f(x) &= \frac{4}{3}x^3 + x^2 - 5x + 1 \\
+f'(x) &= 4x^2 + 2x - 5
+\end{align}
+$$
+
+This has two solutions by the [[id:9d646383-d4a9-4f9d-ab12-74d45b82d58a][Quadratic formula]]:
+
+$x = -\frac{1}{4} \pm \frac{\sqrt{21}}{4}$
+
+You can perform the second step from above to determine whether these are maxima or minima.
+
+* TODO [#2] Expand
+Related: [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differential calculus]]
+[cite:@Derivative2022]
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:41]
+:FC_CREATED: 2023-01-27T14:42:44Z
+:FC_TYPE:  double
+:ID:       8d30c207-99d1-4d92-8f0c-1004af69cd83
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    32.04 | 2023-04-05T16:06:54Z |
+| back     | 2.80 |   5 |    42.34 | 2023-04-21T11:09:40Z |
+:END:
+
+[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]
+
+*** Back
+The sensitivity of a function's output value to changes in the function's input value(s).
+*** Source
+[cite:@Derivative2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:42]
+:FC_CREATED: 2023-01-27T14:43:51Z
+:FC_TYPE:  double
+:ID:       4ec53f00-4092-4314-9b6b-ce4b07852815
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    40.69 | 2023-04-10T20:52:59Z |
+| back     | 2.50 |   5 |    43.47 | 2023-04-21T05:29:27Z |
+:END:
+
+Geometric interpretation of [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]
+
+*** Back
+The slope of the tangent line to the graph of the function at a particular point.
+*** Source
+[cite:@Derivative2022]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:43]
+:FC_CREATED: 2023-01-27T14:44:34Z
+:FC_TYPE:  cloze
+:ID:       478503a6-c4e4-4223-aa07-7b2ca68ecf62
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    45.43 | 2023-04-13T02:07:50Z |
+|        1 | 2.80 |   5 |    54.10 | 2023-05-08T17:39:55Z |
+:END:
+
+- {{[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]}@0}
+- {{[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Instantaneous rate of change]]}@1}
+
+*** Source
+[cite:@Derivative2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:19]
+:FC_CREATED: 2023-01-28T00:22:40Z
+:FC_TYPE:  cloze
+:ID:       b1915ab3-ef85-439c-ab55-14d9a6558af6
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    41.78 | 2023-04-16T12:11:18Z |
+|        1 | 2.50 |   4 |    16.12 | 2023-03-24T20:21:37Z |
+:END:
+
+For $f(x)$, {{the [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]}@0} is {{a function whose output is the slope of the tangent line at $x$}{[[id:e67fa9ff-5bb3-47cd-8559-0c3a25300f0d][Geometry]]}@1}.
+
+*** Source
+[cite:@Derivative2022]
+#+print_bibliography:

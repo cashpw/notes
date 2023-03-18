@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       cf64c166-6ad5-4dd7-88c6-155a320a7ea3
+:ROAM_REFS: [cite:@Heapsort2022]
+:LAST_MODIFIED: [2023-01-25 Wed 08:41]
+:END:
+#+title: Heapsort
+#+hugo_custom_front_matter: :slug "cf64c166-6ad5-4dd7-88c6-155a320a7ea3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 09:32]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, heapsort is a comparison-based sorting algorithm. Heapsort can be thought of as an improved [[id:f8918bbe-8164-4105-8489-2f74fd10df6d][Selection sort]]: like selection sort, heapsort divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element from it and inserting it into the sorted region. Unlike selection sort, heapsort does not waste time with a linear-time scan of the unsorted region; rather, heap sort maintains the unsorted region in a [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] to more quickly find the largest element in each step.
+
+[cite:@Heapsort2022]
+#+end_quote
+
+- [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
+- [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
+
+* Algorithm
+
+1. Create a heap which is ordered as you'd like to sort the list (e.g. [[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap property]] or [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]]) from all elements in the list to be sorted
+2. Swap the first element in the list (the top of the heap) with the last element
+3. Limit the heap's scope to not include the recently swapped element
+4. Heapify
+5. Goto step 2 unil the list is sorted
+
+* Implementation
+
+[[id:1866a9ee-480e-4c8e-95d1-549bd30f13dc][Heapsort implementation in python]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Algorithm :fc:
+:PROPERTIES:
+:CREATED: [2022-10-20 Thu 19:14]
+:FC_CREATED: 2022-10-21T02:20:14Z
+:FC_TYPE:  normal
+:ID:       769aded2-c810-4aa2-8384-275bbabfa31a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |    98.47 | 2023-05-04T04:02:06Z |
+:END:
+
+[[id:cf64c166-6ad5-4dd7-88c6-155a320a7ea3][Heapsort]]
+
+*** Back
+
+For a given list, =items=, and a comparator function, =comparator=:
+
+1. Heapify =items= by =comparator=
+2. For =len(items) - 1= to =1= as =i=:
+   1. Swap =items[0]= and =items[i]=
+   2. Heapify =items[0:i-1]= by =comparator=
+
+*** Source
+[cite:@Heapsort2022]
+#+print_bibliography:

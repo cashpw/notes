@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       0d69fc06-1179-402b-8231-922986e486fc
+:LAST_MODIFIED: [2023-02-11 Sat 07:29]
+:END:
+#+title: Trigonometry
+#+hugo_custom_front_matter: :slug "0d69fc06-1179-402b-8231-922986e486fc"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 08:21]
+#+filetags: :concept:
+
+#+begin_quote
+Trigonometry (from Ancient Greek τρίγωνον (trígōnon) 'triangle', and μέτρον (métron) 'measure') is a branch of mathematics that studies relationships between side lengths and angles of triangles.
+
+[cite:@Trigonometry2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 08:23]
+:FC_CREATED: 2022-11-18T16:24:09Z
+:FC_TYPE:  double
+:ID:       f66361fc-7c47-458e-9c87-b479792d35f2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   108.60 | 2023-05-20T04:59:13Z |
+| back     | 2.50 |   6 |    91.40 | 2023-05-14T01:10:09Z |
+:END:
+
+[[id:0d69fc06-1179-402b-8231-922986e486fc][Trigonometry]]
+
+*** Back
+
+A branch of math which studies relationships between sides and angles of triangles.
+*** Source
+[cite:@Trigonometry2022]
+#+print_bibliography:

@@ -1,0 +1,221 @@
+:PROPERTIES:
+:ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
+:LAST_MODIFIED: [2023-03-10 Fri 21:20]
+:END:
+#+title: Finance
+#+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 14:46]
+#+filetags: :has_todo:concept:
+* Flashcards
+** TODO [#3] Organize flashcards
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       7485d0a5-3fa8-4545-aac1-5047b06e7635
+:ANKI_NOTE_ID: 1640627785022
+:FC_CREATED: 2021-12-27T17:56:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   302.00 | 2023-11-30T16:27:25Z |
+| front    | 2.65 |   8 |   307.09 | 2023-12-21T05:35:51Z |
+:END:
+
+Bull market
+
+*** Back
+A period of generally rising prices in a market.
+** Definition :fc:
+:PROPERTIES:
+:ID:       2f04af91-3b82-4e86-be1c-9dab1a4ec8bb
+:ANKI_NOTE_ID: 1640627785897
+:FC_CREATED: 2021-12-27T17:56:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   213.35 | 2023-07-07T23:35:39Z |
+| front    | 2.45 |   4 |    15.47 | 2023-03-19T00:53:25Z |
+:END:
+
+Defined benefit plan
+
+*** Back
+An investment plan wherein money is paid to a person by some entity, usually the company for which they work.
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       2ba4463c-490a-4aac-a394-2f4bd7240a6e
+:ANKI_NOTE_ID: 1640627786095
+:FC_CREATED: 2021-12-27T17:56:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   380.47 | 2024-03-25T16:35:33Z |
+| front    | 2.65 |   8 |   238.40 | 2023-07-26T03:48:33Z |
+:END:
+
+Defined contribution plan
+
+*** Back
+An investment plan wherein money is contributed to an investment vehicle by an individual.
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       fb9620ef-82bf-471a-95de-064fd53bbfd0
+:ANKI_NOTE_ID: 1640627789747
+:FC_CREATED: 2021-12-27T17:56:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  11 |   354.38 | 2024-01-06T11:04:28Z |
+| front    | 2.35 |   8 |   235.14 | 2023-08-08T00:00:45Z |
+:END:
+
+Earnings per share
+
+*** Back
+$\frac{\text{net income - preferred dividends}}{\text{end-of-period common shares outstanding}}$
+
+*** Source
+[cite:@EarningsShare2022]
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       9008cd32-684f-4bd5-8f64-94eea798fbd6
+:ANKI_NOTE_ID: 1640627789197
+:FC_CREATED: 2021-12-27T17:56:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.45 |   4 |     9.50 | 2023-03-18T06:16:51Z |
+| front    | 2.65 |   9 |   339.29 | 2024-02-12T09:48:35Z |
+:END:
+
+P/E ratio
+
+*** Back
+$\frac{\text{Market value per share}}{\text{Earnings per share}}$
+
+*** Source
+[cite:@PriceEarningsRatio2022]
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       aa79a25c-2546-40c3-85de-5fcdcce21cfb
+:ANKI_NOTE_ID: 1640627785724
+:FC_CREATED: 2021-12-27T17:56:25Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   146.25 | 2023-03-26T22:07:57Z |
+| front    | 2.65 |   8 |   172.41 | 2023-05-05T00:55:58Z |
+:END:
+
+Tax deferral
+
+*** Back
+Refers to instances where a taxpayer can delay paying taxes to some future period.
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       2c8ce65f-7c07-4034-8889-c36c66c32e4b
+:ANKI_NOTE_ID: 1640627790374
+:FC_CREATED: 2021-12-27T17:56:30Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   250.41 | 2023-09-24T11:58:23Z |
+| front    | 2.65 |  11 |   370.90 | 2024-03-16T02:52:13Z |
+:END:
+
+Financial instrument
+
+*** Back
+Assets that can be traded.
+
+*** Extra
+Eg: cash, stock, options, mortgages
+
+*** Source
+[cite:@FinancialInstrument2022]
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       c3cc22c4-8d88-4606-b50d-9a5ca63364ae
+:ANKI_NOTE_ID: 1640627786524
+:FC_CREATED: 2021-12-27T17:56:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 3.10 |   6 |   176.25 | 2023-08-06T06:13:14Z |
+| front    | 2.95 |   6 |   145.15 | 2023-07-02T03:27:55Z |
+:END:
+
+401(k)
+
+*** Back
+A tax-advantaged, defined-contribution retirement account offered by employers to their employees.
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       ac3f9772-29b8-4515-a946-30af7c8bf2a0
+:ANKI_NOTE_ID: 1640627784624
+:FC_CREATED: 2021-12-27T17:56:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   361.43 | 2024-02-09T02:35:49Z |
+| front    | 2.30 |  10 |   108.75 | 2023-04-07T10:26:39Z |
+:END:
+
+Bear market
+
+*** Back
+A period of generally falling prices in a market.
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       64d15717-f04d-4c17-bd5a-fd1be861d3c6
+:ANKI_NOTE_ID: 1640627788544
+:FC_CREATED: 2021-12-27T17:56:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   149.74 | 2023-03-21T08:56:34Z |
+| front    | 2.65 |   7 |   147.18 | 2023-04-02T21:16:28Z |
+:END:
+
+Blue chip stock
+
+*** Back
+A huge company with an excellent reputation.
+
+*** Source
+[cite:@BlueChipStockMarket2022]
+** Contributions to a Traditional Individiual Retirement Account are made with {{pre}@0}-tax money. :fc:
+:PROPERTIES:
+:ID:       f9149f10-c3c0-4535-9f5c-6e6f2c595185
+:ANKI_NOTE_ID: 1640627786672
+:FC_CREATED: 2021-12-27T17:56:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   9 |   334.99 | 2024-01-18T03:02:04Z |
+:END:
+#+print_bibliography:

@@ -1,0 +1,317 @@
+:PROPERTIES:
+:ID:       8611a2b5-378e-44ab-b601-6481f170c34a
+:ROAM_REFS: [cite:@SocraticQuestioning2022]
+:LAST_MODIFIED: [2023-03-18 Sat 06:36]
+:END:
+#+title: Socratic questioning
+#+hugo_custom_front_matter: :slug "8611a2b5-378e-44ab-b601-6481f170c34a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-18 Mon 18:46]
+#+filetags: :concept:
+#+begin_quote
+Socratic questioning was named after Socrates. He used an educational method that focused on discovering answers by asking questions from his students.
+
+[...]
+
+Socratic questioning is a form of disciplined questioning that can be used to pursue thought in many directions and for many purposes, including: to explore complex ideas, to get to the truth of things, to open up issues and problems, to uncover assumptions, to analyze concepts, to distinguish what we know from what we do not know, to follow out logical consequences of thought or to control discussions.
+
+[cite:@SocraticQuestioning2022]
+#+end_quote
+
+* Question categories
+
+Related: [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]]
+
+** Clarifying concepts
+:PROPERTIES:
+:ID:       f3e83c86-0fa3-4ff3-873c-d8144f6e2da7
+:END:
+
+- What exactly does that mean?
+- Can you give me an example?
+- Can you rephrase that?
+
+** Challenge assumptions
+:PROPERTIES:
+:ID:       786b0225-46fc-48d5-b39c-f63a3661bfc9
+:END:
+
+- Is that always true?
+- How could you verify or disprove that?
+- What would happen if ... ?
+
+** Examine rationale, reasons, and evidence
+:PROPERTIES:
+:ID:       799712ef-c977-477e-b2fe-2f493e78358c
+:END:
+
+- Why is that happening?
+- How do you know this?
+- How might one refute it?
+
+** Consider alternatives
+:PROPERTIES:
+:ID:       40bfe2da-90dd-4e86-8f0f-0244c452ab63
+:END:
+
+- What are other ways of looking at this?
+- What is the counter-argument?
+
+** Consider implications and consequences
+:PROPERTIES:
+:ID:       ac6eee1a-8d6a-4b23-95ff-468ee543d19b
+:END:
+
+- What if you are wrong?
+- How does that affect ... ?
+- How could ... be used to ... ?
+
+** Meta questioning
+:PROPERTIES:
+:ID:       a541cbb8-f909-475c-b46b-a8cf9cf553e7
+:END:
+
+- Why did you ask that question?
+- Am I making sense?
+- What else might I ask?
+
+
+* [[id:f38ffe48-0117-4338-8bd5-e0b05101e64f][Mnemonic]]
+
+- Cats: [[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]
+- Always: [[id:786b0225-46fc-48d5-b39c-f63a3661bfc9][Challenge assumptions]]
+- Run: [[id:799712ef-c977-477e-b2fe-2f493e78358c][Examine rationale, reasons, and evidence]]
+- After: [[id:40bfe2da-90dd-4e86-8f0f-0244c452ab63][Consider alternatives]]
+- Insolent: [[id:ac6eee1a-8d6a-4b23-95ff-468ee543d19b][Consider implications and consequences]]
+- Mice: [[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       5d7cf359-f34a-4056-95ea-57acf166ccb0
+:ANKI_NOTE_ID: 1658196263251
+:FC_CREATED: 2022-07-19T02:04:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |    72.63 | 2023-03-20T05:49:20Z |
+| front    | 2.80 |   6 |   134.64 | 2023-07-13T19:39:09Z |
+:END:
+
+[[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]]
+
+*** Back
+A form of disciplined questioning credited to Socrates's teaching style.
+
+*** Source
+[cite:@SocraticQuestioning2022]
+
+** Categories of [[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]] (all) :fc:
+:PROPERTIES:
+:ID:       a02c903d-9ca7-4845-ae51-b779733b6f22
+:ANKI_NOTE_ID: 1658196264150
+:FC_CREATED: 2022-10-22T15:17:08Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY: 2aabdfd4-cd07-4e94-bd54-87e880a83779,3dcde120-fd13-4fef-a9e0-4b0c8450f402,3f0827ba-97f5-4659-9707-854faebfdd84,78c1d85f-b08c-4013-8d38-dca220b33f4f,18719b4c-7107-4bdf-a875-569cf04472f8,3cfee710-7821-4372-9b34-68ff0b343e94
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    26.66 | 2023-03-27T20:05:48Z |
+:END:
+
+1. [[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]
+2. [[id:786b0225-46fc-48d5-b39c-f63a3661bfc9][Challenge assumptions]]
+3. [[id:799712ef-c977-477e-b2fe-2f493e78358c][Examine rationale, reasons, and evidence]]
+4. [[id:40bfe2da-90dd-4e86-8f0f-0244c452ab63][Consider alternatives]]
+5. [[id:ac6eee1a-8d6a-4b23-95ff-468ee543d19b][Consider implications and consequences]]
+6. [[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]
+
+** Categories of [[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]] :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1658196264150
+:FC_CREATED: 2022-10-17T15:24:00Z
+:FC_TYPE:  cloze
+:ID:       a5b5594c-ff14-4bfa-b77b-6a244e8c3ca6
+:FC_CLOZE_MAX: 5
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   4 |    11.71 | 2023-03-21T20:18:07Z |
+|        1 | 2.50 |   6 |   110.34 | 2023-06-03T01:49:32Z |
+|        2 | 2.05 |   6 |    44.96 | 2023-04-06T20:20:33Z |
+|        3 | 2.20 |   6 |    52.14 | 2023-04-22T07:22:26Z |
+|        4 | 2.35 |   5 |    40.69 | 2023-03-20T11:09:44Z |
+|        5 | 2.65 |   5 |    41.21 | 2023-03-30T07:07:22Z |
+:END:
+
+1. {{[[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]}@0}
+2. {{[[id:786b0225-46fc-48d5-b39c-f63a3661bfc9][Challenge assumptions]]}@1}
+3. {{[[id:799712ef-c977-477e-b2fe-2f493e78358c][Examine rationale, reasons, and evidence]]}@2}
+4. {{[[id:40bfe2da-90dd-4e86-8f0f-0244c452ab63][Consider alternatives]]}@3}
+5. {{[[id:ac6eee1a-8d6a-4b23-95ff-468ee543d19b][Consider implications and consequences]]}@4}
+6. {{[[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]}@5}
+
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-05 Wed 09:16]
+:FC_CREATED: 2022-10-05T16:17:19Z
+:FC_TYPE:  double
+:ID:       3cfee710-7821-4372-9b34-68ff0b343e94
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   106.48 | 2023-04-30T04:21:46Z |
+| back     | 2.80 |   6 |   112.25 | 2023-05-14T22:46:28Z |
+:END:
+
+[[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]
+
+*** Back
+- What exactly does that mean?
+- Can you give me an example?
+- Can you rephrase that?
+*** Source
+[cite:@SocraticQuestioning2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-05 Wed 09:18]
+:FC_CREATED: 2022-10-05T16:18:45Z
+:FC_TYPE:  double
+:ID:       18719b4c-7107-4bdf-a875-569cf04472f8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   7 |   125.66 | 2023-07-14T21:14:03Z |
+| back     | 1.75 |   5 |    19.05 | 2023-03-31T01:43:34Z |
+:END:
+
+[[id:786b0225-46fc-48d5-b39c-f63a3661bfc9][Challenge assumptions]]
+
+*** Back
+- Is that always true?
+- How could you verify or disprove that?
+- What would happen if ... ?
+*** Source
+[cite:@SocraticQuestioning2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-05 Wed 09:19]
+:FC_CREATED: 2022-10-05T16:19:46Z
+:FC_TYPE:  double
+:ID:       78c1d85f-b08c-4013-8d38-dca220b33f4f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    83.23 | 2023-04-27T22:12:23Z |
+| back     | 2.05 |   7 |   112.25 | 2023-07-08T19:29:37Z |
+:END:
+
+[[id:799712ef-c977-477e-b2fe-2f493e78358c][Examine rationale, reasons, and evidence]]
+
+*** Back
+- Why is that happening?
+- How do you know this?
+- How might one refute it?
+*** Source
+[cite:@SocraticQuestioning2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-05 Wed 09:19]
+:FC_CREATED: 2022-10-05T16:20:11Z
+:FC_TYPE:  double
+:ID:       3f0827ba-97f5-4659-9707-854faebfdd84
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   138.46 | 2023-07-06T01:59:09Z |
+| back     | 2.20 |   6 |    73.31 | 2023-05-22T10:18:38Z |
+:END:
+
+[[id:40bfe2da-90dd-4e86-8f0f-0244c452ab63][Consider alternatives]]
+*** Back
+- What are other ways of looking at this?
+- What is the counter-argument?
+
+*** Source
+[cite:@SocraticQuestioning2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-05 Wed 09:20]
+:FC_CREATED: 2022-10-05T16:20:41Z
+:FC_TYPE:  double
+:ID:       3dcde120-fd13-4fef-a9e0-4b0c8450f402
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   106.12 | 2023-05-16T19:09:41Z |
+| back     | 2.95 |   6 |   147.63 | 2023-08-04T18:24:58Z |
+:END:
+
+[[id:ac6eee1a-8d6a-4b23-95ff-468ee543d19b][Consider implications and consequences]]
+
+*** Back
+- What if you are wrong?
+- How does that affect ... ?
+- How could ... be used to ... ?
+*** Source
+[cite:@SocraticQuestioning2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-05 Wed 09:20]
+:FC_CREATED: 2022-10-05T16:21:03Z
+:FC_TYPE:  double
+:ID:       2aabdfd4-cd07-4e94-bd54-87e880a83779
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    72.44 | 2023-04-21T09:37:08Z |
+| back     | 2.35 |   6 |    71.59 | 2023-04-28T06:03:37Z |
+:END:
+
+[[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]
+
+*** Back
+- Why did you ask that question?
+- Am I making sense?
+- What else might I ask?
+
+*** Source
+[cite:@SocraticQuestioning2022]
+** [[id:f38ffe48-0117-4338-8bd5-e0b05101e64f][Mnemonic]] for [[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-04 Fri 17:43]
+:FC_CREATED: 2022-11-05T00:43:34Z
+:FC_TYPE:  normal
+:ID:       54915084-d2c2-49e2-8d5c-6a6295ae84ef
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    62.32 | 2023-03-29T22:35:20Z |
+:END:
+
+- Cats: [[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]
+- Always: [[id:786b0225-46fc-48d5-b39c-f63a3661bfc9][Challenge assumptions]]
+- Run: [[id:799712ef-c977-477e-b2fe-2f493e78358c][Examine rationale, reasons, and evidence]]
+- After: [[id:40bfe2da-90dd-4e86-8f0f-0244c452ab63][Consider alternatives]]
+- Insolent: [[id:ac6eee1a-8d6a-4b23-95ff-468ee543d19b][Consider implications and consequences]]
+- Mice: [[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]
+
+*** Source
+Me
+#+print_bibliography:

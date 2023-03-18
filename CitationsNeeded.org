@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@CitationsNeeded]
+:ID:       49cab4c1-d483-4043-bfe9-7dceab5d0fd0
+:LAST_MODIFIED: [2022-12-14 Wed 13:27]
+:END:
+#+title: Citations Needed
+#+hugo_custom_front_matter: :slug "49cab4c1-d483-4043-bfe9-7dceab5d0fd0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-21 Thu 11:10]
+#+filetags: :reference:
+
+#+begin_quote
+A podcast on the media, power, PR and the history of bullshit.
+#+end_quote
+
+Hosted by [[id:1ad7f14f-1f4d-4744-b923-a496e4ed6824][Nima Shirazi]] and [[id:b716997e-633f-41c2-bfff-1846df7e4bc2][Adam Johnson]].
+
+- [[twitter:CitationsPod][@CitationsPod]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

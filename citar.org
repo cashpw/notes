@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5fc743f6-f55a-4e98-985e-2e6cab8ec8c1
+:END:
+#+title: Citar
+#+hugo_custom_front_matter: :slug "5fc743f6-f55a-4e98-985e-2e6cab8ec8c1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-16 Wed 08:38]
+#+filetags: :concept:
+
+#+begin_quote
+This package provides a completing-read front-end to browse and act on BibTeX, BibLaTeX, and CSL JSON bibliographic data, and LaTeX, markdown, and org-cite editing support.
+
+[cite:@Citar2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       00886e80-e78f-4f1e-8c85-b97b27af05ac
+:ROAM_ALIASES: OKR
+:ROAM_REFS: [cite:@OKR2022]
+:LAST_MODIFIED: [2023-03-13 Mon 07:54]
+:END:
+#+title: Objectives and key results
+#+hugo_custom_front_matter: :slug "00886e80-e78f-4f1e-8c85-b97b27af05ac"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-16 Wed 07:37]
+#+filetags: :concept:
+#+begin_quote
+Objectives and key results (OKR, alternatively OKRs) is a goal-setting framework used by individuals, teams, and organizations to define measurable goals and track their outcomes. The development of OKR is generally attributed to Andrew Grove who introduced the approach to Intel in the 1970s.
+
+[cite:@OKR2022]
+#+end_quote
+
+An objective and 3-5 key results comprise a single OKR:
+
+- Objective:
+
+  #+begin_quote
+[...] a significant, concrete, clearly defined goal [...]
+
+Not only should objectives be significant, concrete, and clearly defined, they should also be inspirational for the individual, team, or organization that is working towards them. Objectives can also be supported by initiatives, which are the plans and activities that help to move forward the key results and achieve the objective.
+
+[cite:@OKR2022]
+  #+end_quote
+- Key results
+
+  #+begin_quote
+  Key results should be measurable, either on a 0–100% scale or with any numerical value (e.g. count, dollar amount, or percentage) that can be used by planners and decision makers to determine whether those involved in working towards the key result have been successful. There should be no opportunity for "grey area" when defining a key result.
+
+  [...]
+
+  The key result has to be measurable. But at the end you can look, and without any arguments: Did I do that or did I not do it? Yes? No? Simple. No judgments in it.
+
+  [cite:@OKR2022]
+  #+end_quote
+
+#+begin_quote
+Doerr recommends that an organization's target success rate for key results be 70%. A 70% success rate encourages competitive goal-making that is meant to stretch workers at low risk. If 100% of the key results are consistently being met, the key results should be reevaluated.
+
+[cite:@OKR2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 19:59]
+:FC_CREATED: 2023-01-09T04:00:40Z
+:FC_TYPE:  double
+:ID:       e3898fa9-57c9-42c1-bfc3-6dc230cfa26f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   102.07 | 2023-06-23T16:42:01Z |
+| back     | 2.95 |   5 |    54.27 | 2023-04-04T00:49:22Z |
+:END:
+
+[[id:00886e80-e78f-4f1e-8c85-b97b27af05ac][OKR]]
+
+*** Back
+- One objective: a significant, concrete, clearly defined goal
+- 3-5 key results: objective and measurable indicators
+*** Source
+[cite:@OKR2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 20:01]
+:FC_CREATED: 2023-01-09T04:03:32Z
+:FC_TYPE:  cloze
+:ID:       badbeba4-4765-42ea-8d20-e0ec326a21f0
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    45.85 | 2023-03-24T15:20:15Z |
+:END:
+
+Organizations should set key results for an [[id:00886e80-e78f-4f1e-8c85-b97b27af05ac][OKR]] such that the success rate is {{70%}{percent}@0}.
+
+*** Source
+[cite:@OKR2022]
+#+print_bibliography:

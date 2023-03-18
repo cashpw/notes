@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@sophiefrommarsKaijuMonsterMen2022]
+:ID:       08b0952b-2b04-4d9c-9896-d6aadb7a4874
+:END:
+#+title:  Sophie from Mars | Kaiju | Monster Men
+#+hugo_custom_front_matter: :slug "08b0952b-2b04-4d9c-9896-d6aadb7a4874"
+#+author: Cash Weaver
+#+date: [2022-11-21 Mon 19:18]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@sophiefrommarsKaijuMonsterMen2022]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

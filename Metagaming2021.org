@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       5d636267-334b-4a01-b41d-c6cd6e826a26
+:ROAM_REFS: [cite:@Metagaming2022]
+:LAST_MODIFIED: [2022-12-14 Wed 13:29]
+:END:
+#+title: Metagaming
+#+hugo_custom_front_matter: :slug "5d636267-334b-4a01-b41d-c6cd6e826a26"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 17:01]
+#+filetags: :reference:
+
+#+begin_quote
+[[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]], Hypergame, or game about the game, is an approach to a game that transcends or operates outside of the prescribed rules of the game, uses external factors to affect the game, or goes beyond the supposed limits or environment set by the game.
+
+Metagaming might also refer to a game which functions to create or modify the rules of a sub-game. Thus, we might play a metagame selecting which rules will apply during the play of the game itself.
+
+[cite:@Metagaming2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

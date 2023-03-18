@@ -1,0 +1,220 @@
+:PROPERTIES:
+:ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
+:DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
+:ROAM_ALIASES: SRS "Spaced repetition system"
+:LAST_MODIFIED: [2023-03-10 Fri 21:21]
+:END:
+#+title: Spaced repetition
+#+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
+#+filetags: :has_todo:concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-30 Thu 15:26]
+
+#+begin_quote
+Spaced repetition is an evidence-based learning technique [[[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]]] that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect [[[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]]]. The use of spaced repetition has been proven to increase rate of learning.
+
+[...]
+
+The basis for spaced repetition research was laid by Hermann Ebbinghaus, who suggested that information loss over time follows a forgetting curve [[[id:9373ca2c-77ee-4874-8dfd-fb2f8997fb8f][Forgetting curve]]], but that forgetting could be reset with repetition based on active recall.
+
+[cite:@SpacedRepetition2022]
+#+end_quote
+
+Also see [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]].
+
+Spaced repetition is how I bring intention to memory. I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful,  process.
+
+* Tools
+
+My preferred solution is [[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]]. However, [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]] is, as far as I can tell, the most popular and well known. I used Anki exclusively prior to switching to org-fc.
+
+* TODO [#3] Expand :noexport:
+
+- [cite:@branwenSpacedRepetitionEfficientLearning2009]
+
+  #+begin_quote
+Michael Nielsen: [[https://www.gwern.net/docs/www/augmentingcognition.com/6c1e2f0042d3a90bcb3e731affbbc060bdd140dc.html]["Augmenting Long-term Memory"]]⁠; [[https://quantum.country/qcvc]["Quantum computing for the very curious"]]⁠; [[https://numinous.productions/ttft/]["How can we develop transformative tools for thought?"]]
+
+[[https://www.lesswrong.com/posts/Ww2dxwWpSfkQB4NZb/a-year-of-spaced-repetition-software-in-the-classroom][⁠"A Year of Spaced Repetition Software in the Classroom"]]⁠; [[https://www.lesswrong.com/posts/dtCfxYubZgRnEkGpQ/a-second-year-of-spaced-repetition-software-in-the-classroom][⁠two years]]⁠; [[https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1][⁠seven year followup]]⁠; cf. [[https://www.gwern.net/docs/www/theeffortfuleducator.com/8c140b5eb16266f2b73df63e135b954a8c92572c.html][⁠"Easy Application of Spaced Practice in the Classroom"]]
+
+[[http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/][AJATT table of contents]] -(applying SRS to learning Japanese)
+
+*Math*:
+
+- [[https://cognitivemedium.com/srs-mathematics][⁠"Using spaced repetition systems to see through a piece of mathematics"]]⁠, Michael Nielsen
+- [[https://www.gwern.net/docs/www/bentilly.blogspot.com/bf5845a44010c266a9658ab9f915a6b62ccf97dc.html]["Teaching linear algebra"]] (with spaced repetition), by Ben Tilly; [[https://www.gwern.net/docs/www/bentilly.blogspot.com/f83ff5823759c2f47e889fa894273d84fa6551d0.html][Manual flashcards for his 2^{nd} grader]]
+- [[https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-rd-2494/][⁠"How I Rewired My Brain to Become Fluent in Math"]] ([[https://www.gwern.net/docs/www/news.ycombinator.com/563f84359fa93c5dd17d4d867136896fe6924540.html][⁠HN]])
+- [[https://www.lesswrong.com/posts/8ZugMc4E5959Xh86i/how-i-use-anki-to-learn-mathematics][⁠"How I use Anki to learn mathematics"]]
+- [[https://cronokirby.com/posts/2021/02/spaced-repetition-for-mathematics/]["Spaced Repetition for Mathematics"]]
+
+*Programming*:
+
+- [[https://www.supermemo.com/en/archives1990-2015/articles/programming]["SuperMemo as a new tool increasing the productivity of a programmer. A case study: programming in Object Windows"]]
+- [[http://www.jackkinsella.ie/articles/janki-method]["Janki Method: Using spaced repetition systems to learn and retain technical knowledge"]] ([[https://old.reddit.com/r/programming/comments/n30hl/janki_method_learning_programming_with_6000/][Reddit discussion]]); [[https://www.jackkinsella.ie/articles/autodidactism][SRS problems & solutions]]
+- [[https://sive.rs/srs]["Memorizing a programming language using spaced repetition software"]] ([[https://en.wikipedia.org/wiki/Derek_Sivers][Derek Sivers]]⁠; [[https://www.gwern.net/docs/www/news.ycombinator.com/a6f1f1922ad84624da2fc114f165674c018a4b0a.html][⁠Hacker News]])
+- [[https://www.gwern.net/docs/www/www.shortcutfoo.com/b11f31599a34c0218ddb27b90bc1126ee010d8e6.html][⁠learning text editor shortcuts]]
+- [[https://blog.developer.atlassian.com/golang-flashcards-and-spaced-repetition/]["Learning Go with flashcards and spaced repetition"]]
+- [[https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/][⁠"Chasing 10X: Leveraging A Poor Memory In Engineering"]]⁠; [[https://www.gwern.net/docs/www/senrigan.io/884364f59494207c59ff29e16dcc046533c1eb65.html][⁠"Everything I Know: Strategies, Tips, and Tricks for Anki"]]
+- [[https://www.gwern.net/docs/www/empiria.io/80ec18340a62bb4cb49295136f1b7fffba82f071.html][⁠"Remembering R---Using Spaced Repetition to finally write code fluently"]]
+- [[https://www.gresearch.co.uk/blog/article/anki-as-learning-superpower-computer-science-edition/]["Anki as Learning Superpower: Computer Science Edition"]]
+
+[[https://quantifiedself.com/blog/spaced-repetition-and-learning/][⁠"QS Primer: Spaced Repetition and Learning"]] -(talks on applications of spaced repetition)
+
+Value compared to curriculums:
+
+1. Point: [[https://www.scotthyoung.com/blog/2012/08/05/forgetting-is-good/]["Why Forgetting Can Be Good"]]⁠, by Scott H. Young
+2. Counterpoint: [[https://web.archive.org/web/20130920193543/http://blog.learnstream.org/2012/08/spaced-repetition-in-natural-and-artificial-learning/][⁠"Spaced repetition in natural and artificial learning"]]⁠, by Ryan Muller
+
+My own observation is that an optimally constructed curriculum /could/ effectively implement spaced repetition, but even if it did (most don't), unless it is computerized it will not adapt to the user.
+
+[[https://www.salon.com/2014/04/20/ditch_the_10000_hour_rule_why_malcolm_gladwells_famous_advice_falls_short/][⁠"Ditch the 10,000 hour rule! Why Malcolm Gladwell's famous advice falls short; Contrary to what the bestselling author would tell you, obsessive practice isn't the key to success. Here's why"]]
+
+[[https://www.ummah.com/forum/forum/library/learn-arabic-and-other-languages/qur-an-and-islamic/390413-how-to-memorize-the-quran-and-never-forget-it?381181-How-to-Memorize-the-Quran-and-Never-Forget-it=]["How to Memorize the Quran and Never Forget it"]]
+
+[[https://groups.google.com/g/mnemosyne-proj-users/c/_RC55gH7DrY][Bash scripts]] for generating vocabulary flashcards (processing multiple online dictionaries, good for having multiple examples; images; and audio)
+
+vocabulary selection:
+
+1. [[https://jtauber.com/blog/2004/11/26/programmed_vocabulary_learning_as_a_travelling_salesman_problem/][⁠"Programmed Vocabulary Learning as a Traveling Salesman Problem"]]
+2. [[https://jtauber.com/blog/2006/05/05/teaching_new_testament_greek/][⁠"Teaching New Testament Greek"]]
+3. [[https://www.gwern.net/docs/www/graded-reader.org/9d2ec59902c0f4a82a47b3463e56a0b444ddfe94.html][graded-reader]]: [[https://jtauber.com/blog/2008/02/10/a_new_kind_of_graded_reader/][⁠"A New Kind of Graded Reader"]] (video talk)
+4. [[https://groups.google.com/g/graded-reader][Mailing list]]
+5. [[https://code.google.com/archive/p/graded-reader][Programs]]
+
+[[https://web.archive.org/web/20220119182149/https://www.fsavard.com/flow/2012/12/diff-revision/][⁠"Diff revision: diff-based revision of text notes, using spaced repetition"]]
+
+Hacker News discussion: [[https://www.gwern.net/docs/www/news.ycombinator.com/d97eb8622a236b16aab9fb4b580d7db1ec31f6b8.html][⁠1]]⁠, [[https://www.gwern.net/docs/www/news.ycombinator.com/454e0aba0ac72dd11f2f9fb70d7522d1580438b0.html][⁠2]]⁠, [[https://www.gwern.net/docs/www/news.ycombinator.com/837e30ad4c01147c6a091162a6e51bd1387ce459.html][⁠3]]
+
+[[https://www.lesswrong.com/posts/As9E3HfgED2zkTAfB/a-vote-against-spaced-repetition][⁠"A vote against spaced repetition"]]⁠; [[https://yourawesomememory.com/how-flashcards-fail-confessions-of-a-tired-memory-guy/]["How Flashcards Fail: Confessions of a Tired Memory Guy"]]
+
+[[https://blog.beeminder.com/hieroglyphs/][⁠"Learning Ancient Egyptian in an Hour Per Week with Beeminder"]]
+
+[[https://www.gwern.net/docs/www/rs.io/90565242f056f7517ede5dbe0dfb5cedc0031b0a.html]["Anki, 10000 Cards Later: How my Anki usage has evolved"]]
+
+"Using Anki with Babies / Toddlers": [[https://old.reddit.com/r/Anki/comments/5ixzzx/anki_for_babies/][1]]⁠, [[https://old.reddit.com/r/Anki/comments/8iydl7/using_anki_with_babies_toddlers/][2]]⁠, [[https://old.reddit.com/r/Anki/comments/a9wqau/using_anki_with_babies_toddlers_update/][2]]⁠, [[https://old.reddit.com/r/Anki/comments/eit54e/starting_my_175_year_old_on_anki/][4]]
+
+[[https://www.duolingo.com/][Duolingo]] [[https://www.quora.com/Do-you-have-any-plans-for-optimizing-Duolingos-vocabulary-learning-using-spaced-repetition][uses spaced repetition]]
+
+[[https://www.wired.com/2012/01/everything-about-learning/][⁠"Everything You Thought You Knew About Learning Is Wrong"]]
+
+[[https://www.spacedrepetition.com/][SeRiouS]]: [[http://conference.cali.org/2014/sessions/spaced-repetition-technology-legal-education]["Spaced Repetition Technology for Legal Education"]]⁠, [[https://sites.suffolk.edu/legaltech/2014/03/11/serious-an-lpti-supported-project-to-improve-students-learning-and-bar-performance/]["SeRiouS: an LPTI-supported Project to Improve Students' Learning and Bar Performance"]]⁠, Gabe Teninbaum ([[https://www.youtube.com/watch?v=dtClgl07lg8][⁠video presentation]])
+
+[[https://ejlt.org/article/view/320/424]["The role of digital flashcards in legal education: theory and potential"]], Colbranet al2014
+
+[[https://www.newyorker.com/books/page-turner/why-we-should-memorize]["Why We Should Memorize [Poetry]"]]
+
+[[https://www.nytimes.com/2014/11/23/sunday-review/studying-for-the-test-by-taking-it.html]["Studying for the Test by Taking It"]]
+
+[[https://www.gwern.net/docs/www/www.rand.org/fb672d38af12c609801856651ba37d2a54d6d98b.pdf][⁠"Making Summer Count: How Summer Programs Can Boost Children's Learning"]], McCombset al2011 ([[https://en.wikipedia.org/wiki/RAND_Corporation][RAND]] MG1120)
+
+[[https://www.gwern.net/docs/www/www.learningmedicinebook.com/fa9efbda14f084e0ee8990bba2b7301ccff0181e.html][/Learning Medicine: An Evidence-Based Guide/]]
+
+[[https://www.gwern.net/docs/psychology/spaced-repetition/1998-arthur.pdf][⁠"Factors that Influence Skill Decay And Retention: a Quantitative Review and Analysis"]], Arthuret al1998
+
+[[https://www.gwern.net/docs/www/cbmm.mit.edu/c5e2af8e7a633678b2f3636d4ec822bdb15b2ad9.pdf]["On The Forgetting Of College Academics: At 'Ebbinghaus speed'?"]], Subiranaet al2017
+
+[[https://www.theguardian.com/science/2017/feb/08/total-recall-the-people-who-never-forget]["Total recall: the people who never forget; An extremely rare condition may transform our understanding of memory"]] (obsessive recording & reviewing demonstrates you can recall much of your life if you live nothing worth recalling); [[https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory]["The Mystery of S., the Man with an Impossible Memory: The neuropsychologist Alexander Luria's case study of Solomon Shereshevsky helped spark a myth about a man who could not forget. But the truth is more complicated"]]
+
+[[https://www.gwern.net/docs/www/alexvermeer.com/00f6480a2a50bda6d5f34a85b5454c9f78bcee29.html][/Anki Essentials/]]⁠, Vermeer
+
+[[https://genedan.com/no-126-four-years-of-spaced-repetition/]["No. 126: Four Years of Spaced Repetition"]] (Gene Dan, actuarial studies)
+
+[[https://www.gwern.net/docs/www/deusexvita.medium.com/43d568f7c348c439cc6789a83b5e44c93ed116db.html][⁠"One Year Anki Update"]] (biology grad school)
+
+[[https://ncase.me/remember/][⁠"How To Remember Anything Forever-ish": an interactive comic]] (Nicky Case)
+
+[[https://www.gwern.net/docs/www/arxiv.org/327a12372aa4b772bbe3c7525800c4dd6d3b47ce.pdf]["The Overfitted Brain: Dreams evolved to assist generalization"]], Hoel2020
+
+[[https://www.gwern.net/docs/psychology/spaced-repetition/2016-mazza.pdf]["Relearn Faster and Retain Longer: Along With Practice, Sleep Makes Perfect"]], Mazzaet al2016
+
+[[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120644]["Replication and Analysis of Ebbinghaus' Forgetting Curve"]], Murre & Dros2015
+
+[[https://www.annualreviews.org/doi/10.1146/annurev-psych-010416-044022]["Learning from Errors"]], Metcalfe2017
+
+[[https://ai.glossika.com/][Glossika]]
+
+*Discussion*: [[https://www.gwern.net/docs/www/news.ycombinator.com/483ef8b6f992a89924da904c5f106f909152c39f.html][⁠HN]]⁠/​[[https://www.gwern.net/docs/www/news.ycombinator.com/4590ab1d23ffcb37e43ca762bf1b42fc44898278.html][⁠2]]
+
+[cite:@branwenSpacedRepetitionEfficientLearning2009]
+  #+end_quote
+
+- Further reading: https://www.gwern.net/Spaced-repetition#external-links
+
+** TODO [#3] How to write good cards?
+
+- [[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]]
+- [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]
+
+#+begin_quote
+[T]he research favors questions which force the user to use their memory as much as possible; in descending order of preference:
+
+1. free recall
+2. short answers
+3. multiple-choice
+4. Cloze deletion
+5. recognition
+
+[...]
+
+
+[T]he most common mistakes with spaced repetition are
+
+1. formulating poor questions and answers
+2. assuming it will help you learn, as opposed to maintain and preserve what one already learned⁠[[https://www.gwern.net/Spaced-repetition#sn54][^{54}]]⁠. (It's hard to learn /from/ cards, but if you have learned something, it's much easier to then devise a set of flashcards that will test your weak points.)
+
+[cite:@branwenSpacedRepetitionEfficientLearning2009]
+#+end_quote
+
+** TODO [#2] Spaced repetition for children
+
+- At what age does it become useful?
+- (don't have a link) the supermemo wiki author pushes for /not/ using spaced repetition for young children as their brains are still developing -- not sure I agree with this
+- [[https://www.lesswrong.com/posts/Ww2dxwWpSfkQB4NZb/a-year-of-spaced-repetition-software-in-the-classroom][⁠"A Year of Spaced Repetition Software in the Classroom"]]⁠; [[https://www.lesswrong.com/posts/dtCfxYubZgRnEkGpQ/a-second-year-of-spaced-repetition-software-in-the-classroom][⁠two years]]⁠; [[https://www.lesswrong.com/posts/F6ZTtBXn2cFLmWPdM/seven-years-of-spaced-repetition-software-in-the-classroom-1][⁠seven year followup]]⁠; cf. [[https://www.gwern.net/docs/www/theeffortfuleducator.com/8c140b5eb16266f2b73df63e135b954a8c92572c.html][⁠"Easy Application of Spaced Practice in the Classroom"]]
+- [[https://www.gwern.net/docs/www/bentilly.blogspot.com/bf5845a44010c266a9658ab9f915a6b62ccf97dc.html]["Teaching linear algebra"]] (with spaced repetition), by Ben Tilly; [[https://www.gwern.net/docs/www/bentilly.blogspot.com/f83ff5823759c2f47e889fa894273d84fa6551d0.html][Manual flashcards for his 2^{nd} grader]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 07:44]
+:FC_CREATED: 2022-11-07T15:45:19Z
+:FC_TYPE:  double
+:ID:       4adc6c84-6a4d-42fd-ad59-e2354f309a07
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   6 |    44.29 | 2023-03-27T22:33:14Z |
+| back     | 2.95 |   5 |    53.84 | 2023-03-21T11:07:21Z |
+:END:
+
+[[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
+
+*** Back
+An evidence-based learning technique, usually performed with flashcards, which exploits the [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]] and [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]. New and difficult cards are shown more often while older and less difficult cards are shown less frequently.
+*** Source
+[cite:@SpacedRepetition2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-05 Mon 16:16]
+:FC_CREATED: 2022-12-06T00:17:33Z
+:FC_TYPE:  cloze
+:ID:       da19e956-3cd8-4e7a-bcac-026f236947ff
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    75.54 | 2023-04-15T15:31:29Z |
+|        1 | 2.50 |   6 |    85.06 | 2023-05-13T04:42:26Z |
+|        2 | 2.95 |   6 |   127.22 | 2023-07-16T10:33:34Z |
+:END:
+
+{{[[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]}@0} exploits the {{[[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]]}@1} and {{[[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]}@2}.
+
+*** Source
+[cite:@SpacedRepetition2022]
+#+print_bibliography:

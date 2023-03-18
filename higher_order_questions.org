@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60
+:LAST_MODIFIED: [2023-03-09 Thu 19:15]
+:END:
+#+title: Higher order questions
+#+hugo_custom_front_matter: :slug "dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-20 Tue 16:48]
+#+filetags: :concept:
+
+#+begin_quote
+Higher-order questions require answers that go beyond simple information and as such both the language and thinking behind them is more complex. They take learners into more abstract language functions, such as giving and justifying opinions, speculation, and hypothesising.
+
+[cite:@HigherorderQuestions]
+#+end_quote
+
+Also see [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]].
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-20 Tue 16:49]
+:FC_CREATED: 2022-12-21T00:51:47Z
+:FC_TYPE:  double
+:ID:       43c608b1-6994-43a8-b411-dc6407a04c65
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    65.01 | 2023-05-01T04:08:59Z |
+| back     | 2.65 |   6 |    99.57 | 2023-06-17T17:02:05Z |
+:END:
+
+[[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]]
+
+*** Back
+Questions which go beyond simple information; abstract language functions such as giving and justifying opinions, speculation, and hypothesizing
+*** Source
+[cite:@HigherorderQuestions]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-20 Tue 16:51]
+:FC_CREATED: 2022-12-21T00:53:00Z
+:FC_TYPE:  cloze
+:ID:       7fd8f66a-d666-4e48-b9b9-0829c0ef2df8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    89.19 | 2023-05-26T20:31:17Z |
+|        1 | 2.50 |   6 |    95.65 | 2023-06-13T18:21:43Z |
+:END:
+
+{{[[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]]}{questions}@0} :: {{[[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]] and above}{[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]}@1}
+
+*** Source
+[cite:@HigherorderQuestions]
+#+print_bibliography:

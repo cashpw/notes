@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       30953f1f-a780-4d6c-8dcb-2f685cbe8501
+:END:
+#+title: Upstream
+#+hugo_custom_front_matter: :slug "30953f1f-a780-4d6c-8dcb-2f685cbe8501"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-21 Thu 09:53]
+#+filetags: :reference:
+
+#+begin_quote
+UNLEARN EVERYTHING YOU THOUGHT YOU KNEW ABOUT ECONOMICS
+
+Radical ideas and inspiring stories for a just transition
+to a more beautiful and equitable world
+
+[cite:@UpstreamPodcast]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

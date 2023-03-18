@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9
+:DIR:      /home/cashweaver/proj/roam/attachments/3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9
+:LAST_MODIFIED: [2023-02-12 Sun 09:26]
+:END:
+#+title: Give the right answers
+#+hugo_custom_front_matter: :slug "3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 16:04]
+#+filetags: :concept:
+
+A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] strategy which uses answers as tools for achieving goals rather than solely as a way to gather information. The right answer is usually, but isn't always, an authentic one.
+
+* Example(s)
+
+- "Good." as an answer to "How's it going?" to avoid getting into the weeds on how it's actually going for you.
+- "<a strength>" as an anser to "What's your greatest weakness?"
+- "<their favorite restraunt>" as an answer to "Where do you want to go to eat?"
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       b2d43dcb-17da-42e5-8651-770673f1d756
+:ANKI_NOTE_ID: 1658198302046
+:FC_CREATED: 2022-07-19T02:38:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   159.34 | 2023-05-26T12:02:19Z |
+| back     | 2.95 |   7 |   207.55 | 2023-08-05T03:32:02Z |
+:END:
+[[id:3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9][Give the right answers]]
+*** Back
+A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to Win]] strategy which employs questions and answers as tools to achieve specific ends.
+
+- The right questions is usually an authentic one, but not always.
+- The right answer is usually a true one, but not always.
+
+*** Source
+[cite:@limoncelliRightAnswer]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:40]
+:FC_CREATED: 2022-11-22T20:40:16Z
+:FC_TYPE:  double
+:ID:       235d85f6-0a08-4170-9635-7c89e7a55bdf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   112.14 | 2023-06-04T20:50:15Z |
+| back     | 2.50 |   6 |    98.09 | 2023-05-20T02:30:13Z |
+:END:
+
+[[id:3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9][Give the right answers]]
+
+*** Back
+- "Good." as an answer to "How's it going?" to avoid getting into the weeds on how it's actually going for you.
+- "<a strength>" as an answer to "What's your greatest weakness?"
+- Shut the fuck up when talking to the police [cite:@ShutFuckFriday]
+- "<their favorite restaurant>" as an answer to "Where do you want to go to eat?"
+
+*** Source
+#+print_bibliography:

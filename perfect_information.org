@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       ec797dab-adc7-4a83-bc31-7daeab0d4ffc
+:ROAM_REFS: [cite:@PerfectInformation2022]
+:LAST_MODIFIED: [2023-03-13 Mon 07:54]
+:END:
+#+title: Perfect information
+#+hugo_custom_front_matter: :slug "ec797dab-adc7-4a83-bc31-7daeab0d4ffc"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-28 Wed 07:46]
+#+filetags: :concept:
+
+#+begin_quote
+In economics, perfect information (sometimes referred to as "no hidden information") is a feature of perfect competition. With perfect information in a market, all consumers and producers have complete and instantaneous knowledge of all market prices, their own utility, and own cost functions.
+
+[cite:@PerfectInformation2022]
+#+end_quote
+
+Also see [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], [[id:f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff][Imperfect information]], and [[id:d80fe9f3-c36e-4878-89fc-d7ad8d6e247f][Complete information]].
+
+* Examples
+
+- Chess
+
+* Flashcards
+** Example(s) (information) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-22 Sat 15:49]
+:FC_CREATED: 2022-10-22T22:50:00Z
+:FC_TYPE:  double
+:ID:       e180460a-1c37-4726-8b94-8b2d8175fcb6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   126.20 | 2023-06-17T04:34:36Z |
+| back     | 2.95 |   6 |   177.75 | 2023-09-07T08:49:33Z |
+:END:
+
+[[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]
+
+*** Back
+
+- Chess
+*** Source
+[cite:@PerfectInformation2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-22 Sat 15:50]
+:FC_CREATED: 2022-10-22T22:53:38Z
+:FC_TYPE:  double
+:ID:       a700500a-c006-42b3-bfc2-598cd055f305
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    94.21 | 2023-04-17T21:25:26Z |
+| back     | 2.50 |   6 |    88.29 | 2023-05-07T01:32:46Z |
+:END:
+
+[[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]
+
+*** Back
+A game in which each player is informed of all the events which have previously occurred, including the starting state of the game.
+*** Source
+[cite:@PerfectInformation2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-10-22 Sat 15:54]
+:FC_CREATED: 2022-10-22T22:54:52Z
+:FC_TYPE:  normal
+:ID:       3f30be30-3934-4b56-8da2-3261af0def0f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   129.41 | 2023-06-09T02:09:43Z |
+:END:
+
+- [[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]
+- [[id:d80fe9f3-c36e-4878-89fc-d7ad8d6e247f][Complete information]]
+
+*** Back
+
+- [[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]: All players are aware of all information
+- [[id:d80fe9f3-c36e-4878-89fc-d7ad8d6e247f][Complete information]]: All players are aware of the structure, payouts, etc, but may not know every move made by other players
+
+*** Source
+- [cite:@PerfectInformation2022]
+- [cite:@CompleteInformation2021]
+#+print_bibliography:

@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       774196ec-f2f7-48d1-b3f9-e7c253378746
+:LAST_MODIFIED: [2023-01-31 Tue 06:04]
+:END:
+#+title: Stochastic terrorism
+#+hugo_custom_front_matter: :slug "774196ec-f2f7-48d1-b3f9-e7c253378746"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-25 Thu 09:42]
+#+filetags: :concept:
+
+#+begin_quote
+Since 2018, the term "stochastic terrorism" has become a popular term used when discussing lone wolf attacks. While the exact definition has morphed over time, it has commonly come to refer to a concept whereby consistently demonizing or dehumanizing a targeted group or individual results in violence that is statistically likely, but cannot be easily accurately predicted.
+
+[cite:@LoneWolfAttack2022]
+#+end_quote
+
+See [[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbulent priest?]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       5a8b9ecb-f262-48a4-bee0-5ee542afea6e
+:ANKI_NOTE_ID: 1662498779167
+:FC_CREATED: 2022-09-06T21:12:59Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    98.60 | 2023-05-06T04:10:39Z |
+| back     | 2.50 |   6 |   122.52 | 2023-06-03T02:29:25Z |
+:END:
+
+[[id:774196ec-f2f7-48d1-b3f9-e7c253378746][Stochastic terrorism]]
+
+*** Back
+- [[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbulent priest?]]
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       7d24ef04-3e1a-45be-b840-2f9557974ff8
+:ANKI_NOTE_ID: 1662498781319
+:FC_CREATED: 2022-09-06T21:13:01Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   6 |   135.08 | 2023-05-29T20:30:41Z |
+| front    | 2.05 |   6 |    69.61 | 2023-03-27T16:55:32Z |
+:END:
+
+[[id:774196ec-f2f7-48d1-b3f9-e7c253378746][Stochastic terrorism]]
+
+*** Back
+A concept whereby consistently demonizing or dehumanizing a targeted group or individual results in violence that is statistically likely, but cannot be easily accurately predicted.
+
+*** Source
+[cite:@LoneWolfAttack2022]
+#+print_bibliography:

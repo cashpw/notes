@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       0e7c2358-2a89-4123-99a6-e55161ff8828
+:LAST_MODIFIED: [2023-02-22 Wed 06:57]
+:END:
+#+title: Ship of Theseus (argument)
+#+hugo_custom_front_matter: :slug "0e7c2358-2a89-4123-99a6-e55161ff8828"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:42]
+#+filetags: :concept:
+Lying without lying. An argument constructed from, while at best technically true, misleading points which presents a deceptive view of the underlying facts.
+
+See [[id:309082e8-abb5-4fdf-9944-fc63d8a8197e][Ian Danskin | The Ship of Theseus]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       b66989cc-0a19-4db5-997a-ecd8f31deec3
+:ANKI_NOTE_ID: 1656857366051
+:FC_CREATED: 2022-07-03T14:09:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   5 |    27.54 | 2023-03-22T03:56:54Z |
+| back     | 2.50 |   7 |   195.79 | 2023-08-15T09:24:29Z |
+:END:
+[[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]
+*** Back
+Lying without lying. An argument constructed from, while at best technically true, misleading points which presents a deceptive view of the underlying facts.
+*** Extra
+How many words can you change in an argument before it's not the same argument anymore?
+*** Source
+[cite:@danskinShipTheseus2018]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       5a752183-afc4-483c-99c1-c567adb61e57
+:ANKI_NOTE_ID: 1656857366631
+:FC_CREATED: 2022-07-03T14:09:26Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   134.04 | 2023-06-09T15:53:00Z |
+| back     | 1.90 |   6 |    51.56 | 2023-03-27T04:59:56Z |
+:END:
+[[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]
+*** Back
+- Public figure X is a bigot.
+*** Source
+[cite:@danskinShipTheseus2018]
+#+print_bibliography:

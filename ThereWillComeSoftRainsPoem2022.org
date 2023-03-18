@@ -1,0 +1,141 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ThereWillComeSoftRains2022]
+:ID:       afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1
+:LAST_MODIFIED: [2023-03-18 Sat 06:44]
+:END:
+#+title: There will come soft rains
+#+hugo_custom_front_matter: :slug "afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-01 Fri 10:39]
+#+filetags: :poem:
+
+#+begin_verse
+(War Time)
+
+There will come soft rains and the smell of the ground,
+And swallows circling with their shimmering sound;
+
+And frogs in the pools singing at night,
+And wild plum-trees in tremulous white;
+
+Robins will wear their feathery fire
+Whistling their whims on a low fence-wire;
+
+And not one will know of the war, not one
+Will care at last when it is done.
+
+Not one would mind, neither bird nor tree
+If mankind perished utterly;
+
+And Spring herself, when she woke at dawn,
+Would scarcely know that we were gone.
+#+end_verse
+
+[[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]], [cite:@ThereWillComeSoftRains2022]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Poem :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-16T03:10:12Z
+:FC_TYPE:  cloze
+:ID:       6082d9bb-abfd-4e48-b794-1b6df5b66590
+:FC_CLOZE_MAX: 11
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    49.73 | 2023-03-28T15:21:04Z |
+|        1 | 2.20 |   6 |    75.20 | 2023-05-14T19:49:09Z |
+|        2 | 1.75 |   5 |    19.37 | 2023-04-01T23:59:39Z |
+|        3 | 1.90 |   5 |    24.68 | 2023-04-11T05:32:37Z |
+|        4 | 2.35 |   4 |    12.98 | 2023-03-24T04:52:09Z |
+|        5 | 2.50 |   3 |     6.00 | 2023-03-20T15:13:15Z |
+|        6 | 2.50 |   3 |     6.00 | 2023-03-21T15:14:10Z |
+|        7 | 2.50 |   1 |     1.00 | 2023-03-19T13:44:24Z |
+|        8 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|        9 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|       10 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|       11 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+
+[[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There will come soft rains]]
+
+#+begin_verse
+(War Time)
+
+{{There will come soft rains and the smell of the ground,}@0}
+{{And swallows circling with their shimmering sound;}@1}
+
+{{And frogs in the pools singing at night,}@2}
+{{And wild plum-trees in tremulous white;}@3}
+
+{{Robins will wear their feathery fire}@4}
+{{Whistling their whims on a low fence-wire;}@5}
+
+{{And not one will know of the war, not one}@6}
+{{Will care at last when it is done.}@7}
+
+{{Not one would mind, neither bird nor tree}@8}
+{{If mankind perished utterly;}@9}
+
+{{And Spring herself, when she woke at dawn,}@10}
+{{Would scarcely know that we were gone.}@11}
+#+end_verse
+** Poem (full) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-16T03:10:12Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY:       6082d9bb-abfd-4e48-b794-1b6df5b66590
+:ID:       754db0bf-1a71-4736-afd2-1c58b6a8e664
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |  -1 |     0.00 | 2022-11-06T16:50:32Z |
+:END:
+
+[[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There will come soft rains]]
+
+*** Back
+#+begin_verse
+(War Time)
+
+There will come soft rains and the smell of the ground,
+And swallows circling with their shimmering sound;
+
+And frogs in the pools singing at night,
+And wild plum-trees in tremulous white;
+
+Robins will wear their feathery fire
+Whistling their whims on a low fence-wire;
+
+And not one will know of the war, not one
+Will care at last when it is done.
+
+Not one would mind, neither bird nor tree
+If mankind perished utterly;
+
+And Spring herself, when she woke at dawn,
+Would scarcely know that we were gone.
+#+end_verse
+** Source :fc:
+:PROPERTIES:
+:ID:       709d30bf-b25c-4cb8-8194-db761a3c80fb
+:ANKI_NOTE_ID: 1658344326936
+:FC_CREATED: 2022-07-20T19:12:06Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    54.49 | 2023-04-20T15:27:41Z |
+:END:
+[[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There Will Come Soft Rains (poem)]]
+*** Back
+[[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]]
+#+print_bibliography:

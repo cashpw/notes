@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       6be77fc0-00f0-4b41-b14a-380968182a0c
+:LAST_MODIFIED: [2023-03-18 Sat 06:40]
+:ROAM_REFS: [cite:@RecessionWhatItWhatCausesIt]
+:END:
+#+title: Recession
+#+hugo_custom_front_matter: :slug "6be77fc0-00f0-4b41-b14a-380968182a0c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-11 Sat 16:36]
+#+filetags: :concept:
+
+#+begin_quote
+A recession is a significant, widespread, and prolonged downturn in economic activity. A common rule of thumb is that two consecutive quarters of negative gross domestic product [[[id:205c075c-2da8-42a2-854a-c7981591e4bd][Gross domestic product]]] (GDP) growth mean recession, although more complex formulas are also used.
+
+[cite:@RecessionWhatItWhatCausesIt]
+#+end_quote
+
+* Flashcards
+** Recession :fc:
+:PROPERTIES:
+:CREATED: [2023-03-11 Sat 16:36]
+:FC_CREATED: 2023-03-12T00:37:17Z
+:FC_TYPE:  vocab
+:ID:       11c66aaf-c2a1-4f2f-8d5c-78e6a5264cf5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-24T13:39:24Z |
+| back     | 2.50 |   2 |     2.00 | 2023-03-19T14:05:46Z |
+:END:
+
+#+begin_quote
+A ... is a significant, widespread, and prolonged downturn in economic activity.
+#+end_quote
+*** Source
+[cite:@RecessionWhatItWhatCausesIt]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-11 Sat 16:37]
+:FC_CREATED: 2023-03-12T00:37:59Z
+:FC_TYPE:  cloze
+:ID:       594574a8-1ec7-4a1b-91c5-445ee7ddb74e
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   2 |     2.00 | 2023-03-19T13:59:40Z |
+|        1 | 2.50 |   2 |     2.00 | 2023-03-20T13:40:20Z |
+:END:
+
+As a common rule of thumb: {{two consecutive quarters of negative [[id:205c075c-2da8-42a2-854a-c7981591e4bd][GDP]]}@0} implies a {{[[id:6be77fc0-00f0-4b41-b14a-380968182a0c][Recession]]}@1}.
+
+*** Source
+[cite:@RecessionWhatItWhatCausesIt]
+#+print_bibliography:

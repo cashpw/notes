@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc
+:LAST_MODIFIED: [2023-01-25 Wed 08:44]
+:END:
+#+title: Internal memory algorithm
+#+hugo_custom_front_matter: :slug "8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-17 Wed 16:17]
+#+filetags: :concept:
+
+Internal memory algorithms are designed to process data that fits into a single computer's main memory.
+
+See [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       a7617f3a-cb5c-417e-9606-4374c9d07c79
+:ANKI_NOTE_ID: 1660778338822
+:FC_CREATED: 2022-08-17T23:18:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   6 |   127.54 | 2023-04-18T08:25:30Z |
+| front    | 3.10 |   6 |   158.32 | 2023-06-18T22:11:03Z |
+:END:
+[[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
+*** Back
+Algorithms designed to process data that can fit into a single computer's main memory at once.
+*** Source
+[cite:@ExternalMemoryAlgorithm2021]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       85edf3a2-8975-4b0e-ab80-a6728b51c080
+:ANKI_NOTE_ID: 1656856971258
+:FC_CREATED: 2022-07-03T14:02:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   193.16 | 2023-06-27T00:37:04Z |
+| back     | 2.50 |   7 |   228.44 | 2023-09-11T03:18:45Z |
+:END:
+[[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
+*** Back
+- [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]], with respect to memory
+*** Source
+[cite:@ExternalMemoryAlgorithm2021]
+#+print_bibliography:

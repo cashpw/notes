@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@Zettelkasten2021]
+:ID:       b130e6f2-31a1-4c3a-ae8b-7d8208a69710
+:DIR:      /home/cashweaver/proj/roam/attachments/b130e6f2-31a1-4c3a-ae8b-7d8208a69710
+:LAST_MODIFIED: [2022-12-14 Wed 13:32]
+:END:
+#+title: Zettelkasten
+#+hugo_custom_front_matter: :slug "b130e6f2-31a1-4c3a-ae8b-7d8208a69710"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 18:03]
+#+filetags: :reference:
+
+#+begin_quote
+A zettelkasten consists of many individual notes with ideas and other short pieces of information that are taken down as they occur or are acquired. The notes may be numbered hierarchically so that new notes may be inserted at the appropriate place, and contain metadata to allow the note-taker to associate notes with each other. For example, notes may contain subject headings or tags that describe key aspects of the note, and they may reference other notes. The numbering, metadata, format and structure of the notes is subject to variation depending on the specific method employed.
+
+A zettelkasten may be created and used in a [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][digital format]], sometimes using personal knowledge management software. But it can be and has long been done on paper using index cards.
+
+The system not only allows a researcher to store and retrieve information related to their research, but has also been used to enhance creativity.
+
+[cite:@Zettelkasten2021]
+#+end_quote
+
+Related: [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][Personal knowledge management]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

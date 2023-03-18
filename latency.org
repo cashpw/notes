@@ -1,0 +1,179 @@
+:PROPERTIES:
+:ID:       53999225-665e-4d16-9a0d-60c49293ccab
+:LAST_MODIFIED: [2023-03-18 Sat 06:41]
+:END:
+#+title: Latency
+#+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-17 Fri 08:41]
+#+filetags: :concept:
+#+begin_quote
+The time from the source sending a packet to the destination receiving it.
+
+[...]
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+
+* Components
+
+#+begin_quote
+Latency is the time it takes for a message, or a packet, to travel from its point of origin to the point of destination. That is a simple and useful definition, but it often hides a lot of useful information — every system contains multiple sources, or components, contributing to the overall time it takes for a message to be delivered, and it is important to understand what these components are and what dictates their performance.
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+
+** Propagation delay
+#+begin_quote
+Amount of time required for a message to travel from the sender to receiver, which is a function of distance over speed with which the signal propagates.
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+** Transmission delay
+
+#+begin_quote
+Amount of time required to push all the packet's bits into the link, which is a function of the packet's length and data rate of the link.
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+** Processing delay
+
+#+begin_quote
+Amount of time required to process the packet header, check for bit-level errors, and determine the packet's destination.
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+** Queuing delay
+
+#+begin_quote
+Amount of time the packet is waiting in the queue until it can be processed.
+
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 08:50]
+:FC_CREATED: 2023-03-17T15:50:42Z
+:FC_TYPE:  double
+:ID:       7252f560-3c38-4f38-8bb0-af738a914eb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-17T15:50:42Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T15:50:42Z |
+:END:
+
+[[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
+
+*** Back
+The time from the source sending a packet to the destination receiving it.
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 08:51]
+:FC_CREATED: 2023-03-17T15:51:50Z
+:FC_TYPE:  double
+:ID:       ec0a3a84-d264-4fd0-a07f-295664da3eed
+:FC_BLOCKED_BY: b05207b3-5ab7-462c-be69-688a765bb2af,8e5d62b1-bc54-43ac-adc4-7c68ba08a03c,1367b672-142e-4b96-9240-d3ada66c4297,46d22a84-5ca6-4e86-bbdb-886c0fab446c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-17T15:51:50Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T15:51:50Z |
+:END:
+
+Components of [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
+
+*** Back
+- Propagation delay
+- Transmission delay
+- Processing delay
+- Queuing delay
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 08:51]
+:FC_CREATED: 2023-03-17T16:03:06Z
+:FC_TYPE:  double
+:ID:       8e5d62b1-bc54-43ac-adc4-7c68ba08a03c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-03-19T13:37:11Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T16:03:06Z |
+:END:
+
+([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Propagation delay
+
+*** Back
+Amount of time required for a message to travel from the sender to receiver, which is a function of distance over speed with which the signal propagates.
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:03]
+:FC_CREATED: 2023-03-17T16:03:45Z
+:FC_TYPE:  double
+:ID:       b05207b3-5ab7-462c-be69-688a765bb2af
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-17T16:03:45Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T16:03:45Z |
+:END:
+
+([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Transmission delay
+
+*** Back
+Amount of time required to push all the packet's bits into the link, which is a function of the packet's length and data rate of the link.
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:03]
+:FC_CREATED: 2023-03-17T16:03:45Z
+:FC_TYPE:  double
+:ID:       1367b672-142e-4b96-9240-d3ada66c4297
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-17T16:03:45Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T16:03:45Z |
+:END:
+
+([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Processing delay
+
+*** Back
+Amount of time required to process the packet header, check for bit-level errors, and determine the packet's destination.
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:03]
+:FC_CREATED: 2023-03-17T16:03:45Z
+:FC_TYPE:  double
+:ID:       46d22a84-5ca6-4e86-bbdb-886c0fab446c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-17T16:03:45Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-17T16:03:45Z |
+:END:
+
+([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Queuing delay
+
+*** Back
+Amount of time the packet is waiting in the queue until it can be processed.
+*** Source
+[cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+#+print_bibliography:

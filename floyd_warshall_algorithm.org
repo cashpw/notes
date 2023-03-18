@@ -1,0 +1,177 @@
+:PROPERTIES:
+:ID:       d0a89ea1-4add-495b-8df4-1f27e9de71c6
+:LAST_MODIFIED: [2023-03-13 Mon 07:57]
+:END:
+#+title: Floyd-Warshall algorithm
+#+hugo_custom_front_matter: :slug "d0a89ea1-4add-495b-8df4-1f27e9de71c6"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 10:12]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, the Floyd–Warshall algorithm (also known as Floyd's algorithm, the Roy–Warshall algorithm, the Roy–Floyd algorithm, or the WFI algorithm) is an algorithm for finding shortest paths in a directed weighted graph with positive or negative edge weights (but with no negative cycles).
+
+[cite:@FloydWarshallAlgorithm2022]
+#+end_quote
+
+* Algorithm
+1. Initialize distances
+   1. =distance= is a $|V| \times |V|$ matrix with values initialized to $\infty$
+   2. ~distance[u][v] = edge[u][v]~
+   3. ~distance[u][u] = 0~
+2. Nested: for k, i, j from 1 to $|V|$, do
+   1. ~candidate_distance = distance[i][k] + distance[k][j]~
+   2. ~distance[i][j] = candidate_distance if distance[i][j] < candidate_distance~
+
+In pseudocode:
+
+#+begin_quote
+#+begin_src
+let dist be a |V| × |V| array of minimum distances initialized to ∞ (infinity)
+for each edge (u, v) do
+    dist[u][v] ← w(u, v)  // The weight of the edge (u, v)
+for each vertex v do
+    dist[v][v] ← 0
+for k from 1 to |V|
+    for i from 1 to |V|
+        for j from 1 to |V|
+            if dist[i][j] > dist[i][k] + dist[k][j]
+                dist[i][j] ← dist[i][k] + dist[k][j]
+            end if
+
+#+end_src
+
+[cite:@FloydWarshallAlgorithm2022]
+#+end_quote
+
+* Complexity
+- Time: $\bigtheta{|V|^3}$
+- Space: $\bigtheta{|V|^3}$
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:16]
+:FC_CREATED: 2022-12-22T18:16:26Z
+:FC_TYPE:  cloze
+:ID:       e7c8fc99-13f1-4b3f-a85c-e010d3f6b04d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   106.77 | 2023-06-24T21:37:09Z |
+:END:
+
+Time complexity for [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]] is {{$\bigtheta{|V|^3}$}@0}.
+
+*** Source
+[cite:@FloydWarshallAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:16]
+:FC_CREATED: 2022-12-22T18:16:52Z
+:FC_TYPE:  cloze
+:ID:       6ea201f2-a8b0-4449-a615-94142de4c62b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   110.58 | 2023-06-29T19:26:50Z |
+:END:
+
+Space complexity for [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]] is {{$\bigtheta{|V|^2}$}@0}.
+
+*** Source
+[cite:@FloydWarshallAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:18]
+:FC_CREATED: 2022-12-22T18:26:46Z
+:FC_TYPE:  double
+:ID:       070eda55-cb9c-4901-b63b-739391662a8c
+:FC_BLOCKED_BY:       e7c8fc99-13f1-4b3f-a85c-e010d3f6b04d, 6ea201f2-a8b0-4449-a615-94142de4c62b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    51.66 | 2023-04-03T15:44:51Z |
+| back     | 2.35 |   5 |    31.35 | 2023-03-20T11:45:29Z |
+:END:
+
+[[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]] for solving [[id:cd02a339-815c-4ada-b9f9-f0008db4684a][All-pairs shortest path problem]]
+
+*** Back
+- Exhaustive search
+- Time complexity: $\bigtheta{|V|^3}$
+- Space complexity: $\bigtheta{|V|^2}$
+#+begin_src
+let dist be a |V| × |V| array of minimum distances initialized to ∞ (infinity)
+for each edge (u, v) do
+    dist[u][v] ← w(u, v)  // The weight of the edge (u, v)
+for each vertex v do
+    dist[v][v] ← 0
+for k from 1 to |V|
+    for i from 1 to |V|
+        for j from 1 to |V|
+            if dist[i][j] > dist[i][k] + dist[k][j]
+                dist[i][j] ← dist[i][k] + dist[k][j]
+            end if
+#+end_src
+*** Source
+[cite:@FloydWarshallAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:35]
+:FC_CREATED: 2022-12-22T18:36:16Z
+:FC_TYPE:  cloze
+:ID:       b2a6edf7-5d22-4cb3-bcea-7581002e34ed
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   117.99 | 2023-07-09T14:38:50Z |
+:END:
+
+Nested iteration in [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]] goes {{k from 1 to $|V|$, i from 1 to $|V|$, j from 1 to $|V|$}@0}.
+
+*** Source
+[cite:@FloydWarshallAlgorithm2022]
+** Normal :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 10:36]
+:FC_CREATED: 2022-12-22T18:38:11Z
+:FC_TYPE:  normal
+:ID:       87cf0e6c-84f5-4965-b569-5e730cc14e0d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   5 |    23.36 | 2023-03-19T12:42:54Z |
+:END:
+
+[[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]]
+
+#+begin_src
+for k from 1 to |V|
+  for i from 1 to |V|
+    for j from 1 to |V|
+      [...]
+#+end_src
+
+*** Back
+#+begin_src
+for k from 1 to |V|
+  for i from 1 to |V|
+    for j from 1 to |V|
+      if dist[i][j] > dist[i][k] + dist[k][j]
+        dist[i][j] ← dist[i][k] + dist[k][j]
+#+end_src
+*** Source
+[cite:@FloydWarshallAlgorithm2022]
+#+print_bibliography:

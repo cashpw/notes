@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@thompsonMyFavouriteGitCommit2019]
+:ID:       ffc0d2f1-9a41-4562-8625-a669a5110836
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ffc0d2f1-9a41-4562-8625-a669a5110836
+:END:
+#+title: David Thompson | My Favourite Git Commit
+#+hugo_custom_front_matter: :slug "ffc0d2f1-9a41-4562-8625-a669a5110836"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 06:26]
+#+filetags: :reference:
+ 
+[[id:c15e2a88-d5d8-404e-bbba-487f51c563a0][David Thompson]], [cite:@thompsonMyFavouriteGitCommit2019]
+
+* Thoughts
+
+See: [[id:c74e3129-38af-45f8-bd2b-8a6fa5a0cad0][Documenting Your Work]]
+
+* Notes
+
+[[https://github.com/dcarley][Dan Carley]]'s [[https://github.com/alphagov/govuk-puppet/commit/63b36f93bf75a848e2125008aa1e880c5861cf46][commit in alphagov/govuk-puppet]]:
+
+#+begin_src
+Convert template to US-ASCII to fix error
+
+I introduced some tests in a feature branch to match the contents of
+`/etc/nginx/router_routes.conf`. They worked fine when run with `bundle exec
+rake spec` or `bundle exec rspec modules/router/spec`. But when run as
+`bundle exec rake` each should block failed with:
+
+    ArgumentError:
+      invalid byte sequence in US-ASCII
+
+I eventually found that removing the `.with_content(//)` matchers made the
+errors go away. That there weren't any weird characters in the spec file. And
+that it could be reproduced by requiring Puppet in the same interpreter with:
+
+    rake -E 'require "puppet"' spec
+
+That particular template appears to be the only file in our codebase with an
+identified encoding of `utf-8`. All others are `us-ascii`:
+
+    dcarley-MBA:puppet dcarley$ find modules -type f -exec file --mime {} \+ | grep utf
+    modules/router/templates/routes.conf.erb:                                         text/plain; charset=utf-8
+
+Attempting to convert that file back to US-ASCII identified the offending
+character as something that looked like a whitespace:
+
+    dcarley-MBA:puppet dcarley$ iconv -f UTF8 -t US-ASCII modules/router/templates/routes.conf.erb 2>&1 | tail -n5
+      proxy_intercept_errors off;
+
+      # Set proxy timeout to 50 seconds as a quick fix for problems
+      #
+    iconv: modules/router/templates/routes.conf.erb:458:3: cannot convert
+
+After replacing it (by hand) the file identifies as `us-ascii` again:
+
+    dcarley-MBA:puppet dcarley$ file --mime modules/router/templates/routes.conf.erb
+    modules/router/templates/routes.conf.erb: text/plain; charset=us-ascii
+
+Now the tests work! One hour of my life I won't get back..
+#+end_src
+
+** It explains the reason for the change
+
+#+begin_quote
+The best commit messages I've seen don't just explain *what* they've changed: they explain *why*.
+#+end_quote
+
+** It's searchable
+
+#+begin_quote
+One of the first things in this commit message is the error message that inspired the change:
+
+ArgumentError:
+  invalid byte sequence in US-ASCII
+#+end_quote
+
+** It tells a story
+
+#+begin_quote
+This commit message goes into a lot of detail about what the problem looked like, what the process of investigating it looked like, and what the process of fixing it looked like.
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

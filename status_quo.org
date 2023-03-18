@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       dd143af0-9e37-4b8c-8d9a-53a96b43cf53
+:LAST_MODIFIED: [2023-02-26 Sun 08:20]
+:ROAM_REFS: [cite:@StatusQuo2022]
+:END:
+#+title: Status quo
+#+hugo_custom_front_matter: :slug "dd143af0-9e37-4b8c-8d9a-53a96b43cf53"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 08:22]
+#+filetags: :concept:
+
+[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]], meaning:
+
+- the state of things
+- the way things are
+- the current state of affairs
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 08:23]
+:FC_CREATED: 2022-11-12T16:23:53Z
+:FC_TYPE:  cloze
+:ID:       d3f3643e-ec21-44d1-a286-9db7a6f1e0f6
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    90.11 | 2023-05-08T04:26:24Z |
+|        1 | 2.50 |   6 |    91.15 | 2023-05-28T19:51:50Z |
+:END:
+
+{{[[id:dd143af0-9e37-4b8c-8d9a-53a96b43cf53][Status quo]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Current state of affairs}{English}@1}
+
+*** Source
+[cite:@StatusQuo2022]
+#+print_bibliography:

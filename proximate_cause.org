@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       b17c08ec-80de-45e5-8a8e-529b0f31142c
+:LAST_MODIFIED: [2023-03-14 Tue 08:11]
+:END:
+#+title: Proximate cause
+#+hugo_custom_front_matter: :slug "b17c08ec-80de-45e5-8a8e-529b0f31142c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 11:42]
+#+filetags: :concept:
+
+#+begin_quote
+A proximate cause is an event which is closest to, or immediately responsible for causing, some observed result.
+
+[cite:@ProximateUltimateCausation2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 11:43]
+:FC_CREATED: 2023-01-12T19:43:39Z
+:FC_TYPE:  double
+:ID:       2439ebb8-aa44-4cc7-a36e-25bd060e51f9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    41.16 | 2023-03-25T21:35:53Z |
+| back     | 2.50 |   5 |    33.27 | 2023-03-22T21:15:16Z |
+:END:
+
+[[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]
+
+*** Back
+A cause for an event which is closest to, or immediately responsible for, some observed result
+*** Source
+[cite:@ProximateUltimateCausation2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 11:44]
+:FC_CREATED: 2023-01-12T19:45:34Z
+:FC_TYPE:  normal
+:ID:       12ea4134-40b0-4de4-b458-c53a139f12c1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    75.67 | 2023-05-29T07:20:22Z |
+:END:
+
+[[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]] and [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]
+
+*** Back
+- They're both "true"
+- [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]: The cause which is closest to, or immediately responsible for causeing, some observed result
+- [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]: The "real", underlying, cause
+*** Source
+[cite:@ProximateUltimateCausation2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 11:45]
+:FC_CREATED: 2023-01-12T19:51:49Z
+:FC_TYPE:  double
+:ID:       87af1d7d-1f75-4f58-ac30-5cb14a6afc5a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    53.43 | 2023-04-06T02:02:56Z |
+| back     | 2.80 |   5 |    39.91 | 2023-03-24T15:33:59Z |
+:END:
+
+[[https://en.wikipedia.org/wiki/Costa_Concordia][Costa Concordia]] in terms of [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]] and [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]
+
+*** Back
+In order from [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]] to [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]] (and beyond to absurdity). The ship sank because:
+
+- It hit a rock ([[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]])
+- The helmsman failed to implement the captain's order (language barrier, turned the wrong way)
+- The captain wasn't paying close enough attention; distracted
+- The captain sailed the boat close to an island for a salute
+- The captain was re-hired and put in charge of a cruise liner /after/ crashing a previous cruise liner
+- People settled in the Mediterranean
+*** Source
+[cite:@internethistorianCostConcordia2021]
+#+print_bibliography:

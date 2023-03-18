@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@matuschakEvergreenNotesShouldBeDenselyLinked]
+:ID:       6037800d-34c3-4d62-a33b-3931d694f083
+:DIR:      /home/cashweaver/proj/roam/attachments/6037800d-34c3-4d62-a33b-3931d694f083
+:LAST_MODIFIED: [2023-02-08 Wed 10:32]
+:END:
+#+title: Andy Matuschak | Evergreen Notes Should Be Densely Linked
+#+hugo_custom_front_matter: :slug "6037800d-34c3-4d62-a33b-3931d694f083"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-22 Tue 07:04]
+#+filetags: :reference:
+ 
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakEvergreenNotesShouldBeDenselyLinked]
+
+#+begin_quote
+If we push ourselves to add lots of links between our notes, that makes us think expansively about what other concepts might be related to what we're thinking about. It creates pressure to think carefully about how ideas relate to each other (see [[https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs][Understanding requires effortful engagement]] and [[https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF][Evergreen notes should be concept-oriented]]). It'll also help you internalize the ideas more deeply through [[https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB][Elaborative encoding]].
+
+Finding the right links requires reading old notes, so it's also an organic mechanism for intermittently reviewing the notes we've written ([[https://notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7][Evergreen note maintenance approximates spaced repetition]]). This may lead to surprising discoveries ([[https://notes.andymatuschak.org/z4KZ9973AoHhvM9Pj5Qrds48JXNbMEwVJmVRw][Notes should surprise you]]).
+
+And by recording the connections, we document how we came to our conclusions, which may be useful to us (or our colleagues) later. As much as is possible, we should [[https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB][Prefer fine-grained associations]]. By contrast, [[https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z][Tags are an ineffective association structure]].
+
+When just reading through our notes, the connections offer many paths to move through idea-space. The temptation is to navigate hierarchically, but the links cut across fields and topics. [[id:47b06441-f192-42cf-9c30-9be549d2da95][Prefer Associative Ontologies to Hierarchical Taxonomies]]
+
+Luhmann actually argues that: "In comparison with this structure, which offers possibilities of connection that can be actualized, the importance of what has actually been noted is secondary."
+
+You don't necessarily have to link to notes you've already written: [[https://notes.andymatuschak.org/z2newCwFfd6iZFyf9bgspkbyt1G8wbQxJVgTK][Backlinks can be used to implicitly define nodes in knowledge management systems]]. It feels high-friction to stop and add a new note whenever it feels necessary; it's very freeing to be able to link to a stub. (see also [[https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97][Evergreen notes permit smooth incremental progress in writing ("incremental writing")]]).
+
+Aside from the ongoing value of the captured links, they may help you shepherd your attention while drafting: [[https://notes.andymatuschak.org/z3iT7pPmhbY8WtofoCccd58xtnhJUfkJPztGP][Release valves for non-linear thought may support improved linear output]].
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,196 @@
+:PROPERTIES:
+:ID:       621bc458-5d22-462d-89df-e3f8e13d6dc4
+:LAST_MODIFIED: [2023-03-04 Sat 07:07]
+:END:
+#+title: Polarity
+#+hugo_custom_front_matter: :slug "621bc458-5d22-462d-89df-e3f8e13d6dc4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-16 Sat 19:29]
+#+filetags: :concept:
+
+#+begin_quote
+Polarity in international relations is any of the various ways in which power is distributed within the international system. It describes the nature of the international system at any given period of time. One generally distinguishes three types of systems: unipolarity, bipolarity, and multipolarity for three or more centers of power.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+
+* Types
+** Unipolarity
+:PROPERTIES:
+:ID:       79e18826-8ece-4b40-8bd3-8c42c760ff94
+:END:
+
+#+begin_quote
+Unipolarity is a condition in which one state under the condition of international anarchy enjoys a preponderance of power and faces no competitor states. A unipolar state is not the same as an empire or a [[id:eb439041-eb04-415d-a642-9ab8783c68a4][Hegemon]] that can control the behavior of all other states.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+
+** Bipolarity
+:PROPERTIES:
+:ID:       95c9ff85-7110-498d-ab79-b254f6b66518
+:END:
+
+#+begin_quote
+Bipolarity is a distribution of power in which two states have a preponderance of power.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+** Multipolarity
+:PROPERTIES:
+:ID:       875f6c50-7576-4eaf-95e7-e534c345da17
+:END:
+
+#+begin_quote
+Multipolarity is a distribution of power in which more than two nation-states have nearly equal amounts of power.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+
+* Flashcards
+** Definition (Politics) :fc:
+:PROPERTIES:
+:ID:       dd5a5f51-cae3-4b11-9268-fb714006b6bf
+:ANKI_NOTE_ID: 1658075154360
+:FC_CREATED: 2022-07-17T16:25:54Z
+:FC_TYPE:  double
+:FC_BLOCKED_BY: 3b4d82eb-8456-4a12-bd6d-7c795d9baaef,36d1b3a2-e559-478a-b08f-7387df8c286d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   7 |   214.44 | 2023-07-25T02:25:42Z |
+| front    | 2.50 |   7 |   175.36 | 2023-06-13T01:12:26Z |
+:END:
+[[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]
+*** Back
+The organization of power in a system.
+*** Extra
+Usually in the context of:
+
+- Unipolarity: One center of power
+- Bipolarity: Two centers of power
+- Multipolarity: More than two centers of power
+*** Source
+[cite:@PolarityInternationalRelations2022]
+
+** Definition ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+:PROPERTIES:
+:ID:       3b4d82eb-8456-4a12-bd6d-7c795d9baaef
+:ANKI_NOTE_ID: 1658072635375
+:FC_CREATED: 2022-07-17T15:43:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   6 |    68.86 | 2023-04-12T12:27:48Z |
+| front    | 2.50 |   7 |   207.99 | 2023-08-02T14:26:18Z |
+:END:
+
+[[id:79e18826-8ece-4b40-8bd3-8c42c760ff94][Unipolarity]]
+
+*** Back
+A condition in which one state has a preponderance of power and faces no competitor states.
+
+*** Source
+[cite:@PolarityInternationalRelations2022]
+
+** Definition ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+:PROPERTIES:
+:ID:       36d1b3a2-e559-478a-b08f-7387df8c286d
+:ANKI_NOTE_ID: 1658072636221
+:FC_CREATED: 2022-07-17T15:43:56Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   334.61 | 2024-02-01T04:18:55Z |
+| front    | 2.50 |   6 |   111.87 | 2023-04-14T11:22:21Z |
+:END:
+
+[[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]]
+
+*** Back
+A condition in which two states have a preponderance of power.
+
+*** Source
+[cite:@PolarityInternationalRelations2022]
+
+** Definition ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+:PROPERTIES:
+:ID:       bc4fe541-7d40-43d6-bf16-6ef451e01133
+:ANKI_NOTE_ID: 1658072637076
+:FC_CREATED: 2022-07-17T15:43:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   183.73 | 2023-09-04T08:33:03Z |
+| front    | 2.95 |   7 |   251.95 | 2023-11-04T02:38:59Z |
+:END:
+
+[[id:875f6c50-7576-4eaf-95e7-e534c345da17][Multipolarity]]
+
+*** Back
+A condition in which more than two states have a preponderance of power.
+
+*** Source
+[cite:@PolarityInternationalRelations2022]
+** Example(s) ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+:PROPERTIES:
+:ID:       15ab301d-ad32-4693-85eb-d0283deca07f
+:ANKI_NOTE_ID: 1658072637900
+:FC_CREATED: 2022-07-17T15:43:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   151.56 | 2023-05-20T07:02:33Z |
+| back     | 2.50 |   7 |   131.54 | 2023-05-03T04:28:25Z |
+:END:
+[[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]]
+*** Back
+- USA and the Soviet Union during the Cold War
+*** Source
+[cite:@PolarityInternationalRelations2022]
+** Example(s) ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+:PROPERTIES:
+:ID:       53f50dea-2fcd-45ad-a872-292e70042951
+:ANKI_NOTE_ID: 1658072638500
+:FC_CREATED: 2022-07-17T15:43:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   7 |   181.27 | 2023-08-25T10:22:41Z |
+| back     | 2.35 |   7 |   127.54 | 2023-06-05T05:19:28Z |
+:END:
+[[id:79e18826-8ece-4b40-8bd3-8c42c760ff94][Unipolarity]]
+*** Back
+- (potentially) The USA in the 20th century and beyond
+*** Source
+[cite:@PolarityInternationalRelations2022]
+** Example(s) ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+:PROPERTIES:
+:ID:       95253cdb-e765-4360-8237-34cf09a4730a
+:ANKI_NOTE_ID: 1658072638900
+:FC_CREATED: 2022-07-17T15:43:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   259.91 | 2023-10-15T14:44:52Z |
+| back     | 2.80 |   7 |   283.31 | 2023-12-09T11:41:53Z |
+:END:
+[[id:875f6c50-7576-4eaf-95e7-e534c345da17][Multipolarity]]
+*** Back
+- Warring states period in Japan
+*** Source
+[cite:@PolarityInternationalRelations2022]
+#+print_bibliography:

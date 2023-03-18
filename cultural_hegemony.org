@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       7d74c901-41aa-49f6-b8d4-49ef4286479c
+:LAST_MODIFIED: [2023-03-18 Sat 06:41]
+:ROAM_REFS: [cite:@CulturalHegemony2022]
+:END:
+#+title: Cultural hegemony
+#+hugo_custom_front_matter: :slug "7d74c901-41aa-49f6-b8d4-49ef4286479c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-29 Tue 10:15]
+#+filetags: :concept:
+
+#+begin_quote
+In Marxist philosophy, cultural [[id:eb439041-eb04-415d-a642-9ab8783c68a4][Hegemony]] is the dominance of a culturally diverse society by the ruling class who manipulate the culture of that society—the beliefs and explanations, perceptions, values, and mores—so that the worldview of the ruling class becomes the accepted cultural norm. As the universal dominant ideology, the ruling-class worldview misrepresents the social, political, and economic status quo as natural, inevitable, and perpetual social conditions that benefit every social class, rather than as artificial social constructs that benefit only the ruling class.
+
+[cite:@CulturalHegemony2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-29 Tue 10:16]
+:FC_CREATED: 2022-11-29T18:17:22Z
+:FC_TYPE:  double
+:ID:       6b6d5734-bc41-4b76-915a-8e4aa7fc4617
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   6 |    42.17 | 2023-03-29T08:50:24Z |
+| back     | 2.80 |   6 |   141.81 | 2023-08-07T09:13:08Z |
+:END:
+
+[[id:7d74c901-41aa-49f6-b8d4-49ef4286479c][Cultural hegemony]]
+
+*** Back
+In Marxist philosophy, the dominance of a culturally diverse society by the ruling class who manipulate the culture of that society so the worldview of the ruling class becomes the accepted cultural norm.
+*** Source
+[cite:@CulturalHegemony2022]
+#+print_bibliography:

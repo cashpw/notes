@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       302ef720-52b0-4d58-b652-7812ad5a8c1e
+:LAST_MODIFIED: [2022-12-21 Wed 14:13]
+:ROAM_REFS: [cite:@Heuristic2022]
+:END:
+#+title: Heuristic
+#+hugo_custom_front_matter: :slug "302ef720-52b0-4d58-b652-7812ad5a8c1e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 14:11]
+#+filetags: :concept:
+
+#+begin_quote
+A heuristic, or heuristic technique, is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision.
+
+[cite:@Heuristic2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       08fb16b1-74f9-48cc-8c19-a149e36d8340
+:ANKI_NOTE_ID: 1640627885523
+:FC_CREATED: 2021-12-27T17:58:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   145.67 | 2023-03-29T08:32:00Z |
+| front    | 2.65 |   8 |   206.35 | 2023-06-13T00:11:03Z |
+:END:
+
+[[id:302ef720-52b0-4d58-b652-7812ad5a8c1e][Heuristic]]
+
+*** Back
+A technique for producing a solution in a reasonable amount of time that is good enough for solving a given problem.
+
+*** Source
+[cite:@Heuristic2022]
+#+print_bibliography:

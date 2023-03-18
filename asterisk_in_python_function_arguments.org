@@ -1,0 +1,206 @@
+:PROPERTIES:
+:ID:       63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6
+:LAST_MODIFIED: [2023-03-18 Sat 06:30]
+:ROAM_ALIASES: "Asterisk in Python function invocations"
+:END:
+#+title: Asterisk in Python function arguments
+#+hugo_custom_front_matter: :slug "63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-08 Wed 09:43]
+#+filetags: :concept:
+
+* Single asterisk
+** In function definition
+
+A single asterisk indicates that all following arguments *must* be [[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]]. Additionally, if the asterisk is immediately followed by a parameter (e.g. =*args=) then =args= holds all following positional arguments.
+
+- Standalone asterisk: Forces all arguments after the =*= to be passed as [[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]]
+
+  #+begin_src python :results output
+def foo(pos, *, forcenamed):
+    return (pos, forcenamed)
+
+print(foo(pos=10, forcenamed=20))
+print(foo(10, forcenamed=20))
+try:
+    print(foo(10, 20))
+except TypeError as e:
+    print(e)
+  #+end_src
+
+  #+RESULTS:
+  : (10, 20)
+  : (10, 20)
+  : foo() takes 1 positional argument but 2 were given
+
+- Asterisk with parameter: Forces all arguments after the =*= to be passed as [[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]] *and* collects positional arguments.
+
+  #+begin_src python :results output
+def foo(pos, *args, forcenamed):
+    return (pos, args, forcenamed)
+
+print(foo(pos=10, forcenamed=30))
+print(foo(10, 20, 30, 30, forcenamed=50))
+try:
+    print(foo(10, 20))
+except TypeError as e:
+    print(e)
+  #+end_src
+
+  #+RESULTS:
+  : (10, (), 30)
+  : (10, (20, 30, 30), 50)
+  : foo() missing 1 required keyword-only argument: 'forcenamed'
+** In function invocation
+
+A single asterisk in a [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] function invocation expands a tuple of positional arguments.
+
+#+begin_src python :results output
+def foo(a, b, c):
+    return a, b, c
+
+args = (10, 20, 30)
+print(foo(*args))
+#+end_src
+
+#+RESULTS:
+: (10, 20, 30)
+
+* Double asterisk
+
+A double asterisk (i.e. =**=) precedes a dictionary of [[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]].
+
+#+begin_src python :results output
+def foo(a, b, **c):
+    return a, b, c
+
+print(foo(10, 20))
+print(foo(10, 20, c=30, d=40))
+try:
+    print(foo(10, 20, 30))
+except TypeError as e:
+    print(e)
+#+end_src
+
+#+RESULTS:
+: (10, 20, {})
+: (10, 20, {'c': 30, 'd': 40})
+: foo() takes 2 positional arguments but 3 were given
+
+** In function invocation
+
+A double asterisk in a [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] function invocation expands a dictionary of keyword arguments.
+
+#+begin_src python :results output
+def foo(a, b, c):
+    return a, b, c
+
+kwargs = {'b': 20, 'c': 30}
+print(foo(10, **kwargs))
+#+end_src
+
+#+RESULTS:
+: (10, 20, 30)
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 10:02]
+:FC_CREATED: 2023-02-08T18:03:52Z
+:FC_TYPE:  double
+:ID:       4fa0f66f-99bf-4ede-a24c-97340f5f0312
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   4 |    18.36 | 2023-03-18T23:36:20Z |
+| back     | 2.65 |   5 |    42.76 | 2023-04-29T08:26:21Z |
+:END:
+
+Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]]
+
+*** Back
+- Indicates all following arguments must be [[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]]
+- If followed by a parameter, collects positional arguments in a tuple
+*** Source
+[cite:@pythondocumentationGlossary]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 10:05]
+:FC_CREATED: 2023-02-08T18:05:48Z
+:FC_TYPE:  double
+:ID:       17fef90a-3f84-4ecc-b105-8108621494bc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    38.76 | 2023-04-21T09:10:23Z |
+| back     | 2.80 |   5 |    44.80 | 2023-04-28T09:51:27Z |
+:END:
+
+Double [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]]
+
+*** Back
+- Collects keywords arguments in a dictionary
+*** Source
+[cite:@pythondocumentationGlossary]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 10:06]
+:FC_CREATED: 2023-02-08T18:06:29Z
+:FC_TYPE:  double
+:ID:       8a4c71c3-ef4e-465e-b730-ee4abb6cc26c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    43.70 | 2023-04-26T07:47:27Z |
+| back     | 2.65 |   4 |    17.36 | 2023-03-20T00:50:16Z |
+:END:
+
+Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function invocations]]
+
+*** Back
+Expands a tuple of arguments into positional arguments
+*** Source
+[cite:@pythondocumentationGlossary]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 10:06]
+:FC_CREATED: 2023-02-08T18:07:07Z
+:FC_TYPE:  double
+:ID:       2fc3c79b-77d3-4191-b07e-93a9ca9e05b9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    41.72 | 2023-04-26T08:22:23Z |
+| back     | 2.80 |   5 |    51.72 | 2023-05-09T06:48:39Z |
+:END:
+
+Double [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function invocations]]
+
+*** Back
+Expands a dictionary of keyword arguments
+*** Source
+[cite:@pythondocumentationGlossary]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 10:07]
+:FC_CREATED: 2023-02-08T18:08:04Z
+:FC_TYPE:  cloze
+:ID:       640b142c-de6b-4e11-b13c-f86adc2edea3
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    41.19 | 2023-04-15T22:01:50Z |
+:END:
+
+Positional arguments {{can't}{can(not)}@0} come after =*= in a [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] function.
+
+*** Source
+[cite:@pythondocumentationGlossary]
+#+print_bibliography:

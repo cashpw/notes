@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       62420d13-e41f-46c0-a3b2-345fc4d8d4c1
+:ROAM_REFS: [cite:@DynamicalSystem2022]
+:LAST_MODIFIED: [2023-03-14 Tue 08:11]
+:END:
+#+title: Dynamical system
+#+hugo_custom_front_matter: :slug "62420d13-e41f-46c0-a3b2-345fc4d8d4c1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-21 Wed 19:46]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a dynamical system is a system in which a function describes the time dependence of a point in an ambient space. Examples include the mathematical models that describe the swinging of a clock pendulum, the flow of water in a pipe, the random motion of particles in the air, and the number of fish each springtime in a lake.
+
+[cite:@DynamicalSystem2022]
+#+end_quote
+
+* Flashcards
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       34153c3a-03cd-471d-8c84-166b3b92164e
+:ANKI_NOTE_ID: 1640627895072
+:FC_CREATED: 2021-12-27T17:58:15Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   253.30 | 2023-08-16T07:46:44Z |
+| front    | 2.20 |   7 |   128.84 | 2023-07-21T11:25:05Z |
+:END:
+
+[[id:62420d13-e41f-46c0-a3b2-345fc4d8d4c1][Dynamical system]]
+
+*** Back
+A system in which a function describes the time dependence of a point in geometrical space.
+
+*** Extra
+eg: A model that describes the swinging of a clock pendulum or the flow of water in a pipe.
+
+*** Source
+[cite:@DynamicalSystem2022]
+** Example(s) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T02:47:47Z
+:FC_TYPE:  normal
+:ID:       e28a07f7-4b9b-43fb-abeb-6d75f303eeca
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   121.37 | 2023-04-25T00:52:37Z |
+:END:
+[[id:62420d13-e41f-46c0-a3b2-345fc4d8d4c1][Dynamical system]]
+*** Back
+- A swinging clock pendulum
+- The flow of water through a pipe
+*** Source
+[cite:@DynamicalSystem2022]
+#+print_bibliography:

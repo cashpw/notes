@@ -1,0 +1,153 @@
+:PROPERTIES:
+:ID:       7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc
+:ROAM_REFS: [cite:@IntervalMathematics2022]
+:LAST_MODIFIED: [2023-03-11 Sat 16:31]
+:ROAM_ALIASES: "Open interval" "Closed interval"
+:END:
+#+title: Interval
+#+hugo_custom_front_matter: :slug "7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 08:40]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a (real) interval is a set of real numbers that contains all real numbers lying between any two numbers of the set. For example, the set of numbers x satisfying $0 \leq x \leq 1$ is an interval which contains 0, 1, and all numbers in between. Other examples of intervals are the set of numbers such that $0 \lt x \lt 1$, the set of all real numbers $\mathbb{R}$, the set of nonnegative real numbers, the set of positive real numbers, the empty set, and any singleton (set of one element).
+
+[cite:@IntervalMathematics2022]
+#+end_quote
+
+* Flashcards
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       ef8d002d-ae68-4e06-a6e9-4a3c30e35124
+:ANKI_NOTE_ID: 1640627832948
+:FC_CREATED: 2021-12-27T17:57:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   259.17 | 2023-09-15T18:12:17Z |
+| back     | 2.35 |   8 |   265.22 | 2023-11-30T08:20:49Z |
+:END:
+
+Closed interval
+
+*** Back
+- $0 \le x \le 1$, $[0, 1]$
+*** Source
+[cite:@IntervalMathematics2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       d77f9226-c6eb-422f-b5cd-66cfc78f9a50
+:ANKI_NOTE_ID: 1640628569925
+:FC_CREATED: 2022-09-22T02:41:06Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:FC_CLOZE_CONTEXT_COUNT: 1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   307.15 | 2024-01-13T04:00:18Z |
+|        1 | 2.80 |   6 |   132.24 | 2023-05-30T21:03:18Z |
+:END:
+
+- {{$(0, 1)$}@0}
+
+{{A range from $0$ to $1$, exclusive. An open interval.}@1}
+
+*** Source
+[cite:@IntervalMathematics2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       2297a316-7661-4bad-a8ed-4be99b84412d
+:ANKI_NOTE_ID: 1640628569602
+:FC_CREATED: 2021-12-27T18:09:29Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   242.02 | 2023-08-25T17:04:25Z |
+|        1 | 2.65 |   8 |   146.62 | 2023-03-22T06:30:41Z |
+:END:
+
+- {{$[0, 1]$}@0}
+
+{{A range from $0$ to $1$, inclusive. A closed interval.}@1}
+
+*** Source
+[cite:@IntervalMathematics2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       184a5569-e9f0-421d-96e7-cb1ea9013f22
+:ANKI_NOTE_ID: 1640627832546
+:FC_CREATED: 2021-12-27T17:57:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   306.79 | 2023-12-27T22:37:03Z |
+| back     | 2.35 |   7 |   131.55 | 2023-03-19T04:08:11Z |
+:END:
+
+Open interval
+
+*** Back
+- $0 < x < 1$, $(0, 1)$
+*** Source
+[cite:@IntervalMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       aae625a9-4734-42f4-8061-79273e0f9557
+:ANKI_NOTE_ID: 1640627897120
+:FC_CREATED: 2021-12-27T17:58:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   337.96 | 2024-02-12T04:24:18Z |
+| front    | 2.65 |   7 |   159.74 | 2023-03-21T08:37:32Z |
+:END:
+
+Open interval
+
+*** Back
+An interval that does not include its endpoints.
+
+*** Extra
+$0 < x < 1$, $(0, 1)$
+
+*** Source
+[cite:@IntervalMathematics2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       71f0e330-a3a0-462b-9cc6-eefb512515d1
+:ANKI_NOTE_ID: 1640627897318
+:FC_CREATED: 2021-12-27T17:58:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  10 |   335.87 | 2024-01-26T00:53:40Z |
+| front    | 2.65 |   8 |   139.68 | 2023-03-21T08:57:51Z |
+:END:
+
+Closed interval
+
+*** Back
+An interval which includes all its limit points.
+
+*** Extra
+$0 \le x \le 1$, $[0, 1]$
+
+*** Source
+[cite:@IntervalMathematics2022]
+#+print_bibliography:

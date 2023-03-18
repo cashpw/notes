@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       2b33e0aa-52e7-404b-90f0-34f6468389c0
+:LAST_MODIFIED: [2023-03-14 Tue 08:13]
+:ROAM_REFS: [cite:@RowEchelonForm2022]
+:END:
+#+title: Row echelon form
+#+hugo_custom_front_matter: :slug "2b33e0aa-52e7-404b-90f0-34f6468389c0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 11:02]
+#+filetags: :concept:
+
+#+begin_quote
+In linear algebra, a matrix is in echelon form if it has the shape resulting from a Gaussian elimination [[[id:b59377a2-c3af-4647-b74b-2c38bd4f8c7a][Gaussian elimination]]].
+
+A matrix being in row echelon form means that Gaussian elimination has operated on the rows, and column echelon form means that Gaussian elimination has operated on the columns. In other words, a matrix is in column echelon form if its transpose is in row echelon form. Therefore, only row echelon forms are considered in the remainder of this article. The similar properties of column echelon form are easily deduced by transposing all the matrices. Specifically, a matrix is in row echelon form if
+
+- All rows consisting of only zeroes are at the bottom.
+- The leading entry (that is the left-most nonzero entry) of every nonzero row is to the right the leading entry of every row above.
+
+[cite:@RowEchelonForm2022]
+#+end_quote
+
+* Reduced row echelon form
+:PROPERTIES:
+:ID:       8ebdd5de-6846-42d2-b019-0404e4bba32d
+:END:
+
+#+begin_quote
+A matrix is in reduced row echelon form (also called row canonical form) if it satisfies the following conditions:
+
+- It is in row echelon form.
+- The leading entry in each nonzero row is a 1 (called a leading 1).
+- Each column containing a leading 1 has zeros in all its other entries.
+
+[cite:@RowEchelonForm2022]
+#+end_quote
+
+* Flashcards
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       5dc9463c-eac1-457a-ae2e-d1cafcd5058d
+:ANKI_NOTE_ID: 1655822411686
+:FC_CREATED: 2022-06-21T14:40:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   218.98 | 2023-07-09T21:11:09Z |
+| front    | 2.65 |   8 |   196.84 | 2023-06-01T09:58:05Z |
+:END:
+[[id:8ebdd5de-6846-42d2-b019-0404e4bba32d][Reduced row echelon form]]
+*** Back
+The state of a matrix when:
+
+- it is in row echelon form
+- all leading coefficients are 1
+- each column which contains a leading coefficient has only one nonzero value
+*** Source
+
+** Properties :fc:
+:PROPERTIES:
+:ID:       dbcdba78-4714-4105-81a3-d006e27bab58
+:ANKI_NOTE_ID: 1656856179438
+:FC_CREATED: 2022-07-03T13:49:39Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   108.41 | 2023-04-02T04:33:36Z |
+|        1 | 2.80 |   7 |   242.92 | 2023-11-12T13:23:34Z |
+|        2 | 2.50 |   6 |   111.67 | 2023-04-20T10:40:03Z |
+:END:
+
+- {{In row echelon form}@0}
+- {{All leading coefficients are 1}@1}
+- {{Each column containing a leading coefficient has only one nonzero value}@2}
+
+[[id:8ebdd5de-6846-42d2-b019-0404e4bba32d][Reduced row echelon form]]
+
+#+print_bibliography:

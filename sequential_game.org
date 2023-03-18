@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b
+:ROAM_REFS: [cite:@SequentialGame2021]
+:ROAM_ALIASES: "Dynamic game"
+:LAST_MODIFIED: [2023-03-09 Thu 19:10]
+:END:
+#+title: Sequential game
+#+hugo_custom_front_matter: :slug "bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-28 Wed 07:47]
+#+filetags: :concept:
+
+#+begin_quote
+In [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], a [[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]] is a game where one player chooses their action before the others choose theirs. The other players must have information on the first player's choice so that the difference in time has no strategic effect. Sequential games are governed by the time axis and represented in the form of decision trees.
+
+[cite:@SequentialGame2021]
+#+end_quote
+
+Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
+
+* Examples
+
+- Many board games, including chess and checkers
+
+* Flashcards
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:35]
+:FC_CREATED: 2022-09-30T22:35:44Z
+:FC_TYPE:  cloze
+:ID:       aab21c17-622e-42e1-a82a-4d888a4924dc
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    84.96 | 2023-04-16T13:31:26Z |
+|        1 | 3.10 |   6 |   167.29 | 2023-08-12T23:22:23Z |
+:END:
+
+{{[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]}@0} ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]; turn order)
+
+- {{Chess}@1}
+
+*** Source
+[cite:@SequentialGame2021]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:35]
+:FC_CREATED: 2022-09-30T22:37:01Z
+:FC_TYPE:  double
+:ID:       e40dac22-4eee-4495-ba3b-e891dec34d82
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    85.90 | 2023-04-24T13:50:18Z |
+| back     | 2.50 |   6 |    74.03 | 2023-04-30T05:24:12Z |
+:END:
+
+[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]
+
+*** Back
+A game in which one player chooses their action before the others choose theirs. The other players have information on the first player's choice prior to making their own decisions.
+*** Source
+[cite:@SequentialGame2021]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:38]
+:FC_CREATED: 2022-09-30T22:38:26Z
+:FC_TYPE:  cloze
+:ID:       7998bd04-40c8-4ed1-ac99-6e864429aad0
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    80.86 | 2023-05-29T23:53:36Z |
+|        1 | 2.80 |   6 |   120.03 | 2023-06-24T04:33:23Z |
+:END:
+
+- {{[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]}@0}
+- {{[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Dynamic game]]}@1}
+
+*** Source
+[cite:@SequentialGame2021]
+#+print_bibliography:

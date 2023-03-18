@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       d88f63c9-296b-4b0c-9757-00cc1e891e16
+:ROAM_REFS: [cite:@UltimatumGame2022]
+:LAST_MODIFIED: [2023-02-10 Fri 16:18]
+:END:
+#+title: Ultimatum game
+#+hugo_custom_front_matter: :slug "d88f63c9-296b-4b0c-9757-00cc1e891e16"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-30 Fri 14:51]
+#+filetags: :concept:
+
+#+begin_quote
+The ultimatum game is a game that has become a popular instrument of economic experiments. [...] One player, the proposer, is endowed with a sum of money. The proposer is tasked with splitting it with another player, the responder. Once the proposer communicates his decision, the responder may accept it or reject it. If the responder accepts, the money is split per the proposal; if the responder rejects, both players receive nothing. Both players know in advance the consequences of the responder accepting or rejecting the offer.
+
+[cite:@UltimatumGame2022]
+#+end_quote
+
+#+begin_src dot :file ultimatum-game.png :cmdline -Kdot -Tpng
+digraph {
+rankdir=TB;
+splines=true;
+node [shape=box];
+
+one [label="1"]
+fair_2 [label="2"]
+unfair_2 [label="2"]
+
+one -> fair_2 [label="fair (50/50 split)"]
+fair_2 -> "5,5" [label="accept"]
+fair_2 -> "0,0" [label="reject"]
+
+one -> unfair_2 [label="unfair (80/20 split)"]
+unfair_2 -> "8,2" [label="accept"]
+unfair_2 -> "0,0" [label="reject"]
+}
+#+end_src
+
+#+RESULTS:
+[[file:ultimatum-game.png]]
+
+* Flashcards
+** Describe ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:01]
+:FC_CREATED: 2022-09-30T22:02:19Z
+:FC_TYPE:  double
+:ID:       412370fe-10d3-408a-8e3d-ceed77b1da4f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   151.13 | 2023-06-30T05:51:08Z |
+| back     | 2.80 |   6 |   115.34 | 2023-06-06T08:21:16Z |
+:END:
+
+[[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]]
+
+*** Back
+A two-player game in which the first player makes a proposal which the second player can accept or reject. Rejecting often means neither player receives anything (=0,0=).
+*** Source
+[[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]]
+#+print_bibliography:

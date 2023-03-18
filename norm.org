@@ -1,0 +1,147 @@
+:PROPERTIES:
+:ID:       d98f1ce2-f350-4be7-a8b1-a5741f908cdd
+:LAST_MODIFIED: [2023-03-18 Sat 06:42]
+:ROAM_REFS: [cite:@NormMathematics2022]
+:END:
+#+title: Norm
+#+hugo_custom_front_matter: :slug "d98f1ce2-f350-4be7-a8b1-a5741f908cdd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-22 Mon 08:35]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a norm is a function from a real or complex vector space to the non-negative real numbers that behaves in certain ways like the distance from the origin: it commutes with scaling, obeys a form of the triangle inequality, and is zero only at the origin. In particular, the Euclidean distance of a vector from the origin is a norm, called the Euclidean norm, or 2-norm, which may also be defined as the square root of the inner product of a vector with itself.
+
+[cite:@NormMathematics2022]
+#+end_quote
+
+* Notation
+
+The p-norm of the \(\vec{v}\) is written as \(\|\vec{v}\|_p\).
+
+* L-p norm
+:PROPERTIES:
+:ID:       9c72c36e-071e-46d3-8562-bd1cb9bd9be7
+:END:
+
+$\|\vec{x}\|_p = (\sum_{i = 1}^n {\lvert \vec{x}_i \rvert}^p)^{\frac{1}{p}}$
+
+Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-9926-4de1-8b60-5d5e64396a01][L-two norm]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** {{$\|\vec{x}\|_p$}@0} \(=\) {{$(\sum_{i = 1}^n {\lvert \vec{x}_i \rvert}^p)^{\frac{1}{p}}$}@1} :fc:
+:PROPERTIES:
+:ID:       1e842d80-0bd0-44ea-a29d-a2a38b84509f
+:ANKI_NOTE_ID: 1640627863448
+:FC_CREATED: 2021-12-27T17:57:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.15 |  13 |   245.17 | 2023-11-17T18:18:36Z |
+|        1 | 1.90 |   6 |    51.14 | 2023-03-23T17:23:04Z |
+:END:
+
+** {{$\|\vec{x}\|_{\infty}$}{norm}@0} \(=\) {{$\underset{i}{\text{max}} \; \vec{x}_i$}@1} :fc:
+:PROPERTIES:
+:ID:       3bbb02ad-cc2a-42f6-b2cf-b5608bdb6591
+:ANKI_NOTE_ID: 1660751318399
+:FC_CREATED: 2022-08-17T15:48:38Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   126.38 | 2023-03-21T01:25:11Z |
+|        1 | 2.50 |   7 |   143.01 | 2023-05-05T18:38:50Z |
+:END:
+*** Source
+[cite:@NormMathematics2022]
+
+** {{$\| \vec{x} + \vec{y} \|^2$}{norm}@0} \(=\) {{$\|\vec{x}\|^2 + 2(\vec{x}\cdot \vec{y}) + \|\vec{y}\|^2$}{expanded}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T16:17:13Z
+:FC_TYPE:  cloze
+:ID:       15f558cf-f755-498b-937d-d383182c6e28
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |    84.55 | 2023-03-27T16:48:16Z |
+|        1 | 2.20 |   6 |    81.98 | 2023-04-22T01:51:25Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+
+** {{$\| \vec{x} - \vec{y} \|^2$}@0} \(=\) {{$\|\vec{x}\|^2 - 2(\vec{x}\cdot \vec{y}) + \|\vec{y}\|^2$}{expansion}@1} :fc:
+:PROPERTIES:
+:ID:       801d64ed-d613-4f91-9093-4e56df4b2ebf
+:ANKI_NOTE_ID: 1656854716677
+:FC_CREATED: 2022-07-03T13:25:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   220.20 | 2023-08-02T20:00:04Z |
+|        1 | 2.65 |   6 |   150.63 | 2023-03-26T06:27:54Z |
+:END:
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       e8055e57-1a76-49fd-b0da-315a3a2f325c
+:ANKI_NOTE_ID: 1640628568479
+:FC_CREATED: 2021-12-27T18:09:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   178.70 | 2023-05-15T09:09:03Z |
+|        1 | 2.65 |   8 |   226.63 | 2023-07-30T11:53:34Z |
+:END:
+
+- {{${\|\vec{x}\|}_p$}@0}
+
+{{p-norm of $\vec{x}$}@1}
+
+*** Source
+[cite:@NormMathematics2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       cac467e3-9b7e-4d21-8784-be8049e5a5bf
+:ANKI_NOTE_ID: 1640628549601
+:FC_CREATED: 2021-12-27T18:09:09Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |  12 |   312.39 | 2024-01-24T23:01:08Z |
+|        1 | 2.50 |   8 |   341.13 | 2024-01-14T02:40:50Z |
+:END:
+
+- {{Norm}@0}
+- {{Magnitude}@1}
+
+*** Source
+[cite:@NormMathematics2022]
+#+print_bibliography:

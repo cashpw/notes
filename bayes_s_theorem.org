@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       b07a1490-3847-4b65-80bb-17e3f4927cfb
+:ROAM_REFS: [cite:@BayesTheorem2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:14]
+:END:
+#+title: Bayes's theorem
+#+hugo_custom_front_matter: :slug "b07a1490-3847-4b65-80bb-17e3f4927cfb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-01 Fri 18:45]
+#+filetags: :has_todo:concept:
+
+$$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+
+
+* TODO [#2] Expand :noexport:
+- [cite:@yudkowskyIntuitiveExplanationBayesTheorem]
+- [cite:@explainedIntuitiveShortExplanationBayesTheorem]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       2483a116-0c05-465f-b04f-b3ec70faa793
+:ANKI_NOTE_ID: 1640627874922
+:FC_CREATED: 2021-12-27T17:57:54Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.45 |  17 |   150.31 | 2023-04-07T23:28:49Z |
+| front    | 2.65 |   8 |   402.16 | 2024-04-22T17:58:08Z |
+:END:
+
+[[id:b07a1490-3847-4b65-80bb-17e3f4927cfb][Bayes's theorem]]
+
+*** Back
+\(\operatorname{P}(M|D)\) \(=\) \(\frac{\operatorname{P}(D|M)\operatorname{P}(M)}{\operatorname{P}(D)}\)
+
+*** Source
+[cite:@BayesTheorem2022]
+
+** {{$\operatorname{P}(M|D)$}@0} \(=\) {{$\frac{\operatorname{P}(D|M)\operatorname{P}(M)}{\operatorname{P}(D)}$}@1} :fc:
+:PROPERTIES:
+:ID:       422b8895-47bf-4836-a118-23a31ee25248
+:ANKI_NOTE_ID: 1656854732177
+:FC_CREATED: 2022-07-03T13:25:32Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   280.98 | 2023-11-14T16:57:30Z |
+|        1 | 2.35 |   7 |   184.02 | 2023-08-02T03:08:52Z |
+:END:
+
+*** Source
+[cite:@BayesTheorem2022]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       72777399-7e61-4cca-ba79-b9ce3bb777ab
+:ANKI_NOTE_ID: 1640628545626
+:FC_CREATED: 2021-12-27T18:09:05Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  10 |   382.91 | 2024-03-17T12:47:52Z |
+|        1 | 2.80 |   6 |   113.57 | 2023-05-13T05:50:07Z |
+:END:
+
+- {{$\operatorname{P}(H|E)$}@0}
+- {{The posterior}@1}
+
+*** Source
+[cite:@BayesTheorem2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       12c03133-052c-4417-b722-03e7eb7cc7c5
+:ANKI_NOTE_ID: 1640628545326
+:FC_CREATED: 2021-12-27T18:09:05Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   9 |   241.23 | 2023-08-17T22:12:48Z |
+|        1 | 2.80 |   8 |   300.63 | 2023-10-31T07:42:42Z |
+:END:
+
+- {{$\operatorname{P}(M)$}@0}
+- {{The prior}@1}
+
+*** Source
+[cite:@BayesTheorem2022]
+#+print_bibliography:

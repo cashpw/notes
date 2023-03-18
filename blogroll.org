@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       30768696-732a-485c-8919-43aa5de3b516
+:LAST_MODIFIED: [2022-12-14 Wed 13:21]
+:END:
+#+title: Blogroll
+#+hugo_custom_front_matter: :slug "30768696-732a-485c-8919-43aa5de3b516"
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-30 Sun 11:59]
+#+filetags: :has_todo:
+
+A list of blogs I've found informative/useful/fun in no particular order:
+
+| Who          | Recommendations                                                  |
+|--------------+------------------------------------------------------------------|
+| [[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]]     | [[id:4625d068-26fe-47d7-93b3-da12b0151ca1][Attention Is Your Scarcest Resource]], [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Be Impatient]]                |
+| [[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]] | [[id:e7753777-506e-490e-b79e-59dede5dce2e][Senior Engineers Reduce Risk]], [[id:89af4069-9f38-4f2b-bdb4-491c2ae85a9c][Thought Leaders and Chicken Sexers]] |
+| [[id:034e5d64-198b-432c-bbba-d5936f92fe4f][Neel Nanda]]   | [[id:43e87bd7-89df-40b8-9c47-dc357c05fa63][Meaningful Rest]]                                                  |
+
+* TODO [#4] Expand :noexport:
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

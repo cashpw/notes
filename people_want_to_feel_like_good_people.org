@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       83f051d8-ecb7-4de1-ace1-42ef72a0edd4
+:LAST_MODIFIED: [2023-01-12 Thu 11:19]
+:END:
+#+title: People want to feel like good people
+#+hugo_custom_front_matter: :slug "83f051d8-ecb7-4de1-ace1-42ef72a0edd4"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 11:00]
+#+filetags: :has_todo:concept:
+* TODO [#3] Formalize
+
+There's probably something I can cite here. The gist is: people, on average, are good, genuine, and don't like doing bad things. It makes them feel bad. As a corolary, people want to think they're on the good side or are at least doing good things.
+
+** With regard to education as [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]]
+
+I thought of this phrasing while reading around [[id:8ecb934d-da88-40f4-851b-1fd5f2efd0ad][Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money]]. It may be true that formal education has a lot of [[id:064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4][X isn't (only) about Y]] going on. However, I don't think it could have scaled to its current size if everyone fully agreed with that position. While I recognize the political, social, career, etc, value of a college degree I also /like/ the idea of a college degree based on the [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]] -- education, friends, learning how to think, challenging yourself and growing and changing, etc. I don't think an industry as large as that of education could work if everyone thought "this is all [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]]" and yet carried on saying "it's about the learning". People don't like [[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]].
+
+And that includes the students! Based on my own experience, students want to learn. Maybe not everything taught -- we'll all gripe about the classes we have to take that we're not interested in -- but a lot of it!
+
+#+begin_quote
+About students who study the "useless" subjects like liberal arts mentioned is because, as anyone who has access to Google would know, those subjects get you consumption benefits (People like studying them), and they also get you access to jobs. Are students deluded about the purposes of their education? Not at all! They can honestly think that they study what they like, and that they also gain skills somewhat related to their future employment. A story like "I like History so I study it, plus learning History will help me gain a broad understanding of human nature, writing, critical analysis, etc, and this is useful for management or whatever" sounds like a plausible reason a History student would give.
+
+[cite:@riconThisReviewNotReviewingElephantBrain]
+#+end_quote
+
+* TODO [#3] Flashcards
+#+print_bibliography:

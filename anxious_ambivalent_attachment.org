@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       59ed8490-de7b-4a4e-a5d0-026ea3990d34
+:LAST_MODIFIED: [2022-12-14 Wed 13:50]
+:END:
+#+title: Anxious-ambivalent attachment
+#+hugo_custom_front_matter: :slug "59ed8490-de7b-4a4e-a5d0-026ea3990d34"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 11:44]
+#+filetags: :has_todo:concept:
+
+An [[id:5f944538-ef8c-464f-b2da-c0f973558eca][attachment]] pattern in which the child over-indexes on seeking comfort from their guardians and avoids risk.
+
+#+begin_quote
+In general, a child with an anxious-ambivalent pattern of attachment will typically explore little (in the Strange Situation) and is often wary of strangers, even when the parent is present. When the caregiver departs, the child is often highly distressed showing behaviours such as crying or screaming. The child is generally ambivalent when the caregiver returns. The anxious-ambivalent strategy is a response to unpredictably responsive caregiving, and the displays of anger (ambivalent resistant, C1) or helplessness (ambivalent passive, C2) towards the caregiver on reunion can be regarded as a conditional strategy for maintaining the availability of the caregiver by preemptively taking control of the interaction.
+
+[cite:@AttachmentTheory2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** TODO [#3] Describe :fc:suspended:
+:PROPERTIES:
+:ID:       11552c3d-bc82-4904-93a9-a91b58216d45
+:ANKI_NOTE_ID: 1656857056253
+:FC_CREATED: 2022-07-03T14:04:16Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   3 |     6.00 | 2022-11-28T02:08:49Z |
+| back     | 2.50 |   1 |     1.00 | 2022-11-18T14:50:42Z |
+:END:
+
+[[id:59ed8490-de7b-4a4e-a5d0-026ea3990d34][Anxious-ambivalent attachment]]
+
+*** Back
+An attachment pattern in which the child ...
+
+- will explore little and is wary of strangers even when the parent is present
+- is highly distressed when their caregiver departs (e.g. crying or screaming) and doesn't have a strong reaction when the caregiver returns
+*** Source
+[cite:@AttachmentTheory2022]
+#+print_bibliography:

@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       cf4068b9-bda6-49c1-812a-0314945c4425
+:ROAM_REFS: [cite:@Permutation2022]
+:LAST_MODIFIED: [2023-03-18 Sat 06:36]
+:END:
+#+title: Permutation
+#+hugo_custom_front_matter: :slug "cf4068b9-bda6-49c1-812a-0314945c4425"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-03 Fri 07:35]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a permutation of a set is, loosely speaking, an arrangement of its members into a sequence or linear order, or if the set is already ordered, a rearrangement of its elements. The word "permutation" also refers to the act or process of changing the linear order of an ordered set.
+
+Permutations differ from combinations [[[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]], which are selections of some members of a set regardless of order. For example, written as tuples, there are six permutations of the set {1, 2, 3}, namely (1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), and (3, 2, 1). These are all the possible orderings of this three-element set.
+
+[...]
+
+The number of permutations of n distinct objects is $n$ factorial, usually written as $n!$, which means the product of all positive integers less than or equal to $n$.
+
+[cite:@Permutation2022]
+#+end_quote
+
+Also see: [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]
+
+* Flashcards
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-03-12 Sun 05:30]
+:FC_CREATED: 2023-03-12T12:31:15Z
+:FC_TYPE:  normal
+:ID:       e8dd8a84-008e-40b6-a0bc-014a534deccc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-03-19T14:05:41Z |
+:END:
+
+[[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]] and [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
+
+*** Back
+- [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]: Order *doesn't* matter
+- [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]: Order *does* matter
+*** Source
+- [cite:@Permutation2022]
+- [cite:@Combination2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-12 Sun 05:32]
+:FC_CREATED: 2023-03-12T12:33:19Z
+:FC_TYPE:  double
+:ID:       7e511b0e-d596-40b9-b78a-ae74f55f3e79
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-24T13:36:38Z |
+| back     | 2.50 |   1 |     1.00 | 2023-03-18T14:09:03Z |
+:END:
+
+[[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
+
+*** Back
+An ordering of a set of elements.
+*** Source
+[cite:@Permutation2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-12 Sun 05:33]
+:FC_CREATED: 2023-03-12T12:34:00Z
+:FC_TYPE:  cloze
+:ID:       bdcb898d-c8cc-4848-8cd6-099d89947db4
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   3 |     6.00 | 2023-03-23T14:12:25Z |
+:END:
+
+There are {{$n!$}@0} permutations for a set of size $n$.
+
+*** Source
+[cite:@Permutation2022]
+#+print_bibliography:

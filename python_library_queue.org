@@ -1,0 +1,211 @@
+:PROPERTIES:
+:ID:       37b4cf4e-b716-4e46-a27f-dfb5fce06bc7
+:ROAM_ALIASES: "Python PriorityQueue"
+:LAST_MODIFIED: [2023-03-17 Fri 06:54]
+:ROAM_REFS: [cite:@QueueSynchronizedQueueClass]
+:END:
+#+title: Python library: queue
+#+hugo_custom_front_matter: :slug "37b4cf4e-b716-4e46-a27f-dfb5fce06bc7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-08 Wed 08:51]
+#+filetags: :concept:
+
+* [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
+#+begin_src python :results output
+from queue import Queue
+
+q = Queue()
+q.put('a')
+q.put('b')
+q.put('c')
+print(q.get())
+print(q.get())
+print(q.get())
+#+end_src
+
+#+RESULTS:
+: a
+: b
+: c
+
+* [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][LIFO]] [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
+#+begin_src python :results output
+from queue import LifoQueue
+
+q = LifoQueue()
+q.put('a')
+q.put('b')
+q.put('c')
+print(q.get())
+print(q.get())
+print(q.get())
+#+end_src
+
+#+RESULTS:
+: c
+: b
+: a
+
+* [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
+#+begin_src python :results output
+from queue import PriorityQueue
+
+# The default behavior is a min_queue
+min_queue = PriorityQueue()
+min_queue.put((5, 'f'))
+min_queue.put((2, 'h'))
+min_queue.put((3, 'a'))
+min_queue.put((4, 'c'))
+print(min_queue.get(), 'is (2, h)')
+print(min_queue.get(), 'is (3, a)')
+print(min_queue.get(), 'is (4, c)')
+print(min_queue.get(), 'is (5, f)')
+#+end_src
+
+#+RESULTS:
+: (2, 'h') is (2, h)
+: (3, 'a') is (3, a)
+: (4, 'c') is (4, c)
+: (5, 'f') is (5, f)
+
+** For max-heap
+:PROPERTIES:
+:ID:       8f35fd30-8502-413f-b3c9-c085423ae745
+:END:
+
+=PriorityQueue= uses a [[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap property]]. Flip the sign on the =priority= to get a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]]:
+
+#+begin_src python :results output
+from queue import PriorityQueue
+from dataclasses import dataclass, field
+from typing import Any
+
+min_queue = PriorityQueue()
+min_queue.put((1, ('a', 'b')))
+min_queue.put((-10, ('c', 'd')))
+min_queue.put((3, ('e', 'f')))
+min_queue.put((2, ('g', 'h')))
+print('min_queue:', min_queue.get(), 'is (-10, (c, d))')
+print('min_queue:', min_queue.get(), 'is (1, (a, b))')
+print('min_queue:', min_queue.get(), 'is (2, (g, h))')
+print('min_queue:', min_queue.get(), 'is (3, (e, f))')
+
+print()
+
+max_queue = PriorityQueue()
+max_queue.put((-1, ('a', 'b')))
+max_queue.put((10, ('c', 'd')))
+max_queue.put((-3, ('e', 'f')))
+max_queue.put((-2, ('g', 'h')))
+print('max_queue:', max_queue.get(), 'is (-3, (e, f))')
+print('max_queue:', max_queue.get(), 'is (-2, (g, h))')
+print('max_queue:', max_queue.get(), 'is (-1, (a, b))')
+print('max_queue:', max_queue.get(), 'is (10, (c, d))')
+#+end_src
+
+#+RESULTS:
+: min_queue: (-10, ('c', 'd')) is (-10, (c, d))
+: min_queue: (1, ('a', 'b')) is (1, (a, b))
+: min_queue: (2, ('g', 'h')) is (2, (g, h))
+: min_queue: (3, ('e', 'f')) is (3, (e, f))
+:
+: max_queue: (-3, ('e', 'f')) is (-3, (e, f))
+: max_queue: (-2, ('g', 'h')) is (-2, (g, h))
+: max_queue: (-1, ('a', 'b')) is (-1, (a, b))
+: max_queue: (10, ('c', 'd')) is (10, (c, d))
+
+You could also subclass =PriorityQueue=:
+
+#+begin_src python :results output
+from queue import PriorityQueue
+from typing import Tuple, Any
+
+class MinPriorityQueue(PriorityQueue):
+    pass
+
+class MaxPriorityQueue(PriorityQueue):
+    def put(self, item: Tuple[int, Any], *args, **kwargs):
+        return PriorityQueue.put(self, (item[0] * -1, item[1]), *args, **kwargs)
+
+    def get(self, *args, **kwargs):
+        priority, data = PriorityQueue.get(self, *args, **kwargs)
+        return -1 * priority, data
+
+max_queue = MaxPriorityQueue()
+max_queue.put((1, ('a', 'b')))
+max_queue.put((-10, ('c', 'd')))
+max_queue.put((3, ('e', 'f')))
+max_queue.put((2, ('g', 'h')))
+print('max_queue:', max_queue.get(), 'is (3, (e, f))')
+print('max_queue:', max_queue.get(), 'is (2, (g, h))')
+print('max_queue:', max_queue.get(), 'is (1, (a, b))')
+print('max_queue:', max_queue.get(), 'is (-10, (c, d))')
+#+end_src
+
+#+RESULTS:
+: max_queue: (3, ('e', 'f')) is (3, (e, f))
+: max_queue: (2, ('g', 'h')) is (2, (g, h))
+: max_queue: (1, ('a', 'b')) is (1, (a, b))
+: max_queue: (-10, ('c', 'd')) is (-10, (c, d))
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 09:19]
+:FC_CREATED: 2023-02-08T17:20:39Z
+:FC_TYPE:  cloze
+:ID:       537c6b38-1a8b-46e5-a724-553a0d1dacab
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    46.50 | 2023-04-27T12:16:43Z |
+:END:
+
+[[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]'s =PriorityQueue= uses a {{[[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap property]]}{[[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]}@0}.
+
+*** Source
+[cite:@QueueAbstractDataType2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-08 Wed 09:20]
+:FC_CREATED: 2023-02-08T17:22:34Z
+:FC_TYPE:  double
+:ID:       8c202cac-293e-4c57-a4bc-375b279e6b07
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    47.46 | 2023-04-30T01:55:57Z |
+| back     | 2.80 |   5 |    44.81 | 2023-05-01T09:19:19Z |
+:END:
+
+How to get [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]'s =PriorityQueue= to employ a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]].
+
+*** Back
+Flip the sign of the =priority= either (1) manually or (2) by subclassing =PriorityQueue= and overriding the =put= and =get= methods.
+*** Source
+[[id:37b4cf4e-b716-4e46-a27f-dfb5fce06bc7][Python library: queue]]
+** Implement :fc:implement:
+:PROPERTIES:
+:CREATED: [2023-02-15 Wed 08:06]
+:FC_CREATED: 2023-02-15T16:07:19Z
+:FC_TYPE:  normal
+:ID:       1a7e72f0-364d-43e1-bf58-fd9e761d4afc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-02-15T16:07:19Z |
+:END:
+
+=PriorityQueue= with a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]].
+
+*** Back
+[[id:8f35fd30-8502-413f-b3c9-c085423ae745][For max-heap]]
+*** Source
+[[id:8f35fd30-8502-413f-b3c9-c085423ae745][For max-heap]]
+
+#+print_bibliography:

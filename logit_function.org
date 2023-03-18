@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       d0545243-563c-4745-8efa-04c0508293e9
+:ROAM_REFS: [cite:@Logit2022]
+:LAST_MODIFIED: [2023-03-10 Fri 21:21]
+:END:
+#+title: Logit function
+#+hugo_custom_front_matter: :slug "d0545243-563c-4745-8efa-04c0508293e9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-23 Tue 08:42]
+#+filetags: :concept:
+
+$\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35b3][Inverse function]] of the [[id:a9bbc185-640a-4182-8bc8-ba43325f0c19][Standard logistic function]].
+
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logit.svg/2880px-Logit.svg.png @ 2023-01-27 05:32:52
+[[file:2023-01-27_05-32-52_2880px-Logit.svg.png]]
+
+[cite:@Logit2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 08:52]
+:FC_CREATED: 2022-11-25T17:01:08Z
+:FC_TYPE:  cloze
+:ID:       01cdc0ed-e468-48a8-b88c-9e98f5a87ab7
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    93.10 | 2023-05-16T19:57:57Z |
+|        1 | 1.30 |   4 |     7.43 | 2023-03-18T15:40:32Z |
+:END:
+
+{{$\operatorname{logit}$}{function}@0} $\overset{\Delta}{=}$ {{$\ln(\frac{x}{1-x}) \;|\; x \in [0, 1]$}{expression}@1}
+
+*** Source
+[cite:@Logit2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 08:52]
+:FC_CREATED: 2022-11-25T17:01:08Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       f21f054e-72fd-448d-a9cf-3cc412719198
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   100.29 | 2023-05-28T10:33:36Z |
+|        1 | 2.95 |   5 |    52.60 | 2023-03-23T09:59:08Z |
+:END:
+
+{{$\operatorname{logit}$}{function}@0} $\overset{\Delta}{=}$ {{$\operatorname{logistic}^{-1}$}{function}@1}
+
+*** Source
+[cite:@Logit2022]
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 05:33]
+:FC_CREATED: 2023-01-27T13:33:36Z
+:FC_TYPE:  double
+:ID:       b88d15e0-0941-481a-a843-ffe77916221d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    13.01 | 2023-03-23T03:38:44Z |
+| back     | 2.80 |   5 |    47.45 | 2023-04-25T05:11:55Z |
+:END:
+
+[[id:d0545243-563c-4745-8efa-04c0508293e9][Logit function]]
+
+*** Back
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logit.svg/2880px-Logit.svg.png @ 2023-01-27 05:32:52
+[[file:2023-01-27_05-32-52_2880px-Logit.svg.png]]
+#+end_quote
+*** Source
+[cite:@Logit2022]
+#+print_bibliography:

@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       c74e3129-38af-45f8-bd2b-8a6fa5a0cad0
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c74e3129-38af-45f8-bd2b-8a6fa5a0cad0
+:LAST_MODIFIED: [2023-01-12 Thu 10:24]
+:END:
+#+title: Document your work
+#+hugo_custom_front_matter: :slug "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
+#+filetags: :has_todo:concept:
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-29 Sat 14:37]
+
+* TODO [#4]
+- Documentation is good when, and only when, it is also discoverable
+- Your documentation is discoverable when it exists where your audience goes when they are looking for it
+  - Commit messages often not indexed in search engines (external or internal)
+  - Agree with "most" that including the raw error message is fantastic; increases precise searchability
+  - The commit message referenced in "most" is fantastic documentation (agree with all points made); however, it isn't as discoverable as it could be.
+    - Better to write the documentation in a more accessible place and link to it (or even copy/paste it so long as you also include the link) in the commit message
+  - Agree with "least" that commit messages are not the most discoverable place
+  - Agree with "least" that tests /are/ ([[id:dea093d4-ed58-42d7-b8a6-63acfa291676][S-tier]]) documentation
+- https://hackernoon.com/write-good-documentation-6caffb9082b4
+- https://www.variance.com/posts/6-rules-of-good-documentation
+- https://idratherbewriting.com/simplifying-complexity/discoverability-through-metadata.html
+- [cite:@ReadmeDrivenDevelopment]
+- Synthesize [[id:ffc0d2f1-9a41-4562-8625-a669a5110836][David Thompson | My Favourite Git Commit]] and [[id:89fb44ee-8994-4c6c-89db-bc210039a39b][Alexey Nikitin | My least favorite Git commit]]
+- Explicitly list the alternatives you considered and why you decided against them
+
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

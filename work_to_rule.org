@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       83d72898-e7df-48d7-9cbc-6c0f99096b2f
+:LAST_MODIFIED: [2023-02-07 Tue 14:50]
+:END:
+#+title: Work-to-rule
+#+hugo_custom_front_matter: :slug "83d72898-e7df-48d7-9cbc-6c0f99096b2f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-09 Mon 09:42]
+#+filetags: :concept:
+
+#+begin_quote
+Work-to-rule is a job action in which employees do no more than the minimum required by the rules of their contract or job, and strictly follow time-consuming rules normally not enforced. This may cause a slowdown or decrease in productivity if the employer does not hire enough employees or pay the appropriate salary and as such does not have the requirements needed to run at the level they desire. It is a form of protest against low pay and poor working conditions, and is considered less disruptive than a strike or lockout as obeying the rules is not susceptible to disciplinary action or loss of pay.
+
+[cite:@Worktorule2023]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 09:44]
+:FC_CREATED: 2023-01-09T17:45:44Z
+:FC_TYPE:  double
+:ID:       80186d52-7e82-4b9e-821e-4dd8afac05bc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    47.56 | 2023-03-26T08:21:20Z |
+| back     | 2.80 |   5 |    44.39 | 2023-03-24T08:05:34Z |
+:END:
+
+[[id:83d72898-e7df-48d7-9cbc-6c0f99096b2f][Work-to-rule]]
+
+*** Back
+A job action in which employees do no more than the minimum required by the rules of their contract or job and strictly follow potentially time-consuming rules which may not be normally enforced.
+*** Source
+[cite:@Worktorule2023]
+#+print_bibliography:

@@ -1,0 +1,132 @@
+:PROPERTIES:
+:ID:       68df1a7c-9c9f-42f1-b270-56ab4b51e214
+:ROAM_REFS: [cite:@Logarithm2022]
+:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:END:
+#+title: Logarithm
+#+hugo_custom_front_matter: :slug "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-07 Tue 09:46]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, the logarithm is the inverse function to exponentiation. That means the logarithm of a number $x$ to the base $b$ is the exponent to which $b$ must be raised, to produce $x$. For example, since $1000 = 10^3$, the logarithm base $10$ of $1000$ is $3$, or $\log_{10}(1000) = 3$. The logarithm of $x$ to base $b$ is denoted as $\log_b(x)$, or without parentheses, $\log_bx$, or even without the explicit base, $\log x$, when no confusion is possible, or when the base does not matter such as in big O notation [[[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big-O notation]]].
+
+[cite:@Logarithm2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:ID:       b2fbe270-a651-430c-92ba-f12413f456fa
+:ANKI_NOTE_ID: 1640628527199
+:FC_CREATED: 2021-12-27T18:08:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   419.74 | 2024-04-21T09:38:06Z |
+| back     | 2.80 |  10 |   326.77 | 2024-01-06T08:44:17Z |
+:END:
+
+$f(x) = \log_b(x)$
+
+*** Back
+- Defined over: $(0, \infty)$
+- $f(1)  = 0$
+- $f(b) = 1$
+- $\lim \limits_{x \to 0} f(x) = -\infty$
+- $\lim \limits_{x \to \infty} f(x) = \infty$
+*** Extra
+[[file:Logarithm_plots.png]]
+*** Source
+[cite:@Logarithm2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       92c49d5a-a1ae-4e36-a690-5bd7b35dcbb4
+:ANKI_NOTE_ID: 1640628570476
+:FC_CREATED: 2021-12-27T18:09:30Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   277.47 | 2023-11-11T08:43:44Z |
+|        1 | 2.65 |   7 |   140.78 | 2023-03-27T16:45:40Z |
+:END:
+
+- {{$\operatorname{ln}(x)$}@0}
+
+{{Natural logarithm of $x$; $\operatorname{log}_e(x)$}@1}
+
+*** Source
+[cite:@Logarithm2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       7f77358a-c97f-4742-8c0d-824ec0d82b2b
+:ANKI_NOTE_ID: 1640627873169
+:FC_CREATED: 2021-12-27T17:57:53Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   324.42 | 2024-02-03T01:20:01Z |
+| front    | 2.35 |   7 |   134.64 | 2023-03-22T06:18:35Z |
+:END:
+
+Logarithm
+
+*** Back
+The inverse function to exponation.
+
+$f(x) = y \;|\; b^y = x$
+
+[[file:log10.png]]
+*** Source
+[cite:@Logarithm2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       4c00137e-ff33-40c7-957d-457f7e921d58
+:ANKI_NOTE_ID: 1640627882722
+:FC_CREATED: 2021-12-27T17:58:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  10 |   288.10 | 2023-12-18T19:50:58Z |
+| front    | 2.65 |   8 |   193.51 | 2023-06-14T10:18:13Z |
+:END:
+
+Logarithm change of basis
+
+*** Back
+$\operatorname{log}_b(a) =$ $\frac{\operatorname{log}_c(a)}{\operatorname{log}_c(b)}$
+
+*** Source
+[cite:@Logarithm2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 09:50]
+:FC_CREATED: 2023-02-07T17:51:02Z
+:FC_TYPE:  double
+:ID:       1ef2b733-7305-46d5-8410-b8a78e296c8c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    50.14 | 2023-04-30T08:35:52Z |
+| back     | 2.65 |   5 |    41.17 | 2023-04-22T04:21:49Z |
+:END:
+
+$\log^cn$
+
+*** Back
+$(\log n)^c$
+*** Source
+
+#+print_bibliography:

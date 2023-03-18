@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@riconTalentReview]
+:ID:       0ba586d8-44d0-4f4f-a2cc-91330fbdefdc
+:LAST_MODIFIED: [2023-01-17 Tue 10:12]
+:END:
+#+title: Jose Luis Ricon | Talent: A Review
+#+hugo_custom_front_matter: :slug "0ba586d8-44d0-4f4f-a2cc-91330fbdefdc"
+#+author: Cash Weaver
+#+date: [2023-01-11 Wed 20:54]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@riconTalentReview]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

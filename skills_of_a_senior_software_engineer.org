@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
+:DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
+:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:END:
+#+title: Skills of a senior software engineer
+#+hugo_custom_front_matter: :slug "973e037c-6ae7-4c6a-abf8-57339feb49f9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 15:20]
+#+filetags: :has_todo:concept:
+
+A senior software engineer is an amorphous title. Companies will often use their own term, or invent further terms above or below "senior". The definition or requirements will be different for each person you ask.
+
+I've sought out common traits of "senior" roles and collected them here to help guide me as I try to [[id:d797ba44-b962-4d6e-9b71-38ca49d070ce][get good]]. I expect a majority of these traits are common for all senior roles --- software engineer or otherwise.
+
+* TODO [#2] Incorporate Sources; expand
+
+- [[id:e7753777-506e-490e-b79e-59dede5dce2e][Zach Tellman | Senior Engineers Reduce Risk]]
+- [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][John Allspaw | On Being A Senior Engineer]]
+- [[id:e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e][Kamran Ahmed | Levels of Seniority]]
+- [[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]]
+- [[id:7af2ca45-ca0d-452d-83b3-a700057009d7][Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?]]
+- [[https://www.lesswrong.com/posts/XWthiR3mg9FpSgd8m/becoming-a-staff-engineer][Becoming a Staff Engineer]]
+- Understand the flow of data through the system; 10,000 foot view
+- Understand the fundamental problems that your solution addresses
+  - Enables comprehension of which new features are important and when to prioritize X over Y
+  - Follow up question: How well does it address the problem, and could it be better?
+- Understands the distinction between 'done' and 'done-done'
+  - 'done'
+    - AKA code complete
+    - Not totally done. Done with one or more asterisk.
+  - 'done-done'
+    - Actually done
+    - All bugs/tickets closed or otherwise treated appropriately
+    - Documentation written
+    - Processes followed through to completion
+    - Retrospective performed
+    - Stakeholders informed
+    - Hacks fixed
+
+* TODO [#2] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

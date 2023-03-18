@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       c112d0b0-ceef-4a41-9dc8-013a31bd1f49
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c112d0b0-ceef-4a41-9dc8-013a31bd1f49
+:LAST_MODIFIED: [2023-02-15 Wed 19:14]
+:END:
+#+title: Lagging indicator
+#+hugo_custom_front_matter: :slug "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
+#+filetags: :reference:
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-28 Fri 08:07]
+
+#+begin_quote
+Lagging indicators are indicators that usually change after [a thing] as a whole does. [...] The unemployment rate is a lagging indicator: employment tends to increase two or three quarters after an upturn in [a thing].
+
+/[cite:@EconomicIndicator2021]/
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 08:49]
+:FC_CREATED: 2022-11-25T16:50:51Z
+:FC_TYPE:  double
+:ID:       f7a7c6db-fec5-434c-839e-b91f67ee9700
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |    95.14 | 2023-05-09T19:57:20Z |
+| back     | 2.80 |   6 |    96.82 | 2023-05-20T13:18:23Z |
+:END:
+
+[[id:c112d0b0-ceef-4a41-9dc8-013a31bd1f49][Lagging indicator]]
+
+*** Back
+A delayed measure of change.
+*** Source
+[cite:@EconomicIndicator2021]
+#+print_bibliography:

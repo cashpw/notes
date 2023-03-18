@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       78f46d61-571d-4e3f-912b-177c3fc9b205
+:LAST_MODIFIED: [2023-03-09 Thu 19:13]
+:END:
+#+title: The purpose of a system is what it does
+#+hugo_custom_front_matter: :slug "78f46d61-571d-4e3f-912b-177c3fc9b205"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-15 Tue 05:29]
+#+filetags: :concept:
+
+#+begin_quote
+The purpose of a [[id:c73b15fa-a2bc-48bc-8f3d-6edffc332da1][system]] is what it does (POSIWID) is a [[id:74c7b062-c946-4589-87ab-8dee95370b3b][systems thinking]] heuristic coined by [[id:115d4082-33fc-4125-a49f-52fd84f8f8b3][Stafford Beer]], who observed that there is "no point in claiming that the purpose of a system is to do what it constantly fails to do." The term is widely used by systems theorists, and is generally invoked to counter the notion that the purpose of a system can be read from the intentions of those who design, operate, or promote it. When a system's side effects or unintended consequences reveal that its behavior is poorly understood, then the POSIWID perspective can balance political understandings of system behavior with a more straightforwardly descriptive view.
+
+[cite:@PurposeSystemWhatItDoes2022]
+#+end_quote
+
+Related: [[id:9aade3e8-6ddb-475d-b31f-6e5dccee15a3][Duck test]]
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-16 Wed 09:39]
+:FC_CREATED: 2022-11-16T17:42:00Z
+:FC_TYPE:  double
+:ID:       40d1aabd-d196-4e76-b922-7d41b357239a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    96.29 | 2023-05-14T01:49:05Z |
+| back     | 2.65 |   6 |   102.82 | 2023-06-20T22:52:55Z |
+:END:
+
+[[id:78f46d61-571d-4e3f-912b-177c3fc9b205][The purpose of a system is what it does]]
+
+*** Back
+- [[id:9aade3e8-6ddb-475d-b31f-6e5dccee15a3][Duck test]]
+- There's no point in claiming the purpose of a system is something it constantly fails to do
+*** Source
+[cite:@PurposeSystemWhatItDoes2022]
+#+print_bibliography:

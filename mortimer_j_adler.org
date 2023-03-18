@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       575a40fb-8d8e-4946-8f21-c3dcaafbfcc3
+:LAST_MODIFIED: [2022-12-24 Sat 09:18]
+:END:
+#+title: Mortimer J Adler
+#+hugo_custom_front_matter: :slug "575a40fb-8d8e-4946-8f21-c3dcaafbfcc3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:17]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       1f02985f-63d9-42be-a0a1-2351ab0ff1dc
+:ANKI_NOTE_ID: 1640627804522
+:FC_CREATED: 2021-12-27T17:56:44Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   286.30 | 2023-09-29T00:56:33Z |
+:END:
+
+[[id:575a40fb-8d8e-4946-8f21-c3dcaafbfcc3][Mortimer J Adler]]
+
+*** Back
+[[id:52512c4c-d011-4cca-afd5-87db8442f9c3][How to Read a Book]]

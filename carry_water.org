@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       9237be48-e1c7-4dd7-b473-a8a92dd5f6fc
+:LAST_MODIFIED: [2023-03-17 Fri 07:09]
+:END:
+#+title: Carry water
+#+hugo_custom_front_matter: :slug "9237be48-e1c7-4dd7-b473-a8a92dd5f6fc"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 11:35]
+#+filetags: :concept:
+
+#+begin_quote
+To perform menial tasks for; to serve; to assist; to be forced by politics or pragmatism to endorse or promote a belief, individual, or organization that in reality one does not fully support.
+
+[cite:@CarryWater2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       49fd8046-72fa-4f22-96d2-fa987c7dd38a
+:ANKI_NOTE_ID: 1658608870681
+:FC_CREATED: 2022-07-23T20:41:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   156.78 | 2023-05-27T09:40:16Z |
+| front    | 2.50 |   6 |    98.65 | 2023-06-24T05:48:09Z |
+:END:
+[[id:9237be48-e1c7-4dd7-b473-a8a92dd5f6fc][Carry water]]
+*** Back
+- To perform menial tasks for
+- To be forced by politics or pragmatism to endorse or promote a thing that one does not fully support.
+*** Source
+[cite:@CarryWater2021]
+#+print_bibliography:

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       d46b30b9-7aca-4b2b-8d08-bd22bdb63394
+:ROAM_REFS: [cite:@ConwayLaw2022]
+:LAST_MODIFIED: [2023-03-10 Fri 21:25]
+:END:
+#+title: Conway's law
+#+hugo_custom_front_matter: :slug "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-06 Mon 19:58]
+#+filetags: :concept:
+
+#+begin_quote
+Conway's law is an adage that states organizations design systems that mirror their own communication structure. It is named after the computer programmer Melvin Conway, who introduced the idea in 1967. His original wording was:
+
+Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+— Melvin E. Conway
+
+The law is based on the reasoning that in order for a product to function, the authors and designers of its component parts must communicate with each other in order to ensure compatibility between the components. Therefore, the technical structure of a system will reflect the social boundaries of the organizations that produced it, across which communication is more difficult. In colloquial terms, it means complex products end up "shaped like" the organizational structure they are designed in or designed for. The law is applied primarily in the field of software architecture, though Conway directed it more broadly and its assumptions and conclusions apply to most technical fields.
+
+[cite:@ConwayLaw2022]
+#+end_quote
+
+#+begin_quote
+#+DOWNLOADED: https://ardalis.com/static/4560ab6ef4633a6ec46c5a193b65938c/c5cc7/2011.06.27_organizational_charts.png @ 2023-02-06 19:59:51
+[[file:2023-02-06_19-59-51_2011.06.27_organizational_charts.png]]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-06 Mon 20:01]
+:FC_CREATED: 2023-02-07T04:02:19Z
+:FC_TYPE:  double
+:ID:       878e3c4a-7549-49a5-b0ca-b426098d69f6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    48.84 | 2023-04-27T23:11:06Z |
+| back     | 2.35 |   5 |    32.46 | 2023-04-12T16:34:32Z |
+:END:
+
+[[id:d46b30b9-7aca-4b2b-8d08-bd22bdb63394][Conway's law]]
+
+*** Back
+Systems mirror the communication structures of the organizations which design them.
+*** Source
+[cite:@ConwayLaw2022]
+#+print_bibliography:

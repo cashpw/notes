@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       69b3ebf4-c54d-424b-9479-e06e7c905433
+:ROAM_REFS: [cite:@SurjectiveFunction2022]
+:LAST_MODIFIED: [2023-02-23 Thu 19:44]
+:END:
+#+title: Surjective function
+#+hugo_custom_front_matter: :slug "69b3ebf4-c54d-424b-9479-e06e7c905433"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-20 Sat 06:43]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a surjective function (also known as surjection, or onto function) is a function f that maps an element x to every element y; that is, for every y, there is an x such that f(x) = y. In other words, every element of the function's codomain is the image of at least one element of its domain. It is not required that x be unique; the function f may map one or more elements of X to the same element of Y.
+
+[cite:@SurjectiveFunction2022]
+#+end_quote
+
+[[file:180px-Surjection.svg.png]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Image :fc:
+:PROPERTIES:
+:ID:       de8006d3-10c2-4135-a310-89892f199d43
+:ANKI_NOTE_ID: 1655820614836
+:FC_CREATED: 2022-06-21T14:10:14Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   185.78 | 2023-06-04T12:40:11Z |
+| back     | 2.30 |   6 |    77.21 | 2023-04-05T20:37:27Z |
+:END:
+
+[[id:69b3ebf4-c54d-424b-9479-e06e7c905433][Surjective function]]
+
+*** Back
+[[file:180px-Surjection.svg.png]]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       477d12dd-82f8-4efc-aacc-2bf5457533da
+:ANKI_NOTE_ID: 1640628538500
+:FC_CREATED: 2021-12-27T18:08:58Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   8 |   266.82 | 2023-11-17T23:24:21Z |
+|        1 | 2.65 |   9 |   146.64 | 2023-03-22T06:52:00Z |
+:END:
+
+- {{[[id:69b3ebf4-c54d-424b-9479-e06e7c905433][Surjective function]]}@0}
+- {{An "onto" function}@1}
+
+*** Source
+[cite:@SurjectiveFunction2022]
+
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       6698df88-24b8-40a1-99f3-5fc1555b1591
+:ANKI_NOTE_ID: 1640627860345
+:FC_CREATED: 2021-12-27T17:57:40Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.55 |   7 |    51.68 | 2023-03-27T08:44:18Z |
+| front    | 2.65 |   9 |   146.19 | 2023-04-10T19:05:50Z |
+:END:
+
+[[id:69b3ebf4-c54d-424b-9479-e06e7c905433][Surjective function]]
+
+*** Back
+A function whose image and codomain are equal.
+*** Extra
+[[file:180px-Surjection.svg.png]]
+
+\(f: X \to Y; \; f(x) = y \; \forall \; y \in Y \; | \; x \in X\)
+
+*** Source
+[cite:@SurjectiveFunction2022]
+#+print_bibliography:

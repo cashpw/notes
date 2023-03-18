@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       94518754-f455-406d-a67b-bc01f214a272
+:LAST_MODIFIED: [2023-03-15 Wed 08:11]
+:ROAM_REFS: [cite:@GoodhartLaw2022]
+:END:
+#+title: Goodhart's law
+#+hugo_custom_front_matter: :slug "94518754-f455-406d-a67b-bc01f214a272"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-29 Tue 10:05]
+#+filetags: :concept:
+
+#+begin_quote
+Goodhart's law is an adage often stated as: "When a measure becomes a target, it ceases to be a good measure."
+
+[cite:@GoodhartLaw2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-29 Tue 10:05]
+:FC_CREATED: 2022-11-29T18:06:29Z
+:FC_TYPE:  double
+:ID:       4e069c95-db24-4871-9e14-e36a9281d772
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   5 |    26.33 | 2023-04-10T23:13:16Z |
+| back     | 2.50 |   6 |   100.27 | 2023-06-05T10:21:03Z |
+:END:
+
+[[id:94518754-f455-406d-a67b-bc01f214a272][Goodhart's law]]
+
+*** Back
+When a measure becomes a target it ceases to be a good measure.
+*** Source
+[cite:@GoodhartLaw2022]
+#+print_bibliography:

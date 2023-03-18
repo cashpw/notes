@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       bc7c3e81-4498-43dd-9f65-b2c0e0cbf521
+:ROAM_REFS: [cite:@SymmetricRelation2022]
+:LAST_MODIFIED: [2023-03-11 Sat 16:33]
+:END:
+#+title: Symmetric relation
+#+hugo_custom_front_matter: :slug "bc7c3e81-4498-43dd-9f65-b2c0e0cbf521"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-06 Tue 07:00]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Formally, a binary relation R over a set X is symmetric if: $\forall a,b \in X(aRb \iff bRa)$.
+
+[cite:@SymmetricRelation2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       64ae91b5-78a0-4d93-8339-3cfd3c502dd4
+:ANKI_NOTE_ID: 1640627861572
+:FC_CREATED: 2021-12-27T17:57:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   374.75 | 2024-03-19T23:23:47Z |
+| front    | 2.30 |   7 |   177.24 | 2023-09-05T06:14:15Z |
+:END:
+
+[[id:bc7c3e81-4498-43dd-9f65-b2c0e0cbf521][Symmetric relation]]
+
+*** Back
+A binary relation, $R$, over a set, $X$ which is equal to its converse, $R^T$.
+
+*** Extra
+Formally: $(a \, R \, b \iff b \, R \, a) \; \forall \; a, b \in X$
+
+*** TODO [#4] Source
+https://en.wikipedia.org/wiki/Symmetric_relation
+#+print_bibliography:

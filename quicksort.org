@@ -1,0 +1,349 @@
+:PROPERTIES:
+:ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
+:LAST_MODIFIED: [2023-03-04 Sat 07:06]
+:END:
+#+title: Quicksort
+#+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-30 Thu 13:45]
+#+filetags: :concept:
+
+#+begin_quote
+Quicksort is an in-place [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]]. [...] It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+
+[cite:@Quicksort2022]
+#+end_quote
+
+Quicksort is:
+
+- [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
+- [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
+
+* Algorithm
+
+This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.
+
+#+begin_src
+procedure f(lowIndex, highIndex, list) is
+  if lowIndex >= highIndex || lowIndex < 0 then
+    return
+
+  pivotIndex = partition(0, len(list))
+
+  f(0, pivotIndex-1, list)
+  f(pivotIndex+1, len(list), list)
+
+procedure partition(lowIndex, highIndex, list) is
+  pivotIndex = highIndex
+
+  i = lowIndex - 1
+  for j from lowIndex to highIndex - 1 do
+    if list[j] <= list[pivotIndex] then
+      i += 1
+      swap list[i] and list[j]
+  i += 1
+  swap list[i] and list[pivotIndex]
+  return i
+#+end_src
+
+* Implementation
+
+- [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
+* Complexity
+
+|       | Worst-case     | Average-case        | Best-case                          |
+|-------+----------------+---------------------+------------------------------------|
+| Time  | \(\bigo{n^2}\) | \(\bigo{n \log n}\) | \(\bigo{n \operatorname{log}(n)}\) |
+| Space | \(\bigo{n}\)   |                     | \(\bigo{n}\)                       |
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Algorithm :fc:
+:PROPERTIES:
+:ID:       5c298d12-be0f-4a7f-b4b7-210b4d1a1565
+:ANKI_NOTE_ID: 1656857291434
+:FC_CREATED: 2022-07-03T14:08:11Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   282.75 | 2023-11-16T15:42:56Z |
+|        1 | 2.35 |   7 |   118.90 | 2023-05-06T12:58:00Z |
+|        2 | 2.65 |   6 |   105.56 | 2023-04-05T05:11:08Z |
+|        3 | 2.80 |   6 |   120.03 | 2023-05-30T03:19:05Z |
+:END:
+
+{{[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}@0}
+
+1. {{Pick a pivot point}@1}
+2. {{Partition around the point}@2}
+3. {{Recursively invoke ... on both sides of the pivot}@3}
+
+*** Source
+[cite:@Quicksort2022]
+** Cloze :fc:
+:PROPERTIES:
+:ID:       601eeac9-171f-4ab3-87e2-9406ff13c687
+:ANKI_NOTE_ID: 1662559663644
+:FC_CREATED: 2022-09-07T14:07:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   134.34 | 2023-05-28T01:00:19Z |
+:END:
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function initializes =i= to ={{low_index - 1}@0}=
+*** Extra
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       ebba8fe5-6053-43b9-91bf-e5fffb8f433d
+:ANKI_NOTE_ID: 1662559664195
+:FC_CREATED: 2022-09-07T14:07:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   118.54 | 2023-05-14T05:18:04Z |
+:END:
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function iterates =j= from ={{range(low_index, high_index)}@0}=
+*** Extra
+*** Source
+[[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
+
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-05 Sat 09:52]
+:FC_CREATED: 2022-11-05T16:53:26Z
+:FC_TYPE:  cloze
+:ID:       8f38ab1a-5d0b-47cb-90a8-513d1c06c950
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    71.95 | 2023-03-23T14:29:02Z |
+:END:
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= conditionally swaps elements at ={{i and j}@0}=
+*** Source
+[cite:@Quicksort2022]
+
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-05 Sat 09:52]
+:FC_CREATED: 2022-11-05T16:53:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       8f518b8a-251f-4202-98ca-479b05dac636
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    72.23 | 2023-03-21T20:30:32Z |
+:END:
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= compares elements at ={{j and pivot_index}@0}=
+*** Source
+[cite:@Quicksort2022]
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       88121e95-82ff-4723-bc11-85bc5b4fed43
+:ANKI_NOTE_ID: 1656857293907
+:FC_CREATED: 2022-07-03T14:08:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   112.92 | 2023-05-14T12:17:41Z |
+| back     | 2.50 |   6 |   102.25 | 2023-04-27T00:27:18Z |
+:END:
+
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+
+*** Back
+A divide-and-conquer sorting algorithm which recursively sorts a list by selecting a pivot element and arranging the (sub)list such that all elements in front of the pivot are less than or equal to the pivot.
+
+- [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
+- [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
+
+|       | Worst-case     | Average-case        | Best-case                          |
+|-------+----------------+---------------------+------------------------------------|
+| Time  | \(\bigo{n^2}\) | \(\bigo{n \log n}\) | \(\bigo{n \operatorname{log}(n)}\) |
+| Space | \(\bigo{n}\)   |                     | \(\bigo{n}\)                       |
+*** Source
+[cite:@Quicksort2022]
+
+** Describe :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-07-03T14:08:13Z
+:FC_TYPE:  normal
+:ID:       4302396f-17f3-484c-8a1d-cfee52139e45
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    81.39 | 2023-04-26T01:04:40Z |
+:END:
+
+Implementation of [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+
+*** Back
+#+begin_src python :results output
+def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: int, high_index: int) -> int:
+    """Sorts sublist into [{<= pivot}, pivot, {> than pivot}]"""
+    pivot_index = high_index
+    i = low_index - 1
+
+    for j in range(low_index, high_index):
+        if comparator(items[j], items[pivot_index]) > 0:
+            i += 1
+            swap(items, i, j)
+    i += 1
+    swap(items, i, pivot_index)
+
+    return i
+#+end_src
+*** Source
+[cite:@Quicksort2022]
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       2721d0a2-b4dc-48b9-af75-571f602a068f
+:ANKI_NOTE_ID: 1656857294333
+:FC_CREATED: 2022-07-03T14:08:14Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        3 | 2.80 |   7 |   269.84 | 2023-11-04T18:57:16Z |
+|        2 | 2.65 |   7 |   262.00 | 2023-10-23T16:34:45Z |
+|        1 | 2.50 |   7 |   229.61 | 2023-09-29T05:54:53Z |
+|        0 | 2.50 |   7 |   234.06 | 2023-10-09T16:28:07Z |
+:END:
+{{[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}@0}'s implementation is composed of: {{partition}{function}@1}, {{inner}{function}@2}, and {{swap}{function}@3}
+*** Extra
+*** Source
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       a50c60d6-ebc2-4e3b-beb3-f4b085775437
+:ANKI_NOTE_ID: 1656857294459
+:FC_CREATED: 2022-07-03T14:08:14Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.20 |   7 |   178.85 | 2023-07-23T13:07:32Z |
+|        0 | 2.65 |   7 |   164.18 | 2023-04-30T20:29:30Z |
+:END:
+{{[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}@0}'s implementation is composed of: {{partition, inner, and swap}{functions}@1}
+*** Extra
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       82613dda-2705-4bf4-a808-f9dbff8b0425
+:ANKI_NOTE_ID: 1656857295357
+:FC_CREATED: 2022-07-03T14:08:15Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    72.35 | 2023-04-13T00:39:17Z |
+:END:
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] average time complexity is {{$O(n \log n)$}@0}
+*** Extra
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       4ca2ff4b-d186-406f-8aaa-430ed8b00adf
+:ANKI_NOTE_ID: 1656857296206
+:FC_CREATED: 2022-07-03T14:08:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   146.46 | 2023-05-25T05:42:19Z |
+:END:
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] space complexity is {{$O(n)$}@0}
+
+*** Extra
+
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       a158d5d2-5a09-4bd7-b395-45956c2c507a
+:ANKI_NOTE_ID: 1656857296859
+:FC_CREATED: 2022-07-03T14:08:16Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   9 |   290.38 | 2023-12-20T00:16:05Z |
+:END:
+
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{[[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable]]}{stability}@0}
+
+*** Source
+[cite:@Quicksort2022]
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       bcf12b00-e220-4d55-b23b-b548170b1a2c
+:ANKI_NOTE_ID: 1656857298034
+:FC_CREATED: 2022-07-03T14:08:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   7 |   126.03 | 2023-05-04T19:21:41Z |
+:END:
+
+[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{[[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]}{memory}@0}
+
+*** Source
+[cite:@Quicksort2022]
+:PROPERTIES:
+:CREATED: [2022-11-05 Sat 09:51]
+:END:
+#+print_bibliography:

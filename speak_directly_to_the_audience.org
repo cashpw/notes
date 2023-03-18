@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       246566c2-5b4b-479a-9e1d-522fd85903d9
+:ROAM_ALIASES: "Speak past your opponent"
+:LAST_MODIFIED: [2023-02-08 Wed 10:44]
+:END:
+#+title: Speak directly to the audience
+#+hugo_custom_front_matter: :slug "246566c2-5b4b-479a-9e1d-522fd85903d9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-25 Sat 18:07]
+#+filetags: :concept:
+
+Consider a public argument between two individuals. There are three participants: the two individuals and the audience around them -- the public. It can be easier to win the argument, for some definitions of win, to speak past the person you're arguing with and instead talk directly to the audience; [[id:a6d989de-a309-479e-91ab-9327b8fdf874][ignore them altogether]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       5c5c59aa-cbc0-4fed-8517-f8ad003d503c
+:ANKI_NOTE_ID: 1656856805258
+:FC_CREATED: 2022-07-03T14:00:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   180.29 | 2023-07-07T22:31:48Z |
+| back     | 2.50 |   7 |   229.65 | 2023-09-26T10:24:27Z |
+:END:
+[[id:246566c2-5b4b-479a-9e1d-522fd85903d9][Speak directly to the audience]]
+*** Back
+A technique which re-frames a discussion between yourself and another group to a discussion between yourself and the audience watching the first discussion. Implicitly redefines the goal of the original discussion from "Convince the person I'm arguing with of something" to "Convince the audience watching us of something", which is often a more correct goal than the former.
+

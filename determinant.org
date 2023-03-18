@@ -1,0 +1,204 @@
+:PROPERTIES:
+:ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
+:ROAM_REFS: [cite:@Determinant2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:06]
+:END:
+#+title: Determinant
+#+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-29 Fri 07:35]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, the determinant is a scalar value that is a function of the entries of a [[id:09208dbb-8043-4ef2-ac56-be944afb1dfa][Square matrix]]. It allows characterizing some properties of the [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] and the linear map represented by the matrix. In particular, the determinant is nonzero if and only if the matrix is [an [[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Invertible matrix]]] and the linear map represented by the matrix is an isomorphism. The determinant of a product of matrices is the product of their determinants (the preceding property is a corollary of this one). The determinant of a matrix A is denoted $\determinant{A}$, $\operatorname{det} A$, or $|A|$.
+
+[cite:@Determinant2022]
+#+end_quote
+
+* $\determinant{A_{2 \times 2}}$
+
+$$\determinant{\begin{bmatrix}a & b \\ c & d\end{bmatrix}} = ad - bc$$
+
+* $\determinant{A_{3 \times 3}}$
+
+$$\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}} = a \determinant{\begin{bmatrix}e & f \\ h & i\end{bmatrix}} - b \determinant{\begin{bmatrix}d & f \\ g & i\end{bmatrix}} + c \determinant{\begin{bmatrix}d & e \\ g & h\end{bmatrix}}$$
+
+#+begin_quote
+Each determinant of a $2 \times 2$ matrix in this equation is called a minor of the matrix $A$. This procedure can be extended to give a recursive definition for the determinant of an $n \times n$ matrix, known as Laplace expansion.
+
+[cite:@Determinant2022]
+#+end_quote
+
+* Geometric meaning
+
+The absolute value of $\determinant{A}$ represents the factor by which $A$ scales areas.
+
+* Properties
+
+- The determinant of a matrix composed of linearly dependent row-vectors or column vectors is 0
+- $\operatorname{det}(I) = 1$
+- $\operatorname{det}(\begin{bmatrix}a & . & .\\ b & . & . \\ c & . & . \end{bmatrix}) = x\), \(\operatorname{det}(\begin{bmatrix}ra & . & .\\ rb & . & . \\ rc & . & . \end{bmatrix}) = rx$
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       8a17a4eb-fe0f-4a97-9854-fc7a9c43601d
+:ANKI_NOTE_ID: 1640628567073
+:FC_CREATED: 2021-12-27T18:09:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   183.39 | 2023-05-09T07:21:40Z |
+|        2 | 2.80 |   6 |   115.28 | 2023-05-20T23:27:27Z |
+|        1 | 2.65 |   7 |   128.09 | 2023-03-22T17:50:33Z |
+:END:
+- {{$\determinant{M}$}@0}
+- {{$|M|$}@2}
+
+{{The determinant of the matrix $M$}@1}
+*** Source
+[cite:@Determinant2022]
+** Algorithm :fc:
+:PROPERTIES:
+:ID:       fe9f4182-b7cf-4452-a76c-99c513d2b78c
+:ANKI_NOTE_ID: 1658691144680
+:FC_CREATED: 2022-07-24T19:32:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    81.97 | 2023-03-22T16:11:34Z |
+| back     | 2.50 |   7 |   246.00 | 2023-10-03T02:24:48Z |
+:END:
+
+Calculate [[id:dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2][Determinant]] of a matrix, $A_{n \times m}$, using Gaussian elimination
+
+*** Back
+1. Reduce $A$ to row echelon form, $B$, using gaussian elimination. Keep track of the number of row swaps and the scaling factors used.
+1. $\begin{aligned} \determinant{A} &= -1 * \text{number of row swaps} \\ & * \text{product of B's main diagonal}\\ & * \text{product of scaling factors} \\ &= -1^r(\prod{\operatorname{diag}(B)})(\prod s) \end{aligned}$
+*** Source
+[cite:@Determinant2022]
+
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-09-27 Tue 10:53]
+:FC_CREATED: 2022-09-27T17:53:12Z
+:FC_TYPE:  cloze
+:ID:       356b437a-e2fb-4895-b227-8644b2b169e6
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   135.11 | 2023-06-12T19:17:39Z |
+:END:
+
+- $\determinant{\begin{bmatrix}a & b \\ c & d\end{bmatrix}}$ $=$ {{$ad - bc$}@0}
+
+*** Source
+[cite:@Determinant2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-09-27 Tue 10:54]
+:FC_CREATED: 2022-09-27T17:55:26Z
+:FC_TYPE:  cloze
+:ID:       47356512-4bf7-4e14-9900-a7962c87bb6a
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    85.13 | 2023-06-01T21:47:50Z |
+:END:
+
+$\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $=$ {{$a \determinant{\begin{bmatrix}e & f \\ h & i\end{bmatrix}}$ $-$ $b \determinant{\begin{bmatrix}d & f \\ g & i\end{bmatrix}}$ $+$ $c \determinant{\begin{bmatrix}d & e \\ g & h\end{bmatrix}}$}@0}
+
+*** Source
+[cite:@Determinant2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-09-27 Tue 11:02]
+:FC_CREATED: 2022-09-27T18:03:13Z
+:FC_TYPE:  cloze
+:ID:       ece77ec6-1f71-471b-a823-d1ebf1f6c0cc
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    88.22 | 2023-04-01T21:47:20Z |
+:END:
+
+- $\determinant{I}$ $=$ {{$1$}@0}
+
+*** Source
+[cite:@Determinant2022]
+** Cloze :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-12-22T15:56:51Z
+:FC_TYPE:  cloze
+:ID:       a067f9d2-4858-4dc3-aa58-ff276e70ad93
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   133.92 | 2023-05-06T11:57:37Z |
+|        1 | 1.90 |   6 |    51.25 | 2023-03-22T22:21:44Z |
+:END:
+
+{{$|\operatorname{det}(A)|$}@0} represents {{the factor by which $A$ scales areas/volumes}{geometric}@1}.
+*** Source
+[cite:@Determinant2022]
+
+** $\determinant{A}$ {{$\neq$}@1} $0$ $\iff$ {{$A$ is an [[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][non-singular]]}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-09-27 Tue 11:09]
+:FC_CREATED: 2022-09-27T18:12:45Z
+:FC_TYPE:  cloze
+:ID:       a3063c89-200d-402c-85cb-83de063de9cb
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   6 |   132.83 | 2023-06-10T12:34:11Z |
+|        0 | 1.90 |   7 |    94.04 | 2023-06-17T16:09:55Z |
+:END:
+
+*** Source
+[cite:@Determinant2022]
+** $\determinant{A}$ {{$=$}@1} $0$ $\iff$ {{$A$ is [[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][singular]]}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-09-27 Tue 11:12]
+:FC_CREATED: 2022-09-27T18:13:28Z
+:FC_TYPE:  cloze
+:ID:       df11f2cf-bf6c-4bd2-805c-1bd646483e70
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.20 |   7 |   133.08 | 2023-07-28T16:03:23Z |
+|        0 | 2.80 |   6 |   107.01 | 2023-06-02T04:52:00Z |
+:END:
+
+*** Source
+[cite:@Determinant2022]
+#+print_bibliography:

@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       cbd532d2-7ec0-4710-ba42-54212961b1c3
+:LAST_MODIFIED: [2023-03-13 Mon 08:03]
+:END:
+#+title: Monomial
+#+hugo_custom_front_matter: :slug "cbd532d2-7ec0-4710-ba42-54212961b1c3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 10:38]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a monomial is, roughly speaking, a polynomial [[[id:b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de][Polynomial]]] which has only one term. Two definitions of a monomial may be encountered:
+
+1. A monomial, also called *power product*, is a product of powers of variables with nonnegative integer exponents, or, in other words, a product of variables, possibly with repetitions. For example, $x^{2}yz^{3}$ is a monomial.
+2. A monomial is a monomial in the first sense multiplied by a nonzero constant, called the coefficient of the monomial.
+
+[cite:@Monomial2022]
+#+end_quote
+
+* Flashcards
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       21daac8f-1a65-413e-b3de-b237a7d59e5f
+:ANKI_NOTE_ID: 1640627854473
+:FC_CREATED: 2021-12-27T17:57:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   154.13 | 2023-04-01T19:43:49Z |
+| front    | 2.20 |   7 |   151.97 | 2023-08-12T14:15:54Z |
+:END:
+
+Monomial
+
+*** Back
+A product of powers of variables with nonnegative integer exponents multiplied by a nonzero constant.
+
+*** Extra
+eg: $x$, $2y^2$, $\frac{1}{2}x^2{y}$
+
+*** Source
+[cite:@Monomial2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       e67edfcd-dba0-457c-8068-a0070823ab37
+:ANKI_NOTE_ID: 1640628535952
+:FC_CREATED: 2021-12-27T18:08:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   197.32 | 2023-06-14T23:40:11Z |
+|        1 | 2.65 |   8 |   351.70 | 2024-02-24T19:50:59Z |
+:END:
+
+- {{Monomial}@0}
+- {{Power product}@1}
+
+*** Source
+[cite:@DegreePolynomial2022]
+#+print_bibliography:

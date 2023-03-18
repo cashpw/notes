@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       b5c17ad0-3857-4800-90be-8e79e72897ab
+:LAST_MODIFIED: [2023-02-08 Wed 10:15]
+:END:
+#+title: Hash function
+#+hugo_custom_front_matter: :slug "b5c17ad0-3857-4800-90be-8e79e72897ab"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 16:13]
+#+filetags: :concept:
+
+#+begin_quote
+A hash function is any function that can be used to map data of arbitrary size to fixed-size values.
+
+[cite:@HashFunction2022]
+#+end_quote
+
+[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]] use hash functions to relate =keys= to a position in an array of buckets/slots holding the =values=.
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       baf175aa-8bc0-402c-a2a3-3141b0c1d3c7
+:ANKI_NOTE_ID: 1656857352707
+:FC_CREATED: 2022-07-03T14:09:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   6 |   165.01 | 2023-07-12T16:40:29Z |
+| front    | 2.95 |   6 |   151.63 | 2023-07-10T09:19:28Z |
+:END:
+[[id:b5c17ad0-3857-4800-90be-8e79e72897ab][Hash function]]
+*** Back
+A function that maps data of an arbitrary size to fixed-size values.
+*** Source
+[cite:@HashFunction2022]
+#+print_bibliography:

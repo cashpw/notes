@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       14876c69-a161-4b59-976a-d659cfe9435c
+:LAST_MODIFIED: [2023-02-07 Tue 14:43]
+:END:
+#+title: Balanced binary tree
+#+hugo_custom_front_matter: :slug "14876c69-a161-4b59-976a-d659cfe9435c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A balanced binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Balanced binary tree
+[[file:balanced-binary-tree.png]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       d88234e9-4782-477a-b375-b91d9d1526af
+:ANKI_NOTE_ID: 1656856810708
+:FC_CREATED: 2022-07-03T14:00:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   6 |    89.06 | 2023-04-13T19:57:53Z |
+| front    | 2.50 |   6 |    94.13 | 2023-05-12T01:03:11Z |
+:END:
+
+[[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+
+*** Back
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which the left and right subtrees of every node differ in height by no more than 1.
+
+*** Extra
+[[file:balanced-binary-tree.png]]
+
+*** Source
+[cite:@BinaryTree2022]
+** Image :fc:
+:PROPERTIES:
+:ID:       ea95915b-99ea-4d9c-be60-1ba2fb3a7745
+:ANKI_NOTE_ID: 1656856811384
+:FC_CREATED: 2022-07-03T14:00:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   223.28 | 2023-09-05T23:43:28Z |
+| back     | 2.65 |   7 |   283.62 | 2023-11-18T13:37:22Z |
+:END:
+[[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+*** Back
+[[file:balanced-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+#+print_bibliography:

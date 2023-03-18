@@ -1,0 +1,124 @@
+:PROPERTIES:
+:ID:       ba4b74e8-2d33-43ec-bd03-b9ff320ed65a
+:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:END:
+#+title: Clay shrinkage
+#+hugo_custom_front_matter: :slug "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-23 Tue 09:07]
+#+filetags: :concept:
+
+#+begin_quote
+During drying, clay particles draw together and shrinkage occurs. During firing the matrix densifies and shrinkage continues. More vitreous bodies shrink more.
+
+[cite:@FiringShrinkage]
+#+end_quote
+
+* Clay weight loss
+:PROPERTIES:
+:ID:       f3cd8124-305d-4ca0-b045-534c9215cabd
+:END:
+
+#+begin_quote
+Average clay contains about 20% water and 9% organic matter, thus, finished pots (bisque or glazed) weigh almost 30% less than the initial clay weight.
+
+[cite:@ClayShrinkageDryingFiring]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       83f7b276-da21-4613-894b-ce62e960b211
+:ANKI_NOTE_ID: 1661271201540
+:FC_CREATED: 2022-08-23T16:13:21Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   6 |    91.61 | 2023-04-27T07:29:51Z |
+| front    | 2.80 |   7 |   266.65 | 2023-11-05T07:12:04Z |
+:END:
+
+[[id:ba4b74e8-2d33-43ec-bd03-b9ff320ed65a][Clay shrinkage]]
+
+*** Back
+The volume change in a clay body between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] and [[id:c23949a7-63c4-4c3f-9101-8d1d233684f4][Glazeware]].
+*** Source
+[cite:@FiringShrinkage]
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       010ea141-5f65-4b9c-818f-989dcf353185
+:ANKI_NOTE_ID: 1661271420687
+:FC_CREATED: 2022-08-23T16:17:00Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   7 |   259.44 | 2023-10-26T05:12:39Z |
+| front    | 2.80 |   7 |   259.17 | 2023-12-01T18:01:59Z |
+:END:
+[[id:f3cd8124-305d-4ca0-b045-534c9215cabd][Clay weight loss]]
+*** Back
+The weight loss between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] and [[id:c23949a7-63c4-4c3f-9101-8d1d233684f4][Glazeware]] as water and organic material evaporates and burns away.
+*** Source
+[cite:@ClayShrinkageDryingFiring]
+
+** Average clay will lose {{30%}@0} of its weight between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] and [[id:c23949a7-63c4-4c3f-9101-8d1d233684f4][Glazeware]]. :fc:
+:PROPERTIES:
+:ID:       4cff44bc-32bd-47a2-b664-785ac9fc1a86
+:ANKI_NOTE_ID: 1661271420891
+:FC_CREATED: 2022-08-23T16:17:00Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   129.13 | 2023-05-03T18:20:17Z |
+:END:
+*** Extra
+*** Source
+
+** Average clay is {{20%}{%}@0} {{water}@1}. :fc:
+:PROPERTIES:
+:ID:       7aeb78d1-e31f-44a3-9062-5db371aee883
+:ANKI_NOTE_ID: 1661271421218
+:FC_CREATED: 2022-08-23T16:17:01Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    37.55 | 2023-04-03T17:27:07Z |
+|        1 | 2.65 |   7 |   217.76 | 2023-09-12T13:05:49Z |
+:END:
+*** Extra
+*** Source
+
+** Average clay is {{9%}{%}@0} {{organic matter}@1}. :fc:
+:PROPERTIES:
+:ID:       4671fde7-66b8-434e-956e-eb8e313a3233
+:ANKI_NOTE_ID: 1661271421367
+:FC_CREATED: 2022-08-23T16:17:01Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   7 |   239.74 | 2023-10-08T17:32:00Z |
+|        0 | 2.50 |   7 |   269.50 | 2023-12-04T15:03:43Z |
+:END:
+*** Extra
+*** Source
+#+print_bibliography:

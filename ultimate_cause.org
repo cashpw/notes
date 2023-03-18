@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       9245a0f6-660f-4820-9e03-793dc5978686
+:LAST_MODIFIED: [2023-02-23 Thu 19:51]
+:ROAM_ALIASES: "Distal cause"
+:END:
+#+title: Ultimate cause
+#+hugo_custom_front_matter: :slug "9245a0f6-660f-4820-9e03-793dc5978686"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 11:43]
+#+filetags: :concept:
+
+#+begin_quote
+[...] the "real" reason something occurred.
+[cite:@ProximateUltimateCausation2022]
+#+end_quote
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-01-14 Sat 10:25]
+:FC_CREATED: 2023-01-14T18:26:02Z
+:FC_TYPE:  cloze
+:ID:       19b62039-a8d1-49b7-968b-d1b8f26d9862
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    50.59 | 2023-04-08T17:54:23Z |
+|        1 | 2.35 |   5 |    33.42 | 2023-03-23T01:04:28Z |
+:END:
+
+- {{[[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]}@0}
+- {{[[id:9245a0f6-660f-4820-9e03-793dc5978686][Distal cause]]}@1}
+
+*** Source
+[cite:@ProximateUltimateCausation2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-14 Sat 10:26]
+:FC_CREATED: 2023-01-14T18:26:44Z
+:FC_TYPE:  double
+:ID:       26873f5a-749a-485a-8fbb-ff516d3f85cb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    36.94 | 2023-03-21T15:55:18Z |
+| back     | 2.65 |   5 |    39.45 | 2023-04-04T14:43:35Z |
+:END:
+
+[[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]
+
+*** Back
+The "real" reason something occurred.
+*** Source
+[cite:@ProximateUltimateCausation2022]
+#+print_bibliography:

@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       dc62ed50-4dcc-4b1b-ba02-7e5870f0a76c
+:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:ROAM_REFS: [cite:@Earth2023]
+:END:
+#+title: Earth
+#+hugo_custom_front_matter: :slug "dc62ed50-4dcc-4b1b-ba02-7e5870f0a76c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-17 Fri 09:09]
+#+filetags: :concept:
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:09]
+:FC_CREATED: 2023-03-17T16:10:46Z
+:FC_TYPE:  cloze
+:ID:       6c5d28f4-bf69-4c87-b917-7f543b033f8a
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-03-19T13:43:53Z |
+:END:
+
+Earth's equatorial circumference is {{40,075 kilometers}@0}.
+
+*** Source
+[cite:@Earth2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:12]
+:FC_CREATED: 2023-03-17T16:12:45Z
+:FC_TYPE:  cloze
+:ID:       d0053ff1-7b30-44ab-bc08-6e7818bba13e
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-03-19T13:29:46Z |
+:END:
+
+Earth's surface is roughly {{70%}{percent}@0} water.
+
+*** Source
+[cite:@Earth2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:12]
+:FC_CREATED: 2023-03-17T16:13:08Z
+:FC_TYPE:  cloze
+:ID:       d34d8b21-6625-40e6-b9f3-f3b8741370e2
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-03-17T16:13:08Z |
+:END:
+
+Earth's surface is roughly {{30%}{percent}@0} land.
+
+*** Source
+[cite:@Earth2023]
+#+print_bibliography:

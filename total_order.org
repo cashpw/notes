@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       131299ef-557c-4421-b021-eebba79aaa59
+:LAST_MODIFIED: [2023-02-26 Sun 08:09]
+:END:
+#+title: Total order
+#+hugo_custom_front_matter: :slug "131299ef-557c-4421-b021-eebba79aaa59"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 17:04]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a total order is a [[id:52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44][Binary relation]] $\le$ on some set, $X$, which satisfies the following $\forall \; a,b,c \in X$:
+
+1. $a \le a$: [[id:48d05562-111f-4e9a-b005-013d54d4419e][Reflexive]]
+2. $a \le b$ and $b \le c$ $\implies$ $a \le c$: [[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive]]
+3. $a \le b$ and $b \le a$ $\iff$ $a = b$: [[id:875bfbf2-61ad-4f0a-9833-245dc5adc561][Antisymmetric relation]]
+4. $a \le b$ or $b \le a$: [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 15:37]
+:FC_CREATED: 2022-11-14T23:37:53Z
+:FC_TYPE:  double
+:ID:       c5aad453-dbbb-42a7-a4bc-6cf0e13c35fc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   5 |    27.20 | 2023-03-25T21:04:28Z |
+| back     | 2.95 |   5 |    44.62 | 2023-03-24T13:45:46Z |
+:END:
+
+[[id:131299ef-557c-4421-b021-eebba79aaa59][Total order]]
+
+*** Back
+A [[id:52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44][Binary relation]] $\leq$ on a set, $X$, which has the following properties:
+
+- [[id:48d05562-111f-4e9a-b005-013d54d4419e][Reflexive relation]]
+- [[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive relation]]
+- [[id:875bfbf2-61ad-4f0a-9833-245dc5adc561][Antisymmetric relation]]
+- [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
+*** Source
+[cite:@TotalOrder2022]
+#+print_bibliography:

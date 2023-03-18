@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       4c7744c9-e283-4a74-9b2f-40f39c6d262e
+:LAST_MODIFIED: [2022-12-11 Sun 12:00]
+:END:
+#+title: First place
+#+hugo_custom_front_matter: :slug "4c7744c9-e283-4a74-9b2f-40f39c6d262e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-11 Sun 11:56]
+#+filetags: :concept:
+
+#+begin_quote
+Oldenburg calls one's "first place" the home and the people the person lives with.
+
+[cite:@ThirdPlace2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Describe
+:PROPERTIES:
+:CREATED: [2022-12-11 Sun 11:59]
+:END:
+
+[[id:4c7744c9-e283-4a74-9b2f-40f39c6d262e][First place]]
+
+*** Back
+The home and the people with whom one lives.
+*** Source
+[cite:@ThirdPlace2022]
+#+print_bibliography:

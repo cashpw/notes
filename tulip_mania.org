@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       41618912-5982-453e-adcb-0c4ba57448ae
+:ROAM_REFS: [cite:@TulipMania2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:END:
+#+title: Tulip mania
+#+hugo_custom_front_matter: :slug "41618912-5982-453e-adcb-0c4ba57448ae"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 14:54]
+#+filetags: :concept:
+
+#+begin_quote
+Tulip mania (Dutch: tulpenmanie) was a period during the Dutch Golden Age when contract prices for some bulbs of the recently introduced and fashionable tulip reached extraordinarily high levels. The major acceleration started in 1634 and then dramatically collapsed in February 1637.
+
+[cite:@TulipMania2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:ID:       655dbcd9-cb2b-4c79-b685-34403eaf0ab3
+:ANKI_NOTE_ID: 1640627787743
+:FC_CREATED: 2021-12-27T17:56:27Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   263.86 | 2023-09-01T15:54:50Z |
+:END:
+
+Tulip mania
+
+*** Back
+The first recorded speculative bubble. A period in the Dutch Golden Age during which contract prices for tulip bulb reached extraordinarily high levels and then dramatically collapsed in Feb 1637.
+** {{Tulip mania}@0} occurred in {{the Dutch Golden Age, in the early 1600s}@1}. :fc:
+:PROPERTIES:
+:ID:       15bde220-f081-464a-a22c-4b7b987c8806
+:ANKI_NOTE_ID: 1640627787874
+:FC_CREATED: 2021-12-27T17:56:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   345.34 | 2024-02-25T22:21:38Z |
+|        1 | 2.65 |   8 |   317.41 | 2024-01-23T10:21:25Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@TulipMania2022]
+** The first recorded speculative bubble was {{tulip mania}@0}. :fc:
+:PROPERTIES:
+:ID:       b463fadb-e82f-4492-ad12-0cdb80d03518
+:ANKI_NOTE_ID: 1640627787997
+:FC_CREATED: 2021-12-27T17:56:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   143.79 | 2023-04-04T11:08:30Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@TulipMania2022]
+#+print_bibliography:

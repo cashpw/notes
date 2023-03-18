@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@kuhnListenWellGetCurious]
+:ID:       617eec3a-89c3-4b9f-9074-47d4bf4e69fd
+:LAST_MODIFIED: [2023-02-08 Wed 10:33]
+:END:
+#+title: Ben Kuhn | To Listen Well, Get Curious
+#+hugo_custom_front_matter: :slug "617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 04:22]
+#+filetags: :reference:
+ 
+[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnListenWellGetCurious]
+
+* Summary
+
+[[id:279afdb0-48ca-4542-94f1-d20add351cae][Curiosity]] should underlie a listener's behavior in conversations.
+
+* Thoughts
+
+Listening well, and asking curious questions, ensures you [[id:e3a7869c-d28d-4733-85ca-bcce823054e2][understand the problem]].
+
+I find that my misunderstandings are the result of premature and ill-founded assumptions on my part. There is a balancing act to maintain between [[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][reasoning from analogy]] and [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][reasoning from first principles]].
+
+* Notes
+
+#+begin_quote
+Recently, I realized why people keep giving this weird-seeming advice. Good listeners do often reflect words back—but not because they read it in a book somewhere. Rather, it's cargo cult advice: it teaches you to imitate the surface appearance of good listening, but misses what's actually important, the thing that's generating that surface appearance.
+
+The generator is curiosity.
+
+When I've listened the most effectively to people, it's because I was intensely curious—I was trying to build a detailed, precise understanding of what was going on in their head.
+#+end_quote
+
+#+begin_quote
+It often feels like I understand enough to be helpful without knowing all those details. But when I think that, I'm usually wrong: I end up giving bad advice, based on bad assumptions, and the person I'm talking to ends up having to do a bunch of work to argue with me and correct my bad assumptions. That makes the conversation feel disfluent and adversarial instead of collaborative.
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** To listen well, {{get curious}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:46]
+:FC_CREATED: 2022-11-22T20:46:43Z
+:FC_TYPE:  cloze
+:ID:       f7d559ae-51b7-4878-86f6-839fcf2231b9
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   136.38 | 2023-06-25T03:42:03Z |
+:END:
+
+*** Source
+[cite:@kuhnListenWellGetCurious]
+#+print_bibliography:

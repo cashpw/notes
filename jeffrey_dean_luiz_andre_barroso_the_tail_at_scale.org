@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@deanTailScale2013]
+:ID:       3e9efd91-d6f1-41e8-beb4-fe5a9276a1d3
+:LAST_MODIFIED: [2022-12-01 Thu 11:45]
+:END:
+#+title: Jeffrey Dean, Luiz André Barroso | The Tail at Scale
+#+hugo_custom_front_matter: :slug "3e9efd91-d6f1-41e8-beb4-fe5a9276a1d3"
+#+author: Cash Weaver
+#+date: [2022-12-01 Thu 11:44]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@deanTailScale2013]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/3e/9efd91-d6f1-41e8-beb4-fe5a9276a1d3/TheTailatScale.pdf
+:NOTER_PAGE: 2
+:END:
+* TODO [#2] Flashcards
+#+print_bibliography:

@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       f25031de-9b51-4f1c-9166-f155b2d3250c
+:ROAM_REFS: [cite:@Multiset2023]
+:LAST_MODIFIED: [2023-03-10 Fri 21:25]
+:END:
+#+title: Multiset
+#+hugo_custom_front_matter: :slug "f25031de-9b51-4f1c-9166-f155b2d3250c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-31 Tue 07:34]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a multiset (or bag, or mset) is a modification of the concept of a set [[[id:9790bcbd-1414-4044-a4ff-3e9326c39e8f][Set]]] that, unlike a set, allows for multiple instances for each of its elements. The number of instances given for each element is called the multiplicity of that element in the multiset. As a consequence, an infinite number of multisets exist which contain only elements a and b, but vary in the multiplicities of their elements:
+
+- The set $\{a, b\}$ contains only elements $a$ and $b$, each having multiplicity 1 when $\{a, b\}$ is seen as a multiset.
+- In the multiset $\{a, a, b\}$, the element $a$ has multiplicity 2, and $b$ has multiplicity 1.
+- In the multiset $\{a, a, a, b, b, b\}$, $a$ and $b$ both have multiplicity 3.
+
+These objects are all different when viewed as multisets, although they are the same set, since they all consist of the same elements. As with sets, and in contrast to tuples, order does not matter in discriminating multisets, so $\{a, a, b\}$ and $\{a, b, a\}$ denote the same multiset. To distinguish between sets and multisets, a notation that incorporates square brackets is sometimes used: the multiset $\{a, a, b\}$ can be denoted by $[a, a, b]$.
+
+The cardinality of a multiset is the sum of the multiplicities of all its elements. For example, in the multiset $\{a, a, b, b, b, c\}$ the multiplicities of the members $a$, $b$, and $c$ are respectively 2, 3, and 1, and therefore the cardinality of this multiset is 6.
+
+[cite:@Multiset2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 07:34]
+:FC_CREATED: 2023-01-31T15:35:38Z
+:FC_TYPE:  double
+:ID:       dfd1ab66-e478-417b-8f54-edbbe8cb1397
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    49.63 | 2023-04-27T08:29:22Z |
+| back     | 2.80 |   5 |    49.34 | 2023-04-29T13:40:52Z |
+:END:
+
+[[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]]
+
+*** Back
+A [[id:9790bcbd-1414-4044-a4ff-3e9326c39e8f][Set]] which allows for duplicate values.
+*** Source
+[cite:@Multiset2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 08:36]
+:FC_CREATED: 2023-01-31T16:37:03Z
+:FC_TYPE:  double
+:ID:       60da55b4-56be-4f7d-a642-a04149be1ffe
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    39.31 | 2023-04-11T21:20:01Z |
+| back     | 2.50 |   5 |    31.91 | 2023-04-03T12:02:33Z |
+:END:
+
+Multiplicity ([[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]])
+
+*** Back
+The count of instances of a particular value within a [[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]].
+*** Source
+[cite:@Multiset2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 08:37]
+:FC_CREATED: 2023-01-31T16:37:49Z
+:FC_TYPE:  double
+:ID:       676c9584-abf0-452b-bad0-4c90055cb191
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    49.43 | 2023-04-27T04:52:10Z |
+| back     | 2.80 |   5 |    48.43 | 2023-04-27T13:15:29Z |
+:END:
+
+Cardinality ([[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]])
+
+*** Back
+The sum of the multiplicities of the multiset.
+*** Source
+[cite:@Multiset2023]
+#+print_bibliography:

@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       c65bf1a1-0c55-4361-afc9-34fa828ecd83
+:LAST_MODIFIED: [2023-03-02 Thu 06:25]
+:END:
+#+title: Residual costs
+#+hugo_custom_front_matter: :slug "c65bf1a1-0c55-4361-afc9-34fa828ecd83"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 08:11]
+#+filetags: :concept:
+
+#+begin_quote
+The costs that arise where the agent acts contrary to the best interests of the principal.
+
+[cite:@AgencyCost2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:12]
+:FC_CREATED: 2023-01-17T16:12:47Z
+:FC_TYPE:  double
+:ID:       4cd6eb26-804c-4612-bb7d-963166c03849
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    49.04 | 2023-04-19T05:14:43Z |
+| back     | 2.50 |   5 |    41.01 | 2023-04-12T14:41:28Z |
+:END:
+
+[[id:c65bf1a1-0c55-4361-afc9-34fa828ecd83][Residual costs]]
+
+*** Back
+The costs that arise where the agent acts contrary to the best interests of the principal.
+*** Source
+[cite:@AgencyCost2022]
+#+print_bibliography:

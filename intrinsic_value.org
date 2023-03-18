@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       04af40d8-212f-471a-acb7-8d68aabfa2ed
+:ROAM_REFS: [cite:@IntrinsicValueFinance2022]
+:LAST_MODIFIED: [2023-02-07 Tue 14:44]
+:END:
+#+title: Intrinsic value (finance)
+#+hugo_custom_front_matter: :slug "04af40d8-212f-471a-acb7-8d68aabfa2ed"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:43]
+#+filetags: :concept:
+
+#+begin_quote
+In finance, the intrinsic value of an asset usually refers to a value calculated on simplified assumptions. For example, the intrinsic value of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]] is based on the current market value of the underlying instrument, but ignores the possibility of future fluctuations [[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Option time value]]] and the time value of money.
+
+[cite:@IntrinsicValueFinance2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 19:13]
+:FC_CREATED: 2022-11-15T03:14:42Z
+:FC_TYPE:  double
+:ID:       aa18c391-8db4-4f1f-ae24-43e40d0c93d2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    62.68 | 2023-04-01T09:08:26Z |
+| back     | 1.90 |   6 |    42.50 | 2023-03-22T10:45:17Z |
+:END:
+
+[[id:04af40d8-212f-471a-acb7-8d68aabfa2ed][Intrinsic value (finance)]]
+
+*** Back
+The value of an asset calculated on simplified assumptions.
+*** Source
+[cite:@IntrinsicValueFinance2022]
+#+print_bibliography:

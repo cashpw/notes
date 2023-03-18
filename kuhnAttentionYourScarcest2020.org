@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@kuhnAttentionYourScarcestResource2020]
+:ID:       4625d068-26fe-47d7-93b3-da12b0151ca1
+:DIR:      /home/cashweaver/proj/roam/attachments/4625d068-26fe-47d7-93b3-da12b0151ca1
+:END:
+#+title: Ben Kuhn | Attention Is Your Scarcest Resource
+#+hugo_custom_front_matter: :slug "4625d068-26fe-47d7-93b3-da12b0151ca1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:31]
+#+filetags: :reference:
+ 
+[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnAttentionYourScarcestResource2020]
+
+* Summary
+* Thoughts
+[[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][Attention capital theory]]
+* Notes
+
+#+begin_quote
+The output of knowledge workers is extremely skewed based on focus. The productivity tiers seem to be:
+
+- <10% focused on the job at hand: meaningful risk of getting fired.
+- 10-50% focus: "meets expectations," gets regular raises.
+- 50%+ focus: superstar, 10x engineer, destined for greatness.
+
+/[[https://www.thediff.co/p/the-future-of-remote-work-is-not][Byrne Hobart]]/
+#+end_quote
+
+#+begin_quote
+"50%+ focus" is roughly when something becomes the top idea in your mind. It's when you start caring enough to think about it in the shower. It's when you start habitually asking "how could this go faster?" It's when you get relentlessly resourceful. It's around when you start annoying your coworkers and/or significant other, although that part is avoidable with practice.
+
+Most importantly, you can only be 50%+-focused on one thing at a time—or zero, in bad cases. That makes it critical to conserve your attention, so that you can spend it on what matters.
+#+end_quote
+
+#+begin_quote
+As a programmer, I tried to make sure that I was only ever working on one thing at a time. Even if I got stuck on that one thing—say I was blocked on waiting for a tech partner to give me API documentation—I'd let myself stay stuck instead of sliding off to work on something else.
+
+In the short term, this made me less efficient, because I'd spend less time programming and more time staring vacantly at the ceiling. But if I stared vacantly for long enough, I'd eventually get mad enough to, e.g., reverse-engineer the partner's API in a fit of rage. This resulted in me shipping my most important projects faster, hence getting faster compounding growth.
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

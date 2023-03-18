@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       1dfb5419-362b-4df4-9833-2381d6d06baa
+:ROAM_ALIASES: CAGR
+:LAST_MODIFIED: [2023-03-13 Mon 07:28]
+:END:
+#+title: Compound annual growth rate
+#+hugo_custom_front_matter: :slug "1dfb5419-362b-4df4-9833-2381d6d06baa"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:28]
+#+filetags: :concept:
+#+begin_quote
+Compound annual growth rate (CAGR) is a business and investing specific term for the [[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geometric progression]] ratio that provides a constant rate of return over the time period.
+
+[cite:@CompoundAnnualGrowthRate2022]
+#+end_quote
+
+#+begin_quote
+The compound annual growth rate (CAGR) is the rate of return (RoR) that would be required for an investment to grow from its beginning balance to its ending balance, assuming the profits were reinvested at the end of each period of the investment's life span.
+
+[cite:@CompoundAnnualGrowthRateCAGRFormulaCalculation]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 16:05]
+:FC_CREATED: 2022-11-23T00:06:32Z
+:FC_TYPE:  double
+:ID:       04f4e9f5-039f-4e40-86c7-d70851cdd833
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   108.49 | 2023-06-10T04:25:21Z |
+| back     | 2.35 |   6 |    87.60 | 2023-05-30T04:13:34Z |
+:END:
+
+[[id:1dfb5419-362b-4df4-9833-2381d6d06baa][Compound annual growth rate]]
+
+*** Back
+The rate of return that would be required for an investment to grow from its beginning balance to its ending balance, assuming profits were reinvested.
+*** Source
+[cite:@CompoundAnnualGrowthRateCAGRFormulaCalculation]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 16:06]
+:FC_CREATED: 2022-11-23T00:07:26Z
+:FC_TYPE:  cloze
+:ID:       212dffd9-f69f-4bcc-9831-8c034dc0db62
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   100.43 | 2023-05-29T01:21:11Z |
+|        1 | 2.80 |   6 |   125.19 | 2023-07-16T19:03:42Z |
+:END:
+
+- {{[[id:1dfb5419-362b-4df4-9833-2381d6d06baa][Compound annual growth rate]]}@0}
+- {{[[id:1dfb5419-362b-4df4-9833-2381d6d06baa][CAGR]]}@1}
+
+*** Source
+[cite:@CompoundAnnualGrowthRate2022]
+#+print_bibliography:

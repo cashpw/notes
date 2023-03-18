@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       32438fd5-c050-46a9-9611-97d571512f3e
+:DIR:      /home/cashweaver/proj/roam/attachments/32438fd5-c050-46a9-9611-97d571512f3e
+:END:
+#+title: Examples of Zettelkasten Notes
+#+hugo_custom_front_matter: :slug "32438fd5-c050-46a9-9611-97d571512f3e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 07:13]
+
+These sites are fantastic examples of well-done implementations of the [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. They serve as inspiration for my own notes.
+
+- [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s [[https://notes.andymatuschak.org/][notes]]
+- [[id:d566fd17-7c20-45b9-99c9-b2d0709127cb][Alex Kehayias]]'s [[https://notes.alexkehayias.com/][notes]]
+- [[id:ab84ad24-3d02-4246-b8ea-7b11b93ceeb3][Hugo Cisneros]]'s [[https://hugocisneros.com/notes/][notes]]
+- [[github:KasperZutterman/Second-Brain]["A curated list of awesome public zettelkastens"]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

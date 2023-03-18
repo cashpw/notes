@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       b0252e55-4cb5-4af8-8a28-9bf331052193
+:LAST_MODIFIED: [2023-03-02 Thu 08:11]
+:END:
+#+title: Lower order questions
+#+hugo_custom_front_matter: :slug "b0252e55-4cb5-4af8-8a28-9bf331052193"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-20 Tue 16:47]
+#+filetags: :concept:
+
+#+begin_quote
+Lower order questions are those that require "brief thought" and a basic amount of understanding of an already learned subject or area. These kinds of questions are meant to encourage students to recall or remember basic information.
+
+[cite:@LowerOrderQuestionsTAPFacilitatorResourceCenter]
+#+end_quote
+
+Also see [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]].
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-20 Tue 16:48]
+:FC_CREATED: 2022-12-21T00:48:28Z
+:FC_TYPE:  double
+:ID:       78a2547e-5672-4ee9-a561-159d90c814df
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    66.25 | 2023-04-29T21:02:46Z |
+| back     | 2.50 |   6 |    91.72 | 2023-06-02T09:34:07Z |
+:END:
+
+[[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]]
+
+*** Back
+Questions which require "brief thought" and a basic understanding of an already-learned subject.
+*** Source
+[cite:@LowerOrderQuestionsTAPFacilitatorResourceCenter]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-20 Tue 16:53]
+:FC_CREATED: 2022-12-21T00:53:27Z
+:FC_TYPE:  cloze
+:ID:       7db2dfbe-34cb-4273-b314-2e9d2ba6dbce
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    56.59 | 2023-03-19T04:42:33Z |
+|        1 | 2.20 |   6 |    57.12 | 2023-04-15T17:52:50Z |
+:END:
+
+{{[[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]]}{questions}@0} :: {{[[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]]}{[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]}@1}
+
+*** Source
+[cite:@LowerOrderQuestionsTAPFacilitatorResourceCenter]
+#+print_bibliography:

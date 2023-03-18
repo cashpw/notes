@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4938a000-de24-45a9-bb5b-5b8559bc99c3
+:END:
+#+title: Personal relationship manager
+#+hugo_custom_front_matter: :slug "4938a000-de24-45a9-bb5b-5b8559bc99c3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 06:05]
+
+A customer relationship manager (CRM) for personal use.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

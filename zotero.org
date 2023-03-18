@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b9235ad0-ffc3-4141-828e-485be52e89cf
+:END:
+#+title: Zotero
+#+hugo_custom_front_matter: :slug "b9235ad0-ffc3-4141-828e-485be52e89cf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-05 Mon 22:32]
+#+filetags: :concept:
+
+#+begin_quote
+Zotero is a free, easy-to-use tool to help you
+collect, organize, annotate, cite, and share research.
+
+[cite:@Zotero]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

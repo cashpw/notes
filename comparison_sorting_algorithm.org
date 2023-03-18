@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cedb0b84-030c-4de7-b4ae-0ce16f09fa19
+:LAST_MODIFIED: [2023-02-15 Wed 15:12]
+:END:
+#+title: Comparison sorting algorithm
+#+hugo_custom_front_matter: :slug "cedb0b84-030c-4de7-b4ae-0ce16f09fa19"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 14:47]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+A comparison sort is a type of [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] that only reads the list elements through a single abstract comparison operation (often a "less than or equal to" operator or a three-way comparison) that determines which of two elements should occur first in the final sorted list. The only requirement is that the operator forms a total preorder over the data, with:
+
+- if a ≤ b and b ≤ c then a ≤ c (transitivity) [[[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive relation]]]
+- for all a and b, a ≤ b or b ≤ a (connexity) [[[id:644adb16-7921-4499-aaf9-6ff29819ed6d][Connected relationship]]].
+
+It is possible that both a ≤ b and b ≤ a; in this case either may come first in the sorted list. In a [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]], the input order determines the sorted order in this case.
+#+end_quote
+
+* TODO [#2] Flashcards

@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       6981e213-aaad-4356-8968-abc1766bfb39
+:DIR:      /home/cashweaver/proj/roam/attachments/6981e213-aaad-4356-8968-abc1766bfb39
+:ROAM_ALIASES: "If it kills you, it kills you" "A man must constantly exceed his level"
+:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:END:
+#+title: Exceed your Level
+#+hugo_custom_front_matter: :slug "6981e213-aaad-4356-8968-abc1766bfb39"
+#+filetags: :quote:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-03 Fri 12:25]
+
+#+begin_quote
+... if you always put limits on what you can do, physical or anything else, it'll spread over into the rest of your life. It'll spread into your work, into your morality, into your entire being. There are no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level.
+
+[[id:95cd4413-31d3-4158-af10-68139d69c04d][Bruce Lee]], [cite:@QuoteBruceLee]
+#+end_quote
+
+Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** There are no limits. {{There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:10]
+:FC_CREATED: 2022-11-22T23:10:53Z
+:FC_TYPE:  cloze
+:ID:       e038b22e-56ae-414a-89a1-d8cf68a01c23
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:FC_BLOCKED_BY:       1ee5b255-b8ea-4f31-9522-9f62428d3929,56d9377e-f36f-473f-b909-dfc349a1094e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    84.22 | 2023-05-27T20:33:30Z |
+:END:
+
+*** Source
+[[id:95cd4413-31d3-4158-af10-68139d69c04d][Bruce Lee]], [cite:@QuoteBruceLee]
+** If it kills you, {{it kills you.}{short}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:10]
+:FC_CREATED: 2022-11-22T23:11:13Z
+:FC_TYPE:  cloze
+:ID:       1ee5b255-b8ea-4f31-9522-9f62428d3929
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    68.03 | 2023-04-15T22:21:10Z |
+:END:
+
+*** Source
+[[id:95cd4413-31d3-4158-af10-68139d69c04d][Bruce Lee]], [cite:@QuoteBruceLee]
+** A man must {{constantly exceed his level.}{short}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:11]
+:FC_CREATED: 2022-11-22T23:11:31Z
+:FC_TYPE:  cloze
+:ID:       56d9377e-f36f-473f-b909-dfc349a1094e
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    78.42 | 2023-05-08T04:48:11Z |
+:END:
+
+*** Source
+[[id:95cd4413-31d3-4158-af10-68139d69c04d][Bruce Lee]], [cite:@QuoteBruceLee]
+#+print_bibliography:

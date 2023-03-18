@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       dea093d4-ed58-42d7-b8a6-63acfa291676
+:ROAM_REFS: [cite:@TierList2022]
+:LAST_MODIFIED: [2023-02-03 Fri 08:26]
+:END:
+#+title: S-tier
+#+filetags: :concept:
+#+hugo_custom_front_matter: :slug "dea093d4-ed58-42d7-b8a6-63acfa291676"
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-29 Sat 15:01]
+
+The top-tier.
+
+#+begin_quote
+'S' tier may stand for "Special", "Super", or the Japanese word for "Exemplary" (秀, shū), and originates from the widespread use in Japanese culture of an 'S' grade for advertising and academic grading.
+
+[cite:@TierList2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:58]
+:FC_CREATED: 2022-09-30T22:58:30Z
+:FC_TYPE:  double
+:ID:       16ad8a2f-c140-4868-b898-2623884119b3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   174.90 | 2023-07-27T13:28:17Z |
+| back     | 2.95 |   6 |   129.27 | 2023-06-12T22:55:09Z |
+:END:
+
+[[id:dea093d4-ed58-42d7-b8a6-63acfa291676][S-tier]]
+
+*** Back
+
+The top tier, the best of a group
+*** Source
+[cite:@TierList2022]
+#+print_bibliography:

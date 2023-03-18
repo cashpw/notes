@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       47d756da-f670-4377-83ae-3ea0fc25bc1b
+:LAST_MODIFIED: [2023-03-18 Sat 06:38]
+:END:
+#+title: Object level
+#+hugo_custom_front_matter: :slug "47d756da-f670-4377-83ae-3ea0fc25bc1b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 10:32]
+#+filetags: :concept:
+
+#+begin_quote
+Object level vs Meta level [[[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]] is a distinction between levels of abstraction, with the object level being directly about the specifics of the issue at hand, [...]. It is often useful to move up and down the ladder of abstraction to get points across clearly, with the object level providing firm grounding and concrete examples for a person to grasp, while the meta layer allows them to generalize a new concept to a broad domain.
+
+[cite:@lesswrongObjectLevelMetaLevel]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 10:34]
+:FC_CREATED: 2023-01-12T18:34:31Z
+:FC_TYPE:  double
+:ID:       dbf66837-ae7a-46b3-9c1c-d7c46be64dc4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    42.72 | 2023-03-28T07:27:58Z |
+| back     | 2.35 |   6 |    65.51 | 2023-05-23T01:52:43Z |
+:END:
+
+[[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]]
+
+*** Back
+- Level of abstraction which is directly about the specifics of the issue at hand
+*** Source
+[cite:@lesswrongObjectLevelMetaLevel]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 10:34]
+:FC_CREATED: 2023-01-12T18:35:28Z
+:FC_TYPE:  normal
+:ID:       5671a6e5-f815-4d95-8d2a-8bf32df9f5d3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    32.13 | 2023-03-21T04:50:03Z |
+:END:
+
+[[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]] and [[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]
+
+*** Back
+- [[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]]: The thing itself
+- [[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]: The [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] of, or around, the thing; the category higher-order principles which apply broadly to "things like X"
+*** Source
+[cite:@lesswrongObjectLevelMetaLevel]
+#+print_bibliography:

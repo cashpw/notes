@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@yudkowskyTsuyokuNaritaiWantBecomeStronger2007]
+:ID:       9bbe0740-9dff-4d2a-908e-535e96ea4e59
+:LAST_MODIFIED: [2023-03-03 Fri 05:43]
+:END:
+#+title: Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)
+#+hugo_custom_front_matter: :slug "9bbe0740-9dff-4d2a-908e-535e96ea4e59"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 08:06]
+#+filetags: :reference:
+ 
+[[id:614d0317-e7fc-4ee2-a68a-e93471500fa0][Eliezer Yudkowsky]], [cite:@yudkowskyTsuyokuNaritaiWantBecomeStronger2007]
+
+Similar: [[id:ad3762f0-6d77-4289-baa7-4c3192b9c4b1][Eliezer Yudkowsky | Something to Protect]]
+
+* Notes
+
+#+begin_quote
+The most important thing is that there should be progress. So long as you keep moving forward you will reach your destination; but if you stop moving you will never reach it.
+
+Tsuyoku naritai is Japanese. Tsuyoku is "strong"; naru is "becoming," and the form naritai is "want to become." Together it means, "I want to become stronger," and it expresses a sentiment embodied more intensely in Japanese works than in any Western literature I've read. You might say it when expressing your determination to become a professional Go player—or after you lose an important match, but you haven't given up—or after you win an important match, but you're not a ninth-dan player yet—or after you've become the greatest Go player of all time, but you still think you can do better. That is tsuyoku naritai, the will to transcendence.
+#+end_quote
+
+#+begin_quote
+Take no pride in your confession that you too are biased; do not glory in your self-awareness of your flaws. This is akin to the principle of not taking pride in confessing your ignorance; for if your ignorance is a source of pride to you, you may become loath to relinquish your ignorance when evidence comes knocking. Likewise with our flaws—we should not gloat over how self-aware we are for confessing them; the occasion for rejoicing is when we have a little less to confess.
+
+[...]
+
+Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it. Afterward you will still have plenty of flaws left, but that's not the point; the important thing is to do better, to keep moving ahead, to take one more step forward. Tsuyoku naritai!
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       fbde3e7b-8d94-4955-81b9-aa012b485c54
+:ANKI_NOTE_ID: 1640627826970
+:FC_CREATED: 2021-12-27T17:57:06Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   174.89 | 2023-04-24T13:52:18Z |
+| front    | 2.35 |   8 |   304.29 | 2024-01-01T20:46:55Z |
+:END:
+
+Tsuyoko naritai
+
+*** Back
+I want to become stronger.
+#+print_bibliography:

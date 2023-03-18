@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       0cb1f49e-83a7-43ce-a32f-7ba772e7686c
+:LAST_MODIFIED: [2023-03-18 Sat 06:37]
+:ROAM_REFS: [cite:@AgencyCost2022]
+:END:
+#+title: Agency costs
+#+hugo_custom_front_matter: :slug "0cb1f49e-83a7-43ce-a32f-7ba772e7686c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 07:50]
+#+filetags: :concept:
+
+#+begin_quote
+An agency cost is an economic concept that refers to the costs associated with the relationship between a "principal" (an organization, person or group of persons), and an "agent" [[[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]]. The agent is given powers to make decisions on behalf of the principal. However, the two parties may have different incentives [[[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]]] and the agent generally has more information. The principal cannot directly ensure that its agent is always acting in its (the principal's) best interests. This potential divergence in interests is what gives rise to agency costs.
+
+[cite:@AgencyCost2022]
+#+end_quote
+
+* Types
+
+- [[id:76f1aa23-b553-4eca-9e18-7b038f444dbb][Monitoring costs]]
+- [[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]
+- [[id:c65bf1a1-0c55-4361-afc9-34fa828ecd83][Residual costs]]
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 07:52]
+:FC_CREATED: 2023-01-17T15:52:55Z
+:FC_TYPE:  double
+:ID:       01c741a0-efce-4010-afa4-40310bfc98db
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    31.08 | 2023-03-27T05:36:56Z |
+| back     | 2.50 |   5 |    43.52 | 2023-04-27T03:44:39Z |
+:END:
+
+[[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]
+
+*** Back
+The costs associated with the [[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]
+*** Source
+[cite:@AgencyCost2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 07:55]
+:FC_CREATED: 2023-01-17T15:56:28Z
+:FC_TYPE:  double
+:ID:       3262989b-5637-4b87-b3b2-2b1e453a2c89
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    45.01 | 2023-04-12T16:19:07Z |
+| back     | 2.80 |   5 |    52.20 | 2023-05-09T18:31:13Z |
+:END:
+
+Why [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]] exist
+
+*** Back
+- Misaligned [[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentive]] structures
+- The agent generally has more information than the principal
+*** Source
+[cite:@AgencyCost2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:13]
+:FC_CREATED: 2023-01-17T16:13:56Z
+:FC_TYPE:  double
+:ID:       21a9d616-8966-42c4-8287-581c099b5bb0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.21 | 2023-04-02T09:04:53Z |
+| back     | 2.80 |   5 |    44.40 | 2023-04-24T15:02:20Z |
+:END:
+
+Types of [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]
+
+*** Back
+- [[id:76f1aa23-b553-4eca-9e18-7b038f444dbb][Monitoring costs]]: Costs borne by principal
+- [[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]: Costs borne by agent
+- [[id:c65bf1a1-0c55-4361-afc9-34fa828ecd83][Residual costs]]: Costs due to agent acts contrary to the best interest of their principal
+*** Source
+[cite:@AgencyCost2022]
+#+print_bibliography:

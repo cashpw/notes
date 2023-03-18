@@ -1,0 +1,238 @@
+:PROPERTIES:
+:ID:       548362c8-b5a6-4d50-b459-543d321e49b6
+:ROAM_REFS: [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
+:LAST_MODIFIED: [2023-02-22 Wed 06:56]
+:END:
+#+title: Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee
+#+hugo_custom_front_matter: :slug "548362c8-b5a6-4d50-b459-543d321e49b6"
+#+author: Cash Prokop-Weaver
+#+date: [2021-11-27 Thu 07:00]
+#+hugo_draft: true
+
+Michael Seibel, [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
+
+* Summary
+
+1. Founder: Create a new product/business/etc
+2. Executive: Drive one, many, but not all, aspect(s) of an existing product/business/etc
+3. Employee: Work on an aspect of an existing product/business/etc under the direction of an Executive
+
+* Thoughts
+The article begins with:
+
+#+begin_quote
+I don't attach value judgements to these three paths. In my ten years in The Bay Area I've seen friends lead successful and fulfilled lives following all three.
+#+end_quote
+
+I skipped over this point when I read this article for the first time in my haste to discover the details of the promised trio of paths. I'm currently an employee and feel at times that such a role is a mark of failure. It's easy for me to start thinking of what I do as not being "real" work.
+
+Real work, in my mind, is unique. Real work is work which only a single person alive could accomplish. However, I think that I've built this idea on a flawed premise. Now that I think about it, I'm not convinced that people are as unique as I thought. It's a sobering idea.
+
+---
+
+I would define real work as work which no one else currently alive could accomplish which has "real" value to the world. I am not doing real work by this definition. Neither are any of my friends or peers. I have only encountered a small handful of people who I felt were /different/ in such a way that I felt they could accomplish something unique compared with others at their level. I find it disheartening to reflect on my work and decide that another could have done it as well or better than I have. It makes my accomplishments feel meaningless.
+
+Another part of me isn't satisfied with this definition. "Real" work isn't the only kind of work out there. Say there's only one person who alive who could crack open some problem in a complicated field. That person wouldn't also be able to implement that solution across multiple domains, companies, etc. Those implementations of a burst of "real" work are valuable and meaningful. The person who discovers a new irrigation method has done meaningful work but so have the people who put that discovery into practice in farms around the world.
+
+Perhaps the nuance I'm attempting to address is somewhere between meaningful work and unique work.
+
+* Notes
+
+#+begin_quote
+When people ask me for tech career advice I find it helpful to lay out the three paths I've encountered most in my career: founder, executive, and employee. I'm leaving out investor because the best path to being an investor that I've seen starts with being successful (or failing) at one of these three first.
+
+[...]
+
+I don't attach value judgements to these three paths. In my ten years in The Bay Area I've seen friends lead successful and fulfilled lives following all three.
+#+end_quote
+
+** Founder (Tech career pathway)
+:PROPERTIES:
+:ID:       d9db2f68-9973-472e-800d-a995192a140d
+:END:
+*** Pros
+#+begin_quote
+- Work on something you're passionate about
+- Bring something new into the world
+- High level of responsibility often inspires extreme productivity
+- Choose the people you work with
+- Learn new skills at an extremely fast pace
+#+end_quote
+
+*** Cons
+#+begin_quote
+- Incredibly stressful. Even success hurts
+- Probably won't maximize your personal earnings
+- significant financial/skillset/location hurdles to get started
+- Large scale success often requires decade plus commitment
+- Commitment level can significantly hurt personal relationships
+#+end_quote
+*** Strategy for People Who Want to be Founders
+#+begin_quote
+Your initial goal is to accumulate the prerequisites to being a founder.
+
+1. Identify potential teammates you can work with who have the required technical skills to help you build your MVP.
+2. Figure out the financial plan. I.e. Do you have enough money in savings, do you have friends/family who can provide seed investment, can you bootstrap, can you reduce your spending and save enough give yourself 6-12 months to work on your idea?
+3. Identify a problem that you and your potential teammates are passionate about solving.
+4. The least important (but still required) is having an idea on how of how to solve the problem.
+
+Many people who want to be founders have one or more of these prerequisites missing. A popular mistake is trying to hustle around a missing prerequisite instead of solving the underlying issue. If your team doesn't have the technical skills to build your MVP, don't work with a dev shop. Make friends with people who do have these skills. Convince them to join you.
+
+[...]
+
+Notice that one of the prerequisites isn't experience. Experience is over-valued (not completely unimportant – but massively over-valued) by people who are thinking about starting a company. In almost all cases, no matter what knowledge you bring to the table, you will learn most of what you need to know about your problem, your customer, and the best solution after you start your company.
+#+end_quote
+
+** Executive (Tech career pathway)
+:PROPERTIES:
+:ID:       a8fc0ec0-b94d-43e5-a63b-3db551f169cf
+:END:
+(Senior Manager at a Large Company)
+
+*** Pros
+
+#+begin_quote
+- Stable income/benefits/etc.
+- High level of prestige (only very successful founders have more prestige)
+- A higher likelihood of having a huge impact (given that most startups fail).
+- Doesn't require building a team and acquiring money to get started
+#+end_quote
+
+*** Cons
+#+begin_quote
+- Producing results isn't necessarily how you move up the corporate ladder. Internal politics are usually as important, if not more so.
+- Success can be hampered or even prevented by others inside of your organization
+- Requires the ability to pick companies that will be growing and successful for a long time
+- Takes a long time to get a significant amount of responsibility
+#+end_quote
+*** Strategies for People Who Want to be Executives
+
+#+begin_quote
+I actually see two strategies within this path.
+
+The first strategy is to pick a company that is growing quickly. If you do manage to pick a company like this early, then you'll get more responsibility as the company grows – I also assume you are a friendly and productive team player. For example, if you were one of the first 100 people at Facebook and you stayed there for ten years, you would have many opportunities to become an executive. The hard part here is that picking a company that will grow rapidly for many years is extremely difficult (in many ways your task is similar to a VC).
+
+The other path is to go to work for a more established company. The people I've seen do this effectively don't think about working their way up within one company alone. They often think about moving diagonally up between a set of established name brand companies until they eventually land in an executive role. For example, you start out of college at Google, get hired at Dropbox as a team lead, move to Yahoo to become a director, move back to Google – so on and so forth.
+
+People on the executive path either have to think like VCs and pick a company that is going to be one of the winners over the next 10 years, or have their head on a swivel to constantly look for better and better opportunities both inside and outside of their current company.
+#+end_quote
+
+** Employee (Tech career pathway)
+:PROPERTIES:
+:ID:       8e8097dd-4312-45ed-b3f7-5e1dfea2007b
+:END:
+(individual contributor / middle manager)
+
+*** Pros
+
+#+begin_quote
+- Stable income/benefits/etc.
+- More work and fewer meetings
+- More often directly affecting the customer through your work
+- With a high demand skill-set you have flexibility in where/how much you work
+- Often have more time to spend with friends and family
+#+end_quote
+
+*** Cons
+#+begin_quote
+- Productivity can be blocked by bad management
+- You often don't have control what you work on
+- Often don't get a voice in major decisions – even when you "know the right answer"
+- It's harder to become very wealthy
+- It can be boring
+- If you don't maintain a high demand skillset or your productivity drops it's easier to be fired
+#+end_quote
+*** Strategies for People Who Want to be Employees
+
+#+begin_quote
+Your strategy for picking a place to work is similar to an exec's. You either need to spot and join a quickly growing company or find a way into a well known successful company. It's much easier to go between brand name companies when you start with a brand name company. Also, in my experience, it's much easier to optimize this path as a software developer.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 07:55]
+:FC_CREATED: 2022-11-15T15:56:31Z
+:FC_TYPE:  double
+:ID:       349f68fa-96f9-4eab-bba7-f233dc4b7648
+:FC_BLOCKED_BY:       ecc5a5a3-97a4-4096-8cc9-dcfd238a7dd3,403d7408-c88c-4a1a-b851-d27723632067,e8cec660-9b20-4841-b4db-e4e6f88340d6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    51.93 | 2023-03-23T01:13:57Z |
+| back     | 2.95 |   5 |    52.59 | 2023-03-26T06:35:28Z |
+:END:
+
+The three career paths in the tech industry as defined by Michael Seibel
+
+*** Back
+
+1. [[id:d9db2f68-9973-472e-800d-a995192a140d][Founder (Tech career pathway)]]: Create a new product/business/etc
+2. [[id:a8fc0ec0-b94d-43e5-a63b-3db551f169cf][Executive (Tech career pathway)]]: Drive one, many, but not all, aspect(s) of an existing product/business/etc
+3. [[id:8e8097dd-4312-45ed-b3f7-5e1dfea2007b][Employee (Tech career pathway)]]: Work on an aspect of an existing product/business/etc under the direction of an Executive
+*** Source
+[cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 18:04]
+:FC_CREATED: 2022-11-22T02:05:03Z
+:FC_TYPE:  normal
+:ID:       ecc5a5a3-97a4-4096-8cc9-dcfd238a7dd3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    74.55 | 2023-04-28T06:53:58Z |
+:END:
+
+[[id:d9db2f68-9973-472e-800d-a995192a140d][Founder (Tech career pathway)]]
+
+*** Back
+Create a new product/business/etc
+*** Source
+[cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 18:04]
+:FC_CREATED: 2022-11-22T02:05:03Z
+:FC_TYPE:  normal
+:ID:       e8cec660-9b20-4841-b4db-e4e6f88340d6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   110.39 | 2023-06-07T12:34:41Z |
+:END:
+
+[[id:a8fc0ec0-b94d-43e5-a63b-3db551f169cf][Executive (Tech career pathway)]]
+
+*** Back
+Drive one or many, but not all, aspect(s) of an existing product/business/etc
+*** Source
+[cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-21 Mon 18:04]
+:FC_CREATED: 2022-11-22T02:05:03Z
+:FC_TYPE:  normal
+:ID:       403d7408-c88c-4a1a-b851-d27723632067
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   115.08 | 2023-06-17T16:53:13Z |
+:END:
+
+[[id:8e8097dd-4312-45ed-b3f7-5e1dfea2007b][Employee (Tech career pathway)]]
+
+*** Back
+Work on an aspect of an existing product/business/etc under the direction of an Executive
+*** Source
+[cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
+#+print_bibliography:

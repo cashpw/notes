@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       e943172b-03c0-4a37-881d-5c8e620c9ec7
+:LAST_MODIFIED: [2023-03-13 Mon 07:34]
+:END:
+#+title: Burton Malkiel
+#+hugo_custom_front_matter: :slug "e943172b-03c0-4a37-881d-5c8e620c9ec7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:13]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       09c18752-65ac-49ba-9e46-e1e0e825faf0
+:ANKI_NOTE_ID: 1640627804098
+:FC_CREATED: 2021-12-27T17:56:44Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.45 |   8 |    59.29 | 2023-05-11T21:34:23Z |
+:END:
+
+[[id:e943172b-03c0-4a37-881d-5c8e620c9ec7][Burton Malkiel]]
+
+*** Back
+[[id:d5216a1b-5838-4518-aab4-f0521ae6fc21][A Random Walk Down Wall Street]]

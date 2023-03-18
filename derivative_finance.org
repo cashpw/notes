@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       7edbf731-5e0c-4eda-9803-1b1a88468f71
+:ROAM_REFS: [cite:@DerivativeFinance2022]
+:LAST_MODIFIED: [2023-03-09 Thu 19:18]
+:END:
+#+title: Derivative (finance)
+#+hugo_custom_front_matter: :slug "7edbf731-5e0c-4eda-9803-1b1a88468f71"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:21]
+#+filetags: :concept:
+#+begin_quote
+In finance, a derivative is a contract that derives its value from the performance of an underlying entity. This underlying entity can be an asset, index, or interest rate, and is often simply called the "underlying".
+
+[cite:@DerivativeFinance2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:30]
+:FC_CREATED: 2022-11-22T23:31:18Z
+:FC_TYPE:  double
+:ID:       16142a4f-fb9f-4ef7-989c-842d41615b8a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   116.44 | 2023-06-21T14:26:11Z |
+| back     | 2.65 |   6 |   110.07 | 2023-06-28T04:56:16Z |
+:END:
+
+[[id:7edbf731-5e0c-4eda-9803-1b1a88468f71][Derivative (finance)]]
+
+*** Back
+A financial security with a value that is reliant upon an underlying asset or group of assets (the benchmark).
+*** Source
+[cite:@DerivativeFinance2022]
+#+print_bibliography:

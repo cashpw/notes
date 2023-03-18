@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       23037fe1-9cfc-45da-aa28-2a3ca867e540
+:ROAM_REFS: [cite:@SpotContract2021]
+:LAST_MODIFIED: [2023-02-23 Thu 19:41]
+:END:
+#+title: Spot price
+#+hugo_custom_front_matter: :slug "23037fe1-9cfc-45da-aa28-2a3ca867e540"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 06:30]
+#+filetags: :concept:
+
+The current price of an asset.
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 12:33]
+:FC_CREATED: 2022-11-18T20:33:36Z
+:FC_TYPE:  double
+:ID:       42523b74-4e9e-44dc-a97d-e045238b4764
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    72.19 | 2023-04-26T18:46:20Z |
+| back     | 2.50 |   6 |    93.68 | 2023-05-28T20:00:38Z |
+:END:
+
+[[id:23037fe1-9cfc-45da-aa28-2a3ca867e540][Spot price]]
+
+*** Back
+The current price of an asset.
+*** Source
+[cite:@SpotContract2021]
+#+print_bibliography:

@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       e1661be1-5f0f-481c-9899-d5cb476096e5
+:ROAM_REFS: [cite:@BestfirstSearch2022]
+:LAST_MODIFIED: [2023-03-08 Wed 10:34]
+:END:
+#+title: Best-first search
+#+hugo_custom_front_matter: :slug "e1661be1-5f0f-481c-9899-d5cb476096e5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 16:34]
+#+filetags: :concept:
+
+#+begin_quote
+Best-first search is a class of search algorithms, which explore a graph by expanding the most promising node chosen according to a specified rule.
+
+[cite:@BestfirstSearch2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:34]
+:FC_CREATED: 2023-01-17T17:35:12Z
+:FC_TYPE:  double
+:ID:       8a65aa3d-9bc3-41de-9639-323b26d8f6a3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    42.44 | 2023-04-12T14:44:43Z |
+| back     | 2.80 |   5 |    42.86 | 2023-04-20T15:09:51Z |
+:END:
+
+[[id:e1661be1-5f0f-481c-9899-d5cb476096e5][Best-first search]]
+
+*** Back
+... is a class of search algorithms, which explore a graph by expanding the most promising node chosen according to a specified rule.
+*** Source
+[cite:@BestfirstSearch2022]
+#+print_bibliography:

@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43
+:LAST_MODIFIED: [2023-03-03 Fri 05:56]
+:END:
+#+title: Unstable sorting algorithm
+#+hugo_custom_front_matter: :slug "3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-17 Wed 16:20]
+#+filetags: :concept:
+
+A sorting algorithm which doesn't sort equal elements in the same order that they appear in the input. See [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]].
+
+#+begin_example
+unstable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
+> [(3, 'c'), (8, 'd'), (8, 'b'), (10, 'a')])
+#+end_example
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       2f069bf8-5719-4fc5-8f04-5a6a7cb379b7
+:ANKI_NOTE_ID: 1656856991582
+:FC_CREATED: 2022-07-03T14:03:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   249.84 | 2023-11-08T10:07:29Z |
+| front    | 2.65 |   6 |   127.78 | 2023-03-21T10:04:13Z |
+:END:
+[[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
+*** Back
+A type of algorithm which *doesn't* sort equal elements in the same order that they appear in the input.
+*** Source
+[cite:@SortingAlgorithm2022]
+** Example(s) (stability) :fc:
+:PROPERTIES:
+:ID:       d7dd7d60-74a4-4ddb-ae34-84713c42ad86
+:ANKI_NOTE_ID: 1656856993357
+:FC_CREATED: 2022-07-03T14:03:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   7 |   216.77 | 2023-09-02T11:17:15Z |
+| back     | 2.50 |   7 |   180.74 | 2023-08-17T08:35:47Z |
+:END:
+[[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
+*** Back
+- [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+*** Source
+[cite:@Quicksort2022]
+#+print_bibliography:

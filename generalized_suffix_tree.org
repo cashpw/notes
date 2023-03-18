@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       f9f02ed3-1796-4484-85ae-082664002d54
+:ROAM_REFS: [cite:@GeneralizedSuffixTree2022]
+:LAST_MODIFIED: [2023-02-22 Wed 18:23]
+:END:
+#+title: Generalized suffix tree
+#+hugo_custom_front_matter: :slug "f9f02ed3-1796-4484-85ae-082664002d54"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-25 Fri 10:05]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a generalized suffix tree is a suffix tree for a set of strings. Given the set of strings $D=S_{1},S_{2},\dots ,S_{d}$ of total length $n$, it is a [[id:e00b9c0f-103f-4c55-8938-e777f58d04fb][Patricia tree]] all $n$ suffixes of the strings.
+
+[cite:@GeneralizedSuffixTree2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:08]
+:FC_CREATED: 2022-11-25T18:09:19Z
+:FC_TYPE:  double
+:ID:       f5273ba6-675c-4e6f-91b3-3039681c8d65
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   117.63 | 2023-06-10T08:50:50Z |
+| back     | 2.20 |   6 |    87.68 | 2023-05-21T18:41:34Z |
+:END:
+
+[[id:f9f02ed3-1796-4484-85ae-082664002d54][Generalized suffix tree]]
+
+*** Back
+A [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] for a set of strings.
+*** Source
+[cite:@GeneralizedSuffixTree2022]
+#+print_bibliography:

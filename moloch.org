@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       3aea1e2f-dd21-4c21-a8c9-7efd610424c4
+:LAST_MODIFIED: [2022-12-25 Sun 07:24]
+:END:
+#+title: Moloch
+#+hugo_custom_front_matter: :slug "3aea1e2f-dd21-4c21-a8c9-7efd610424c4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-13 Sun 20:24]
+#+filetags: :concept:
+
+
+* Carthaginian demon
+
+#+begin_quote
+Since the medieval period, Moloch has often been portrayed as a bull-headed idol with outstretched hands over a fire; this depiction takes the brief mentions of Moloch in the Bible and combines them with various sources, including ancient accounts of Carthaginian child sacrifice and the legend of the Minotaur.
+
+"Moloch" has been figuratively used in reference to a person or a thing which demands or requires a very costly sacrifice
+[cite:@Moloch2022]
+#+end_quote
+
+* Personification of forces and systems which compel individuals to race to the bottom
+
+#+begin_quote
+Moloch is the personification of the forces that coerce competing individuals to take actions which, although locally optimal, ultimately lead to situations where everyone is worse off. Moreover, no individual is able to unilaterally break out of the dynamic. The situation is a bad Nash equilibrium. A trap.
+
+[cite:@Moloch]
+#+end_quote
+
+#+begin_quote
+The question everyone has after reading Ginsberg is: what is Moloch?
+
+My answer is: Moloch is exactly what the history books say he is. He is the god of child sacrifice, the fiery furnace into which you can toss your babies in exchange for victory in war.
+
+He always and everywhere offers the same deal: throw what you love most into the flames, and I can grant you power.
+
+[cite:@alexanderMeditationsMoloch2014]
+#+end_quote
+
+#+begin_verse
+What sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?
+Moloch! Solitude! Filth! Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!
+Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!
+[...]
+
+[cite:@ginsbergHowl2022]
+#+end_verse
+
+Related:
+
+- [[id:e93466a6-cad5-4f3c-bb75-7990f7e9886f][Howl]]
+- [[id:c3a12831-1c27-4928-8395-08216b3ae2e5][The less you eat, drink, buy books]]
+- [[id:1bba449a-48eb-479a-be4d-a4d7f8095b6a][Scott Alexander | Meditations On Moloch]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Optimization) :fc:
+:PROPERTIES:
+:ID:       279b0da9-e7f2-44cf-b44a-caee8fd061c2
+:ANKI_NOTE_ID: 1658004377000
+:FC_CREATED: 2022-07-16T20:46:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   135.70 | 2023-03-20T17:10:14Z |
+| front    | 2.50 |   7 |   150.73 | 2023-05-25T09:01:53Z |
+:END:
+
+[[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+
+*** Back
+Systems which compel the individuals within them to race to the bottom; to choose a locally optimal strategy rather than a globally optimal one.
+
+*** Source
+[cite:@alexanderMeditationsMoloch2014]
+
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       38fb34ce-7cfc-466d-bbff-fd9f53209b62
+:ANKI_NOTE_ID: 1658076389506
+:FC_CREATED: 2022-07-17T16:46:29Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   214.32 | 2023-07-23T22:59:28Z |
+:END:
+
+[[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] and [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the Commons]]
+
+*** Back
+- Both relate to failures of [[id:2e6843f6-0096-4e58-8d86-51126cadca19][Coordination]]
+- [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the Commons]] is a part, but not the whole, of [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+#+print_bibliography:

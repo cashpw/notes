@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a
+:ROAM_REFS: [cite:@MainDiagonal2022]
+:LAST_MODIFIED: [2023-02-26 Sun 07:51]
+:END:
+#+title: Main diagonal
+#+hugo_custom_front_matter: :slug "a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-21 Sun 05:25]
+#+filetags: :concept:
+
+#+begin_quote
+In linear algebra, the main diagonal (sometimes principal diagonal, primary diagonal, leading diagonal, major diagonal, or good diagonal) of a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) is the list of entries \(A_{i,j}\) where \(i=j\). All off-diagonal elements are zero in a diagonal matrix. The following three matrices have their main diagonals indicated by red ones:
+
+\(\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}\qquad\)\(\begin{bmatrix}1&0&0&0\\0&1&0&0\\0&0&1&0\end{bmatrix}\qquad\)\(\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\\0&0&0\end{bmatrix}\qquad\)\(\begin{bmatrix}1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1\end{bmatrix}\qquad\)
+
+[cite:@MainDiagonal2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 11:07]
+:FC_CREATED: 2022-11-22T19:08:58Z
+:FC_TYPE:  double
+:ID:       51470eb2-87ce-4c40-aa0e-142b8976bd9e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   116.59 | 2023-06-14T04:58:27Z |
+| back     | 2.80 |   6 |   113.27 | 2023-06-19T22:17:01Z |
+:END:
+
+[[id:a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a][Main diagonal]]
+
+*** Back
+$A_{i,j} \; \forall \; i = j \; \in A$
+*** Source
+[cite:@MainDiagonal2022]
+#+print_bibliography:

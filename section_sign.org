@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       0c397989-6d1f-430c-97a9-1d088a0270b8
+:ROAM_REFS: [cite:@SectionSign2022]
+:LAST_MODIFIED: [2023-03-09 Thu 18:59]
+:END:
+#+title: Section sign
+#+hugo_custom_front_matter: :slug "0c397989-6d1f-430c-97a9-1d088a0270b8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-16 Fri 15:39]
+#+filetags: :concept:
+
+#+begin_quote
+The section sign, §, is a typographical character for referencing individually numbered sections of a document; it is frequently used when citing sections of a legal code.
+
+[cite:@SectionSign2022]
+#+end_quote
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-12-16 Fri 15:40]
+:FC_CREATED: 2022-12-16T23:41:14Z
+:FC_TYPE:  cloze
+:ID:       f4fdf690-9cbd-4b3f-a60e-53ff150ee7af
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   140.59 | 2023-07-24T07:02:20Z |
+|        1 | 2.95 |   6 |   138.52 | 2023-07-26T15:26:38Z |
+:END:
+
+{{[[id:0c397989-6d1f-430c-97a9-1d088a0270b8][Section sign]]}@0}
+
+- {{§}@1}
+
+*** Source
+[cite:@SectionSign2022]
+#+print_bibliography:

@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       738c2ba7-a272-417d-9b6d-b6952d765280
+:ROAM_ALIASES: "Concrete data type" "Data structure"
+:LAST_MODIFIED: [2023-02-28 Tue 06:59]
+:END:
+#+title: Data structures
+#+hugo_custom_front_matter: :slug "738c2ba7-a272-417d-9b6d-b6952d765280"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-27 Mon 19:44]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a data structure is a data organization, management, and storage format that is usually chosen for efficient access to data. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data, i.e., it is an algebraic structure about data.
+
+[cite:@DataStructure2022]
+#+end_quote
+
+* Sizes
+
+- [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]: \(Z+O(1)\) (see [[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big O notation]])
+- [[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]: \(Z+o(Z)\) (see [[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]])
+
+* Flashcardscomputer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** AKA (Computer science) :fc:
+:PROPERTIES:
+:ID:       b95d22e9-5034-488a-83a2-ef7617600482
+:ANKI_NOTE_ID: 1656857096282
+:FC_CREATED: 2022-07-03T14:04:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   103.46 | 2023-04-17T03:34:15Z |
+|        1 | 2.05 |   7 |    97.94 | 2023-06-06T13:32:53Z |
+:END:
+- {{[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]}@0}
+- {{[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Concrete data type]]}@1}
+*** Source
+[cite:@DataStructure2022]
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       31227d90-ab77-4b58-b518-b94ca67bb8ec
+:ANKI_NOTE_ID: 1656857097156
+:FC_CREATED: 2022-07-03T14:04:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   141.98 | 2023-03-20T15:29:29Z |
+| front    | 2.35 |   6 |   137.40 | 2023-03-28T02:06:48Z |
+:END:
+[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]
+*** Back
+A collection of data values, the relationships among them, and the functions or operations that can be applied to the data; defined in terms of its implementation.
+*** Source
+[cite:@DataStructure2022]
+#+print_bibliography:

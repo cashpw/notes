@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       dc929031-e15a-4566-a7bd-7331768ee02f
+:ROAM_ALIASES: "Sorted binary tree" "Ordered search tree"
+:LAST_MODIFIED: [2023-03-17 Fri 07:01]
+:END:
+#+title: Binary search tree
+#+hugo_custom_front_matter: :slug "dc929031-e15a-4566-a7bd-7331768ee02f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 16:43]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a binary search tree (BST), also called an ordered or sorted binary tree, is a rooted [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree. The time complexity of operations on the binary search tree is directly proportional to the height of the tree.
+
+[cite:@BinarySearchTree2022]
+#+end_quote
+
+* Complexity
+
+|        | Worst-case    | Best-case |
+|--------+---------------+-----------|
+| Space  | \(\bigo{n}\)      | \(\bigo{n}\)  |
+| Search | \(\bigo{\log n}\) | \(\bigo{n}\)  |
+| Insert | \(\bigo{\log n}\) | \(\bigo{n}\)  |
+| Delete | \(\bigo{\log n}\) | \(\bigo{n}\)  |
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] space complexity: {{$O(n)$}@0} :fc:
+:PROPERTIES:
+:ID:       21176782-5d65-43a8-acb9-227e21090f96
+:ANKI_NOTE_ID: 1658620209131
+:FC_CREATED: 2022-07-23T23:50:09Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   158.41 | 2023-06-28T23:57:45Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BinarySearchTree2022]
+
+** [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] time complexity for search: {{$O(\log n)$}@0} :fc:
+:PROPERTIES:
+:ID:       44463c70-bba7-4976-9840-b93ba96959a7
+:ANKI_NOTE_ID: 1658620210206
+:FC_CREATED: 2022-07-23T23:50:10Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   302.07 | 2024-01-13T15:40:02Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BinarySearchTree2022]
+
+** [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] time complexity for insert: {{$O(\log n)$}@0} :fc:
+:PROPERTIES:
+:ID:       18d746c9-50e6-4a32-9f51-a4abe3ed51bc
+:ANKI_NOTE_ID: 1658620210957
+:FC_CREATED: 2022-07-23T23:50:10Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   179.45 | 2023-05-25T01:45:50Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BinarySearchTree2022]
+
+** [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] time complexity for delete: {{$O(\log n)$}@0} :fc:
+:PROPERTIES:
+:ID:       271f8439-a915-417b-a487-07f78c1e4f75
+:ANKI_NOTE_ID: 1658620211681
+:FC_CREATED: 2022-07-23T23:50:11Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   136.23 | 2023-06-06T20:02:09Z |
+:END:
+*** Extra
+*** Source
+[cite:@BinarySearchTree2022]
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       ca08b305-f2d2-48a5-abd9-3758addb6103
+:ANKI_NOTE_ID: 1658620212783
+:FC_CREATED: 2022-07-23T23:50:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   173.24 | 2023-07-10T20:54:06Z |
+| front    | 2.35 |   6 |    86.93 | 2023-03-24T15:01:57Z |
+:END:
+
+[[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]]
+
+*** Back
+A binary tree in which satisfies the binary search property. That is, the nodes are arranged in [[id:131299ef-557c-4421-b021-eebba79aaa59][Total order]]:
+
+1. A given node's key is greater than all the keys along the node's left subtree.
+1. A given node's key is less than all the keys along the node's right subtree.
+
+*** Source
+[cite:@BinarySearchTree2022]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       1aae59e3-e65b-43c6-b381-19af0c7d8ef2
+:ANKI_NOTE_ID: 1658621725431
+:FC_CREATED: 2022-07-24T00:15:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  10 |   272.70 | 2023-11-06T16:47:50Z |
+|        1 | 2.50 |   7 |   228.06 | 2023-08-03T20:04:00Z |
+|        2 | 2.50 |   7 |   157.50 | 2023-06-22T04:05:44Z |
+:END:
+
+- {{[[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]]}@0}
+- {{[[id:dc929031-e15a-4566-a7bd-7331768ee02f][Sorted binary tree]]}@1}
+- {{[[id:dc929031-e15a-4566-a7bd-7331768ee02f][Ordered search tree]]}@2}
+
+*** Source
+[cite:@BinarySearchTree2022]
+#+print_bibliography:

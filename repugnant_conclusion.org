@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       9c5f4644-6806-462f-9a54-eb67989a50a1
+:ROAM_REFS: [cite:@MereAdditionParadox2022]
+:ROAM_ALIASES: "Mere addition paradox"
+:LAST_MODIFIED: [2023-03-14 Tue 08:05]
+:END:
+#+title: Repugnant conclusion
+#+hugo_custom_front_matter: :slug "9c5f4644-6806-462f-9a54-eb67989a50a1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 10:38]
+#+filetags: :concept:
+
+The repugnant conclusion is problem in utilitarianism. Utilitarianism concerns itself with the total happiness and well-being of all individuals. Taken to an extreme, this line of thinking leads to societies which are "good" from a purely utilitarian perspective but are nonetheless "repugnant" from a general perspective. This includes situations like slavery. A society of 1000 slaves with 1 unit of happiness a piece is better off, from a purely utilitarian perspective, than a society of 100 non-slaves who each only have 9 units of happiness.
+
+#+begin_quote
+For any perfectly equal population with very high positive welfare, there is a population with very low positive welfare which is better, other things being equal.
+[cite:@MereAdditionParadox2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 15:00]
+:FC_CREATED: 2022-11-23T23:01:51Z
+:FC_TYPE:  double
+:ID:       d905bc38-e675-4e33-96e2-d035a175f202
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   7 |    96.99 | 2023-06-19T14:47:51Z |
+| back     | 2.50 |   6 |    82.26 | 2023-05-04T21:41:53Z |
+:END:
+
+[[id:9c5f4644-6806-462f-9a54-eb67989a50a1][Repugnant conclusion]]
+
+*** Back
+A problem in utilitarianism wherein populations are "better" in terms of total amount of happiness and yet would be called "worse" by general moral frameworks.
+*** Source
+[cite:@MereAdditionParadox2022]
+#+print_bibliography:

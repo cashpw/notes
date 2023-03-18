@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       c5f0758f-1499-4284-bb87-77ee55819c3c
+:LAST_MODIFIED: [2023-02-23 Thu 19:47]
+:END:
+#+title: Meta level
+#+hugo_custom_front_matter: :slug "c5f0758f-1499-4284-bb87-77ee55819c3c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-12 Thu 10:33]
+#+filetags: :concept:
+
+#+begin_quote
+Object level [[[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]]] vs Meta level is a distinction between levels of abstraction, [...] while meta level is concerned with the general principles which apply to a wider range of examples. It is often useful to move up and down the ladder of abstraction to get points across clearly, with the object level providing firm grounding and concrete examples for a person to grasp, while the meta layer allows them to generalize a new concept to a broad domain.
+
+[cite:@lesswrongObjectLevelMetaLevel]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-12 Thu 10:36]
+:FC_CREATED: 2023-01-12T18:36:54Z
+:FC_TYPE:  double
+:ID:       b31e13ff-0bc0-46c7-9849-f488b1ce13e8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.61 | 2023-03-29T05:36:51Z |
+| back     | 2.80 |   5 |    46.02 | 2023-04-11T04:21:46Z |
+:END:
+
+[[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]
+
+*** Back
+The category of higher-order principles which apply broadly to "things like X"
+*** Source
+[cite:@lesswrongObjectLevelMetaLevel]
+#+print_bibliography:

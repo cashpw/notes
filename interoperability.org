@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       a41fccc0-fe85-462b-b8e9-5758fd6327b3
+:ROAM_ALIASES: Interoperable
+:LAST_MODIFIED: [2023-03-10 Fri 21:27]
+:END:
+#+title: Interoperability
+#+hugo_custom_front_matter: :slug "a41fccc0-fe85-462b-b8e9-5758fd6327b3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 10:28]
+#+filetags: :concept:
+
+#+begin_quote
+Interoperability is a characteristic of a product or system to work with other products or systems. While the term was initially defined for information technology or systems engineering services to allow for information exchange, a broader definition takes into account social, political, and organizational factors that impact system-to-system performance.
+
+[cite:@Interoperability2022]
+#+end_quote
+
+* Types
+
+- [[id:fba2b035-cd82-46c9-9797-25b0b1419b42][Indifferent interoperability]]
+- [[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]
+- [[id:b043e085-a9d3-4da5-8686-938fb3bfdcda][Adversarial interoperability]]
+
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:16]
+:FC_CREATED: 2022-11-22T22:16:40Z
+:FC_TYPE:  double
+:ID:       1083de10-13cf-4e8d-8610-70f0002016b7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |    98.15 | 2023-05-21T21:12:22Z |
+| back     | 2.95 |   6 |   135.81 | 2023-07-25T00:59:37Z |
+:END:
+
+[[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Interoperability]]
+
+*** Back
+The characteristic of a product or system to work with other products or systems.
+*** Source
+[cite:@Interoperability2022]
+#+print_bibliography:

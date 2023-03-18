@@ -1,0 +1,113 @@
+:PROPERTIES:
+:ID:       4a246de2-16ae-4fa6-abaa-7cfb533eccdb
+:ROAM_ALIASES: "Sliding window"
+:ROAM_REFS: [cite:@Convolution2022]
+:LAST_MODIFIED: [2023-03-14 Tue 08:08]
+:END:
+#+title: Convolution
+#+hugo_custom_front_matter: :slug "4a246de2-16ae-4fa6-abaa-7cfb533eccdb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 19:31]
+#+filetags: :has_todo:concept:
+* TODO [#2]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** AKA (Math) :fc:
+:PROPERTIES:
+:ID:       1efd1643-c9b9-4761-8825-ed478c2eab45
+:ANKI_NOTE_ID: 1656857091708
+:FC_CREATED: 2022-07-03T14:04:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   153.34 | 2023-04-06T00:37:53Z |
+|        1 | 2.80 |   6 |   101.45 | 2023-05-03T00:59:23Z |
+:END:
+- {{[[id:4a246de2-16ae-4fa6-abaa-7cfb533eccdb][Convolution]]}@0}
+- {{[[id:4a246de2-16ae-4fa6-abaa-7cfb533eccdb][Sliding window]]}@1}
+*** Source
+[cite:@Convolution2022]
+
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       95526863-b72d-4d7f-8a46-b1fe9876dd22
+:ANKI_NOTE_ID: 1640627892796
+:FC_CREATED: 2021-12-27T17:58:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  15 |   362.84 | 2024-02-14T23:30:02Z |
+| front    | 2.65 |   8 |   344.17 | 2024-02-09T19:59:13Z |
+:END:
+[[id:4a246de2-16ae-4fa6-abaa-7cfb533eccdb][Convolution]]
+*** Back
+An operation on two functions, \(f_1\) and \(f_2\), which produces a third function that expresses how the shape of one is modified by the other.
+*** Extra
+[[file:convolution.png]]
+*** Source
+[cite:@Convolution2022]
+
+** (Continuous function) {{$(f_1 * f_2)(t)$}@0} \(=\) {{$\int_{-\infty}^{\infty} f_1(\tau)f_2(t - \tau)d\tau$}@1} :fc:
+:PROPERTIES:
+:ID:       87728de9-0a82-4469-bf68-2ac9dc23581f
+:ANKI_NOTE_ID: 1640627893024
+:FC_CREATED: 2021-12-27T17:58:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  13 |   388.16 | 2024-04-05T19:03:33Z |
+|        1 | 2.35 |   8 |   227.30 | 2023-07-26T00:36:17Z |
+:END:
+
+*** Source
+[cite:@Convolution2022]
+
+** (Discrete functions) {{$(f_1 * f_2)(n)$}@0} \(=\) {{$\sum_{m = -\infty}^{\infty} f_1(m)f_2(n - m)$}@1} :fc:
+:PROPERTIES:
+:ID:       1cd301a8-9061-49f8-8678-b29f9c273a8e
+:ANKI_NOTE_ID: 1640627893497
+:FC_CREATED: 2021-12-27T17:58:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  19 |   314.84 | 2023-11-17T10:43:51Z |
+|        1 | 2.20 |   6 |    71.92 | 2023-04-08T13:04:26Z |
+:END:
+*** Source
+[cite:@Convolution2022]
+
+** {{$(\vec{a} * \vec{b})_i$}@0} \(=\) {{$\sum_{j} \vec{a}_{j}\vec{b}_{i-j}$}@1} :fc:
+:PROPERTIES:
+:ID:       60d7de1c-6997-4fff-9b2e-d255ae4072e6
+:ANKI_NOTE_ID: 1640627893746
+:FC_CREATED: 2021-12-27T17:58:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  32 |   179.29 | 2023-05-03T07:20:58Z |
+|        1 | 1.75 |   7 |    76.24 | 2023-05-20T23:17:25Z |
+:END:
+
+*** Source
+[cite:@Convolution2022]
+#+print_bibliography:

@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       79b155d7-5a67-469d-b3f4-b8010cad8b54
+:ROAM_ALIASES: Arrays
+:LAST_MODIFIED: [2023-01-30 Mon 08:14]
+:END:
+#+title: Array
+#+hugo_custom_front_matter: :slug "79b155d7-5a67-469d-b3f4-b8010cad8b54"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 09:38]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, an array [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]], or simply an array, is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula.
+
+[cite:@ArrayDataStructure2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition ([[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]) :fc:
+:PROPERTIES:
+:ID:       bfe8be64-a85b-47d9-b6ef-3c3a4c24930e
+:ANKI_NOTE_ID: 1658619196456
+:FC_CREATED: 2022-07-23T23:33:16Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   6 |   151.48 | 2023-07-01T03:47:51Z |
+| front    | 2.50 |   6 |    85.54 | 2023-05-03T07:53:54Z |
+:END:
+
+[[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Array]]
+
+*** Back
+A collection of elements each identified by an index which is stored in such a way that the position in memory of each element is calculable from its index.
+
+*** Source
+[cite:@ArrayDataStructure2022]
+#+print_bibliography:

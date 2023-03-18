@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       23a21efb-912c-46ff-84f6-5b3d68f96060
+:LAST_MODIFIED: [2022-12-24 Sat 09:22]
+:END:
+#+title: Daniela Witten
+#+hugo_custom_front_matter: :slug "23a21efb-912c-46ff-84f6-5b3d68f96060"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:19]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       a12006ad-06bb-4a20-8cc6-2650b7353729
+:ANKI_NOTE_ID: 1640627806274
+:FC_CREATED: 2021-12-27T17:56:46Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   199.30 | 2023-06-23T07:47:19Z |
+:END:
+
+[[id:23a21efb-912c-46ff-84f6-5b3d68f96060][Daniela Witten]]
+
+*** Back
+[[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]

@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       a95ec6df-303d-4a07-a9bd-ac6e4b807679
+:ROAM_REFS: [cite:@AdjacencyList2022]
+:LAST_MODIFIED: [2023-02-23 Thu 19:52]
+:END:
+#+title: Adjacency list
+#+hugo_custom_front_matter: :slug "a95ec6df-303d-4a07-a9bd-ac6e4b807679"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 19:07]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.
+
+[cite:@AdjacencyList2022]
+#+end_quote
+
+[[file:120px-Simple_cycle_graph.svg.png]]
+
+The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
+
+| Vertices | Edges |
+|----------+-------|
+| A        | B, C  |
+| B        | A, C  |
+| C        | A, B  |
+
+Also see [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       777652d0-cf5b-4957-98c2-ec7802437acc
+:ANKI_NOTE_ID: 1656857413033
+:FC_CREATED: 2022-07-03T14:10:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   6 |    70.87 | 2023-05-06T00:44:11Z |
+| front    | 2.50 |   7 |   206.65 | 2023-08-07T06:41:23Z |
+:END:
+[[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]
+*** Back
+A representation of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] using a collection of unordered lists.
+*** Source
+[cite:@AdjacencyList2022]
+#+print_bibliography:

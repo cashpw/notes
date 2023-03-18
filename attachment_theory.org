@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5f944538-ef8c-464f-b2da-c0f973558eca
+:ROAM_REFS: [cite:@AttachmentTheory2022]
+:LAST_MODIFIED: [2022-12-14 Wed 13:54]
+:END:
+#+title: Attachment theory
+#+hugo_custom_front_matter: :slug "5f944538-ef8c-464f-b2da-c0f973558eca"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 11:34]
+#+filetags: :concept:
+#+begin_quote
+Attachment theory is a psychological, evolutionary and ethological theory concerning relationships between humans. The most important tenet is that young children need to develop a relationship with at least one primary caregiver for normal social and emotional development.
+
+[cite:@AttachmentTheory2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

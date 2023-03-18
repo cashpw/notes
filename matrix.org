@@ -1,0 +1,112 @@
+:PROPERTIES:
+:ID:       7a43b0c7-b933-4e37-81b8-e5ecf9a83956
+:ROAM_REFS: [cite:@MatrixMathematics2022]
+:LAST_MODIFIED: [2023-03-11 Sat 16:22]
+:END:
+#+title: Matrix
+#+hugo_custom_front_matter: :slug "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-21 Sun 05:17]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a matrix (plural matrices) is a rectangular array or table of numbers, symbols, or expressions, arranged in rows and columns, which is used to represent a mathematical object or a property of such an object.
+
+For example,
+
+$$\begin{bmatrix}1&9&-13\\20&5&-6\end{bmatrix}$$
+
+is a matrix with two rows and three columns. This is often referred to as a "two by three matrix", a "2×3-matrix", or a matrix of dimension 2×3.
+
+[cite:@MatrixMathematics2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 11:02]
+:FC_CREATED: 2022-11-22T19:03:48Z
+:FC_TYPE:  double
+:ID:       2900374e-bec6-4c0a-963b-61f01789b50f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   105.71 | 2023-05-23T20:50:29Z |
+| back     | 3.10 |   6 |   172.58 | 2023-08-22T05:58:26Z |
+:END:
+
+[[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] (Math)
+
+*** Back
+A rectangular array of numbers/symbols/expressions arranged in rows and columns to represent a mathematical object or a property of such an object.
+*** Source
+[cite:@MatrixMathematics2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       faf17082-8559-4427-8e9e-d1b2a9170ed6
+:ANKI_NOTE_ID: 1640628524397
+:FC_CREATED: 2021-12-27T18:08:44Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    13.07 | 2023-03-23T04:39:27Z |
+| back     | 2.65 |   7 |   159.81 | 2023-03-23T22:40:28Z |
+:END:
+Matrix equivalence
+*** Back
+A generalized form of row equivalence for matrices.
+
+Equivalent statements:
+
+1. $A_{n \times n} = P_{n \times n}B_{n \times n}Q_{n \times n}$ $|$ $P_{n \times n}$ and $Q_{n \times n}$ are nonsingular
+2. $\operatorname{rank}(A_{n \times n}) = \operatorname{rank}(B_{n \times n})$
+
+*** Extra
+$P_{n \times n}B_{n \times n}Q_{n \times n}$ is the generalized form of applying a series of elementary row and column operations to $B_{n \times n}$. Nonsingular matrices can be expressed as a product of elementary matrices. Left-multiplication ($P_{n \times n}B_{n \times n}$) performs row operations while right-multiplication ($B_{n \times n}Q_{n \times n}$) performs column operations.
+*** Source
+[cite:@MatrixEquivalence2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-24 Fri 19:40]
+:FC_CREATED: 2023-02-25T03:40:39Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       ea776f31-c1bd-4a3f-8f81-5cfac9147105
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   4 |    14.70 | 2023-03-25T22:11:36Z |
+:END:
+
+Two matrices which are matrix equivalent {{have the same rank}{rank}@0}.
+
+*** Source
+[cite:@MatrixEquivalence2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-24 Fri 19:40]
+:FC_CREATED: 2023-02-25T03:40:39Z
+:FC_TYPE:  cloze
+:ID:       f1282cd6-62d5-40e1-b763-b2c25126f3e3
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   4 |    13.82 | 2023-03-25T20:04:56Z |
+:END:
+
+Two matrices which are matrix equivalent {{$A_{n \times n} = P_{n \times n}B_{n \times n}Q_{n \times n}$ $|$ $P_{n \times n}$ and $Q_{n \times n}$ are nonsingular}{operations}@0}.
+
+*** Source
+[cite:@MatrixEquivalence2022]
+#+print_bibliography:

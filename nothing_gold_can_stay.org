@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       90684bfd-668f-4559-bac8-99cbcefb4c08
+:ROAM_ALIASES: "Nothing gold can stay"
+:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:END:
+#+title: Robert Frost | Nothing Gold Can Stay
+#+hugo_custom_front_matter: :slug "90684bfd-668f-4559-bac8-99cbcefb4c08"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-20 Wed 11:30]
+#+filetags: :poem:
+
+#+begin_verse
+Nature's first green is gold,
+Her hardest hue to hold.
+Her early leaf's a flower;
+But only so an hour.
+The leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day,
+Nothing gold can stay.
+#+end_verse
+
+[[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]], [cite:@NothingGoldCanStayPoem2022]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Poem :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-16T03:09:20Z
+:FC_TYPE:  cloze
+:ID:       e4ae19ae-e722-4b35-88c3-04dbd5e69ee9
+:FC_CLOZE_MAX: 7
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    75.35 | 2023-04-11T01:09:37Z |
+|        1 | 2.05 |   6 |    53.02 | 2023-03-26T17:45:45Z |
+|        2 | 2.50 |   6 |    97.14 | 2023-06-03T19:05:51Z |
+|        3 | 2.95 |   5 |    50.14 | 2023-03-19T19:54:13Z |
+|        4 | 2.20 |   6 |    64.94 | 2023-05-14T01:25:34Z |
+|        5 | 2.35 |   5 |    30.97 | 2023-03-20T01:05:10Z |
+|        6 | 2.05 |   6 |    62.74 | 2023-05-19T07:56:34Z |
+|        7 | 2.50 |   5 |    33.08 | 2023-03-22T17:03:49Z |
+:END:
+
+[[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing gold can stay]]
+
+#+begin_verse
+{{Nature's first green is gold,}@0}
+{{Her hardest hue to hold.}@1}
+{{Her early leaf's a flower;}@2}
+{{But only so an hour.}@3}
+{{The leaf subsides to leaf.}@4}
+{{So Eden sank to grief,}@5}
+{{So dawn goes down to day,}@6}
+{{Nothing gold can stay.}@7}
+#+end_verse
+
+** Poem (full) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-16T17:35:37Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY:       e4ae19ae-e722-4b35-88c3-04dbd5e69ee9
+:ID:       64390618-3523-49aa-8e3c-2b619a574c84
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    46.99 | 2023-04-30T15:09:23Z |
+:END:
+
+[[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing gold can stay]]
+
+*** Back
+#+begin_verse
+Nature's first green is gold,
+Her hardest hue to hold.
+Her early leaf's a flower;
+But only so an hour.
+The leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day,
+Nothing gold can stay.
+#+end_verse
+
+** Source :fc:
+:PROPERTIES:
+:ID:       20591f10-8bec-492c-a7eb-1048fba596ed
+:ANKI_NOTE_ID: 1658344286012
+:FC_CREATED: 2022-07-20T19:11:26Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   9 |   234.65 | 2023-10-23T07:32:24Z |
+:END:
+[[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing Gold Can Stay]]
+*** Back
+[[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]]
+#+print_bibliography:

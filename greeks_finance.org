@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       672c801e-3d66-449b-a2eb-66dc1b134d74
+:END:
+#+title: Greeks (finance)
+#+hugo_custom_front_matter: :slug "672c801e-3d66-449b-a2eb-66dc1b134d74"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 17:38]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematical finance, the Greeks are the quantities representing the sensitivity of the price of derivatives such as options to a change in underlying parameters on which the value of an instrument or portfolio of financial instruments is dependent. The name is used because the most common of these sensitivities are denoted by Greek letters (as are some other finance measures).
+
+[cite:@GreeksFinance2022]
+#+end_quote
+
+- [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (finance)]], $\Delta$
+- [[id:258a5932-07d8-4d5c-8442-ef08e3f8d45d][Gamma (finance)]], $\Gamma$
+- [[id:f54153f5-fc44-41ce-b4dd-4274c95fbcec][Vega (finance)]], $\mathcal{V}$
+- [[id:52a7a44e-dbca-4eae-974a-b7185c2c97b7][Theta (finance)]], $\Theta$
+
+* Flashcards
+#+print_bibliography:

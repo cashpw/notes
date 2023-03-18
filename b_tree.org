@@ -1,0 +1,304 @@
+:PROPERTIES:
+:ID:       170cf2cd-adb9-4a26-8793-1b31b2ef40c2
+:ROAM_REFS: [cite:@Btree2022]
+:ROAM_ALIASES: B-trees
+:LAST_MODIFIED: [2023-03-04 Sat 07:03]
+:END:
+#+title: B-tree
+#+hugo_custom_front_matter: :slug "170cf2cd-adb9-4a26-8793-1b31b2ef40c2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 16:55]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a B-tree is a self-balancing [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. The B-tree generalizes the [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]], allowing for nodes with more than two children. Unlike other [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search trees]], the B-tree is well suited for storage systems that read and write relatively large blocks of data, such as databases and file systems.
+
+[cite:@Btree2022]
+#+end_quote
+
+#+DOWNLOADED: https://cdn.programiz.com/sites/tutorial2program/files/b-tree.png @ 2022-09-21 17:58:24
+[[file:2022-09-21_17-58-24_b-tree.png]]
+
+([cite:@programizBtree])
+
+#+begin_quote
+Each internal node of a B-tree contains a number of keys. The keys act as separation values which divide its subtrees. For example, if an internal node has 3 child nodes (or subtrees) then it must have 2 keys: $a_1$ and $a_2$ [(e.g. $30$ and $33$ in the image above)]. All values in the leftmost subtree will be less than $a_1$, all values in the middle subtree will be between $a_1$ and $a_2$, and all values in the rightmost subtree will be greater than $a_2$.
+
+[cite:@Btree2022]
+#+end_quote
+
+* Properties
+
+For a given [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] of order $m$:
+
+1. Each [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] has at most $m$ children
+2. The root has at least two children unless it's a leaf
+3. Internal (non-leaf) [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] store:
+   1. Pointers to child [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]
+   2. Keys which indicate the bounds of the elements in the leaves below.
+4. Internal [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] have between $\lceil m/2 \rceil$ and $m$ children
+5. Internal [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] with $k$ children have $k - 1$ keys
+6. Leaf [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] store data
+7. Leaf [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are all on the same level
+
+* Operations
+
+** Lookup
+
+#+begin_quote
+Lookup in a [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] is straightforward. Given a node to start from, we use a simple linear or binary search to find whether the desired element is in the node, or if not, which child pointer to follow from the current node.
+
+[cite:@Btrees]
+#+end_quote
+
+*** Time complexity
+
+Worst case: $\bigo{\log n}$
+
+
+** Insertion
+
+#+begin_quote
+Insertion and deletion from a B-tree are more complicated; in fact, they are notoriously difficult to implement correctly. For insertion, we first find the appropriate leaf node into which the inserted element falls (assuming it is not already in the tree). If there is already room in the node, the new element can be inserted simply. Otherwise the current leaf is already full and must be split into two leaves, one of which acquires the new element. The parent is then updated to contain a new key and child pointer. If the parent is already full, the process ripples upwards, eventually possibly reaching the root. If the root is split into two, then a new root is created with just two children, increasing the height of the tree by one.
+
+For example, here is the effect of a series of insertions. The first insertion (13) merely affects a leaf. The second insertion (14) overflows the leaf and adds a key to an internal node. The third insertion propagates all the way to the root.
+
+[cite:@Btrees]
+#+end_quote
+
+
+#+DOWNLOADED: https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/images/B-trees-insert.gif @ 2022-09-21 18:50:51
+[[file:2022-09-21_18-50-51_B-trees-insert.gif]]
+
+#+DOWNLOADED: https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/images/B-trees-insert2.gif @ 2022-09-21 18:51:06
+[[file:2022-09-21_18-51-06_B-trees-insert2.gif]]
+
+#+DOWNLOADED: https://www.cs.cornell.edu/courses/cs3110/2012sp/recitations/rec25-B-trees/images/B-trees-insert3.gif @ 2022-09-21 18:51:20
+[[file:2022-09-21_18-51-20_B-trees-insert3.gif]]
+
+([cite:@Btrees])
+
+#+DOWNLOADED: https://cdn.programiz.com/sites/tutorial2program/files/insertion.png @ 2022-09-21 18:53:50
+[[file:2022-09-21_18-53-50_insertion.png]]
+
+([cite:@InsertionBtree])
+
+*** Time complexity
+
+Worst case: $\bigo{\log n}$
+
+
+** Deletion
+
+#+begin_quote
+Deletion works in the opposite way: the element is removed from the leaf. If the leaf becomes empty, a key is removed from the parent node. If that breaks invariant 3, the keys of the parent node and its immediate right (or left) sibling are reapportioned among them so that invariant 3 is satisfied. If this is not possible, the parent node can be combined with that sibling, removing a key another level up in the tree and possible causing a ripple all the way to the root. If the root has just two children, and they are combined, then the root is deleted and the new combined node becomes the root of the tree, reducing the height of the tree by one.
+
+[cite:@Btrees]
+#+end_quote
+
+*** Time complexity
+
+Worst case: $\bigo{\log n}$
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** {{Inner [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@0} in [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-trees]] of order $m$ have {{between $\lceil \frac{m}{2} \rceil$ and $m$}@1} children :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:21:34Z
+:FC_TYPE:  cloze
+:ID:       2f9ed669-7970-44d4-aa0e-fde4b8d266de
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    61.88 | 2023-04-14T12:44:23Z |
+|        1 | 1.45 |   7 |    45.23 | 2023-04-16T21:18:10Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@0} in [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-trees]] with $k$ children have {{$k-1$}@1} keys :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:23:38Z
+:FC_TYPE:  cloze
+:ID:       109437bc-4203-4ea0-80b0-6e0b5cce399c
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    67.11 | 2023-03-19T17:44:24Z |
+|        1 | 2.20 |   6 |    75.63 | 2023-04-05T07:27:12Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] {{leaf [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@0} are {{all on the same level}{level}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:24:37Z
+:FC_TYPE:  cloze
+:ID:       b3eba2d7-f4ae-4ccd-950d-ddd5293695ba
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   124.13 | 2023-05-12T18:59:01Z |
+|        1 | 3.10 |   6 |   161.69 | 2023-06-29T08:04:23Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** The root [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] of a [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] has {{$\ge 2$}@0} children unless {{it's a leaf}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:25:44Z
+:FC_TYPE:  cloze
+:ID:       494c736b-56c3-4182-bf45-2aa282dd77f8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    54.83 | 2023-04-03T18:52:41Z |
+|        1 | 2.50 |   6 |    74.40 | 2023-04-22T07:23:26Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] {{internal [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@2} store {{keys}@0} and {{pointers to child [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T14:25:25Z
+:FC_TYPE:  cloze
+:ID:       393ae8d5-3d8c-4630-b870-e61e0a9ddff3
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_CONTEXT_COUNT: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        2 | 2.50 |   6 |   105.48 | 2023-05-11T04:00:40Z |
+|        0 | 2.65 |   6 |   117.76 | 2023-06-01T09:48:39Z |
+|        1 | 2.65 |   6 |   114.57 | 2023-06-27T04:47:13Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] {{leaf}@0} [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] store {{data}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T14:25:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_CONTEXT_COUNT: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       23f111bf-48bf-40cb-9f3f-07eaa138aaca
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   151.77 | 2023-07-09T17:25:03Z |
+|        1 | 2.80 |   6 |   108.65 | 2023-06-06T06:39:36Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** Image :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:28:08Z
+:FC_TYPE:  double
+:ID:       87f8ff70-7b17-4a7a-89b0-b301602988d9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |    93.88 | 2023-03-28T13:23:25Z |
+| back     | 2.80 |   6 |   126.44 | 2023-05-23T12:35:52Z |
+:END:
+[[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]]
+*** Back
+#+DOWNLOADED: https://cdn.programiz.com/sites/tutorial2program/files/b-tree.png @ 2022-09-21 17:58:24
+[[file:2022-09-21_17-58-24_b-tree.png]]
+*** Source
+[cite:@programizBtree]
+** [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-trees]] are {{self-balancing}{balance}@0} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:33:18Z
+:FC_TYPE:  cloze
+:ID:       65ac8ee3-9d9f-49e7-b073-b80cf0e73f5d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   116.38 | 2023-05-05T00:38:14Z |
+:END:
+*** Source
+[cite:@Btree2022]
+
+** {{[[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-trees]]}@0} generalize {{[[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]]}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T01:34:17Z
+:FC_TYPE:  cloze
+:ID:       9811a90d-314d-46fe-83a8-a1b52b620b9f
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   140.82 | 2023-05-26T10:33:33Z |
+|        1 | 2.20 |   6 |    66.52 | 2023-03-23T04:27:36Z |
+:END:
+*** Source
+[cite:@Btree2022]
+
+** Time complexity for [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] insert: {{$\bigo{\log n}$}@0} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T02:01:55Z
+:FC_TYPE:  cloze
+:ID:       71f52a7d-408f-47e2-b84a-9e26be77b003
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   132.21 | 2023-05-31T21:31:48Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** Time complexity for [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] delete: {{$\bigo{\log n}$}@0} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T02:01:59Z
+:FC_TYPE:  cloze
+:ID:       4ea7d8ae-5d95-4cd9-a1bc-5cf18317fcf8
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   111.86 | 2023-05-13T11:01:17Z |
+:END:
+*** Source
+[cite:@Btree2022]
+** Time complexity for [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]] lookup: {{$\bigo{\log n}$}@0} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T02:02:02Z
+:FC_TYPE:  cloze
+:ID:       1459ca6f-9cdb-41d9-a5e3-22f229a977d5
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   128.43 | 2023-05-10T14:09:37Z |
+:END:
+*** Source
+[cite:@Btree2022]
+#+print_bibliography:

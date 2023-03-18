@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       bfd9d033-cca5-4fb1-9cda-78dd3eabe65b
+:LAST_MODIFIED: [2023-03-15 Wed 08:03]
+:END:
+#+title: Affect and Effect
+#+hugo_custom_front_matter: :slug "bfd9d033-cca5-4fb1-9cda-78dd3eabe65b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-18 Sat 10:47]
+#+filetags: :concept:
+* Flashcards
+** Affect :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 16:33]
+:FC_CREATED: 2023-01-29T00:35:01Z
+:FC_TYPE:  vocab
+:ID:       643cab14-c600-4606-8878-b8a4f1eb4e41
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    55.03 | 2023-05-04T03:36:45Z |
+| back     | 2.80 |   5 |    45.91 | 2023-04-29T12:31:57Z |
+:END:
+
+To influence or alter
+*** Source
+[cite:@Affect2023]
+** Effect :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 16:35]
+:FC_CREATED: 2023-01-29T00:35:22Z
+:FC_TYPE:  vocab
+:ID:       e25d583e-8a4b-46dc-b8bc-87ddf0ff3961
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    48.85 | 2023-05-02T11:40:53Z |
+| back     | 2.65 |   5 |    40.38 | 2023-04-25T00:15:11Z |
+:END:
+
+The result or outcome of a cause
+*** Source
+[cite:@Effect2023]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 16:35]
+:FC_CREATED: 2023-01-29T00:36:41Z
+:FC_TYPE:  normal
+:ID:       744e17e0-9dcc-4919-8001-fa7fc2423b0e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    53.95 | 2023-05-03T02:08:17Z |
+:END:
+
+Affect and Effect
+
+*** Back
+- Affect (verb): To influence or alter
+- Effect (noun): The result or outcome of a cause
+*** Source
+- [cite:@Affect2023]
+- [cite:@Effect2023]
+#+print_bibliography:

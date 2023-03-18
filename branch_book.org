@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       065a0303-c2d3-40a0-a8fb-793f19f02526
+:LAST_MODIFIED: [2023-02-14 Tue 20:47]
+:END:
+#+title: Branch book
+#+hugo_custom_front_matter: :slug "065a0303-c2d3-40a0-a8fb-793f19f02526"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-17 Sun 09:50]
+#+filetags: :concept:
+
+#+begin_quote
+Branch books are the most common type of book you'll find in the non-fiction section. These are books that consist of a single idea. The rest of the book is then padded out with examples, extrapolations, and implications of that single idea. A good example of this is Nicholas Nassem Taleb's Antifragile, which can be summarised in a single sentence: "the world consists of systems that are fragile (break easily), robust (are difficult to break) and are antifragile (gets stronger the more you try to break it e.g. like democracy)." The rest of the book explores the full implications of seeing systems as 'fragile/robust/antifragile'.
+
+[...]
+
+The key feature of branch books, for me, is that you can easily summarise them. Which then implies that if someone has written a good summary of a branch book, you can read the summary instead of reading the full book.
+
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+end_quote
+
+Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       5eb325d5-de0d-4cf9-8d7f-6498dd5ad720
+:ANKI_NOTE_ID: 1640627828297
+:FC_CREATED: 2021-12-27T17:57:08Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   312.00 | 2023-12-24T04:52:26Z |
+| front    | 2.35 |   8 |   237.46 | 2023-10-03T04:36:26Z |
+:END:
+
+([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
+
+*** Back
+Books which consist of a single idea which is padded out with examples, extrapolations, and implications.
+
+*** Source
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+print_bibliography:

@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@alexanderShouldYouReverseAnyAdviceYouHear2014]
+:ID:       de6d0d9e-3ce1-4e18-b747-c59cd50ceebf
+:LAST_MODIFIED: [2023-01-29 Sun 18:20]
+:END:
+#+title: Scott Alexander | Should You Reverse Any Advice You Hear?
+#+hugo_custom_front_matter: :slug "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 07:31]
+#+startup: overview
+#+filetags: :reference:
+ 
+[[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderShouldYouReverseAnyAdviceYouHear2014]
+
+* Summary
+
+[[id:3657474e-5e72-4f19-8664-c66583f6310d][You're more likely to hear things you agree with or that are, broadly speaking, aligned with your world-view]]. Therefore, you're likely to over-index on a certain flavor of advice. You may benefit from considering the reverse of the piece of advice.
+
+* Thoughts
+
+A simple bit of [[id:efe31d96-34a6-439a-a34d-fdff9df0e51a][metacognitive]] advice which I'd like to integrate into my daily life.
+
+* Notes
+
+| Advice                                                                                                                                  | Reverse                                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| You need to stop being so hard on yourself, remember you are your own worst critic                                                      | Stop making excuses for yourself, you will never be able to change until you admit you've hit bottom                                                                                           |
+| You need to remember that the government can't solve all problems and that some regulations are counterproductive                       | You need to remember that the free market can't solve all [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][problems]] and that some regulations are necessary                                                                                     |
+| You need to pay more attention to your diet or you'll end up very unhealthy                                                             | You need to pay less attention to your weight or you'll end up in a spiral of shame and self-loathing and at risk of eating disorders                                                          |
+| You need to be more conscious of how your actions in social situations can make other people uncomfortable and violate their boundaries | You need to overcome your social phobia by realizing that most interactions go well and that probably talking to people won't always make them hate you and cause you to be ostracized forever |
+| You need to be less selfish and more considerate of the needs of others                                                                 | You can't live for others all the time, you need to remember you deserve to be happy as well                                                                                                   |
+| Follow your dreams, you don't want to be working forever at a job you hate                                                              | Your dream of becoming a professional cosplayer may not be the best way to ensure a secure future for your family, go into petroleum engineering instead                                       |
+
+#+begin_quote
+It's much easier to join a group that celebrates your natural proclivities than one that demands you fight against them.
+
+[...]
+
+I wonder whether everyone would be better off if they automatically reversed any tempting advice that they heard (except feedback directed at them personally). Whenever they read an inspirational figure saying "take more risks", they interpret it as "I seem to be looking for advice telling me to take more risks; that fact itself means I am probably risk-seeking and need to be more careful". Whenever they read someone telling them about the obesity crisis, they interpret it as "I seem to be in a very health-conscious community; maybe I should worry about my weight less."
+
+Probably this wouldn't literally work as written. Too much advice is applicable to everybody; the absence of advice to play more Russian roulette is directly linked to Russian roulette being a really bad idea for pretty much everyone.
+
+[...]
+
+The checklist could be something like:
+
+1. Are there plausibly near-equal groups of people who need this advice versus the opposite advice?
+2. Have you self-selected into the group of people receiving this advice by, for example, being a fan of the blog / magazine / TV channel / political party / self-help-movement offering it?
+3. Then maybe the opposite advice, for you in particular, is at least as worthy of consideration.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 09:52]
+:FC_CREATED: 2022-11-23T17:53:55Z
+:FC_TYPE:  normal
+:ID:       f72dc497-92f1-4285-a751-4917adb128aa
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    69.60 | 2023-04-09T16:46:21Z |
+:END:
+
+[[id:de6d0d9e-3ce1-4e18-b747-c59cd50ceebf][Scott Alexander | Should You Reverse Any Advice You Hear?]]
+
+*** Back
+[[id:3657474e-5e72-4f19-8664-c66583f6310d][You're more likely to hear things you agree with or that are, broadly speaking, aligned with your world-view]]. Therefore, you're likely to over-index on a certain flavor of advice. You may benefit from considering the reverse of the piece of advice.
+*** Source
+[cite:@alexanderShouldYouReverseAnyAdviceYouHear2014]
+#+print_bibliography:

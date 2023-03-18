@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       a15a6edb-dbe2-496f-bdc7-92b14e1f5566
+:ROAM_ALIASES: "Pathological binary tree"
+:LAST_MODIFIED: [2023-03-02 Thu 08:10]
+:END:
+#+title: Degenerate binary tree
+#+hugo_custom_front_matter: :slug "a15a6edb-dbe2-496f-bdc7-92b14e1f5566"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A degenerate (or pathological) tree is where each parent node has only one associated child node. This means that the tree will behave like a linked list data structure.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Degenerate binary tree
+[[file:degenerate-binary-tree.png]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       8e0719af-00cd-4cb4-ad98-e9af4301238b
+:ANKI_NOTE_ID: 1656857203034
+:FC_CREATED: 2022-07-03T14:06:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   210.14 | 2023-08-28T19:40:02Z |
+| front    | 2.95 |   7 |   268.93 | 2023-11-11T03:10:15Z |
+:END:
+
+[[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+
+*** Back
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent node has only one child node.
+
+*** Extra
+[[file:degenerate-binary-tree.png]]
+
+*** Source
+[cite:@BinaryTree2022]
+** Image :fc:
+:PROPERTIES:
+:ID:       dc144251-0d6b-48ee-91de-0d501791f431
+:ANKI_NOTE_ID: 1656857203683
+:FC_CREATED: 2022-07-03T14:06:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   114.46 | 2023-04-14T03:33:40Z |
+| back     | 2.50 |   6 |    96.01 | 2023-05-18T15:44:44Z |
+:END:
+[[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+*** Back
+[[file:degenerate-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** AKA (Computer science) :fc:
+:PROPERTIES:
+:ID:       efee00a9-5982-4b71-ab1c-7aa6b3311239
+:ANKI_NOTE_ID: 1656857204908
+:FC_CREATED: 2022-07-03T14:06:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |  14 |   294.80 | 2023-12-08T20:52:14Z |
+|        1 | 2.80 |   7 |   287.18 | 2023-12-01T19:20:05Z |
+|        2 | 2.65 |   7 |   335.40 | 2024-02-01T01:53:04Z |
+:END:
+- {{[[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]}@0}
+- {{[[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Pathological binary tree]]}@1}
+- {{Linked list}@2}
+*** Source
+[cite:@BinaryTree2022]
+#+print_bibliography:

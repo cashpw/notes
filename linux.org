@@ -1,0 +1,112 @@
+:PROPERTIES:
+:ID:       74bd9a47-f3c9-463b-a547-4ae67a88af97
+:LAST_MODIFIED: [2023-03-13 Mon 07:34]
+:END:
+#+title: Linux
+#+hugo_custom_front_matter: :slug "74bd9a47-f3c9-463b-a547-4ae67a88af97"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-19 Thu 10:58]
+#+filetags: :has_todo:concept:
+
+* TODO [#4] Split up
+
+- Debian
+- Linux command line (one note per command?)
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:FC_CREATED: 2023-01-19T19:02:23Z
+:FC_TYPE:  cloze
+:ID:       d92636e6-322e-473e-8a2e-4c3dc7a20b94
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.20 |   5 |    32.08 | 2023-03-21T03:33:09Z |
+|        0 | 1.75 |   4 |    10.61 | 2023-03-22T15:15:02Z |
+:END:
+
+{{Create symbolic link.}@1}
+
+#+begin_src sh :results output
+{{ln -s <target> <link name>}@0}
+#+end_src
+
+*** Source
+=ln= man page
+** TODO Bash foreach in array
+** TODO Bash for i in range
+** TODO Bash array syntax
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 11:05]
+:FC_CREATED: 2023-01-19T19:06:02Z
+:FC_TYPE:  cloze
+:ID:       846ba96c-13b4-461e-946b-0dad1c30d1ab
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    43.43 | 2023-04-02T01:10:36Z |
+|        1 | 2.65 |   5 |    44.75 | 2023-04-16T08:12:15Z |
+:END:
+
+- {{APT or Apt}@0}
+- {{Advanced package tool}@1}
+
+*** Source
+[cite:@APTSoftware2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 11:06]
+:FC_CREATED: 2023-01-19T19:07:37Z
+:FC_TYPE:  cloze
+:ID:       d119df08-ce0b-4a30-980f-c41378fea112
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    59.09 | 2023-05-11T16:49:54Z |
+|        1 | 2.65 |   5 |    42.26 | 2023-04-08T09:58:19Z |
+:END:
+
+{{Query APT for packages}@0}
+
+#+begin_src sh :results output
+{{apt-cache search <regex>}@1}
+#+end_src
+
+*** Source
+=apt-cache= man page
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-19 Thu 11:07]
+:FC_CREATED: 2023-01-19T19:08:18Z
+:FC_TYPE:  cloze
+:ID:       38d21c84-f977-4c87-ba73-c0cf51245fd2
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    39.21 | 2023-04-02T20:06:22Z |
+|        1 | 2.65 |   5 |    47.81 | 2023-04-19T11:27:07Z |
+:END:
+
+{{Show details for a particular APT package}@0}
+
+#+begin_src sh :results output
+{{apt-cache show <pkg>}@1}
+#+end_src
+
+*** Source
+=apt-cache= man page
+#+print_bibliography:

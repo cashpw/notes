@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       fba2b035-cd82-46c9-9797-25b0b1419b42
+:LAST_MODIFIED: [2023-02-02 Thu 07:53]
+:END:
+#+title: Indifferent interoperability
+#+hugo_custom_front_matter: :slug "fba2b035-cd82-46c9-9797-25b0b1419b42"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 10:25]
+#+filetags: :concept:
+
+#+begin_quote
+This is the most common form of [[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Interoperability]]. Company A makes a product and Company B makes a thing that works with that product, but doesn't talk to Company A about it. Company A doesn't know or care to know about Company B's add-on.
+
+[cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 10:25]
+:FC_CREATED: 2022-10-12T17:27:54Z
+:FC_TYPE:  double
+:ID:       0770f4eb-d905-4f71-ad67-3d1ea89ef973
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   167.05 | 2023-07-19T17:00:07Z |
+| back     | 2.50 |   6 |   104.89 | 2023-04-25T13:01:23Z |
+:END:
+
+[[id:fba2b035-cd82-46c9-9797-25b0b1419b42][Indifferent interoperability]]
+
+*** Back
+
+Interoperability between the base product, A, and an interoperable product, B, where the maker of A doesn't know or care about the maker of B.
+
+*** Source
+[cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 10:46]
+:FC_CREATED: 2022-10-12T17:48:32Z
+:FC_TYPE:  double
+:ID:       32416529-f2c3-43e1-acdc-91e8fb6fc213
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   137.92 | 2023-06-16T17:45:45Z |
+| back     | 2.50 |   6 |    87.18 | 2023-04-14T18:38:29Z |
+:END:
+
+[[id:fba2b035-cd82-46c9-9797-25b0b1419b42][Indifferent interoperability]]
+
+*** Back
+- A car's cigarette lighter when they were first introduced
+*** Source
+#+print_bibliography:

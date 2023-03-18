@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       68b68eba-1b4b-4fe2-9d8d-334fdbf0802f
+:LAST_MODIFIED: [2023-02-26 Sun 08:00]
+:END:
+#+title: Heatwork
+#+hugo_custom_front_matter: :slug "68b68eba-1b4b-4fe2-9d8d-334fdbf0802f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 07:44]
+#+filetags: :concept:
+
+#+begin_quote
+Heatwork is the combined effect of temperature and time.
+
+[cite:@Heatwork2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 07:44]
+:FC_CREATED: 2022-11-23T15:45:18Z
+:FC_TYPE:  double
+:ID:       bc5da5e4-4659-4cc0-b2b8-2e1463ae05c0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    79.59 | 2023-04-22T07:28:18Z |
+| back     | 2.80 |   6 |   102.00 | 2023-06-08T15:56:51Z |
+:END:
+
+[[id:68b68eba-1b4b-4fe2-9d8d-334fdbf0802f][Heatwork]]
+
+*** Back
+The combined effect of temperature and time.
+*** Source
+[cite:@Heatwork2022]
+#+print_bibliography:

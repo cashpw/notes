@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       81611da6-3ea4-45d9-b2db-b96ed95d946d
+:LAST_MODIFIED: [2023-01-06 Fri 06:53]
+:END:
+#+title: Post-order tree traversal
+#+hugo_custom_front_matter: :slug "81611da6-3ea4-45d9-b2db-b96ed95d946d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 16:33]
+#+filetags: :concept:
+
+#+begin_quote
+1. Recursively traverse the current node's left subtree
+2. Recursively traverse the current node's right subtree
+1. Visit the current node (in the figure: position blue)
+
+[cite:@TreeTraversal2022]
+#+end_quote
+
+#+begin_quote
+Post-order traversal (blue node): A, C, E, D, B, H, I, G, F
+
+[[file:Sorted_binary_tree_ALL_RGB.svg.png]]
+
+[cite:@TreeTraversal2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       738d0ef6-d0dd-422c-9fc2-92aa91f2ff9e
+:ANKI_NOTE_ID: 1656857222608
+:FC_CREATED: 2022-07-03T14:07:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   142.20 | 2023-05-12T20:05:13Z |
+| back     | 2.95 |   6 |   163.38 | 2023-06-19T00:01:04Z |
+:END:
+[[id:81611da6-3ea4-45d9-b2db-b96ed95d946d][Post-order tree traversal]]
+*** Back
+Priority order for traversing the list:
+
+1. Left: Recursively traverse the current node's left subtree, if possible
+2. Right: Recursively traverse the current node's right subtree, if possible
+1. Node: Visit the current node
+
+*** Source
+[cite:@TreeTraversal2022]
+#+print_bibliography:

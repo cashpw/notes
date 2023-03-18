@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       58146c27-37cf-4270-bb24-ab1f6bed8e9f
+:LAST_MODIFIED: [2023-03-07 Tue 08:14]
+:END:
+#+title: Greatness is a transitory experience
+#+hugo_custom_front_matter: :slug "58146c27-37cf-4270-bb24-ab1f6bed8e9f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-15 Tue 09:44]
+#+filetags: :has_todo:quote:
+#+begin_quote
+Greatness is a transitory experience. It is never consistent. It depends in part upon the myth-making imagination of humankind. The person who experiences greatness must have a feeling for the myth he is in. He must reflect what is projected upon him. And he must have a strong sense of the sardonic. This is what uncouples him from belief in his own pretensions. The sardonic is all that permits him to move within himself. Without this quality, even occasional greatness will destroy a man.
+
+[[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]], [cite:@herbertDune1999]
+#+end_quote
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 20:03]
+:FC_CREATED: 2023-01-09T04:04:06Z
+:FC_TYPE:  cloze
+:ID:       4a9c466e-bf2d-4fa9-8baf-c72fdcfda217
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   6 |    44.01 | 2023-04-13T05:10:42Z |
+:END:
+
+Greatness is {{a transitory experience}{short}@0}.
+
+*** Source
+[cite:@herbertDune1999]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 20:04]
+:FC_CREATED: 2023-01-09T04:05:23Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       31b15075-225b-45bd-b21b-e20884b3cde4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    70.14 | 2023-05-13T18:43:33Z |
+:END:
+
+The person who experiences greatness must {{have a feeling for the myth they are in}{short}@0}.
+
+*** Source
+[cite:@herbertDune1999]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-08 Sun 20:04]
+:FC_CREATED: 2023-01-09T04:05:23Z
+:FC_TYPE:  cloze
+:ID:       a722dd34-48c1-49e2-9323-d82530a12560
+:FC_CLOZE_MAX: 0
+:FC_BLOCKED_BY: 4a9c466e-bf2d-4fa9-8baf-c72fdcfda217,31b15075-225b-45bd-b21b-e20884b3cde4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    36.01 | 2023-04-02T04:17:55Z |
+:END:
+
+The person who experiences greatness must {{have a feeling for the myth they are in. They must reflect what is projected upon them. And they must have a strong sense of the sardonic}{full}@0}.
+
+*** Source
+[cite:@herbertDune1999]
+** TODO [#2] Describe :fc:suspended:
+:PROPERTIES:
+:CREATED: [2023-02-18 Sat 10:32]
+:FC_CREATED: 2023-02-18T18:33:17Z
+:FC_TYPE:  double
+:ID:       734f6db5-c608-49bb-b344-44f286887109
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-02-18T18:33:17Z |
+| back     |  2.5 |  -1 |        0 | 2023-02-18T18:33:17Z |
+:END:
+
+#+begin_quote
+Greatness is a transitory experience. It is never consistent. It depends in part upon the myth-making imagination of humankind. The person who experiences greatness must have a feeling for the myth he is in. He must reflect what is projected upon him. And he must have a strong sense of the sardonic. This is what uncouples him from belief in his own pretensions. The sardonic is all that permits him to move within himself. Without this quality, even occasional greatness will destroy a man.
+#+end_quote
+
+*** TODO [#2] Back
+*** Source
+[cite:@herbertDune1999]
+#+print_bibliography:

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       e9c9e62b-efe6-4348-898f-06ca2e03132c
+:ROAM_REFS: [cite:@BetaFinance2022]
+:LAST_MODIFIED: [2023-02-23 Thu 19:55]
+:END:
+#+title: Beta (finance)
+#+hugo_custom_front_matter: :slug "e9c9e62b-efe6-4348-898f-06ca2e03132c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:37]
+#+filetags: :concept:
+#+begin_quote
+In finance, the beta (β or market beta or beta coefficient) is a measure of how an individual asset moves (on average) when the overall stock market increases or decreases. Thus, beta is a useful measure of the contribution of an individual asset to the risk of the market portfolio when it is added in small quantity. Thus, beta is referred to as an asset's non-diversifiable risk, its systematic risk, market risk, or hedge ratio.
+
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 07:56]
+:FC_CREATED: 2022-11-23T15:56:41Z
+:FC_TYPE:  double
+:ID:       299510af-9962-48ba-b3c7-35e1e577f779
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    67.32 | 2023-04-10T00:57:52Z |
+| back     | 2.35 |   6 |    80.22 | 2023-05-15T09:17:28Z |
+:END:
+
+[[id:e9c9e62b-efe6-4348-898f-06ca2e03132c][Beta (finance)]]
+
+*** Back
+A measure of how an individual asset moves, on average, when the overall stock market increases or decreases.
+*** Source
+[cite:@BetaFinance2022]
+#+print_bibliography:

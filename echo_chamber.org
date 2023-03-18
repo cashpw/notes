@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       3657474e-5e72-4f19-8664-c66583f6310d
+:LAST_MODIFIED: [2023-03-13 Mon 07:30]
+:END:
+#+title: Echo chamber
+#+hugo_custom_front_matter: :slug "3657474e-5e72-4f19-8664-c66583f6310d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 07:26]
+#+startup: overview
+#+filetags: :concept:
+
+#+begin_quote
+[...] an echo chamber refers to situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system and insulated from rebuttal.
+
+[cite:@EchoChamberMedia2022]
+#+end_quote
+
+Related:
+
+- [[id:895e6fb7-8503-486a-978f-9c1dc155d373][Filter Bubble]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 09:05]
+:FC_CREATED: 2022-11-25T17:06:30Z
+:FC_TYPE:  double
+:ID:       cf39e2b3-7e25-48b8-be1e-a36e2d28523c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   6 |    68.76 | 2023-05-11T07:58:00Z |
+| back     | 2.65 |   6 |   110.52 | 2023-07-02T03:02:11Z |
+:END:
+
+[[id:3657474e-5e72-4f19-8664-c66583f6310d][Echo chamber]]
+
+*** Back
+Situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system where they are insulated from rebuttal.
+*** Source
+[cite:@EchoChamber2022]
+#+print_bibliography:

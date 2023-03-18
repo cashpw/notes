@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@alexanderBookReviewSevenPrinciplesMakingMarriageWork2020]
+:ID:       0bbaf0b3-afed-49e2-a5f5-61c0a0cff973
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/0bbaf0b3-afed-49e2-a5f5-61c0a0cff973
+:LAST_MODIFIED: [2022-12-14 Wed 13:37]
+:END:
+#+title: Scott Alexander | Book Review: The Seven Principles For Making Marriage Work
+#+hugo_custom_front_matter: :slug "0bbaf0b3-afed-49e2-a5f5-61c0a0cff973"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:43]
+#+filetags: :reference:
+
+[[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderBookReviewSevenPrinciplesMakingMarriageWork2020] , [[isbn:9780609805794][The Seven Principles for Making Marriage Work]]
+
+* Summary
+
+The legend of John Gottman's marriage counselling success isn't supported by the underlying research at a statistical level; however, the techniques he advocates may help anyway.
+
+* Thoughts
+
+I enjoyed the personality that this essay had. A more direct essay could have started out by stating the problems with Gottman's research. You could argue this essay buried the lede. That said, I enjoyed reading the piece. I find it more enjoyable to read a story than a data sheet.
+
+* Notes
+
+#+begin_quote
+The secret to a happy marriage is that you should like your spouse.
+#+end_quote
+
+#+begin_quote
+Don't have a fight when you're physiologically aroused. Don't have a fight when you're physiologically aroused. Monitor your physiological arousal, and if you start to notice the signs – fast heartbeat, tense muscles, shallow breathing – call a time-out, go somewhere else, and use meditation or deep breathing or whatever to calm down.
+#+end_quote
+
+#+begin_quote
+Gottman divides conflicts into two types: solvable and unsolvable. Solvable conflicts are simple, specific, and about the thing they seem to be about – for example, the husband is supposed to take the trash out after work, but work has gotten really stressful lately and he keeps forgetting, and now the trash is overflowing and the wife is annoyed. The solution here is to use normal problem-solving techniques. Put a sign in the bedroom saying "DID YOU REMEMBER TO TAKE THE TRASH OUT?" or something. Whatever.
+
+Unsolvable conflicts are temporary manifestations of deep psychological issues. The particular thing that sparked the fight this time is irrelevant, but both spouses will fight to the death because it represents something important. For example, the husband is late to dinner one night because he went out to the bar. The wife yells at him and says he doesn't care about her. He yells back that she's a control freak. Here the problem will not be solved by coming up with a compromise where he can go to the bar half of nights. The problem is that she secretly worries his drinking buddies have a closer connection to him than she ever will, that he doesn't love her anymore, that he goes to the bar to escape her. He worries that he's lost his freedom, that he's become emasculated, that he's become some boring old person who is never allowed to have fun. If the bar burnt down tomorrow, they would find some other excuse to fight over this dynamic.
+#+end_quote
+
+#+name: desperation-gullibility
+#+begin_quote
+Desperation breeds gullibility. Patients with terminal diseases, however smart they used to be, turn to homeopaths and charlatans rather than face the dismal truth.
+#+end_quote
+
+#+begin_quote
+[...] whenever I hear people talk about relationships, I hear weird echoes of political problems. People who hate their spouse have an outgroup of one. A unified polity has devolved into partisanship. Social trust has been broken; a defect-defect equilibrium is in place. Gottman thinks of couples as a two-person culture, and some of those cultures are decadent and fractious.
+#+end_quote
+
+#+begin_quote
+In marriage, as in other forms of politics, sometimes exit > voice. Which is probably not something marriage counselors want to think about very much.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

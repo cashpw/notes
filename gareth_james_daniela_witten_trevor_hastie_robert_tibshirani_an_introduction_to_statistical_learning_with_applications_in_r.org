@@ -1,0 +1,1140 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@jamesIntroductionStatisticalLearningApplications2013]
+:ID:       94bcb9cb-d5b8-49d7-a169-891808910a65
+:LAST_MODIFIED: [2023-01-18 Wed 06:55]
+:ROAM_ALIASES: "An introduction to statistical learning with applications in R"
+:END:
+#+title: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | An Introduction to Statistical Learning: With Applications in R
+#+hugo_custom_front_matter: :slug "94bcb9cb-d5b8-49d7-a169-891808910a65"
+#+author: Cash Weaver
+#+date: [2022-12-24 Sat 09:19]
+#+filetags: :has_todo:reference:
+
+[[id:f5ed47e7-5d7a-4d4f-9ed2-6817ca706b05][Gareth James]], [[id:23a21efb-912c-46ff-84f6-5b3d68f96060][Daniela Witten]], [[id:b2981e3a-4e5b-41b2-a040-2fb58a7735a5][Trevor Hastie]], [[id:29b3cfe2-55ed-45d5-92e5-e604808b72bb][Robert Tibshirani]], [cite:@jamesIntroductionStatisticalLearningApplications2013]
+
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/94/bcb9cb-d5b8-49d7-a169-891808910a65/ISLRv2_website.pdf
+:NOTER_PAGE: 3
+:END:
+** Skeleton
+*** Preface
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+*** Contents
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+*** 1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 12
+:END:
+*** 2 Statistical Learning
+:PROPERTIES:
+:NOTER_PAGE: 26
+:END:
+**** 2.1 What Is Statistical Learning?
+:PROPERTIES:
+:NOTER_PAGE: 26
+:END:
+***** 2.1.1 Why Estimate f?
+:PROPERTIES:
+:NOTER_PAGE: 28
+:END:
+***** 2.1.2 How Do We Estimate f?
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+***** 2.1.3 The Trade-Off Between Prediction Accuracy and Model Interpretability
+:PROPERTIES:
+:NOTER_PAGE: 35
+:END:
+***** 2.1.4 Supervised Versus Unsupervised Learning
+:PROPERTIES:
+:NOTER_PAGE: 37
+:END:
+***** 2.1.5 Regression Versus Classification Problems
+:PROPERTIES:
+:NOTER_PAGE: 39
+:END:
+**** 2.2 Assessing Model Accuracy
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+***** 2.2.1 Measuring the Quality of Fit
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+***** 2.2.2 The Bias-Variance Trade-Off
+:PROPERTIES:
+:NOTER_PAGE: 44
+:END:
+***** 2.2.3 The Classification Setting
+:PROPERTIES:
+:NOTER_PAGE: 48
+:END:
+**** 2.3 Lab: Introduction to R
+:PROPERTIES:
+:NOTER_PAGE: 53
+:END:
+***** 2.3.1 Basic Commands
+:PROPERTIES:
+:NOTER_PAGE: 54
+:END:
+***** 2.3.2 Graphics
+:PROPERTIES:
+:NOTER_PAGE: 56
+:END:
+***** 2.3.3 Indexing Data
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+***** 2.3.4 Loading Data
+:PROPERTIES:
+:NOTER_PAGE: 59
+:END:
+***** 2.3.5 Additional Graphical and Numerical Summaries
+:PROPERTIES:
+:NOTER_PAGE: 61
+:END:
+**** 2.4 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 63
+:END:
+*** 3 Linear Regression
+:PROPERTIES:
+:NOTER_PAGE: 69
+:END:
+**** 3.1 Simple Linear Regression
+:PROPERTIES:
+:NOTER_PAGE: 70
+:END:
+***** 3.1.1 Estimating the Coefficients
+:PROPERTIES:
+:NOTER_PAGE: 71
+:END:
+***** 3.1.2 Assessing the Accuracy of the Coefficients Estimates
+:PROPERTIES:
+:NOTER_PAGE: 73
+:END:
+***** 3.1.3 Assessing the Accuracy of the Model
+:PROPERTIES:
+:NOTER_PAGE: 78
+:END:
+**** 3.2 Multiple Linear Regression
+:PROPERTIES:
+:NOTER_PAGE: 81
+:END:
+***** 3.2.1 Estimating the Regression Coefficients
+:PROPERTIES:
+:NOTER_PAGE: 82
+:END:
+***** 3.2.2 Some Important Questions
+:PROPERTIES:
+:NOTER_PAGE: 85
+:END:
+**** 3.3 Other Considerations in the Regression Model
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+***** 3.3.1 Qualitative Predictors
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+***** 3.3.2 Extensions of the Linear Model
+:PROPERTIES:
+:NOTER_PAGE: 97
+:END:
+***** 3.3.3 Potential Problems
+:PROPERTIES:
+:NOTER_PAGE: 102
+:END:
+**** 3.4 The Marketing Plan
+:PROPERTIES:
+:NOTER_PAGE: 113
+:END:
+**** 3.5 Comparison of Linear Regression with K-Nearest Neighbors
+:PROPERTIES:
+:NOTER_PAGE: 115
+:END:
+**** 3.6 Lab: Linear Regression
+:PROPERTIES:
+:NOTER_PAGE: 120
+:END:
+***** 3.6.1 Libraries
+:PROPERTIES:
+:NOTER_PAGE: 120
+:END:
+***** 3.6.2 Simple Linear Regression
+:PROPERTIES:
+:NOTER_PAGE: 121
+:END:
+***** 3.6.3 Multiple Linear Regression
+:PROPERTIES:
+:NOTER_PAGE: 124
+:END:
+***** 3.6.4 Interaction Terms
+:PROPERTIES:
+:NOTER_PAGE: 126
+:END:
+***** 3.6.5 Non-linear Transformations of the Predictors
+:PROPERTIES:
+:NOTER_PAGE: 126
+:END:
+***** 3.6.6 Qualitative Predictors
+:PROPERTIES:
+:NOTER_PAGE: 129
+:END:
+***** 3.6.7 Writing Functions
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+**** 3.7 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 131
+:END:
+*** 4 Classification
+:PROPERTIES:
+:NOTER_PAGE: 139
+:END:
+**** 4.1 An Overview of Classification
+:PROPERTIES:
+:NOTER_PAGE: 140
+:END:
+**** 4.2 Why Not Linear Regression?
+:PROPERTIES:
+:NOTER_PAGE: 141
+:END:
+**** 4.3 Logistic Regression
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+***** 4.3.1 The Logistic Model
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+***** 4.3.2 Estimating the Regression Coefficients
+:PROPERTIES:
+:NOTER_PAGE: 145
+:END:
+***** 4.3.3 Making Predictions
+:PROPERTIES:
+:NOTER_PAGE: 146
+:END:
+***** 4.3.4 Multiple Logistic Regression
+:PROPERTIES:
+:NOTER_PAGE: 147
+:END:
+***** 4.3.5 Multinomial Logistic Regression
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+**** 4.4 Generative Models for Classification
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+***** 4.4.1 Linear Discriminant Analysis for p = 1
+:PROPERTIES:
+:NOTER_PAGE: 152
+:END:
+***** 4.4.2 Linear Discriminant Analysis for p >1
+:PROPERTIES:
+:NOTER_PAGE: 155
+:END:
+***** 4.4.3 Quadratic Discriminant Analysis
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+***** 4.4.4 Naive Bayes
+:PROPERTIES:
+:NOTER_PAGE: 163
+:END:
+**** 4.5 A Comparison of Classification Methods
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+***** 4.5.1 An Analytical Comparison
+:PROPERTIES:
+:NOTER_PAGE: 168
+:END:
+***** 4.5.2 An Empirical Comparison
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+**** 4.6 Generalized Linear Models
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+***** 4.6.1 Linear Regression on the Bikeshare Data
+:PROPERTIES:
+:NOTER_PAGE: 174
+:END:
+***** 4.6.2 Poisson Regression on the Bikeshare Data
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+***** 4.6.3 Generalized Linear Models in Greater Generality
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+**** 4.7 Lab: Classification Methods
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+***** 4.7.1 The Stock Market Data
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+***** 4.7.2 Logistic Regression
+:PROPERTIES:
+:NOTER_PAGE: 182
+:END:
+***** 4.7.3 Linear Discriminant Analysis
+:PROPERTIES:
+:NOTER_PAGE: 187
+:END:
+***** 4.7.4 Quadratic Discriminant Analysis
+:PROPERTIES:
+:NOTER_PAGE: 189
+:END:
+***** 4.7.5 Naive Bayes
+:PROPERTIES:
+:NOTER_PAGE: 190
+:END:
+***** 4.7.6 K-Nearest Neighbors
+:PROPERTIES:
+:NOTER_PAGE: 191
+:END:
+***** 4.7.7 Poisson Regression
+:PROPERTIES:
+:NOTER_PAGE: 195
+:END:
+**** 4.8 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 199
+:END:
+*** 5 Resampling Methods
+:PROPERTIES:
+:NOTER_PAGE: 206
+:END:
+**** 5.1 Cross-Validation
+:PROPERTIES:
+:NOTER_PAGE: 207
+:END:
+***** 5.1.1 The Validation Set Approach
+:PROPERTIES:
+:NOTER_PAGE: 207
+:END:
+***** 5.1.2 Leave-One-Out Cross-Validation
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+***** 5.1.3 k-Fold Cross-Validation
+:PROPERTIES:
+:NOTER_PAGE: 212
+:END:
+***** 5.1.4 Bias-Variance Trade-Off for k-Fold Cross-Validation
+:PROPERTIES:
+:NOTER_PAGE: 214
+:END:
+***** 5.1.5 Cross-Validation on Classification Problems
+:PROPERTIES:
+:NOTER_PAGE: 215
+:END:
+**** 5.2 The Bootstrap
+:PROPERTIES:
+:NOTER_PAGE: 218
+:END:
+**** 5.3 Lab: Cross-Validation and the Bootstrap
+:PROPERTIES:
+:NOTER_PAGE: 221
+:END:
+***** 5.3.1 The Validation Set Approach
+:PROPERTIES:
+:NOTER_PAGE: 222
+:END:
+***** 5.3.2 Leave-One-Out Cross-Validation
+:PROPERTIES:
+:NOTER_PAGE: 223
+:END:
+***** 5.3.3 k-Fold Cross-Validation
+:PROPERTIES:
+:NOTER_PAGE: 224
+:END:
+***** 5.3.4 The Bootstrap
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+**** 5.4 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 228
+:END:
+*** 6 Linear Model Selection and Regularization
+:PROPERTIES:
+:NOTER_PAGE: 233
+:END:
+**** 6.1 Subset Selection
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+***** 6.1.1 Best Subset Selection
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+***** 6.1.2 Stepwise Selection
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+***** 6.1.3 Choosing the Optimal Model
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+**** 6.2 Shrinkage Methods
+:PROPERTIES:
+:NOTER_PAGE: 245
+:END:
+***** 6.2.1 Ridge Regression
+:PROPERTIES:
+:NOTER_PAGE: 245
+:END:
+***** 6.2.2 The Lasso
+:PROPERTIES:
+:NOTER_PAGE: 249
+:END:
+***** 6.2.3 Selecting the Tuning Parameter
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+**** 6.3 Dimension Reduction Methods
+:PROPERTIES:
+:NOTER_PAGE: 259
+:END:
+***** 6.3.1 Principal Components Regression
+:PROPERTIES:
+:NOTER_PAGE: 260
+:END:
+***** 6.3.2 Partial Least Squares
+:PROPERTIES:
+:NOTER_PAGE: 267
+:END:
+**** 6.4 Considerations in High Dimensions
+:PROPERTIES:
+:NOTER_PAGE: 269
+:END:
+***** 6.4.1 High-Dimensional Data
+:PROPERTIES:
+:NOTER_PAGE: 269
+:END:
+***** 6.4.2 What Goes Wrong in High Dimensions?
+:PROPERTIES:
+:NOTER_PAGE: 270
+:END:
+***** 6.4.3 Regression in High Dimensions
+:PROPERTIES:
+:NOTER_PAGE: 272
+:END:
+***** 6.4.4 Interpreting Results in High Dimensions
+:PROPERTIES:
+:NOTER_PAGE: 274
+:END:
+**** 6.5 Lab: Linear Models and Regularization Methods
+:PROPERTIES:
+:NOTER_PAGE: 275
+:END:
+***** 6.5.1 Subset Selection Methods
+:PROPERTIES:
+:NOTER_PAGE: 275
+:END:
+***** 6.5.2 Ridge Regression and the Lasso
+:PROPERTIES:
+:NOTER_PAGE: 282
+:END:
+***** 6.5.3 PCR and PLS Regression
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+**** 6.6 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+*** 7 Moving Beyond Linearity
+:PROPERTIES:
+:NOTER_PAGE: 297
+:END:
+**** 7.1 Polynomial Regression
+:PROPERTIES:
+:NOTER_PAGE: 298
+:END:
+**** 7.2 Step Functions
+:PROPERTIES:
+:NOTER_PAGE: 300
+:END:
+**** 7.3 Basis Functions
+:PROPERTIES:
+:NOTER_PAGE: 302
+:END:
+**** 7.4 Regression Splines
+:PROPERTIES:
+:NOTER_PAGE: 303
+:END:
+***** 7.4.1 Piecewise Polynomials
+:PROPERTIES:
+:NOTER_PAGE: 303
+:END:
+***** 7.4.2 Constraints and Splines
+:PROPERTIES:
+:NOTER_PAGE: 303
+:END:
+***** 7.4.3 The Spline Basis Representation
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+***** 7.4.4 Choosing the Number and Locations of the Knots
+:PROPERTIES:
+:NOTER_PAGE: 306
+:END:
+***** 7.4.5 Comparison to Polynomial Regression
+:PROPERTIES:
+:NOTER_PAGE: 308
+:END:
+**** 7.5 Smoothing Splines
+:PROPERTIES:
+:NOTER_PAGE: 309
+:END:
+***** 7.5.1 An Overview of Smoothing Splines
+:PROPERTIES:
+:NOTER_PAGE: 309
+:END:
+***** 7.5.2 Choosing the Smoothing Parameter λ
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+**** 7.6 Local Regression
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+**** 7.7 Generalized Additive Models
+:PROPERTIES:
+:NOTER_PAGE: 314
+:END:
+***** 7.7.1 GAMs for Regression Problems
+:PROPERTIES:
+:NOTER_PAGE: 315
+:END:
+***** 7.7.2 GAMs for Classification Problems
+:PROPERTIES:
+:NOTER_PAGE: 318
+:END:
+**** 7.8 Lab: Non-linear Modeling
+:PROPERTIES:
+:NOTER_PAGE: 319
+:END:
+***** 7.8.1 Polynomial Regression and Step Functions
+:PROPERTIES:
+:NOTER_PAGE: 320
+:END:
+***** 7.8.2 Splines
+:PROPERTIES:
+:NOTER_PAGE: 325
+:END:
+***** 7.8.3 GAMs
+:PROPERTIES:
+:NOTER_PAGE: 326
+:END:
+**** 7.9 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 329
+:END:
+*** 8 Tree-Based Methods
+:PROPERTIES:
+:NOTER_PAGE: 335
+:END:
+**** 8.1 The Basics of Decision Trees
+:PROPERTIES:
+:NOTER_PAGE: 335
+:END:
+***** 8.1.1 Regression Trees
+:PROPERTIES:
+:NOTER_PAGE: 336
+:END:
+***** 8.1.2 Classification Trees
+:PROPERTIES:
+:NOTER_PAGE: 343
+:END:
+***** 8.1.3 Trees Versus Linear Models
+:PROPERTIES:
+:NOTER_PAGE: 346
+:END:
+***** 8.1.4 Advantages and Disadvantages of Trees
+:PROPERTIES:
+:NOTER_PAGE: 347
+:END:
+**** 8.2 Bagging, Random Forests, Boosting, and Bayesian Additive Regression Trees
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+***** 8.2.1 Bagging
+:PROPERTIES:
+:NOTER_PAGE: 348
+:END:
+***** 8.2.2 Random Forests
+:PROPERTIES:
+:NOTER_PAGE: 351
+:END:
+***** 8.2.3 Boosting
+:PROPERTIES:
+:NOTER_PAGE: 353
+:END:
+***** 8.2.4 Bayesian Additive Regression Trees
+:PROPERTIES:
+:NOTER_PAGE: 356
+:END:
+***** 8.2.5 Summary of Tree Ensemble Methods
+:PROPERTIES:
+:NOTER_PAGE: 359
+:END:
+**** 8.3 Lab: Decision Trees
+:PROPERTIES:
+:NOTER_PAGE: 361
+:END:
+***** 8.3.1 Fitting Classification Trees
+:PROPERTIES:
+:NOTER_PAGE: 361
+:END:
+***** 8.3.2 Fitting Regression Trees
+:PROPERTIES:
+:NOTER_PAGE: 364
+:END:
+***** 8.3.3 Bagging and Random Forests
+:PROPERTIES:
+:NOTER_PAGE: 365
+:END:
+***** 8.3.4 Boosting
+:PROPERTIES:
+:NOTER_PAGE: 367
+:END:
+***** 8.3.5 Bayesian Additive Regression Trees
+:PROPERTIES:
+:NOTER_PAGE: 368
+:END:
+**** 8.4 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 369
+:END:
+*** 9 Support Vector Machines
+:PROPERTIES:
+:NOTER_PAGE: 374
+:END:
+**** 9.1 Maximal Margin Classifier
+:PROPERTIES:
+:NOTER_PAGE: 375
+:END:
+***** 9.1.1 What Is a Hyperplane?
+:PROPERTIES:
+:NOTER_PAGE: 375
+:END:
+***** 9.1.2 Classification Using a Separating Hyperplane
+:PROPERTIES:
+:NOTER_PAGE: 376
+:END:
+***** 9.1.3 The Maximal Margin Classifier
+:PROPERTIES:
+:NOTER_PAGE: 378
+:END:
+***** 9.1.4 Construction of the Maximal Margin Classifier
+:PROPERTIES:
+:NOTER_PAGE: 379
+:END:
+***** 9.1.5 The Non-separable Case
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+**** 9.2 Support Vector Classifiers
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+***** 9.2.1 Overview of the Support Vector Classifier
+:PROPERTIES:
+:NOTER_PAGE: 380
+:END:
+***** 9.2.2 Details of the Support Vector Classifier
+:PROPERTIES:
+:NOTER_PAGE: 382
+:END:
+**** 9.3 Support Vector Machines
+:PROPERTIES:
+:NOTER_PAGE: 386
+:END:
+***** 9.3.1 Classification with Non-Linear Decision Boundaries
+:PROPERTIES:
+:NOTER_PAGE: 386
+:END:
+***** 9.3.2 The Support Vector Machine
+:PROPERTIES:
+:NOTER_PAGE: 387
+:END:
+***** 9.3.3 An Application to the Heart Disease Data
+:PROPERTIES:
+:NOTER_PAGE: 390
+:END:
+**** 9.4 SVMs with More than Two Classes
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+***** 9.4.1 One-Versus-One Classification
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+***** 9.4.2 One-Versus-All Classification
+:PROPERTIES:
+:NOTER_PAGE: 392
+:END:
+**** 9.5 Relationship to Logistic Regression
+:PROPERTIES:
+:NOTER_PAGE: 393
+:END:
+**** 9.6 Lab: Support Vector Machines
+:PROPERTIES:
+:NOTER_PAGE: 395
+:END:
+***** 9.6.1 Support Vector Classifier
+:PROPERTIES:
+:NOTER_PAGE: 396
+:END:
+***** 9.6.2 Support Vector Machine
+:PROPERTIES:
+:NOTER_PAGE: 399
+:END:
+***** 9.6.3 ROC Curves
+:PROPERTIES:
+:NOTER_PAGE: 401
+:END:
+***** 9.6.4 SVM with Multiple Classes
+:PROPERTIES:
+:NOTER_PAGE: 403
+:END:
+***** 9.6.5 Application to Gene Expression Data
+:PROPERTIES:
+:NOTER_PAGE: 403
+:END:
+**** 9.7 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 405
+:END:
+*** 10 Deep Learning
+:PROPERTIES:
+:NOTER_PAGE: 410
+:END:
+**** 10.1 Single Layer Neural Networks
+:PROPERTIES:
+:NOTER_PAGE: 411
+:END:
+**** 10.2 Multilayer Neural Networks
+:PROPERTIES:
+:NOTER_PAGE: 414
+:END:
+**** 10.3 Convolutional Neural Networks
+:PROPERTIES:
+:NOTER_PAGE: 418
+:END:
+***** 10.3.1 Convolution Layers
+:PROPERTIES:
+:NOTER_PAGE: 419
+:END:
+***** 10.3.2 Pooling Layers
+:PROPERTIES:
+:NOTER_PAGE: 422
+:END:
+***** 10.3.3 Architecture of a Convolutional Neural Network
+:PROPERTIES:
+:NOTER_PAGE: 422
+:END:
+***** 10.3.4 Data Augmentation
+:PROPERTIES:
+:NOTER_PAGE: 424
+:END:
+***** 10.3.5 Results Using a Pretrained Classifier
+:PROPERTIES:
+:NOTER_PAGE: 424
+:END:
+**** 10.4 Document Classification
+:PROPERTIES:
+:NOTER_PAGE: 426
+:END:
+**** 10.5 Recurrent Neural Networks
+:PROPERTIES:
+:NOTER_PAGE: 428
+:END:
+***** 10.5.1 Sequential Models for Document Classification
+:PROPERTIES:
+:NOTER_PAGE: 431
+:END:
+***** 10.5.2 Time Series Forecasting
+:PROPERTIES:
+:NOTER_PAGE: 434
+:END:
+***** 10.5.3 Summary of RNNs
+:PROPERTIES:
+:NOTER_PAGE: 438
+:END:
+**** 10.6 When to Use Deep Learning
+:PROPERTIES:
+:NOTER_PAGE: 439
+:END:
+**** 10.7 Fitting a Neural Network
+:PROPERTIES:
+:NOTER_PAGE: 441
+:END:
+***** 10.7.1 Backpropagation
+:PROPERTIES:
+:NOTER_PAGE: 442
+:END:
+***** 10.7.2 Regularization and Stochastic Gradient Descent
+:PROPERTIES:
+:NOTER_PAGE: 443
+:END:
+***** 10.7.3 Dropout Learning
+:PROPERTIES:
+:NOTER_PAGE: 445
+:END:
+***** 10.7.4 Network Tuning
+:PROPERTIES:
+:NOTER_PAGE: 445
+:END:
+**** 10.8 Interpolation and Double Descent
+:PROPERTIES:
+:NOTER_PAGE: 446
+:END:
+**** 10.9 Lab: Deep Learning
+:PROPERTIES:
+:NOTER_PAGE: 450
+:END:
+***** 10.9.1 A Single Layer Network on the Hitters Data
+:PROPERTIES:
+:NOTER_PAGE: 450
+:END:
+***** 10.9.2 A Multilayer Network on the MNIST Digit Data
+:PROPERTIES:
+:NOTER_PAGE: 452
+:END:
+***** 10.9.3 Convolutional Neural Networks
+:PROPERTIES:
+:NOTER_PAGE: 455
+:END:
+***** 10.9.4 Using Pretrained CNN Models
+:PROPERTIES:
+:NOTER_PAGE: 458
+:END:
+***** 10.9.5 IMDb Document Classification
+:PROPERTIES:
+:NOTER_PAGE: 459
+:END:
+***** 10.9.6 Recurrent Neural Networks
+:PROPERTIES:
+:NOTER_PAGE: 461
+:END:
+**** 10.10 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 465
+:END:
+*** 11 Survival Analysis and Censored Data
+:PROPERTIES:
+:NOTER_PAGE: 468
+:END:
+**** 11.1 Survival and Censoring Times
+:PROPERTIES:
+:NOTER_PAGE: 469
+:END:
+**** 11.2 A Closer Look at Censoring
+:PROPERTIES:
+:NOTER_PAGE: 470
+:END:
+**** 11.3 The Kaplan-Meier Survival Curve
+:PROPERTIES:
+:NOTER_PAGE: 471
+:END:
+**** 11.4 The Log-Rank Test
+:PROPERTIES:
+:NOTER_PAGE: 473
+:END:
+**** 11.5 Regression Models With a Survival Response
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+***** 11.5.1 The Hazard Function
+:PROPERTIES:
+:NOTER_PAGE: 476
+:END:
+***** 11.5.2 Proportional Hazards
+:PROPERTIES:
+:NOTER_PAGE: 478
+:END:
+***** 11.5.3 Example: Brain Cancer Data
+:PROPERTIES:
+:NOTER_PAGE: 482
+:END:
+***** 11.5.4 Example: Publication Data
+:PROPERTIES:
+:NOTER_PAGE: 482
+:END:
+**** 11.6 Shrinkage for the Cox Model
+:PROPERTIES:
+:NOTER_PAGE: 485
+:END:
+**** 11.7 Additional Topics
+:PROPERTIES:
+:NOTER_PAGE: 487
+:END:
+***** 11.7.1 Area Under the Curve for Survival Analysis
+:PROPERTIES:
+:NOTER_PAGE: 487
+:END:
+***** 11.7.2 Choice of Time Scale
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+***** 11.7.3 Time-Dependent Covariates
+:PROPERTIES:
+:NOTER_PAGE: 488
+:END:
+***** 11.7.4 Checking the Proportional Hazards Assumption
+:PROPERTIES:
+:NOTER_PAGE: 489
+:END:
+***** 11.7.5 Survival Trees
+:PROPERTIES:
+:NOTER_PAGE: 489
+:END:
+**** 11.8 Lab: Survival Analysis
+:PROPERTIES:
+:NOTER_PAGE: 490
+:END:
+***** 11.8.1 Brain Cancer Data
+:PROPERTIES:
+:NOTER_PAGE: 490
+:END:
+***** 11.8.2 Publication Data
+:PROPERTIES:
+:NOTER_PAGE: 493
+:END:
+***** 11.8.3 Call Center Data
+:PROPERTIES:
+:NOTER_PAGE: 494
+:END:
+**** 11.9 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 497
+:END:
+*** 12 Unsupervised Learning
+:PROPERTIES:
+:NOTER_PAGE: 503
+:END:
+**** 12.1 The Challenge of Unsupervised Learning
+:PROPERTIES:
+:NOTER_PAGE: 503
+:END:
+**** 12.2 Principal Components Analysis
+:PROPERTIES:
+:NOTER_PAGE: 504
+:END:
+***** 12.2.1 What Are Principal Components?
+:PROPERTIES:
+:NOTER_PAGE: 505
+:END:
+***** 12.2.2 Another Interpretation of Principal Components
+:PROPERTIES:
+:NOTER_PAGE: 509
+:END:
+***** 12.2.3 The Proportion of Variance Explained
+:PROPERTIES:
+:NOTER_PAGE: 511
+:END:
+***** 12.2.4 More on PCA
+:PROPERTIES:
+:NOTER_PAGE: 513
+:END:
+***** 12.2.5 Other Uses for Principal Components
+:PROPERTIES:
+:NOTER_PAGE: 516
+:END:
+**** 12.3 Missing Values and Matrix Completion
+:PROPERTIES:
+:NOTER_PAGE: 516
+:END:
+**** 12.4 Clustering Methods
+:PROPERTIES:
+:NOTER_PAGE: 522
+:END:
+***** 12.4.1 K-Means Clustering
+:PROPERTIES:
+:NOTER_PAGE: 523
+:END:
+***** 12.4.2 Hierarchical Clustering
+:PROPERTIES:
+:NOTER_PAGE: 527
+:END:
+***** 12.4.3 Practical Issues in Clustering
+:PROPERTIES:
+:NOTER_PAGE: 536
+:END:
+**** 12.5 Lab: Unsupervised Learning
+:PROPERTIES:
+:NOTER_PAGE: 538
+:END:
+***** 12.5.1 Principal Components Analysis
+:PROPERTIES:
+:NOTER_PAGE: 538
+:END:
+***** 12.5.2 Matrix Completion
+:PROPERTIES:
+:NOTER_PAGE: 541
+:END:
+***** 12.5.3 Clustering
+:PROPERTIES:
+:NOTER_PAGE: 544
+:END:
+***** 12.5.4 NCI60 Data Example
+:PROPERTIES:
+:NOTER_PAGE: 548
+:END:
+**** 12.6 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 554
+:END:
+*** 13 Multiple Testing
+:PROPERTIES:
+:NOTER_PAGE: 559
+:END:
+**** 13.1 A Quick Review of Hypothesis Testing
+:PROPERTIES:
+:NOTER_PAGE: 560
+:END:
+***** 13.1.1 Testing a Hypothesis
+:PROPERTIES:
+:NOTER_PAGE: 561
+:END:
+***** 13.1.2 Type I and Type II Errors
+:PROPERTIES:
+:NOTER_PAGE: 565
+:END:
+**** 13.2 The Challenge of Multiple Testing
+:PROPERTIES:
+:NOTER_PAGE: 566
+:END:
+**** 13.3 The Family-Wise Error Rate
+:PROPERTIES:
+:NOTER_PAGE: 567
+:END:
+***** 13.3.1 What is the Family-Wise Error Rate?
+:PROPERTIES:
+:NOTER_PAGE: 568
+:END:
+***** 13.3.2 Approaches to Control the Family-Wise Error Rate
+:PROPERTIES:
+:NOTER_PAGE: 570
+:END:
+***** 13.3.3 Trade-Off Between the FWER and Power
+:PROPERTIES:
+:NOTER_PAGE: 576
+:END:
+**** 13.4 The False Discovery Rate
+:PROPERTIES:
+:NOTER_PAGE: 577
+:END:
+***** 13.4.1 Intuition for the False Discovery Rate
+:PROPERTIES:
+:NOTER_PAGE: 577
+:END:
+***** 13.4.2 The Benjamini-Hochberg Procedure
+:PROPERTIES:
+:NOTER_PAGE: 579
+:END:
+**** 13.5 A Re-Sampling Approach to p-Values and False Discovery Rates
+:PROPERTIES:
+:NOTER_PAGE: 581
+:END:
+***** 13.5.1 A Re-Sampling Approach to the p-Value
+:PROPERTIES:
+:NOTER_PAGE: 582
+:END:
+***** 13.5.2 A Re-Sampling Approach to the False Discovery Rate
+:PROPERTIES:
+:NOTER_PAGE: 584
+:END:
+***** 13.5.3 When Are Re-Sampling Approaches Useful?
+:PROPERTIES:
+:NOTER_PAGE: 587
+:END:
+**** 13.6 Lab: Multiple Testing
+:PROPERTIES:
+:NOTER_PAGE: 588
+:END:
+***** 13.6.1 Review of Hypothesis Tests
+:PROPERTIES:
+:NOTER_PAGE: 588
+:END:
+***** 13.6.2 The Family-Wise Error Rate
+:PROPERTIES:
+:NOTER_PAGE: 589
+:END:
+***** 13.6.3 The False Discovery Rate
+:PROPERTIES:
+:NOTER_PAGE: 592
+:END:
+***** 13.6.4 A Re-Sampling Approach
+:PROPERTIES:
+:NOTER_PAGE: 594
+:END:
+**** 13.7 Exercises
+:PROPERTIES:
+:NOTER_PAGE: 597
+:END:
+*** Index
+:PROPERTIES:
+:NOTER_PAGE: 602
+:END:
+
+
+* TODO [#4] Flashcards
+** Source :fc:
+:PROPERTIES:
+:ID:       5cba2bf9-6d12-4c68-8efe-a90bf543cbde
+:ANKI_NOTE_ID: 1640627805596
+:FC_CREATED: 2021-12-27T17:56:45Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |  12 |   156.70 | 2023-03-19T10:27:52Z |
+:END:
+
+[[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]
+
+*** Back
+1. [[id:f5ed47e7-5d7a-4d4f-9ed2-6817ca706b05][Gareth James]]
+1. [[id:23a21efb-912c-46ff-84f6-5b3d68f96060][Daniela Witten]]
+1. [[id:b2981e3a-4e5b-41b2-a040-2fb58a7735a5][Trevor Hastie]]
+1. [[id:29b3cfe2-55ed-45d5-92e5-e604808b72bb][Robert Tibshirani]]
+** AKA :fc:
+:PROPERTIES:
+:ID:       44eb37ca-228d-4ea4-9b25-a53cf72238c1
+:ANKI_NOTE_ID: 1640627807347
+:FC_CREATED: 2021-12-27T17:56:47Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   152.13 | 2023-03-22T18:37:50Z |
+|        1 | 2.80 |  11 |   330.77 | 2023-12-13T20:30:23Z |
+:END:
+
+- {{Introduction to Statistical Learning with Applications in R}@0}
+- {{ISLR}@1}
+#+print_bibliography:

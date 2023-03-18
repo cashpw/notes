@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chinExpertiseJustPatternMatching2020]
+:ID:       b481f4e5-63b4-4455-8406-49825121b06c
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/b481f4e5-63b4-4455-8406-49825121b06c
+:LAST_MODIFIED: [2023-03-11 Sat 16:28]
+:END:
+#+title: Cedric Chin | Expertise Is 'Just' Pattern Matching
+#+hugo_custom_front_matter: :slug "b481f4e5-63b4-4455-8406-49825121b06c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 16:53]
+#+filetags: :reference:
+ 
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinExpertiseJustPatternMatching2020]
+
+* Summary
+
+"Expertise" is an [[id:a4d17d3b-f5a7-43fc-87f9-dae2a3cad391][Emergent property]] of pattern matching.
+
+Being an expert at something is equivalent to being really good at:
+
+1. recognizing situations
+2. knowing how to respond to those situations
+
+Simple, right?
+
+* Thoughts
+
+The idea rings true to me when I think about how chess masters describe thinking about the game in the moment. I recall them mentioning pattern matching explicitly; though I've since [[id:27cb520e-f5d5-45b2-b92e-cde08209beef][lost the reference]].
+
+* Notes
+
+#+begin_quote
+[...] the notion that 'expertise is simply pattern-matching' [...] follows naturally from two other ideas that I've covered extensively on Commonplace over the past year.
+
+The first idea is the 'recognition-primed decision making' model developed by psychologist Gary Klein and his collaborators, working in the US military and with expert firefighters and NICU nurses. I've written extensively about the model on this blog, so I'm not going to repeat myself (read [[https://commoncog.com/putting-mental-models-to-practice/][this instead]]) but the core of it is simply that expertise is an [[https://commoncog.com/everything-you-need-to-know-about-human-learning-and-memory-retention/#-recognition-the-basis-of-expertise][implicit memory operation]]: you recognise a situation in a developing environment and then unspool that recognition into a set of cues, a list of plausible goals, and handful of expectancies, and a series of trained actions. If the situation is novel, you construct variants of intended actions on the fly and simulate these scenarios in a loop, picking the first workable solution in your mind.
+
+This model of expert decision-making is useful because it gives us a usable model of expertise — far better than the ones found in the deliberate practice literature. For example, one conclusion from this model is that *if you want to become better at something, you should look for ways to expand the set of recognisable prototypes in your head*.
+
+The second idea is simply that expertise rests on /technê/, or [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] --- the sort of knowledge that is impossible to communicate, that must be constructed from practice. I've written about this idea numerous times over the past two years: first in my [[https://commoncog.com/the-mental-model-fallacy/][original criticism]] of mental model writing, then in my reflection on Seymour Papert's life's [[https://commoncog.com/you-cant-teach-what-they-arent-ready-to-know/][work]]. I covered it again in [[https://commoncog.com/the-mental-model-faq/][The Mental Model FAQ]] and [[https://commoncog.com/the-dangers-of-treating-ideas-from-finance-as-generalised-self-help/][The Dangers of Treating Ideas from Finance as Generalised Self Help]]. I've mentioned it here and there throughout Commonplace's history; indeed, my reliance on /technê/ is one of the big pieces of idea scaffolding for this blog.
+
+[emphasis mine]
+#+end_quote
+
+#+begin_quote
+[...] perhaps the art of practice is simply whatever is the most effective method of expanding one's collection of recognisable prototypes (and of course: the actions to take in response to those recognisable prototypes).
+#+end_quote
+
+#+begin_quote
+What about creativity, for instance? Klein covers this in his research; in Sources of Power he discusses how expert minds use pattern-recognition to identify 'leverage points' — points in which one could do something radically different — in order to come up with creative solutions within the constraints of some domain. I've dug a little into the research and I think the take is plausible, but I'm not entirely convinced. Surely the mechanism of creativity is different from the prototype-based recognition that drives most of expertise? The short answer to that seems to be 'yes, creativity relies on connections between different ideas and this is independent of expertise' but also 'identifying the right leverage points is still a recognition/expertise thing'. The two seem highly intertwined in the sorts of fields that Klein studies; my remaining scepticism is that I do not know if this is true in 'pure' creative domains like art and design and fiction writing.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 16:25]
+:FC_CREATED: 2022-11-23T00:26:32Z
+:FC_TYPE:  double
+:ID:       d55a467e-ada1-4638-bd54-8d73d30a4892
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   6 |    45.42 | 2023-03-31T00:23:15Z |
+| back     | 2.65 |   6 |    98.10 | 2023-06-18T02:57:17Z |
+:END:
+
+[[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]]
+
+*** Back
+Being an expert at something is a function of:
+
+1. recognizing situations
+2. knowing how to respond to those situations
+*** Source
+[cite:@chinExpertiseJustPatternMatching2020]
+#+print_bibliography:

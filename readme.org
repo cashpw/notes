@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       eb245ca9-b067-40f3-b220-0dff690e4058
+:DIR:      /home/cashweaver/proj/roam/attachments/eb245ca9-b067-40f3-b220-0dff690e4058
+:END:
+#+title: README
+#+hugo_custom_front_matter: :slug "eb245ca9-b067-40f3-b220-0dff690e4058"
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-27 Mon 20:32]
+#+filetags: :meta:
+
+These are my personal notes.
+
+The key component of my notes are the [[id:6037800d-34c3-4d62-a33b-3931d694f083][links and backlinks which connect them]]. These sorts of interconnected notes are a type of [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][Personal knowledge management]] system. They're sometimes called [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][Zettelkasten]], a second brain, or a digital garden. The [[id:32438fd5-c050-46a9-9611-97d571512f3e][works of others]] heavily inspire these notes.
+
+Related to the [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] of taking notes:
+
+- [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][How I write notes]]
+- [[id:7add4362-8a4e-4148-ac25-185213327b33][Why I write notes]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

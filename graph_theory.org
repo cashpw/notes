@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5bc61709-6612-4287-921f-3e2509bd2261
+:ROAM_REFS: [cite:@GraphTheory2022]
+:END:
+#+title: Graph theory
+#+hugo_custom_front_matter: :slug "5bc61709-6612-4287-921f-3e2509bd2261"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-15 Tue 21:24]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, [[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]] is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] (also called nodes or points) which are connected by [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] (also called links or lines). A distinction is made between [[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]], where edges link two vertices symmetrically, and [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]], where edges link two vertices asymmetrically. Graphs are one of the principal objects of study in discrete mathematics.
+
+[cite:@GraphTheory2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       fccbc741-2373-47c3-9d41-a04fb0ce9b66
+:ROAM_REFS: [cite:@NotaBene2022]
+:LAST_MODIFIED: [2023-02-23 Thu 19:41]
+:END:
+#+title: Nota bene
+#+hugo_custom_front_matter: :slug "fccbc741-2373-47c3-9d41-a04fb0ce9b66"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 09:28]
+#+filetags: :concept:
+
+#+begin_quote
+Nota bene is a Latin [[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]] phrase meaning "note well". It is often abbreviated as NB, n.b., or with the ligature $\displaystyle \mathrm {N} \!\!\mathrm {B}$ [...]
+
+[cite:@NotaBene2022]
+#+end_quote
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:29]
+:FC_CREATED: 2023-01-18T17:29:52Z
+:FC_TYPE:  double
+:ID:       2b6a892a-fc63-465c-846c-673a3b7ff967
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    47.72 | 2023-04-03T21:56:36Z |
+| back     | 2.95 |   5 |    48.19 | 2023-04-07T21:59:42Z |
+:END:
+
+n.b.
+
+*** Back
+[[id:fccbc741-2373-47c3-9d41-a04fb0ce9b66][Nota bene]]
+*** Source
+[cite:@NotaBene2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:29]
+:FC_CREATED: 2023-01-18T17:30:14Z
+:FC_TYPE:  cloze
+:ID:       c0fc365d-88be-4416-a6f6-6ff9903478f5
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    51.75 | 2023-04-11T11:12:06Z |
+|        1 | 2.80 |   5 |    44.19 | 2023-04-09T08:13:48Z |
+:END:
+
+{{[[id:fccbc741-2373-47c3-9d41-a04fb0ce9b66][Nota bene]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Note well}{English}@1}
+
+*** Source
+[cite:@NotaBene2022]
+#+print_bibliography:

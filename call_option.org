@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       15f1b0b2-6f51-40de-93c9-77980744a483
+:ROAM_ALIASES: "Call options"
+:ROAM_REFS: [cite:@CallOption2022]
+:LAST_MODIFIED: [2023-01-23 Mon 06:18]
+:END:
+#+title: Call option
+#+hugo_custom_front_matter: :slug "15f1b0b2-6f51-40de-93c9-77980744a483"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 17:22]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In finance, a call option, often simply labeled a "call", is a contract between the buyer and the seller of the call option to exchange a security at a set price.
+
+[cite:@CallOption2022]
+#+end_quote
+
+* Flashcards
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       5d5cafa8-5a1c-451e-92eb-4986942d1bba
+:ANKI_NOTE_ID: 1640627791173
+:FC_CREATED: 2021-12-27T17:56:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   182.32 | 2023-05-29T01:54:59Z |
+| front    | 2.35 |   8 |   217.81 | 2023-07-16T11:28:20Z |
+:END:
+
+[[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call option]]
+
+*** Back
+A contract which allows the holder to buy a specific asset at a stated price within a specific timeframe.
+
+*** Source
+[cite:@CallOption2022]
+#+print_bibliography:
+** Definition (Finance) :fc:
+:PROPERTIES:
+:ID:       c26f0316-1291-499a-80d5-8967b238dec0
+:ANKI_NOTE_ID: 1640627800672
+:FC_CREATED: 2021-12-27T17:56:40Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   362.33 | 2024-01-20T22:15:53Z |
+| front    | 2.65 |   8 |   240.12 | 2023-08-05T20:47:49Z |
+:END:
+Covered call
+*** Back
+A financial transaction in which the investor selling call options owns an equivalent amount of the underlying security.
+*** TODO [#4] Source
+https://www.investopedia.com/terms/c/coveredcall.asp
+#+print_bibliography:

@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       5650a370-5c7a-4412-a38e-d9889bf23d0f
+:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:END:
+#+title: A posteriori
+#+hugo_custom_front_matter: :slug "5650a370-5c7a-4412-a38e-d9889bf23d0f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 11:18]
+#+filetags: :concept:
+#+begin_quote
+A posteriori knowledge depends on empirical evidence. Examples include most fields of science and aspects of personal knowledge.
+
+[cite:@PrioriPosteriori2022]
+#+end_quote
+
+Also see [[id:d794df81-0af5-41a2-a437-d02f5859b0ae][A priori]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:19]
+:FC_CREATED: 2022-12-21T19:19:40Z
+:FC_TYPE:  double
+:ID:       0e7bab4a-f2e9-4d3a-820f-058980ebc3d4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    84.36 | 2023-05-26T00:54:29Z |
+| back     | 2.95 |   5 |    49.71 | 2023-03-21T09:32:56Z |
+:END:
+
+[[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]]
+
+*** Back
+Knowledge which depends on empirical evidence.
+*** Source
+[cite:@PrioriPosteriori2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:19]
+:FC_CREATED: 2022-12-21T19:20:14Z
+:FC_TYPE:  cloze
+:ID:       3abcf0ea-4721-4077-be89-1c83cbd9a668
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    89.14 | 2023-05-26T19:12:13Z |
+|        1 | 2.80 |   6 |   141.38 | 2023-08-06T22:55:55Z |
+:END:
+
+{{[[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{From the later}{English}@1}
+
+*** Source
+[cite:@PrioriPosteriori2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:23]
+:FC_CREATED: 2022-12-21T19:23:54Z
+:FC_TYPE:  double
+:ID:       3c5b3d95-7ec5-414a-b8f8-6c28b2d9473d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    60.02 | 2023-04-16T16:42:07Z |
+| back     | 2.20 |   6 |    79.77 | 2023-05-24T11:47:46Z |
+:END:
+
+[[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]]
+
+*** Back
+- Knowledge from the fields of science
+- Personal knowledge
+*** Source
+[cite:@PrioriPosteriori2022]
+#+print_bibliography:

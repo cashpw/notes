@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1553a4d1-a2eb-489e-9f02-a0866f8f008c
+:ROAM_ALIASES: "Sound bites"
+:END:
+#+title: Sound bite
+#+hugo_custom_front_matter: :slug "1553a4d1-a2eb-489e-9f02-a0866f8f008c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A sound bite or soundbite is a short clip of speech or music extracted from a longer piece of audio, often used to promote or exemplify the full length piece. In the context of journalism, a sound bite is characterized by a short phrase or sentence that captures the essence of what the speaker was trying to say, and is used to summarize information and entice the reader or viewer. The term was coined by the U.S. media in the 1970s. Since then, politicians have increasingly employed sound bites to summarize their positions.
+
+Due to its brevity, the sound bite often overshadows the broader context in which it was spoken, and can be misleading or inaccurate. The insertion of sound bites into news broadcasts or documentaries is open to manipulation, leading to conflict over journalistic ethics.
+
+[cite:@SoundBite2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

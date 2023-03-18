@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       5ccdc07c-4bc5-46a8-bb31-b9c1f832bbc0
+:LAST_MODIFIED: [2023-03-17 Fri 07:01]
+:END:
+#+title: Train a longbowman
+#+hugo_custom_front_matter: :slug "5ccdc07c-4bc5-46a8-bb31-b9c1f832bbc0"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-03 Fri 06:48]
+#+filetags: :quote:
+
+#+begin_quote
+If you want to train a longbowman, start with his grandfather.
+
+/King Edward III/, probably
+#+end_quote
+
+* Flashcards
+** Normal :fc:
+:PROPERTIES:
+:CREATED: [2023-03-03 Fri 06:49]
+:FC_CREATED: 2023-03-03T14:50:23Z
+:FC_TYPE:  normal
+:ID:       299f440b-987f-4a51-990f-db39709f057d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    15.92 | 2023-04-02T12:10:55Z |
+:END:
+Quote about training longbowmen.
+
+*** Back
+#+begin_quote
+If you want to train a longbowman, start with his grandfather.
+
+/King Edward III/, probably
+#+end_quote
+*** Source
+Legend

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       68e208ad-a4d6-403e-aae3-2ef207499d99
+:LAST_MODIFIED: [2023-02-07 Tue 14:40]
+:END:
+#+title: Man's Inability to Sit Quietly in a Room Alone
+#+hugo_custom_front_matter: :slug "68e208ad-a4d6-403e-aae3-2ef207499d99"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-13 Sun 17:14]
+#+filetags: :quote:
+#+begin_quote
+All of humanity's problems stem from man's inability to sit quietly in a room alone.
+
+/Blaise Pascal/, /Pensées/
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** All of humanity's problems {{stem from man's inability to sit quietly in a room alone.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 11:05]
+:FC_CREATED: 2022-11-22T19:06:07Z
+:FC_TYPE:  cloze
+:ID:       98886630-e591-4ab4-871e-2eaed0e606c7
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    68.67 | 2023-04-17T14:51:00Z |
+:END:
+
+*** Source
+Blaise Pascal
+

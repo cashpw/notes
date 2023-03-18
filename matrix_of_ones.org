@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       c0af4445-3f47-49bf-a5f3-f6d730c440bb
+:ROAM_REFS: [cite:@MatrixOnes2022]
+:LAST_MODIFIED: [2023-03-08 Wed 10:35]
+:END:
+#+title: Matrix of ones
+#+hugo_custom_front_matter: :slug "c0af4445-3f47-49bf-a5f3-f6d730c440bb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 18:27]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] of ones or all-ones matrix is a matrix where every element is equal to one. Examples of standard notation are given below:
+
+\(J_{2}=\begin{pmatrix}1&1\\1&1\end{pmatrix}\)
+
+\(J_{3}=\begin{pmatrix}1&1&1\\1&1&1\\1&1&1\end{pmatrix}\)
+
+\(J_{2,5}=\begin{pmatrix}1&1&1&1&1\\1&1&1&1&1\end{pmatrix}\)
+
+\(J_{1,2}=\begin{pmatrix}1&1\end{pmatrix}\)
+
+\(J_{2}=\begin{pmatrix}1&1\\1&1\end{pmatrix}\)
+
+\(J_{3}=\begin{pmatrix}1&1&1\\1&1&1\\1&1&1\end{pmatrix}\)
+
+\(J_{2,5}=\begin{pmatrix}1&1&1&1&1\\1&1&1&1&1\end{pmatrix}\)
+
+\(J_{1,2}=\begin{pmatrix}1&1\end{pmatrix}\)
+
+[cite:@IdentityMatrix2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Denotes :fc:
+:PROPERTIES:
+:ID:       82e9e45a-075f-4ba9-aeca-978bb5450967
+:ANKI_NOTE_ID: 1640628582227
+:FC_CREATED: 2021-12-27T18:09:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   9 |   323.31 | 2024-01-21T22:26:49Z |
+|        1 | 2.50 |   8 |   315.03 | 2024-01-17T19:22:13Z |
+|        2 | 3.10 |   6 |   159.99 | 2023-07-01T16:31:45Z |
+:END:
+
+- {{$J_{n \times m}$}@0}
+- {{$\vec{1}_n \vec{1}_m^T$}@1}
+
+{{The $n \times m$ matrix of ones.}@2}
+
+*** Extra
+$J_{2 \times 2}$ $=$ $\begin{bmatrix} 1 & 1 \\ 1 & 1 \end{bmatrix}$
+
+*** Source
+[cite:@MatrixOnes2022]
+#+print_bibliography:

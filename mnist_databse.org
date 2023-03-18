@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       97aadd62-8fb1-4670-a675-c5d591bfe6a1
+:ROAM_REFS: [cite:@MNISTDatabase2022]
+:LAST_MODIFIED: [2023-01-19 Thu 08:12]
+:END:
+#+title: MNIST databse
+#+hugo_custom_front_matter: :slug "97aadd62-8fb1-4670-a675-c5d591bfe6a1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 15:32]
+#+filetags: :has_todo:concept:
+* Flashcards
+** The MNIST database contains images of {{handwritten digits}@0}. :fc:
+:PROPERTIES:
+:ID:       7eb208a5-57c0-4b40-9ed4-1f6a1f880e89
+:ANKI_NOTE_ID: 1640627815222
+:FC_CREATED: 2021-12-27T17:56:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   152.97 | 2023-03-25T19:06:46Z |
+:END:
+
+*** Extra
+
+*** TODO [#4] Source
+https://en.wikipedia.org/wiki/MNIST_database
+** Describe :fc:
+:PROPERTIES:
+:ID:       2b38b159-04c1-449d-b14d-d1bb0731f50e
+:ANKI_NOTE_ID: 1640627815671
+:FC_CREATED: 2021-12-27T17:56:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   281.54 | 2023-10-28T05:10:11Z |
+| back     | 2.80 |   8 |   295.43 | 2023-11-05T02:50:43Z |
+:END:
+
+The MNIST database
+
+*** Back
+A database of 28x28px greyscale images of handwritten digits. There are 60,000 training and 10,000 test images.
+*** TODO [#4] Source
+https://en.wikipedia.org/wiki/MNIST_database
+#+print_bibliography:

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       44df8020-9272-455c-91ea-268daf7c08d5
+:LAST_MODIFIED: [2023-02-23 Thu 19:44]
+:END:
+#+title: This is water
+#+hugo_custom_front_matter: :slug "44df8020-9272-455c-91ea-268daf7c08d5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 10:53]
+#+filetags: :concept:
+#+begin_quote
+There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says "Morning, boys. How's the water?" And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes "What the hell is water?"
+
+[...]
+
+The point of the fish story is merely that the most obvious, important realities are often the ones that are hardest to see and talk about.
+[cite:@davidfosterwallaceThisWater]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 10:59]
+:FC_CREATED: 2022-11-23T19:00:03Z
+:FC_TYPE:  double
+:ID:       bc1c368f-3551-4ac4-8fd9-4fb1fee9d85b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   6 |    50.60 | 2023-03-29T12:28:55Z |
+| back     | 2.80 |   6 |   116.68 | 2023-06-20T20:07:54Z |
+:END:
+
+[[id:44df8020-9272-455c-91ea-268daf7c08d5][This is water]]
+
+*** Back
+The most obvious and important realities are often the ones which are hardest to notice and to talk about.
+*** Source
+[cite:@davidfosterwallaceThisWater]
+#+print_bibliography:

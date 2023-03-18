@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       23bf8c2e-5c00-414a-860f-3a6c87ea6283
+:LAST_MODIFIED: [2023-03-17 Fri 06:59]
+:END:
+#+title: The carrot is the stick
+#+hugo_custom_front_matter: :slug "23bf8c2e-5c00-414a-860f-3a6c87ea6283"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-13 Sun 16:34]
+#+filetags: :quote:
+
+#+begin_quote
+The carrot is just the stick by other means.
+
+[[id:64b2ba46-31c4-4d78-9d9e-82fe2ca54526][Bob Black]], [cite:@blackAbolitionWork]
+#+end_quote
+
+The enticing value of an carrot depends on the one-being-enticed's lack of that carrot. They don't yet have the carrot that they want. Why do they not already have the carrot? The stick.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** The carrot {{is just the stick by another means.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:49]
+:FC_CREATED: 2022-11-18T17:49:51Z
+:FC_TYPE:  cloze
+:ID:       cbe82cdc-cf8d-4960-b778-2d48241eb83e
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   7 |    99.73 | 2023-06-25T07:31:09Z |
+:END:
+
+*** Source
+[cite:@blackAbolitionWork]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:49]
+:FC_CREATED: 2022-11-18T17:50:29Z
+:FC_TYPE:  double
+:ID:       106180b9-8c75-45c2-a061-6ba709955d0a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    72.67 | 2023-04-20T13:51:37Z |
+| back     | 2.50 |   6 |   108.86 | 2023-06-18T01:04:12Z |
+:END:
+
+[[id:23bf8c2e-5c00-414a-860f-3a6c87ea6283][The carrot is the stick]]
+
+*** Back
+The enticing value of an carrot depends on the one-being-enticed's lack of that carrot. They don't yet have the carrot that they want. Why do they not already have the carrot? The stick.
+*** Source
+[cite:@blackAbolitionWork]
+#+print_bibliography:

@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       e0a2cbe3-df33-431b-8740-c6455681414c
+:ROAM_ALIASES: PSRT
+:LAST_MODIFIED: [2023-03-05 Sun 08:55]
+:END:
+#+title: Psychophysiologic symptom relief therapy
+#+hugo_custom_front_matter: :slug "e0a2cbe3-df33-431b-8740-c6455681414c"
+#+FILETAGS: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-03 Fri 06:31]
+
+Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief first^{?} detailed in [[id:38bba771-d7e5-467f-80bb-ebd79faf793c][Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial]]. It focuses on the pain relationship between the psychological and the physical and incorporates [[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:e0a2cbe3-df33-431b-8740-c6455681414c][PSRT]] stands for {{[[id:e0a2cbe3-df33-431b-8740-c6455681414c][Psychophysiologic symptom relief therapy]]}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:46]
+:FC_CREATED: 2022-10-28T20:47:00Z
+:FC_TYPE:  cloze
+:ID:       ec675318-5b2f-4937-b762-71ac12dc8303
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    71.31 | 2023-04-25T00:48:23Z |
+:END:
+
+*** Source
+[cite:@donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:54]
+:FC_CREATED: 2022-10-28T20:55:49Z
+:FC_TYPE:  double
+:ID:       6fd8835b-d91b-4849-9380-39d3aeec5431
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |   7 |    91.20 | 2023-06-03T20:14:06Z |
+| back     | 1.30 |   8 |    21.15 | 2023-03-26T20:32:33Z |
+:END:
+
+[[id:e0a2cbe3-df33-431b-8740-c6455681414c][Psychophysiologic symptom relief therapy]]
+
+*** Back
+A treatment program designed for patients with non-specific chronic back pain which incorporates [[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]].
+*** Source
+[cite:@donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021]
+#+print_bibliography:

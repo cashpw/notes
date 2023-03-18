@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       03fd05a7-149e-49a8-be25-ca715b695add
+:LAST_MODIFIED: [2023-01-16 Mon 18:08]
+:END:
+#+title: Undirected graph
+#+hugo_custom_front_matter: :slug "03fd05a7-149e-49a8-be25-ca715b695add"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-05 Tue 17:35]
+#+filetags: :concept:
+
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a [[id:30dd1299-0411-4b80-945b-0740cc8b5348][symmetric]] [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
+
+#+begin_quote
+[[file:Undirected.svg.png]]
+
+[cite:@GraphDiscreteMathematics2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
+:PROPERTIES:
+:ID:       3037bbb9-4328-4130-ac84-042e323630a2
+:ANKI_NOTE_ID: 1658321324294
+:FC_CREATED: 2022-07-20T12:48:44Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   239.68 | 2023-09-10T09:14:22Z |
+| front    | 2.50 |   7 |   180.47 | 2023-06-26T04:01:08Z |
+:END:
+
+[[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]
+
+*** Back
+- A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a [[id:30dd1299-0411-4b80-945b-0740cc8b5348][symmetric]] [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
+- A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which all [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are symmetrically connected.
+*** Source
+[cite:@GraphDiscreteMathematics2022]
+
+** Image :fc:
+:PROPERTIES:
+:ID:       a7e6f48a-860e-4f0a-9e5b-04c68293f035
+:ANKI_NOTE_ID: 1658321324969
+:FC_CREATED: 2022-07-20T12:48:44Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   166.02 | 2023-05-31T18:15:08Z |
+| back     | 2.80 |   7 |   204.71 | 2023-08-09T19:13:40Z |
+:END:
+
+[[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]
+
+*** Back
+[[file:Undirected.svg.png]]
+*** Source
+[cite:@GraphDiscreteMathematics2022]
+#+print_bibliography:

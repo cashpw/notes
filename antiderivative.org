@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       4dafe179-aeb8-4718-9eb8-ac96a27f9a58
+:LAST_MODIFIED: [2023-03-11 Sat 16:20]
+:ROAM_ALIASES: "Indefinite integral"
+:END:
+#+title: Antiderivative
+#+hugo_custom_front_matter: :slug "4dafe179-aeb8-4718-9eb8-ac96a27f9a58"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 06:39]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], an antiderivative, inverse derivative, primitive function, primitive integral or indefinite integral[Note 1] of a function $f$ is a differentiable [[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differential calculus]]] function $F$ whose derivative is equal to the original function $f$. This can be stated symbolically as $F' = f$. The process of solving for antiderivatives is called antidifferentiation (or indefinite integration), and its opposite operation is called differentiation, which is the process of finding a derivative. Antiderivatives are often denoted by capital Roman letters such as F and G.
+#+end_quote
+
+* Example(s)
+
+$$
+\begin{align}
+f(x) &= F'(x) = x^2 \\
+F(x) &= \frac{x^3}{3} + c
+\end{align}
+$$
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 09:04]
+:FC_CREATED: 2023-01-27T17:05:14Z
+:FC_TYPE:  double
+:ID:       7f45ca17-9cfc-408a-aa66-03764d55a534
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.21 | 2023-04-07T19:34:59Z |
+| back     | 2.65 |   5 |    47.17 | 2023-04-24T22:48:05Z |
+:END:
+
+[[id:4dafe179-aeb8-4718-9eb8-ac96a27f9a58][Antiderivative]]
+
+*** Back
+A differentiable function whose derivative is equal to a particular function.
+
+*** Source
+[cite:@Antiderivative2023]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 09:52]
+:FC_CREATED: 2023-01-27T17:52:37Z
+:FC_TYPE:  double
+:ID:       99264ca8-5131-4633-8baf-b497f174f073
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    53.05 | 2023-05-03T06:40:18Z |
+| back     | 2.80 |   5 |    40.25 | 2023-04-21T06:20:43Z |
+:END:
+
+[[id:4dafe179-aeb8-4718-9eb8-ac96a27f9a58][Antiderivative]] of $f$
+
+*** Back
+$F$ for a function $f$
+*** Source
+[cite:@Antiderivative2023]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 09:53]
+:FC_CREATED: 2023-01-27T17:54:40Z
+:FC_TYPE:  cloze
+:ID:       a3ef6f89-1938-4560-b1f7-963cae2b0d5b
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    33.33 | 2023-04-12T10:59:19Z |
+:END:
+
+$f(x) = x^2$
+
+$F(x)=$ {{$\frac{x^3}{3} + c$}@0}
+
+*** Source
+[cite:@Antiderivative2023]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-02-06 Mon 15:45]
+:FC_CREATED: 2023-02-06T23:46:25Z
+:FC_TYPE:  cloze
+:ID:       4ceee6ac-0082-4837-93c4-0f4ad94fa36d
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    37.33 | 2023-04-15T02:09:05Z |
+|        1 | 2.35 |   4 |    15.20 | 2023-03-18T18:45:06Z |
+:END:
+
+{{$F(b) - F(a)$}@0} $=$ {{$\int_a^b f(x)dx$, where $x$ is in $[a,b]$}{terms of x}@1}
+
+*** Source
+[cite:@FundamentalTheoremCalculus2022]
+#+print_bibliography:

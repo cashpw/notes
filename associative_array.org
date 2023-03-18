@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       efd422ba-2509-48c9-b267-265f3c369462
+:LAST_MODIFIED: [2023-02-07 Tue 14:46]
+:END:
+#+title: Associative array
+#+hugo_custom_front_matter: :slug "efd422ba-2509-48c9-b267-265f3c369462"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 15:50]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, an associative array, map, symbol table, or dictionary is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In mathematical terms an associative array is a function with finite domain. It supports 'lookup', 'remove', and 'insert' operations.
+
+[...] The two major solutions to the dictionary problem are [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]] and search trees.
+
+[cite:@AssociativeArray2022]
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       cf74b86e-c849-4727-b7d5-2121266275cd
+:ANKI_NOTE_ID: 1656857016107
+:FC_CREATED: 2022-07-03T14:03:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   232.83 | 2023-09-24T12:35:22Z |
+| front    | 2.05 |   6 |    61.20 | 2023-04-10T03:31:23Z |
+:END:
+
+[[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
+
+*** Back
+A [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a collection of =key, value= pairs such that each possible key appears at most once in the collection.
+
+*** Source
+[cite:@AssociativeArray2022]
+
+
+** Describe :suspended:fc:
+:PROPERTIES:
+:ID:       1eb0b4a9-c96e-46c8-9f4e-990daa13be5b
+:ANKI_NOTE_ID: 1656857016682
+:FC_CREATED: 2022-07-03T14:03:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    34.21 | 2022-10-26T18:21:51Z |
+| back     | 2.65 |   4 |    17.36 | 2022-10-03T11:04:14Z |
+:END:
+
+Common API of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
+
+*** Back
+- =lookup=
+- =remove=
+- =insert=
+*** Source
+[cite:@AssociativeArray2022]
+#+print_bibliography:

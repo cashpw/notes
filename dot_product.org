@@ -1,0 +1,176 @@
+:PROPERTIES:
+:ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
+:ROAM_ALIASES: "Scalar product"
+:ROAM_REFS: [cite:@DotProduct2022]
+:LAST_MODIFIED: [2023-03-17 Fri 06:54]
+:END:
+#+title: Dot product
+#+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-24 Sun 11:41]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, the [[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]] or [[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Scalar product]] is an algebraic operation that takes two equal-length sequences of numbers (usually [[id:4b917306-e1fa-4d34-9d2b-5bb1eedab431][Coordinate vector]]), and returns a single number.
+
+[cite:@DotProduct2022]
+#+end_quote
+* Algebraic
+#+begin_quote
+Algebraically, the dot product is the sum of the products of the corresponding entries of the two sequences of numbers.
+
+[cite:@DotProduct2022]
+#+end_quote
+
+$\vec{a} \cdot \vec{b} = \sum^{n}_{i=1} \vec{a}_i\vec{b}_i$
+
+* Geometric
+
+The dot product of two vectors defines the lengths of, and angle between, the two vectors.
+
+$\vec{a} \cdot \vec{b} = \|a\|\|b\|\cos \theta$
+
+- Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
+- Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** AKA :fc:
+:PROPERTIES:
+:ID:       fd53c0d1-43bb-4771-ac74-6ff4c87a9564
+:ANKI_NOTE_ID: 1640628533427
+:FC_CREATED: 2021-12-27T18:08:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |  13 |   187.87 | 2023-06-14T13:38:31Z |
+|        1 | 2.20 |   9 |   286.75 | 2023-12-12T22:13:04Z |
+:END:
+- {{[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]}@0}
+- {{[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Scalar product]]}@1}
+*** Source
+[cite:@DotProduct2022]
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       c5a9da5d-13df-436b-a54f-37d8e2edc683
+:ANKI_NOTE_ID: 1640628578003
+:FC_CREATED: 2021-12-27T18:09:38Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   383.30 | 2024-03-20T20:59:15Z |
+|        1 | 2.80 |   8 |   324.76 | 2023-11-28T09:15:34Z |
+:END:
+
+- {{$\vec{a} \cdot \vec{b}$}@0}
+
+{{[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]}@1}
+
+*** Source
+[cite:@DotProduct2022]
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       a8e79a5c-28d4-4dd7-b8e3-c2fa62095971
+:ANKI_NOTE_ID: 1655820470410
+:FC_CREATED: 2022-06-21T14:07:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    43.87 | 2023-04-30T10:46:30Z |
+| back     | 2.50 |   8 |   245.82 | 2023-09-29T10:00:39Z |
+:END:
+
+[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]
+
+*** Back
+The sum of the products of the corresponding entries of the two sequences of numbers.
+
+We can express it:
+
+- Algebraic: \(\vec{a} \cdot \vec{b} = (a * c) + (b * d)\)
+- Geometric: \(\vec{a} \cdot \vec{b} = \lVert\vec{a}\rVert \lVert\vec{b}\rVert \cos(\theta)\)
+
+It defines:
+
+- Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
+- Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+*** Source
+[cite:@DotProduct2022]
+
+** {{$\(\lVert\vec{x}\rVert$}@0} \(=\) {{$\(\sqrt{\vec{x} \cdot \vec{x}}$}{no summation}@1} :fc:
+:PROPERTIES:
+:ID:       9e4d93e2-a60a-4531-8c22-9f22daab0e1f
+:ANKI_NOTE_ID: 1658688224763
+:FC_CREATED: 2022-07-24T18:43:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   226.14 | 2023-08-20T17:58:57Z |
+|        1 | 2.50 |   7 |   177.86 | 2023-06-26T13:30:14Z |
+:END:
+
+*** Source
+[cite:@DotProduct2022]
+
+** {{$\cos(\theta_{\vec{x}, \vec{y}})$}@0} \(\) {{$\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}$}@1}
+:PROPERTIES:
+:ID:       155ee769-0937-4acf-af6a-f4a6b0c2c6e6
+:ANKI_NOTE_ID: 1658688176014
+:FC_CREATED: 2022-07-24T18:42:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   7 |       56 | 2022-11-05T13:00:00Z |
+|        1 |  2.5 |   5 |       42 | 2022-10-11T13:00:00Z |
+:END:
+
+\(\theta_{\vec{x}, \vec{y}}\) is the angle between \(\vec{x}\) and \(\vec{y}\)
+
+*** Source
+[cite:@DotProduct2022]
+[[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]]
+** {{[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]}@2} defines {{vector length}@1} and {{angles between vectors}@0} :fc:
+:PROPERTIES:
+:ID:       a4c91d6b-aafa-432a-bc95-fb7a11cdcd1c
+:ANKI_NOTE_ID: 1659739801324
+:FC_CREATED: 2022-08-05T22:50:01Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   169.23 | 2023-06-17T19:43:22Z |
+|        2 | 2.65 |   7 |   202.21 | 2023-08-20T21:31:45Z |
+|        1 | 2.80 |   7 |   186.51 | 2023-07-21T04:42:20Z |
+:END:
+*** Extra
+- Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
+- Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+
+*** Source
+[cite:@DotProduct2022]
+#+print_bibliography:

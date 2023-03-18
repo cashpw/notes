@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       d737d99b-5154-41f2-8b31-7c3ba860d4e0
+:LAST_MODIFIED: [2023-02-18 Sat 09:00]
+:END:
+#+title: There's no speed limit
+#+hugo_custom_front_matter: :slug "d737d99b-5154-41f2-8b31-7c3ba860d4e0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 13:27]
+#+filetags: :concept:
+
+"It will take you \under\under\under days/months/years to do \under\under\under" is a helpful generalization. More accurately: "It takes *most people* \under\under\under days/months/years to do \under\under\under." You can go faster with a combination of [[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]] and the right assistance.
+
+A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] strategy.
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 14:09]
+:FC_CREATED: 2022-11-18T22:10:43Z
+:FC_TYPE:  double
+:ID:       297d0406-d859-47cf-8465-1fe9e5a64abc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   101.26 | 2023-05-29T07:53:55Z |
+| back     | 2.80 |   6 |   117.05 | 2023-06-15T18:11:55Z |
+:END:
+
+[[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
+
+*** Back
+Accepted wisdom around how long something takes to accomplish is based on the general case. You don't have to be the general case.
+*** Source
+[cite:@siversThereNoSpeedLimit2009]
+#+print_bibliography:

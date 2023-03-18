@@ -1,0 +1,100 @@
+:PROPERTIES:
+:ID:       f331c0a1-39b2-4752-84a9-f9656d1750c5
+:LAST_MODIFIED: [2023-03-15 Wed 08:11]
+:END:
+#+title: Never play defense
+#+hugo_custom_front_matter: :slug "f331c0a1-39b2-4752-84a9-f9656d1750c5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:11]
+#+filetags: :concept:
+
+A method for winning arguments where you seek to convince the audience you won or otherwise plan doubts in their head by holding an offensive posture throughout -- relies heavily on [[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]].
+
+See [[id:faa69627-9b11-4e11-ae1a-bcefb66fdedb][Ian Danskin | Never Play Defense]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe ([[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]) :fc:
+:PROPERTIES:
+:ID:       f1af566b-6dba-4035-9b02-dc7906a5dab1
+:ANKI_NOTE_ID: 1656857259180
+:FC_CREATED: 2022-07-03T14:07:39Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.30 |  14 |   181.62 | 2023-09-02T05:57:21Z |
+| back     | 2.35 |   6 |    74.72 | 2023-04-19T09:53:14Z |
+:END:
+
+[[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]
+
+*** Back
+A method for winning arguments where you seek to convince the audience you won or otherwise plan doubts in their head by holding an offensive posture throughout -- relies heavily on [[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]].
+*** Source
+[cite:@danskinNeverPlayDefense2017]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       d0142586-99ac-46b8-b917-b78b99cf2b64
+:ANKI_NOTE_ID: 1656857259758
+:FC_CREATED: 2022-07-03T14:07:39Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |  19 |   102.25 | 2023-06-25T21:17:01Z |
+| back     | 1.90 |   7 |    75.05 | 2023-05-17T15:19:44Z |
+:END:
+[[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]
+*** Back
+- Responding with something short, quipy, and wrong
+- Favoring accusations over questions
+- Trump blaming the opposition and calling his political opponents names
+- [[id:87a63cc1-4240-44f9-b4f7-7771173d6350][If you're explaining, you're losing]]
+- Countering detailed explanations with [[id:1553a4d1-a2eb-489e-9f02-a0866f8f008c][Sound bites]]
+- Signaling to your audience that someone isn't worth listening to by "putting them in a box"
+*** Source
+[cite:@danskinNeverPlayDefense2017]
+** Actors employ {{[[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]}@0} to {{[[id:246566c2-5b4b-479a-9e1d-522fd85903d9][Speak directly to the audience]]}@1} :suspended:fc:
+:PROPERTIES:
+:ID:       0f54ff58-c2fe-475d-874c-d1ff14081174
+:ANKI_NOTE_ID: 1660841976497
+:FC_CREATED: 2022-08-18T16:59:36Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|        1 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+*** Extra
+*** Source
+[cite:@danskinNeverPlayDefense2017]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-03 Fri 08:39]
+:FC_CREATED: 2023-02-03T16:39:55Z
+:FC_TYPE:  cloze
+:ID:       037f9382-0267-4efe-ac1f-a297011df0ef
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    41.17 | 2023-04-18T21:38:23Z |
+|        1 | 2.50 |   5 |    43.47 | 2023-04-28T02:30:13Z |
+:END:
+
+{{[[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]}{argument}@0} relies on {{[[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]}@1}.
+
+*** Source
+[cite:@danskinNeverPlayDefense2017]
+#+print_bibliography:

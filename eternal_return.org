@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       e6d8be33-22e9-4c94-808d-7347f7fc38ed
+:ROAM_REFS: [cite:@EternalReturn2022]
+:LAST_MODIFIED: [2023-02-26 Sun 08:00]
+:END:
+#+title: Eternal return
+#+hugo_custom_front_matter: :slug "e6d8be33-22e9-4c94-808d-7347f7fc38ed"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:41]
+#+filetags: :has_todo:concept:
+#+begin_quote
+Eternal return is a concept that the universe and all existence and energy has been recurring, and will continue to recur in a self similar form an infinite number of times across infinite time or space. The concept is found in Indian philosophy and in ancient Egypt and was subsequently taken up by the Pythagoreans and Stoics. With the decline of antiquity and the spread of Christianity, the concept fell into disuse in the Western world, with the exception of 19th century philosopher Friedrich Nietzsche, who resurrected it as a thought experiment.
+
+Eternal return relates to the philosophy of predeterminism in that people are predestined to continue repeating the same events over and over again.
+
+[cite:@EternalReturn2022]
+#+end_quote
+
+* TODO [#2] Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       c36c1f36-ded7-406e-b213-3e7294e2769b
+:ANKI_NOTE_ID: 1640627825973
+:FC_CREATED: 2021-12-27T17:57:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   9 |   333.26 | 2024-01-25T22:13:15Z |
+| front    | 2.65 |   7 |   136.75 | 2023-03-30T09:02:18Z |
+:END:
+[[id:e6d8be33-22e9-4c94-808d-7347f7fc38ed][Eternal return]]
+*** Back
+A concept that the universe and all existence and energy has been recurring, and will continue to recur, in a self-similar form an infinite number of times across infinite time or space.
+*** Source
+[cite:@EternalReturn2022]
+#+print_bibliography:

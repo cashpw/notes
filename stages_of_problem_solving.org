@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       4dc60214-2e6b-45de-bed5-6e2fec793385
+:LAST_MODIFIED: [2023-01-11 Wed 08:47]
+:END:
+#+title: Stages of problem solving
+#+hugo_custom_front_matter: :slug "4dc60214-2e6b-45de-bed5-6e2fec793385"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 08:13]
+#+startup: overview
+#+filetags: :has_todo:concept:
+* TODO [#4] Understand and agree about the problem
+:PROPERTIES:
+:ID:       e3a7869c-d28d-4733-85ca-bcce823054e2
+:END:
+* TODO [#4] Develop a solution for the problem
+:PROPERTIES:
+:ID:       c7ffc7dd-6d53-4cbb-9945-86d265e51d12
+:END:
+* TODO [#4] Implement the solution
+:PROPERTIES:
+:ID:       4f5e453e-5721-4f27-aca6-1c830749d566
+:END:
+* TODO [#4] [[id:0b3c28aa-ab9a-4a99-8dbf-4f22a6e7dee9][Retrospective]]
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

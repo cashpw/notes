@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       7b23cb95-12d8-44e3-8caf-5ad91e596e1c
+:LAST_MODIFIED: [2022-12-31 Sat 12:00]
+:END:
+#+title: How to pour plaster
+#+hugo_custom_front_matter: :slug "7b23cb95-12d8-44e3-8caf-5ad91e596e1c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-28 Wed 12:20]
+#+filetags: :has_todo:concept:
+
+* Bubbles
+
+#+begin_quote
+Try to pour it into the corner of the plastic box.  This reduces the amount of air that gets dragged into the plaster mix.  Think about pouring a fizzy drink into a glass.  If you pour it straight into the center of the glass, it gets agitated and bubbles up.  However, if you pour it against the side of the glass it will settle more easily.
+
+[...]
+
+Once all the plaster has been transferred, tap the side of the container.  This will help bubbles rise to the surface.  I also put my gloved hand into the mix and give it a very gentle 'shuggle'.  This gets rid of more bubbles than just tapping.
+
+[...]
+
+A tip that I picked up from TimSee, is to spritz the plaster with alcohol.  This will burst the plaster bubbles that pop to the surface.  Rather than spraying your damp box with Whiskey, you can get a bottle of ethanol from a local pharmacy.  I tried this and put it into an old hair product spray bottle.  It works well and means you don't have to rub the surface down so much later.
+
+[cite:@lesleyHowMakeDampBoxClay2019]
+#+end_quote
+
+* Safety
+
+- Use a [[id:eef0239d-9c61-4d0e-b1f1-d4e802dd0bef][respirator]]
+- Wear gloves
+- Work in a well ventilated area
+
+* TODO [#2] Flashcards
+#+print_bibliography:

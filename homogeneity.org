@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       65f61fff-628e-484a-baf5-785b37f7f28e
+:ROAM_REFS: [cite:@HomogeneousFunction2022]
+:LAST_MODIFIED: [2023-03-11 Sat 16:29]
+:END:
+#+title: Homogeneity
+#+hugo_custom_front_matter: :slug "65f61fff-628e-484a-baf5-785b37f7f28e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 09:43]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a homogeneous function is a function of several variables such that, if all its arguments are multiplied by a scalar, then its value is multiplied by some power of this scalar, called the degree of homogeneity, or simply the degree; that is, if $k$ is an integer, a function f of n variables is homogeneous of degree $k$ if
+
+$f(sx_{1},\ldots ,sx_{n})=s^{k}f(x_{1},\ldots ,x_{n})$
+
+for every $x_{1},\ldots ,x_{n}$, and $s\neq 0$.
+
+For example, a homogeneous polynomial of degree k defines a homogeneous function of degree $k$.
+
+The above definition extends to functions whose domain and codomain are vector spaces over a field [[[id:0d3e54fc-2848-464f-8b69-d8940993d61f][Field (math)]]]: a function $f : V \to W$ between two $F\text{-vector}$ spaces is homogeneous of degree $k$ if
+
+$f(s\mathbf {v} )=s^{k}f(\mathbf {v})$
+
+[cite:@HomogeneousFunction2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       46bbda9e-f9b9-4880-9652-83b2437e0623
+:ANKI_NOTE_ID: 1640627865095
+:FC_CREATED: 2021-12-27T17:57:45Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   220.62 | 2023-06-24T04:25:49Z |
+| front    | 2.60 |  10 |   131.06 | 2023-04-19T23:59:29Z |
+:END:
+
+Degree of homogeneity
+
+*** Back
+The value of $k$ in $f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y})$
+
+*** Source
+[cite:@HomogeneousFunction2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       9a1a6497-38a3-4d47-8955-c984b900b86d
+:ANKI_NOTE_ID: 1640627864897
+:FC_CREATED: 2021-12-27T17:57:44Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |  13 |   261.38 | 2023-10-01T00:26:36Z |
+| front    | 1.90 |   4 |    10.89 | 2023-03-22T21:53:19Z |
+:END:
+
+Homogeneous function
+
+*** Back
+A function with multiplicative scaling behaviour; if all its arguments are multiplied by a factor, then its value is multiplied by some power of this factor.
+
+*** Extra
+$f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y})$
+
+*** Source
+[cite:@HomogeneousFunction2022]
+#+print_bibliography:

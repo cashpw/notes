@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       92b87e35-87c9-4911-a95e-200ca365361d
+:LAST_MODIFIED: [2023-03-11 Sat 16:31]
+:END:
+#+title: There should be a science of discontent
+#+hugo_custom_front_matter: :slug "92b87e35-87c9-4911-a95e-200ca365361d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-10 Sat 10:22]
+#+filetags: :quote:
+#+begin_quote
+There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of discontent]]. People need hard times to develop psychic muscles. The body and mind adapt to stress, without it they atrophy, like a tree's limbs without the wind.
+
+[[id:9f491719-8277-4aab-94fd-39c512730430][Paul Atreides]], [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]], [cite:@herbertDune1999]
+#+end_quote
+* Flashcards
+** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) There should be {{a science of discontent. People need hard times to develop psychic muscles. The body and mind adapt to stress, without it they atrophy, like a tree's limbs without the wind.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:23]
+:FC_CREATED: 2022-11-15T17:25:09Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       21fa1a2e-c865-42a8-88c4-4deeed66470a
+:FC_BLOCKED_BY:       75e6d2c2-5c19-4dae-aba5-aa0657a0e0e6,33ae45d1-1920-4b0c-b8ce-4b20e72f3766,b32399c7-6a96-4c28-ab03-30848138ac2a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   4 |    12.15 | 2023-03-24T04:03:44Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) There should be {{a science of discontent.}{short}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:23]
+:FC_CREATED: 2022-11-15T17:25:09Z
+:FC_TYPE:  cloze
+:ID:       75e6d2c2-5c19-4dae-aba5-aa0657a0e0e6
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    78.59 | 2023-04-22T05:13:07Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) People need {{hard times to develop psychic muscles.}{short}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:23]
+:FC_CREATED: 2022-11-15T17:25:09Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       b32399c7-6a96-4c28-ab03-30848138ac2a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    82.81 | 2023-05-22T10:17:55Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) The body and mind adapt {{to stress, without it they atrophy, like a tree's limbs without the wind.}{short}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 07:09]
+:FC_CREATED: 2022-11-25T15:09:45Z
+:FC_TYPE:  cloze
+:ID:       33ae45d1-1920-4b0c-b8ce-4b20e72f3766
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   109.07 | 2023-06-27T04:45:19Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+#+print_bibliography:

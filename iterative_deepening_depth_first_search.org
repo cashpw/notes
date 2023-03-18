@@ -1,0 +1,108 @@
+:PROPERTIES:
+:ID:       0ad51c11-995b-4437-a218-82df11697f7a
+:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:END:
+#+title: Iterative deepening depth-first-search
+#+hugo_custom_front_matter: :slug "0ad51c11-995b-4437-a218-82df11697f7a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 18:09]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, iterative deepening search or more specifically iterative deepening depth-first search[2] (IDS or IDDFS) is a state space/graph search strategy in which a depth-limited version of [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] search is run repeatedly with increasing depth limits until the goal is found. IDDFS is optimal like [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]], but uses much less memory; at each iteration, it visits the nodes in the search tree in the same order as depth-first search, but the cumulative order in which nodes are first visited is effectively breadth-first.
+
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+#+end_quote
+
+* Algorithm
+
+** Implementation
+
+- [[id:7c092555-c1f9-4c9d-9d02-c31d8096ce51][Iterative deepening depth-first-search implementation in Python]]
+* Complexity
+** Time
+
+Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]]) and $d$ is the depth of the shallowest solution.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** {{[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]}@1} is {{optimal}@0}, unlike [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] :fc:
+:PROPERTIES:
+:ID:       df3cdb0b-eff1-435a-9be3-3c4275339986
+:ANKI_NOTE_ID: 1656857213507
+:FC_CREATED: 2022-07-03T14:06:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   177.79 | 2023-06-14T13:42:02Z |
+|        1 | 2.50 |   7 |   139.09 | 2023-05-03T22:43:48Z |
+:END:
+*** Extra
+*** Source
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+
+
+** {{[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]}@1} {{uses much less memory}@2} than {{[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}@0} :fc:
+:PROPERTIES:
+:ID:       6cd96ff9-01b1-460d-90ad-99a37a4535f7
+:ANKI_NOTE_ID: 1656857214134
+:FC_CREATED: 2022-07-03T14:06:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        2 | 2.65 |   7 |   287.40 | 2023-12-11T01:58:01Z |
+|        1 | 2.50 |   7 |   228.28 | 2023-08-23T21:55:51Z |
+|        0 | 2.50 |   7 |   154.67 | 2023-06-03T08:48:16Z |
+:END:
+*** Extra
+*** Source
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       d9597f8a-cd57-4f1f-b922-0d4b75a01f61
+:ANKI_NOTE_ID: 1656857215158
+:FC_CREATED: 2022-07-03T14:06:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   7 |   259.99 | 2023-10-13T14:30:19Z |
+| back     | 2.65 |   6 |    96.78 | 2023-03-27T11:15:02Z |
+:END:
+[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+*** Back
+- A modified version of [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] which is depth-limited and slowly expands its depth.
+- Has a lower memory requirement than [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]
+*** Source
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+** Implement :fc:implement:
+:PROPERTIES:
+:ID:       594f583e-70e2-4e71-b07f-c830216016a4
+:ANKI_NOTE_ID: 1661442746162
+:FC_CREATED: 2022-08-25T15:52:26Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   0 |     0.00 | 2023-02-17T14:50:29Z |
+:END:
+Implement [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+*** Back
+[[id:7c092555-c1f9-4c9d-9d02-c31d8096ce51][Iterative deepening depth-first-search implementation in Python]]
+*** Source
+[cite:@DepthfirstSearch2022]
+#+print_bibliography:

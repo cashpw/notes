@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       9d646383-d4a9-4f9d-ab12-74d45b82d58a
+:ROAM_REFS: [cite:@QuadraticFormula2023]
+:LAST_MODIFIED: [2023-03-18 Sat 06:30]
+:END:
+#+title: Quadratic formula
+#+hugo_custom_front_matter: :slug "9d646383-d4a9-4f9d-ab12-74d45b82d58a"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 16:47]
+#+filetags: :concept:
+
+#+begin_quote
+In elementary algebra, the quadratic formula is a formula that provides the solution(s) to a quadratic equation. [...]
+
+Given a general quadratic equation of the form
+
+$ax^2+bx+c=0$
+
+with x representing an unknown, with a, b and c representing constants, and with a ≠ 0, the quadratic formula is:
+
+$x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}$
+
+where the plus–minus symbol "±" indicates that the quadratic equation has two solutions.[1] Written separately, they become:
+
+$\displaystyle x_{1}={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}}\quad {\text{or}}\quad x_{2}={\frac {-b-{\sqrt {b^{2}-4ac}}}{2a}}$
+
+[cite:@QuadraticFormula2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:49]
+:FC_CREATED: 2023-01-28T00:49:38Z
+:FC_TYPE:  double
+:ID:       01069c99-1a48-4e27-9be8-9d8f4cbe0140
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   4 |    12.54 | 2023-03-21T06:18:34Z |
+| back     | 2.65 |   5 |    48.00 | 2023-05-05T13:31:30Z |
+:END:
+
+[[id:9d646383-d4a9-4f9d-ab12-74d45b82d58a][Quadratic formula]]
+
+*** Back
+$x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}$
+*** Source
+[cite:@QuadraticFormula2023]
+** Normal :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:49]
+:FC_CREATED: 2023-01-28T00:50:18Z
+:FC_TYPE:  normal
+:ID:       603fe8cb-b709-4bb0-bdd1-6be2e0c2072a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.68 | 2023-04-11T08:28:34Z |
+:END:
+
+How to solve $3x^2 + 6x + 4$ for $x$
+
+*** Back
+Use the [[id:9d646383-d4a9-4f9d-ab12-74d45b82d58a][Quadratic formula]].
+*** Source
+[cite:@QuadraticFormula2023]
+#+print_bibliography:

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chinThreeKindsNonfictionBooks2018]
+:ID:       ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
+:DIR:      /home/cashweaver/proj/roam/attachments/ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
+:LAST_MODIFIED: [2023-03-10 Fri 21:17]
+:END:
+#+title: Cedric Chin | The Three Kinds of Non-Fiction Books
+#+hugo_custom_front_matter: :slug "ee7ed2c5-dd15-42aa-8cfe-8149ce58473e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 07:36]
+#+filetags: :reference:
+ 
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinThreeKindsNonfictionBooks2018]
+
+* Summary
+* Thoughts
+* Notes
+- [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+- [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
+- [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** {{[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]}@0} separates books into {{[[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]}@1}, {{[[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]}@2}, and {{[[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]}@3} books :fc:
+:PROPERTIES:
+:ID:       622fdb96-22f4-4613-8956-6487b0d3e479
+:ANKI_NOTE_ID: 1640627827297
+:FC_CREATED: 2021-12-27T17:57:07Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 4
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        2 | 2.80 |   9 |   450.96 | 2024-06-04T04:22:42Z |
+|        1 | 2.65 |   7 |   159.12 | 2023-04-03T18:32:47Z |
+|        3 | 2.65 |   8 |   202.05 | 2023-06-20T17:21:25Z |
+|        0 | 2.80 |  10 |   344.57 | 2024-01-23T05:57:50Z |
+:END:
+*** Extra
+*** Source
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+print_bibliography:

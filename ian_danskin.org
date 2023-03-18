@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       2e66d444-9a3a-4ed3-8fac-210bb61933fb
+:LAST_MODIFIED: [2023-01-29 Sun 18:39]
+:END:
+#+title: Ian Danskin
+#+hugo_custom_front_matter: :slug "2e66d444-9a3a-4ed3-8fac-210bb61933fb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-25 Sat 16:31]
+#+filetags: :person:
+
+Among other things:
+
+- [[https://www.youtube.com/c/InnuendoStudios][Innuendo Studios on YouTube]] 
+- [[https://innuendostudios.tumblr.com][innuendostudios on Tumblr]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Author :fc:
+:PROPERTIES:
+:ID:       7f44919f-b96d-41c3-9133-e8432fdb3126
+:ANKI_NOTE_ID: 1656857146559
+:FC_CREATED: 2022-07-03T14:05:46Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   264.92 | 2023-10-22T00:49:57Z |
+:END:
+[[id:2e66d444-9a3a-4ed3-8fac-210bb61933fb][Ian Danskin]]
+*** Back
+- [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]
+- Innuendo Studios

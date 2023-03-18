@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       04893c03-a45f-4719-9404-ac09b32a5edb
+:LAST_MODIFIED: [2023-02-23 Thu 19:43]
+:END:
+#+title: Southern strategy
+#+hugo_custom_front_matter: :slug "04893c03-a45f-4719-9404-ac09b32a5edb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-13 Sun 08:02]
+#+filetags: :concept:
+
+#+begin_quote
+In American politics, the Southern strategy was a Republican Party electoral strategy to increase political support among white voters in the South by appealing to racism against African Americans.
+#+end_quote
+
+[cite:@SouthernStrategy2022]
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-13 Sun 08:03]
+:FC_CREATED: 2022-11-13T16:05:13Z
+:FC_TYPE:  double
+:ID:       97aa71d5-1327-4595-88d9-4f388b65f5f9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |    96.01 | 2023-05-03T13:57:14Z |
+| back     | 2.80 |   6 |    99.72 | 2023-06-03T20:59:07Z |
+:END:
+
+[[id:04893c03-a45f-4719-9404-ac09b32a5edb][Southern strategy]]
+
+*** Back
+A political strategy which sought to increase political support among white voters in the American South by appealing to racism against black people.
+*** Source
+[cite:@SouthernStrategy2022]
+#+print_bibliography:

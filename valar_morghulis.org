@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       cc3f6c45-87ed-4979-bc83-9940ae5c7014
+:ROAM_ALIASES: "All men must die"
+:LAST_MODIFIED: [2023-02-24 Fri 19:36]
+:END:
+#+title: Valar morghulis
+#+hugo_custom_front_matter: :slug "cc3f6c45-87ed-4979-bc83-9940ae5c7014"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 09:01]
+#+filetags: :concept:
+
+"All men must die", in High Valyrian in the books of A Song of Ice and Fire.
+
+Related: [[id:8991f579-2d7a-4c2a-8207-f360145cd587][Valar dohaeris]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** {{[[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][Valar morghulis]]}{Valyrian}@0}: {{[[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][All men must die]]}{English}@1} :fc:
+:PROPERTIES:
+:ID:       9b08d608-7adb-4fc5-85df-01616f2a28df
+:ANKI_NOTE_ID: 1656857128032
+:FC_CREATED: 2022-07-03T14:05:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   7 |   273.63 | 2023-11-16T07:13:10Z |
+| front    | 2.95 |   7 |   327.68 | 2024-01-18T20:00:04Z |
+:END:

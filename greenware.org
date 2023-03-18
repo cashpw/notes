@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       d0d62414-0eb1-4036-aae9-da4db0eb1d52
+:LAST_MODIFIED: [2023-02-15 Wed 07:52]
+:END:
+#+title: Greenware
+#+hugo_custom_front_matter: :slug "d0d62414-0eb1-4036-aae9-da4db0eb1d52"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-23 Tue 08:50]
+#+filetags: :concept:
+
+#+begin_quote
+Greenware refers to unfired objects.
+
+[cite:@Pottery2022]
+#+end_quote
+
+Greenware is clay before it's undergone [[id:546a8c28-18bb-4500-bb35-a18ca162ee1f][Bisque firing]]. This includes:
+
+- Raw dry clay
+- Slip
+- [[id:8d874911-f4f8-460f-b20d-90425c53cfa1][Plastic clay]]
+- [[id:7358ec53-29b1-4b14-b1b5-20a09e40caf1][Leather-hard clay]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:44]
+:FC_CREATED: 2022-11-22T20:45:08Z
+:FC_TYPE:  double
+:ID:       7a4570fd-c275-4b57-8edf-222617e80a7b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    98.52 | 2023-05-16T14:18:00Z |
+| back     | 2.50 |   6 |    82.00 | 2023-05-08T15:58:01Z |
+:END:
+
+[[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]]
+
+*** Back
+Clay which has not undergone [[id:546a8c28-18bb-4500-bb35-a18ca162ee1f][Bisque firing]].
+*** Source
+[cite:@Pottery2022]
+#+print_bibliography:

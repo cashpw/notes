@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4c8c9bb9-7cba-4a9e-89dc-4d0095438126
+:ROAM_ALIASES: org-mode
+:END:
+#+title: Org mode
+#+hugo_custom_front_matter: :slug "4c8c9bb9-7cba-4a9e-89dc-4d0095438126"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 07:41]
+#+filetags: :concept:
+#+begin_quote
+Org Mode is a document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs.
+
+[cite:@Orgmode2022]
+#+end_quote
+
+- [[id:5c82bd2b-141a-420f-8289-4fff9514b769][Literate programming]]
+
+* Flashcards
+#+print_bibliography:

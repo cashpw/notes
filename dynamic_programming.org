@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       48e26e71-a0e3-4086-99f2-53e2fa6f7fc8
+:ROAM_REFS: [cite:@DynamicProgramming2022]
+:LAST_MODIFIED: [2023-03-11 Sat 16:30]
+:END:
+#+title: Dynamic programming
+#+hugo_custom_front_matter: :slug "48e26e71-a0e3-4086-99f2-53e2fa6f7fc8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 16:26]
+#+filetags: :has_todo:concept:
+* TODO [#2] :noexport:
+* TODO [#2] Flashcards
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 16:29]
+:FC_CREATED: 2022-12-22T00:29:56Z
+:FC_TYPE:  normal
+:ID:       0dcb0c0a-2776-4925-9cb7-b8e1053e2a41
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   109.45 | 2023-06-29T11:18:19Z |
+:END:
+
+[[id:48e26e71-a0e3-4086-99f2-53e2fa6f7fc8][Dynamic programming]]
+
+*** Back
+- [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]
+- [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]
+- Fibonacci
+- Factorial
+*** Source
+- [cite:@SearchAlgorithm2022]
+- [cite:@DijkstraAlgorithm2022]
+#+print_bibliography:

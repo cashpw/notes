@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       fe9b846a-00fb-4311-8103-0ab31dd65275
+:LAST_MODIFIED: [2023-02-24 Fri 19:36]
+:END:
+#+title: Level-order tree traversal
+#+hugo_custom_front_matter: :slug "fe9b846a-00fb-4311-8103-0ab31dd65275"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-07 Wed 06:37]
+#+filetags: :concept:
+
+#+begin_quote
+In [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] (BFS) or level-order search, the search tree is broadened as much as possible before going to the next depth.
+
+[[file:220px-Sorted_binary_tree_breadth-first_traversal.svg.png]]
+
+[cite:@TreeTraversal2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:41]
+:FC_CREATED: 2022-11-22T20:42:03Z
+:FC_TYPE:  double
+:ID:       cefefd70-2221-4145-acad-647eeffff1fe
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    95.25 | 2023-05-30T09:58:14Z |
+| back     | 2.20 |   6 |    80.60 | 2023-05-16T17:58:47Z |
+:END:
+
+[[id:fe9b846a-00fb-4311-8103-0ab31dd65275][Level-order tree traversal]]
+
+*** Back
+Navigating a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] such that you visit all items at the same depth before moving to the next depth.
+*** Source
+[cite:@TreeTraversal2022]
+#+print_bibliography:

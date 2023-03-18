@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@FaitAccompli2022]
+:ID:       ecc8e89c-b85e-454f-a67a-dded3fbb7587
+:LAST_MODIFIED: [2023-03-11 Sat 16:33]
+:END:
+#+title: Fait accompli
+#+hugo_custom_front_matter: :slug "ecc8e89c-b85e-454f-a67a-dded3fbb7587"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-07 Mon 09:35]
+#+filetags: :reference:
+ 
+#+begin_quote
+Often said of something irreversible and/or performed without going through standard procedure, completed before those affected by it are in a position to query or reverse it.
+
+[cite:@FaitAccompli2022]
+#+end_quote
+* Example(s)
+
+- [[id:d2444c40-8496-482e-a1fd-10d0351f531e][I did it thirty-five minutes ago]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:ecc8e89c-b85e-454f-a67a-dded3fbb7587][Fait accompli]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 09:46]
+:FC_CREATED: 2022-11-07T17:48:20Z
+:FC_TYPE:  vocab
+:ID:       5e46a94f-4ce0-4527-9b6a-d36728db0f51
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    64.39 | 2023-03-22T11:37:54Z |
+| back     | 2.35 |   6 |    61.76 | 2023-04-29T10:39:37Z |
+:END:
+
+Term referring to something irreversible and/or performed without going through standard procedure; completed before those affected by it are in a position to query or reverse it.
+*** Source
+[cite:@FaitAccompli2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 11:08]
+:FC_CREATED: 2022-11-07T19:08:30Z
+:FC_TYPE:  double
+:ID:       5c9694f3-a2c7-4f1a-9bd5-c16606e3dd74
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   108.68 | 2023-06-05T17:58:13Z |
+| back     | 2.65 |   6 |   111.04 | 2023-07-01T01:34:42Z |
+:END:
+
+[[id:ecc8e89c-b85e-454f-a67a-dded3fbb7587][Fait accompli]]
+
+*** Back
+- [[id:d2444c40-8496-482e-a1fd-10d0351f531e][I did it thirty-five minutes ago]]
+*** Source
+#+print_bibliography:

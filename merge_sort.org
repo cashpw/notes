@@ -1,0 +1,198 @@
+:PROPERTIES:
+:ID:       4ad76968-7e82-4d68-b8fa-ff6059f3c843
+:ROAM_REFS: [cite:@MergeSort2022]
+:LAST_MODIFIED: [2023-03-17 Fri 06:53]
+:END:
+#+title: Merge sort
+#+hugo_custom_front_matter: :slug "4ad76968-7e82-4d68-b8fa-ff6059f3c843"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-01 Fri 11:23]
+#+filetags: :concept:
+
+#+begin_quote
+Conceptually, a merge sort works as follows:
+
+1. Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted).
+1. Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list.
+
+[cite:@MergeSort2022]
+#+end_quote
+
+Merge sort is:
+
+- [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
+- [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+
+* Algorithm
+
+#+begin_src
+procedure MergeSort(list) is
+  if length of list <= 1 then
+    return list
+
+  left, right = split(list)
+  MergeSort(left)
+  MergeSort(right)
+
+  return Merge(left, right)
+#+end_src
+
+* Implementation
+
+- [[id:d87d7e23-c861-4cec-adf8-c19125cc6327][Merge sort implementation in Python]]
+* Complexity
+|       | Worst-case                     | Best-case                      |
+|-------+--------------------------------+--------------------------------|
+| Time  | \(O(n \operatorname{log}(n))\) | \(O(n \operatorname{log}(n))\) |
+| Space | \(O(n)\)                       | \(O(n)\)                       |
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] space complexity: {{$O(n)$}@0} :fc:
+:PROPERTIES:
+:ID:       c6c8770c-980a-42e9-897f-d5de54428662
+:ANKI_NOTE_ID: 1656857380933
+:FC_CREATED: 2022-07-03T14:09:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   135.46 | 2023-05-30T05:20:22Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@MergeSort2022]
+
+
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] time complexity: {{$O(n \log(n))$}@0} :fc:
+:PROPERTIES:
+:ID:       3ba3a711-a3d6-4b8f-b28d-0d1a5e9c22b8
+:ANKI_NOTE_ID: 1656857381159
+:FC_CREATED: 2022-07-03T14:09:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   177.36 | 2023-06-21T00:04:57Z |
+:END:
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       7eec4fa1-2db9-4bef-943c-65d573336097
+:ANKI_NOTE_ID: 1656857382332
+:FC_CREATED: 2022-07-03T14:09:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   137.80 | 2023-05-21T11:55:43Z |
+| back     | 3.10 |   6 |   159.09 | 2023-07-20T02:24:48Z |
+:END:
+[[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+*** Back
+A recursive [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which sorts by separating a list into smaller parts and sorting the sub-lists.
+
+- [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+- [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
+
+|       | Worst-case                       | Best-case                        |
+|-------+----------------------------------+----------------------------------|
+| Time  | $\bigo{n \operatorname{log}(n)}$ | $\bigo{n \operatorname{log}(n)}$ |
+| Space | $\bigo{n}$                       | $\bigo{n}$                       |
+*** Source
+[cite:@MergeSort2022]
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] is {{[[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]}{memory}@0} :fc:
+:PROPERTIES:
+:ID:       13e8f8b0-9090-4c85-b686-b6684f57e05f
+:ANKI_NOTE_ID: 1656857383208
+:FC_CREATED: 2022-07-03T14:09:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   316.09 | 2024-01-06T05:54:35Z |
+:END:
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+
+
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] is {{[[id:740ce42a-3a80-4ecb-9438-fedff074443b][stable]]}{stability}@0} :fc:
+:PROPERTIES:
+:ID:       4956ccb5-ce6c-4269-a88a-39ce4186194d
+:ANKI_NOTE_ID: 1656857384158
+:FC_CREATED: 2022-07-03T14:09:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   165.89 | 2023-04-21T14:13:36Z |
+:END:
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+
+
+** Algorithm :fc:
+:PROPERTIES:
+:ID:       e8bcc72d-a97b-4465-8f73-8005460ad222
+:ANKI_NOTE_ID: 1656857385410
+:FC_CREATED: 2022-07-03T14:09:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   209.06 | 2023-09-27T15:55:46Z |
+|        1 | 2.35 |   7 |   169.12 | 2023-08-13T07:04:13Z |
+|        2 | 2.65 |   7 |   168.66 | 2023-08-11T19:47:34Z |
+|        3 | 2.95 |   6 |    90.38 | 2023-04-20T01:31:59Z |
+:END:
+{{[[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]}@0}
+
+1. {{Split the given list in half}@1}
+1. {{Apply [...] to both halves}@2}
+1. {{=Merge= both halves}@3}
+*** Source
+[cite:@MergeSort2022]
+
+** Basic with Source :fc:implement:
+:PROPERTIES:
+:ID:       647b9b1c-d9e1-45e5-85da-7f8b3fb23cb9
+:ANKI_NOTE_ID: 1656857385979
+:FC_CREATED: 2022-07-03T14:09:45Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    97.71 | 2023-06-23T07:03:12Z |
+:END:
+Implement [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+*** Back
+[[id:d87d7e23-c861-4cec-adf8-c19125cc6327][Merge sort implementation in Python]]
+*** Source
+[cite:@MergeSort2022]
+#+print_bibliography:

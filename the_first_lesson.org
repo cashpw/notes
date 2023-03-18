@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       7c49d995-a4d4-4c95-84c0-9dae9d8ab498
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/7c49d995-a4d4-4c95-84c0-9dae9d8ab498
+:LAST_MODIFIED: [2023-03-11 Sat 16:25]
+:END:
+#+title: The first lesson
+#+hugo_custom_front_matter: :slug "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
+#+author: Cash Prokop-Weaver
+#+date: [2021-05-30 Sun 12:44]
+#+filetags: :quote:
+
+#+begin_quote
+[[id:9f491719-8277-4aab-94fd-39c512730430][Muad'Dib]] learned rapidly because his first training was in how to learn [[[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]]]. And the first lesson of all was the basic trust that he could learn [[[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]]]. It's shocking to find how many people do not believe they can learn [[[id:3a203296-7538-4986-a360-0db64356c9f5][Fixed mindset]]], and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
+
+[[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Irulan Corrino]], [cite:@herbertDune1999]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:9f491719-8277-4aab-94fd-39c512730430][Muad'Dib]] learned rapidly because {{his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:51]
+:FC_CREATED: 2022-11-15T17:52:36Z
+:FC_TYPE:  cloze
+:ID:       0e0ed81a-4d13-4e7b-a052-f385ea970d9e
+:FC_BLOCKED_BY:       2d969c95-c855-4b71-8619-52c3f8192a29
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    74.31 | 2023-05-16T21:12:49Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+** And the first lesson of all was {{the basic trust that he could learn}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-26 Sat 06:43]
+:FC_CREATED: 2022-11-26T14:44:13Z
+:FC_TYPE:  cloze
+:ID:       2d969c95-c855-4b71-8619-52c3f8192a29
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    56.07 | 2023-04-08T02:04:44Z |
+:END:
+*** Source
+[cite:@herbertDune1999]
+** Normal :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 07:27]
+:FC_CREATED: 2023-01-30T15:28:51Z
+:FC_TYPE:  normal
+:ID:       2c9cbed0-73f8-466c-81f8-5ac5da550f24
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    37.76 | 2023-04-18T18:32:34Z |
+:END:
+
+(full) [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The first lesson]]
+
+*** Back
+[[id:9f491719-8277-4aab-94fd-39c512730430][Muad'Dib]] learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.
+*** Source
+[cite:@herbertDune1999]
+#+print_bibliography:

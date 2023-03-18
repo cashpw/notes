@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       7bb3980d-e901-4f5e-b102-61a0a89de28c
+:ROAM_REFS: [cite:@PostscarcityEconomy2022]
+:ROAM_ALIASES: "Post-scarcity economy"
+:LAST_MODIFIED: [2023-02-26 Sun 07:56]
+:END:
+#+title: Post-scarcity society
+#+hugo_custom_front_matter: :slug "7bb3980d-e901-4f5e-b102-61a0a89de28c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-13 Sun 16:59]
+#+filetags: :concept:
+
+#+begin_quote
+Post-scarcity is a theoretical economic situation in which most goods can be produced in great abundance with minimal human labor needed, so that they become available to all very cheaply or even freely.
+
+[cite:@PostscarcityEconomy2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 09:19]
+:FC_CREATED: 2022-11-22T17:19:58Z
+:FC_TYPE:  double
+:ID:       da814831-c1a4-4979-aa17-bc78aca770fe
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   105.43 | 2023-05-28T01:41:55Z |
+| back     | 2.80 |   6 |   113.90 | 2023-06-20T13:34:49Z |
+:END:
+
+[[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][Post-scarcity economy]]
+
+*** Back
+A theoretical economic situation in which goods can be produced in great abundance such that they are available to all.
+*** Source
+[cite:@PostscarcityEconomy2022]
+#+print_bibliography:

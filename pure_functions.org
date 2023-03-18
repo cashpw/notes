@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       426b6e66-710b-4d01-8ff0-f5311478260c
+:LAST_MODIFIED: [2023-03-05 Sun 09:26]
+:END:
+#+title: Pure functions
+#+hugo_custom_front_matter: :slug "426b6e66-710b-4d01-8ff0-f5311478260c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-15 Tue 14:54]
+#+filetags: :concept:
+
+#+begin_quote
+In computer programming, a pure function is a function that has the following properties:
+
+1. the function return values are identical for identical arguments (no variation with local static variables, non-local variables, mutable reference arguments or input streams), and
+2. the function application has no side effects (no mutation of local static variables, non-local variables, mutable reference arguments or input/output streams).
+
+Thus a pure function is a computational analogue of a mathematical function. Some authors, particularly from the imperative language community, use the term "pure" for all functions that just have the above property 2.
+
+[cite:@PureFunction2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** A {{pure function}@0} is a computational analogue of a {{mathematical function}@1}. :fc:
+:PROPERTIES:
+:ID:       6a1e051a-9e25-43a9-b1f0-ee151d59459a
+:ANKI_NOTE_ID: 1640627807724
+:FC_CREATED: 2021-12-27T17:56:47Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   186.47 | 2023-05-20T03:10:14Z |
+|        1 | 2.80 |   8 |   295.80 | 2023-10-29T09:59:15Z |
+:END:
+
+*** Source
+[cite:@PureFunction2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       8e2f3d4f-bfec-49c2-9b27-448d04336149
+:ANKI_NOTE_ID: 1640627807576
+:FC_CREATED: 2021-12-27T17:56:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   170.64 | 2023-04-24T15:33:21Z |
+| front    | 2.65 |   8 |   349.90 | 2024-02-18T15:07:51Z |
+:END:
+
+[[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]]
+
+*** Back
+A function in computer programming which (1) has no side effects and (2) is deterministic.
+*** Source
+[cite:@PureFunction2022]
+#+print_bibliography:

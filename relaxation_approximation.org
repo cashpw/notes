@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       88e5f008-ed26-4e5f-b5ac-6f4efc83d24c
+:LAST_MODIFIED: [2023-03-04 Sat 07:13]
+:END:
+#+title: Relaxation (approximation)
+#+hugo_custom_front_matter: :slug "88e5f008-ed26-4e5f-b5ac-6f4efc83d24c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 11:42]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematical optimization and related fields, relaxation is a modeling strategy. A relaxation is an approximation of a difficult problem by a nearby problem that is easier to solve. A solution of the relaxed problem provides information about the original problem.
+
+[cite:@RelaxationApproximation2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 11:43]
+:FC_CREATED: 2022-12-22T19:44:10Z
+:FC_TYPE:  double
+:ID:       0b16e758-ca09-4eca-b8f7-2e97fe120371
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    89.22 | 2023-06-01T20:27:36Z |
+| back     | 2.65 |   6 |    88.80 | 2023-05-28T23:25:42Z |
+:END:
+
+[[id:88e5f008-ed26-4e5f-b5ac-6f4efc83d24c][Relaxation (approximation)]]
+
+*** Back
+An approximation of a difficult problem to a nearby problem which is easier to solve.
+*** Source
+[cite:@RelaxationApproximation2022]
+#+print_bibliography:

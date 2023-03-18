@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@FiveSentences]
+:ID:       ef3d7a17-747d-485c-83b3-4404c1ab67e8
+:DIR:      /home/cashweaver/proj/roam/attachments/ef3d7a17-747d-485c-83b3-4404c1ab67e8
+:LAST_MODIFIED: [2022-12-14 Wed 13:28]
+:END:
+#+title: Five sentences
+#+hugo_custom_front_matter: :slug "ef3d7a17-747d-485c-83b3-4404c1ab67e8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-15 Tue 13:21]
+#+filetags: :reference:
+ 
+#+begin_quote
+**The Problem**
+
+E-mail takes too long to respond to, resulting in continuous inbox overflow for those who receive a lot of it.
+
+**The Solution**
+
+Treat all email responses like SMS text messages, using a set number of letters per response. Since it's too hard to count letters, we count sentences instead.
+
+[cite:@FiveSentences]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

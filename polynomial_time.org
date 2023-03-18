@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       9abc3978-c42a-42ad-a309-9f50c3698c0f
+:ROAM_ALIASES: "P (Complexity)" P
+:LAST_MODIFIED: [2023-03-14 Tue 08:06]
+:ROAM_REFS: [cite:@Complexity2022]
+:END:
+#+title: Polynomial time
+#+hugo_custom_front_matter: :slug "9abc3978-c42a-42ad-a309-9f50c3698c0f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-30 Mon 09:04]
+#+filetags: :concept:
+
+#+begin_quote
+In computational complexity theory [[[id:235c1171-e8bd-4b52-820c-109f34a0bc80][Computational complexity theory]]], P, also known as PTIME or DTIME($n^{\bigo{1}}$), is a fundamental complexity class. It contains all decision problems that can be solved by a deterministic Turing machine using a polynomial amount of computation time, or polynomial time.
+
+Cobham's thesis holds that P is the class of computational problems that are "efficiently solvable" or "tractable". This is inexact: in practice, some problems not known to be in P have practical solutions, and some that are in P do not, but this is a useful rule of thumb.
+
+[cite:@Complexity2022]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:05]
+:FC_CREATED: 2023-01-30T17:06:56Z
+:FC_TYPE:  cloze
+:ID:       9a8697da-1938-40d3-ab05-b9405b2efc67
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    35.13 | 2023-04-12T20:38:34Z |
+|        1 | 2.80 |   5 |    48.47 | 2023-05-02T02:23:01Z |
+:END:
+
+{{[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]}@0} stands for {{[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]]}@1}
+
+*** Source
+[cite:@Complexity2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:08]
+:FC_CREATED: 2023-01-30T17:10:11Z
+:FC_TYPE:  double
+:ID:       9c6981cc-fa4e-4adf-bada-3b25a965cc45
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    34.19 | 2023-04-07T19:31:05Z |
+| back     | 2.80 |   5 |    48.01 | 2023-04-22T17:38:58Z |
+:END:
+
+[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]]
+
+*** Back
+A fundamental complexity class for problems which can be solved in $\bigo{n^{\bigo{1}}}$ time.
+*** Source
+[cite:@Complexity2022]
+#+print_bibliography:

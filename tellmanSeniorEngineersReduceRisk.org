@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@tellmanSeniorEngineersReduceRisk]
+:ID:       e7753777-506e-490e-b79e-59dede5dce2e
+:DIR:      /home/cashweaver/proj/roam/attachments/e7753777-506e-490e-b79e-59dede5dce2e
+:LAST_MODIFIED: [2022-12-25 Sun 07:20]
+:END:
+#+title: Zach Tellman | Senior Engineers Reduce Risk
+#+hugo_custom_front_matter: :slug "e7753777-506e-490e-b79e-59dede5dce2e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-18 Fri 19:25]
+#+filetags: :reference:
+ 
+[[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]], [cite:@tellmanSeniorEngineersReduceRisk]
+
+* Notes
+:PROPERTIES:
+:ID:       ed55c6ed-9a81-4b02-837f-efbf075966c8
+:END:
+#+begin_quote
+If you read articles on career development in software, you'll already know there are many things a senior engineer is not. They are not, for instance, just someone with ten years of experience. They are not just someone who maintains a popular open source project. They are not just someone who wrote the initial prototype for their company's flagship product.
+
+Instead, senior engineers possess many disparate skills, the exact composition of which varies from author to author. These laundry lists are [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][detailed]], [[https://frontside.io/blog/2016-07-07-the-conjoined-triangles-of-senior-level-development/][nuanced]], and typically leave the reader feeling as if they have a long way to go.
+
+Empirically, though, there are many people who have the title "senior engineer" who do not possess all these skills. Unless all of them can be explained by title inflation or poor management, this is a serious disconnect with reality. We have to treat these articles as aspirational: a description of the industry as it should be. For someone wanting to make a significant, recognized impact on their company, today, these articles are more distracting than helpful.
+
+Senior engineers reduce risk, in every sense. Often, "risk" is used to describe technical risk, which is that the software doesn't function properly, or is never completed at all. But there are other issues that can prevent the business atop the software from succeeding - risks around process, or product design, or sales, or the company's culture. A senior engineer understands these risks, and mitigates them where possible.
+
+[...]
+
+Where possible, solving the general form of any problem is preferable to solving a single instance. However, this is only possible if the problem space is well understood. Premature abstraction, in code or elsewhere, introduces risk. If the failure modes in production are poorly understood, volunteering for pager duty may be the only way to really help.
+
+[...]
+
+Most risks, especially where managed effectively, never come to pass. For this reason, it's often impossible to tell the difference between real risk and perceived risk. By the same token, it can be difficult to tell the difference between real impact and perceived impact. If a senior engineer identifies a significant risk, they have to be able to concisely explain and prioritize it for a non-expert audience.
+
+[...]
+
+Every company has different risks, and so every company expects something different from their senior engineers. An engineer who has spent the last five years making small, continuous improvements to the processes in a larger company may not enjoy or even understand the sort of role expected by a three person startup. The expectation that "senior" is a fungible title is both widespread and harmful, leading to unrealistic expectations from both engineers and companies.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** ([[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]]) Senior engineers {{reduce risk}{what they do}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 16:55]
+:FC_CREATED: 2022-11-13T00:55:49Z
+:FC_TYPE:  cloze
+:ID:       ffb647d9-5d0e-4594-b374-fcc725c6270c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   112.55 | 2023-05-30T11:12:25Z |
+:END:
+*** Source
+[cite:@tellmanSeniorEngineersReduceRisk]
+#+print_bibliography:

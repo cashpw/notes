@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       6a5b1ddb-40c7-424a-9a57-68afbf45a9d5
+:END:
+#+title: Lint your prose
+#+hugo_custom_front_matter: :slug "6a5b1ddb-40c7-424a-9a57-68afbf45a9d5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 10:04]
+#+startup: overview
+#+filetags: :concept:
+
+You should use a [[id:bb5a1f30-1733-41b5-9c34-bcac7f8cb701][linter]] to analyze your prose.
+
+I use prose linters to:
+
+1. ensure that I write with a consistent [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][style]]
+2. catch spelling mistakes
+
+I prefer [[github:amperser/proselint][proselint]] because it includes rules that I already try to follow. There's also [[github:textlint/textlint][textlint]] if you're interested in specifying your own rules.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

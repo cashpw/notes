@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       054a9fb8-f19c-4bd6-8445-c5f8c3f30a25
+:LAST_MODIFIED: [2023-03-18 Sat 06:39]
+:END:
+#+title: Projection (Linear algebra)
+#+hugo_custom_front_matter: :slug "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-14 Wed 10:02]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+A *projection* on a vector space $V$ is a linear operator $P : V \rightarrow V$ such that $P^2 = P$.
+
+[cite:@ProjectionLinearAlgebra2022]
+#+end_quote
+
+#+begin_quote
+In [[https://en.wikipedia.org/wiki/Linear_algebra][linear algebra]] and [[https://en.wikipedia.org/wiki/Functional_analysis][functional analysis]], a projection is a [[https://en.wikipedia.org/wiki/Linear_transformation][linear transformation]] \(P\) from a [[https://en.wikipedia.org/wiki/Vector_space][vector space]] to itself (an [[https://en.wikipedia.org/wiki/Endomorphism][endomorphism]]) such that \(P \circ P = P\). That is, whenever \(P\) is applied twice to any vector, it gives the same result as if it were applied once (i.e. \(P\) is [[https://en.wikipedia.org/wiki/Idempotent][idempotent]]). It leaves its [[https://en.wikipedia.org/wiki/Image_(mathematics)][image]] unchanged.
+
+[cite:@ProjectionLinearAlgebra2022]
+#+end_quote
+
+* TODO [#2] Expand :noexport:
+
+Create notes for each of the links in the above quote. I think I have flashcards for all of them in the big list.
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:ID:       cd1b7aa8-f6b0-4057-bd12-e6fc0c17c3a9
+:ANKI_NOTE_ID: 1640628585854
+:FC_CREATED: 2021-12-27T18:09:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.20 |   6 |    52.35 | 2023-04-01T07:04:28Z |
+|        0 | 2.50 |   6 |    84.42 | 2023-04-23T02:20:58Z |
+:END:
+
+- {{$\operatorname{proj}_{\vec{b}}(\vec{a})$}@1}
+
+{{The orthogonal projection of $\vec{a}$ onto the line spanned by a non-zero $\vec{b}$}@0}
+
+*** Source
+[cite:@hefferonLinearAlgebra2020], [cite:@hefferonLinearAlgebraOrthogonalProjectionLineWikibooksOpenBooksOpenWorld]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-12-14 Wed 10:10]
+:FC_CREATED: 2022-12-14T18:10:50Z
+:FC_TYPE:  cloze
+:ID:       a90783dd-3d08-45c6-b699-f2333e9458e7
+:FC_CLOZE_MAX: -1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   142.52 | 2023-08-08T02:02:02Z |
+|        1 | 2.35 |   6 |    78.18 | 2023-05-21T19:29:36Z |
+:END:
+
+{{$\operatorname{proj}_{\vec{b}}(\vec{a})$}@0} $=$ {{$\frac{\vec{a} \cdot \vec{b}}{\vec{b} \cdot \vec{b}}\vec{b}$}@1}
+
+*** Source
+[cite:@hefferonLinearAlgebra2020], [cite:@hefferonLinearAlgebraOrthogonalProjectionLineWikibooksOpenBooksOpenWorld]
+#+print_bibliography:

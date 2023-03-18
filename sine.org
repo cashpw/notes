@@ -1,0 +1,79 @@
+:PROPERTIES:
+:ID:       eba86939-f427-419c-a5d9-8115ed6f0e65
+:LAST_MODIFIED: [2023-02-13 Mon 06:11]
+:END:
+#+title: Sine
+#+hugo_custom_front_matter: :slug "eba86939-f427-419c-a5d9-8115ed6f0e65"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 09:55]
+#+filetags: :concept:
+
+\(\begin{aligned}\sin(\alpha) &= \frac{\text{opposite}}{\text{hypotenuse}} \\ &= \tan(\alpha)\cos(\alpha)\end{aligned}\)
+
+Also see [[id:8f39b616-dc89-4597-b689-c65aecde4a05][Cosine]] and [[id:44aea0ad-06fe-4c46-83c3-53b6a78591c3][Tangent (Trigonometry)]]; [[id:0d69fc06-1179-402b-8231-922986e486fc][Trigonometry]].
+
+#+begin_quote
+[[file:Trigono_sine_en2.svg]]
+
+[cite:@SineCosine2022]
+#+end_quote
+
+* Graph of \(\sin\)
+[[file:sin.png]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Basic (and reversed card) :fc:
+:PROPERTIES:
+:ID:       bc9bacca-e796-411d-a597-f5599022316a
+:ANKI_NOTE_ID: 1640627783822
+:FC_CREATED: 2021-12-27T17:56:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   313.21 | 2023-12-23T19:12:13Z |
+| back     | 2.65 |   7 |   108.82 | 2023-01-10T11:59:08Z |
+:END:
+Graph \(f(x) = \sin(x)\)
+*** Back
+[[file:sin.png]]
+*** Source
+[cite:@SineCosine2022]
+** {{$\sin(\theta)$}@0} \(=\) {{$\frac{\text{adjacent}}{\text{hypotenuse}}$}{sides}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1662496497453
+:FC_CREATED: 2022-09-06T20:34:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       2876982d-6711-485d-842a-ca6f2d5fcec7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   120.87 | 2023-04-06T10:41:54Z |
+|        1 | 2.50 |   4 |    16.11 | 2022-12-05T18:34:23Z |
+:END:
+*** Source
+[cite:@SineCosine2022]
+** {{$\cos(\theta)$}@0} \(=\) {{$\frac{\sin(\theta)}{\tan(\theta)}$}{function}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1662496497453
+:FC_CREATED: 2022-09-06T20:34:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   4 |    12.64 | 2022-11-28T05:43:50Z |
+|        1 | 2.50 |   2 |     2.00 | 2022-11-18T13:51:24Z |
+:END:
+*** Source
+[cite:@SineCosine2022]
+#+print_bibliography:

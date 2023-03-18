@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       4b55d2c1-0a98-476e-a3fb-caec175cb0a0
+:LAST_MODIFIED: [2023-01-31 Tue 06:33]
+:END:
+#+title: The best time was yesterday; the second best time is now
+#+hugo_custom_front_matter: :slug "4b55d2c1-0a98-476e-a3fb-caec175cb0a0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-20 Sun 15:25]
+#+filetags: :concept:
+
+The best time for \under\under\under[fn:1] was yesterday. The second best time is now.
+
+* Footnotes
+
+[fn:1] Where X is most things, behaviors, activities, etc.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** The best time for X {{was yesterday. The second best time is now.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:53]
+:FC_CREATED: 2022-11-18T17:55:02Z
+:FC_TYPE:  cloze
+:ID:       04d326a7-9f4f-474c-99be-784512ed3061
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   6 |    52.66 | 2023-03-25T06:27:16Z |
+:END:

@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       1263eb22-a819-43e6-9ab4-d45f790b095f
+:ROAM_REFS: [cite:@OptionFinance2022]
+:LAST_MODIFIED: [2023-02-02 Thu 07:49]
+:END:
+#+title: Option (finance)
+#+hugo_custom_front_matter: :slug "1263eb22-a819-43e6-9ab4-d45f790b095f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 17:29]
+#+filetags: :concept:
+
+#+begin_quote
+In finance, an option is a contract which conveys to its owner, the holder, the right, but not the obligation, to buy or sell a specific quantity of an underlying asset or instrument at a specified strike price on or before a specified date, depending on the style of the option.
+
+[cite:@OptionFinance2022]
+#+end_quote
+
+* Types
+
+- [[id:7b7185c2-db8c-4e53-b9a1-795cc36ab508][Put option]]
+- [[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call option]]
+
+* Value
+
+#+begin_quote
+In [[https://en.wikipedia.org/wiki/Black%E2%80%93Scholes][Black--Scholes]] pricing of options, omitting interest rates and the first derivative, the Black--Scholes equation reduces to $\Theta = - \Gamma$, "(infinitesimally) the time value is the convexity". That is, the value of an option is due to the convexity of the ultimate payout: one has the /option/ to buy an asset or not (in a call; for a put it is an option to sell), and the ultimate payout function (a [[https://en.wikipedia.org/wiki/Hockey_stick][hockey stick]] shape) is convex -- "optionality" corresponds to convexity in the payout. Thus, if one purchases a call option, the expected value of the option is /higher/ than simply taking the expected future value of the underlying and inputting it into the option payout function: the expected value of a convex function is higher than the function of the expected value (Jensen inequality). The price of the option -- the value of the optionality -- thus reflects the convexity of the payoff function.
+
+[cite:@ConvexityFinance2022]
+#+end_quote
+
+* Styles
+** American options
+:PROPERTIES:
+:ID:       d3ad448d-c93d-4f29-9e91-dea656de0bb2
+:END:
+#+begin_quote
+An American option [...] may be exercised at any time before the expiration date.
+
+[cite:@OptionStyle2022]
+#+end_quote
+** European options
+:PROPERTIES:
+:ID:       38e47dc2-d914-4569-9a81-f5e8c7eecfe8
+:END:
+#+begin_quote
+A European option may be exercised only at the expiration date of the option, i.e. at a single pre-defined point in time.
+
+[cite:@OptionStyle2022]
+#+end_quote
+
+* Flashcards
+** The value of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][option]] comes from {{the convexity of the ultimate payout.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:54]
+:FC_CREATED: 2022-11-07T01:55:52Z
+:FC_TYPE:  cloze
+:ID:       646091ff-ee47-4d32-9903-0fc387726c92
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    59.62 | 2023-04-03T06:35:18Z |
+:END:
+
+*** Source
+[cite:@ConvexityFinance2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 18:42]
+:FC_CREATED: 2022-11-07T02:43:13Z
+:FC_TYPE:  normal
+:ID:       53581add-1ea2-4cc9-9fb2-1049883f8a65
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   105.33 | 2023-05-02T09:52:33Z |
+:END:
+
+[[id:d3ad448d-c93d-4f29-9e91-dea656de0bb2][American options]] and [[id:38e47dc2-d914-4569-9a81-f5e8c7eecfe8][European options]]
+
+*** Back
+- American options may be exercised at any time before the expiration date
+- European options may *only* be exercised at the expiration date
+*** Source
+[cite:@OptionStyle2022]
+#+print_bibliography:

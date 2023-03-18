@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       24c39c95-3f91-4e42-81e6-7eb87eb24546
+:LAST_MODIFIED: [2023-02-17 Fri 06:52]
+:ROAM_REFS: [cite:@MatchingPennies2022]
+:END:
+#+title: Matching pennies
+#+hugo_custom_front_matter: :slug "24c39c95-3f91-4e42-81e6-7eb87eb24546"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-10 Tue 12:10]
+#+filetags: :concept:
+#+begin_quote
+Matching pennies is the name for a simple game used in game theory [[[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]]. It is played between two players, Even and Odd. Each player has a penny and must secretly turn the penny to heads or tails. The players then reveal their choices simultaneously. If the pennies match (both heads or both tails), then Even keeps both pennies, so wins one from Odd (+1 for Even, −1 for Odd). If the pennies do not match (one heads and one tails) Odd keeps both pennies, so receives one from Even (−1 for Even, +1 for Odd).
+
+[cite:@MatchingPennies2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 09:42]
+:FC_CREATED: 2023-01-13T17:43:15Z
+:FC_TYPE:  double
+:ID:       66688020-5e2e-4b4c-8a38-ed24cb9298f9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    46.37 | 2023-04-04T10:36:21Z |
+| back     | 2.50 |   5 |    38.92 | 2023-03-28T12:57:18Z |
+:END:
+
+[[id:24c39c95-3f91-4e42-81e6-7eb87eb24546][Matching pennies]]
+
+*** Back
+A [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][game]] in which two players each have a single coin and flip it to heads or tails each turn. The first player wins points by matching the other player's coin face. The second player wins points by having a different coin face.
+*** Source
+[cite:@MatchingPennies2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 09:44]
+:FC_CREATED: 2023-01-13T17:45:26Z
+:FC_TYPE:  double
+:ID:       72117c87-0079-42d5-9bd8-9f92b103fd8f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    37.50 | 2023-03-20T12:15:01Z |
+| back     | 2.65 |   5 |    38.28 | 2023-03-25T22:45:00Z |
+:END:
+
+([[id:24c39c95-3f91-4e42-81e6-7eb87eb24546][Matching pennies]]) Being predictable
+
+*** Back
+Using a predictable strategy in this matching game will lead to loss as your opponent can rely on your predictability to counter your move.
+*** Source
+[cite:@MatchingPennies2022]
+#+print_bibliography:

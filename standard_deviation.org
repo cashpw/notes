@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       f4de9f04-053d-4602-a81a-c4118e6ee3c2
+:LAST_MODIFIED: [2023-03-15 Wed 08:11]
+:END:
+#+title: Standard deviation
+#+hugo_custom_front_matter: :slug "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:08]
+#+filetags: :concept:
+#+begin_quote
+In statistics, the standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range.
+
+[cite:@StandardDeviation2022]
+#+end_quote
+
+$\operatorname{stddev}(x) = \sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$
+
+* Flashcards
+
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       eb787732-911c-4ed1-9b1a-c58e231df7de
+:ANKI_NOTE_ID: 1640627867844
+:FC_CREATED: 2021-12-27T17:57:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   210.90 | 2023-06-30T15:09:21Z |
+| front    | 1.85 |   7 |    79.03 | 2023-06-02T15:48:44Z |
+:END:
+
+[[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
+
+*** Back
+A measure of the amount of variation or dispersion of a set of values.
+
+*** Source
+[cite:@StandardDeviation2022]
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       5db1bec4-1dd9-40ca-9891-473a0eae6fda
+:ANKI_NOTE_ID: 1640628571975
+:FC_CREATED: 2021-12-27T18:09:31Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   305.88 | 2023-11-25T11:23:36Z |
+:END:
+
+- {{$s$}@0}
+
+Sample [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
+
+*** Source
+[cite:@StandardDeviation2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       9f595137-2fd7-43fd-b54d-bb5502ccb1d4
+:ANKI_NOTE_ID: 1640628573076
+:FC_CREATED: 2021-12-27T18:09:33Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   272.47 | 2023-10-31T01:21:41Z |
+:END:
+
+- {{$\sigma$}@0}
+
+Population [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
+
+*** Source
+[cite:@StandardDeviation2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 12:21]
+:FC_CREATED: 2022-11-18T20:23:54Z
+:FC_TYPE:  cloze
+:ID:       e6a05b06-b825-4e3a-b70a-7b4d0f7027a9
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    91.67 | 2023-05-18T08:11:16Z |
+|        1 | 1.90 |   6 |    45.49 | 2023-04-11T15:28:41Z |
+:END:
+
+{{$\operatorname{stddev}(x)$}@0} $=$ {{$\sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$}{expression}@1}
+
+
+*** Source
+[cite:@StandardDeviation2022]
+#+print_bibliography:

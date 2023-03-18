@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       ce1622e0-9f93-47fd-a5b2-5acd981caabf
+:ROAM_REFS: [cite:@nancy_mcgYourShapes2021]
+:LAST_MODIFIED: [2023-03-10 Fri 21:21]
+:END:
+#+title: At least two of the same
+#+hugo_custom_front_matter: :slug "ce1622e0-9f93-47fd-a5b2-5acd981caabf"
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-02 Thu 12:00]
+#+filetags: :quote:
+
+#+begin_quote
+I always do at least 2 of the same, so I can see where my work was intentional and where it was accidental.
+
+For example When I do sets I make 2-4-6 of the same shape/size/color. They started out being cousins, then became sisters, now they are twins. Knowing I can form a shape with intention was important to me. It strengthened my skill.
+
+BUT there is a place for 'form-finding' which I think describes how you made these shapes you are showing us. When you sit down at the wheel and let a shape 'become'. I like that too. It just doesn't add to my skill set as much.
+
+[cite:@nancy_mcgYourShapes2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 08:29]
+:FC_CREATED: 2022-11-23T16:30:54Z
+:FC_TYPE:  double
+:ID:       7b96f09c-b4f5-45a3-9ec5-d5295537d46a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   116.66 | 2023-06-27T07:44:24Z |
+| back     | 2.65 |   6 |   106.48 | 2023-06-25T16:49:58Z |
+:END:
+
+Creating [[id:ce1622e0-9f93-47fd-a5b2-5acd981caabf][At least two of the same]]
+
+*** Back
+A way of differentiating intention versus accident in created work.
+*** Source
+[cite:@nancy_mcgYourShapes2021]
+#+print_bibliography:

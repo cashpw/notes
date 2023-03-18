@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@hefferonLinearAlgebra2020]
+:ID:       f62d92d7-7151-46f1-a3e8-bb06cc72f02b
+:LAST_MODIFIED: [2023-01-28 Sat 08:45]
+:END:
+#+title: Jim Hefferon | Linear Algebra
+#+hugo_custom_front_matter: :slug "f62d92d7-7151-46f1-a3e8-bb06cc72f02b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-24 Wed 08:51]
+#+filetags: :reference:
+
+[[id:46dd2e05-cb80-4cb6-876e-8bf46551ec2f][Jim Hefferon]], [cite:@hefferonLinearAlgebra2020]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Source :fc:
+:PROPERTIES:
+:ID:       cc8697c1-7593-4ea9-9ccf-a3f88628777a
+:ANKI_NOTE_ID: 1662498370216
+:FC_CREATED: 2022-09-06T21:06:10Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   139.29 | 2023-06-16T23:44:47Z |
+:END:
+
+[[id:f62d92d7-7151-46f1-a3e8-bb06cc72f02b][Linear Algebra]] (book)
+
+*** Back
+[[id:46dd2e05-cb80-4cb6-876e-8bf46551ec2f][Jim Hefferon]]
+#+print_bibliography:

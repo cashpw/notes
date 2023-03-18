@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff
+:LAST_MODIFIED: [2023-01-27 Fri 05:39]
+:END:
+#+title: Dog whistle
+#+hugo_custom_front_matter: :slug "fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-25 Sat 18:26]
+#+filetags: :concept:
+
+#+begin_quote
+[...] the use of coded or suggestive language in political messaging to garner support from a particular group without provoking opposition. [...] Dog whistles use language that appears normal to the majority but communicates specific things to intended audiences. They are generally used to convey messages on issues likely to provoke controversy without attracting negative attention.
+
+[cite:@DogWhistlePolitics2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       3766a5c0-e021-4977-9564-21513092b0ed
+:ANKI_NOTE_ID: 1656857194308
+:FC_CREATED: 2022-07-03T14:06:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   206.54 | 2023-07-30T06:50:09Z |
+| front    | 2.20 |   7 |    98.14 | 2023-04-03T20:11:41Z |
+:END:
+[[id:fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff][Dog whistle]]
+*** Back
+The use of coded or suggestive language to garner support from a particular group without provoking opposition; appears normal to the majority but communicates specific things to intended audiences.
+*** Source
+[cite:@DogWhistlePolitics2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       cfaa766d-d3a9-49aa-b4fa-4e4d57926db8
+:ANKI_NOTE_ID: 1656857195159
+:FC_CREATED: 2022-07-03T14:06:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   111.45 | 2023-05-04T01:55:48Z |
+| back     | 2.50 |   6 |    86.46 | 2023-04-24T00:46:35Z |
+:END:
+[[id:fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff][Dog whistle]]
+*** Back
+- States rights: Racism and/or racist policies
+- Family values: Christian, often a specific set of white-Christian, values
+*** Source
+[cite:@DogWhistlePolitics2022]
+#+print_bibliography:

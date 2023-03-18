@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       e860a606-84d0-47a0-8230-a702e86c363a
+:LAST_MODIFIED: [2023-03-10 Fri 21:24]
+:END:
+#+title: Item-specific processing
+#+hugo_custom_front_matter: :slug "e860a606-84d0-47a0-8230-a702e86c363a"
+#+filetags: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-31 Fri 11:40]
+
+A technique of studying/learning where one emphasizes features of the pieces of information.
+
+#+begin_quote
+Item-specific processing involves encoding the various characteristics or properties of a particular piece of information. For example, judging the pleasantness of a word, filling in missing letters in a text, and creating a mental image of each step in a science experiment all focus the learner on a single to-be-remembered item.
+
+[cite:@marshMemoryEducationalSettings2013]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:55]
+:FC_CREATED: 2022-11-22T20:56:49Z
+:FC_TYPE:  double
+:ID:       04b2de82-3d8b-4da6-ab2b-9cd54dd29318
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   116.02 | 2023-07-04T03:51:35Z |
+| back     | 2.20 |   6 |    70.13 | 2023-05-05T06:55:20Z |
+:END:
+
+[[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]]
+
+*** Back
+Encoding the characteristics or properties of a particular piece of information.
+
+Examples:
+
+- Judging the pleasantness of a word
+- Filling in missing letters in a text
+- Creating a mental image of each step in a science experiment
+*** Source
+[cite:@marshMemoryEducationalSettings2013]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:56]
+:FC_CREATED: 2022-11-22T20:57:17Z
+:FC_TYPE:  double
+:ID:       b4fba4d8-4364-4488-9354-11d0b7d36480
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    81.72 | 2023-05-07T22:07:25Z |
+| back     | 2.95 |   6 |   149.16 | 2023-08-07T09:12:23Z |
+:END:
+
+[[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]]
+
+*** Back
+- Judging the pleasantness of a word
+- Filling in missing letters in a text
+- Creating a mental image of each step in a science experiment
+*** Source
+[cite:@marshMemoryEducationalSettings2013]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:59]
+:FC_CREATED: 2022-11-22T21:01:27Z
+:FC_TYPE:  normal
+:ID:       17a99f5e-face-499d-8a8d-a117d489e205
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    77.70 | 2023-04-26T11:14:19Z |
+:END:
+
+[[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]] and [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]
+
+*** Back
+- [[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]]: Encoding characteristics of a piece of information
+- [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]: Encoding the similarities and differences across pieces of information
+*** Source
+[cite:@marshMemoryEducationalSettings2013]
+#+print_bibliography:

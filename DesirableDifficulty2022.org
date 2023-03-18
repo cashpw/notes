@@ -1,0 +1,121 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@DesirableDifficulty2022]
+:ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
+:LAST_MODIFIED: [2023-02-17 Fri 07:02]
+:END:
+#+title: Desirable difficulty
+#+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 16:03]
+#+filetags: :concept:
+ 
+#+begin_quote
+A desirable difficulty is a learning task that requires a considerable but desirable amount of effort, thereby improving long-term performance.
+
+[cite:@DesirableDifficulty2022]
+#+end_quote
+
+Examples include:
+
+1. Retrieval practice (eg: flashcards, see [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]])
+2. [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing]] and interleaving (eg: [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced Repetition]])
+
+#+begin_quote
+To determine whether a difficulty is desirable, use the following three guidelines:
+
+1. The processing at encoding should be the same as the processing at retrieval.
+2. The processing at encoding should be the same as the processing during practice.
+3. The task must be able to be accomplished. Too difficult a task may dissuade the learner and prevent full processing.
+[cite:@DesirableDifficulty2022]
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Learning) :fc:
+:PROPERTIES:
+:ID:       fafca0dd-2213-4ceb-ad65-7d1e959ff836
+:ANKI_NOTE_ID: 1657998953503
+:FC_CREATED: 2022-07-16T19:15:53Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 3.10 |   8 |   276.83 | 2023-11-21T11:02:35Z |
+| front    | 2.20 |   6 |    77.82 | 2023-04-04T21:32:29Z |
+:END:
+[[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
+*** Back
+A description of a learning task which requires a considerable, but good, amount of effort.
+*** Extra
+The requisite effort improves long-term performance.
+*** Source
+[cite:@DesirableDifficulty2022]
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       402a741a-76d0-4f56-911b-f3bffdb1abb5
+:ANKI_NOTE_ID: 1657998954152
+:FC_CREATED: 2022-07-16T19:15:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   301.43 | 2023-12-16T01:17:38Z |
+|        1 | 2.20 |   8 |   118.02 | 2023-04-26T17:59:29Z |
+|        2 | 2.50 |   7 |   202.38 | 2023-08-21T01:23:58Z |
+:END:
+
+For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]: the processing at {{encoding}@0} time should be the same as the processing at {{retrieval}@1} and {{during practice}@2}.
+
+*** Extra
+
+*** Source
+[cite:@DesirableDifficulty2022]
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       eb04ffc9-0991-4160-aac1-ca27389c309f
+:ANKI_NOTE_ID: 1657998954625
+:FC_CREATED: 2022-07-16T19:15:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   114.22 | 2023-03-25T21:12:09Z |
+:END:
+For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]: The performer must be able to {{accomplish}@0} the task
+*** Extra
+Too difficult a task may dissuade the learner and prevent full processing.
+*** Source
+[cite:@DesirableDifficulty2022]
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       38b63154-0479-4ef3-8fe2-16cb21024e41
+:ANKI_NOTE_ID: 1657998955375
+:FC_CREATED: 2022-07-16T19:15:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    85.75 | 2023-04-14T09:16:31Z |
+| back     | 2.50 |   6 |    79.88 | 2023-04-13T11:31:41Z |
+:END:
+Guidelines for [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
+*** Back
+- The process at encoding should be the same process at both retrieval and during practice.
+- The task must be able to be accomplished -- too difficult a task may dissuade the learner and prevent full learning.
+*** Source
+[cite:@DesirableDifficulty2022]
+#+print_bibliography:

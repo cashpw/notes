@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       375afbd9-c426-4374-bce0-bbe2c08b8c16
+:LAST_MODIFIED: [2023-03-14 Tue 08:14]
+:ROAM_REFS: [cite:@glassGoodTaste2009]
+:END:
+#+title: Taste gap
+#+hugo_custom_front_matter: :slug "375afbd9-c426-4374-bce0-bbe2c08b8c16"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-16 Fri 14:16]
+#+filetags: :concept:
+
+The gap between a person's ability to recognize "good" work and their ability to produce "good" work. It's easier to recognize "good" work than it is to produce it.
+
+#+begin_quote
+Nobody tells this to people who are beginners, and I really wish somebody had told this to me.
+
+All of us who do creative work, we get into it because we have good taste. But it's like there is this gap. For the first couple years that you're making stuff, what you're making isn't so good. It's not that great. It's trying to be good, it has ambition to be good, but it's not that good.
+
+But your taste, the thing that got you into the game, is still killer. And your taste is good enough that you can tell that what you're making is kind of a disappointment to you. A lot of people never get past that phase. They quit.
+
+Everybody I know who does interesting, creative work they went through years where they had really good taste and they could tell that what they were making wasn't as good as they wanted it to be. They knew it fell short. Everybody goes through that.
+
+And if you are just starting out or if you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Do a huge volume of work. Put yourself on a deadline so that every week or every month you know you're going to finish one story. It is only by going through a volume of work that you're going to catch up and close that gap. And the work you're making will be as good as your ambitions.
+
+I took longer to figure out how to do this than anyone I've ever met. It takes awhile. It's gonna take you a while. It's normal to take a while. You just have to fight your way through that.
+
+[cite:@glassGoodTaste2009]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-16 Fri 14:18]
+:FC_CREATED: 2022-12-16T22:18:43Z
+:FC_TYPE:  double
+:ID:       c9ad4987-5e93-4fc1-888c-5c83f4ad1894
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   108.65 | 2023-06-19T05:44:19Z |
+| back     | 2.95 |   6 |   130.02 | 2023-07-22T15:42:00Z |
+:END:
+
+[[id:375afbd9-c426-4374-bce0-bbe2c08b8c16][Taste gap]]
+
+*** Back
+The gap between a person's ability to recognize "good" work and their ability to produce "good" work. It's easier to recognize "good" work than it is to produce it.
+*** Source
+[cite:@glassGoodTaste2009]
+#+print_bibliography:

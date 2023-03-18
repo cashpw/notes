@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       3cbf088c-94f9-44ac-b9f7-d99ed88e2f50
+:LAST_MODIFIED: [2023-03-13 Mon 07:55]
+:END:
+#+title: Toupee fallacy
+#+hugo_custom_front_matter: :slug "3cbf088c-94f9-44ac-b9f7-d99ed88e2f50"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-31 Tue 14:33]
+#+filetags: :concept:
+
+#+begin_quote
+All toupées look fake; I've never seen one that I couldn't tell was fake.
+
+[cite:@ToupeeFallacy]
+#+end_quote
+
+
+#+begin_quote
+A form of selection bias [[[id:513126d1-6d47-4b87-84a4-5bf10afce897][Selection bias]]] in which a type of thing is judged to be of poor quality in general, caused by the fact that only poor quality instances of that thing are generally noticed.
+
+[cite:@ToupeeFallacy2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-31 Tue 14:35]
+:FC_CREATED: 2023-01-31T22:37:58Z
+:FC_TYPE:  double
+:ID:       b372b195-052b-46ae-b104-049769ba7b32
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    45.82 | 2023-04-17T11:40:53Z |
+| back     | 2.80 |   5 |    46.55 | 2023-04-29T04:13:17Z |
+:END:
+
+[[id:3cbf088c-94f9-44ac-b9f7-d99ed88e2f50][Toupee fallacy]]
+
+*** Back
+One concludes that X is, in general, of poor quality since one only notices poor quality instances of X.
+*** Source
+[cite:@ToupeeFallacy]
+
+#+print_bibliography:

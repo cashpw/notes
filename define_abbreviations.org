@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       069f0ef5-36f9-4da1-88ba-d8f21db8fbe4
+:DIR:      /home/cashweaver/proj/roam/attachments/069f0ef5-36f9-4da1-88ba-d8f21db8fbe4
+:END:
+#+title: Define Abbreviations
+#+hugo_custom_front_matter: :slug "069f0ef5-36f9-4da1-88ba-d8f21db8fbe4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-20 Sun 13:00]
+#+filetags: :concept:
+
+Abbreviations, initialisms, and other short-forms can be can confuse those without context. [[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be explicit]] to avoid such confusion:
+
+1. Use the long-form once, followed by the abbreviation in parenthesis, then use the short-form.
+
+   #+begin_quote
+   Arrakis, also known as (AKA) Dune, ...
+
+   ...
+
+   Leto Atreides the Second, aka God-Emperor, ...
+   #+end_quote
+
+2. Provide context around the short-form. E.g. a link, footnote, [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr][HTML abbr tag]], etc.
+
+   #+begin_quote
+   Arrakis, [[https://en.wikipedia.org/wiki/Aka][AKA]] Dune, is the desert world at the center of the Dune series by [[id:7f3c7b18-3173-4c69-a4c5-b7d33630ae85][Frank Herbert]].
+   #+end_quote
+
+3. Avoid the short-form. Instead, use the long-form exclusively.
+
+   #+begin_quote
+   Arrakis, also known as Dune, ...
+
+   ...
+
+   Leto Atreides the Second, also known as God-Emperor, ...
+   #+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

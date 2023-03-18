@@ -1,0 +1,1833 @@
+:PROPERTIES:
+:ID:       a55b6c56-64e8-4349-9c27-555217caeb91
+:LAST_MODIFIED: [2023-03-18 Sat 06:32]
+:END:
+#+title: Statistics
+#+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 15:05]
+#+filetags: :has_todo:concept:
+* TODO [#2] Flashcards
+** Describe :fc:
+:PROPERTIES:
+:ID:       a350fa20-4a59-47f0-a172-3c7618a81f66
+:ANKI_NOTE_ID: 1640627801873
+:FC_CREATED: 2021-12-27T17:56:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   212.86 | 2023-06-30T15:01:43Z |
+| back     | 2.65 |   8 |   180.26 | 2023-05-07T22:15:45Z |
+:END:
+
+$Y = f(X) + \epsilon$
+
+*** Back
+A model that captures the relationship between $Y$ and $X$
+*** Extra
+- $Y$: Output
+- $X$: Input
+- $f$: Fixed, but often unknown, function
+- $\epsilon$: Random error term with mean 0; the irreducible error
+*** Source
+[cite:@jamesIntroductionStatisticalLearningApplications2013]
+** k-means is a {{heuristic}{optimality}@0} :fc:
+:PROPERTIES:
+:ID:       9f259941-c849-4a4b-aac7-e45a037116a4
+:ANKI_NOTE_ID: 1640627813673
+:FC_CREATED: 2021-12-27T17:56:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   9 |   300.87 | 2024-01-08T11:59:29Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** The clustering objective function provided in VMLS: {{$J_{\text{clust} } = \frac{1}{n} \sum \| \vec{x}_i - \vec{z}_{\vec{c}_i}\|^2$}@0} :suspended:fc:
+:PROPERTIES:
+:ID:       ffb7a99b-0483-4e49-a58f-1d7a9357b222
+:ANKI_NOTE_ID: 1640627813298
+:FC_CREATED: 2021-12-27T17:56:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   3 |     6.00 | 2022-11-16T16:24:14Z |
+:END:
+
+*** Extra
+Where
+
+1. $\vec{x} \in X$ and $X$ is the set of vectors we are clustering
+2. $\vec{c}$ is the vector whose $i\text{-th}$ value indicates the cluster to which $\vec{x}_i$ belongs
+3. $\vec{z}$ is the vector of centroids
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** We try to estimate $f$ in $Y = f(X) + \epsilon$ to {{predict}@0} and {{infer}@1}. :suspended:fc:
+:PROPERTIES:
+:ID:       7afc81cf-ad0f-46b3-b180-a30f2e728f7c
+:ANKI_NOTE_ID: 1640627802822
+:FC_CREATED: 2021-12-27T17:56:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   3 |     6.00 | 2022-12-07T16:04:04Z |
+|        0 | 2.65 |   3 |     6.00 | 2022-12-08T22:00:14Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@jamesIntroductionStatisticalLearningApplications2013]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       acfc0669-a9a4-46d6-8099-bc5ea708706b
+:ANKI_NOTE_ID: 1640627803220
+:FC_CREATED: 2021-12-27T17:56:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   364.32 | 2024-03-12T22:11:26Z |
+| front    | 2.35 |   8 |   195.47 | 2023-06-20T02:39:56Z |
+:END:
+
+Expected value
+
+*** Back
+The mean of a large number of independent realizations of a random variable.
+
+*** Source
+
+[cite:@ExpectedValue2022]
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       fd893567-f920-4222-893f-5a8629935bfd
+:ANKI_NOTE_ID: 1640627803449
+:FC_CREATED: 2021-12-27T17:56:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   156.55 | 2023-03-19T14:37:18Z |
+|        1 | 2.65 |   7 |   160.31 | 2023-04-02T21:58:31Z |
+:END:
+
+- {{$E[X]$}@0}
+
+{{The expected value of a random variable, $X$.}@1}
+
+*** Source
+[cite:@ExpectedValue2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       f9dc39dc-f359-4fca-b0f3-ee399dec4d4a
+:ANKI_NOTE_ID: 1640627802672
+:FC_CREATED: 2021-12-27T17:56:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   8 |   233.32 | 2023-08-07T01:23:06Z |
+| back     | 2.50 |   8 |   250.69 | 2023-10-09T07:11:20Z |
+:END:
+
+Irreducible error
+
+*** Back
+Error term based on the assumption that we do not and never can have all of the data; you can't simulate the universe.
+** Describe :fc:
+:PROPERTIES:
+:ID:       4c2cb6d1-00eb-422f-b10a-2775da1595a0
+:ANKI_NOTE_ID: 1640627802272
+:FC_CREATED: 2021-12-27T17:56:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   396.46 | 2024-04-15T02:15:05Z |
+| back     | 2.50 |  10 |   271.93 | 2023-11-17T15:42:52Z |
+:END:
+
+Reducible error
+
+*** Back
+The difference between $f$ and $\hat{f}$.
+** AKA :fc:
+:PROPERTIES:
+:ID:       f155e2f1-358b-402e-b395-1b187bd9d052
+:ANKI_NOTE_ID: 1640627800922
+:FC_CREATED: 2021-12-27T17:56:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 5
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  12 |   372.71 | 2024-03-24T07:19:21Z |
+|        1 | 2.65 |   5 |    44.13 | 2023-05-01T16:46:41Z |
+|        2 | 1.40 |   4 |     8.81 | 2023-03-18T22:30:57Z |
+|        3 | 2.95 |   6 |   118.16 | 2023-04-15T22:27:24Z |
+|        4 | 2.80 |   6 |   148.87 | 2023-07-29T11:20:25Z |
+:END:
+
+- {{Input variable}@0}
+- {{Predictor}@1}
+- {{Independent variable}@2}
+- {{Feature}@3}
+- {{Covariate}@4}
+
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:ID:       ccdd5fcf-09f9-4de1-ad75-5d6c51850fe7
+:ANKI_NOTE_ID: 1640627812645
+:FC_CREATED: 2021-12-27T17:56:52Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 5
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  11 |   189.32 | 2023-05-21T22:46:34Z |
+|        1 | 2.65 |   8 |   195.96 | 2023-05-20T16:15:34Z |
+|        2 | 2.65 |   9 |   158.73 | 2023-03-25T08:24:04Z |
+|        3 | 2.35 |   8 |   232.40 | 2023-08-07T13:14:23Z |
+|        4 | 2.65 |   9 |   292.31 | 2023-12-20T21:22:44Z |
+:END:
+
+- {{Objective function}@0}
+- {{Loss function}@1}
+- {{Cost function}@2}
+- {{Energy function}@3}
+- {{Reward function}@4}
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** AKA :fc:
+:PROPERTIES:
+:ID:       308062bc-b030-483c-b0df-799f88a9716e
+:ANKI_NOTE_ID: 1640627801422
+:FC_CREATED: 2021-12-27T17:56:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |  10 |   290.15 | 2023-10-20T20:13:49Z |
+|        1 | 2.20 |   6 |    80.03 | 2023-03-28T15:55:14Z |
+|        2 | 2.80 |   8 |   281.02 | 2023-12-02T04:15:26Z |
+:END:
+
+- {{Output variable}@0}
+- {{Response}@1}
+- {{Dependent variable}@2}
+
+*** Source
+** Algorithm :suspended:fc:
+:PROPERTIES:
+:ID:       7cf1b4a0-bcf8-4c7f-b96a-d57b9472728a
+:ANKI_NOTE_ID: 1640627821899
+:FC_CREATED: 2021-12-27T17:57:01Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   0 |     0.00 | 2022-09-21T15:37:30Z |
+| back     |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+
+k-means clustering
+
+*** Back
+*Setup*
+
+Given:
+
+1. A list of $n$ vectors, $\vec{x}_1 \dots \vec{x}_n$
+2. An initial list of $k$ group representative vectors, $\vec{z}_i \dots \vec{z}_k$
+
+Where:
+
+1. $\vec{c}$ encodes cluster membership
+2. $\vec{c}_i$ indicates the cluster to which $\vec{x}_i$ belongs.
+
+Follow these steps:
+
+1. Initialize the centroids
+
+   $\vec{\mu}_i \dots \vec{\mu}_k$
+
+   Repeat until convergence:
+
+2. Partition the vectors into $k$ groups*
+
+    For each vector, assign $\vec{x}_i$ to the group associated with the nearest representative.$\vec{c}_i := \underset{j}{\operatorname{argmin} } \| \vec{x}_i - \vec{\mu}_j \|^2$ for $i = 1 \dots n$, $j = 1 \dots k$
+
+3. Update representatives*
+
+    For each group, set $\vec{z}_i$ to be the mean of the vectors in the $i$th group.$\vec{\mu}_j := \frac{\sum_{i=1}^{n} 1\{\vec{c}_i = j\}\vec{x}_i}{\sum_{i=1}^{n} 1\{\vec{c}_i = j\} }$ for $j = 1 \dots k$
+*** Source
+[cite:@KmeansClustering2022]
+** Clusters are represented by {{representative vectors}@0}. :fc:
+:PROPERTIES:
+:ID:       73ce9d69-42d6-4f21-9f6b-6ac5bb24e18e
+:ANKI_NOTE_ID: 1640627812023
+:FC_CREATED: 2021-12-27T17:56:52Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   192.00 | 2023-05-25T16:24:21Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** Representative vectors, $z_i$, of a cluster are calculated by minimizing {{$\sum \| x_i - z_i \| \; \forall \; x_i \in \text{Cluster}$}{expression}@0} :suspended:fc:
+:PROPERTIES:
+:ID:       e62a3cae-2b16-4229-8789-a157497276aa
+:ANKI_NOTE_ID: 1640627812398
+:FC_CREATED: 2021-12-27T17:56:52Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   3 |     6.00 | 2022-11-24T16:07:55Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** Definition (Statistics, ML) :fc:
+:PROPERTIES:
+:ID:       2bdc3463-719b-4c20-a5a1-d7bce78ed9fa
+:ANKI_NOTE_ID: 1640627811874
+:FC_CREATED: 2021-12-27T17:56:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   160.89 | 2023-04-11T14:02:14Z |
+| front    | 2.65 |   7 |   163.77 | 2023-04-02T20:20:23Z |
+:END:
+
+Clustering
+
+*** Back
+The task of grouping a set of objects in such a way that elements in the same group are more similar to each other than to those in other groups
+
+*** Source
+[cite:@ClusterAnalysis2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       37bc252e-9039-4c5a-9e4c-0444a624de7d
+:ANKI_NOTE_ID: 1640627802098
+:FC_CREATED: 2021-12-27T17:56:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   336.13 | 2024-01-28T19:04:08Z |
+| back     | 2.65 |   8 |   232.07 | 2023-07-15T16:52:35Z |
+:END:
+
+$\hat{Y} = \hat{f}(\hat{X})$
+
+*** Back
+A model which represents our predictions, $\hat{Y}$, based on our estimate of $f$, $\hat{f}$, on the input data, $\hat{X}$.
+*** Extra
+The value $\epsilon$ is not included as we cannot influence/reduce the irreducible error.
+*** Source
+[cite:@jamesIntroductionStatisticalLearningApplications2013]
+** Describe :fc:
+:PROPERTIES:
+:ID:       cb205856-305b-4bb6-b5d9-6ac486e52b12
+:ANKI_NOTE_ID: 1655822600137
+:FC_CREATED: 2022-06-21T14:43:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   9 |   153.76 | 2023-04-10T08:55:04Z |
+| back     | 2.65 |   8 |   174.59 | 2023-05-07T05:42:38Z |
+:END:
+
+Odd function
+
+*** Back
+- $\overset{\Delta}{=}$ $-f(x) = f(-x)$
+- Geometrically, they have rotational symmetry with respect to the origin (the graph remains unchanged when rotated 180 degrees about the origin).
+- Examples: $x$, $x^3$, $sin(x)$
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       8abf8a15-2e63-48c8-a290-dc25688bfd91
+:ANKI_NOTE_ID: 1640627833623
+:FC_CREATED: 2021-12-27T17:57:13Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    66.00 | 2023-04-06T02:14:00Z |
+| back     | 2.65 |   7 |   130.45 | 2023-04-13T06:29:01Z |
+:END:
+
+Asymptote
+
+*** Back
+- The $x$ and $y$ axis for $f(x) = \frac{1}{x}$
+*** Source
+[cite:@Asymptote2022]
+** {{$\operatorname{P}(A)$}@0} $=$ {{$\sum_i \operatorname{P}(A \cap B_i)$}{total}@1} :fc:
+:PROPERTIES:
+:ID:       e094debc-ebc5-4532-acaf-66435b2c99ba
+:ANKI_NOTE_ID: 1658689828686
+:FC_CREATED: 2022-07-24T19:10:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   120.11 | 2023-05-11T17:38:25Z |
+|        1 | 2.35 |   6 |    77.84 | 2023-04-02T14:46:53Z |
+:END:
+*** Source
+[cite:@LawTotalProbability2022]
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       fa3fd90b-4dc1-4d73-8bfa-9ca7b0ba1b98
+:ANKI_NOTE_ID: 1640627881872
+:FC_CREATED: 2021-12-27T17:58:01Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   353.10 | 2024-03-04T16:33:56Z |
+| front    | 2.50 |   8 |   242.81 | 2023-08-30T12:18:58Z |
+:END:
+
+Time series
+
+*** Back
+A series of data points indexed in time-order.
+
+*** Source
+[cite:@TimeSeries2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       d81304bd-4657-47cc-8a43-5c834c206ce4
+:ANKI_NOTE_ID: 1640627876472
+:FC_CREATED: 2021-12-27T17:57:56Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   132.94 | 2023-03-20T13:34:03Z |
+| front    | 2.65 |   7 |   141.48 | 2023-04-05T03:52:01Z |
+:END:
+
+Base rate
+
+*** Back
+Indicate probability based on the absence of other information. Describes the percentage of a population that demonstrates some characteristic.
+
+*** Source
+[cite:@BaseRate2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       53c14915-ba3a-4f16-b42b-72a1218d9045
+:ANKI_NOTE_ID: 1655822106010
+:FC_CREATED: 2022-06-21T14:35:06Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   295.23 | 2023-11-03T20:11:19Z |
+| back     | 2.35 |   9 |   321.47 | 2024-02-02T01:26:46Z |
+:END:
+Confusion matrix
+*** Back
+- A $N\times N$ matrix which describes the performance of an algorithm.
+- Rows correspond to predicted classes.
+- Columns correspond to actual classes.
+- Numbers along the main diagonal correspond to correct predictions; everything else corresponds to incorrect predictions.
+*** Source
+[cite:@ConfusionMatrix2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       41bdd63d-1ce6-4841-b379-5ad702e5a814
+:ANKI_NOTE_ID: 1640628525777
+:FC_CREATED: 2021-12-27T18:08:45Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   9 |   334.21 | 2024-01-17T06:45:12Z |
+| back     | 2.80 |  10 |   363.60 | 2024-02-27T18:34:35Z |
+:END:
+
+Non-parametric models
+
+*** Back
+- Doesn't make explicit assumptions about the functional form of $f$ in $Y = f(X) + \epsilon$
+- Complexity is unbounded given unbounded data
+- More data often implies more parameters
+*** Extra
+eg: k-nearest neighbors, support vector machines
+*** Source
+[cite:@jamesIntroductionStatisticalLearningApplications2013]
+** Describe :fc:
+:PROPERTIES:
+:ID:       a0a24e58-f440-4f41-88fb-316e681c37d6
+:ANKI_NOTE_ID: 1640628525324
+:FC_CREATED: 2021-12-27T18:08:45Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   154.71 | 2023-03-21T08:15:18Z |
+| back     | 2.65 |   7 |   162.46 | 2023-04-02T02:14:08Z |
+:END:
+
+Parametric models
+
+*** Back
+- Make explicit assumptions about the functional form of $f$ in $Y = f(X) + \epsilon$.
+- Complexity is bounded given unbounded data.
+- All information about the predictions are encoded in the parameters.
+*** Extra
+eg: Logistic regression
+*** Source
+[cite:@jamesIntroductionStatisticalLearningApplications2013]
+** Describe :fc:
+:PROPERTIES:
+:ID:       5ebce613-ce9e-4f8b-a790-b81835808e38
+:ANKI_NOTE_ID: 1640628525073
+:FC_CREATED: 2021-12-27T18:08:45Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   9 |   375.78 | 2024-03-12T09:03:23Z |
+| back     | 2.80 |   9 |   373.50 | 2024-03-12T03:18:42Z |
+:END:
+
+The probability space of rolling a d6
+
+*** Back
+Sample space: $\{1, 2, 3, 4, 5, 6\}$
+
+Event space: $\{\{1\}, \dots, \{6\}, \{1, 2, 3\}, \{2, 4, 6\}, \dots\}$
+
+Probability function: $f(\text{event}) = \operatorname{card}(\text{event}) / 6$
+*** Source
+[cite:@ProbabilitySpace2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       d2e08569-e115-4fad-af96-c0d79b9ccb8a
+:ANKI_NOTE_ID: 1640628526027
+:FC_CREATED: 2021-12-27T18:08:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   281.14 | 2023-11-05T19:43:48Z |
+| back     | 2.35 |   5 |    32.92 | 2023-04-05T11:50:30Z |
+:END:
+
+Why Bessel's correction is used
+
+*** Back
+The goal is to reduce the bias due to a finite sample size. The bias is more significant at smaller sample sizes.
+*** Source
+[cite:@BesselCorrection2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       39644613-3b38-4cd3-9ce4-2c93ce9b243f
+:ANKI_NOTE_ID: 1640627831247
+:FC_CREATED: 2021-12-27T17:57:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   334.15 | 2024-01-24T07:19:20Z |
+| back     | 2.35 |   8 |   192.12 | 2023-06-23T21:15:51Z |
+:END:
+
+Parametric model
+
+*** Back
+- $y = mx + b$; parameterized by $m$ and $b$
+- Logistic regression
+*** Source
+[cite:@ghahramaniParametricVsNonparametricModels]
+** {{$n\operatorname{stddev}(\vec{a} + \vec{b})^2$}{function}@0} $=$ {{$\|\mathbf{C}\vec{a} + \mathbf{C}\vec{b}\|^2$}{norm}@1} :suspended:fc:
+:PROPERTIES:
+:ID:       dedea041-87ba-4fde-99af-5490c84f1d3c
+:ANKI_NOTE_ID: 1656854729352
+:FC_CREATED: 2022-07-03T13:25:29Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    41.47 | 2023-01-11T03:58:37Z |
+|        1 | 2.65 |   5 |    45.73 | 2022-11-29T09:16:39Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** {{$n\operatorname{stddev}(\vec{a} + \vec{b})^2$}{function}@0} $=$ {{$\|\mathbf{C}\vec{a}\|^2 + 2(\mathbf{C}\vec{a})^\textsf{T}(\mathbf{C}\vec{b}) + \|\mathbf{C}\vec{b}\|^2$}{distributed}@1} :suspended:fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854729352
+:FC_CREATED: 2022-07-03T13:25:29Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       631c1248-cec6-49ae-9fd6-22eaef2cd165
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    37.74 | 2022-12-26T09:56:03Z |
+|        1 | 2.50 |   1 |     1.00 | 2022-11-20T15:55:43Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** {{$n\operatorname{stddev}(\vec{a} + \vec{b})^2$}{function}@0} $=$ {{$n\operatorname{stddev}(\vec{a})^2$ $+$ $2n\rho_{\vec{a}, \vec{b}}\operatorname{stddev}(\vec{a})\operatorname{stddev}(\vec{b})$ $+$ $n\operatorname{stddev}(\vec{b})^2$}{distributed functions}@1} :suspended:fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854729352
+:FC_CREATED: 2022-07-03T13:25:29Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:FC_BLOCKED_BY: cf17d420-0497-4059-a1eb-66323f90c629,fa21f2e9-04ae-4fad-9018-0bc4a9284979
+:ID:       c19037dd-f33a-478e-8fa8-363e3748f14a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2022-11-27T14:55:29Z |
+|        1 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** {{$\operatorname{avg}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{n} \sum \vec{x}_i$}{summation}@1} :fc:
+:PROPERTIES:
+:ID:       f956829d-481c-4289-a58c-fb97575f5972
+:ANKI_NOTE_ID: 1656854730051
+:FC_CREATED: 2022-07-03T13:25:30Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   7 |   347.08 | 2024-01-31T19:17:23Z |
+|        1 | 2.80 |   7 |   362.47 | 2024-03-07T16:34:58Z |
+:END:
+** {{$\operatorname{avg}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{n} (\vec{1} \cdot \vec{x})$}{vector}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854730051
+:FC_CREATED: 2022-07-03T13:25:30Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       afb5d08e-1b27-4009-af36-7be846992f1f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   187.77 | 2023-08-07T08:54:20Z |
+|        1 | 2.35 |   7 |   239.25 | 2023-11-04T09:19:33Z |
+:END:
+** {{$\operatorname{rms}(\vec{x})$}{function}@0} $=$ {{$\operatorname{avg}(\vec{x})$ $+$ $\operatorname{stddev}(\vec{x})$}{functions}@1} :fc:
+:PROPERTIES:
+:ID:       75252db4-b5cd-45d4-b392-4f49ec6d774a
+:ANKI_NOTE_ID: 1656854732826
+:FC_CREATED: 2022-07-03T13:25:32Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |    89.97 | 2023-05-19T17:46:54Z |
+|        1 | 2.20 |   7 |   101.58 | 2023-05-10T06:44:26Z |
+:END:
+
+*** Source
+[cite:@RootMeanSquare2022]
+** {{$\operatorname{rms}(\vec{x})$}{function}@0} $=$ {{$\sqrt{\operatorname{ms}(\vec{x})}$}{function}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854732826
+:FC_CREATED: 2022-07-03T13:25:32Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       987dcf1d-8a4b-495c-8508-732d4200850b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   188.58 | 2023-07-28T07:13:45Z |
+|        1 | 2.80 |   7 |   245.03 | 2023-10-18T05:32:39Z |
+:END:
+
+*** Source
+[cite:@RootMeanSquare2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       1a6fadb4-b89d-4171-9428-829be65c25e5
+:ANKI_NOTE_ID: 1640627865743
+:FC_CREATED: 2021-12-27T17:57:45Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  11 |   307.64 | 2024-01-01T20:14:37Z |
+| front    | 2.50 |   8 |   240.91 | 2023-08-28T14:26:55Z |
+:END:
+
+Random variable
+
+*** Back
+A variable whose values depend on outcomes of a random phenomenon.
+
+Formally: A measurable function defined on a probability space that maps from the sample space to $\mathbb{R}$.
+
+*** Source
+[cite:@RandomVariable2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       8d3557bd-f5fe-4a01-ae8b-c2082019b281
+:ANKI_NOTE_ID: 1640627877349
+:FC_CREATED: 2021-12-27T17:57:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   182.58 | 2023-05-28T04:30:51Z |
+| front    | 2.80 |   7 |   197.15 | 2023-07-07T19:07:09Z |
+:END:
+
+Residual sum of squares
+
+*** Back
+The sum of squares of residuals (differences between predicted and observed data).
+
+*** Extra
+$\text{RSS} = \sum^{n}_{i=1}(f(x_i) - \hat{f}(x_i))^2$
+
+*** Source
+[cite:@ResidualSumSquares2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       1a9291da-062f-476d-b2d4-e332c57e2d39
+:ANKI_NOTE_ID: 1640627866371
+:FC_CREATED: 2021-12-27T17:57:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   154.98 | 2023-03-26T14:56:52Z |
+| front    | 2.65 |   8 |   323.78 | 2024-01-20T10:49:47Z |
+:END:
+
+Sample space of a probability space
+
+*** Back
+The set of all possible outcomes.
+
+*** Source
+[cite:@ProbabilitySpace2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       ba856256-b1de-48ab-aef0-c8f88f6f6d39
+:ANKI_NOTE_ID: 1640627880171
+:FC_CREATED: 2021-12-27T17:58:00Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.30 |  11 |   147.05 | 2023-05-04T17:51:44Z |
+| front    | 2.00 |   6 |    63.47 | 2023-04-08T02:52:51Z |
+:END:
+
+Sampling distribution
+
+*** Back
+The probability distribution of a given random-sample-based statistic.
+
+*** Extra
+eg: Normal distribution: $\mathcal{N}(\mu, \sigma^2)$
+
+*** Source
+[cite:@SamplingDistribution2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       36836c45-b737-4bba-af9f-5e787fa09910
+:ANKI_NOTE_ID: 1640627877098
+:FC_CREATED: 2021-12-27T17:57:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.45 |  12 |   145.92 | 2023-04-01T14:53:02Z |
+| front    | 2.35 |   5 |    34.10 | 2023-04-20T16:19:19Z |
+:END:
+
+Simple linear regression
+
+*** Back
+A linear regression model with a single explanatory variable.
+
+*** Extra
+$\hat{Y} = \hat{f}(x) = \hat{\beta_0} + \hat{\beta_1}x$
+
+*** Source
+[cite:@SimpleLinearRegression2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       ebc1c567-e944-4c3b-a198-dc0ca6957be6
+:ANKI_NOTE_ID: 1640627880822
+:FC_CREATED: 2021-12-27T17:58:00Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |  16 |   247.18 | 2023-10-05T18:55:53Z |
+| front    | 2.20 |   6 |    72.54 | 2023-03-24T05:07:40Z |
+:END:
+
+Standard error
+
+*** Back
+The standard deviation of a statistic's sampling distribution.
+
+*** Source
+[cite:@StandardError2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       b701fa8c-5035-4faf-9064-a5ce9733b35c
+:ANKI_NOTE_ID: 1640627871846
+:FC_CREATED: 2021-12-27T17:57:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   335.06 | 2024-02-09T06:39:48Z |
+| front    | 2.20 |   8 |   221.95 | 2023-10-04T02:28:59Z |
+:END:
+
+Statistic
+
+*** Back
+A quantity computed from values in a sample.
+
+*** Source
+[cite:@Statistic2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       a00a3c47-e9b2-4698-a182-ad48d5d7997d
+:ANKI_NOTE_ID: 1640627868447
+:FC_CREATED: 2021-12-27T17:57:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   164.64 | 2023-04-20T13:15:31Z |
+| front    | 2.65 |   8 |   213.30 | 2023-06-20T23:12:50Z |
+:END:
+
+Stochastic
+
+*** Back
+Any randomly determined process.
+
+*** Source
+[cite:@Stochastic2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       be0a2562-d27f-458e-aa5a-af7d796b2cbc
+:ANKI_NOTE_ID: 1640627877821
+:FC_CREATED: 2021-12-27T17:57:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   375.51 | 2024-02-26T04:09:42Z |
+| front    | 2.65 |   8 |   302.57 | 2023-12-23T17:47:41Z |
+:END:
+
+Unbiased estimator
+
+*** Back
+An estimator with zero bias; neither overestimates, nor underestimates, the true expected value.
+
+*** Source
+[cite:@BiasEstimator2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       19e28ff5-13ed-4122-ba6f-8ab791f05f71
+:ANKI_NOTE_ID: 1640627869673
+:FC_CREATED: 2021-12-27T17:57:49Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   169.75 | 2023-04-05T09:08:53Z |
+| front    | 2.80 |   8 |   338.85 | 2024-01-23T15:06:11Z |
+:END:
+
+Underfitting
+
+*** Back
+A descriptor of a statistical model which cannot adequately capture the underlying structure of the data.
+
+*** Source
+[cite:@Overfitting2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       4f7a8ad2-913a-4713-b387-02110b97d3ea
+:ANKI_NOTE_ID: 1640627875572
+:FC_CREATED: 2021-12-27T17:57:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   162.40 | 2023-04-10T02:08:12Z |
+| front    | 2.65 |   8 |   288.78 | 2023-12-18T09:57:37Z |
+:END:
+
+z-score
+
+*** Back
+The number of standard deviations a value is above, or below, the mean. The difference between a value and the mean as a multiple of the standard deviation.
+
+*** Source
+[cite:@StandardScore2022]
+
+** Denotes :fc:
+:PROPERTIES:
+:ID:       006b4d48-a170-4bc6-aa33-3faaa8c770ce
+:ANKI_NOTE_ID: 1640628571026
+:FC_CREATED: 2021-12-27T18:09:31Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   171.38 | 2023-04-20T02:37:25Z |
+|        1 | 2.80 |   8 |   302.86 | 2023-12-29T00:45:23Z |
+:END:
+
+- {{$\bar{x}$}@0}
+
+{{Sample mean}@1}
+
+*** Source
+[cite:@SampleMeanCovariance2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       524bfabb-b09f-408d-89d6-f16647719788
+:ANKI_NOTE_ID: 1640628571627
+:FC_CREATED: 2021-12-27T18:09:31Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   177.12 | 2023-05-25T21:06:13Z |
+:END:
+
+- {{$\mu$}@0}
+
+Population mean
+
+*** Source
+[cite:@Mean2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       2ec12ea3-5854-45d9-a346-6b5584cd26b8
+:ANKI_NOTE_ID: 1640628574525
+:FC_CREATED: 2021-12-27T18:09:34Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   159.16 | 2023-03-22T05:12:18Z |
+|        1 | 2.50 |   8 |   308.02 | 2023-12-22T15:22:36Z |
+:END:
+
+- {{$\operatorname{cov}(X, Y)$}@0}
+
+{{The covariance of the random variable $X$ with respect to the random variable $Y$.}@1}
+
+*** Source
+[cite:@Covariance2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       f90e7f4f-f60f-40af-b9c8-f9bea1c8b49e
+:ANKI_NOTE_ID: 1640628573976
+:FC_CREATED: 2021-12-27T18:09:33Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   134.00 | 2023-03-21T14:49:41Z |
+|        1 | 2.65 |   8 |   295.52 | 2023-12-30T15:43:01Z |
+:END:
+
+- {{$\operatorname{var}(X)$}@0}
+
+{{The variance of a random variable, $X$}@1}
+
+*** Source
+[cite:@Variance2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       ae9a5c0c-772a-44ff-827f-297ec5d438ec
+:ANKI_NOTE_ID: 1640628572526
+:FC_CREATED: 2021-12-27T18:09:32Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   6 |    34.36 | 2023-04-06T22:30:25Z |
+:END:
+
+- {{$s^2$}@0}
+
+Sample variance
+
+*** Source
+[cite:@StandardDeviation2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       ac5d6a0b-5dbf-4ed7-9a0e-84fbc24db46c
+:ANKI_NOTE_ID: 1640628573676
+:FC_CREATED: 2021-12-27T18:09:33Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   145.26 | 2023-03-30T23:21:15Z |
+:END:
+
+- {{$\sigma^2$}@0}
+
+Population variance
+
+*** Source
+[cite:@StandardDeviation2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       902892f8-8402-4078-b799-11d48480c8f1
+:ANKI_NOTE_ID: 1640628581050
+:FC_CREATED: 2021-12-27T18:09:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   309.52 | 2023-12-03T02:41:15Z |
+|        1 | 2.50 |   8 |   305.47 | 2024-01-04T02:13:36Z |
+:END:
+
+- {{$\text{H}_0$}@0}
+
+{{Null hypothesis}@1}
+
+*** Source
+[cite:@NullHypothesis2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       061cb95e-a757-4609-8b5f-dde6151906b7
+:ANKI_NOTE_ID: 1640628581626
+:FC_CREATED: 2021-12-27T18:09:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   322.58 | 2024-01-13T17:48:02Z |
+|        1 | 2.65 |   8 |   173.01 | 2023-05-04T14:17:47Z |
+|        2 | 2.65 |   8 |   333.18 | 2024-02-14T17:47:38Z |
+:END:
+
+- {{$\text{H}_a$}@0}
+- {{$\text{H}_1$}@1}
+
+{{Alternative hypothesis}@2}
+
+*** Source
+[cite:@AlternativeHypothesis2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       37a90d94-037f-4109-ace8-bd736253e685
+:ANKI_NOTE_ID: 1640628527425
+:FC_CREATED: 2021-12-27T18:08:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   262.72 | 2023-09-22T08:41:47Z |
+| back     | 2.35 |   7 |   116.78 | 2023-06-25T22:54:08Z |
+:END:
+
+Bias-variance tradeoff
+
+*** Back
+The conflict of trying to simultaneously reduce both the bias and the variance of a statistical model. The bias and the variance are inversely related.
+*** Source
+[cite:@BiasVarianceTradeoff2022]
+
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       06b2bfec-ffbb-44b0-a4cc-2822e583021f
+:ANKI_NOTE_ID: 1640627867623
+:FC_CREATED: 2021-12-27T17:57:47Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.15 |   7 |   104.53 | 2023-06-15T04:53:47Z |
+| front    | 2.65 |  12 |   301.94 | 2024-01-01T15:52:32Z |
+:END:
+
+Deviation
+
+*** Back
+A measure of difference between the observed value of a variable and some other value, often the variable's mean.
+
+*** Source
+[cite:@DeviationStatistics2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       a4441c61-28cc-4644-8044-201e942f3221
+:ANKI_NOTE_ID: 1640627866797
+:FC_CREATED: 2021-12-27T17:57:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   217.53 | 2023-07-18T15:08:23Z |
+| front    | 2.35 |   5 |    31.29 | 2023-04-03T20:45:56Z |
+:END:
+
+Event space of a probability space
+
+*** Back
+A set of events, $\mathcal{F}$; an event being a set of outcomes in the sample space. A set of subsets of the sample space, $\Omega$, called events.
+
+*** Extra
+Eg: A d6 would have an event space: $\{\{1\}, ..., \{6\}, \{1, 3, 5\}, ...\}$
+
+*** Source
+[cite:@ProbabilitySpace2022]
+** Definition (Statistics, Machine Learning) :fc:
+:PROPERTIES:
+:ID:       29f527d8-2dde-420a-89be-14bb930ad3d5
+:ANKI_NOTE_ID: 1640627868273
+:FC_CREATED: 2021-12-27T17:57:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   217.26 | 2023-06-18T21:19:36Z |
+| front    | 2.65 |   8 |   148.73 | 2023-03-18T15:25:11Z |
+:END:
+
+Linear model
+
+*** Back
+A model which can be written as a linear equation
+
+*** Extra
+$\hat{f}(X) = \beta_0 + \beta_1X_1 + \cdots + \beta_nX_n$
+
+*** Source
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       8b0f59a0-b3bd-4eff-90b2-0084c202c3bd
+:ANKI_NOTE_ID: 1640627871372
+:FC_CREATED: 2021-12-27T17:57:51Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.75 |   5 |    19.84 | 2023-03-29T23:26:36Z |
+| front    | 2.50 |   9 |   276.71 | 2023-10-15T07:30:05Z |
+:END:
+
+Mean squared error
+
+*** Back
+$\frac{1}{n}\sum^{n}_{i=1}(y_i - \hat{f}(x_i))^2$
+
+*** Extra
+$\frac{1}{n}a^Ta \; | \; a = Y - \hat{Y}$
+
+*** Source
+[cite:@jamesIntroductionStatisticalLearningApplications2013]
+** Definition (Statistics, ML) :fc:
+:PROPERTIES:
+:ID:       7fd7bea0-887a-40ef-9f55-ac09cf9583b6
+:ANKI_NOTE_ID: 1640627869075
+:FC_CREATED: 2021-12-27T17:57:49Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  11 |   181.59 | 2023-05-19T06:26:01Z |
+| front    | 2.65 |   8 |   357.47 | 2024-03-02T16:28:39Z |
+:END:
+
+Non-parametric model
+
+*** Back
+A model for which the number of parameters depends on the training data; often more data implies more parameters.
+
+*** Source
+[cite:@NonparametricStatistics2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       282b8fa9-c5c6-46be-af91-83c9b8623040
+:ANKI_NOTE_ID: 1640627878047
+:FC_CREATED: 2021-12-27T17:57:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   295.89 | 2023-12-29T14:48:53Z |
+| front    | 2.65 |   8 |   261.62 | 2023-09-07T07:12:45Z |
+:END:
+
+Null hypothesis
+
+*** Back
+The default assumption; that a quantity to be measured is zero/null.
+
+*** Source
+[cite:@NullHypothesis2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       98dfeba6-736f-41c2-ab26-b2c1cb95e843
+:ANKI_NOTE_ID: 1640627869472
+:FC_CREATED: 2021-12-27T17:57:49Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  11 |   185.26 | 2023-05-29T21:42:58Z |
+| front    | 2.65 |   8 |   174.18 | 2023-05-06T19:33:45Z |
+:END:
+
+Overfitting
+
+*** Back
+A descriptor of a model that contains more parameters than can be justified by the data; it has unknowingly extracted some of the residual variation (ie the noise) as if that variation represented the underlying model structure. The production of an analysis that corresponds too closely to a particular set of data, and may therefore fail to fit additional data or predict future observations.
+
+*** Source
+[cite:@Overfitting2022]
+** Definition (Statistics, ML) :fc:
+:PROPERTIES:
+:ID:       c1662c0e-57e3-46d0-b373-bb018a3dd961
+:ANKI_NOTE_ID: 1640627868872
+:FC_CREATED: 2021-12-27T17:57:48Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   9 |   375.49 | 2024-03-19T14:53:06Z |
+| front    | 2.80 |   9 |   302.16 | 2023-12-11T21:21:56Z |
+:END:
+
+Parametric model
+
+*** Back
+A finite-dimensional model whose parameters encode all the information about its predictions.
+
+*** Source
+[cite:@ParametricModel2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       2156c1b5-fd03-4ee0-a768-3338a3311244
+:ANKI_NOTE_ID: 1640627880598
+:FC_CREATED: 2021-12-27T17:58:00Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  13 |   185.41 | 2023-05-23T02:05:39Z |
+| front    | 2.50 |   6 |   116.17 | 2023-05-11T20:26:33Z |
+:END:
+
+Probability distribution
+
+*** Back
+The probability function of a probability space. The mathematical function that gives the probabilities of occurrence of different possible outcomes for an experiment. It is a mathematical description of a random phenomenon in terms of its sample space and the probabilities of events.
+
+*** Source
+[cite:@ProbabilityDistribution2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       a172371f-05f6-494b-a989-fa598ca90449
+:ANKI_NOTE_ID: 1640627866997
+:FC_CREATED: 2021-12-27T17:57:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   281.26 | 2023-11-25T09:46:57Z |
+| front    | 2.65 |   8 |   158.58 | 2023-04-09T06:19:01Z |
+:END:
+
+Probability function
+
+*** Back
+A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
+
+*** Source
+[cite:@ProbabilitySpace2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       af1af1d6-0e99-4a2c-8d0c-0686dd9b7acf
+:ANKI_NOTE_ID: 1640627866173
+:FC_CREATED: 2021-12-27T17:57:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.30 |   5 |     8.82 | 2023-03-20T00:57:25Z |
+| front    | 2.65 |   6 |   128.22 | 2023-07-04T21:34:06Z |
+:END:
+
+Probability space
+
+*** Back
+A mathematical construct that provides a formal model of a random process or "experiment"
+
+*** Source
+[cite:@ProbabilitySpace2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       8604e9b8-65b1-4f22-b996-23b61304115c
+:ANKI_NOTE_ID: 1640628552199
+:FC_CREATED: 2021-12-27T18:09:12Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |  12 |   187.25 | 2023-05-27T08:29:08Z |
+|        1 | 2.65 |   5 |    40.06 | 2023-04-21T01:46:06Z |
+:END:
+
+- {{Correlation}@0}
+- {{Dependence}@1}
+
+*** Source
+[cite:@Correlation2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       70cb0346-9352-475a-a23d-f8ab2616fe26
+:ANKI_NOTE_ID: 1640628544751
+:FC_CREATED: 2021-12-27T18:09:04Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   287.22 | 2023-11-09T20:05:32Z |
+|        1 | 2.65 |   8 |   238.20 | 2023-08-24T22:21:21Z |
+:END:
+
+- {{Inverse relationship}@0}
+- {{Negative relationship}@1}
+
+*** Source
+[cite:@NegativeRelationship2021]
+** AKA :fc:
+:PROPERTIES:
+:ID:       897a10b9-b6cd-4733-8489-2c4be0d9b6a4
+:ANKI_NOTE_ID: 1640628542778
+:FC_CREATED: 2021-12-27T18:09:02Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.60 |  15 |   253.91 | 2023-09-26T14:06:09Z |
+|        1 | 1.90 |   6 |    54.86 | 2023-03-25T23:21:36Z |
+:END:
+
+- {{Non-parametric model}@0}
+- {{Infinite-dimensional model}@1}
+
+*** Source
+[cite:@ghahramaniParametricVsNonparametricModels]
+** AKA :fc:
+:PROPERTIES:
+:ID:       3f01700a-5336-4b66-b8fb-ad2d863a0270
+:ANKI_NOTE_ID: 1640628542228
+:FC_CREATED: 2021-12-27T18:09:02Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   311.83 | 2024-01-14T13:19:14Z |
+|        1 | 2.35 |   7 |   142.22 | 2023-04-01T21:44:28Z |
+:END:
+
+- {{Parametric model}@0}
+- {{Finite-dimensional model}@1}
+
+*** Source
+[cite:@ParametricModel2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       72014392-4894-4c4e-948c-7aae72373ac4
+:ANKI_NOTE_ID: 1640628543327
+:FC_CREATED: 2021-12-27T18:09:03Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.60 |  11 |   163.51 | 2023-05-09T02:55:37Z |
+|        1 | 2.50 |   8 |   270.04 | 2023-10-02T16:18:43Z |
+:END:
+
+- {{Qualitative}@0}
+- {{Categorical}@1}
+
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:ID:       5cbd7577-a4c7-4ebc-8047-6f2277575d31
+:ANKI_NOTE_ID: 1640628548725
+:FC_CREATED: 2021-12-27T18:09:08Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   150.65 | 2023-03-25T06:26:58Z |
+|        1 | 2.65 |   7 |   148.56 | 2023-03-27T05:53:13Z |
+|        2 | 2.65 |   7 |   136.74 | 2023-03-30T08:56:50Z |
+:END:
+
+- {{Residual sum of squares (RSS)}@0}
+- {{Sum of squared error (SSE)}@1}
+- {{Sum of squared residuals (SSR)}@2}
+
+*** Source
+[cite:@ResidualSumSquares2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       da6798c4-3076-4292-870e-36c4dd5fdb47
+:ANKI_NOTE_ID: 1640628546727
+:FC_CREATED: 2021-12-27T18:09:06Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   269.09 | 2023-10-02T16:38:49Z |
+|        1 | 2.80 |   8 |   320.79 | 2023-12-08T09:17:36Z |
+:END:
+
+- {{Standard error of $\hat{\mu}$}@0}
+- {{$\operatorname{SE}(\hat{\mu})$}@1}
+
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:ID:       41fe7ad7-7890-419b-94d7-5c30fa43c09f
+:ANKI_NOTE_ID: 1640628546177
+:FC_CREATED: 2021-12-27T18:09:06Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   357.16 | 2024-03-03T04:12:39Z |
+|        1 | 2.80 |   8 |   264.26 | 2023-10-08T08:22:43Z |
+|        2 | 2.50 |  12 |   173.06 | 2023-06-07T19:33:16Z |
+:END:
+
+- {{z-score}@0}
+- {{Standard score}@1}
+- {{Normal score}@2}
+
+*** Source
+[cite:@StandardScore2022]
+** Compare/Contrast :fc:
+:PROPERTIES:
+:ID:       2837409f-6e8e-4d81-af28-c0424a930dc9
+:ANKI_NOTE_ID: 1654528370253
+:FC_CREATED: 2022-06-06T15:12:50Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.15 |   6 |    51.78 | 2023-04-10T10:06:15Z |
+:END:
+Covariance and correlation
+*** Back
+- Covariance and correlation both indicate a relationship between two variables; that is, a positive or inverse relationship.
+- Correlation, unlike covariance, additionally communicates the degree of that relationship -- how much one variable changes given a change in the other.
+*** Source
+[cite:@bothaIntroductionVarianceCovarianceCorrelationAlchemerBlog2018]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       af6d9207-2bd6-4aaa-954d-ff6cb07fd6aa
+:ANKI_NOTE_ID: 1640627878471
+:FC_CREATED: 2021-12-27T17:57:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   372.94 | 2024-03-08T02:45:21Z |
+| front    | 2.65 |   8 |   329.70 | 2024-02-03T22:04:00Z |
+:END:
+
+Alternative hypothesis
+
+*** Back
+A position that states that something is happening; that the quantity being measured is non-zero.
+
+*** Source
+[cite:@AlternativeHypothesis2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       eb1419be-936c-4f38-bc16-e0d945677ebd
+:ANKI_NOTE_ID: 1640627876697
+:FC_CREATED: 2021-12-27T17:57:56Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   199.94 | 2023-06-05T14:25:16Z |
+| front    | 2.65 |   8 |   208.25 | 2023-06-26T23:42:33Z |
+:END:
+
+Bayes error rate
+
+*** Back
+The lowest possible error rate for any classifier; analogous to the irreducible error.
+
+*** Source
+[cite:@BayesErrorRate2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       3c643f48-bac5-4791-aeaf-0eea8302425c
+:ANKI_NOTE_ID: 1640627873822
+:FC_CREATED: 2021-12-27T17:57:53Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   381.93 | 2024-03-27T03:52:00Z |
+| front    | 2.65 |   7 |   138.05 | 2023-03-24T17:27:45Z |
+:END:
+
+Bessel's correction
+
+*** Back
+The use of $n-1$ in place of $n$ in the formula for the sample variance and the sample standard deviation.
+
+*** Extra
+$s^2 =$ $\frac{1}{n-1} \sum_{i = 1}^n (x_i - \bar{x})^2$
+
+*** Source
+[cite:@BesselCorrection2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       4c0de50d-35ab-4f66-b8c6-6eb64c87d37e
+:ANKI_NOTE_ID: 1640627870947
+:FC_CREATED: 2021-12-27T17:57:50Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   157.97 | 2023-04-01T14:13:38Z |
+| front    | 2.35 |   8 |   187.50 | 2023-06-02T02:56:19Z |
+:END:
+
+Bias
+
+*** Back
+The difference between an estimator's expected value and the true value of the parameter being estimated.
+
+*** Source
+[cite:@BiasEstimator2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       4f59dd95-ff4d-4470-9b2f-7db6a760cd34
+:ANKI_NOTE_ID: 1640627883373
+:FC_CREATED: 2021-12-27T17:58:03Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   4 |    13.30 | 2023-03-22T01:23:00Z |
+| front    | 2.35 |   6 |    75.13 | 2023-04-23T00:36:10Z |
+:END:
+
+Correlation
+
+*** Back
+Any statistical relationship, whether causal or not, between two random variables or bivariate data.
+
+*** Source
+[cite:@Correlation2022]
+** Definition (Statistics) :fc:
+:PROPERTIES:
+:ID:       3a5c752c-5063-4cbb-a674-4527c6d285a4
+:ANKI_NOTE_ID: 1640627874272
+:FC_CREATED: 2021-12-27T17:57:54Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.45 |   8 |    37.92 | 2023-03-26T23:58:06Z |
+| front    | 1.60 |   7 |    54.66 | 2023-05-07T06:44:21Z |
+:END:
+
+Covariance
+
+*** Back
+- The joint variability of two random variables.
+- Measures how two random variables in a data set will change together. That is, a positive [...] implies that the second will also increase when the first increases.
+*** Source
+[cite:@Covariance2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       33945e3d-9fcc-4f6a-821b-164b87657869
+:ANKI_NOTE_ID: 1640628580101
+:FC_CREATED: 2021-12-27T18:09:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   146.56 | 2023-03-19T08:59:38Z |
+|        1 | 2.65 |   8 |   333.24 | 2024-01-30T19:38:02Z |
+:END:
+
+- {{$\operatorname{P}(A)$}@0}
+
+{{Probability of $A$}@1}
+
+*** Source
+[cite:@NotationProbabilityStatistics2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       baf0464c-1ec5-4775-b59f-b8bad1e45634
+:ANKI_NOTE_ID: 1640628575102
+:FC_CREATED: 2021-12-27T18:09:35Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   149.52 | 2023-04-12T04:14:16Z |
+|        1 | 2.65 |   8 |   230.88 | 2023-07-19T13:18:14Z |
+:END:
+
+- {{$\operatorname{P}(A|B)$}@0}
+
+{{Conditional probability of $A$, given $B$.}@1}
+
+*** Source
+[cite:@ConditionalProbability2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       dceb0c9b-0167-440c-b5cc-af6aa72c45de
+:ANKI_NOTE_ID: 1640628580702
+:FC_CREATED: 2021-12-27T18:09:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   186.59 | 2023-06-13T10:04:44Z |
+|        1 | 2.35 |   7 |   150.11 | 2023-04-06T17:26:53Z |
+:END:
+
+- {{$\operatorname{P}(\neg A)$}@0}
+
+{{Probability of not-$A$}@1}
+
+*** Source
+[cite:@NotationProbabilityStatistics2022]
+** {{$\operatorname{P}(A \cap B)$}@0} $=$ {{$\operatorname{P}(A) \operatorname{P}(B | A)$}{terms of A}@1} :fc:
+:PROPERTIES:
+:ID:       bd30634f-5d2d-46fa-b55b-b231ed468833
+:ANKI_NOTE_ID: 1656854727477
+:FC_CREATED: 2022-07-03T13:25:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   120.52 | 2023-05-17T14:48:52Z |
+|        1 | 2.20 |   7 |   175.58 | 2023-07-24T16:15:29Z |
+:END:
+
+*** Source
+[cite:@LawTotalProbability2022]
+** {{$\operatorname{P}(A \cap B)$}@0} $=$ {{$\operatorname{P}(B) \operatorname{P}(A | B)$}{terms of B}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854727477
+:FC_CREATED: 2022-07-03T13:25:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       5b2d02bc-1232-438e-a5e6-53da73c2d691
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   346.15 | 2024-02-17T21:00:16Z |
+|        1 | 2.65 |   6 |    92.37 | 2023-05-16T01:01:38Z |
+:END:
+
+*** Source
+[cite:@LawTotalProbability2022]
+#+print_bibliography:

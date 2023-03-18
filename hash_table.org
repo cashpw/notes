@@ -1,0 +1,228 @@
+:PROPERTIES:
+:ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
+:ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
+:ROAM_REFS: [cite:@HashTable2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:END:
+#+title: Hash table
+#+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 16:06]
+#+filetags: :concept:
+
+#+begin_quote
+In computing, a hash table, also known as hash map or dictionary, is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that implements a [[[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]], a structure that can map keys to values. A hash table uses a [[id:b5c17ad0-3857-4800-90be-8e79e72897ab][Hash function]] to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.
+
+Ideally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. Such collisions are typically accommodated in some way.
+
+[cite:@HashTable2022]
+#+end_quote
+
+* Collision resolution
+:PROPERTIES:
+:ID:       67945756-9951-46e3-a7c3-ce905728b67e
+:END:
+
+#+begin_quote
+A search algorithm that uses hashing consists of two parts. The first part is computing a hash function which transforms the search key into an array index. The ideal case is such that no two search keys hashes to the same array index. However, this is not always the case and is impossible to guarantee for unseen given data. Hence the second part of the algorithm is collision resolution. The two common methods for collision resolution are [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]] and [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]].
+
+[cite:@HashTable2022]
+#+end_quote
+
+** Separate chaining
+:PROPERTIES:
+:ID:       2e5f8a82-f9d2-42a2-bcea-de2d2a158097
+:END:
+
+#+begin_quote
+[...] the process involves building a linked list with key–value pair for each search array index. The collided items are chained together through a single linked list, which can be traversed to access the item with a unique search key.
+
+[cite:@HashTable2022]
+#+end_quote
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hash_table_5_0_1_1_1_1_1_LL.svg/900px-Hash_table_5_0_1_1_1_1_1_LL.svg.png @ 2022-10-01 14:23:28
+[[file:2022-10-01_14-23-28_900px-Hash_table_5_0_1_1_1_1_1_LL.svg.png]]
+
+** Open addressing
+:PROPERTIES:
+:ID:       a167cfc8-7b7c-4155-b093-6e4d3b83bb83
+:END:
+
+#+begin_quote
+[...] is another collision resolution technique in which every entry records are stored in the bucket array itself, and the hash resolution is performed through probing. When a new entry has to be inserted, the buckets are examined, starting with the hashed-to slot and proceeding in some probe sequence, until an unoccupied slot is found. When searching for an entry, the buckets are scanned in the same sequence, until either the target record is found, or an unused array slot is found, which indicates an unsuccessful search.
+
+[cite:@HashTable2022]
+#+end_quote
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hash_table_5_0_1_1_1_1_0_SP.svg/760px-Hash_table_5_0_1_1_1_1_0_SP.svg.png @ 2022-10-01 14:24:29
+[[file:2022-10-01_14-24-28_760px-Hash_table_5_0_1_1_1_1_0_SP.svg.png]]
+
+#+begin_quote
+Well-known probe sequences include:
+
+1. Linear probing, in which the interval between probes is fixed (usually 1).
+2. Quadratic probing, in which the interval between probes is increased by adding the successive outputs of a quadratic polynomial to the value given by the original hash computation.
+3. Double hashing, in which the interval between probes is computed by a secondary hash function.
+
+[cite:@HashTable2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       6ef3f7d4-87da-4736-ad16-6f9f541b9239
+:ANKI_NOTE_ID: 1656856827180
+:FC_CREATED: 2022-07-03T14:00:27Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   8 |   290.62 | 2023-12-04T18:26:24Z |
+| front    | 2.65 |   7 |   220.98 | 2023-09-03T16:16:21Z |
+:END:
+[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]
+*** Back
+An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]] which uses a function to relate the =key= to a specific location in an array of buckets or slots.
+*** Source
+[cite:@HashTable2022]
+
+** A {{hash collision}@0} is when {{two pieces of data in a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]] share the same hash value}@1}. :fc:
+:PROPERTIES:
+:ID:       2bf71e4b-5cdd-4acf-b101-7d3256d2133c
+:ANKI_NOTE_ID: 1656856828006
+:FC_CREATED: 2022-07-03T14:00:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   7 |   253.36 | 2023-09-26T00:58:17Z |
+|        0 | 2.80 |   7 |   190.09 | 2023-07-20T16:45:41Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@HashTable2022]
+
+** {{[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]]}@1} are, on average, {{more}@0} efficient than search trees. :fc:
+:PROPERTIES:
+:ID:       6658f518-ad14-43d3-bf26-6fb07e271a7a
+:ANKI_NOTE_ID: 1656856828784
+:FC_CREATED: 2022-07-03T14:00:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   6 |   159.42 | 2023-06-10T13:45:11Z |
+|        0 | 3.10 |   6 |   182.12 | 2023-07-09T18:29:54Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@HashTable2022]
+** A {{[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]]}@0} is composed of {{a [[id:b5c17ad0-3857-4800-90be-8e79e72897ab][Hash function]] and a [[id:67945756-9951-46e3-a7c3-ce905728b67e][Collision resolution]] strategy}@1}. :fc:
+:PROPERTIES:
+:CREATED: [2022-10-01 Sat 14:19]
+:FC_CREATED: 2022-10-01T21:20:36Z
+:FC_TYPE:  cloze
+:ID:       8cc31531-dc0b-419e-98e2-73725c7c648e
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   127.08 | 2023-06-05T21:18:27Z |
+|        1 | 2.20 |   7 |   145.95 | 2023-08-10T12:50:06Z |
+:END:
+
+*** Source
+[cite:@HashTable2022]
+** Definition ([[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-01 Sat 14:26]
+:FC_CREATED: 2022-10-01T21:27:40Z
+:FC_TYPE:  double
+:ID:       42f74c1a-c446-4b1c-af92-cd0c75d35b49
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   148.72 | 2023-06-16T08:38:32Z |
+| back     | 2.35 |   6 |    63.52 | 2023-04-08T04:55:20Z |
+:END:
+
+[[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]]
+
+*** Back
+
+A collision resolution algorithm in which each bucket in the [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]] is a linked list. The list is extended upon every collision and is traversed in order to find the target key.
+*** Source
+[cite:@HashTable2022]
+** Definition ([[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-01 Sat 14:27]
+:FC_CREATED: 2022-10-01T21:29:17Z
+:FC_TYPE:  double
+:ID:       c6aa2d16-72a7-4e13-836a-838cf9741d93
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   150.46 | 2023-06-17T01:11:17Z |
+| back     | 2.35 |   4 |    15.22 | 2023-03-30T19:42:19Z |
+:END:
+
+[[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]]
+
+*** Back
+A collision resolution algorithm which uses a probing sequence (i.e. linear, quadratic, another [[id:b5c17ad0-3857-4800-90be-8e79e72897ab][Hash function]]) to move along the array in search of the target key.
+*** Source
+[cite:@HashTable2022]
+** Compare/Contrast ([[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-10-21T15:16:19Z
+:FC_TYPE:  normal
+:ID:       4ee1a6e8-6ff1-4521-9893-bbfb3e396983
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   132.10 | 2023-06-30T19:41:48Z |
+:END:
+
+[[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]] and [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]]
+
+*** Back
+
+- [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]] stores collision values within the original array while [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]] stores collision values in a linked list.
+*** Source
+[cite:@HashTable2022]
+** Common [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]] probing schedules include {{linear, quadratic, and double hashing}@0}. :fc:
+:PROPERTIES:
+:CREATED: [2022-10-01 Sat 14:31]
+:FC_CREATED: 2022-10-01T21:32:28Z
+:FC_TYPE:  cloze
+:ID:       8fd9deff-40c0-42f1-9b67-0d22ca2baf76
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   129.24 | 2023-07-05T21:56:37Z |
+:END:
+*** Source
+[cite:@HashTable2022]
+#+print_bibliography:

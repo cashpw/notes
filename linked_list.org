@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       4e9a8cb2-e817-430b-a63c-0e492022ab79
+:ROAM_ALIASES: "Linked lists"
+:LAST_MODIFIED: [2023-03-08 Wed 10:35]
+:END:
+#+title: Linked list
+#+hugo_custom_front_matter: :slug "4e9a8cb2-e817-430b-a63c-0e492022ab79"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 15:41]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence.
+
+[cite:@LinkedList2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       5c61a5c3-3770-4f72-abe5-b20609be4b01
+:ANKI_NOTE_ID: 1656856927831
+:FC_CREATED: 2022-07-03T14:02:07Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |  10 |   324.80 | 2024-01-27T13:49:48Z |
+| front    | 2.35 |   7 |   209.14 | 2023-09-30T20:48:44Z |
+:END:
+
+[[id:4e9a8cb2-e817-430b-a63c-0e492022ab79][Linked list]]
+
+*** Back
+A sequential collection of nodes composed of data and one or more references to other nodes.
+
+*** Source
+[cite:@LinkedList2022]
+
+** {{[[id:4e9a8cb2-e817-430b-a63c-0e492022ab79][Linked lists]]}@1} perform better than [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Arrays]] when it comes to {{insertion time}@0} :fc:
+:PROPERTIES:
+:ID:       c5976e06-abb1-418f-b47c-ca6045190d17
+:ANKI_NOTE_ID: 1656856928683
+:FC_CREATED: 2022-07-03T14:02:08Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   7 |   238.93 | 2023-08-20T14:25:06Z |
+|        0 | 2.35 |   6 |   176.51 | 2023-05-25T07:04:13Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@LinkedList2022]
+#+print_bibliography:

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       820021b3-7576-4516-9fe2-51cbfe263ebe
+:DIR:      /home/cashweaver/proj/roam/attachments/820021b3-7576-4516-9fe2-51cbfe263ebe
+:END:
+#+title: LessWrong
+#+hugo_custom_front_matter: :slug "820021b3-7576-4516-9fe2-51cbfe263ebe"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 06:38]
+
+A rationalist community and website.
+
+#+begin_quote
+We are a community dedicated to improving our reasoning and decision-making. We seek to hold true beliefs and to be effective at accomplishing our goals. More generally, we work to develop and practice the art of human rationality.
+
+/[[https://www.lesswrong.com/about][About]]/
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

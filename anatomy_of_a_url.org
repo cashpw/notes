@@ -1,0 +1,198 @@
+:PROPERTIES:
+:ID:       56aebaa3-d4d6-4a06-98a2-186ed655d11e
+:LAST_MODIFIED: [2023-03-17 Fri 06:59]
+:END:
+#+title: Anatomy of a URL
+#+hugo_custom_front_matter: :slug "56aebaa3-d4d6-4a06-98a2-186ed655d11e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-20 Wed 10:48]
+#+filetags: :concept:
+
+Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an example [cite:@mdnWhatURL]:
+
+| Name       | From the example       |
+|------------+------------------------|
+| Scheme     | =http=                 |
+| Authority  | =www.example.com:8080= |
+| Host       | =www.example.com=      |
+| Port       | =8080=                 |
+| Path       | =/foo/bar=             |
+| Parameters | =?baz=boo&color=blue=  |
+| Anchor     | =#cats=                |
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       c5fd8e99-b812-4caa-a758-545f93c27562
+:ANKI_NOTE_ID: 1658339698134
+:FC_CREATED: 2022-07-20T17:54:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.30 |   7 |    32.17 | 2023-03-28T08:07:16Z |
+| back     | 2.95 |   7 |   185.57 | 2023-08-22T04:13:27Z |
+:END:
+
+[[id:56aebaa3-d4d6-4a06-98a2-186ed655d11e][Anatomy of a URL]]
+
+*** Back
+Using =http://www.a.com:8080/b/c?d=e&f=g#h= as an example:
+
+1. Scheme (e.g. =http=)
+2. Authority (e.g. =www.a.com:8080=)
+   1. Host (e.g. =www.a.com=)
+   2. Port (e.g. =8080=)
+3. Path (e.g. =/b/c=)
+4. Parameters (e.g. =?d=e&f=g=)
+5. Anchor (e.g. =#h=)
+*** Source
+[cite:@mdnUsingHTTPCookies]
+** The {{scheme}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{=http=}@0} :fc:
+:PROPERTIES:
+:ID:       ca47d5f7-3c57-49a8-b466-ad06898f5928
+:ANKI_NOTE_ID: 1658339934649
+:FC_CREATED: 2022-07-20T17:58:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 3.10 |   6 |   165.34 | 2023-06-24T23:59:32Z |
+|        0 | 2.80 |   6 |   115.03 | 2023-04-17T15:23:58Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+
+
+** The {{authority}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{=www.a.com:8080=}@0} :fc:
+:PROPERTIES:
+:ID:       50d53fbf-9556-4083-9fe8-9d65f2a3a1be
+:ANKI_NOTE_ID: 1658340109556
+:FC_CREATED: 2022-07-20T18:01:49Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    90.31 | 2023-03-23T21:21:37Z |
+|        1 | 2.50 |   6 |   127.19 | 2023-06-03T18:23:44Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@mdnWhatURL]
+
+
+** The {{host}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{=www.a.com=}@0} :fc:
+:PROPERTIES:
+:ID:       5e62e665-533e-4482-83db-73d49ede5419
+:ANKI_NOTE_ID: 1658340110232
+:FC_CREATED: 2022-07-20T18:01:50Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   111.11 | 2023-06-24T20:02:38Z |
+|        1 | 2.65 |   7 |   264.35 | 2023-11-21T22:58:53Z |
+:END:
+
+*** Extra
+
+*** Source
+[cite:@mdnWhatURL]
+
+
+** The {{port}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{=8080=}@0} :fc:
+:PROPERTIES:
+:ID:       419ea7d9-275e-433a-9134-f67c4aa9eced
+:ANKI_NOTE_ID: 1658340110757
+:FC_CREATED: 2022-07-20T18:01:50Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   142.73 | 2023-06-14T10:14:37Z |
+|        1 | 2.50 |   6 |   102.86 | 2023-05-20T20:32:05Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+
+
+** The {{path}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{=/b/c=}@0} :fc:
+:PROPERTIES:
+:ID:       6df9e264-c7a7-4c7c-b034-6ab63745b02d
+:ANKI_NOTE_ID: 1658340111257
+:FC_CREATED: 2022-07-20T18:01:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   190.93 | 2023-07-15T13:36:45Z |
+|        1 | 2.65 |   7 |   218.36 | 2023-09-13T08:18:39Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+
+
+** The {{parameters}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= are {{~?d=e&f=g~}@0} :fc:
+:PROPERTIES:
+:ID:       98f867c7-ba81-4322-bf23-2c077b4b30ac
+:ANKI_NOTE_ID: 1658340111757
+:FC_CREATED: 2022-07-20T18:01:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   165.41 | 2023-08-29T23:51:09Z |
+|        1 | 2.50 |   6 |    98.55 | 2023-05-07T05:41:00Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+
+
+** The {{anchor}@1} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{=#h=}@0} :fc:
+:PROPERTIES:
+:ID:       224c8e44-3bfc-45ff-817c-194612c23d11
+:ANKI_NOTE_ID: 1658340112457
+:FC_CREATED: 2022-07-20T18:01:52Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   6 |   131.53 | 2023-05-07T05:28:45Z |
+|        0 | 2.95 |   6 |   121.28 | 2023-05-07T21:10:54Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+#+print_bibliography:

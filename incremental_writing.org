@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b0b3e596-fec2-4f36-9020-243c6c96e0d5
+:END:
+#+title: Incremental writing
+#+hugo_custom_front_matter: :slug "b0b3e596-fec2-4f36-9020-243c6c96e0d5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 09:41]
+#+filetags: :has_todo:concept:
+
+* Related
+- [[id:2186c8f0-1b18-484f-8e22-9e0cd328b498][Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")]]
+* TODO [#3] Expand :noexport:
+* TODO [#3] Flashcards

@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ROAM_ALIASES: "Geometric progression"
+:ROAM_REFS: [cite:@GeometricProgression2022]
+:ID:       0a3c8553-f631-4eca-8e2c-957419ebb8ac
+:LAST_MODIFIED: [2023-03-10 Fri 21:19]
+:END:
+#+title: Geometric sequence
+#+hugo_custom_front_matter: :slug "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:31]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a geometric progression, also known as a geometric sequence, is a sequence of non-zero numbers where each term after the first is found by multiplying the previous one by a fixed, non-zero number called the /common ratio/. For example, the sequence 2, 6, 18, 54, ... is a geometric progression with common ratio 3. Similarly 10, 5, 2.5, 1.25, ... is a geometric sequence with common ratio 1/2.
+
+Examples of a geometric sequence are powers /r/^{/k/} of a fixed non-zero number /r/, such as [[https://en.wikipedia.org/wiki/Power_of_two][2^{/k/}]] and 3^{/k/}. The general form of a geometric sequence is
+
+$a,ar,ar^{2},ar^{3},ar^{4},\ldots$
+
+where /r/ ≠ 0 is the common ratio and /a/ ≠ 0 is a scale factor, equal to the sequence's start value.
+
+The distinction between a progression and a series is that a progression is a sequence, whereas a series is a sum.
+
+[cite:@GeometricProgression2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:47]
+:FC_CREATED: 2022-11-22T22:49:13Z
+:FC_TYPE:  double
+:ID:       ca947243-a2a1-4f54-ac6b-d1236c718e81
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    64.68 | 2023-04-12T16:19:23Z |
+| back     | 2.65 |   6 |   109.83 | 2023-06-29T01:21:11Z |
+:END:
+
+[[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geometric progression]]
+
+*** Back
+A sequence of non-zero numbers where each term is =previous_number * common_ratio=
+*** Source
+[cite:@GeometricProgression2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:49]
+:FC_CREATED: 2022-11-22T22:49:33Z
+:FC_TYPE:  double
+:ID:       213fb6a5-deb7-4287-a515-5fa337d20dd2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    75.39 | 2023-04-19T01:17:07Z |
+| back     | 2.65 |   6 |   104.60 | 2023-06-15T06:30:54Z |
+:END:
+
+Common ratio
+
+*** Back
+The multiplicative factor in a [[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geometric progression]].
+*** Source
+[cite:@GeometricProgression2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:49]
+:FC_CREATED: 2022-11-22T22:49:59Z
+:FC_TYPE:  double
+:ID:       f1071424-d92c-4206-aabc-bd0c6ce369e4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    68.58 | 2023-04-09T06:16:31Z |
+| back     | 2.80 |   6 |   121.74 | 2023-06-29T22:36:59Z |
+:END:
+
+[[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geometric progression]]
+
+*** Back
+- $a,ar,ar^{2},ar^{3},ar^{4},\ldots$
+*** Source
+[cite:@GeometricProgression2022]
+#+print_bibliography:

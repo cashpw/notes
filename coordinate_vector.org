@@ -1,0 +1,67 @@
+:PROPERTIES:
+:ID:       4b917306-e1fa-4d34-9d2b-5bb1eedab431
+:ROAM_REFS: [cite:@CoordinateVector2022]
+:LAST_MODIFIED: [2023-03-15 Wed 08:06]
+:END:
+#+title: Coordinate vector
+#+hugo_custom_front_matter: :slug "4b917306-e1fa-4d34-9d2b-5bb1eedab431"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-27 Tue 20:35]
+#+filetags: :concept:
+
+#+begin_quote
+In linear algebra, a [[id:4b917306-e1fa-4d34-9d2b-5bb1eedab431][Coordinate vector]] is a representation of a vector as an ordered list of numbers that describes the vector in terms of a particular ordered [[id:90dcfc79-6808-48ab-8193-2b040295574c][Basis]].
+
+[cite:@CoordinateVector2022]
+#+end_quote
+
+$\begin{bmatrix}\vec{v}\end{bmatrix}_B$ denotes the coordinate vector $\vec{v}$ relative to the basis $B$.
+
+* Flashcards
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       d89af78e-d388-49d6-8d2a-1934314c66c9
+:ANKI_NOTE_ID: 1640627793347
+:FC_CREATED: 2021-12-27T17:56:33Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   325.11 | 2024-02-03T17:51:44Z |
+| front    | 2.80 |   8 |   324.50 | 2023-12-07T13:48:09Z |
+:END:
+
+Coordinate Vector
+
+*** Back
+A representation of a vector as an ordered list of numbers that describes the vector in terms of a particular ordered basis.
+
+*** Extra
+eg: $\begin{bmatrix}\vec{v}\end{bmatrix}_{\beta}$
+
+*** Source
+[cite:@CoordinateVector2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       92ac770e-73dc-487a-9ad0-4d89b0020caf
+:ANKI_NOTE_ID: 1640627793573
+:FC_CREATED: 2021-12-27T17:56:33Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   9 |   180.50 | 2023-05-29T06:24:32Z |
+|        1 | 2.05 |   7 |   115.60 | 2023-06-24T18:47:04Z |
+:END:
+
+- {{$\begin{bmatrix}\vec{v}\end{bmatrix}_{\beta}$}@0}
+
+{{The coordinate vector for $\vec{v}$ in the basis $\beta$.}@1}
+
+*** Source
+[cite:@CoordinateVector2022]
+#+print_bibliography:

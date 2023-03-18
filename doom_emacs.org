@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       983095a2-2f92-46a9-868b-c79fa11fbcbb
+:ROAM_REFS: [cite:@DoomEmacs2022]
+:END:
+#+title: Doom Emacs
+#+hugo_custom_front_matter: :slug "983095a2-2f92-46a9-868b-c79fa11fbcbb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 09:04]
+
+#+begin_quote
+Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy veterans who want less framework in their frameworks, a modicum of stability (and reproducibility) from their package manager, and the performance of a hand rolled config (or better). It can be a foundation for your own config or a resource for Emacs enthusiasts to learn more about our favorite operating system.
+
+[cite:@DoomEmacs2022]
+#+end_quote
+
+See [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

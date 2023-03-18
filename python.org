@@ -1,0 +1,586 @@
+:PROPERTIES:
+:ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
+:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:END:
+#+title: Python
+#+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-01 Fri 11:47]
+#+filetags: :has_todo:concept:
+The programming language
+
+* TODO [#4]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Cloze :fc:
+:PROPERTIES:
+:ID:       f92c0bff-1a66-4d59-b478-98d15d279d99
+:ANKI_NOTE_ID: 1656857110833
+:FC_CREATED: 2022-07-03T14:05:10Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.20 |   7 |   159.95 | 2023-08-11T14:04:41Z |
+|        0 | 2.50 |   7 |   228.92 | 2023-09-24T16:29:06Z |
+:END:
+#+begin_src python
+>>> a = ["A", "B", "C", "D"]
+>>> a[{{:2}@0}]
+{{["A", "B"]}@1}
+#+end_src
+*** Extra
+*** Source
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       7007ac42-4757-44b8-b711-ad00b789cbfe
+:ANKI_NOTE_ID: 1656857110957
+:FC_CREATED: 2022-07-03T14:05:10Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   7 |   240.61 | 2023-09-14T16:34:34Z |
+|        0 | 2.65 |   8 |   300.40 | 2023-12-31T03:00:51Z |
+:END:
+#+begin_src python
+>>> a = ["A", "B", "C", "D"]
+>>> a[{{1:2}{n:n}@0}]
+{{["B"]}@1}
+#+end_src
+*** Extra
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       588b7b75-1414-45b1-997f-acf4934c3d0d
+:ANKI_NOTE_ID: 1659148137804
+:FC_CREATED: 2022-07-30T02:28:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   212.88 | 2023-10-03T12:18:52Z |
+|        1 | 2.50 |   7 |   235.30 | 2023-11-04T22:12:57Z |
+:END:
+#+begin_src python
+>>> a = ["A", "B", "C", "D"]
+>>> a[{{1:3}{n:n}@0}]
+{{["B", "C"]}@1}
+#+end_src
+*** Extra
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       e00d6b24-9575-493a-843c-6a19b9a6b3ad
+:ANKI_NOTE_ID: 1656857111108
+:FC_CREATED: 2022-07-03T14:05:11Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   7 |   188.87 | 2023-07-10T00:57:48Z |
+|        0 | 2.50 |   7 |   238.89 | 2023-09-23T11:10:48Z |
+:END:
+#+begin_src python
+>>> a = ["A", "B", "C", "D"]
+>>> a[{{1:}@0}]
+{{["B", "C", "D"]}@1}
+#+end_src
+*** Extra
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       52bfd149-f524-40b6-830d-3c7529b5b448
+:ANKI_NOTE_ID: 1659148207903
+:FC_CREATED: 2022-07-30T02:30:07Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   124.87 | 2023-07-13T00:03:05Z |
+|        1 | 2.80 |   7 |   262.61 | 2023-11-01T06:19:39Z |
+:END:
+
+#+begin_src python
+>>> a = ["A", "B", "C", "D"]
+>>> a[{{1:4:2}@0}]
+{{["B", "D"]}@1}
+#+end_src
+*** Extra
+
+*** Source
+
+
+** Cloze :fc:
+:PROPERTIES:
+:ID:       33c7b271-4bcd-422a-939d-39493c09827a
+:ANKI_NOTE_ID: 1658458327207
+:FC_CREATED: 2022-07-22T02:52:07Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   6 |   109.08 | 2023-04-03T22:34:13Z |
+|        0 | 2.50 |   7 |   109.85 | 2023-04-11T11:59:17Z |
+:END:
+#+begin_src python
+>>> a = ["A", "B", "C", "D"]
+>>> a[{{:​:-1}@1}]
+{{["D", "C", "B", "A"]}@0}
+#+end_src
+
+*** Extra
+
+*** Source
+
+** ={{Optional[X]}{type}@1}= is equal to ={{Union[X, None]}{type}@0}= :fc:
+:PROPERTIES:
+:ID:       97fd62a6-29f8-433e-a631-55df8e8e245b
+:ANKI_NOTE_ID: 1656857111532
+:FC_CREATED: 2022-07-03T14:05:11Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    78.99 | 2023-03-27T14:49:37Z |
+|        1 | 2.50 |   6 |    82.67 | 2023-05-08T20:47:41Z |
+:END:
+
+*** Extra
+
+*** Source
+
+
+** TODO [#2] =all=
+** TODO [#2] =any=
+** TODO [#2] =enumerate=
+** TODO [#2] =filter=
+** TODO [#2] =input=
+** TODO [#2] =map=
+** TODO [#2] =open=
+** TODO [#2] =reversed=
+** TODO [#2] =round=
+** TODO [#2] =slice=
+** TODO [#2] =zip=
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-19 Mon 09:34]
+:FC_CREATED: 2022-12-19T17:35:51Z
+:FC_TYPE:  cloze
+:ID:       c9f53d4f-4ad7-4b1b-8d7d-ff603d64b931
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.65 |   5 |    51.73 | 2023-03-23T09:53:33Z |
+|        2 | 2.35 |   6 |   101.38 | 2023-06-22T23:58:06Z |
+|        0 | 1.90 |   6 |    52.79 | 2023-04-24T10:58:38Z |
+:END:
+
+#+begin_src python
+{{from itertools import count}@1}
+{{from dataclasses import dataclass, field}@2}
+
+@dataclass
+class Foo:
+    id: int = {{field(default_factory=count().__next__)}@0}
+#+end_src
+
+*** Source
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 08:05]
+:FC_CREATED: 2022-12-21T16:09:01Z
+:FC_TYPE:  cloze
+:ID:       eae0e637-1e12-4073-811c-46ce6b4b636b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   119.52 | 2023-07-11T02:54:50Z |
+|        1 | 2.95 |   5 |    50.34 | 2023-03-20T00:53:41Z |
+:END:
+
+#+begin_src python
+>>> values = ["A", "B", "C", "D"]
+>>> {{",".join(values)}@0}
+{{"A,B,C,D"}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 08:09]
+:FC_CREATED: 2022-12-21T16:26:57Z
+:FC_TYPE:  cloze
+:ID:       edc3705e-6055-4c98-86fd-6467f983d08d
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   147.59 | 2023-08-12T04:16:55Z |
+|        1 | 2.65 |   6 |    98.36 | 2023-06-16T11:57:12Z |
+:END:
+
+#+begin_src python :results output
+>>> s = "CATS"
+>>> {{s.lower()}@0}
+{{"cats"}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 08:27]
+:FC_CREATED: 2022-12-21T16:29:13Z
+:FC_TYPE:  cloze
+:ID:       869316a7-e91d-4d33-bcfa-0de67f1e270f
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    55.25 | 2023-04-13T09:26:56Z |
+|        1 | 2.95 |   6 |   141.45 | 2023-08-06T00:49:39Z |
+:END:
+
+#+begin_src python :results output
+>>> s = 'A,B,C,D'
+>>> {{s.split(',')}@0}
+{{['A', 'B', 'C', 'D']}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 08:29]
+:FC_CREATED: 2022-12-21T16:30:26Z
+:FC_TYPE:  cloze
+:ID:       8a263d1a-5ae9-4916-8546-c9bd12b37ed2
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   4 |    13.54 | 2023-03-22T07:24:47Z |
+|        1 | 2.95 |   6 |   138.38 | 2023-07-29T23:39:50Z |
+:END:
+
+#+begin_src python :results output
+>>> s = 'foo\nbar'
+>>> {{s.splitlines()}@0}
+{{['foo', 'bar']}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 08:37]
+:FC_CREATED: 2022-12-21T16:38:28Z
+:FC_TYPE:  cloze
+:ID:       4bcc2dc1-d6ea-42ed-8369-010a934c6e5d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   101.58 | 2023-06-20T19:05:18Z |
+:END:
+
+In [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]], ~a is b~ indicates {{reference equality}@0}.
+
+*** Source
+[cite:@besbesWhatDifferencePython2021]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 08:38]
+:FC_CREATED: 2022-12-21T16:38:56Z
+:FC_TYPE:  cloze
+:ID:       7192c01f-341f-4ae6-aa1b-c675554d3c4a
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   104.20 | 2023-06-14T20:59:17Z |
+:END:
+
+In [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]], ~a == b~ indicates {{value equality}@0}.
+
+*** Source
+[cite:@besbesWhatDifferencePython2021]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2022-12-21 Wed 11:59]
+:FC_CREATED: 2022-12-21T19:59:38Z
+:FC_TYPE:  double
+:ID:       d607dbf7-febf-430a-a775-6e1b92b5f13a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   103.29 | 2023-06-13T23:09:58Z |
+| back     | 2.65 |   6 |   104.22 | 2023-06-17T22:42:09Z |
+:END:
+
+Infinity in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+
+*** Back
+=math.inf= and =-math.inf=
+*** Source
+[cite:@Python11Documentation]
+** Denotes (Python) :fc:
+:PROPERTIES:
+:ID:       a867145f-5622-496f-817b-1ede031ba539
+:ANKI_NOTE_ID: 1640627808623
+:FC_CREATED: 2021-12-27T17:56:48Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   184.31 | 2023-05-10T05:10:20Z |
+|        1 | 2.65 |   7 |   161.05 | 2023-04-07T16:35:47Z |
+:END:
+
+- {{$\texttt{@}$}@0}
+
+{{Matrix multiplication and outer product}@1}
+
+
+*** Source
+[cite:@PEP465DedicatedInfixOperatorMatrixMultiplicationPepsPythonOrg]
+** Cloze :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-12-31T21:39:43Z
+:FC_TYPE:  cloze
+:ID:       5f2f072f-3766-4111-9808-752d86155e1b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    41.37 | 2023-03-20T03:53:16Z |
+|        1 | 2.65 |   5 |    37.77 | 2023-03-17T13:02:45Z |
+:END:
+
+#+begin_src python
+>>> list({{range(10)}{range}@0})
+{{[0,1,2,3,4,5,6,7,8,9]}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-12-31T21:39:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       5bfa6247-b5db-4601-8a86-51b3db397997
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   128.94 | 2023-07-25T12:20:53Z |
+|        1 | 2.35 |   6 |    80.04 | 2023-05-27T19:31:38Z |
+:END:
+
+#+begin_src python
+>>> list({{range(1, 5)}{range}@0})
+{{[1,2,3,4]}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-12-31T21:39:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       ba06c9dc-844c-4698-8516-282d462d126f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    76.08 | 2023-05-15T06:48:27Z |
+|        1 | 2.65 |   6 |   120.78 | 2023-07-16T08:41:24Z |
+:END:
+
+#+begin_src python
+>>> list({{range(0,10,3)}{range}@0})
+{{[0,3,6,9]}@1}
+#+end_src
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-31 Sat 13:41]
+:FC_CREATED: 2022-12-31T21:41:57Z
+:FC_TYPE:  cloze
+:ID:       cd67fcf5-80ad-49c7-907f-3bae49975bef
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    61.38 | 2023-04-30T14:07:59Z |
+:END:
+
+([[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]) =range(x, y)= produces a list from {{$[x, y-1]$}@0}.
+
+*** Source
+[cite:@Python11Documentation]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-02 Mon 09:22]
+:FC_CREATED: 2023-01-02T17:23:10Z
+:FC_TYPE:  double
+:ID:       63b58b8c-e87c-48ff-84a6-deb9769469e4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    50.55 | 2023-03-23T03:21:16Z |
+| back     | 2.50 |   6 |    99.68 | 2023-06-22T07:31:37Z |
+:END:
+
+([[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]) Dunder
+
+*** Back
+Names with two leading and two trailing underscores (e.g. =__init__=).
+*** Source
+[cite:@PEPStyleGuidePythonCodePepsPythonOrg]
+** TODO [#2] Dunder (i.e double underscore) methods (e.g. =__init__=)
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:54]
+:FC_CREATED: 2023-01-17T16:56:42Z
+:FC_TYPE:  cloze
+:ID:       5148b89f-6fd2-474c-9e5e-6e6ebae02c9a
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   5 |    34.15 | 2023-03-31T07:21:05Z |
+|        1 | 2.65 |   5 |    38.07 | 2023-04-05T17:38:52Z |
+:END:
+
+{{=random.randint(a, b)=}{[[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]}@0} returns a random integer in the range {{$[a, b]$}@1}
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:56]
+:FC_CREATED: 2023-01-17T16:57:37Z
+:FC_TYPE:  cloze
+:ID:       92eeeaa1-9600-4687-90eb-2e6b044f98df
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    30.49 | 2023-03-19T13:50:25Z |
+|        1 | 2.35 |   5 |    34.12 | 2023-03-30T06:35:28Z |
+:END:
+
+{{=random.randint(a, b)=}@0} is an alias for {{=random.randrange(a, b+1)=}@1}.
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:57]
+:FC_CREATED: 2023-01-17T16:58:50Z
+:FC_TYPE:  cloze
+:ID:       1cdeb562-e9a0-4419-93b8-76b01cd4ec58
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   5 |    29.13 | 2023-04-13T18:13:57Z |
+|        1 | 2.80 |   5 |    48.67 | 2023-04-26T09:38:31Z |
+|        2 | 2.65 |   4 |    15.98 | 2023-03-26T02:50:18Z |
+:END:
+
+{{=random.randrange(start, stop, step)=}@0} returns a random {{integer}@1} in {{=range(start, stop, step)=}@2}.
+
+*** Source
+[cite:@Python11Documentation]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:58]
+:FC_CREATED: 2023-01-17T16:59:59Z
+:FC_TYPE:  cloze
+:ID:       d243d10c-2b5b-4aee-9c6e-bfe4916a7f18
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    53.35 | 2023-04-21T00:32:39Z |
+|        1 | 2.35 |   5 |    38.27 | 2023-04-07T11:14:19Z |
+:END:
+
+{{=random.random()=}{[[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]}@0} returns a random number in {{$[0.0, 1.0)$}@1}.
+
+*** Source
+[cite:@Python11Documentation]
+#+print_bibliography:

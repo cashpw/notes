@@ -1,0 +1,139 @@
+:PROPERTIES:
+:ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
+:ROAM_REFS: [cite:@LogisticFunction2022]
+:LAST_MODIFIED: [2023-03-18 Sat 06:41]
+:END:
+#+title: Logistic function
+#+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-22 Tue 11:11]
+#+filetags: :concept:
+
+$\operatorname{logistic}(x; L, k, x_0) = \displaystyle \frac{L}{1 + e^{-k(x + x_0)}}$
+
+- $L$: The curve's maximum value
+- $k$: the growth rate; the steepness of the curve
+- $x_0$: The $x$ value of the sigmoid's midpoint
+
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logistic-curve.svg/640px-Logistic-curve.svg.png @ 2022-11-22 11:14:37
+[[file:2022-11-22_11-14-37_640px-Logistic-curve.svg.png]]
+
+[cite:@LogisticFunction2022]
+#+end_quote
+
+* Standard logistic function
+:PROPERTIES:
+:ID:       671b7c10-9757-4b62-9d05-069dca439f92
+:END:
+
+$\operatorname{logistic}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\displaystyle \frac{e^x}{e^x + 1}$
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       9800fa26-77f0-4e02-a6fc-a33fae8bb3e5
+:ANKI_NOTE_ID: 1640627903098
+:FC_CREATED: 2021-12-27T17:58:23Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  11 |   359.88 | 2024-03-12T10:51:51Z |
+| front    | 2.20 |   4 |    13.23 | 2023-03-28T20:35:30Z |
+:END:
+
+[[id:671b7c10-9757-4b62-9d05-069dca439f92][Standard logistic function]]
+
+*** Back
+$\operatorname{fn}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\displaystyle \frac{e^x}{e^x + 1}$
+
+*** Source
+[cite:@LogisticFunction2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       228f5763-8053-4a83-923f-bc4f53cd124b
+:ANKI_NOTE_ID: 1640627902895
+:FC_CREATED: 2021-12-27T17:58:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |  24 |   191.99 | 2023-09-12T15:02:40Z |
+| front    | 1.75 |   7 |    60.94 | 2023-05-13T13:45:12Z |
+:END:
+
+[[id:a9bbc185-640a-4182-8bc8-ba43325f0c19][Logistic function]]
+
+*** Back
+$f(x; L, k, x_0) = \displaystyle \frac{L}{1 + e^{-k(x + x_0)}}$
+
+- $L$: The curve's maximum value
+- $k$: the growth rate; the steepness of the curve
+- $x_0$: The $x$ value of the sigmoid's midpoint
+*** Extra
+[[file:logistic-fn.png]]
+*** Source
+[cite:@LogisticFunction2022]
+
+** Image :fc:
+:PROPERTIES:
+:ID:       c673faa3-a81a-4e62-a2a9-ff8ffc0e11ef
+:ANKI_NOTE_ID: 1640628529852
+:FC_CREATED: 2021-12-27T18:08:49Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    91.70 | 2023-04-28T07:37:54Z |
+| back     | 2.65 |  10 |   171.31 | 2023-05-02T10:08:53Z |
+:END:
+
+$\operatorname{logistic}(x)$
+
+*** Back
+[[file:logistic-fn.png]]
+*** Source
+[cite:@LogisticFunction2022]
+** Cloze :fc:
+:PROPERTIES:
+:ID:       ba7a6312-2cb1-4ccd-b470-a3b034ceba9e
+:ANKI_NOTE_ID: 1656854722102
+:FC_CREATED: 2022-07-03T13:25:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   314.12 | 2023-12-28T17:13:44Z |
+|        1 | 2.20 |   7 |   202.69 | 2023-08-16T09:31:19Z |
+:END:
+{{$\operatorname{logistic}(x)$}{function}@0} $=$ {{$\displaystyle \frac{1}{1 + e^{-x}}$}{fraction}@1}
+
+*** Source
+[cite:@LogisticFunction2022]
+** Cloze :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854722102
+:FC_CREATED: 2022-07-03T13:25:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       a3dd5728-9ddd-4a06-bce7-38d22205452d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   180.89 | 2023-05-14T13:37:50Z |
+|        1 | 2.20 |   7 |   192.45 | 2023-07-18T01:13:14Z |
+:END:
+{{$\operatorname{logistic}(x)$}{function}@0} $=$ {{$\displaystyle \frac{e^x}{e^x + 1}$}{fraction}@1}
+
+*** Source
+[cite:@LogisticFunction2022]
+#+print_bibliography:

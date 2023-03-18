@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       2c232805-4cb3-47ba-8f89-d9090f29f740
+:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:END:
+#+title: Topological order by Depth-first search in Python
+#+hugo_custom_front_matter: :slug "2c232805-4cb3-47ba-8f89-d9090f29f740"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-30 Mon 09:50]
+#+filetags: :concept:
+
+An [[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of a [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]-based algorithm for finding a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] for a [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
+#+begin_src python :results output
+from random import choice
+from itertools import count
+from dataclasses import dataclass, field
+from typing import Mapping, List, TypeVar, Generic
+
+T = TypeVar('T')
+VertexId = int
+
+@dataclass
+class Vertex(Generic[T]):
+    value: T
+    id: VertexId = field(default_factory=count().__next__)
+
+def topological_sort(adjacency_list: Mapping[VertexId, List[VertexId]]) -> List[VertexId]:
+    """Return a topological ordering of ADJACENCY_LIST."""
+
+    evaluated = set()
+    evaluating = set()
+    topological_order = []
+
+    def visit(id: VertexId) -> None:
+        if id in evaluated:
+            return
+
+        if id in evaluating:
+            raise Exception(f"Provided adjacency list contains a cycle including {id}")
+
+        evaluating.add(id)
+
+        if id in adjacency_list:
+            for neighbor_id in adjacency_list[id]:
+                visit(neighbor_id)
+
+        evaluating.remove(id)
+        evaluated.add(id)
+        topological_order.insert(0, id)
+
+    for id in adjacency_list:
+        visit(id)
+
+    return topological_order
+
+a = Vertex(value='a') # 0
+b = Vertex(value='b') # 1
+c = Vertex(value='c') # 2
+d = Vertex(value='d') # 3
+e = Vertex(value='e') # 4
+f = Vertex(value='f') # 5
+adjacency_list = {
+    a.id: [d.id],
+    b.id: [d.id],
+    c.id: [d.id],
+    d.id: [e.id],
+    e.id: [f.id],
+}
+print(topological_sort(adjacency_list), 'should be [(2,1,0 in any order), 3, 4, 5]')
+#+end_src
+
+* Flashcards
+** Normal :fc:implement:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 10:14]
+:FC_CREATED: 2023-01-30T18:14:59Z
+:FC_TYPE:  normal
+:ID:       4f1fd91d-a55b-4772-acac-1ac8d0e18fc0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-02-19T17:13:16Z |
+:END:
+
+Implement [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological sorting]] using [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+
+*** Back
+[[id:2c232805-4cb3-47ba-8f89-d9090f29f740][Topological order by Depth-first search in Python]]
+*** Source
+[[id:2c232805-4cb3-47ba-8f89-d9090f29f740][Topological order by Depth-first search in Python]]

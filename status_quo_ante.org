@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4
+:ROAM_REFS: [cite:@StatusQuoAnte2022]
+:LAST_MODIFIED: [2023-03-15 Wed 08:07]
+:END:
+#+title: Status quo ante
+#+hugo_custom_front_matter: :slug "4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 08:21]
+#+filetags: :concept:
+
+[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]], meaning:
+
+- the previously existing state of affairs
+- the way things were before
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:21]
+:FC_CREATED: 2023-01-30T03:21:56Z
+:FC_TYPE:  cloze
+:ID:       cbfc2dfb-8d29-425e-a192-dc7767ddc8ca
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   4 |    10.28 | 2023-03-25T21:57:02Z |
+|        1 | 2.80 |   5 |    47.05 | 2023-04-26T04:15:05Z |
+:END:
+
+{{[[id:4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4][Status quo ante]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} :: {{The way things were before}{English}@1}
+
+*** Source
+[cite:@StatusQuoAnte2022]
+#+print_bibliography:

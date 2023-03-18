@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ID:       4c05e5da-c14c-45b8-9284-af1dda8dd3a6
+:ROAM_REFS: [cite:@DictatorGame2022]
+:LAST_MODIFIED: [2023-03-10 Fri 21:22]
+:END:
+#+title: Dictator game
+#+hugo_custom_front_matter: :slug "4c05e5da-c14c-45b8-9284-af1dda8dd3a6"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-30 Fri 15:04]
+#+filetags: :concept:
+
+#+begin_quote
+The [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]] is [...] a derivative of the [[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]]. The term "game" is a misnomer because it captures a decision by a single player: to send money to another or not. Thus, the dictator has the most power and holds the preferred position in this "game." Although the "dictator" has the most power and presents a take it or leave it offer, the game has mixed results based on different behavioral attributes. The results – where most "dictators" choose to send money – evidence the role of fairness and norms in economic behavior, and undermine the assumption of narrow self-interest when given the opportunity to maximise one's own profits.
+
+[cite:@DictatorGame2022]
+#+end_quote
+* Flashcards
+** Describe ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:05]
+:FC_CREATED: 2022-09-30T22:06:32Z
+:FC_TYPE:  double
+:ID:       a5f75da3-e1e3-42d7-ad39-281a5ea333d5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   138.19 | 2023-06-08T18:54:09Z |
+| back     | 2.95 |   6 |   129.35 | 2023-07-18T13:48:08Z |
+:END:
+
+[[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]]
+
+*** Back
+
+A two-player game in which the first player decides how to split an amount of money/resources/etc between themselves and another player. The second player has no say in the decision.
+*** Source
+[cite:@DictatorGame2022]
+** The {{[[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]]}@0} is a derivative of the {{[[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]]}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:06]
+:FC_CREATED: 2022-09-30T22:07:04Z
+:FC_TYPE:  cloze
+:ID:       3c9a6ce4-e870-485b-aab4-709d8a983e81
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   104.51 | 2023-05-02T02:39:41Z |
+|        1 | 2.80 |   6 |   128.35 | 2023-06-25T23:18:41Z |
+:END:
+
+*** Source
+[[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]]
+** Compare/Contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:07]
+:FC_CREATED: 2022-09-30T22:08:28Z
+:FC_TYPE:  normal
+:ID:       be4542d0-4449-4aef-bf0b-8e1a2464a466
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   114.91 | 2023-04-28T14:30:33Z |
+:END:
+
+[[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]] and [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]]
+
+*** Back
+
+- The second player has agency in the [[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]] and can choose to reject the proposal made by the first player.
+- The second player has *no* agency in the [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]].
+*** Source
+[cite:@DictatorGame2022]
+#+print_bibliography:

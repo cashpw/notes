@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       dc7e525e-967c-48e5-b1c5-d83394571cb5
+:LAST_MODIFIED: [2023-03-08 Wed 09:31]
+:ROAM_REFS: [cite:@Episteme2022]
+:END:
+#+title: Episteme
+#+hugo_custom_front_matter: :slug "dc7e525e-967c-48e5-b1c5-d83394571cb5"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-09 Mon 07:49]
+#+filetags: :concept:
+
+#+begin_quote
+In philosophy, episteme is a term that refers to a principle system of understanding (i.e., knowledge), such as scientific knowledge or practical knowledge. The term comes from the Ancient Greek verb ἐπῐ́στᾰμαι, epístamai, meaning 'to know, to understand, to be acquainted with'. The term epistemology (the branch of philosophy concerning knowledge) is derived from episteme.
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 07:59]
+:FC_CREATED: 2023-01-09T16:00:24Z
+:FC_TYPE:  double
+:ID:       9e19bd31-d327-4fca-be02-0f1ed9ed9d7f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    60.96 | 2023-05-08T16:40:47Z |
+| back     | 2.65 |   5 |    39.39 | 2023-03-23T00:58:03Z |
+:END:
+
+[[id:dc7e525e-967c-48e5-b1c5-d83394571cb5][Episteme]]
+
+*** Back
+- Refers to a principle system of understanding such as scientific or physical knowledge
+*** Source
+[cite:@Episteme2022]
+#+print_bibliography:

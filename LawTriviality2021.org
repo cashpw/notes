@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@LawTriviality2021]
+:ID:       d4dba9bb-3753-45c8-b3ad-396185b2c62c
+:ROAM_ALIASES: Bike-shedding
+:LAST_MODIFIED: [2023-03-05 Sun 09:31]
+:END:
+#+title: Law of triviality
+#+hugo_custom_front_matter: :slug "d4dba9bb-3753-45c8-b3ad-396185b2c62c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 17:47]
+#+filetags: :reference:
+ 
+#+begin_quote
+[...] people [...] typically give disproportionate weight to trivial issues.
+
+[cite:@LawTriviality2021]
+#+end_quote
+
+Also known as [[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 14:37]
+:FC_CREATED: 2022-11-23T22:37:41Z
+:FC_TYPE:  cloze
+:ID:       21f1a382-68df-49d5-92c1-52896d972091
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   107.27 | 2023-06-12T10:02:24Z |
+|        1 | 2.50 |   6 |   105.88 | 2023-06-19T14:45:11Z |
+:END:
+
+- {{[[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Law of triviality]]}@0}
+- {{[[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]]}@1}
+
+*** Source
+[cite:@LawTriviality2021]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 14:37]
+:FC_CREATED: 2022-11-23T22:38:19Z
+:FC_TYPE:  double
+:ID:       b9baed61-9b86-457c-b690-ec27f2c655f6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    59.01 | 2023-04-17T03:43:24Z |
+| back     | 2.80 |   6 |   108.23 | 2023-06-12T09:04:00Z |
+:END:
+
+[[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]]
+
+*** Back
+People typically give disproportionate weight to trivial issues.
+*** Source
+[cite:@LawTriviality2021]
+#+print_bibliography:

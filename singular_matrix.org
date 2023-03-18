@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       9a804f64-5cb5-4ead-911f-f3c87eedb369
+:ROAM_ALIASES: "Non-invertible matrix" "Degenerate matrix"
+:ROAM_REFS: [cite:@InvertibleMatrix2022]
+:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:END:
+#+title: Singular matrix
+#+hugo_custom_front_matter: :slug "9a804f64-5cb5-4ead-911f-f3c87eedb369"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-24 Wed 08:20]
+#+filetags: :concept:
+
+A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is no \(B\) such that \(AB = BA = I_{n}\).
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** AKA :fc:
+:PROPERTIES:
+:ID:       ebe84d38-2589-4078-a26f-4198b323788a
+:ANKI_NOTE_ID: 1658686205886
+:FC_CREATED: 2022-07-24T18:10:05Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   117.46 | 2023-06-26T15:10:28Z |
+|        1 | 2.50 |   8 |   169.39 | 2023-06-29T01:27:44Z |
+|        2 | 2.45 |  12 |    98.54 | 2023-04-14T04:15:31Z |
+:END:
+- {{[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Singular matrix]]}@0}
+- {{[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Non-invertible matrix]]}@1}
+- {{[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Degenerate matrix]]}@2}
+*** Source
+[cite:@InvertibleMatrix2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:06]
+:FC_CREATED: 2022-11-22T18:06:34Z
+:FC_TYPE:  double
+:ID:       39d5b378-714c-408a-91d1-8ac45f73f494
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   6 |    64.94 | 2023-04-13T21:18:51Z |
+| back     | 2.65 |   6 |   119.40 | 2023-07-02T00:50:29Z |
+:END:
+
+[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Singular matrix]]
+
+*** Back
+A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is no \(B\) such that \(AB = BA = I_{n}\).
+*** Source
+[cite:@InvertibleMatrix2022]
+#+print_bibliography:

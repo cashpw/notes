@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@smithWriteCodeNotTooMuchMostlyFunctions]
+:ID:       163d0358-3196-4842-94ce-ffb2c22465be
+:LAST_MODIFIED: [2022-11-29 Tue 16:39]
+:END:
+#+title: Brandon Smith | Write Code. Not Too Much. Mostly Functions.
+#+hugo_custom_front_matter: :slug "163d0358-3196-4842-94ce-ffb2c22465be"
+#+author: Cash Weaver
+#+date: [2022-11-16 Wed 14:45]
+#+filetags: :reference:
+
+[[id:66692396-8da1-47a3-ad04-45e0d6a89395][Brandon Smith]], [cite:@smithWriteCodeNotTooMuchMostlyFunctions]
+
+* Summary
+[[id:f029d4ec-6c14-4dbc-9782-3aa92783ae91][Eat food. Not too much. Mostly plants.]], for programming. Plants are, with some room for argument, [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]].
+* Thoughts
+I think this [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][Pareto principle]]-like framing is more helpful than unequivocal statements like "Only write functional codebases."
+
+#+begin_quote
+Of course the qualifier is "mostly": this isn't a dogma. Writing a 100% functional system ("going vegan", if you will) often requires you to jump through a bunch of extra hoops to get all the functionality you need. Looking at it solely from the perspective of health, those extra complications may not be worth it.
+#+end_quote
+
+* Notes
+#+begin_quote
+There's a well-known quote by author Michael Pollan: [[id:f029d4ec-6c14-4dbc-9782-3aa92783ae91][Eat food. Not too much. Mostly plants.]] I like it because it doesn't attempt to be dogmatic: it encapsulates some basic guiding principles that get you 90% of the way there 90% of the time.
+#+end_quote
+** Write code
+** Not too much
+
+#+begin_quote
+Just be aware of your project's "appetite": write what needs to be written, and then try not to over-indulge.
+#+end_quote
+** Mostly functions
+
+#+begin_quote
+By "functions" here I mean "[[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]]". You could make a case that pure functions aren't the "plants" of code, though I feel that they are. In my experience most codebases have a pure functional subset, and I believe writing that subset in a pure-functional style is nearly always a win for the long-term health of the project.
+
+Of course the qualifier is "mostly": this isn't a dogma. Writing a 100% functional system ("going vegan", if you will) often requires you to jump through a bunch of extra hoops to get all the functionality you need. Looking at it solely from the perspective of health, those extra complications may not be worth it.
+
+And then different projects have different needs: just as an athlete may need a larger percentage of protein, or individuals may have certain nutrient deficiencies, a project may only have a very small functional subset, or may not be able to afford to return new values each time due to data size or performance-sensitivity. There's nothing wrong with that.
+#+end_quote
+** "Real code"
+
+#+begin_quote
+Pollan later qualifies his snappy statement a bit further:
+
+"He contends that most of what Americans now buy in supermarkets, fast food stores, and restaurants is not in fact food, and that a practical tip is to eat only those things that people of his grandmother's generation would have recognized as food."
+
+At the risk of stretching the analogy, maybe the equivalent is "code only those things that people at a junior level would recognize for what they do". Code in simple, straightforward terms. Don't get too clever, "manufacturing artificial ingredients". Use the primitives that are there, when possible. Write what is simple, and natural, and human.
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

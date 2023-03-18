@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       a5084eae-a2c4-4b9a-b827-6ae594960035
+:LAST_MODIFIED: [2023-03-14 Tue 08:12]
+:ROAM_REFS: [cite:@ChordGeometry2023]
+:END:
+#+title: Chord (Geometry)
+#+hugo_custom_front_matter: :slug "a5084eae-a2c4-4b9a-b827-6ae594960035"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 16:25]
+#+filetags: :concept:
+
+#+begin_quote
+A chord of a circle is a straight line segment whose endpoints both lie on a circular arc. The infinite line extension of a chord is a secant line [[[id:a1a0a03b-2d39-4119-bbec-e32ed8e6852e][Secant line]]], or just secant. More generally, a chord is a line segment joining two points on any curve, for instance, an ellipse.
+
+[...]
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chord_in_mathematics.svg/1024px-Chord_in_mathematics.svg.png @ 2023-01-27 16:27:18
+[[file:2023-01-27_16-27-18_1024px-Chord_in_mathematics.svg.png]]
+
+The red segment BX is a chord (as is the diameter segment AB).
+
+[cite:@ChordGeometry2023]
+#+end_quote
+
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:26]
+:FC_CREATED: 2023-01-28T00:26:50Z
+:FC_TYPE:  double
+:ID:       d11c4f44-1c7a-4b32-a6eb-2c16808759aa
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    44.56 | 2023-04-18T04:43:23Z |
+| back     | 2.80 |   5 |    42.00 | 2023-04-25T15:06:09Z |
+:END:
+
+[[id:a5084eae-a2c4-4b9a-b827-6ae594960035][Chord (Geometry)]]
+
+*** Back
+A line segment joining any two points on any curve.
+*** Source
+[cite:@ChordGeometry2023]
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:27]
+:FC_CREATED: 2023-01-28T00:28:11Z
+:FC_TYPE:  double
+:ID:       a4d7207a-fb6d-4eac-8954-9e7d6812bad1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.94 | 2023-04-12T12:17:04Z |
+| back     | 2.80 |   5 |    47.66 | 2023-04-26T18:36:11Z |
+:END:
+
+[[id:a5084eae-a2c4-4b9a-b827-6ae594960035][Chord (Geometry)]]
+
+*** Back
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chord_in_mathematics.svg/1024px-Chord_in_mathematics.svg.png @ 2023-01-27 16:27:18
+[[file:2023-01-27_16-27-18_1024px-Chord_in_mathematics.svg.png]]
+#+end_quote
+
+The red line.
+*** Source
+[cite:@ChordGeometry2023]
+#+print_bibliography:

@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       244280a6-947c-4c8e-91b7-197f6856f79b
+:ROAM_REFS: [cite:@HypoxiaMedical2023]
+:LAST_MODIFIED: [2023-03-17 Fri 09:16]
+:END:
+#+title: Hypoxia
+#+hugo_custom_front_matter: :slug "244280a6-947c-4c8e-91b7-197f6856f79b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-25 Sat 11:29]
+#+filetags: :concept:
+
+#+begin_quote
+Hypoxia is a condition in which the body or a region of the body is deprived of adequate oxygen supply at the tissue level.
+
+[cite:@HypoxiaMedical2023]
+#+end_quote
+
+#+begin_quote
+For best protection, you are encouraged to use supplemental oxygen above [3 kilometers, or] 10,000 feet MSL [[[id:7e950603-75ef-4f19-9536-1410fccdd210][MSL]]].
+
+[cite:@AeromedicalSafetyBrochuresFederalAviationAdministration]
+#+end_quote
+
+* Flashcards
+** Hypoxia :fc:
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 11:30]
+:FC_CREATED: 2023-02-25T19:31:01Z
+:FC_TYPE:  vocab
+:ID:       1a19addf-7dde-4a0f-b408-0c0432c89507
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    14.17 | 2023-03-24T07:17:43Z |
+| back     | 2.65 |   4 |    15.92 | 2023-03-27T03:22:54Z |
+:END:
+
+#+begin_quote
+[...] is a condition in which the body or a region of the body is deprived of adequate oxygen supply at the tissue level.
+#+end_quote
+
+*** Source
+[cite:@HypoxiaMedical2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 11:31]
+:FC_CREATED: 2023-02-25T19:39:05Z
+:FC_TYPE:  cloze
+:ID:       5550c9f9-3782-42f2-8a4e-6d423b4e4cd4
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   4 |    15.74 | 2023-03-25T20:56:56Z |
+:END:
+
+For best protection, you are encouraged to use supplemental oxygen above {{3 kilometers, or 10,000 feet, MSL}{altitude}@0}.
+
+*** Source
+[cite:@AeromedicalSafetyBrochuresFederalAviationAdministration]
+#+print_bibliography:

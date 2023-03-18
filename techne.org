@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       ac29367f-9461-4746-9cee-7995818fc894
+:ROAM_REFS: [cite:@Techne2022]
+:LAST_MODIFIED: [2023-01-10 Tue 08:18]
+:END:
+#+title: Techne
+#+hugo_custom_front_matter: :slug "ac29367f-9461-4746-9cee-7995818fc894"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-09 Mon 07:52]
+#+filetags: :concept:
+
+#+begin_quote
+In philosophy, techne is a term that refers to making or doing, which in turn is derived from the Proto-Indo-European root "Teks-" meaning "to weave," also "to fabricate". As an activity, technē is concrete, variable, and context-dependent. The term resembles the concept of epistēmē [[[id:dc7e525e-967c-48e5-b1c5-d83394571cb5][Episteme]]]in the implication of knowledge of principles, in that "both words are names for knowledge in the widest sense." However, the two are distinct.
+#+end_quote
+
+Related: [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]
+
+* Flashcards
+** Definition :suspended:fc:
+:PROPERTIES:
+:CREATED: [2023-01-09 Mon 07:54]
+:FC_CREATED: 2023-01-09T15:57:09Z
+:FC_TYPE:  double
+:ID:       1208eeb7-810f-4a70-994c-8a6f1f51d766
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   0 |     0.00 | 2023-01-10T16:13:54Z |
+| back     |  2.5 |  -1 |        0 | 2023-01-09T15:57:09Z |
+:END:
+
+[[id:ac29367f-9461-4746-9cee-7995818fc894][Techne]]
+
+*** Back
+- Refers to knowledge in the context of making or doing
+*** Source
+[cite:@Techne2022]
+#+print_bibliography:

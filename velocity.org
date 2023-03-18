@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       cd489e76-6e0a-45f7-a8d0-e197989fb436
+:ROAM_REFS: [cite:@Velocity2022]
+:LAST_MODIFIED: [2023-03-11 Sat 16:25]
+:END:
+#+title: Velocity
+#+hugo_custom_front_matter: :slug "cd489e76-6e0a-45f7-a8d0-e197989fb436"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 15:44]
+#+filetags: :concept:
+
+#+begin_quote
+Velocity is the directional speed of an object in motion as an indication of its rate of change in position as observed from a particular frame of reference and as measured by a particular standard of time (e.g. 60 km/h northbound).
+
+[cite:@Velocity2022]
+#+end_quote
+
+* Instantaneous velocity
+:PROPERTIES:
+:ID:       4fc5eaaa-c1b7-4d77-a763-ef0fe7824e15
+:END:
+
+#+begin_quote
+If we consider $v$ as velocity and $x$ as the displacement (change in position) vector, then we can express the (instantaneous) velocity of a particle or object, at any particular time $t$, as the derivative of the position with respect to time:
+
+$\boldsymbol {v}}=\lim _{{\Delta t}\to 0}{\frac {\Delta {\boldsymbol {x}}}{\Delta t}}={\frac {d{\boldsymbol {x}}}{dt}}$
+
+[cite:@Velocity2022]
+#+end_quote
+
+See [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 15:48]
+:FC_CREATED: 2023-01-27T23:50:24Z
+:FC_TYPE:  double
+:ID:       8b56ccb0-ce0d-4642-b959-bab0544cb112
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    46.04 | 2023-04-25T03:53:04Z |
+| back     | 2.50 |   5 |    38.94 | 2023-04-19T22:53:56Z |
+:END:
+
+[[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]]
+
+*** Back
+- The directional speed of an object
+- The rate of change in its position as observed from a particular frame of reference and as measured by a particular standard of time
+*** Source
+[cite:@Velocity2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 15:50]
+:FC_CREATED: 2023-01-27T23:51:36Z
+:FC_TYPE:  cloze
+:ID:       f429e7e8-9f61-4896-b855-0bb798086ee2
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    47.62 | 2023-04-25T09:21:37Z |
+:END:
+
+{{Speed and direction}@0} define velocity.
+
+*** Source
+[cite:@Velocity2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 15:51]
+:FC_CREATED: 2023-01-27T23:53:21Z
+:FC_TYPE:  cloze
+:ID:       a9a57007-1d7e-47e1-a31a-29dea0510796
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    38.50 | 2023-04-03T15:59:38Z |
+|        1 | 2.80 |   5 |    41.32 | 2023-04-16T01:06:32Z |
+:END:
+
+{{[[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]] ($v$)}@0} $=$ {{$\lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}$}@1}
+
+*** Source
+[cite:@Velocity2022]
+#+print_bibliography:

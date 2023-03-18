@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       5d8f2b24-1889-45ee-8613-07f7bc0f2db2
+:LAST_MODIFIED: [2023-02-16 Thu 19:40]
+:END:
+#+title: Authoritarian followers place "being normal" substantially higher than most people do
+#+hugo_custom_front_matter: :slug "5d8f2b24-1889-45ee-8613-07f7bc0f2db2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 09:19]
+#+filetags: :quote:
+#+begin_quote
+The low [Right-Wing Authoritarianism (RWA)] say they'd like to be low RWAs. So do the middles. But the highs usually say they want to be middles, not lows. I thought this happened because highs often dislike the people who would score low on the RWA scale, and that may be part of the explanation.. But I also discovered that if you ask subjects to rank the importance of various values in life, authoritarian followers place "being normal" substantially higher than most people do.
+
+[cite:@altemeyerAuthoritarians]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Authoritarian followers place "being normal" {{substantially higher}{relative importance}@0} than most people. :fc:
+:PROPERTIES:
+:ID:       3f1c62d8-017b-4228-8447-0beb289f3999
+:ANKI_NOTE_ID: 1656856891007
+:FC_CREATED: 2022-07-03T14:01:31Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   280.90 | 2023-11-25T01:17:44Z |
+:END:
+*** Extra
+*** Source
+[cite:@altemeyerAuthoritarians]
+
+
+
+#+print_bibliography:

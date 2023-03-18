@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       0a6024cd-4c95-4335-bda1-cbcadae8f40e
+:LAST_MODIFIED: [2023-01-03 Tue 08:44]
+:END:
+#+title: Wainscoating
+#+hugo_custom_front_matter: :slug "0a6024cd-4c95-4335-bda1-cbcadae8f40e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 11:14]
+#+filetags: :concept:
+* Flashcards
+** Image :fc:
+:PROPERTIES:
+:ID:       b829ef38-21c0-4987-9a86-a92fa2e6772c
+:ANKI_NOTE_ID: 1656854712052
+:FC_CREATED: 2022-07-03T13:25:12Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   120.23 | 2023-03-27T23:52:17Z |
+| back     | 2.20 |   7 |   126.24 | 2023-05-09T22:30:51Z |
+:END:
+
+[[id:0a6024cd-4c95-4335-bda1-cbcadae8f40e][Wainscoating]]
+
+*** Back
+#+DOWNLOADED: https://empire-s3-production.bobvila.com/slides/44030/vertical_slide_wide/1.jpg?1629928093 @ 2022-09-22 09:10:29
+[[file:wainscoating.jpeg]]

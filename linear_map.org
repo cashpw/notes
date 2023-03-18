@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ID:       f68f9024-150b-404f-9c9c-54fe8b720e53
+:LAST_MODIFIED: [2023-03-18 Sat 06:31]
+:END:
+#+title: Linear map
+#+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 09:45]
+#+filetags: :has_todo:concept:
+* TODO [#3]
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       78023dc6-ef34-4197-8d2e-a3681b1ab814
+:ANKI_NOTE_ID: 1640627854897
+:FC_CREATED: 2021-12-27T17:57:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.85 |   7 |    86.82 | 2023-05-26T00:21:15Z |
+| front    | 2.65 |   8 |   314.14 | 2024-01-21T18:29:29Z |
+:END:
+
+Linear map
+
+*** Back
+A mapping, $V \to W$, between two modules (eg: vector spaces) which preserve the operations of addition and scalar multiplication.
+
+*** Source
+[cite:@LinearMap2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       791a1eed-a4ff-4e59-8bd2-35a00f6a9e4e
+:ANKI_NOTE_ID: 1640628533125
+:FC_CREATED: 2021-12-27T18:08:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  10 |   140.50 | 2023-03-26T04:55:40Z |
+|        1 | 2.50 |  10 |   287.02 | 2023-11-03T17:31:54Z |
+|        2 | 2.35 |   8 |   282.56 | 2023-12-21T04:26:57Z |
+:END:
+
+- {{Linear map}@0}
+- {{Linear transformation}@1}
+- {{Homomorphism}@2}
+
+*** Source
+[cite:@DegreePolynomial2022]
+** A $n \times m$ matrix represents a linear map with a {{m}@0}-dimensional domain. :fc:
+:PROPERTIES:
+:ID:       eedeb3fa-c5ad-4248-abbb-1b54124c4fbb
+:ANKI_NOTE_ID: 1640627795248
+:FC_CREATED: 2021-12-27T17:56:35Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   9 |   359.46 | 2024-02-13T05:42:18Z |
+:END:
+
+*** Extra
+$M_{n \times m}$ describes $f: \mathbb{R}^m \to \mathbb{R}^n$
+
+*** Source
+[cite:@LinearMap2022]
+** A $n \times m$ matrix represents a linear map with a {{n}@0}-dimensional codomain. :fc:
+:PROPERTIES:
+:ID:       666a459f-b83a-49ed-814c-567378d885ce
+:ANKI_NOTE_ID: 1640627795370
+:FC_CREATED: 2021-12-27T17:56:35Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   160.15 | 2023-04-28T20:01:30Z |
+:END:
+
+*** Extra
+$M_{n \times m}$ describes $f: \mathbb{R}^m \to \mathbb{R}^n$
+
+*** Source
+[cite:@LinearMap2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       7a7e2d78-f8e5-470c-9616-84ec2e0020c6
+:ANKI_NOTE_ID: 1640627863023
+:FC_CREATED: 2021-12-27T17:57:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   5 |    41.65 | 2023-04-29T05:02:18Z |
+| front    | 2.65 |   8 |   153.85 | 2023-03-23T22:05:57Z |
+:END:
+
+Nullity
+
+*** Back
+The dimension of the null space of a linear map.
+
+*** Source
+[cite:@RankNullityTheorem2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       f2c9b006-514d-4119-8104-3a61c0bf929b
+:ANKI_NOTE_ID: 1640627856293
+:FC_CREATED: 2021-12-27T17:57:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   295.35 | 2023-10-31T23:12:04Z |
+| front    | 2.65 |   8 |   157.03 | 2023-05-06T17:32:39Z |
+:END:
+
+The kernel of a linear map
+
+*** Back
+The set of vectors in the domain, $V$, which are mapped to the zero vector in the codomain, $W$.
+
+*** Extra
+$ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
+
+*** Source
+[cite:@KernelLinearAlgebra2022]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       3b9b9ec5-9755-4a30-bf1f-698c1c9e7e06
+:ANKI_NOTE_ID: 1640628537403
+:FC_CREATED: 2021-12-27T18:08:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   310.04 | 2023-12-01T18:01:14Z |
+|        1 | 2.05 |   3 |     6.00 | 2023-03-19T14:31:49Z |
+:END:
+
+- {{Kernel of a linear map}@0}
+- {{Null space}@1}
+
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:ID:       a339b263-556f-4b89-ab2c-b473e3a84384
+:ANKI_NOTE_ID: 1640628568175
+:FC_CREATED: 2021-12-27T18:09:28Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   243.32 | 2023-09-02T23:01:15Z |
+|        1 | 2.80 |   8 |   298.21 | 2023-11-11T07:12:22Z |
+:END:
+
+- {{$\mathcal{L}(V, W)$}@0}
+
+{{The set of all linear maps between the vector spaces $V$ and $W$.}@1}
+
+*** Source
+[cite:@LinearMap2022]
+#+print_bibliography:

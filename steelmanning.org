@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       057b0009-21be-4e62-9a0b-1166c8002d07
+:LAST_MODIFIED: [2023-03-14 Tue 08:15]
+:ROAM_ALIASES: "Steel man"
+:END:
+#+title: Steelmanning
+#+hugo_custom_front_matter: :slug "057b0009-21be-4e62-9a0b-1166c8002d07"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-10 Tue 11:17]
+#+filetags: :concept:
+
+#+begin_quote
+[A good] steel man argument (or steelmanning) is the opposite of a straw man [[[id:81546002-b401-4c6c-ae23-ebab290a72a9][Straw man]]] argument. Steelmanning is the practice of addressing the strongest form of "the other person's argument [(the steel man argument)], even if it's not the one they presented".
+
+[cite:@StrawMan2023]
+#+end_quote
+
+However, not all steel men are created equally:
+
+#+begin_quote
+Others, however, have argued against steelmanning because it still changes the argument given and can result in strawmanning. As a result, the steelman argument might be met with "Hey, I didn't mean that". Others have pointed toward the frequency with which people misinterpret the beliefs of others and how said misinterpretations are condescending. Karnofsky noted that he dislikes engaging with steelman arguments as they "rarely resemble his actual views".
+
+[cite:@StrawMan2023]
+#+end_quote
+
+#+begin_quote
+If I were an ungenerous person, I'd say that "steelmanning" was about gamesmanship all along: Present what you claim is the "strongest version" of your opponent's argument, and you can create the impression that even their best isn't very good.
+
+[cite:@blakestaceyprimeIfWereUngener2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:19]
+:FC_CREATED: 2023-01-30T03:20:58Z
+:FC_TYPE:  double
+:ID:       13d4ef0a-dc1f-468c-8103-e0c28ed2d8f4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    50.11 | 2023-04-29T05:37:45Z |
+| back     | 2.80 |   5 |    49.33 | 2023-05-02T23:12:56Z |
+:END:
+
+[[id:057b0009-21be-4e62-9a0b-1166c8002d07][Steelmanning]]
+
+*** Back
+#+begin_quote
+... is the practice of addressing the strongest form of "the other person's argument, even if it's not the one they presented".
+#+end_quote
+
+*** Source
+[cite:@StrawMan2023]
+** Describe
+:PROPERTIES:
+:CREATED: [2023-02-01 Wed 08:32]
+:END:
+
+[[id:057b0009-21be-4e62-9a0b-1166c8002d07][Steelmanning]] (strawmanning)
+
+*** Back
+#+begin_quote
+If I were an ungenerous person, I'd say that "steelmanning" was about gamesmanship all along: Present what you claim is the "strongest version" of your opponent's argument, and you can create the impression that even their best isn't very good.
+#+end_quote
+*** Source
+[cite:@blakestaceyprimeIfWereUngener2022]
+#+print_bibliography:

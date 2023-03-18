@@ -1,0 +1,122 @@
+:PROPERTIES:
+:ID:       575409bd-1bb2-45c0-84a3-63abaa4b899b
+:LAST_MODIFIED: [2023-03-03 Fri 05:57]
+:END:
+#+title: Jarnik's algorithm implementation in Python
+#+hugo_custom_front_matter: :slug "575409bd-1bb2-45c0-84a3-63abaa4b899b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 08:52]
+#+filetags: :concept:
+
+[[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
+#+begin_src python :results output
+from queue import PriorityQueue
+from random import choice
+from typing import Mapping, Optional, TypeVar, Generic, List, Tuple, Any
+from dataclasses import dataclass, field
+from itertools import count
+
+T = TypeVar('T')
+VertexId = int
+EdgeWeight = int
+WeightedEdges = Mapping[VertexId, Mapping[VertexId, EdgeWeight]]
+UnweightedEdges = Mapping[VertexId, List[VertexId]]
+WeightedAdjacencyList = List[Tuple[VertexId, VertexId, EdgeWeight]]
+AdjacencyList = List[Tuple[VertexId, VertexId]]
+
+@dataclass
+class Vertex(Generic[T]):
+    value: T
+    id: VertexId = field(default_factory=count().__next__)
+
+@dataclass(order=True)
+class PrioritizedItem:
+    priority: int
+    item: Any = field(compare=False)
+
+def jarniks_minimum_spanning_tree(edges: WeightedEdges) -> AdjacencyList:
+    """Return a minimum spanning tree for the provided EDGES.
+
+    TODO: Explain arguments
+    TODO: Explain return values"""
+
+    included = set()
+    initial_vertex_id = choice(list(edges.keys()))
+    min_queue = PriorityQueue()
+    adjacency_list = []
+
+    current_id = initial_vertex_id
+    for neighbor_id, edge_weight in [(neighbor_id, edges[current_id][neighbor_id]) for neighbor_id in edges[current_id] if neighbor_id not in included]:
+        print(edge_weight, (current_id, neighbor_id))
+        min_queue.put(PrioritizedItem(priority=edge_weight, item=(current_id, neighbor_id)))
+
+    while not min_queue.empty():
+        prioritizedItem = min_queue.get()
+        vertex_a_id, vertex_b_id = prioritizedItem.item
+        edge_weight = prioritizedItem.priority
+
+        if vertex_a_id in included and vertex_b_id in included:
+            continue
+
+        adjacency_list.append((vertex_a_id, vertex_b_id))
+        included.add(vertex_a_id)
+        included.add(vertex_b_id)
+
+        current_id = vertex_b_id
+        for neighbor_id, edge_weight in [(neighbor_id, edges[current_id][neighbor_id]) for neighbor_id in edges[current_id] if neighbor_id not in included]:
+            min_queue.put(PrioritizedItem(priority=edge_weight, item=(current_id, neighbor_id)))
+
+    return adjacency_list
+
+a = Vertex('a') # 0
+b = Vertex('b') # 1
+c = Vertex('c') # 2
+d = Vertex('d') # 3
+e = Vertex('e') # 4
+f = Vertex('f') # 5
+adjacency_list = [
+    (a.id, b.id, 4),
+    (a.id, c.id, 5),
+    (a.id, e.id, 6),
+    (a.id, f.id, 2),
+    (b.id, c.id, 1),
+    (b.id, d.id, 9),
+    (c.id, d.id, 8),
+    (e.id, f.id, 11),
+]
+edges = {}
+for vertex_a_id, vertex_b_id, edge_weight in adjacency_list:
+    if vertex_a_id not in edges:
+        edges[vertex_a_id] = {}
+    edges[vertex_a_id][vertex_b_id] = edge_weight
+
+    if vertex_b_id not in edges:
+        edges[vertex_b_id] = {}
+    edges[vertex_b_id][vertex_a_id] = edge_weight
+
+print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a,f), (b,c), (c,d)]')
+#+end_src
+
+* Flashcards
+** Implement :fc:implement:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:15]
+:FC_CREATED: 2023-01-17T17:16:37Z
+:FC_TYPE:  normal
+:ID:       69dc69dd-82af-44e3-8fcc-d0359c07ac13
+:FC_BLOCKED_BY:       8c472936-1c0f-4c4a-9474-5a8d84c8e2d1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-02-14T16:28:43Z |
+:END:
+
+Implement [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+
+*** Back
+[[id:575409bd-1bb2-45c0-84a3-63abaa4b899b][Jarnik's algorithm implementation in Python]]
+*** Source
+[cite:@PrimAlgorithm2022]
+#+print_bibliography:

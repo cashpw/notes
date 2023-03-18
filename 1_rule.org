@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       6db3dc17-f091-4c31-ab22-74d8ec0ebb5e
+:LAST_MODIFIED: [2023-01-29 Sun 18:16]
+:END:
+#+title: 1% rule
+#+hugo_custom_front_matter: :slug "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
+#+filetags: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-27 Thu 13:26]
+
+#+begin_quote
+In Internet culture, the 1% rule is a rule of thumb pertaining to participation in an internet community, stating that only 1% of the users of a website add content, while the other 99% of the participants only lurk. Variants include the 1–9–90 rule (sometimes 90–9–1 principle or the 89:10:1 ratio), which states that in a collaborative website such as a wiki, 90% of the participants of a community only consume content, 9% of the participants change or update content, and 1% of the participants add content.
+
+[cite:@RuleInternetCulture2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 07:21]
+:FC_CREATED: 2022-11-07T15:22:49Z
+:FC_TYPE:  double
+:ID:       0fbf38cf-a922-48e4-9e59-7ae7cbff2384
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   117.80 | 2023-05-27T21:23:40Z |
+| back     | 2.50 |   6 |    80.55 | 2023-04-28T08:03:32Z |
+:END:
+
+[[id:6db3dc17-f091-4c31-ab22-74d8ec0ebb5e][1% rule]]
+
+*** Back
+A rule of thumb that only [...]% of the users of a website add content while the other [...]% only lurk.
+*** Source
+[cite:@RuleInternetCulture2021]
+#+print_bibliography:

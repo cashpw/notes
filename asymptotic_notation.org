@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad
+:LAST_MODIFIED: [2022-12-14 Wed 13:53]
+:END:
+#+title: Asymptotic Notation
+#+hugo_custom_front_matter: :slug "adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 09:52]
+#+filetags: :concept:
+
+- [[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big-O notation]]
+- [[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]]
+- [[id:ad8549b5-9c51-48c0-b3e9-462d18827bb4][Big-Omega notation]]
+- [[id:55b432cc-354d-406f-aa49-cb7a50c8d5a2][Big-Theta notation]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       d3439626-492b-4165-836e-efd890096225
+:ROAM_ALIASES: "Connected components"
+:ROAM_REFS: [cite:@ComponentGraphTheory2023]
+:LAST_MODIFIED: [2023-03-11 Sat 16:26]
+:END:
+#+title: Component (Graph theory)
+#+hugo_custom_front_matter: :slug "d3439626-492b-4165-836e-efd890096225"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-28 Sat 13:25]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], a component of an undirected graph [[[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]] is a connected [[[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]]] subgraph that is not part of any larger connected subgraph. The components of any graph partition its vertices into disjoint sets, and are the induced subgraphs of those sets. A graph that is itself connected has exactly one component, consisting of the whole graph. Components are sometimes called connected components.
+
+[cite:@ComponentGraphTheory2023]
+#+end_quote
+
+
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pseudoforest.svg/1280px-Pseudoforest.svg.png @ 2023-01-28 13:27:51
+[[file:2023-01-28_13-27-51_1280px-Pseudoforest.svg.png]]
+
+A graph with three components.
+
+[cite:@ComponentGraphTheory2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:26]
+:FC_CREATED: 2023-01-28T21:27:32Z
+:FC_TYPE:  double
+:ID:       d53329e6-f138-44e6-a9bf-9923f3fe4255
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    45.10 | 2023-04-25T07:39:06Z |
+| back     | 2.80 |   5 |    46.97 | 2023-04-27T23:48:30Z |
+:END:
+
+[[id:d3439626-492b-4165-836e-efd890096225][Component (Graph theory)]]
+
+*** Back
+A connected subgraph that isn't a part of any larger connected subgraph.
+*** Source
+[cite:@ComponentGraphTheory2023]
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 13:27]
+:FC_CREATED: 2023-01-28T21:28:42Z
+:FC_TYPE:  double
+:ID:       9e92835d-9b0f-42ec-8ef8-61430a934168
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    43.29 | 2023-04-15T20:57:16Z |
+| back     | 2.80 |   5 |    43.22 | 2023-04-20T23:56:25Z |
+:END:
+
+[[id:d3439626-492b-4165-836e-efd890096225][Component (Graph theory)]]
+
+*** Back
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pseudoforest.svg/1280px-Pseudoforest.svg.png @ 2023-01-28 13:27:51
+[[file:2023-01-28_13-27-51_1280px-Pseudoforest.svg.png]]
+#+end_quote
+
+*** Source
+[cite:@ComponentGraphTheory2023]
+#+print_bibliography:

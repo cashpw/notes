@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d
+:LAST_MODIFIED: [2023-01-29 Sun 11:00]
+:END:
+#+title: Cooperative interoperability
+#+hugo_custom_front_matter: :slug "22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 10:30]
+#+filetags: :concept:
+
+A form of [[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Interoperability]] wherein the makers of two things cooperate to ensure the things are interoperable.
+
+#+begin_quote
+One of the easiest ways to do this is to adopt a standard: [...] any phone manufacturer that installs a 3.5mm headphone jack allows anyone who buys that phone to plug in anything that has a matching plug, even exotic devices like Stripe's card-readers, which convert your credit-card number to a set of tones that are played into a vendor's phone's headphone jack, to be recognized and re-encoded as numbers by Stripe's app.
+
+[cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 10:34]
+:FC_CREATED: 2022-10-12T17:34:45Z
+:FC_TYPE:  double
+:ID:       f7207363-04a9-459c-a852-779cd291191a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |    91.21 | 2023-04-14T21:37:12Z |
+| back     | 2.50 |   6 |   121.28 | 2023-05-31T01:48:03Z |
+:END:
+
+[[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]
+
+*** Back
+[[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Interoperability]] achieved through intentional cooperation between makers.
+*** Source
+[cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 10:48]
+:FC_CREATED: 2022-10-12T17:49:23Z
+:FC_TYPE:  double
+:ID:       ef5cdbee-9f73-4aea-8a00-ef5c6582e3a4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   125.09 | 2023-05-22T04:25:39Z |
+| back     | 3.10 |   6 |   138.21 | 2023-06-25T08:50:51Z |
+:END:
+
+[[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]
+
+*** Back
+
+- A phone manufacturer adding a 3.5mm headphone jack
+
+*** Source
+** One of the easiest methods for {{[[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]}@0} is {{to adopt a standard}@1}. :fc:
+:PROPERTIES:
+:CREATED: [2022-10-12 Wed 10:50]
+:FC_CREATED: 2022-10-12T17:51:09Z
+:FC_TYPE:  cloze
+:ID:       fee5b6d7-4474-4f88-b1e8-e58bc6bfba53
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    77.98 | 2023-03-26T14:34:40Z |
+|        1 | 2.50 |   6 |    79.60 | 2023-04-15T07:24:27Z |
+:END:
+*** Source
+[cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]
+#+print_bibliography:

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID: 8b9abae7-27f1-40b0-8334-d54f86c71542
+:LAST_MODIFIED: [2023-02-28 Tue 20:14]
+:ROAM_REFS: [cite:@GreedyAlgorithm2022]
+:END:
+#+title: Greedy algorithm
+#+hugo_custom_front_matter: :slug "8b9abae7-27f1-40b0-8334-d54f86c71542"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 11:27]
+#+filetags: :concept:
+
+#+begin_quote
+A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.[1] In many problems, a greedy strategy does not produce an optimal solution, but a greedy heuristic can yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time.
+
+[cite:@GreedyAlgorithm2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       38457fe7-12f9-455f-a318-374d61fbcc12
+:ANKI_NOTE_ID: 1640627813018
+:FC_CREATED: 2021-12-27T17:56:53Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   341.22 | 2024-02-05T09:34:46Z |
+| front    | 2.65 |   8 |   194.58 | 2023-06-08T04:41:39Z |
+:END:
+
+[[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy algorithm]]
+
+*** Back
+Any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.
+
+*** Source
+[cite:@GreedyAlgorithm2022]
+#+print_bibliography:

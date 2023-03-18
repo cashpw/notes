@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
+:DIR:      /home/cashweaver/proj/roam/attachments/92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
+:ROAM_REFS: [cite:@MindfulnessbasedStressReduction2022]
+:ROAM_ALIASES: MBSR
+:LAST_MODIFIED: [2023-02-28 Tue 20:14]
+:END:
+#+title: Mindfulness-based stress reduction
+#+hugo_custom_front_matter: :slug "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
+#+filetags: :concept:
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-03 Fri 05:58]
+
+#+begin_quote
+[...] an eight-week evidence-based program that offers secular, intensive mindfulness training to assist people with stress, anxiety, depression and pain. Developed at the University of Massachusetts Medical Center in the 1970s by Professor Jon Kabat-Zinn, MBSR uses a combination of mindfulness meditation, body awareness, yoga and exploration of patterns of behaviour, thinking, feeling and action.
+
+[cite:@MindfulnessbasedStressReduction2022]
+#+end_quote
+
+- The program has been [[https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction#Evaluation_of_effectiveness][found to be effective]].
+- Some hospitals staff experts who offer a regularly-occurring class.
+- Dave Potter offers a free version in his [[https://palousemindfulness.com/][Palouse Mindfulness program]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][MBSR]] stands for {{[[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]]}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:47]
+:FC_CREATED: 2022-10-28T20:47:45Z
+:FC_TYPE:  cloze
+:ID:       584250cd-72b6-4f1e-907c-fc1aaf4a57b9
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   107.79 | 2023-05-18T11:21:58Z |
+:END:
+
+*** Source
+[cite:@donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlled2021]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-28 Fri 13:58]
+:FC_CREATED: 2022-10-28T21:00:25Z
+:FC_TYPE:  double
+:ID:       5782c8f9-f0cc-4a84-966a-56f1d9137bf3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |   7 |    61.10 | 2023-04-24T17:15:00Z |
+| back     | 2.20 |   6 |    87.54 | 2023-05-27T17:07:02Z |
+:END:
+
+[[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]]
+
+*** Back
+An intensive mindfulness training program to assist people with stress, anxiety, depression, and pain.
+*** Source
+[cite:@MindfulnessbasedStressReduction2022]
+#+print_bibliography:

@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       890be1a5-820c-484e-acfa-16a6115c64c0
+:LAST_MODIFIED: [2023-03-15 Wed 08:05]
+:ROAM_REFS: [cite:@PseudopolynomialTime2022]
+:END:
+#+title: Pseudo-polynomial time
+#+hugo_custom_front_matter: :slug "890be1a5-820c-484e-acfa-16a6115c64c0"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-07 Tue 17:46]
+#+filetags: :concept:
+
+#+begin_quote
+In computational complexity theory, a numeric algorithm runs in pseudo-polynomial time if its running time is a polynomial in the numeric value of the input (the largest integer present in the input)—but not necessarily in the length of the input (the number of bits required to represent it), which is the case for polynomial time algorithms.[1]
+
+[cite:@PseudopolynomialTime2022]
+#+end_quote
+
+#+begin_quote
+In general, the numeric value of the input is exponential in the input length, which is why a pseudo-polynomial time algorithm does not necessarily run in polynomial time with respect to the input length.
+
+[cite:@PseudopolynomialTime2022]
+#+end_quote
+
+For example, the number of integers you can represent with $n$ bits grows exponentially with $n$. You can represent 8 integers using three bits ($000 = 0$, $001 = 1$, $010$ = 2, $\dots$, $111 = 7$), 16 integers with four bits, 32 integers with five bits, etc.
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 18:25]
+:FC_CREATED: 2023-02-08T02:26:26Z
+:FC_TYPE:  double
+:ID:       d3e72a68-87e0-4c1d-ac3e-1fd0c9ca862b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    48.36 | 2023-05-01T23:19:06Z |
+| back     | 2.65 |   4 |    16.20 | 2023-03-18T20:50:51Z |
+:END:
+
+[[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]]
+
+*** Back
+A running time which is polynomial in terms of the numeric value of the input. That is, the $n$ in $\bigo{n^k}$ is the value of the input rather than, as is more common, the length of the input.
+*** Source
+[cite:@PseudopolynomialTime2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 18:26]
+:FC_CREATED: 2023-02-08T02:26:41Z
+:FC_TYPE:  normal
+:ID:       25dfd56a-1e21-4a4c-9991-94dc82b845b2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    43.36 | 2023-04-27T23:44:16Z |
+:END:
+
+[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]] and [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]]
+
+*** Back
+For $\bigo{n^k}$, the $n$ refers to:
+
+- [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]]: The length of the input
+- [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]]: The numeric value of the input
+*** Source
+- [cite:@PseudopolynomialTime2022]
+- [cite:@Complexity2022]
+#+print_bibliography:

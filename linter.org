@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bb5a1f30-1733-41b5-9c34-bcac7f8cb701
+:END:
+#+title: Linter
+#+hugo_custom_front_matter: :slug "bb5a1f30-1733-41b5-9c34-bcac7f8cb701"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 10:05]
+#+startup: overview
+#+filetags: :concept:
+
+#+begin_quote
+Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.
+
+[cite:@LintSoftware2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

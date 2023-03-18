@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@SMARTCriteria2022]
+:ID:       68f0244e-a6f4-42d5-ac41-2d2001987ea3
+:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:END:
+#+title: SMART criteria
+#+hugo_custom_front_matter: :slug "68f0244e-a6f4-42d5-ac41-2d2001987ea3"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 06:59]
+#+filetags: :reference:
+
+SMART goals are:
+
+#+begin_quote
+- Specific – target a specific area
+- Measurable – quantify or at least suggest an indicator of progress
+- Assignable – specify who will do it
+- Realistic – state what results can realistically be achieved, given available resources
+- Time-related – specify when the result(s) can be achieved
+
+[cite:@SMARTCriteria2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 12:05]
+:FC_CREATED: 2022-11-23T20:29:01Z
+:FC_TYPE:  double
+:ID:       a0be6752-7fc6-475f-a5d6-215c1c8bc810
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    58.61 | 2023-04-06T09:36:34Z |
+| back     | 2.65 |   6 |   107.10 | 2023-06-19T17:48:41Z |
+:END:
+
+[[id:68f0244e-a6f4-42d5-ac41-2d2001987ea3][SMART criteria]]
+
+*** Back
+
+#+begin_quote
+- Specific – target a specific area
+- Measurable – quantify or at least suggest an indicator of progress
+- Assignable – specify who will do it
+- Realistic – state what results can realistically be achieved, given available resources
+- Time-related – specify when the result(s) can be achieved
+#+end_quote
+*** Source
+[cite:@SMARTCriteria2022]
+#+print_bibliography:

@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       b37a4585-be03-43ea-a55c-6a5f84e59c77
+:LAST_MODIFIED: [2022-12-14 Wed 13:54]
+:END:
+#+title: Atom
+#+hugo_custom_front_matter: :slug "b37a4585-be03-43ea-a55c-6a5f84e59c77"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 08:31]
+#+filetags: :concept:
+An atom, in [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]], is an indivisible thing. Examples include:
+
+- Numbers (e.g. =12=)
+- Strings (e.g. =foo=)
+- Symbols (e.g. =+= or ='pi=)
+
+#+begin_quote
+This term comes from the historical meaning of the word atom, which means "indivisible". As far as Lisp is concerned, the words we have been using in the lists cannot be divided into any smaller parts and still mean the same thing as part of a program; likewise with numbers and single character symbols like '+'. On the other hand, unlike an ancient atom, a list can be split into parts.
+
+[...]
+
+Technically speaking, a list in Lisp consists of parentheses surrounding atoms separated by whitespace or surrounding other lists or surrounding both atoms and other lists. A list can have just one atom in it or have nothing in it at all. A list with nothing in it looks like this: (), and is called the empty list. Unlike anything else, an empty list is considered both an atom and a list at the same time.
+
+[cite:@LispAtoms]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]) :fc:
+:PROPERTIES:
+:ID:       0eb766ec-9550-4fd9-8d43-f8262feacb2c
+:ANKI_NOTE_ID: 1656857175760
+:FC_CREATED: 2022-07-03T14:06:15Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   350.15 | 2024-01-23T03:44:27Z |
+| front    | 2.35 |   7 |   142.75 | 2023-04-17T08:40:38Z |
+:END:
+[[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]]
+*** Back
+Everything that isn't a list; an indivisible thing. Examples include numbers, strings, symbols, etc.
+*** Source
+[cite:@LispAtoms]
+#+print_bibliography:

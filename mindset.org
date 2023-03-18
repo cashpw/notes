@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783
+:LAST_MODIFIED: [2023-03-10 Fri 21:26]
+:END:
+#+title: Mindset
+#+hugo_custom_front_matter: :slug "2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-14 Fri 09:38]
+#+filetags: :concept:
+
+#+begin_quote
+Mindset is an "established set of attitudes, esp. regarded as typical of a particular group's social or cultural values; the outlook, philosophy, or values of a person; (now also more generally) frame of mind, attitude, [recte: and] disposition." A mindset may also arise from a person's world view or philosophy of life.
+
+A firmly established mindset could create a powerful incentive to adopt or accept prior behaviors, choices, or tools, sometimes referred to as cognitive inertia, or "groupthink." Within these phenomena, it is often difficult to counteract its effects upon analysis and decision making processes.
+
+[cite:@Mindset2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-14 Fri 09:39]
+:FC_CREATED: 2022-10-14T16:40:23Z
+:FC_TYPE:  double
+:ID:       47cae88d-81aa-417b-b5e6-95e377afaf8c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.45 |   8 |    36.20 | 2023-04-16T10:18:55Z |
+| back     | 2.80 |   6 |   109.80 | 2023-06-06T20:59:49Z |
+:END:
+
+[[id:2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783][Mindset]]
+
+*** Back
+- The outlook, philosophy, or values of a person
+- An established set of attitudes which are regarded as typical of a particular group's social or cultural views
+*** Source
+[cite:@Mindset2022]
+#+print_bibliography:

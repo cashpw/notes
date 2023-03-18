@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c4479aee-e895-47dc-ae15-681d1cb34527
+:LAST_MODIFIED: [2022-12-21 Wed 13:56]
+:END:
+#+title: Fibonacci heap
+#+hugo_custom_front_matter: :slug "c4479aee-e895-47dc-ae15-681d1cb34527"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-21 Wed 13:55]
+#+filetags: :has_todo:concept:
+* TODO [#3] Expand :noexport:
+* TODO [#2] Flashcards

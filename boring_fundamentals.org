@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       650501e5-3253-46a2-8795-cf09c86edf16
+:LAST_MODIFIED: [2023-03-14 Tue 08:08]
+:END:
+#+title: Boring fundamentals
+#+hugo_custom_front_matter: :slug "650501e5-3253-46a2-8795-cf09c86edf16"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 13:50]
+#+filetags: :concept:
+
+#+begin_quote
+For any endeavor, there are a set of basic skills needed to build a strong foundation. These are the boring fundamentals:
+
+- Sleeping 8 hours a night, exercising consistently, eating your vegetables.
+- Meditating, reading books, writing for yourself and for your peers.
+- Domain specific fundamentals, like drilling guitar chords, or calculus.
+
+[cite:@stuberMasterBoringFundamentals01BoringFun]
+#+end_quote
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 13:52]
+:FC_CREATED: 2022-11-23T21:53:40Z
+:FC_TYPE:  double
+:ID:       7671e518-82af-4d72-a97e-ec54718bffec
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   101.79 | 2023-05-25T12:37:40Z |
+| back     | 2.95 |   6 |   169.69 | 2023-08-31T07:42:47Z |
+:END:
+
+[[id:650501e5-3253-46a2-8795-cf09c86edf16][Boring fundamentals]]
+
+*** Back
+The set of basic habits, routines, practices, etc, one needs to build a strong foundation. The exact list will vary, but broadly speaking they're things everyone agrees on but nonetheless don't always do.
+*** Source
+[cite:@stuberMasterBoringFundamentals01BoringFun]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 13:53]
+:FC_CREATED: 2022-11-23T21:53:55Z
+:FC_TYPE:  double
+:ID:       174ca9dc-b22c-41bd-9518-0a4b24b5bd3b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    81.96 | 2023-04-26T15:27:48Z |
+| back     | 2.50 |   6 |    75.70 | 2023-05-09T07:38:35Z |
+:END:
+
+[[id:650501e5-3253-46a2-8795-cf09c86edf16][Boring fundamentals]]
+
+*** Back
+- Get 8 hours of sleep a night
+- Exercise
+- [[id:f029d4ec-6c14-4dbc-9782-3aa92783ae91][Eat food. Not too much. Mostly plants.]]
+- Maintain healthy social connections
+*** Source
+[cite:@stuberMasterBoringFundamentals01BoringFun]
+#+print_bibliography:

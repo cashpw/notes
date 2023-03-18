@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       d0894b60-0827-4644-9d21-f6ae9c9e5041
+:ROAM_ALIASES: "Invertible matrix" "Non-degenerate matrix"
+:ROAM_REFS: [cite:@InvertibleMatrix2022]
+:LAST_MODIFIED: [2023-03-09 Thu 18:56]
+:END:
+#+title: Non-singular matrix
+#+hugo_custom_front_matter: :slug "d0894b60-0827-4644-9d21-f6ae9c9e5041"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-24 Wed 08:25]
+#+filetags: :concept:
+
+A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is a \(B\) such that \(AB = BA = I_{n}\).
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** AKA :fc:
+:PROPERTIES:
+:ID:       979e9326-aa2e-443e-91ba-657fbf6e4d15
+:ANKI_NOTE_ID: 1640628537950
+:FC_CREATED: 2021-12-27T18:08:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  12 |   164.84 | 2023-04-22T11:46:54Z |
+|        1 | 2.65 |   8 |   351.40 | 2024-02-24T12:29:32Z |
+|        2 | 2.80 |   8 |   309.67 | 2023-11-19T08:37:55Z |
+:END:
+- {{[[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Non-singular matrix]]}@0}
+- {{[[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Invertible matrix]]}@1}
+- {{[[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Non-degenerate matrix]]}@2}
+*** Source
+[cite:@InvertibleMatrix2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:05]
+:FC_CREATED: 2022-11-22T18:06:14Z
+:FC_TYPE:  double
+:ID:       0a3b800d-320c-48ae-8ee5-fb744ef03b83
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    71.19 | 2023-04-25T18:47:53Z |
+| back     | 2.05 |   6 |    55.68 | 2023-04-03T16:25:31Z |
+:END:
+
+[[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Non-singular matrix]]
+
+*** Back
+A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is a \(B\) such that \(AB = BA = I_{n}\).
+*** Source
+[cite:@InvertibleMatrix2022]
+#+print_bibliography:

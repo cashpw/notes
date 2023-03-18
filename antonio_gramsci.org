@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       8e881515-f969-480f-b101-ea9e3476d723
+:LAST_MODIFIED: [2022-12-14 Wed 13:50]
+:END:
+#+title: Antonio Gramsci
+#+hugo_custom_front_matter: :slug "8e881515-f969-480f-b101-ea9e3476d723"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 14:21]
+#+filetags: :person:
+
+#+begin_quote
+Antonio Francesco Gramsci (22 January 1891 – 27 April 1937) was an Italian Marxist philosopher, journalist, linguist, writer, and politician. He wrote on philosophy, political theory, sociology, history, and linguistics. He was a founding member and one-time leader of the Italian Communist Party. A vocal critic of Benito Mussolini and fascism, he was imprisoned in 1926 where he remained until his death in 1937.
+
+Gramsci wrote more than 30 notebooks and 3,000 pages of history and analysis during his imprisonment. His Prison Notebooks are considered a highly original contribution to 20th-century political theory.
+
+[...]
+
+Gramsci is best known for his theory of [[id:7d74c901-41aa-49f6-b8d4-49ef4286479c][Cultural hegemony]] [...]
+
+[cite:@AntonioGramsci2022]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

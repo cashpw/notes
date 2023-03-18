@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7
+:ROAM_REFS: [cite:@Calculus2023]
+:LAST_MODIFIED: [2023-03-18 Sat 06:37]
+:END:
+#+title: Calculus
+#+hugo_custom_front_matter: :slug "9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 07:53]
+#+filetags: :concept:
+
+#+begin_quote
+Calculus, originally called infinitesimal calculus or "the calculus of infinitesimals", is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.
+
+It has two major branches, differential calculus [[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differential calculus]]] and integral calculus [[[id:61de6a28-e681-45bd-a086-fff5b924354e][Integral calculus]]]; the former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and areas under or between curves. These two branches are related to each other by the fundamental theorem of calculus [[[id:adda1031-550c-4f65-9384-1ee018532adc][Fundamental theorem of calculus]]], and they make use of the fundamental notions of convergence of infinite sequences and infinite series to a well-defined limit.
+
+[cite:@Calculus2023]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 07:56]
+:FC_CREATED: 2023-01-18T15:56:32Z
+:FC_TYPE:  double
+:ID:       c475436d-d9fb-407f-9c54-ca5fd5713833
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    71.95 | 2023-05-29T12:23:29Z |
+| back     | 2.65 |   4 |    17.40 | 2023-03-27T12:35:07Z |
+:END:
+
+Two major branches of [[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]
+
+*** Back
+- [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differential calculus]]
+- [[id:61de6a28-e681-45bd-a086-fff5b924354e][Integral]]
+*** Source
+[cite:@Calculus2023]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 07:58]
+:FC_CREATED: 2023-01-18T15:58:29Z
+:FC_TYPE:  double
+:ID:       f3bf7843-c8b3-4036-b413-b2a66a5e7ea6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    49.59 | 2023-04-18T19:08:49Z |
+| back     | 2.80 |   5 |    42.17 | 2023-04-07T07:55:59Z |
+:END:
+
+[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]
+
+*** Back
+The mathematical study of continuous change.
+*** Source
+[cite:@Calculus2023]
+#+print_bibliography:

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       b14ec1e9-5ac3-4c1a-a309-643515a10d84
+:LAST_MODIFIED: [2023-02-08 Wed 10:35]
+:END:
+#+title: The challenge is to improve yourself
+#+hugo_custom_front_matter: :slug "b14ec1e9-5ac3-4c1a-a309-643515a10d84"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-21 Thu 10:37]
+#+filetags: :quote:
+
+#+begin_quote
+RALPH: Then what will happen to us? There's no trace of my money. My office is gone. What will I do? How will I live?
+
+[[id:82fea329-613f-4398-b416-eca19a5281dd][PICARD]]: This is the twenty fourth century. Material needs no longer exist.
+
+RALPH: Then what's the challenge?
+
+[[id:82fea329-613f-4398-b416-eca19a5281dd][PICARD]]: The challenge, Mister Offenhouse, is to improve yourself. To enrich yourself. Enjoy it.
+
+[cite:@thenextgenerationtranscriptsNeutralZone] 
+#+end_quote
+
+Related: [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Communism]], [[id:a3f583df-ed84-4d4c-abaf-2b39ac4f2777][Meaning of life]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:45]
+:FC_CREATED: 2022-11-18T17:48:03Z
+:FC_TYPE:  double
+:ID:       5bfcdfcc-43cb-4287-91c6-8d66ae061f85
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    75.36 | 2023-04-24T07:28:39Z |
+| back     | 2.50 |   6 |    85.50 | 2023-05-05T06:38:32Z |
+:END:
+
+[[id:b14ec1e9-5ac3-4c1a-a309-643515a10d84][The challenge is to improve yourself]]
+
+*** Back
+The [[id:a3f583df-ed84-4d4c-abaf-2b39ac4f2777][Meaning of life]], in a [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][Post-scarcity society]], is to better ones self
+*** Source
+[cite:@thenextgenerationtranscriptsNeutralZone]
+#+print_bibliography:

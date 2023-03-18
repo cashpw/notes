@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       877f3321-faac-463a-8619-787467251655
+:LAST_MODIFIED: [2023-03-09 Thu 18:50]
+:END:
+#+title: Network effect
+#+hugo_custom_front_matter: :slug "877f3321-faac-463a-8619-787467251655"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 10:43]
+#+filetags: :concept:
+
+#+begin_quote
+In economics, a network effect (also called network externality or demand-side economies of scale) is the phenomenon by which the value or utility a user derives from a good or service depends on the number of users of compatible products. Network effects are typically positive, resulting in a given user deriving more value from a product as more users join the same network. The adoption of a product by an additional user can be broken into two effects: an increase in the value to all other users ( "total effect") and also the enhancement of other non-users' motivation for using the product ("marginal effect").
+
+[cite:@NetworkEffect2022]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:31]
+:FC_CREATED: 2022-11-22T18:32:22Z
+:FC_TYPE:  double
+:ID:       0bc7f1cc-0a2a-457d-9a63-8793a53805fb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   123.01 | 2023-06-27T03:56:29Z |
+| back     | 2.80 |   6 |   130.92 | 2023-07-19T00:50:59Z |
+:END:
+
+[[id:877f3321-faac-463a-8619-787467251655][Network effect]]
+
+*** Back
+Situation in which the value or utility which a user derives from a good or service depends on the number of users of compatible products.
+*** Source
+[cite:@NetworkEffect2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:32]
+:FC_CREATED: 2022-11-22T18:33:50Z
+:FC_TYPE:  double
+:ID:       49440c50-c5c4-4e5c-86fd-c46eeb1752b2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   102.30 | 2023-05-26T00:42:45Z |
+| back     | 2.80 |   6 |   122.27 | 2023-07-04T21:50:55Z |
+:END:
+
+[[id:877f3321-faac-463a-8619-787467251655][Network effect]]
+
+*** Back
+The following share a property:
+
+- Social media
+- App stores
+- Language speakers
+*** Source
+[cite:@NetworkEffect2022]
+#+print_bibliography:

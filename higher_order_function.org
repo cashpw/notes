@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       c27e7511-da0f-4a63-91d5-902078d0add5
+:ROAM_REFS: [cite:@HigherorderFunction2022]
+:LAST_MODIFIED: [2023-02-26 Sun 08:02]
+:END:
+#+title: Higher-order function
+#+hugo_custom_front_matter: :slug "c27e7511-da0f-4a63-91d5-902078d0add5"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 09:39]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics and computer science, a higher-order function (HOF) is a function that does at least one of the following:
+
+- takes one or more functions as arguments (i.e. a procedural parameter, which is a parameter of a procedure that is itself a procedure),
+- returns a function as its result.
+
+All other functions are first-order functions. In mathematics higher-order functions are also termed operators or functionals. The differential operator in calculus is a common example, since it maps a function to its derivative, also a function.
+
+[cite:@HigherorderFunction2022]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:40]
+:FC_CREATED: 2023-01-17T17:41:29Z
+:FC_TYPE:  double
+:ID:       c7bd5c67-9f73-4af5-b3e3-582066f66c2a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    39.89 | 2023-03-30T14:45:08Z |
+| back     | 2.80 |   5 |    47.20 | 2023-04-13T08:33:01Z |
+:END:
+
+[[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order function]]
+
+*** Back
+A function which takes function(s) as argument(s) and/or returns a function
+*** Source
+[cite:@HigherorderFunction2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:42]
+:FC_CREATED: 2023-01-17T17:42:31Z
+:FC_TYPE:  cloze
+:ID:       226a3ea9-dc42-4108-af5c-36f90e2e1233
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    48.17 | 2023-04-15T20:13:04Z |
+:END:
+
+Functions which are not [[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order functions]] are {{first-order functions}@0}.
+
+*** Source
+[cite:@HigherorderFunction2022]
+#+print_bibliography:

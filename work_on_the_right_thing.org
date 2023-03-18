@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fa7eb146-fe4a-4a3e-a6df-d9b05328b4f4
+:LAST_MODIFIED: [2023-02-18 Sat 11:00]
+:END:
+#+title: Work on the right thing
+#+hugo_custom_front_matter: :slug "fa7eb146-fe4a-4a3e-a6df-d9b05328b4f4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 09:05]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+It doesn't matter how fast you move if it's in a worthless direction. Picking the right thing to work on is the most important element of productivity and usually almost ignored.
+
+[cite:@altmanProductivity2018]
+#+end_quote
+
+* TODO [#2] Flashcards
+#+print_bibliography:

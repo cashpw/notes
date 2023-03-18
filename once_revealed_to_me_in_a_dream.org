@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       27cb520e-f5d5-45b2-b92e-cde08209beef
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/27cb520e-f5d5-45b2-b92e-cde08209beef
+:LAST_MODIFIED: [2023-02-26 Sun 07:51]
+:END:
+#+title: Once revealed to me in a dream
+#+filetags: :quote:
+#+hugo_custom_front_matter: :slug "27cb520e-f5d5-45b2-b92e-cde08209beef"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-05 Sat 12:50]
+
+#+begin_quote
+This was once revealed to me in a dream.
+
+[[id:ebc6fdaa-ca09-4550-855b-41d4a5a97a14][Nikolai Berdyaev]], [cite:@berdyaevDivineHuman1949]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** This was once revealed to me {{in a dream.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 10:03]
+:FC_CREATED: 2022-11-22T18:04:12Z
+:FC_TYPE:  cloze
+:ID:       095f2f08-51e0-4968-a182-8d61132f8958
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   101.04 | 2023-06-07T16:52:20Z |
+:END:
+
+*** Source
+[cite:@berdyaevDivineHuman1949]
+#+print_bibliography:

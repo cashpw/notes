@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       ef091c65-8db5-40c8-b577-e34b3070143d
+:LAST_MODIFIED: [2023-03-17 Fri 07:11]
+:END:
+#+title: Gadfly
+#+hugo_custom_front_matter: :slug "ef091c65-8db5-40c8-b577-e34b3070143d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-18 Mon 18:41]
+#+filetags: :concept:
+
+#+begin_quote
+A gadfly is a person who interferes with the status quo of a society or community by posing novel, potentially upsetting questions, usually directed at authorities. The term is originally associated with the ancient Greek philosopher Socrates in his defense when on trial for his life.
+
+[cite:@GadflyPhilosophySocialScience2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Gadfly :fc:
+:PROPERTIES:
+:ID:       530028e3-edbc-417f-b128-30703a46fbe9
+:ANKI_NOTE_ID: 1658194957975
+:FC_CREATED: 2022-07-19T01:42:37Z
+:FC_TYPE:  vocab
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  10 |   291.42 | 2024-01-03T00:22:33Z |
+| front    | 2.35 |   6 |    57.30 | 2023-04-19T23:58:50Z |
+:END:
+*** Back
+- An annoying person, especially one who provokes others into action by criticism
+- A person who interferes with the status quo of a society or community by posing novel, potentially upsetting, questions, usually directed at authorities.
+*** Source
+[cite:@GadflyPhilosophySocialScience2022]
+#+print_bibliography:

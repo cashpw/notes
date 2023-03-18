@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       52a7a44e-dbca-4eae-974a-b7185c2c97b7
+:ROAM_ALIASES: "Time decay"
+:LAST_MODIFIED: [2023-03-17 Fri 07:01]
+:END:
+#+title: Theta (finance)
+#+hugo_custom_front_matter: :slug "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 17:40]
+#+filetags: :concept:
+
+#+begin_quote
+[[https://en.wikipedia.org/wiki/Theta_(letter)][Theta]], $\Theta$, measures the sensitivity of the value of the derivative to the passage of time (see [[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Time value (finance)]]]): the "time decay."
+
+$\Theta = - \frac{\partial V}{\partial\tau}$
+
+[...]
+
+The value of an option can be analysed into two parts: the [[id:04af40d8-212f-471a-acb7-8d68aabfa2ed][Intrinsic value (finance)]] and the [[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Time value (finance)]]. The intrinsic value is the amount of money you would gain if you exercised the option immediately, so a call with strike $50 on a stock with price $60 would have intrinsic value of $10, whereas the corresponding put would have zero intrinsic value. The time value is the value of having the option of waiting longer before deciding to exercise. Even a deeply [[https://en.wikipedia.org/wiki/Out_of_the_money][out of the money]] put will be worth something, as there is some chance the stock price will fall below the strike before the expiry date. However, as time approaches maturity, there is less chance of this happening, so the time value of an option is decreasing with time. Thus if you are long an option you are short theta: your portfolio will lose value with the passage of time (all other factors held constant).
+
+[cite:@GreeksFinance2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:03]
+:FC_CREATED: 2022-11-15T17:15:54Z
+:FC_TYPE:  double
+:ID:       cd375d07-95d1-4b87-a82d-dc85e066c50c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    69.38 | 2023-03-29T00:35:37Z |
+| back     | 2.35 |   6 |    78.21 | 2023-04-26T08:48:22Z |
+:END:
+
+[[id:52a7a44e-dbca-4eae-974a-b7185c2c97b7][Theta (finance)]]
+
+*** Back
+- Measures the sensitivity of [[id:7edbf731-5e0c-4eda-9803-1b1a88468f71][Derivative (finance)]]'s value to the passage of time; the "time decay"
+- $\dots = - \frac{\partial V}{\partial\tau}$
+*** Source
+[cite:@GreeksFinance2022]
+** (Finance) {{$\Theta$}@0} $=$ {{$- \frac{\partial V}{\partial\tau}$}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 09:16]
+:FC_CREATED: 2022-11-15T17:16:39Z
+:FC_TYPE:  cloze
+:ID:       54ad04be-d97b-49d7-abf5-10e1ff0cf1f2
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    69.96 | 2023-04-01T13:09:47Z |
+|        1 | 2.20 |   5 |    32.51 | 2023-04-19T02:21:17Z |
+:END:
+
+*** Source
+[cite:@GreeksFinance2022]
+#+print_bibliography:

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       664e547c-e250-4fbf-9050-a245db80c1c4
+:LAST_MODIFIED: [2022-12-14 Wed 13:17]
+:END:
+#+title: Beatrix Potter
+#+hugo_custom_front_matter: :slug "664e547c-e250-4fbf-9050-a245db80c1c4"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 16:34]
+#+filetags: :person:
+
+#+begin_quote
+[...] an English writer, illustrator, natural scientist and conservationist; she was best known for her children's books featuring animals, such as The Tale of Peter Rabbit.
+
+[cite:@BeatrixPotter2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

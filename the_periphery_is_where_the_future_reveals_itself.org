@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       966f6682-54bf-4958-816c-fcd7482ccf79
+:DIR:      /home/cashweaver/proj/roam/attachments/966f6682-54bf-4958-816c-fcd7482ccf79
+:LAST_MODIFIED: [2023-02-13 Mon 06:13]
+:END:
+#+title: The periphery is where the future reveals itself
+#+hugo_custom_front_matter: :slug "966f6682-54bf-4958-816c-fcd7482ccf79"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-14 Mon 09:42]
+#+filetags: :quote:
+
+#+begin_quote
+The periphery is where the future reveals itself.
+
+/J. G. Ballard/, though maybe not
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** The {{periphery}@0} {{is where the future reveals itself}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-16 Wed 09:46]
+:FC_CREATED: 2022-11-16T17:47:51Z
+:FC_TYPE:  cloze
+:ID:       33f7470e-e5dd-4f68-9ebc-a30fbca9eab9
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   106.02 | 2023-05-24T18:48:34Z |
+|        1 | 2.50 |   6 |    81.84 | 2023-05-06T10:21:46Z |
+:END:

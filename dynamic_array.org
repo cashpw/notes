@@ -1,0 +1,126 @@
+:PROPERTIES:
+:ID:       546f4f56-6b59-4160-8d2e-6c5c2ba03ec7
+:END:
+#+title: Dynamic array
+#+hugo_custom_front_matter: :slug "546f4f56-6b59-4160-8d2e-6c5c2ba03ec7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-27 Mon 19:43]
+#+filetags: :concept:
+
+A dynamic array is an extension of the array [[id:738c2ba7-a272-417d-9b6d-b6952d765280][data structure]] which allows for dynamic resizing. Where a traditional array is of a fixed size and represents a contiguous block of memory and cannot grow or shrink, a dynamic array can.
+
+Note that this example implementation won't compile.
+
+#+begin_src java
+import java.lang.Math;
+
+class DynamicArray<T>{
+    private static final int SCALING_FACTOR = 2;
+    private static final int MIN_SIZE = 0;
+    private static final int MAX_SIZE = Math.pow(2, 10);
+
+    private int count;
+    private int size;
+    private T[] array;
+
+    DynamicArray() {
+        this.size = 1;
+        this.array = new T[size];
+    }
+
+    public boolean push(T value) throws ArrayStoreException {
+        if ((count + 1) >= size) {
+            grow();
+        }
+
+        count += 1;
+        array[count+1] = value;
+    }
+
+    public T get(int index) throws ArrayStoreException {
+        if (!indexIsInBounds(index)) {
+            throw new ArrayStoreException("Index out of bounds.");
+        }
+
+        return array[index];
+    }
+
+    public void delete(int index) throws ArrayStoreException {
+        if (!indexIsInBounds(index)) {
+            throw new ArrayStoreException("Index out of bounds.");
+        }
+
+        array = shiftDown(array, size, index);
+        count -= 1;
+
+        if (count * 2 < size) {
+            shrink();
+        }
+    }
+
+    private boolean indexInBounds(int index) {
+        if (size == 0) {
+            return false;
+        }
+
+        return indexInBounds(index, 0, size - 1);
+    }
+
+    private static boolean indexInBounds(int index, int min, int max) {
+        return index >= min && index <= max;
+    }
+
+    /**
+     ,* Copy-shifts all values at and after shiftIndex down the array (to the left).
+     ,*
+     ,* Example:
+     ,*   shiftDown([1, 2, 3, 4, 5], 2) -> [1, 2, 4, 5, 5]
+     ,*   shiftDown([1, 2, 3, 4, 5], 1) -> [1, 3, 4, 5, 5]
+     ,*/
+    private T[] shiftDown(int shiftIndex) {
+        T value = array[size - 1];
+        for (int i = size - 1; i >= shiftIndex; i--) {
+            value = array[i];
+            array[i] = value;
+        }
+    }
+
+    private void grow() throws ArrayStoreException {
+        int nextSize = size * SCALING_FACTOR || 1;
+        if (nextSize > MAX_SIZE) {
+            throw new ArrayStoreException();
+        }
+
+        size = nextSize;
+        array = copyIntoScaled(nextSize, array);
+    }
+
+    private void shrink() throws ArrayStoreException {
+        int nextSize = size / SCALING_FACTOR;
+        if (nextSize < MIN_SIZE) {
+            throw new ArrayStoreException();
+        }
+
+        size = nextSize;
+        array = copyIntoScaled(nextSize, array);
+    }
+
+    private T[] copyIntoScaled(int nextSize) {
+        T[] tempArray = new T[nextSize];
+
+        for (int i = 0; i < size; i++) {
+            target[i] = array[i];
+        }
+
+        return tempArray;
+    }
+}
+#+end_src
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

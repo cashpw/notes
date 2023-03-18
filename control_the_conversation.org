@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       24cb7271-441f-447e-9150-b4f44fc6d947
+:LAST_MODIFIED: [2023-03-17 Fri 07:09]
+:END:
+#+title: Control the conversation
+#+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:08]
+#+filetags: :concept:
+
+- Make sure people are talking about what you want them to talk about and in ways that benefit you.
+- Treat your opponent as if they've already agreed to your position and make the next argument. See [[id:e5db0b54-03b5-417a-a4c8-93001958c410][Presupposition]].
+
+See [[id:c718f301-2099-48b7-bad5-74fdebea137e][Ian Danskin | Control the Conversation]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-10-24T14:02:33Z
+:FC_TYPE:  double
+:ID:       d66e4271-90d8-4e85-9d36-45638cbc147a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   145.00 | 2023-07-05T16:22:34Z |
+| back     | 2.80 |   6 |    99.12 | 2023-05-21T03:08:09Z |
+:END:
+[[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]] as a narrative strategy
+*** Back
+Make sure people are talking about what you want them to talk about and in ways that benefit you.
+*** Source
+[cite:@danskinControlConversation2017]
+** Definition ([[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-10-24T14:02:37Z
+:FC_TYPE:  double
+:ID:       6556da7b-bf1c-4695-8ba6-9166da080867
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   119.16 | 2023-05-13T22:19:18Z |
+| back     | 2.50 |   6 |    72.80 | 2023-04-10T09:19:17Z |
+:END:
+[[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]] as an argument strategy
+*** Back
+Treat your opponent as if they've already agreed to your position and make the next argument. The goal is to have the audience perceive your opponent ([[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]) as conceding every time you move the argument.
+*** Source
+[cite:@danskinControlConversation2017]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       25b0de1c-5482-4387-9dee-6514f6790e2b
+:ANKI_NOTE_ID: 1656856896832
+:FC_CREATED: 2022-07-03T14:01:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |   151.94 | 2023-04-23T00:33:31Z |
+| back     | 2.30 |  10 |   159.29 | 2023-08-02T10:56:46Z |
+:END:
+[[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]]
+*** Back
+- Moving the entire debate to something you and your opponent will never agree on so you can look firm in front of an adversary.
+- [[id:b2575705-10cd-4523-aaa6-153360d7bd07][Moving the goalposts]] toward a subject or mode of conversation in which you can win.
+*** Source
+[cite:@danskinControlConversation2017]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-11 Fri 07:46]
+:FC_CREATED: 2022-11-11T15:46:51Z
+:FC_TYPE:  double
+:FC_BLOCKED_BY:       d66e4271-90d8-4e85-9d36-45638cbc147a,6556da7b-bf1c-4695-8ba6-9166da080867
+:ID:       e4836f32-7af1-4b0c-9bea-eb0b613ea995
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   107.85 | 2023-06-04T23:59:19Z |
+| back     | 2.65 |   6 |   134.91 | 2023-07-30T12:03:21Z |
+:END:
+
+[[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]]
+
+*** Back
+- Make sure people are talking about what you want them to talk about and in ways that benefit you.
+- Treat your opponent as if they've already agreed to your position and make the next argument.
+*** Source
+[cite:@danskinControlConversation2017]
+#+print_bibliography:

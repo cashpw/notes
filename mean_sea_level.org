@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       7e950603-75ef-4f19-9536-1410fccdd210
+:ROAM_ALIASES: MSL
+:LAST_MODIFIED: [2023-03-09 Thu 18:58]
+:ROAM_REFS: [cite:@SeaLevel2023]
+:END:
+#+title: Mean sea level
+#+hugo_custom_front_matter: :slug "7e950603-75ef-4f19-9536-1410fccdd210"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-25 Sat 11:20]
+#+filetags: :concept:
+
+#+begin_quote
+Mean sea level (MSL, often shortened to sea level) is an average surface level of one or more among Earth's coastal bodies of water from which heights such as elevation may be measured.
+
+[cite:@SeaLevel2023]
+#+end_quote
+
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-02-25 Sat 11:24]
+:FC_CREATED: 2023-02-25T19:24:39Z
+:FC_TYPE:  cloze
+:ID:       c17baf7b-0c1b-4c34-951b-8239207044dc
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   4 |    17.08 | 2023-03-25T19:13:55Z |
+|        1 | 2.65 |   4 |    16.20 | 2023-03-26T07:47:55Z |
+:END:
+
+- {{[[id:7e950603-75ef-4f19-9536-1410fccdd210][MSL]]}@0}
+- {{[[id:7e950603-75ef-4f19-9536-1410fccdd210][Mean sea level]]}@1}
+
+*** Source
+[cite:@SeaLevel2023]
+#+print_bibliography:

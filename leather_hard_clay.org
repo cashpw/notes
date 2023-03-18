@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       7358ec53-29b1-4b14-b1b5-20a09e40caf1
+:ROAM_ALIASES: "Leather-hard clay"
+:ROAM_REFS: [cite:@Leatherhard2020]
+:LAST_MODIFIED: [2023-02-26 Sun 08:03]
+:END:
+#+title: Leather-hard
+#+hugo_custom_front_matter: :slug "7358ec53-29b1-4b14-b1b5-20a09e40caf1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-23 Tue 08:48]
+#+filetags: :concept:
+
+#+begin_quote
+In pottery, leather-hard is the condition of a clay or clay body when it has been partially dried to the point where all shrinkage has been completed, and it has a consistency similar to leather of the same thickness as the clay. At this stage, the clay object has approximately 15% moisture content. The clay is still visibly damp (normally a darkish grey, if it began whiteish) but has dried enough to be able to be handled without deformation. The body is able to be gouged or incised without breaking.
+
+[cite:@Leatherhard2020]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:43]
+:FC_CREATED: 2022-11-22T20:44:10Z
+:FC_TYPE:  double
+:ID:       25e051d2-ec71-4aa2-a725-5864fc689558
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    51.89 | 2023-04-05T13:28:33Z |
+| back     | 3.10 |   6 |   129.51 | 2023-07-06T04:22:33Z |
+:END:
+
+[[id:7358ec53-29b1-4b14-b1b5-20a09e40caf1][Leather-hard clay]]
+
+*** Back
+The condition of clay when it has been partially dried to the point where shrinkage is complete.
+*** Source
+[cite:@Leatherhard2020]
+#+print_bibliography:

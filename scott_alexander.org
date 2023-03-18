@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       e7e4bd59-fa63-49a8-bfca-6c767d1c2330
+:DIR:      /home/cashweaver/proj/roam/attachments/e7e4bd59-fa63-49a8-bfca-6c767d1c2330
+:LAST_MODIFIED: [2023-01-17 Tue 10:12]
+:END:
+#+title: Scott Alexander
+#+hugo_custom_front_matter: :slug "e7e4bd59-fa63-49a8-bfca-6c767d1c2330"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:44]
+#+filetags: :has_todo:person:
+
+Author of [[https://slatestarcodex.com/][Slate Star Codex]] and [[https://astralcodexten.substack.com/][Astral Star Codex]].
+
+* TODO [#2] Deep dive on all writings :noexport:
+
+- All of the book reviews
+  - https://slatestarcodex.com/tag/book-review/
+- How many posts are there at this point?
+  - ooh, that's too many posts. Best to find a "top list" by the community around this blog
+
+* TODO [#2] https://astralcodexten.substack.com/p/men-will-literally-have-completely
+* TODO [#2] https://slatestarcodex.com/2020/05/12/studies-on-slack/
+* TODO [#2] Create standalone note?
+
+I've engaged with their writing as much as I have because:
+
+- Their posts have introduced me to concepts and ways of thinking I hadn't previously known about
+- Their writing style is enjoyable to read, for me at least. It feels conversational.
+- They came broadly recommended by groups I had previously frequented (e.g. hackernews)
+
+That said, I want to emphasize both that (1) my enjoyment of /some/ of their work doesn't imply that I agree with their /entire/ body of work and (2) I don't identify with the community they broadly fit into (Rationalists; related: [[id:820021b3-7576-4516-9fe2-51cbfe263ebe][LessWrong]]). I'd say this is true for everything I document in this notebook. The authors I've found which appear to sit beneath the "Rationalist" banner have been the source of a lot of good learning for me:
+
+- [[id:83ed5740-7670-4308-b82b-4bb788978e54][Notice the taste of lotus]]
+- [[id:3bac7cee-9146-45df-be28-bb51ac48be68][Anna Salamon | Humans Are Not Automatically Strategic]]
+- [[id:1bba449a-48eb-479a-be4d-a4d7f8095b6a][Scott Alexander | Meditations On Moloch]]
+- [[id:cce498c6-3fd2-40e1-9aee-fbc273d7fb32][Akrasia]]
+- Etc
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       635d6c87-68fe-4fbf-9462-2d86b0ea7f58
+:LAST_MODIFIED: [2023-03-13 Mon 08:03]
+:ROAM_ALIASES: "Maximum capacity path problem"
+:END:
+#+title: Widest path problem
+#+hugo_custom_front_matter: :slug "635d6c87-68fe-4fbf-9462-2d86b0ea7f58"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 09:17]
+#+filetags: :concept:
+
+#+begin_quote
+In graph algorithms, the widest path problem is the problem of finding a path between two designated vertices [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]] in a weighted graph [[[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]], maximizing the weight of the minimum-weight edge [[[id:7211246e-d3da-491e-a493-e84ba820e63f][Edge]]] in the path. The widest path problem is also known as the maximum capacity path problem. It is possible to adapt most shortest path algorithms to compute widest paths, by modifying them to use the bottleneck distance instead of path length.[1] However, in many cases even faster algorithms are possible.
+
+For instance, in a graph that represents connections between routers in the Internet, where the weight of an edge represents the bandwidth of a connection between two routers, the widest path problem is the problem of finding an end-to-end path between two Internet nodes that has the maximum possible bandwidth.
+
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CPT-Graphs-undirected-weighted.svg/260px-CPT-Graphs-undirected-weighted.svg.png @ 2022-12-22 09:19:43
+[[file:2022-12-22_09-19-43_260px-CPT-Graphs-undirected-weighted.svg.png]]
+
+In this graph, the widest path from Maldon to Feering has bandwidth 29, and passes through Clacton, Tiptree, Harwich, and Blaxhall [40-29-31-40-46 has a minmimum of 29].
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 09:20]
+:FC_CREATED: 2022-12-22T17:21:44Z
+:FC_TYPE:  double
+:ID:       18849afe-8b22-44cd-8b45-3e0a94d1da46
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    58.58 | 2023-04-23T17:42:05Z |
+| back     | 2.65 |   5 |    48.26 | 2023-03-23T22:44:32Z |
+:END:
+
+[[id:635d6c87-68fe-4fbf-9462-2d86b0ea7f58][Widest path problem]]
+
+*** Back
+The problem of finding a path between two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] in a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] which maximizes the minimum [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edge]] weight in the path.
+*** Source
+[cite:@WidestPathProblem2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 09:22]
+:FC_CREATED: 2022-12-22T17:23:56Z
+:FC_TYPE:  cloze
+:ID:       bb0d092e-fbec-4a1c-9fbb-6c024e18336b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    46.93 | 2023-03-20T15:47:55Z |
+|        1 | 2.65 |   6 |   116.27 | 2023-07-07T21:33:42Z |
+:END:
+
+Most algorithms which solve the {{[[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]}@0} can, with modifications, also solve the {{[[id:635d6c87-68fe-4fbf-9462-2d86b0ea7f58][Widest path problem]]}@1}.
+
+*** Source
+[cite:@WidestPathProblem2022]
+#+print_bibliography:

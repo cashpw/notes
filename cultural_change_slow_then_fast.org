@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       00570dba-4371-445c-b5fd-d100828c79b0
+:ROAM_ALIASES: "Culture wars are long wars"
+:LAST_MODIFIED: [2023-02-16 Thu 19:17]
+:END:
+#+title: Cultural change; slow, then fast
+#+hugo_custom_front_matter: :slug "00570dba-4371-445c-b5fd-d100828c79b0"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-10 Tue 14:14]
+#+filetags: :concept:
+
+#+begin_quote
+"How did you go bankrupt?" Bill asked?
+
+"Two ways," Mike said. "Gradually, then suddenly."
+
+[cite:@hemingwaySunAlsoRises2014]
+#+end_quote
+
+Cultural changes are population and generational changes. People don't change their minds -- they're replaced, gradually then suddenly, by younger people.
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 14:18]
+:FC_CREATED: 2023-01-10T22:18:43Z
+:FC_TYPE:  double
+:ID:       f837dc66-e038-49fb-b2b1-0e5e20b26d9b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    47.75 | 2023-03-30T17:49:08Z |
+| back     | 2.95 |   5 |    56.98 | 2023-04-15T02:51:25Z |
+:END:
+
+[[id:00570dba-4371-445c-b5fd-d100828c79b0][Culture wars are long wars]]
+
+*** Back
+Cultural changes are population and generational changes. People don't change their minds -- they're replaced, gradually then suddenly, by younger people.
+*** Source
+[cite:@greerCultureWarsAreLongWars2021]
+#+print_bibliography:

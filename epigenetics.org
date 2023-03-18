@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       dfedabd5-be47-45ba-9182-f509e2f906fe
+:LAST_MODIFIED: [2023-02-26 Sun 08:10]
+:ROAM_REFS: [cite:@Epigenetics2023]
+:END:
+#+title: Epigenetics
+#+hugo_custom_front_matter: :slug "dfedabd5-be47-45ba-9182-f509e2f906fe"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 07:06]
+#+filetags: :concept:
+
+#+begin_quote
+[Colloquially], in its broadest sense, epigenetic can be used to describe anything other than DNA sequence that influences the development of an organism.
+
+[cite:@Epigenetics2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 07:10]
+:FC_CREATED: 2023-01-23T15:11:40Z
+:FC_TYPE:  double
+:ID:       2a2fb107-c607-4335-b790-c666c10859cf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    32.00 | 2023-03-28T03:56:27Z |
+| back     | 2.95 |   5 |    51.30 | 2023-04-18T23:28:08Z |
+:END:
+
+(Colloquially) [[id:dfedabd5-be47-45ba-9182-f509e2f906fe][Epigenetics]]
+
+*** Back
+Anything other than DNA sequence which influences the development of an organism.
+*** Source
+[cite:@Epigenetics2023]
+#+print_bibliography:

@@ -1,0 +1,115 @@
+:PROPERTIES:
+:ID:       af1ca7da-bebf-4161-8162-057cae4a0951
+:ROAM_ALIASES: "Tell all the truth but tell it slant"
+:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:END:
+#+title: Emily Dickinson | Tell all the truth but tell it slant
+#+hugo_custom_front_matter: :slug "af1ca7da-bebf-4161-8162-057cae4a0951"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-22 Tue 07:44]
+#+filetags: :has_todo:poem:
+
+#+begin_verse
+Tell all the truth but tell it slant —
+Success in Circuit lies
+Too bright for our infirm Delight
+The Truth's superb surprise
+As Lightning to the Children eased
+With explanation kind
+The Truth must dazzle gradually
+Or every man be blind —
+#+end_verse
+
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruthTellItSlant2022]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Poem :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-16T03:07:34Z
+:FC_TYPE:  cloze
+:ID:       e5c7ebb6-9d18-43bc-bf69-6e5a205fd14a
+:FC_CLOZE_MAX: 7
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   7 |   149.75 | 2023-07-08T12:52:00Z |
+|        1 | 2.50 |   6 |    82.42 | 2023-04-22T05:30:07Z |
+|        2 | 1.75 |   4 |    11.11 | 2023-03-22T07:58:12Z |
+|        3 | 2.35 |   6 |    73.55 | 2023-05-21T07:36:59Z |
+|        4 | 2.65 |   6 |    98.74 | 2023-06-25T07:30:54Z |
+|        5 | 2.95 |   5 |    46.24 | 2023-03-30T22:09:08Z |
+|        6 | 2.80 |   5 |    40.87 | 2023-03-28T13:05:20Z |
+|        7 | 2.80 |   4 |    18.27 | 2023-03-20T10:51:39Z |
+:END:
+
+[[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
+
+#+begin_verse
+{{Tell all the truth but tell it slant —}@0}
+{{Success in Circuit lies}@1}
+{{Too bright for our infirm Delight}@2}
+{{The Truth's superb surprise}@3}
+{{As Lightning to the Children eased}@4}
+{{With explanation kind}@5}
+{{The Truth must dazzle gradually}@6}
+{{Or every man be blind —}@7}
+#+end_verse
+
+** Poem (full) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-16T17:33:02Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY:       e5c7ebb6-9d18-43bc-bf69-6e5a205fd14a
+:ID:       7f1c767a-9109-4113-a035-b9cfb8dfb117
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-03-23T14:08:58Z |
+:END:
+
+[[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
+
+*** Back
+#+begin_verse
+{{Tell all the truth but tell it slant —}@0}
+{{Success in Circuit lies}@1}
+{{Too bright for our infirm Delight}@2}
+{{The Truth's superb surprise}@3}
+{{As Lightning to the Children eased}@4}
+{{With explanation kind}@5}
+{{The Truth must dazzle gradually}@6}
+{{Or every man be blind —}@7}
+#+end_verse
+
+** TODO [#2] Describe
+
+[[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
+
+*** Back
+- What is the message of the poem?
+- What themes does it explore?
+
+** Source :fc:
+:PROPERTIES:
+:ID:       b4c2b2ae-7cf5-4181-b5eb-12f359a0fc91
+:ANKI_NOTE_ID: 1658344504586
+:FC_CREATED: 2022-07-20T19:15:04Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   7 |   264.71 | 2023-11-04T10:35:50Z |
+:END:
+[[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
+*** Back
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]]
+
+#+print_bibliography:

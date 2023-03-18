@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       8163639a-02be-4d0e-9aad-b2f4c676f125
+:LAST_MODIFIED: [2023-02-15 Wed 08:09]
+:ROAM_REFS: [cite:@Coefficient2022]
+:END:
+#+title: Coefficient
+#+hugo_custom_front_matter: :slug "8163639a-02be-4d0e-9aad-b2f4c676f125"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 09:33]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a coefficient is a multiplicative factor in some term of a polynomial, a series, or an expression; it is usually a number, but may be any expression (including variables such as a, b and c). When the coefficients are themselves variables, they may also be called parameters.
+
+For example, the polynomial $2x^{2}-x+3$ has coefficients 2, −1, and 3, and the powers of the variable $x$ in the polynomial $ax^{2}+bx+c$ have coefficient parameters $a, b, c$.
+
+[cite:@Coefficient2022]
+#+end_quote
+
+* Flashcards
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       2866d037-3a6f-441a-bf2c-5f4ff73a428d
+:ANKI_NOTE_ID: 1640627844674
+:FC_CREATED: 2021-12-27T17:57:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  11 |   253.24 | 2023-10-26T21:53:21Z |
+| front    | 2.20 |   6 |    70.17 | 2023-04-06T18:51:28Z |
+:END:
+
+Coefficient
+
+*** Back
+A multiplicative factor in some term of an expression; usually a number though it can also be another expression.
+
+*** Source
+[cite:@Coefficient2022]
+#+print_bibliography:

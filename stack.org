@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       5ab783c7-9a13-42d2-920d-95f103ac677c
+:LAST_MODIFIED: [2023-03-08 Wed 09:31]
+:END:
+#+title: Stack
+#+hugo_custom_front_matter: :slug "5ab783c7-9a13-42d2-920d-95f103ac677c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 20:24]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a stack is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that serves as a collection of elements, with two main principal operations:
+
+1. Push, which adds an element to the collection, and
+2. Pop, which removes the most recently added element that was not yet removed.
+
+The order in which elements come off a stack gives rise to its alternative name, [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][LIFO]] (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack.
+
+[cite:@StackAbstractDataType2022]
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:suspended:
+:PROPERTIES:
+:ID:       08a00b77-25fe-47cd-9ab9-ccd7956468a9
+:ANKI_NOTE_ID: 1656857181457
+:FC_CREATED: 2022-07-03T14:06:21Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   327.75 | 2024-01-19T11:28:44Z |
+| back     | 2.65 |   6 |   109.96 | 2023-03-06T13:09:11Z |
+:END:
+Common API of a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+*** Back
+- =push=
+- =pop=
+- =peek=
+
+*** Source
+[cite:@StackAbstractDataType2022]
+** A [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]] follows {{[[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][First in, last out]]}{ordering}@0} :fc:
+:PROPERTIES:
+:ID:       c45ef75d-d9fd-49ef-8ed8-d6a09b815a61
+:ANKI_NOTE_ID: 1656857182312
+:FC_CREATED: 2022-07-03T14:06:22Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   136.64 | 2023-04-15T07:15:40Z |
+:END:
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]
+
+
+** Describe ([[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]) :fc:
+:PROPERTIES:
+:ID:       0407a68c-8692-4177-b07d-51ea38dbaef4
+:ANKI_NOTE_ID: 1658619298031
+:FC_CREATED: 2022-07-23T23:34:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   113.42 | 2023-03-23T04:38:04Z |
+| back     | 2.95 |   7 |   270.80 | 2023-12-01T12:37:47Z |
+:END:
+[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+*** Back
+A collection of elements, maintained in [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][Last in, first out]] order, with two main operations:
+
+1. Push: Adds an element to the collection
+2. Pop: Removes the most recently added element
+*** Source
+[cite:@StackAbstractDataType2022]
+#+print_bibliography:

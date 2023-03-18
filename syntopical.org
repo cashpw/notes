@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       984c3205-5964-4fb3-894d-1bea4c5e3c41
+:LAST_MODIFIED: [2023-03-02 Thu 07:51]
+:END:
+#+title: Syntopical
+#+hugo_custom_front_matter: :slug "984c3205-5964-4fb3-894d-1bea4c5e3c41"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-29 Sat 08:37]
+#+filetags: :term:
+
+Syntopical: Referring to a type of analysis in which different works are compared and contrasted.
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       f7f5414b-c613-4e31-bbb9-4e759b98a8e2
+:ANKI_NOTE_ID: 1655819998407
+:FC_CREATED: 2022-06-21T13:59:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   278.81 | 2023-11-23T10:25:09Z |
+| front    | 2.80 |   8 |   338.35 | 2024-02-01T23:23:30Z |
+:END:
+Syntopical
+*** Back
+Referring to a type of analysis in which different works are compared and contrasted.
+*** Extra
+After finishing his syntopical reading of the leaders' speeches, he wrote an essay comparing the language used by Reagan, Carter, Gorbachev, and Qaddafi.
+*** Source
+** Use in a sentence :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-10-29T15:38:04Z
+:FC_TYPE:  normal
+:ID:       877275fd-c098-4320-b686-ada4a5baee2f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   7 |   118.70 | 2023-06-29T08:33:26Z |
+:END:
+
+[[id:984c3205-5964-4fb3-894d-1bea4c5e3c41][Syntopical]]
+
+*** Back
+An example:
+
+After finishing his syntopical reading of the leaders' speeches, he wrote an essay comparing the language used by Reagan, Carter, Gorbachev, and Qaddafi.
+*** Source

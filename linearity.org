@@ -1,0 +1,71 @@
+:PROPERTIES:
+:ID:       5180515a-c694-49fb-ac2e-9718fe501f38
+:ROAM_REFS: [cite:@Linearity2022]
+:LAST_MODIFIED: [2023-03-13 Mon 07:53]
+:ROAM_ALIASES: "Superposition principle"
+:END:
+#+title: Linearity
+#+hugo_custom_front_matter: :slug "5180515a-c694-49fb-ac2e-9718fe501f38"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 09:14]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a linear map or linear function f(x) is a function that satisfies the two properties:[1]
+
+- Additivity [[[id:f6380c56-884c-475d-9a44-d000f2e813d2][Additivity]]]: f(x + y) = f(x) + f(y).
+- Homogeneity [[[id:65f61fff-628e-484a-baf5-785b37f7f28e][Homogeneity]]] of degree 1: f(αx) = α f(x) for all α.
+
+These properties are known as the superposition principle. In this definition, x is not necessarily a real number, but can in general be an element of any vector space.
+
+[cite:@Linearity2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       b71eceb0-db22-4bef-819f-1d9b90492846
+:ANKI_NOTE_ID: 1640627884644
+:FC_CREATED: 2021-12-27T17:58:04Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  15 |   135.65 | 2023-03-19T08:26:33Z |
+| front    | 2.65 |   8 |   239.61 | 2023-10-04T14:31:21Z |
+:END:
+
+[[id:5180515a-c694-49fb-ac2e-9718fe501f38][Superposition principle]]
+
+*** Back
+For all linear systems, the net response caused by two or more stimuli is the sum of the responses that would have been caused by each stimuli individually.
+
+*** Source
+[cite:@SuperpositionPrinciple2022]
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       b0cfeb40-aecf-41cc-8e30-4eea2dd4310c
+:ANKI_NOTE_ID: 1640627864299
+:FC_CREATED: 2021-12-27T17:57:44Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |  12 |   254.32 | 2023-10-19T05:20:05Z |
+| front    | 1.90 |   3 |     6.00 | 2023-03-19T14:53:29Z |
+:END:
+
+[[id:5180515a-c694-49fb-ac2e-9718fe501f38][Linearity]]
+
+*** Back
+A property of a function which satisfies the properties of:
+
+- [[id:f6380c56-884c-475d-9a44-d000f2e813d2][Additivity]]
+- [[id:65f61fff-628e-484a-baf5-785b37f7f28e][Homogeneity]] of degree one.
+
+*** Source
+[cite:@Linearity2022]
+#+print_bibliography:

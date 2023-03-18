@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       9649b104-6092-47f4-ac00-0e92463126cd
+:DIR:      /home/cashweaver/proj/roam/attachments/9649b104-6092-47f4-ac00-0e92463126cd
+:ROAM_ALIASES: "Fallacy of grey"
+:LAST_MODIFIED: [2023-02-07 Tue 14:56]
+:END:
+#+title: Fallacy of gray
+#+hugo_custom_front_matter: :slug "9649b104-6092-47f4-ac00-0e92463126cd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-17 Thu 10:32]
+#+filetags: :concept:
+
+The fallacy of gray is an assertion, in the face of a lack of a clear black and white divide, that the cases are all equally good or bad. The fallacy is that (to continue the color metaphor) each case is a different /shade/ of gray; that some cases are better (for some definition of better) than others.
+
+#+begin_quote
+The Sophisticate: "The world isn't black and white. No one does pure good or pure bad. It's all gray. Therefore, no one is better than anyone else."
+
+The Zetet: "Knowing only gray, you conclude that all grays are the same shade. You mock the simplicity of the two-color view, yet you replace it with a one-color view"
+
+—Marc Stiegler, David's Sling
+
+I don't know if the Sophisticate's mistake has an official name, but I call it the Fallacy of Gray.
+
+[cite:@yudkowskyFallacyGray]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-13 Sun 06:54]
+:FC_CREATED: 2022-11-13T14:54:38Z
+:FC_TYPE:  double
+:ID:       89190b0d-b403-439d-8cfc-06b7b6e4eb4c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    78.97 | 2023-04-16T13:00:04Z |
+| back     | 2.80 |   6 |    93.55 | 2023-05-12T12:10:41Z |
+:END:
+
+[[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of gray]]
+
+*** Back
+The assertion that since nothing is black and white that all things are equal.
+*** Source
+[cite:@yudkowskyFallacyGray]
+#+print_bibliography:

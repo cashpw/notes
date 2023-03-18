@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       dfa2ce8d-63c1-44ad-a16f-52777f4abbac
+:ROAM_ALIASES: FIFO
+:END:
+#+title: First in, first out
+#+hugo_custom_front_matter: :slug "dfa2ce8d-63c1-44ad-a16f-52777f4abbac"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-07 Wed 06:52]
+#+filetags: :concept:
+
+#+begin_quote
+In computing and in systems theory, FIFO is an acronym for first in, first out (the first in is the first out), a method for organizing the manipulation of a data structure (often, specifically a data buffer) where the oldest (first) entry, or "head" of the queue, is processed first.
+
+[cite:@FIFOComputingElectronics2022]
+#+end_quote
+
+Related: [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][Last in, first out]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

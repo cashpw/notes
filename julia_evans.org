@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       46b2dcac-b164-4006-a090-1e2263695748
+:END:
+#+title: Julia Evans
+#+hugo_custom_front_matter: :slug "46b2dcac-b164-4006-a090-1e2263695748"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-21 Thu 17:12]
+#+filetags: :person:
+
+Among other things:
+
+- [[https://jvns.ca][Personal blog and website]] 
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

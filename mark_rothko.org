@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d620c60e-d2e7-41c0-86d2-b9105f81d99c
+:LAST_MODIFIED: [2023-02-18 Sat 10:53]
+:END:
+#+title: Mark Rothko
+#+hugo_custom_front_matter: :slug "d620c60e-d2e7-41c0-86d2-b9105f81d99c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-11 Sun 12:03]
+#+filetags: :has_todo:person:
+
+#+begin_quote
+Mark Rothko (/ˈrɒθkoʊ/), born Markus Yakovlevich Rothkowitz (Russian: Ма́ркус Я́ковлевич Ротко́вич, Latvian: Markuss Rotkovičs; name not Anglicized until 1940; September 25, 1903 – February 25, 1970), was a Latvian-American abstract painter. He is best known for his color field paintings that depicted irregular and painterly rectangular regions of color, which he produced from 1949 to 1970.
+
+[cite:@MarkRothko2022]
+#+end_quote
+
+* TODO [#4] Flashcards
+#+print_bibliography:

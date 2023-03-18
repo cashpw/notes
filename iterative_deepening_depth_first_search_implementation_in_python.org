@@ -1,0 +1,109 @@
+:PROPERTIES:
+:ID:       7c092555-c1f9-4c9d-9d02-c31d8096ce51
+:LAST_MODIFIED: [2023-01-30 Mon 10:01]
+:END:
+#+title: Iterative deepening depth-first-search implementation in Python
+#+hugo_custom_front_matter: :slug "7c092555-c1f9-4c9d-9d02-c31d8096ce51"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-06 Tue 09:32]
+#+filetags: :concept:
+
+An [[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
+#+begin_src python :results output
+from __future__ import annotations
+from typing import TypeVar, Generic, List, Optional, Tuple
+from dataclasses import dataclass
+
+T = TypeVar('T')
+
+@dataclass(frozen=True, eq=True)
+class Vertex(Generic[T]):
+    children: List[Vertex]
+    value: T
+
+    def __hash__(self):
+        return hash(self.value)
+
+def depth_limited_dfs(target: T, root_vertex: Vertex, max_depth: int) -> Tuple[Optional[T], bool]:
+    """Perform a depth-limited depth-first search for the TARGET, starting from ROOT_VERTEX.
+
+    Return a tuple composed of:
+      1. The target, if found, else None
+      2. True if (1) we visited all reachable vertexes or (2) we found the target, else False"""
+    def inner_depth_limited_dfs(target: T, vertex: Vertex, max_depth: int) -> Tuple[Optional[T], bool]:
+        if vertex in visited:
+            return None, True
+        visited.add(vertex)
+
+        if vertex.value == target:
+            return vertex, True
+
+        if max_depth == 0:
+            if any([child not in visited for child in vertex.children]):
+                return None, False
+
+            return None, True
+
+        reached_all_vertexes = True
+        for child in vertex.children:
+            result, reached_all = inner_depth_limited_dfs(target, child, max_depth - 1)
+            reached_all_vertexes = reached_all_vertexes if reached_all is True else False
+            if result is not None:
+                return result, reached_all_vertexes
+
+        return None, reached_all_vertexes
+
+    if max_depth < 0:
+        return None
+
+    visited = set()
+
+    return inner_depth_limited_dfs(target, root_vertex, max_depth)
+
+def iterative_deepening_dfs(target: T, root_vertex: Vertex) -> Optional[T]:
+    reached_all_vertexes = False
+    max_depth = 1
+    while reached_all_vertexes is not True:
+        maybe_vertex, reached_all_vertexes = depth_limited_dfs(target, root_vertex, max_depth)
+
+        if maybe_vertex is not None:
+            return maybe_vertex
+
+        max_depth += 1
+
+    return None
+
+i = Vertex(children=[], value='i')
+h = Vertex(children=[], value='h')
+g = Vertex(children=[], value='g')
+f = Vertex(children=[i], value='f')
+e = Vertex(children=[], value='e')
+d = Vertex(children=[h], value='d')
+c = Vertex(children=[f,g], value='c')
+b = Vertex(children=[d,e], value='b')
+a = Vertex(children=[b,c], value='a')
+
+print(iterative_deepening_dfs('a', a))
+print(iterative_deepening_dfs('b', a))
+print(iterative_deepening_dfs('c', a))
+print(iterative_deepening_dfs('d', a))
+print(iterative_deepening_dfs('e', a))
+print(iterative_deepening_dfs('f', a))
+print(iterative_deepening_dfs('g', a))
+print(iterative_deepening_dfs('h', a))
+print(iterative_deepening_dfs('i', a))
+#+end_src
+
+#+RESULTS:
+: Vertex(children=[Vertex(children=[Vertex(children=[Vertex(children=[], value='h')], value='d'), Vertex(children=[], value='e')], value='b'), Vertex(children=[Vertex(children=[Vertex(children=[], value='i')], value='f'), Vertex(children=[], value='g')], value='c')], value='a')
+: Vertex(children=[Vertex(children=[Vertex(children=[], value='h')], value='d'), Vertex(children=[], value='e')], value='b')
+: Vertex(children=[Vertex(children=[Vertex(children=[], value='i')], value='f'), Vertex(children=[], value='g')], value='c')
+: Vertex(children=[Vertex(children=[], value='h')], value='d')
+: Vertex(children=[], value='e')
+: Vertex(children=[Vertex(children=[], value='i')], value='f')
+: Vertex(children=[], value='g')
+: Vertex(children=[], value='h')
+: Vertex(children=[], value='i')
+
+* Flashcards

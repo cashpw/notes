@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09
+:LAST_MODIFIED: [2023-03-11 Sat 16:29]
+:END:
+#+title: Ask the right questions
+#+hugo_custom_front_matter: :slug "162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-22 Tue 11:41]
+#+filetags: :concept:
+
+A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] strategy which uses questions as tools for achieving goals rather than solely as a way to gather information. The right question is usually, but isn't always, an authentic one.
+
+* Example(s)
+
+- "Isn't that where your brother broke his leg?" as a way to push your friend to reconsider their travel plans.
+- "What are you going to work on today?" as a way for a lead/manager to encourage a report to be forward-thinking in general
+- "Which shoe do you want to put on first?" to a child to re-frame the usual "Please put on your shoes" into a question which lends itself to answers which benefit the parent, see [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][Xanatos gambit]]
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 11:48]
+:FC_CREATED: 2022-11-22T19:49:38Z
+:FC_TYPE:  double
+:ID:       a03629dc-916a-4764-8fbf-a4d4b33cf52d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    66.04 | 2023-04-14T23:40:59Z |
+| back     | 2.50 |   6 |    88.54 | 2023-05-27T17:47:11Z |
+:END:
+
+[[id:162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09][Ask the right questions]]
+
+*** Back
+Questions as a [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] for achieving goals beyond the face value of the question.
+*** Source
+#+print_bibliography:
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 11:49]
+:FC_CREATED: 2022-11-22T19:50:07Z
+:FC_TYPE:  double
+:ID:       9f53ada2-53e1-49cb-9808-a167b368446e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   127.82 | 2023-07-01T23:44:56Z |
+| back     | 2.05 |   4 |    11.92 | 2023-03-23T22:36:06Z |
+:END:
+
+[[id:162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09][Ask the right questions]]
+
+*** Back
+- "Isn't that where your brother broke his leg?" as a way to push your friend to reconsider their travel plans.
+- "What are you going to work on today?" as a way for a lead/manager to encourage a report to be forward-thinking in general
+- "Which shoe do you want to put on first?" to a child to re-frame the usual "Please put on your shoes" into a question which lends itself to answers which benefit the parent, see [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][Xanatos gambit]]
+*** Source

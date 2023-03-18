@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       4cb7f185-7fc0-47aa-8a6a-9454de9a999c
+:ROAM_REFS: [cite:@toobyCoalitionalInstincts] [cite:@lesswrongTribalism] [cite:@Tribalism2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:ROAM_ALIASES: "Coalitional instincts"
+:END:
+#+title: Tribalism
+#+hugo_custom_front_matter: :slug "4cb7f185-7fc0-47aa-8a6a-9454de9a999c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 11:24]
+#+filetags: :concept:
+#+begin_quote
+Tribalism is the state of being organized by, or advocating for, tribes or tribal lifestyles. Human evolution has primarily occurred in small hunter-gatherer groups, as opposed to in larger and more recently settled agricultural societies or civilizations. With a negative connotation and in a political context, tribalism can also mean *discriminatory behavior or attitudes towards out-groups, based on in-group loyalty*.
+
+[cite:@Tribalism2022]
+#+end_quote
+
+#+begin_quote
+Tribalism or Coalitional Instincts is closely connected to the concept of in/out-groups. Coalitional instincts drive humans to act in ways which cause them join, support, defend, and maintain their membership in various coalitions that are defined by sharing a common identity.
+
+[cite:@lesswrongTribalism]
+#+end_quote
+
+#+begin_quote
+Every human—not excepting scientists—bears the whole stamp of the human condition. This includes evolved neural programs specialized for navigating the world of coalitions—teams, not groups. (Although the concept of coalitional instincts has emerged over recent decades, there is no mutually-agreed-upon term for this concept yet.) These programs enable us and induce us to form, maintain, join, support, recognize, defend, defect from, factionalize, exploit, resist, subordinate, distrust, dislike, oppose, and attack coalitions. Coalitions are sets of individuals interpreted by their members and/or by others as sharing a common abstract identity (including propensities to act as a unit, to defend joint interests, and to have shared mental states and other properties of a single human agent, such as status and prerogatives).
+
+Why do we see the world this way? Most species do not and cannot. Even those that have linear hierarchies do not. Among elephant seals, for example, an alpha can reproductively exclude other males, even though beta and gamma are physically capable of beating alpha—if only they could cognitively coordinate. The fitness payoff is enormous for solving the thorny array of cognitive and motivational computational problems inherent in acting in groups: Two can beat one, three can beat two, and so on, propelling an arms race of numbers, effective mobilization, coordination, and cohesion.
+
+Ancestrally, evolving the neural code to crack these problems supercharged the ability to successfully compete for access to reproductively limiting resources. Fatefully, we are descended solely from those better equipped with coalitional instincts. In this new world, power shifted from solitary alphas to the effectively coordinated down-alphabet, giving rise to a new, larger landscape of political threat and opportunity: rival groups or factions expanding at your expense or shrinking as a result of your dominance.
+
+[cite:@toobyCoalitionalInstincts]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 14:43]
+:FC_CREATED: 2022-11-14T22:44:44Z
+:FC_TYPE:  double
+:ID:       d6994dd4-086b-4d60-9bad-8e8e0333c6a6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    89.72 | 2023-05-02T10:36:22Z |
+| back     | 2.50 |   6 |    83.16 | 2023-05-12T21:20:12Z |
+:END:
+
+[[id:4cb7f185-7fc0-47aa-8a6a-9454de9a999c][Tribalism]]
+
+*** Back
+Discriminatory behavior or attitudes towards out-groups based on in-group loyalty
+*** Source
+[cite:@Tribalism2022]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-01-14 Sat 07:39]
+:FC_CREATED: 2023-01-14T15:40:58Z
+:FC_TYPE:  cloze
+:ID:       6680f6ac-8f55-4f49-91da-70f715d538a6
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    43.17 | 2023-03-26T19:29:06Z |
+|        1 | 2.35 |   3 |     6.00 | 2023-03-23T14:10:11Z |
+:END:
+
+- {{[[id:4cb7f185-7fc0-47aa-8a6a-9454de9a999c][Tribalism]]}@0}
+- {{[[id:4cb7f185-7fc0-47aa-8a6a-9454de9a999c][Coalitional instincts]]}@1}
+
+*** Source
+[cite:@lesswrongTribalism]
+#+print_bibliography:

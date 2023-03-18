@@ -1,0 +1,69 @@
+:PROPERTIES:
+:ID:       2fa891f4-effa-4a66-b0a2-bd587103dc14
+:LAST_MODIFIED: [2023-03-03 Fri 05:57]
+:END:
+#+title: Pseudo-polynomial time subset sum problem implementation in Python
+#+hugo_custom_front_matter: :slug "2fa891f4-effa-4a66-b0a2-bd587103dc14"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-03 Fri 06:53]
+#+filetags: :concept:
+
+[[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of a [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]] solution to the [[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+#+begin_src python :results output
+from typing import List, Optional
+
+def subset_sum(target: int, numbers: List[int]) -> Optional[List[int]]:
+    """Return a subset of NUMBERS which sums to TARGET if one exists, else return None."""
+
+    def inner(progression: List[int] = [], i: int = 0) -> Optional[List[int]]:
+        """TODO"""
+        if sum(progression) == target:
+            return progression
+
+        if i >= len(numbers):
+            return None
+
+        progression_without = inner(progression.copy(), i + 1)
+        if progression_without is not None:
+            return progression_without
+
+        progression_with = inner(progression.copy() + [numbers[i]], i + 1)
+        if progression_with is not None:
+            return progression_with
+
+        return None
+
+    return inner()
+
+print(subset_sum(7, [2,4,5]), 'should be [2,5]')
+print(subset_sum(8, [2,4,5]), 'should be None')
+print(subset_sum(11, [2,4,5]), 'should be [2,4,5]')
+print(subset_sum(0, [2,4,5]), 'should be []')
+#+end_src
+
+#+RESULTS:
+: [2, 5] should be [2,5]
+: None should be None
+: [2, 4, 5] should be [2,4,5]
+: [] should be []
+
+* Flashcards
+** Implement :fc:implement:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 15:58]
+:FC_CREATED: 2023-02-07T23:58:49Z
+:FC_TYPE:  normal
+:ID:       4d5f458a-cde2-4f47-9a76-3af6cd8792e9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-02-07T23:58:49Z |
+:END:
+
+[[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time sumbset sum problem implementation in Python]]
+
+*** Back
+[[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time sumbset sum problem implementation in Python]]
+*** Source
+[[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time sumbset sum problem implementation in Python]]

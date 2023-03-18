@@ -1,0 +1,114 @@
+:PROPERTIES:
+:ID:       e6c3a056-5061-4152-8b12-41f001f637a5
+:LAST_MODIFIED: [2023-03-13 Mon 08:01]
+:ROAM_REFS: [cite:@zviSlack]
+:END:
+#+title: Slack
+#+hugo_custom_front_matter: :slug "e6c3a056-5061-4152-8b12-41f001f637a5"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 09:08]
+#+filetags: :concept:
+
+Informally, a surplus which gives one wiggle room. It's usually in the context of time (e.g. Leaving early for an appointment in case of traffic) but could be anything.
+
+#+begin_quote
+Slack: The absence of binding constraints on behavior.
+
+Poor is the person without Slack. Lack of Slack compounds and traps.
+
+Slack means margin for error. You can relax.
+
+Slack allows pursuing opportunities. You can explore. You can trade.
+
+Slack prevents desperation. You can avoid bad trades and wait for better spots. You can be efficient.
+
+Slack permits planning for the long term. You can invest.
+
+Slack enables doing things for your own amusement. You can play games. You can have fun.
+
+Slack enables doing the right thing. Stand by your friends. Reward the worthy. Punish the wicked. You can have a code.
+
+Slack presents things as they are without concern for how things look or what others think. You can be honest.
+
+[cite:@zviSlack]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:23]
+:FC_CREATED: 2023-01-30T03:24:24Z
+:FC_TYPE:  double
+:ID:       6d9561f5-3156-44f6-b886-ab0f56318408
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    38.71 | 2023-04-13T10:26:42Z |
+| back     | 2.65 |   5 |    40.75 | 2023-04-20T23:26:16Z |
+:END:
+
+[[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]
+
+*** Back
+(Informally) A surplus which gives one wiggle room; usually, but not necessarily, referring to time
+*** Source
+[cite:@zviSlack]
+** [[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]] :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:24]
+:FC_CREATED: 2023-01-30T03:25:21Z
+:FC_TYPE:  vocab
+:ID:       617da6c7-ce33-4c64-a056-b9fc19bd3080
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    48.09 | 2023-04-27T05:19:35Z |
+| back     | 2.80 |   5 |    52.15 | 2023-05-04T18:43:10Z |
+:END:
+
+... is the absence of binding constraints on behavior. It is
+
+#+begin_quote
+...: The absence of binding constraints on behavior.
+
+Poor is the person without .... Lack of ... compounds and traps.
+
+... means margin for error. You can relax.
+
+... allows pursuing opportunities. You can explore. You can trade.
+
+... prevents desperation. You can avoid bad trades and wait for better spots. You can be efficient.
+
+... permits planning for the long term. You can invest.
+
+... enables doing things for your own amusement. You can play games. You can have fun.
+
+... enables doing the right thing. Stand by your friends. Reward the worthy. Punish the wicked. You can have a code.
+
+... presents things as they are without concern for how things look or what others think. You can be honest.
+#+end_quote
+
+*** Source
+[cite:@zviSlack]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-29 Sun 19:26]
+:FC_CREATED: 2023-01-30T03:26:27Z
+:FC_TYPE:  cloze
+:ID:       369df491-556d-463a-ae9d-8a14084ce455
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    37.60 | 2023-04-10T04:05:16Z |
+:END:
+
+Lack of {{[[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]}@0} compounds and traps.
+
+*** Source
+[cite:@zviSlack]
+#+print_bibliography:

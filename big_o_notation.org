@@ -1,0 +1,60 @@
+:PROPERTIES:
+:ID:       7ca69182-2f04-4e4a-b426-ec428409d99c
+:LAST_MODIFIED: [2022-12-25 Sun 07:23]
+:END:
+#+title: Big-O notation
+#+hugo_custom_front_matter: :slug "7ca69182-2f04-4e4a-b426-ec428409d99c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 18:40]
+#+filetags: :concept:
+
+Big O notation is denoted with \(\bigo{g(n)}\) and indicates an worst-case asymptotic upper bound. While \(2n^2\) is in \(\bigo{n^9}\), it's preferred to be as precise as possible and state the lowest valid case: \(2n^2 = \bigo{n^2}\).
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       115c4748-9e13-4414-ab7d-50f0e4b09e0b
+:ANKI_NOTE_ID: 1656856940536
+:FC_CREATED: 2022-07-03T14:02:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   204.54 | 2023-07-18T04:22:11Z |
+| front    | 2.50 |   7 |   188.27 | 2023-06-21T00:49:48Z |
+:END:
+[[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big O notation]]
+*** Back
+The set of functions which have a specific asymptotic upper bound.
+*** Extra
+\(O(n)\)
+*** Source
+[cite:@BigNotation2022]
+
+** Denotes (Computer science) :fc:
+:PROPERTIES:
+:ID:       8abe8285-abfc-44b7-91a9-0316c80bb110
+:ANKI_NOTE_ID: 1656856941456
+:FC_CREATED: 2022-07-03T14:02:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   191.20 | 2023-05-26T18:46:19Z |
+|        1 | 2.65 |   7 |   165.21 | 2023-05-02T20:58:34Z |
+:END:
+
+- {{$O(n)$}@0}
+
+{{[[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big O notation]]}@1}
+
+*** Source
+[cite:@BigNotation2022]
+#+print_bibliography:

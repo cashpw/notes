@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       089751fe-6770-4c69-8cb3-699c072a65dd
+:LAST_MODIFIED: [2023-03-13 Mon 07:56]
+:END:
+#+title: Syncretism
+#+hugo_custom_front_matter: :slug "089751fe-6770-4c69-8cb3-699c072a65dd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 15:32]
+#+filetags: :concept:
+
+#+begin_quote
+Syncretism (/ˈsɪŋkrəˌtɪzəm, ˈsɪn-/)[1] is the practice of combining different beliefs and various schools of thought. Syncretism involves the merging or assimilation of several originally discrete traditions, especially in the theology and mythology of religion, thus asserting an underlying unity and allowing for an inclusive approach to other faiths. Syncretism also occurs commonly in expressions of art and culture, known as eclecticism, as well as in politics, known as syncretic politics.
+
+[cite:@Syncretism2022]
+#+end_quote
+
+* Flashcards
+** [[id:089751fe-6770-4c69-8cb3-699c072a65dd][Syncretism]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:33]
+:FC_CREATED: 2022-11-18T23:34:11Z
+:FC_TYPE:  vocab
+:ID:       fbe1ff9d-8fe9-40e5-bb6a-176ac99acbe7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   6 |    45.41 | 2023-04-15T14:16:38Z |
+| back     | 2.35 |   6 |    82.04 | 2023-06-03T15:54:29Z |
+:END:
+
+- The practice of combining different beliefs and schools of thought
+- The assimilation of originally discrete traditions with particular regard to religion and culture
+*** Source
+[cite:@Syncretism2022]
+#+print_bibliography:

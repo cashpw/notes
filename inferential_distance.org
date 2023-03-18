@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       5185ffd0-b643-484a-a69d-85b7579eb38d
+:ROAM_ALIASES: "Inferential gap"
+:ROAM_REFS: [cite:@InferentialDistance]
+:LAST_MODIFIED: [2023-02-26 Sun 07:55]
+:END:
+#+title: Inferential distance
+#+hugo_custom_front_matter: :slug "5185ffd0-b643-484a-a69d-85b7579eb38d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-22 Mon 09:53]
+#+filetags: :concept:
+
+The inferential distance between two people, the teacher and the student, with respect to some concept one is trying to explain is the set of prerequisite knowledge which is (1) necessary to understand the concept and (2) lacked by the student.
+
+* Examples
+- A discussion on gardening requires one be familiar with the concept of life growing, soil, sunlight, heat, etc.
+- A philosophy text defining a set of terms before discussing ideas.
+- Evolution
+  
+  #+begin_quote
+Explaining the evidence for the theory of evolution to a physicist would be easy; even if the physicist didn't already know about evolution, they would understand the concepts of evidence, Occam's razor, naturalistic explanations, and the general orderly nature of the universe. Explaining the evidence for the theory of evolution to someone without a science background would be much harder. Before even mentioning the specific evidence for evolution, you would have to explain the concept of evidence, why some kinds of evidence are more valuable than others, what does and doesn't count as evidence, and so on. This would be unlikely to work during a short conversation.
+
+There is a short inferential distance between you and the physicist; there is a very long inferential distance between you and the person without any science background.
+
+[cite:@InferentialDistance]
+  #+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       4ae26056-bc92-4046-a3b8-80ebd41cf852
+:ANKI_NOTE_ID: 1661188298881
+:FC_CREATED: 2022-09-21T18:23:46Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    81.66 | 2023-03-22T08:40:21Z |
+| back     | 2.35 |   7 |   182.67 | 2023-08-28T08:05:51Z |
+:END:
+
+[[id:5185ffd0-b643-484a-a69d-85b7579eb38d][Inferential distance]]
+
+*** Back
+The set of prerequisite knowledge required to understand a new concept lacked by the learner.
+
+*** Source
+[cite:@InferentialDistance]
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       43491fbd-6238-424e-9c97-595ee6fd20d6
+:ANKI_NOTE_ID: 1661188299334
+:FC_CREATED: 2022-08-22T17:11:39Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   198.21 | 2023-07-25T20:30:37Z |
+| back     | 2.20 |   6 |    80.94 | 2023-03-27T14:06:46Z |
+:END:
+
+[[id:5185ffd0-b643-484a-a69d-85b7579eb38d][Inferential distance]]
+
+*** Back
+- Explaining evolution to a physicist versus someone without a background in science
+*** Source
+[cite:@InferentialDistance]
+#+print_bibliography:

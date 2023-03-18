@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       9ce77447-dc1d-4623-b469-b4bd636e7453
+:ROAM_ALIASES: "Two sum"
+:ROAM_REFS: [cite:@leetcodeTwoSum]
+:LAST_MODIFIED: [2023-03-14 Tue 07:32]
+:END:
+#+title: 2sum
+#+hugo_custom_front_matter: :slug "9ce77447-dc1d-4623-b469-b4bd636e7453"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-07 Tue 15:59]
+#+filetags: :concept:
+
+#+begin_quote
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+[cite:@leetcodeTwoSum]
+#+end_quote
+
+[[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]] is a [[id:9b224cb9-823c-468b-be5d-4431d65d9ee1][Technical interview question]] and a variant of the [[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]].
+
+* Quadratic solution ($\bigo{n^2}$)
+#+begin_src python :results output
+from typing import Optional, List
+
+def two_sum(numbers: List[int], target: int) -> Optional[List[int]]:
+    """Return the two elements in NUMBERS which sum to TARGET; else None."""
+
+    for first in numbers:
+        for second in numbers[1:]:
+            if first + second == target:
+                return [first, second]
+
+    return None
+
+print(two_sum([2,4,5], 7), 'should be [2, 5]')
+print(two_sum([2,4,5], 2), 'should be None')
+#+end_src
+
+#+RESULTS:
+: [2, 5] should be [2, 5]
+: None should be None
+
+* Linear solution ($\bigo{n}$)
+
+The trick is using a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]].
+
+[[id:0d2abc68-9f65-4676-9f62-37b07cb1b86b][2sum linear time solution in Python]]
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 16:12]
+:FC_CREATED: 2023-02-08T00:12:56Z
+:FC_TYPE:  cloze
+:ID:       2955d7d5-f568-49d6-be8b-0e11330c60f5
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    43.48 | 2023-04-27T01:58:12Z |
+:END:
+
+[[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]] can be solved in {{$\bigo{n}$, linear}@0} time.
+
+*** Source
+[[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-02-07 Tue 16:14]
+:FC_CREATED: 2023-02-08T00:14:29Z
+:FC_TYPE:  cloze
+:ID:       29d8969e-75fe-4250-9021-05afe8283fe6
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    50.70 | 2023-04-28T11:14:06Z |
+:END:
+
+The trick to solving [[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]] is {{using a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]]}@0}.
+
+*** Source
+#+print_bibliography:

@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       9032f4f9-c2f4-4af5-9f69-4840c3bbbce8
+:LAST_MODIFIED: [2023-01-09 Mon 06:16]
+:END:
+#+title: A beginning
+#+hugo_custom_front_matter: :slug "9032f4f9-c2f4-4af5-9f69-4840c3bbbce8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 07:03]
+#+filetags: :quote:
+#+begin_quote
+A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows.
+
+[[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Princess Irulan]], [cite:@herbertDune1999]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** A beginning is {{the time for taking the most delicate care that the balances are correct.}@0} [cite:@herbertDune1999] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 11:48]
+:FC_CREATED: 2022-11-23T19:48:51Z
+:FC_TYPE:  cloze
+:ID:       d2cfcec1-eade-4423-a63f-3957224f70cc
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   6 |    54.29 | 2023-04-02T04:56:58Z |
+:END:
+
+*** Source
+[cite:@herbertDune1999]
+#+print_bibliography:

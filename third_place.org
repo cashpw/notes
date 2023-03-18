@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       34fb63b5-5a47-436f-b123-a1d6ffbf4fab
+:ROAM_REFS: [cite:@ThirdPlace2022]
+:LAST_MODIFIED: [2023-03-08 Wed 10:31]
+:END:
+#+title: Third place
+#+hugo_custom_front_matter: :slug "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-12 Wed 19:48]
+#+filetags: :concept:
+
+#+begin_quote
+In sociology, the third place refers to the social surroundings that are separate from the two usual social environments of home ("first place" [[[id:4c7744c9-e283-4a74-9b2f-40f39c6d262e][First place]]]) and the workplace ("second place" [[[id:734b5d37-a342-4dbe-9e6a-e63df297433a][Second place]]]). Examples of third places include churches, cafes, clubs, public libraries, bookstores or parks.
+
+[cite:@ThirdPlace2022]
+#+end_quote
+
+#+begin_quote
+Oldenburg calls one's "first place" the home and the people the person lives with. The "second place" is the workplace—where people may actually spend most of their time. Third places, then, are "anchors" of community life and facilitate and foster broader, more creative interaction. In other words, "your third place is where you relax in public, where you encounter familiar faces and make new acquaintances."
+
+Other scholars have summarized Oldenburg's view of a third place with eight characteristics:
+
+1. Neutral ground
+
+   Occupants of third places have little to no obligation to be there. They are not tied down to the area financially, politically, legally, or otherwise and are free to come and go as they please.
+2. Leveler (a leveling place)
+
+   Third places put no importance on an individual's status in a society. One's socioeconomic status does not matter in a third place, allowing for a sense of commonality among its occupants. There are no prerequisites or requirements that would prevent acceptance or participation in the third place.
+3. Conversation is the main activity
+
+   Playful and happy conversation is the main focus of activity in third places, although it is not required to be the only activity. The tone of conversation is usually light-hearted and humorous; wit and good-natured playfulness are highly valued.
+4. Accessibility and accommodation
+
+   Third places must be open and readily accessible to those who occupy them. They must also be accommodating, meaning they provide for the wants of their inhabitants, and all occupants feel their needs have been fulfilled.
+5. The regulars
+
+   Third places harbor a number of regulars that help give the space its tone, and help set the mood and characteristics of the area. Regulars to third places also attract newcomers, and are there to help someone new to the space feel welcome and accommodated.
+6. A low profile
+
+   Third places are characteristically wholesome. The inside of a third place is without extravagance or grandiosity, and has a homely feel. Third places are never snobby or pretentious, and are accepting of all types of individuals, from various different walks of life.
+7. The mood is playful
+
+   The tone of conversation in third places is never marked with tension or hostility. Instead, third places have a playful nature, where witty conversation and frivolous banter are not only common, but highly valued.
+8. A home away from home
+
+   Occupants of third places will often have the same feelings of warmth, possession, and belonging as they would in their own homes. They feel a piece of themselves is rooted in the space, and gain spiritual regeneration by spending time there.
+
+[cite:@ThirdPlace2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-15 Tue 08:59]
+:FC_CREATED: 2022-11-15T17:00:52Z
+:FC_TYPE:  double
+:ID:       d3531bfc-a0b3-46f3-9124-a454c4e22340
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   104.12 | 2023-06-01T06:15:13Z |
+| back     | 3.10 |   6 |   136.11 | 2023-07-17T16:35:18Z |
+:END:
+
+[[id:34fb63b5-5a47-436f-b123-a1d6ffbf4fab][Third place]]
+
+*** Back
+A place for people to gather which is distinct from home and the workplace.
+*** Source
+[cite:@ThirdPlace2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-12-13 Tue 10:06]
+:FC_CREATED: 2022-12-13T18:06:47Z
+:FC_TYPE:  double
+:ID:       d82d8d6b-16b3-4a7f-b86a-1025b68a22c1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   116.97 | 2023-06-25T14:20:36Z |
+| back     | 2.95 |   6 |   151.48 | 2023-08-07T06:08:26Z |
+:END:
+
+[[id:34fb63b5-5a47-436f-b123-a1d6ffbf4fab][Third place]]
+
+*** Back
+- Barbershops
+- Libraries
+- Parks
+- Coffee shops
+*** Source
+
+#+print_bibliography:

@@ -1,0 +1,115 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]
+:ID:       893aff24-4682-45e6-8d50-e4d55f0aa0cf
+:LAST_MODIFIED: [2023-03-17 Fri 06:55]
+:END:
+#+title: James C. Scott | Seeing like a State
+#+hugo_custom_front_matter: :slug "893aff24-4682-45e6-8d50-e4d55f0aa0cf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-10 Thu 18:24]
+#+filetags: :reference:
+
+[[id:26795f01-3eeb-4cb0-aa43-291a091916ae][James Scott]], [cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]
+
+* Summary
+I can't say for sure whether or not this book is a [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][branch]] or [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]] without having read it in its entirety. However, I've read [[id:e1b0e31a-4039-4b09-8dbd-8c3587562cca][Scott Alexander | Book Review: Seeing Like A State]] and skimmed the book itself. I think the summary does justice to the main thrusts of the book:
+
+- [[id:a66b0533-194f-45a4-92d5-9db81589f715][Truth resists simplicity]]
+- The ills of [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] relate to [[id:94f5d6dd-a97a-45af-be05-4e7096dea51a][High modernism]] and, more generally, the reluctance and/or inability of those in positions of power to [[id:91aae608-44c7-4dd0-94e1-512d5d5263cf][Imagine others complexly]]
+- States impose [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] upon their people, lands, languages, etc, they require it in order to function
+- [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] isn't all bad
+  - People may resist a single system for weights and measures but states which have one are at an advantage over states who don't
+  - A single language enables a cohesive culture within the state (albeit at the expense of the sub-cultures)
+- [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] isn't all good
+  - Loss of local traditions and ways of life
+  - Ineffective practices and programs branded as "perfect" while based on flawed or incomplete information; see [[id:975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5][Chesterton's fence]]
+  - Reduction of human life to a handful of statistics (e.g. Standard Food Units, identical housing, lack of private or [[id:34fb63b5-5a47-436f-b123-a1d6ffbf4fab][Third]] places); see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+  - Enforces a single way of doing X which (1) doesn't allow for different preferences between individuals or groups and (2) doesn't account for how the "best way" of doing X will change over time; doesn't include room to grow, expand, or change over time.
+
+* Thoughts
+I treasure this book for introducing me to the state's (for many definitions of state) perspective in planning and system construction.
+
+* Notes
+#+begin_verse
+OWEN: What is happening?
+YOLLAND: I'm not sure. But I'm concerned about my part in it. It's an eviction of sorts.
+OWEN: We're making a six-inch map of the country. Is there something sinister in that?
+YOLLAND: Not in ...
+OWEN: And we're taking place names that are riddled with confusion and...
+YOLLAND: Who's confused? Are the people confused?
+OWEN: And we're standardising those names as accurately and as sensitively as we can.
+YOLLAND: Something is being eroded.
+
+— Brian Friel, Translations 2.1
+#+end_verse
+
+* Flashcards
+Also see [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]], [[id:94f5d6dd-a97a-45af-be05-4e7096dea51a][High modernism]]
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 10:30]
+:FC_CREATED: 2023-01-10T18:31:45Z
+:FC_TYPE:  double
+:ID:       9437808a-d76e-48fc-ace8-d46b258e2d18
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    44.32 | 2023-03-29T00:01:48Z |
+| back     | 2.95 |   5 |    46.74 | 2023-04-05T08:44:58Z |
+:END:
+
+[[id:893aff24-4682-45e6-8d50-e4d55f0aa0cf][James C. Scott | Seeing like a State]]
+
+*** Back
+A government's ability to govern, collect taxes, raise armies, etc, is greater when its people are legible. Thus, the state imposes [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] on its people: standards for weights and measures, names, land management, languages, etc (see [[id:94f5d6dd-a97a-45af-be05-4e7096dea51a][High modernism]]).
+
+A book which emphasizes the perspective of a governing body on its subjects through [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]], and [[id:94f5d6dd-a97a-45af-be05-4e7096dea51a][High modernism]]
+*** Source
+[[id:893aff24-4682-45e6-8d50-e4d55f0aa0cf][James C. Scott | Seeing like a State]]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 10:31]
+:FC_CREATED: 2023-01-10T18:32:09Z
+:FC_TYPE:  double
+:ID:       489ba3fb-a2eb-4128-a3e3-04661be438f9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    41.10 | 2023-03-24T02:13:36Z |
+| back     | 2.65 |   5 |    37.41 | 2023-03-22T03:44:00Z |
+:END:
+
+Benefits of [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (singular)
+
+*** Back
+- Industrialized agriculture, medicine, etc
+- Human waste treatment and reduction in disease
+- Ability to navigate in an unfamiliar place without a guide
+- Standard weights and measures
+*** Source
+[[id:893aff24-4682-45e6-8d50-e4d55f0aa0cf][James C. Scott | Seeing like a State]]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 10:32]
+:FC_CREATED: 2023-01-10T18:32:29Z
+:FC_TYPE:  double
+:ID:       c4f3e024-5ec3-4c06-836e-740515011c57
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    37.24 | 2023-03-19T22:06:12Z |
+| back     | 2.35 |   6 |    71.44 | 2023-05-28T00:33:55Z |
+:END:
+
+Detriments of [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (singular)
+
+*** Back
+- Loss of local culture, religions, traditions, languages
+- Inability to hide/etc from the eye of the state
+- Standardization leading to a loss of experimentation and small-scale innovation
+*** Source
+[[id:893aff24-4682-45e6-8d50-e4d55f0aa0cf][James C. Scott | Seeing like a State]]
+#+print_bibliography:

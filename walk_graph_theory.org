@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       91be2f5b-d873-4cd0-b7fb-d077329380ad
+:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:END:
+#+title: Walk (Graph theory)
+#+hugo_custom_front_matter: :slug "91be2f5b-d873-4cd0-b7fb-d077329380ad"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 12:00]
+#+filetags: :concept:
+
+#+begin_quote
+A walk is a finite, or infinite, sequence of edges [[[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]] which joins a sequence of vertices [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]].
+
+[cite:@PathGraphTheory2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:00]
+:FC_CREATED: 2022-12-22T20:01:00Z
+:FC_TYPE:  double
+:ID:       15d8ea4f-6f93-43df-b91c-bbf2766bc3a7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   4 |    13.35 | 2023-03-30T22:38:26Z |
+| back     | 2.80 |   5 |    46.99 | 2023-03-21T15:31:41Z |
+:END:
+
+[[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]]
+
+*** Back
+A finite, or infintite, sequence of [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] which join a sequence of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]].
+*** Source
+[cite:@PathGraphTheory2022]
+#+print_bibliography:

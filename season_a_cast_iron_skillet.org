@@ -1,0 +1,130 @@
+:PROPERTIES:
+:ID:       cf234015-e1ce-4689-97c8-e3848e435742
+:LAST_MODIFIED: [2023-03-05 Sun 09:20]
+:END:
+#+title: Season a cast iron skillet
+#+hugo_custom_front_matter: :slug "cf234015-e1ce-4689-97c8-e3848e435742"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-21 Tue 18:51]
+#+filetags: :concept:
+
+#+begin_quote
+The basic idea is this: Smear a food-grade [[id:ed12d1ad-074f-491b-aa65-74926c83a235][Drying oil]] onto a cast iron pan, and then bake it above the oil's smoke point. This will initiate the release of free radicals and polymerization. The more drying the oil, the harder the polymer. So start with the right oil.
+
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+#+end_quote
+
+1. Strip your pan down to the iron
+2. Heat the pan to 200°F (94°C) to ensure it's dry
+3. Pour a little flaxseed[fn:1] oil on the skillet and rub the oil all over with your hands
+4. Wipe the skillet with a paper/cloth towel unitl it looks like there isn't any oil left (there is, just not a visible amount)
+5. Place the skillet in the oven
+6. Set the oven to bake at 500°F (260°C)
+7. Leave the skillet in the oven for 1 hour after it reaches 500°F (260°C)
+8. Turn the oven off
+9. Leave the skillet in the oven for 2 hours and keep the door closed
+10. Repeat 5 times so the skillet has a total of 6 coats
+
+
+#+begin_quote
+If you try this, you will be tempted to use a thicker coat of oil to speed up the process. Don't do it. It just gets you an uneven surface – or worse, baked on drips. Been there, done that. You can't speed up the process. If you try, you'll mess up the pan and have to start over.
+
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+#+end_quote
+* Footnotes
+
+[fn:1] "The seasoning on cast iron is formed by fat polymerization, fat polymerization is maximized with a drying oil, and flaxseed oil is the only drying oil that's edible. From that I deduced that flaxseed oil would be the ideal oil for seasoning cast iron." [cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:08]
+:FC_CREATED: 2022-11-18T23:09:41Z
+:FC_TYPE:  double
+:ID:       520ecfcf-1f04-4084-b81b-a6910f979227
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   153.74 | 2023-08-01T08:48:45Z |
+| back     | 2.80 |   6 |   130.92 | 2023-07-14T15:30:18Z |
+:END:
+
+How to [[id:cf234015-e1ce-4689-97c8-e3848e435742][Season a cast iron skillet]]
+
+*** Back
+1. (optional) Strip your pan down to the iron
+2. Heat the pan to 200°F (94°C) to ensure it's dry
+3. Pour a little flaxseed oil on the skillet and rub the oil all over with your hands
+4. Wipe the skillet with a paper/cloth towel until it looks like there isn't any oil left (there is, just not a visible amount)
+5. Place the skillet in the oven
+6. Set the oven to bake at 500°F (260°C)
+7. Leave the skillet in the oven for 1 hour after it reaches 500°F (260°C)
+8. Turn the oven off
+9. Leave the skillet in the oven for 2 hours and keep the door closed
+10. Repeat 5 times so the skillet has a total of 6 coats
+
+*** Source
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+** Use {{flaxseed oil}{oil}@0} to season cast iron :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 15:10]
+:FC_CREATED: 2022-11-18T23:10:37Z
+:FC_TYPE:  cloze
+:ID:       57a93b4b-9e48-4532-bd7b-3f6595a6a0b6
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   126.70 | 2023-06-23T20:30:15Z |
+:END:
+
+*** Source
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 06:48]
+:FC_CREATED: 2022-11-25T14:50:18Z
+:FC_TYPE:  cloze
+:ID:       b65e8e45-bbb6-4d5f-9903-dde05e744a3e
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   117.89 | 2023-06-22T01:00:23Z |
+|        1 | 2.65 |   5 |    50.88 | 2023-03-20T14:01:59Z |
+:END:
+
+([[id:cf234015-e1ce-4689-97c8-e3848e435742][Season a cast iron skillet]]) Bake the skillet at {{500°}{degrees}@0} for {{1 hour}{time}@1}
+
+*** Source
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-30 Wed 09:24]
+:FC_CREATED: 2022-11-30T17:24:57Z
+:FC_TYPE:  cloze
+:ID:       c75d74ce-ddd7-416a-a2ad-29b4cf2eba08
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    84.10 | 2023-05-01T21:20:14Z |
+|        1 | 2.80 |   6 |   116.05 | 2023-06-21T18:38:16Z |
+:END:
+
+You should [[id:cf234015-e1ce-4689-97c8-e3848e435742][Season a cast iron skillet]] with {{flaxseed oil}@0} because {{it is the only edible [[id:ed12d1ad-074f-491b-aa65-74926c83a235][Drying oil]]}@1}
+
+*** Source
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
+#+print_bibliography:

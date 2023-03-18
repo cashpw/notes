@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@riconNotesCaseEducation]
+:ID:       9868e181-4731-42f0-86bf-ca1651457322
+:LAST_MODIFIED: [2023-01-17 Tue 10:12]
+:END:
+#+title: Jose Luis Ricon | Notes on The Case Against Education
+#+hugo_custom_front_matter: :slug "9868e181-4731-42f0-86bf-ca1651457322"
+#+author: Cash Weaver
+#+date: [2023-01-11 Wed 10:44]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@riconNotesCaseEducation]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+
+#+begin_quote
+
+#+end_quote
+
+* TODO [#2] Flashcards
+#+print_bibliography:

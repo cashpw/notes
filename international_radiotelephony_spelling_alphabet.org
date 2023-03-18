@@ -1,0 +1,414 @@
+:PROPERTIES:
+:ID:       c42b21e4-6ddb-452f-acb4-5cf9ab122e2e
+:ROAM_ALIASES: "International radiotelephony spelling alphabet"
+:LAST_MODIFIED: [2023-03-18 Sat 06:37]
+:END:
+#+title: NATO phonetic alphabet
+#+hugo_custom_front_matter: :slug "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-26 Tue 07:41]
+#+filetags: :concept:
+
+#+begin_quote
+The International Radiotelephony Spelling Alphabet, commonly known as the NATO phonetic alphabet, is the most widely used set of clear code words for communicating the letters of the English alphabet, technically a radiotelephonic spelling alphabet.
+
+[cite:@NATOPhoneticAlphabet2022]
+#+end_quote
+
+| Character | Telephony |
+|-----------+-----------|
+| A         | Alfa      |
+| B         | Bravo     |
+| C         | Charlie   |
+| D         | Delta     |
+| E         | Foxtrot   |
+| F         | Golf      |
+| G         | Hotel     |
+| H         | India     |
+| J         | Juliett   |
+| K         | Kilo      |
+| L         | Lima      |
+| M         | Mike      |
+| N         | November  |
+| O         | Oscar     |
+| P         | Papa      |
+| Q         | Quebec    |
+| R         | Romeo     |
+| S         | Sierra    |
+| T         | Tango     |
+| U         | Uniform   |
+| V         | Victor    |
+| W         | Whiskey   |
+| X         | X-ray     |
+| Y         | Yankee    |
+| Z         | Zulu      |
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) A: {{Alfa}@0} :fc:
+:PROPERTIES:
+:ID:       fd6ce35a-24ca-4212-9680-39f3c0663df8
+:ANKI_NOTE_ID: 1658847041234
+:FC_CREATED: 2022-07-26T14:50:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   221.29 | 2023-09-22T00:35:08Z |
+:END:
+
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) B: {{Bravo}@0} :fc:
+:PROPERTIES:
+:ID:       ec596902-f30c-4d43-82e4-c4b95cdf0cf0
+:ANKI_NOTE_ID: 1658847041608
+:FC_CREATED: 2022-07-26T14:50:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   297.20 | 2023-12-26T20:05:06Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) C: {{Charlie}@0} :fc:
+:PROPERTIES:
+:ID:       1c1ddd13-f703-439e-b345-c4d4dab6fa93
+:ANKI_NOTE_ID: 1658847041740
+:FC_CREATED: 2022-07-26T14:50:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   106.15 | 2023-05-14T20:26:44Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) D : {{Delta}@0} :fc:
+:PROPERTIES:
+:ID:       4d760ebd-f162-4ef1-b874-1ec1239ea32a
+:ANKI_NOTE_ID: 1658847041857
+:FC_CREATED: 2022-07-26T14:50:41Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   257.74 | 2023-11-09T21:30:07Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) E: {{Echo}@0} :fc:
+:PROPERTIES:
+:ID:       ff134d34-b015-46a1-8264-0b55684ba26d
+:ANKI_NOTE_ID: 1658847042007
+:FC_CREATED: 2022-07-26T14:50:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   197.16 | 2023-07-28T19:02:32Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) F: {{Foxtrot}@0} :fc:
+:PROPERTIES:
+:ID:       986eb589-680d-41fc-99c8-ccde7ebac0d8
+:ANKI_NOTE_ID: 1658847042356
+:FC_CREATED: 2022-07-26T14:50:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    98.38 | 2023-05-05T00:06:42Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) G: {{Golf}@0} :fc:
+:PROPERTIES:
+:ID:       cecf6796-5657-4d8a-a476-f1041490a1fd
+:ANKI_NOTE_ID: 1658847042481
+:FC_CREATED: 2022-07-26T14:50:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   9 |   248.73 | 2023-09-12T08:24:19Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) H: {{Hotel}@0} :fc:
+:PROPERTIES:
+:ID:       7033baa0-2427-4006-b2eb-f3fe15992918
+:ANKI_NOTE_ID: 1658847042632
+:FC_CREATED: 2022-07-26T14:50:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    78.81 | 2023-04-15T10:10:09Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) I: {{India}@0} :fc:
+:PROPERTIES:
+:ID:       79cba765-b136-42a8-b832-0a2cac650fff
+:ANKI_NOTE_ID: 1659734620317
+:FC_CREATED: 2022-08-05T21:23:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   9 |   110.46 | 2023-04-05T07:40:36Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) J: {{Juliett}@0} :fc:
+:PROPERTIES:
+:ID:       0e5c349a-da13-43ec-9db1-4688fbf93e71
+:ANKI_NOTE_ID: 1658847043006
+:FC_CREATED: 2022-07-26T14:50:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   7 |    87.51 | 2023-06-10T03:33:59Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) K: {{Kilo}@0} :fc:
+:PROPERTIES:
+:ID:       69f3a580-50cf-453a-8a33-28ba0bc86ccb
+:ANKI_NOTE_ID: 1658847043131
+:FC_CREATED: 2022-07-26T14:50:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.70 |   4 |     9.61 | 2023-03-21T15:11:39Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) L: {{Lima}@0} :fc:
+:PROPERTIES:
+:ID:       5d3d4813-713f-4cd1-b3bc-2678eb4acf4e
+:ANKI_NOTE_ID: 1658847043257
+:FC_CREATED: 2022-07-26T14:50:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   301.94 | 2023-11-23T15:25:59Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) M: {{Mike}@0} :fc:
+:PROPERTIES:
+:ID:       e0739375-c7e3-4438-8462-def7eb35e232
+:ANKI_NOTE_ID: 1658847043632
+:FC_CREATED: 2022-07-26T14:50:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.85 |   7 |    61.83 | 2023-04-09T17:34:57Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) N: {{November}@0} :fc:
+:PROPERTIES:
+:ID:       3631f836-005a-433a-9527-d53622e975d2
+:ANKI_NOTE_ID: 1658847043782
+:FC_CREATED: 2022-07-26T14:50:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   135.52 | 2023-03-30T04:04:23Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) O: {{Oscar}@0} :fc:
+:PROPERTIES:
+:ID:       3a63b8be-894e-417a-abc3-44611684f912
+:ANKI_NOTE_ID: 1658847043907
+:FC_CREATED: 2022-07-26T14:50:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   261.46 | 2023-10-14T03:59:56Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) P: {{Papa}@0} :fc:
+:PROPERTIES:
+:ID:       20b507e8-a5ad-475f-86de-c85dcdce4a14
+:ANKI_NOTE_ID: 1658847044057
+:FC_CREATED: 2022-07-26T14:50:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    99.44 | 2023-04-20T02:44:44Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Q: {{Quebec}@0} :fc:
+:PROPERTIES:
+:ID:       12f18d3d-a6c0-43ca-a7ff-d4eaa3316ff3
+:ANKI_NOTE_ID: 1658847044432
+:FC_CREATED: 2022-07-26T14:50:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   125.40 | 2023-05-25T01:41:16Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) R: {{Romeo}@0} :fc:
+:PROPERTIES:
+:ID:       a4ac485b-2fa8-4015-8b47-8676ed85bbd5
+:ANKI_NOTE_ID: 1658847044556
+:FC_CREATED: 2022-07-26T14:50:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.30 |   6 |    12.73 | 2023-03-31T07:01:47Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) S: {{Sierra}@0} :fc:
+:PROPERTIES:
+:ID:       e4c0f10e-8ee4-4f94-9b65-e54f08188918
+:ANKI_NOTE_ID: 1658847044681
+:FC_CREATED: 2022-07-26T14:50:44Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   148.88 | 2023-06-16T12:26:45Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) T: {{Tango}@0} :fc:
+:PROPERTIES:
+:ID:       29b09829-8df6-4df8-89d3-9d12c284d12f
+:ANKI_NOTE_ID: 1658847045057
+:FC_CREATED: 2022-07-26T14:50:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.75 |   7 |    43.46 | 2023-03-26T11:14:35Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) U: {{Uniform}@0} :fc:
+:PROPERTIES:
+:ID:       2bea85ad-375f-4486-a1fe-be77a0701340
+:ANKI_NOTE_ID: 1658847045207
+:FC_CREATED: 2022-07-26T14:50:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.60 |   7 |    54.16 | 2023-04-28T21:23:51Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) V: {{Victor}@0} :fc:
+:PROPERTIES:
+:ID:       b1cddeaa-61c7-47f5-95a5-b472c30c17ee
+:ANKI_NOTE_ID: 1658847045364
+:FC_CREATED: 2022-07-26T14:50:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   217.40 | 2023-09-01T00:43:01Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) W: {{Whiskey}@0} :fc:
+:PROPERTIES:
+:ID:       e960d4c2-ff90-4fcf-85bc-48a3a49fe110
+:ANKI_NOTE_ID: 1658847045741
+:FC_CREATED: 2022-07-26T14:50:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.45 |   7 |    23.93 | 2023-03-26T14:21:18Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) X: {{X-ray}@0} :fc:
+:PROPERTIES:
+:ID:       7b35b5a6-1ac3-4703-8481-7c89e3f8534f
+:ANKI_NOTE_ID: 1658847045890
+:FC_CREATED: 2022-07-26T14:50:45Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.60 |   4 |    10.51 | 2023-03-22T12:45:25Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Y: {{Yankee}@0} :fc:
+:PROPERTIES:
+:ID:       4c80c2ee-977f-4568-8561-c343be22ee96
+:ANKI_NOTE_ID: 1658847046033
+:FC_CREATED: 2022-07-26T14:50:46Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   158.90 | 2023-07-07T23:53:45Z |
+:END:
+** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Z: {{Zulu}@0} :fc:
+:PROPERTIES:
+:ID:       13cf8f8f-be79-498e-b86e-abb47dc1278f
+:ANKI_NOTE_ID: 1658847046416
+:FC_CREATED: 2022-07-26T14:50:46Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    37.86 | 2023-04-25T10:17:53Z |
+:END:
+#+print_bibliography:

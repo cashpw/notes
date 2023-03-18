@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       91fe1528-88d1-4168-91f1-cf10b175db49
+:ROAM_REFS: [cite:@MediumMessage2022]
+:LAST_MODIFIED: [2023-02-18 Sat 09:25]
+:END:
+#+title: The medium is the message
+#+hugo_custom_front_matter: :slug "91fe1528-88d1-4168-91f1-cf10b175db49"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-26 Fri 15:18]
+#+filetags: :concept:
+
+#+begin_quote
+[...] the medium through which we choose to communicate holds as much, if not more, value than the message itself.
+
+[cite:@grossMediumMessage0000]
+#+end_quote
+
+
+#+begin_quote
+For McLuhan, it was the medium itself that shaped and controlled "the scale and form of human association and action".
+
+[cite:@MediumMessage2022]
+#+end_quote
+
+A message must "fit" its medium. That is, a message must conform to the rules of the medium it passes through. As an example: A written, printed, book cannot contain an audio. A medium controls which types of messages are possible.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-17 Thu 20:16]
+:FC_CREATED: 2022-11-18T04:18:12Z
+:FC_TYPE:  double
+:ID:       77c31bf9-4d9b-4fc9-9d3d-b45cba02c8bf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   121.92 | 2023-06-09T01:47:12Z |
+| back     | 3.10 |   6 |   130.30 | 2023-06-29T00:35:46Z |
+:END:
+
+[[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]]
+
+*** Back
+Messages must conform to the rules of their medium. A medium controls the types of messages which are possible.
+*** Source
+[cite:@MediumMessage2022]
+#+print_bibliography:

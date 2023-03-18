@@ -1,0 +1,71 @@
+:PROPERTIES:
+:ID:       4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8
+:LAST_MODIFIED: [2023-01-28 Sat 08:48]
+:END:
+#+title: Narrative book
+#+hugo_custom_front_matter: :slug "4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-17 Sun 09:49]
+#+filetags: :concept:
+
+#+begin_quote
+Narrative books are books that tell a story. Examples include biographies, memoirs, and histories.
+
+[...] tree books and narratives are difficult to summarise. And I'd warn against reading summaries of those books in lieu of reading the actual text: too much gets lost in translation.
+
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+end_quote
+
+Related: [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]], [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:
+:PROPERTIES:
+:ID:       04490ecf-fba8-4c1f-b072-efe4b3b94f12
+:ANKI_NOTE_ID: 1640627827694
+:FC_CREATED: 2021-12-27T17:57:07Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   161.71 | 2023-04-16T10:05:41Z |
+| front    | 2.65 |   7 |   160.18 | 2023-03-26T19:03:14Z |
+:END:
+
+[[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
+
+*** Back
+A book that tells a story
+
+*** Extra
+Examples: biographies, fiction, memoirs, histories
+
+*** Source
+[cite:@chinThreeKindsNonfictionBooks2018]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       b72d1536-a38d-4ae5-ba54-7a3318e7acbb
+:ANKI_NOTE_ID: 1658076750780
+:FC_CREATED: 2022-07-17T16:52:30Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   263.86 | 2023-10-02T11:21:28Z |
+| back     | 2.80 |   7 |   192.53 | 2023-08-09T05:24:38Z |
+:END:
+[[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
+*** Back
+- Biographies
+- Fiction
+- Memoirs
+- Histories
+*** Source
+[cite:@chinThreeKindsNonfictionBooks2018]
+#+print_bibliography:

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@camusMythSisyphusOtherEssays1991]
+:ID:       3da13885-53dc-4068-945c-c14201e1177e
+:LAST_MODIFIED: [2023-02-20 Mon 13:13]
+:END:
+#+title: Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays
+#+hugo_custom_front_matter: :slug "3da13885-53dc-4068-945c-c14201e1177e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-21 Tue 12:32]
+#+filetags: :has_todo:reference:
+ 
+[[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [cite:@camusMythSisyphusOtherEssays1991]
+
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
+- [[id:fa7e7f3e-1fb6-4769-81cd-c2a200b2becf][One must imagine Sisyphus happy]]
+
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+** Source :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-23T19:32:42Z
+:FC_TYPE:  normal
+:ID:       ae11059e-33d2-4c62-bb05-6e7609c7f189
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   126.50 | 2023-06-27T09:11:12Z |
+:END:
+
+[[id:3da13885-53dc-4068-945c-c14201e1177e][The Myth of Sisyphus and Other Essays]]
+
+*** Back
+[[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]]
+*** Source
+#+print_bibliography:

@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       740ee074-bbfc-4b26-9909-376c9725b57d
+:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:END:
+#+title: You go high, we go low
+#+hugo_custom_front_matter: :slug "740ee074-bbfc-4b26-9909-376c9725b57d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:05]
+#+filetags: :concept:
+
+A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]]-style approach which consists of engaging in effective, though questionable in one or many ways, tactics while pre-condemning your opponents for the same tactics.
+
+See [[id:f39cbb1c-8265-4f3e-9a99-632132ade597][Ian Danskin | You Go High, We Go Low]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe ([[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]) :fc:
+:PROPERTIES:
+:ID:       8621e170-6666-49f4-9c75-775fb2942e1b
+:ANKI_NOTE_ID: 1656857008057
+:FC_CREATED: 2022-07-03T14:03:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   7 |    70.30 | 2023-05-13T22:29:29Z |
+| back     | 2.35 |   6 |   141.07 | 2023-05-05T22:21:40Z |
+:END:
+[[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
+*** Back
+A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] approach which consists of engaging in effective, though questionable in one or many ways, tactics while pre-condemning your opponents for the same tactics.
+*** Source
+[cite:@danskinYouGoHighWeGoLow2018]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       a05af7a9-fc98-49d6-a344-9f15a7fe2751
+:ANKI_NOTE_ID: 1656857008907
+:FC_CREATED: 2022-07-03T14:03:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.45 |  10 |   283.00 | 2023-12-25T14:13:00Z |
+| back     | 2.80 |   7 |   205.87 | 2023-07-20T13:50:55Z |
+:END:
+[[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
+*** Back
+- Refusing to hold a vote to seat Obama's appointee for the Supreme Court (Merrick Garland) and promising to hold the seat open until a Republican president appoints someone instead.
+*** Source
+[cite:@danskinYouGoHighWeGoLow2018]
+#+print_bibliography:

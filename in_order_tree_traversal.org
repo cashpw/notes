@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       5069eb5e-f5c6-49de-8329-ba07dafe320e
+:LAST_MODIFIED: [2022-12-25 Sun 07:06]
+:END:
+#+title: In-order tree traversal
+#+hugo_custom_front_matter: :slug "5069eb5e-f5c6-49de-8329-ba07dafe320e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 16:32]
+#+filetags: :concept:
+
+#+begin_quote
+1. Recursively traverse the current node's left subtree
+1. Visit the current node (in the figure: position green)
+2. Recursively traverse the current node's right subtree
+
+[cite:@TreeTraversal2022]
+#+end_quote
+
+#+begin_quote
+In-order traversal (green node): A, B, C, D, E, F, G, H, I
+
+[[file:Sorted_binary_tree_ALL_RGB.svg.png]]
+
+[cite:@TreeTraversal2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       8f828d9c-1d08-4874-9fa4-336313c31ce7
+:ANKI_NOTE_ID: 1656857115107
+:FC_CREATED: 2022-07-03T14:05:15Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   7 |   131.73 | 2023-04-21T11:57:01Z |
+| back     | 2.80 |   7 |   208.06 | 2023-07-21T16:31:59Z |
+:END:
+[[id:5069eb5e-f5c6-49de-8329-ba07dafe320e][In-order tree traversal]]
+*** Back
+Priority order for traversing the list:
+
+1. Left: Recursively traverse the current node's left subtree, if possible
+1. Node: Visit the current node
+2. Right: Recursively traverse the current node's right subtree, if possible
+
+*** Source
+[cite:@TreeTraversal2022]
+#+print_bibliography:

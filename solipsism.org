@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       8bd2ca47-4972-4869-89c3-b4e82a23042b
+:LAST_MODIFIED: [2023-03-15 Wed 08:06]
+:ROAM_REFS: [cite:@Solipsism2023]
+:END:
+#+title: Solipsism
+#+hugo_custom_front_matter: :slug "8bd2ca47-4972-4869-89c3-b4e82a23042b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 07:35]
+#+filetags: :concept:
+
+#+begin_quote
+Solipsism is the philosophical idea that only one's mind is sure to exist. As an epistemological position, solipsism holds that knowledge of anything outside one's own mind is unsure; the external world and other minds cannot be known and might not exist outside the mind.
+
+[cite:@Solipsism2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 07:36]
+:FC_CREATED: 2023-01-23T15:37:09Z
+:FC_TYPE:  double
+:ID:       86ba65ba-2fa7-44ee-b8e5-738cb0cef7c0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    43.14 | 2023-04-13T07:37:34Z |
+| back     | 2.35 |   5 |    32.36 | 2023-04-16T23:48:01Z |
+:END:
+
+[[id:8bd2ca47-4972-4869-89c3-b4e82a23042b][Solipsism]]
+
+*** Back
+Knowledge of anything outside one's own mind is unsure; the external world and others minds cannot be known and might not exist outside of one's mind.
+
+*** Source
+[cite:@Solipsism2023]
+#+print_bibliography:

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@keshavHowReadPaper]
+:ID:       e6b1cd50-8293-44a3-bcba-d302d0835470
+:END:
+#+title: S Keshav | How to Read a Paper
+#+hugo_custom_front_matter: :slug "e6b1cd50-8293-44a3-bcba-d302d0835470"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 17:58]
+#+filetags: :has_todo:reference:
+ 
+[cite:@keshavHowReadPaper]
+
+* TODO [#4] Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/e6/b1cd50-8293-44a3-bcba-d302d0835470/HowtoReadPaper.pdf
+:END:
+* TODO [#4] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

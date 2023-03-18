@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       c3e94338-47df-4fa4-9e2b-1bdd7069f032
+:ROAM_REFS: [cite:@AlphaFinance2022]
+:LAST_MODIFIED: [2023-02-22 Wed 18:24]
+:END:
+#+title: Alpha (finance)
+#+hugo_custom_front_matter: :slug "c3e94338-47df-4fa4-9e2b-1bdd7069f032"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:36]
+#+filetags: :concept:
+#+begin_quote
+Alpha is a measure of the active return on an investment, the performance of that investment compared with a suitable market index. An alpha of 1% means the investment's return on investment over a selected period of time was 1% better than the market during that same period; a negative alpha means the investment underperformed the market. Alpha, along with [[id:e9c9e62b-efe6-4348-898f-06ca2e03132c][Beta (finance)]], is one of two key coefficients in the capital asset pricing model used in modern portfolio theory and is closely related to other important quantities such as standard deviation, R-squared and the Sharpe ratio.
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 07:57]
+:FC_CREATED: 2022-11-23T15:58:49Z
+:FC_TYPE:  double
+:ID:       12a6999b-4aeb-495e-bf84-8d0b9e175772
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   112.59 | 2023-06-04T05:47:28Z |
+| back     | 2.50 |   6 |    85.27 | 2023-05-19T08:55:43Z |
+:END:
+
+[[id:c3e94338-47df-4fa4-9e2b-1bdd7069f032][Alpha (finance)]]
+
+*** Back
+A measure of the performance of an investment compared against a suitable market index.
+*** Source
+[cite:@AlphaFinance2022]
+** An [[id:c3e94338-47df-4fa4-9e2b-1bdd7069f032][Alpha (finance)]] of 1% implies {{the investment's return on investment over a select time period was 1% higher than the market during the same time period.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 07:58]
+:FC_CREATED: 2022-11-23T15:59:40Z
+:FC_TYPE:  cloze
+:ID:       7317a085-cda7-498a-a020-23927658786e
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    70.91 | 2023-04-11T00:06:34Z |
+:END:
+
+*** Source
+[cite:@AlphaFinance2022]
+#+print_bibliography:

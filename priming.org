@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       4843cffc-e15a-48c2-8244-df6d92622a1c
+:LAST_MODIFIED: [2023-02-26 Sun 08:19]
+:END:
+#+title: Priming
+#+hugo_custom_front_matter: :slug "4843cffc-e15a-48c2-8244-df6d92622a1c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-24 Fri 19:59]
+#+filetags: :has_todo:concept:
+* TODO [#2] Expand
+* TODO [#2] Flashcards
+** Priming :fc:
+:PROPERTIES:
+:ID:       495a8469-9a3c-4da1-906e-76026eb4dd2e
+:ANKI_NOTE_ID: 1640627824322
+:FC_CREATED: 2021-12-27T17:57:04Z
+:FC_TYPE:  vocab
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   165.08 | 2023-04-20T18:41:19Z |
+| front    | 2.20 |   8 |   274.12 | 2023-11-27T19:13:00Z |
+:END:
+A phenomenon whereby exposure to one stimulus influences a response to a subsequent stimulus without conscious guidance or intention.
+*** Source
+[cite:@PrimingPsychology2022]
+#+print_bibliography:

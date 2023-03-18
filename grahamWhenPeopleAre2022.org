@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@grahamWhenPeopleAreNaturallyGoodSomethingTheyTendBePuzzled2022]
+:ID:       815271e0-33b8-4c6c-bb55-24b0f6ddcda7
+:LAST_MODIFIED: [2023-02-18 Sat 11:12]
+:ROAM_ALIASES: "When people are good at something"
+:END:
+#+title: Paul Graham | When People Are Naturally Good at Something
+#+hugo_custom_front_matter: :slug "815271e0-33b8-4c6c-bb55-24b0f6ddcda7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 05:00]
+#+filetags: :quote:
+
+#+begin_quote
+When people are naturally good at something, they tend to be puzzled by how bad other people are at it. So that's one way to figure out what you're naturally good at. What do other people seem puzzlingly bad at? (Being right doesn't count. Everyone thinks they're right.)
+
+[[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]], [cite:@grahamWhenPeopleAreNaturallyGoodSomethingTheyTendBePuzzled2022]
+#+end_quote
+
+Related: [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:45]
+:FC_CREATED: 2022-11-22T22:46:04Z
+:FC_TYPE:  cloze
+:ID:       7ecdcb60-7132-47a6-b919-8ff1fc18e9ad
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    66.03 | 2023-04-04T17:21:40Z |
+:END:
+
+When people are naturally good at something, {{they tend to be puzzled by how other people are so bad at it.}@0}
+
+*** Source
+[cite:@grahamWhenPeopleAreNaturallyGoodSomethingTheyTendBePuzzled2022]
+#+print_bibliography:

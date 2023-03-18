@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       bf247454-b50e-448c-9c60-cee9b3969983
+:ROAM_REFS: [cite:@WillNoOneRidMeThisTurbulentPriest2022]
+:LAST_MODIFIED: [2023-03-10 Fri 21:25]
+:END:
+#+title: Will no one rid me of this turbulent priest?
+#+hugo_custom_front_matter: :slug "bf247454-b50e-448c-9c60-cee9b3969983"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-25 Thu 09:41]
+#+filetags: :quote:
+
+#+begin_quote
+Will no one rid me of this turbulent priest?
+
+[cite:@WillNoOneRidMeThisTurbulentPriest2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 07:03]
+:FC_CREATED: 2022-11-14T15:04:41Z
+:FC_TYPE:  double
+:ID:       991ff6c4-8c11-442b-973f-fd5356c9c493
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    91.14 | 2023-05-19T06:48:02Z |
+| back     | 2.65 |   6 |   117.71 | 2023-07-06T22:27:48Z |
+:END:
+
+[[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbulent priest?]]
+
+*** Back
+A call for [[id:774196ec-f2f7-48d1-b3f9-e7c253378746][Stochastic terrorism]] by Henry the Second of England against the church.
+*** Source
+[cite:@WillNoOneRidMeThisTurbulentPriest2022]
+#+print_bibliography:

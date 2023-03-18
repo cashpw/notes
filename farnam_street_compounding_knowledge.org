@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@streetCompoundingKnowledge2019]
+:ID:       9afd6912-da96-4ba5-adc4-b3081116cea8
+:END:
+#+title: Farnam Street | Compounding Knowledge
+#+hugo_custom_front_matter: :slug "9afd6912-da96-4ba5-adc4-b3081116cea8"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-28 Fri 15:36]
+#+filetags: :has_todo:reference:
+
+[[id:3c2ba4ec-1daa-4ea4-a4fb-641493b4ac91][Farnam Street]], [cite:@streetCompoundingKnowledge2019]
+
+Related:
+
+- [[id:92cf48f0-63a6-4d1d-9275-c80f6743ccb9][Do things that compound]]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

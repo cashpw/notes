@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       323bf406-41e6-4e5f-9be6-689e1055b118
+:ROAM_ALIASES: "Binary trees"
+:LAST_MODIFIED: [2023-03-05 Sun 08:55]
+:END:
+#+title: Binary tree
+#+hugo_custom_front_matter: :slug "323bf406-41e6-4e5f-9be6-689e1055b118"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In computer science, a binary tree is a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in which each node has at most two children, which are referred to as the left child and the right child.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+* Types
+- [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+- [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
+- [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
+- [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+- [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+- [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
+
+* TODO [#4] Implementation
+
+* Representations
+** Array
+*** Indexing
+:PROPERTIES:
+:ID:       bfbcb283-934e-4fe1-94ce-f0280315e08d
+:END:
+
+Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text{left}=2i+1\) and \(\text{right}=2i+2\). Similarly, the parent node for a node at index \(i\) is at \(\lfloor\frac{i-1}{2}\rfloor\).
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]) :fc:
+:PROPERTIES:
+:ID:       98f82c11-1af3-4c82-b863-cbd538b97214
+:ANKI_NOTE_ID: 1656857240134
+:FC_CREATED: 2022-07-03T14:07:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   6 |    57.09 | 2023-03-28T04:43:12Z |
+| front    | 2.35 |   7 |   167.49 | 2023-08-20T04:37:00Z |
+:END:
+\(\operatorname{parent}(i)\) \(\forall\) child indexes, \(i\)
+*** Back
+\(f(i)=\lfloor\frac{i}{2}\rfloor\)
+*** Source
+[cite:@BinaryTree2022]
+** Definition (Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]) :fc:
+:PROPERTIES:
+:ID:       afc622ee-ff38-4770-85b9-be6ed0f7d8df
+:ANKI_NOTE_ID: 1656857240982
+:FC_CREATED: 2022-07-03T14:07:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   225.63 | 2023-08-23T05:47:14Z |
+| front    | 2.65 |   7 |   275.24 | 2023-11-14T23:14:43Z |
+:END:
+\(\operatorname{children}(i)\) \(\forall\) parent indexes, \(i\)
+*** Back
+\(f(i)=\{2i+1, 2i+2\}\)
+*** Source
+[cite:@BinaryTree2022]
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       d72a97d8-ac6e-4c80-9faf-560ba6f0139b
+:ANKI_NOTE_ID: 1656857242058
+:FC_CREATED: 2022-07-03T14:07:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   177.37 | 2023-06-25T03:30:35Z |
+| front    | 2.80 |   7 |   151.62 | 2023-04-19T07:02:06Z |
+:END:
+[[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
+*** Back
+A [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in which each node has at most two children.
+*** Source
+[cite:@BinaryTree2022]
+#+print_bibliography:

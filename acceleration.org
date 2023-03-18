@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       fd458921-d050-44ca-b2fa-d6edc962ef30
+:LAST_MODIFIED: [2023-03-08 Wed 10:39]
+:END:
+#+title: Acceleration
+#+hugo_custom_front_matter: :slug "fd458921-d050-44ca-b2fa-d6edc962ef30"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 15:54]
+#+filetags: :concept:
+
+#+begin_quote
+In mechanics, acceleration is the rate of change [[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]] of the velocity [[[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]]] of an object with respect to time. Accelerations are vector quantities (in that they have magnitude and direction).
+
+[cite:@Acceleration2023]
+#+end_quote
+
+* Instantaneous acceleration
+:PROPERTIES:
+:ID:       3667ac1e-2b29-4515-a822-0c358869c532
+:END:
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 15:56]
+:FC_CREATED: 2023-01-27T23:56:45Z
+:FC_TYPE:  double
+:ID:       45c04bc0-6a96-4bab-9edb-c17be39f9e76
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    38.87 | 2023-04-06T13:11:01Z |
+| back     | 2.80 |   5 |    49.93 | 2023-04-27T17:03:28Z |
+:END:
+
+[[id:fd458921-d050-44ca-b2fa-d6edc962ef30][Acceleration]]
+
+*** Back
+- The rate of change in [[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]] over time
+- The [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] of [[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]] with respect to time
+*** Source
+[cite:@Acceleration2023]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 15:56]
+:FC_CREATED: 2023-01-27T23:58:22Z
+:FC_TYPE:  cloze
+:ID:       5e0d09f9-95d1-4926-be66-22699acd922b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    41.43 | 2023-04-11T14:23:55Z |
+|        1 | 2.80 |   5 |    43.32 | 2023-04-14T21:57:35Z |
+:END:
+
+{{[[id:fd458921-d050-44ca-b2fa-d6edc962ef30][Acceleration]] ($a$)}@0} $=$ {{$\frac{dv}{dt}$; $v$ is [[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]]}@1}
+
+*** Source
+[cite:@Acceleration2023]
+#+print_bibliography:

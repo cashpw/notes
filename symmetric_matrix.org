@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       30dd1299-0411-4b80-945b-0740cc8b5348
+:ROAM_ALIASES: "Symmetric matrices"
+:LAST_MODIFIED: [2022-12-01 Thu 08:40]
+:END:
+#+title: Symmetric matrix
+#+hugo_custom_front_matter: :slug "30dd1299-0411-4b80-945b-0740cc8b5348"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 18:09]
+#+filetags: :concept:
+
+#+begin_quote
+In linear algebra, a symmetric matrix is a [[id:09208dbb-8043-4ef2-ac56-be944afb1dfa][Square matrix]] that is equal to its [[id:df465332-f865-424c-9028-1776dddd1a58][Transpose]]. Formally,
+
+\(A \text{ is symmetric} \iff A=A^{\textsf{T}}\)
+
+[cite:@SymmetricMatrix2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       b9ce6eae-19ac-4155-8fad-f73f86d789ad
+:ANKI_NOTE_ID: 1640627879949
+:FC_CREATED: 2021-12-27T17:57:59Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   183.36 | 2023-05-28T00:03:08Z |
+| front    | 2.65 |  10 |   223.46 | 2023-07-13T03:44:16Z |
+:END:
+[[id:30dd1299-0411-4b80-945b-0740cc8b5348][Symmetric matrix]]
+*** Back
+A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]], \(A\), for which \(A = A^\textsf{T}\)
+*** Source
+[cite:@SymmetricMatrix2022]
+#+print_bibliography:

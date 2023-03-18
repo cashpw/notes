@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       5140bc26-825e-4e26-aec6-3738a5fe2ab1
+:LAST_MODIFIED: [2022-12-08 Thu 15:32]
+:END:
+#+title: How I write notes
+#+hugo_custom_front_matter: :slug "5140bc26-825e-4e26-aec6-3738a5fe2ab1"
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-27 Mon 20:21]
+#+filetags: :concept:
+
+- Writing: I write and publish using [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] -- specifically [[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]] ([[https://github.com/cashpw/dotfiles/blob/main/config/doom/config.org][my config]]) -- [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]] and a combination of [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]] and [[id:5b40598c-308f-429d-8a0a-9c72bc1653f3][ox-hugo]].
+- Hosting: [[https://github.com/cashpw/cashpw.com][Github]]; post content lives in a [[https://github.com/cashpw/roam][separate github repo]]
+- Citations
+  - Outside [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]]: [[id:b9235ad0-ffc3-4141-828e-485be52e89cf][Zotero]] and [[https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc][Zotero Connector (chrome extension)]]
+  - Within [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]]: [[id:5fc743f6-f55a-4e98-985e-2e6cab8ec8c1][Citar]], [[https://retorque.re/zotero-better-bibtex/][Better Bibtex for Zotero]], and [[https://github.com/cashpw/dotfiles/blob/812f8f4785ba70f8d3cabf77ff099a9777bbf17d/config/doom/config-personal.el#L2880][=cashweaver/org-roam-node-from-cite=]]
+- Files (PDF, images, etc): [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] using [[https://orgmode.org/manual/Attachments.html][attachments]] and [[id:dc6d6e17-e4d3-4390-b988-8e09d451e9b0][org-noter]]; [[github:abo-abo/org-download][org-download]]
+- [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][Style Guide]]
+
+Also see [[id:7add4362-8a4e-4148-ac25-185213327b33][Why I write notes]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

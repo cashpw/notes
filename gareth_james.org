@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       f5ed47e7-5d7a-4d4f-9ed2-6817ca706b05
+:LAST_MODIFIED: [2023-02-17 Fri 06:28]
+:END:
+#+title: Gareth James
+#+hugo_custom_front_matter: :slug "f5ed47e7-5d7a-4d4f-9ed2-6817ca706b05"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:19]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       ff54cb1b-5746-48c6-b71a-d254cbd73ec4
+:ANKI_NOTE_ID: 1640627805823
+:FC_CREATED: 2021-12-27T17:56:45Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   9 |   280.12 | 2023-11-24T17:15:08Z |
+:END:
+[[id:f5ed47e7-5d7a-4d4f-9ed2-6817ca706b05][Gareth James]]
+*** Back
+[[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]

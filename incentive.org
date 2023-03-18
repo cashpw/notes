@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       deb3b467-3bb1-4000-9665-3a7347909ad6
+:LAST_MODIFIED: [2023-02-17 Fri 06:56]
+:ROAM_ALIASES: Incentives
+:END:
+#+title: Incentive
+#+hugo_custom_front_matter: :slug "deb3b467-3bb1-4000-9665-3a7347909ad6"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-13 Fri 10:14]
+#+filetags: :concept:
+
+#+begin_quote
+In general, incentives are anything that persuade a person to alter their behaviour. It is emphasised that incentives matter by the basic law of economists and the laws of behaviour, which state that higher incentives amount to greater levels of effort and therefore, higher levels of performance.
+
+[cite:@Incentive2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 10:15]
+:FC_CREATED: 2023-01-13T18:16:25Z
+:FC_TYPE:  double
+:ID:       d3ffc289-db2e-4449-bf92-dd10211c22bc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    54.35 | 2023-04-12T23:14:18Z |
+| back     | 2.65 |   5 |    35.07 | 2023-03-18T17:12:58Z |
+:END:
+
+[[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentive]]
+
+*** Back
+Anything that persuades a person to alter their behavior.
+*** Source
+[cite:@Incentive2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-13 Fri 10:16]
+:FC_CREATED: 2023-01-13T18:18:39Z
+:FC_TYPE:  double
+:ID:       7c58cf1c-b1bf-41a4-af09-489e7df03a28
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    53.61 | 2023-04-09T19:18:03Z |
+| back     | 2.80 |   5 |    45.75 | 2023-04-02T09:58:15Z |
+:END:
+
+[[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]]
+
+*** Back
+- Money
+- Pain
+- Respect
+*** Source
+[cite:@Incentive2022]
+#+print_bibliography:

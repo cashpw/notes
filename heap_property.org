@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97
+:LAST_MODIFIED: [2023-03-13 Mon 07:34]
+:END:
+#+title: Heap property
+#+hugo_custom_front_matter: :slug "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 15:09]
+#+filetags: :concept:
+
+* Min heap property
+:PROPERTIES:
+:ID:       ee9f5fca-159e-479d-af74-0f1be5a6c2cb
+:END:
+
+#+begin_quote
+[...] for any given node C, if P is a parent node of C, then [...] the key of P is less than or equal to the key of C.
+#+end_quote
+
+\(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
+
+* Max heap property
+:PROPERTIES:
+:ID:       7401aaa0-19ca-4036-aaae-f07ba3c3c6e7
+:END:
+
+#+begin_quote
+[...] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C
+
+[cite:@HeapDataStructure2022]
+#+end_quote
+
+\(P \ge C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       48f4de7e-c3a1-4a86-974f-a2882a12569f
+:ANKI_NOTE_ID: 1656857134256
+:FC_CREATED: 2022-07-03T14:05:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   298.30 | 2024-01-05T21:46:50Z |
+| front    | 2.80 |   7 |   195.69 | 2023-06-19T16:56:42Z |
+:END:
+
+[[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap property]]
+
+*** Back
+\(\text{parent} \le \text{child} \;\forall\; \text{child}\)
+
+*** Source
+[cite:@HeapDataStructure2022]
+
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       2969cac4-ff87-4214-b407-e6dc4cbf9037
+:ANKI_NOTE_ID: 1656857135133
+:FC_CREATED: 2022-07-03T14:05:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   160.55 | 2023-08-03T16:58:04Z |
+| front    | 3.10 |   6 |   156.24 | 2023-06-26T20:16:52Z |
+:END:
+
+[[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]]
+
+*** Back
+\(\text{parent} \ge \text{child} \;\forall\; \text{child}\)
+
+*** Source
+[cite:@HeapDataStructure2022]
+#+print_bibliography:

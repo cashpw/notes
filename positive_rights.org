@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       b1b88ef5-f272-47d7-80c3-de9038e2eeb2
+:ROAM_ALIASES: "Positive right"
+:LAST_MODIFIED: [2023-03-04 Sat 07:08]
+:END:
+#+title: Positive rights
+#+hugo_custom_front_matter: :slug "b1b88ef5-f272-47d7-80c3-de9038e2eeb2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 09:49]
+#+filetags: :concept:
+
+#+begin_quote
+[...] positive rights are rights that oblige [...] action [...].
+
+[cite:@NegativePositiveRights2022]
+#+end_quote
+
+Also see [[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative rights]].
+
+* Examples
+- Right to counsel
+- Right to unemployment benefits
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:ID:       e2df217b-475e-4571-8e6b-50e1d3b8123a
+:ANKI_NOTE_ID: 1658595317456
+:FC_CREATED: 2022-07-23T16:55:17Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   6 |   174.94 | 2023-04-30T15:29:01Z |
+| front    | 2.80 |   7 |   215.53 | 2023-07-07T07:54:43Z |
+:END:
+
+[[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive right]]
+
+*** Back
+A right which obliges action.
+*** Extra
+*** Source
+[cite:@NegativePositiveRights2022]
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       782684d6-6563-418e-add9-1e53f120d91f
+:ANKI_NOTE_ID: 1658595318156
+:FC_CREATED: 2022-07-23T16:55:18Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   293.88 | 2023-12-23T12:16:54Z |
+| back     | 2.80 |   7 |   240.80 | 2023-12-17T11:15:22Z |
+:END:
+
+[[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]]
+
+*** Back
+- Right to counsel
+- Right to housing
+- Right to food
+- Right to healthcare
+
+*** Source
+[cite:@NegativePositiveRights2022]
+#+print_bibliography:

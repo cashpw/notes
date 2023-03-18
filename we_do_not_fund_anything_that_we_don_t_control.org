@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2d9b95fd-f885-44c5-9723-c5071157949d
+:END:
+#+title: We do not fund anything that we don't control
+#+hugo_custom_front_matter: :slug "2d9b95fd-f885-44c5-9723-c5071157949d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-08 Fri 18:09]
+#+filetags: :quote:
+
+#+begin_quote
+We do not fund anything that we don't control.
+
+Frank C. Erwin, [cite:@hicksDailyTexanUTInstitutionStrugglesInternetAge2013]
+#+end_quote
+
+See also: [[id:5d2ca4dd-4c57-43f1-996d-f76540f45fa1][Capitalism]].
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

@@ -1,0 +1,131 @@
+:PROPERTIES:
+:ID:       ef21ad22-553d-432e-a4e2-bdc404009c87
+:LAST_MODIFIED: [2023-03-13 Mon 07:52]
+:END:
+#+title: Delta (finance)
+#+hugo_custom_front_matter: :slug "ef21ad22-553d-432e-a4e2-bdc404009c87"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 17:18]
+#+filetags: :concept:
+
+#+begin_quote
+Delta (Δ) is a risk metric that estimates the change in price of a derivative, such as an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][options]] contract, given a $1 change in its underlying security.
+
+[cite:@WhatDeltaDerivativesTradingHowDoesItWork]
+#+end_quote
+
+#+begin_quote
+Delta, $\Delta$, measures the rate of change of the theoretical option value with respect to changes in the underlying asset's price. Delta is the first derivative of the value $V$ of the option with respect to the underlying instrument's price $S$.
+
+$\Delta = \frac{\partial V}{\partial S}$
+
+[cite:@GreeksFinance2022]
+#+end_quote
+
+Delta is the sensitivity of the derivative's spot price to the underlying value.
+
+- Delta for [[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call options]] range from [0, 1]
+- Delta for [[id:7b7185c2-db8c-4e53-b9a1-795cc36ab508][Put options]] range from [-1, 0]
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:23]
+:FC_CREATED: 2022-11-07T01:24:44Z
+:FC_TYPE:  double
+:ID:       bedc9e4e-41ee-4699-bb6a-15f70cb48ef2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   100.98 | 2023-04-28T01:38:32Z |
+| back     | 2.50 |   6 |    75.67 | 2023-04-24T14:47:37Z |
+:END:
+
+[[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]]
+
+*** Back
+- Estimates the change in price for a derivative given a 1-point change in its underlying security.
+- The first derivative of a derivative's value, $V$, with respect to the underlying instrument's price, $S$
+
+$\dots = \frac{\partial V}{\partial S}$
+*** Source
+[cite:@WhatDeltaDerivativesTradingHowDoesItWork]
+** The range of [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]] for a {{[[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call option]]}@1} is {{[0, 1]}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:24]
+:FC_CREATED: 2022-11-07T01:25:31Z
+:FC_TYPE:  cloze
+:ID:       d201e0f9-fd49-456f-9a9a-c28d58f49da7
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   6 |   144.21 | 2023-07-09T20:53:15Z |
+|        0 | 2.50 |   6 |    96.04 | 2023-06-02T17:16:28Z |
+:END:
+
+*** Source
+[cite:@WhatDeltaDerivativesTradingHowDoesItWork]
+
+** The range of [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]] for a {{[[id:7b7185c2-db8c-4e53-b9a1-795cc36ab508][Put option]]}@1} is {{[-1, 0]}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:24]
+:FC_CREATED: 2022-11-07T01:25:31Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       b0421c0b-0993-4e29-8591-4d6cae59725d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.80 |   6 |   128.82 | 2023-06-15T19:22:39Z |
+|        0 | 1.90 |   7 |    82.74 | 2023-06-04T08:36:56Z |
+:END:
+
+*** Source
+[cite:@WhatDeltaDerivativesTradingHowDoesItWork]
+** A [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]] of +0.30 for a [[id:15f1b0b2-6f51-40de-93c9-77980744a483][option]] implies {{the value of the option will rise 0.30-points for every 1-point rise in the underlying security}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:26]
+:FC_CREATED: 2022-11-07T01:27:47Z
+:FC_TYPE:  cloze
+:ID:       e880ca2c-4136-4d3d-a26d-d317ea146ff0
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    75.85 | 2023-03-29T10:59:55Z |
+:END:
+
+*** Source
+:PROPERTIES:
+:FC_CREATED: 2022-11-07T01:37:37Z
+:FC_TYPE:  cloze
+:ID:       1f4c1d94-be2f-4bab-947f-d512b45eaf8d
+:END:
+[cite:@WhatDeltaDerivativesTradingHowDoesItWork]
+** (Finance) {{$\Delta$}@0} $=$ {{$\frac{\partial V}{\partial S}$}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 17:37]
+:FC_CREATED: 2022-11-07T01:38:30Z
+:FC_TYPE:  cloze
+:ID:       c297098b-0509-4aa8-a9c5-bff6152972b6
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   129.28 | 2023-06-11T22:29:11Z |
+|        1 | 2.35 |   6 |    69.11 | 2023-04-13T19:12:19Z |
+:END:
+
+*** Source
+[cite:@GreeksFinance2022]
+#+print_bibliography:

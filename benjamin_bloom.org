@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       d449ac76-f230-4922-ab7c-3b65c90a4ea9
+:ROAM_REFS: [cite:@BenjaminBloom2022]
+:LAST_MODIFIED: [2023-03-14 Tue 08:06]
+:END:
+#+title: Benjamin Bloom
+#+hugo_custom_front_matter: :slug "d449ac76-f230-4922-ab7c-3b65c90a4ea9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-12 Mon 19:17]
+#+filetags: :person:
+
+#+begin_quote
+Benjamin Samuel Bloom (February 21, 1913 – September 13, 1999) was an American educational psychologist who made contributions to the classification of educational objectives and to the theory of mastery learning.
+
+[cite:@BenjaminBloom2022]
+#+end_quote
+
+* Flashcards
+** Known for :fc:
+:PROPERTIES:
+:CREATED: [2022-12-12 Mon 19:26]
+:FC_CREATED: 2022-12-13T03:27:29Z
+:FC_TYPE:  normal
+:ID:       d177d20f-1df6-4c04-96be-6b65a9e3cd98
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    29.57 | 2023-04-13T04:42:30Z |
+:END:
+
+[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]
+
+*** Back
+- [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]
+- [[id:6eb6bfde-37f3-4555-bbe2-1bd639b518ec][Bloom's 2 sigma problem]]
+- [[id:162d37be-0ce1-4ba1-baff-101ba72fa811][Mastery learning]]
+*** Source
+[cite:@BenjaminBloom2022]
+#+print_bibliography:

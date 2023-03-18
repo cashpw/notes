@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@hansonPoliticsIsnPolicy]
+:ID:       8eaf2c1b-b86f-4aea-a930-0f7b214b2be3
+:LAST_MODIFIED: [2023-01-12 Thu 15:02]
+:END:
+#+title: Robin Hanson | Politics Isn't about Policy
+#+hugo_custom_front_matter: :slug "8eaf2c1b-b86f-4aea-a930-0f7b214b2be3"
+#+author: Cash Weaver
+#+date: [2023-01-08 Sun 19:35]
+#+filetags: :reference:
+
+[[id:c5c893c1-84c9-4ea7-9cad-ba258e494400][Robin Hanson]], [cite:@hansonPoliticsIsnPolicy]
+
+* Thoughts
+[[id:064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4][X isn't (only) about Y]]
+
+Related: [[id:78f46d61-571d-4e3f-912b-177c3fc9b205][The purpose of a system is what it does]]
+* Notes
+#+begin_quote
+- Food isn't about Nutrition
+- Clothes aren't about Comfort
+- Bedrooms aren't about Sleep
+- Marriage isn't about Romance
+- Talk isn't about Info
+- Laughter isn't about Jokes
+- Charity isn't about Helping
+- Church isn't about God
+- Art isn't about Insight
+- Medicine isn't about Health
+- Consulting isn't about Advice
+- School isn't about Learning
+- Research isn't about Progress
+- Politics isn't about Policy
+
+The above summarizes much of my contrarian world view.  (What else should go on this list?) When I say "X is not about Y," I mean that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X behavior more [[[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]], [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]]].  I won't support all these claims here; for today, let's just talk politics.
+
+[formatting mine]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

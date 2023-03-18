@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@greerCultureWarsAreLongWars2021]
+:ID:       cec64d96-d0ea-4073-a74d-efb5a0588d93
+:LAST_MODIFIED: [2023-03-13 Mon 07:29]
+:END:
+#+title: Tanner Greer | Culture Wars Are Long Wars
+#+hugo_custom_front_matter: :slug "cec64d96-d0ea-4073-a74d-efb5a0588d93"
+#+author: Cash Weaver
+#+date: [2023-01-10 Tue 13:37]
+#+filetags: :reference:
+
+[[id:af527d83-0378-4f66-8b25-d7df4188b6b6][Tanner Greer]], [cite:@greerCultureWarsAreLongWars2021]
+
+* Summary
+See [[id:00570dba-4371-445c-b5fd-d100828c79b0][Cultural change; slow, then fast]].
+* Thoughts
+A right-leaning think-piece regarding culture wars with a good nugget regarding the pace at which cultural change occurs. The rest rubs my left-leaning self; [[id:71aa6edb-f5a1-4e8b-88b9-5e5e807edceb][Arguments? You can prove anything with arguments.]] However, reading someone who espouses ideas contrary to my own so confidently does inspire me to read deeper to develop specific resposnes beyond a general "this doesn't feel right".
+* Notes
+#+begin_quote
+We are told that conservatives "lost the culture war." I dissent from this view: **American conservatives never waged a culture war**. Conservatives certainly fought, there is no denying that. They fought with every bit of obstruction and scandal their operatives could muster. But this was not a culture war. Rather, America's conservatives fought a political war over culture. Republicans used cultural issues to gain—or to try to gain—political power. Their brightest minds and greatest efforts went into securing control of judiciary, developing a judicial philosophy for their appointees, securing control of the Capitol, and developing laws that could be implemented in multiple state houses across the nation. **No actual attempt to change the culture was attempted**.
+
+[emphasis mine]
+#+end_quote
+
+This seems a bizarre take from my perspective. I don't understand the nuance between /waging a culture war/ and /fighting a political war over culture/. Doubly bizarre is the claim the "No actual attempt to change the culture was attempted". Yes -- yes there has been. Or is there a pedantry at play with regard to terms such that pushing legislative, judicial, media, and narrative (/cultural/!) policies are themselves not attempts to change culture?
+
+#+begin_quote
+**Culture wars are long wars.** Instilling new ideas and overthrowing existing orthodoxies takes time—usually two to three generations of time. It is a 35-50 year process.
+
+[...]
+
+The logic of cohort change can be grasped by the graphic at the top of this essay (Putnam includes many similar ones in his book). America's future is godless not because the God-fearing were convinced of the errors of their faith, but because their children, grandchildren, and great-grandchildren never adopted their faith to start out with. Cultures do not change when people replace old ideas with new ones; cultures change when people with new ideas replace the people with old ones.
+#+end_quote
+
+#+begin_quote
+If you want to see this process in real time, look no further than the Democrat's socialist wing. Older party leaders view the socialists as spoilers and madmen, political contagions not to be fought against nor partnered with, but contained and quarantined. Socialism is not something they take seriously. This is a cohort problem. Democrats under 40 take socialism very seriously. The Great Recession was their formative event; the old orthodoxy did not seem equal to the fear and heartache it caused. Thus, gradually, the younger cohorts have been won over to the socialist cause. All that keeps the socialists at bay is the power of their elders. That power cannot last. At some point in the next decade the transition point will arrive. Gradually will become suddenly, and America's most popular party will be openly run by socialists.
+
+Understanding this is equal parts clarifying and frustrating. Clarifying, because it gives us a clear idea of what must be done and of what cannot be done. Frustration comes from that second item: as culture wars are long wars, there are no quick victories. If you reject the quickly crystalizing orthodoxy of America's millennials, your short-term options are limited. The millennials are a lost generation; they will persist in their errors to the end of their days. Theirs is a doomed cohort—and for most of the next two decades, this doomed cohort will be in charge.
+#+end_quote
+
+I suppose I'm a member of the cohort discussed here and don't see eye-to-eye with the author's use of "doomed" or the general maligning of socialism.
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-10 Tue 14:13]
+:FC_CREATED: 2023-01-10T22:13:26Z
+:FC_TYPE:  cloze
+:ID:       a030ee03-be56-4238-b56f-6641dcc09800
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |    84.90 | 2023-06-06T11:58:35Z |
+:END:
+
+Culture wars are {{long wars}@0}.
+
+*** Source
+[cite:@greerCultureWarsAreLongWars2021]
+#+print_bibliography:

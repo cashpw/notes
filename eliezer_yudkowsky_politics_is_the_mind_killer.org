@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@yudkowskyPoliticsMindKiller]
+:ID:       1a0f3d06-9cc1-400c-b6ef-333028392a7c
+:LAST_MODIFIED: [2022-12-05 Mon 17:15]
+:END:
+#+title: Eliezer Yudkowsky | Politics Is the Mind-Killer
+#+hugo_custom_front_matter: :slug "1a0f3d06-9cc1-400c-b6ef-333028392a7c"
+#+author: Cash Weaver
+#+date: [2022-12-05 Mon 17:15]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@yudkowskyPoliticsMindKiller]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       d17851b9-7b52-495e-92dc-0d8d7577a519
+:LAST_MODIFIED: [2023-01-06 Fri 07:03]
+:END:
+#+title: December 2022
+#+hugo_custom_front_matter: :slug "d17851b9-7b52-495e-92dc-0d8d7577a519"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-29 Thu 11:31]
+#+filetags: :newsletter:
+
+[[id:671006e6-3f41-4c37-9840-1a0a1c3f2496][Monthly newsletter]] for December, 2022.
+
+* This month
+
+- Migrated hosted notes from [[http://cashpw.com][cashpw.com]] to the subdomain [[http://notes.cashpw.com][notes.cashpw.com]]
+- Didn't catch up on flashcard review backlog in large part because I added 100+ new cards related to solving the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]
+
+* Next month
+
+- Catch up on flashcard review backlog
+
+  I have >200 outstanding flashcards. Reviewing them all at once wouldn't just hurt now, it would hurt forever as from time to time I'd see a similarly-sized spike of due flashcards. I'll do 30[fn:1] minutes[fn:2] of review daily to bring the count down.
+
+  This is important as I want to review new flashcards soon after creating them. Creating a flashcard on Monday and first seeing it in review on the following Monday is a poor learning experience. I'm holding off on creating new flashcards until I get through the backlog.
+
+* Flashcards
+* Footnotes
+
+[fn:1] I selected 30 minutes since I think I'd be able to keep it up indefinitely. Some variation is okay but I don't want to get to the point that I need to review cards for 1-2 hours daily.
+[fn:2] Targeting a length of time for reviews, rather than a number of cards, aligns with [[id:023f59a7-6d74-4f52-91da-448b7574defb][Timeboxing]].

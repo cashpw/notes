@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       27a0ad69-c248-4dea-9807-4926ec05412c
+:LAST_MODIFIED: [2023-03-18 Sat 08:28]
+:ROAM_REFS: [cite:@SimplexCommunication2023]
+:END:
+#+title: Simplex
+#+hugo_custom_front_matter: :slug "27a0ad69-c248-4dea-9807-4926ec05412c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-18 Sat 08:22]
+#+filetags: :concept:
+
+#+begin_quote
+Simplex communication is a communication channel that sends information in one direction only.
+
+[cite:@SimplexCommunication2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:27]
+:FC_CREATED: 2023-03-18T15:28:08Z
+:FC_TYPE:  double
+:ID:       4468488c-fd98-45b2-8ee8-7bee6f9376df
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:28:08Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:28:08Z |
+:END:
+
+[[id:27a0ad69-c248-4dea-9807-4926ec05412c][Simplex]]
+
+*** Back
+#+begin_quote
+[...] a communication channel that sends information in one direction only.
+#+end_quote
+*** Source
+[cite:@SimplexCommunication2023]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-03-18 Sat 08:28]
+:FC_CREATED: 2023-03-18T15:28:33Z
+:FC_TYPE:  double
+:ID:       b0fbcb6f-e619-4ab8-ada7-81eedfaacf1f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-03-18T15:28:33Z |
+| back     |  2.5 |  -1 |        0 | 2023-03-18T15:28:33Z |
+:END:
+
+[[id:27a0ad69-c248-4dea-9807-4926ec05412c][Simplex]]
+
+*** Back
+- Television
+- Broadcast radio
+*** Source
+[cite:@SimplexCommunication2023]
+#+print_bibliography:

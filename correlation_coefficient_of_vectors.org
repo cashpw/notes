@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       d9f04c73-1238-4e6b-a370-8a23ac755610
+:LAST_MODIFIED: [2023-03-09 Thu 19:20]
+:END:
+#+title: Correlation coefficient of vectors
+#+hugo_custom_front_matter: :slug "d9f04c73-1238-4e6b-a370-8a23ac755610"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-17 Wed 09:45]
+#+filetags: :concept:
+
+#+begin_quote
+\(\rho_{\vec{a}, \vec{b}} \overset{\Delta}{=} \frac{\tilde{a} \cdot \tilde{b}}{\|\tilde{a}\|\|\tilde{b}\|}\)
+
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018 page 60]
+#+end_quote
+
+See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** {{$\rho_{\vec{a}, \vec{b} }$}@0} \(=\) {{$\frac{\tilde{a} \cdot \tilde{b} }{\|\tilde{a}\|\|\tilde{b}\|}$}@1} :fc:
+:PROPERTIES:
+:ID:       cf17d420-0497-4059-a1eb-66323f90c629
+:ANKI_NOTE_ID: 1660755183023
+:FC_CREATED: 2022-08-17T16:53:03Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    60.38 | 2023-04-25T13:04:24Z |
+|        1 | 2.35 |   7 |   250.55 | 2023-11-02T17:01:14Z |
+:END:
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018 page 60]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       fa21f2e9-04ae-4fad-9018-0bc4a9284979
+:ANKI_NOTE_ID: 1660755303371
+:FC_CREATED: 2022-08-17T16:55:03Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   7 |   145.76 | 2023-07-27T08:09:56Z |
+|        1 | 1.60 |   4 |     8.79 | 2023-03-18T22:15:43Z |
+:END:
+- {{$\rho_{\vec{a}, \vec{b}}$}@0}
+
+{{[[id:d9f04c73-1238-4e6b-a370-8a23ac755610][Correlation coefficient of vectors]]}@1}
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018 page 60]
+#+print_bibliography:

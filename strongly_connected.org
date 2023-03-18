@@ -1,0 +1,97 @@
+:PROPERTIES:
+:ID:       644adb16-7921-4499-aaf9-6ff29819ed6d
+:LAST_MODIFIED: [2023-01-27 Fri 05:30]
+:END:
+#+title: Connected relationship
+#+hugo_custom_front_matter: :slug "644adb16-7921-4499-aaf9-6ff29819ed6d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 17:11]
+#+filetags: :concept:
+
+#+begin_quote
+A relation $R$ on a set $X$ is called connected when $\forall\; x,y \in X$:
+
+$xRy \quad \text{or} \quad yRx \quad \text{or} \quad x = y$
+
+[cite:@ConnectedRelation2022]
+#+end_quote
+
+* Strongly connected
+:PROPERTIES:
+:ID:       7703fd24-5fdf-40c0-8b44-4530d303bc6e
+:END:
+#+begin_quote
+A relation $R$ on a set $X$ is called connected when $\forall\; x,y \in X$:
+
+$xRy \quad \text{or} \quad yRx$
+
+[cite:@ConnectedRelation2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 15:59]
+:FC_CREATED: 2022-11-14T23:59:56Z
+:FC_TYPE:  double
+:ID:       ff956b46-b483-4552-b60a-25321c010776
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    60.56 | 2023-03-23T03:54:34Z |
+| back     | 1.90 |   6 |    49.05 | 2023-03-27T20:11:32Z |
+:END:
+
+[[id:644adb16-7921-4499-aaf9-6ff29819ed6d][Connected relationship]]
+
+*** Back
+A relation $R$ on a set $X$ is called ... when $\forall\; x,y \in X$:
+
+$xRy \quad \text{or} \quad yRx \quad \text{or} \quad x = y$
+*** Source
+[cite:@ConnectedRelation2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 15:59]
+:FC_CREATED: 2022-11-14T23:59:56Z
+:FC_TYPE:  double
+:ID:       86385500-1eda-485c-8fd8-754142124b1a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    77.11 | 2023-04-07T19:40:26Z |
+| back     | 1.90 |   6 |    50.86 | 2023-03-19T10:09:03Z |
+:END:
+
+[[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
+
+*** Back
+A relation $R$ on a set $X$ is ... when $\forall\; x,y \in X$:
+
+$xRy \quad \text{or} \quad yRx$
+*** Source
+[cite:@ConnectedRelation2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-11-14 Mon 16:00]
+:FC_CREATED: 2022-11-15T00:01:03Z
+:FC_TYPE:  normal
+:ID:       e90d4471-6a09-4655-aeb3-afcee7b91327
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    64.41 | 2023-03-23T00:20:42Z |
+:END:
+
+[[id:644adb16-7921-4499-aaf9-6ff29819ed6d][Connected relationship]] and [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
+
+*** Back
+- Same, except [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]] requires that $x \neq y$
+*** Source
+[cite:@ConnectedRelation2022]
+#+print_bibliography:

@@ -1,0 +1,335 @@
+:PROPERTIES:
+:ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
+:LAST_MODIFIED: [2023-03-17 Fri 06:55]
+:ROAM_REFS: [cite:@MatrixMultiplication2023]
+:END:
+#+title: Matrix multiplication
+#+hugo_custom_front_matter: :slug "a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-03 Fri 08:57]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, particularly in linear algebra [[[id:e945552a-47b5-4b23-b7ee-615e99cc8f6e][Linear algebra]]], matrix multiplication is a binary operation that produces a matrix [[[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]]] from two matrices. For matrix multiplication, the number of columns in the first matrix must be equal to the number of rows in the second matrix. The resulting matrix, known as the matrix product, has the number of rows of the first and the number of columns of the second matrix. The product of matrices $A$ and $B$ is denoted as $AB$.
+
+[...]
+
+If $A$ is an $m \times n$ matrix and $B$ is an $n \times p$ matrix,
+
+$$
+\mathbf{A} = \begin{pmatrix}
+a_{11} & a_{12} & \cdots & a_{1n} \\
+a_{21} & a_{22} & \cdots & a_{2n} \\
+ \vdots & \vdots & \ddots & \vdots \\
+a_{m1} & a_{m2} & \cdots & a_{mn} \\
+\end{pmatrix},\quad\mathbf{B} = \begin{pmatrix}
+b_{11} & b_{12} & \cdots & b_{1p} \\
+b_{21} & b_{22} & \cdots & b_{2p} \\
+ \vdots & \vdots & \ddots & \vdots \\
+b_{n1} & b_{n2} & \cdots & b_{np} \\
+\end{pmatrix}
+$$
+
+the /matrix product/ $C = AB$ (denoted without multiplication signs or dots) is defined to be the $m \times p$ matrix
+
+$$
+\mathbf{C} = \begin{pmatrix}
+c_{11} & c_{12} & \cdots & c_{1p} \\
+c_{21} & c_{22} & \cdots & c_{2p} \\
+ \vdots & \vdots & \ddots & \vdots \\
+c_{m1} & c_{m2} & \cdots & c_{mp} \\
+\end{pmatrix}
+$$
+
+such that
+
+$$
+c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j} + \cdots + a_{in}b_{nj} = \sum\limits_{k = 1}^{n}a_{ik}b_{kj}
+$$
+
+for $i = 1, \dots, m$ and $j = 1, \dots, p$.
+
+[cite:@MatrixMultiplication2023]
+#+end_quote
+
+* Matrix multiplication as a linear combination
+
+** Right-multiplication: combination of columns
+#+begin_quote
+
+Let's begin by looking at the right-multiplication of matrix $X$ by a column vector:
+
+$$
+\begin{pmatrix}
+x_1 & x_2 & x_3 \\
+y_1 & y_2 & y_3 \\
+z_1 & z_2 & z_3 \\
+\end{pmatrix}\begin{pmatrix}
+a \\
+b \\
+c \\
+\end{pmatrix} = \begin{pmatrix}
+ax_1 & bx_2 & cx_3 \\
+ay_1 & by_2 & cy_3 \\
+az_1 & bz_2 & cz_3 \\
+\end{pmatrix}
+$$
+
+Representing the columns of X by colorful boxes will help visualize this:
+
+#+DOWNLOADED: https://eli.thegreenplace.net/images/2015/veccomb.png @ 2023-02-03 09:20:40
+[[file:2023-02-03_09-20-40_veccomb.png]]
+
+Sticking the white box with a in it to a vector just means: multiply this vector by the scalar a. The result is another column vector - a linear combination of X's columns, with a, b, c as the coefficients.
+
+Right-multiplying X by a matrix is more of the same. Each resulting column is a different linear combination of X's columns:
+
+$$
+\begin{pmatrix}
+x_1 & x_2 & x_3 \\
+y_1 & y_2 & y_3 \\
+z_1 & z_2 & z_3 \\
+\end{pmatrix}\begin{pmatrix}
+a & d & g \\
+b & e & h \\
+c & f & i \\
+\end{pmatrix} = \begin{pmatrix}
+ax_1 + by_1 + cz_1 & dx_1 + ey_1 + fz_1 & gx_1 + hy_1 + iz_1 \\
+ax_2 + by_2 + cz_2 & dx_2 + ey_2 + fz_2 & gx_2 + hy_2 + iz_2 \\
+ax_3 + by_3 + cz_3 & dx_3 + ey_3 + fz_3 & gx_3 + hy_3 + iz_3 \\
+\end{pmatrix}
+$$
+
+Graphically:
+
+#+DOWNLOADED: https://eli.thegreenplace.net/images/2015/matcomb.png @ 2023-02-03 09:54:16
+[[file:2023-02-03_09-54-16_matcomb.png]]
+
+If you look hard at the equation above and squint a bit, you can recognize this column-combination property by examining each column of the result matrix.
+
+[cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+#+end_quote
+
+** Left-multiplication: combination of rows
+#+begin_quote
+Now let's examine left-multiplication. Left-multiplying a matrix X by a row vector is a linear combination of X's /rows/:
+
+$$
+\begin{pmatrix}
+a & b & c \\
+\end{pmatrix} \begin{pmatrix}
+x_1 & y_1 & z_1 \\
+x_2 & y_2 & z_2 \\
+x_3 & y_3 & z_3 \\
+\end{pmatrix} = \begin{pmatrix}
+ax_1 + bx_2 + cx_3 & ay_1 + by_2 + cy_3 & az_1 + bz_2 + cz_3 \\
+\end{pmatrix}
+$$
+
+Is represented graphically thus:
+
+#+DOWNLOADED: https://eli.thegreenplace.net/images/2015/vecrowcomb.png @ 2023-02-03 09:54:31
+[[file:2023-02-03_09-54-31_vecrowcomb.png]]
+
+And left-multiplying by a matrix is the same thing repeated for every result row: it becomes the linear combination of the rows of X, with the coefficients taken from the rows of the matrix on the left. Here's the equation form:
+
+$$
+\begin{pmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i \\
+\end{pmatrix} \begin{pmatrix}
+x_1 & y_1 & z_1 \\
+x_2 & y_2 & z_2 \\
+x_3 & y_3 & z_3 \\
+\end{pmatrix} = \begin{pmatrix}
+ax_1 + bx_2 + cx_3 & ay_1 + by_2 + cy_3 & az_1 + bz_2 + cz_3 \\
+dx_1 + ex_2 + fx_3 & dy_1 + ey_2 + fy_3 & dz_1 + ez_2 + fz_3 \\
+gx_1 + hx_2 + ix_3 & gy_1 + hy_2 + iy_3 & gz_1 + hz_2 + iz_3 \\
+\end{pmatrix}
+$$
+
+And the graphical form:
+
+#+DOWNLOADED: https://eli.thegreenplace.net/images/2015/matrowcomb.png @ 2023-02-03 09:54:42
+[[file:2023-02-03_09-54-42_matrowcomb.png]]
+
+[cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+#+end_quote
+
+* Flashcards
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-02-03 Fri 09:02]
+:FC_CREATED: 2023-02-03T17:03:51Z
+:FC_TYPE:  cloze
+:ID:       776b9cf9-364f-4182-aada-caf350eb7d75
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   4 |    10.41 | 2023-03-19T03:19:00Z |
+:END:
+
+For matrices, $A$, $B$, and $C = AB$,
+
+$c_{i,j}=$ {{$\sum\limits_{k = 1}^{n}a_{i,k}b_{k,j}$}@0}
+
+*** Source
+[cite:@MatrixMultiplication2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-03 Fri 10:20]
+:FC_CREATED: 2023-02-03T18:20:58Z
+:FC_TYPE:  double
+:ID:       79e2bfb5-156e-4e6d-a340-ac89fadb6a4e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    42.95 | 2023-04-29T12:41:13Z |
+| back     | 2.50 |   4 |    14.30 | 2023-03-24T10:04:27Z |
+:END:
+
+[[id:a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a][Matrix multiplication]] as a [[id:ef6a5f11-0991-4fff-8453-5006362138e6][Linear combination]] of rows
+
+*** Back
+"Left-to-right"
+
+$$
+A_{\ell\times n}B_{n \times m} = \begin{pmatrix}
+A_{\text{row}\,0} \cdot \{B_{\text{row}\,0}, \;\dots\;, B_{\text{row}\,m}\} \\
+\vdots \\
+A_{\text{row}\,\ell}} \cdot \{B_{\text{row}\,\ell}, \;\dots\;, B_{\text{row}\,m}\} \\
+\end{pmatrix}
+$$
+
+$$
+(A_{\ell\times n}B_{n \times m})_{\text{row}\,i} &= A_{\text{row}\,i} \cdot \{B_{\text{row}\,0}, \;\dots\;, B_{\text{row}\,m}\}
+$$
+
+$$
+\begin{align}
+\begin{pmatrix}
+a & b \\
+c & d \\
+\end{pmatrix} \begin{pmatrix}
+x_1 & y_1 \\
+x_2 & y_2 \\
+\end{pmatrix} &= \begin{pmatrix}
+A_{\text{row 1}} \cdot \{B_{\text{row 1}}, B_{\text{row 2}}\} \\
+A_{\text{row 2}} \cdot \{B_{\text{row 1}}, B_{\text{row 2}}\} \\
+\end{pmatrix} \\
+&= \begin{pmatrix}
+\begin{bmatrix}a , b\end{bmatrix} \cdot \{\begin{bmatrix}x_1, y_1\end{bmatrix}, \begin{bmatrix}x_2, y_2\end{bmatrix} \} \\
+\begin{bmatrix}c , d\end{bmatrix} \cdot \{\begin{bmatrix}x_1, y_1\end{bmatrix}, \begin{bmatrix}x_2, y_2\end{bmatrix} \} \\
+\end{pmatrix} \\
+&= \begin{pmatrix}
+a\begin{bmatrix}x_1, y_1\end{bmatrix} + b\begin{bmatrix}x_2, y_2\end{bmatrix} \\
+c\begin{bmatrix}x_1, y_1\end{bmatrix} + d\begin{bmatrix}x_2, y_2\end{bmatrix} \\
+\end{pmatrix} \\
+&= \begin{pmatrix}
+ax_1 + bx_2 & ay_1 + by_2 \\
+cx_1 + dx_2 & cy_1 + dy_2 \\
+\end{pmatrix}
+\end{align}
+$$
+
+*** Source
+[cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-02-03 Fri 10:20]
+:FC_CREATED: 2023-02-03T18:20:58Z
+:FC_TYPE:  double
+:ID:       9eba762c-431b-4ca9-ae02-e8a53f7415b5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    38.94 | 2023-04-19T22:55:16Z |
+| back     | 2.50 |   5 |    35.57 | 2023-04-20T04:52:17Z |
+:END:
+
+[[id:a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a][Matrix multiplication]] as a [[id:ef6a5f11-0991-4fff-8453-5006362138e6][Linear combination]] of columns
+
+*** Back
+"Right-to-left
+
+$$
+A_{\ell\times n}B_{n \times m} = \begin{pmatrix}
+B_{\text{col}\,0} \cdot \{A_{\text{col}\,0}, \;\dots\;, A_{\text{col}\,\ell}\} \\
+\vdots \\
+B_{\text{col}\,m}} \cdot \{A_{\text{col}\,m}, \;\dots\;, A_{\text{col}\,\ell}\} \\
+\end{pmatrix}
+$$
+
+$$
+(A_{\ell\times n}B_{n \times m})_{\text{col}\,i} &= B_{\text{col}\,i} \cdot \{A_{\text{col}\,0}, \;\dots\;, A_{\text{col}\,\ell}\}
+$$
+
+$$
+\begin{align}
+AB = \begin{pmatrix}
+x_1 & y_1 \\
+x_2 & y_2 \\
+\end{pmatrix} \begin{pmatrix}
+a & b \\
+c & d \\
+\end{pmatrix} &= \begin{pmatrix}
+\begin{bmatrix}a \\ c\end{bmatrix} \cdot \{\begin{bmatrix}x_1 \\ x_2\end{bmatrix}, \begin{bmatrix}y_1 \\ y_2\end{bmatrix} \} \\
+\begin{bmatrix}b \\ d\end{bmatrix} \cdot \{\begin{bmatrix}x_1 \\ x_2\end{bmatrix}, \begin{bmatrix}y_1 \\ y_2\end{bmatrix} \} \\
+\end{pmatrix} \\
+&= \begin{pmatrix}
+a\begin{bmatrix}x_1, y_1\end{bmatrix} + b\begin{bmatrix}x_2, y_2\end{bmatrix} \\
+c\begin{bmatrix}x_1, y_1\end{bmatrix} + d\begin{bmatrix}x_2, y_2\end{bmatrix} \\
+\end{pmatrix} \\
+&= \begin{pmatrix}
+ax_1 + bx_2 & ay_1 + by_2 \\
+cx_1 + dx_2 & cy_1 + dy_2 \\
+\end{pmatrix}
+\end{align}
+$$
+*** Source
+[cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-02-03 Fri 11:06]
+:FC_CREATED: 2023-02-03T19:08:17Z
+:FC_TYPE:  cloze
+:ID:       02c9c2eb-2535-48b1-a1e4-db7b9179f32c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    45.44 | 2023-04-19T02:04:24Z |
+:END:
+
+$(A_{\ell\times n}B_{n \times m})_{\text{row}i}$ $=$ {{$A_{\text{row}\,i} \cdot \{B_{\text{row}\,0}, \;\dots\;, B_{\text{row}\,m}\}$}@0}
+
+*** Source
+[cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-02-03 Fri 11:06]
+:FC_CREATED: 2023-02-03T19:08:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:ID:       55fe55e0-dd8e-4867-a766-8ec9fb7e6951
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    38.86 | 2023-04-22T11:15:03Z |
+:END:
+
+$(A_{\ell\times n}B_{n \times m})_{\text{col}\,i}$ $=$ {{$B_{\text{col}\,i} \cdot \{A_{\text{col}\,0}, \;\dots\;, A_{\text{col}\,\ell}\}$}@0}
+
+*** Source
+[cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+#+print_bibliography:

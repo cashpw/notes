@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       39eb3ed8-8d95-4f99-9595-de8683301288
+:ROAM_REFS: [cite:@Combination2023]
+:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:END:
+#+title: Combination
+#+hugo_custom_front_matter: :slug "39eb3ed8-8d95-4f99-9595-de8683301288"
+#+author: Cash Prokop-Weaver
+#+date: [2023-02-03 Fri 07:34]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a combination is a selection of items from a set that has distinct members, such that the order of selection does not matter (unlike permutations). For example, given three fruits, say an apple, an orange and a pear, there are three combinations of two that can be drawn from this set: an apple and a pear; an apple and an orange; or a pear and an orange. [...] If the set has n elements, the number of k-combinations, denoted by $C(n,k)$ or $C_{k}^{n}$, is equal to the binomial coefficient [[[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]].
+
+[cite:@Combination2023]
+#+end_quote
+
+To restate the example above of the orange, pear, and apple using the [[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]: $\binom{3}{2} = 3$.
+
+Also see: [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-12 Sun 05:27]
+:FC_CREATED: 2023-03-12T12:27:35Z
+:FC_TYPE:  double
+:ID:       de7f4715-31ee-4f6b-b3cf-5906ebbe00e5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-03-16T15:02:49Z |
+| back     | 2.50 |   1 |     1.00 | 2023-03-16T15:14:33Z |
+:END:
+
+[[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]
+
+*** Back
+A selection from a set such that the order does not matter.
+*** Source
+[cite:@Combination2023]
+#+print_bibliography:

@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@grigorikHighPerformanceBrowserNetworking2013] [cite:@grigorikHighperformanceBrowserNetworking2013]
+:ID:       0b07906d-4880-4e86-ab7c-710b47104d82
+:LAST_MODIFIED: [2023-03-17 Fri 09:46]
+:END:
+#+title: Ilya Grigorik | High-Performance Browser Networking
+#+hugo_custom_front_matter: :slug "0b07906d-4880-4e86-ab7c-710b47104d82"
+#+author: Cash Weaver
+#+date: [2023-03-17 Fri 08:23]
+#+filetags: :has_todo:reference:
+
+[[id:c9d1bb7a-c8a8-46f6-bbb9-1a64b74bf4cc][Ilya Grigorik]], [cite:@grigorikHighperformanceBrowserNetworking2013]
+
+* TODO Summary
+* TODO Thoughts
+* INPROGRESS [#1] Notes
+** Networking 101
+*** Primer on Latency and Bandwidth
+
+- [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
+- [[id:d8a227fc-1de2-4dc8-bfc1-236ac1531f69][Bandwidth]]
+*** TODO [#2] Building blocks of TCP
+*** TODO [#2] Building blocks of UDP
+*** TODO [#2] Transport layer security (TLS)
+** TODO [#4] Performance of wireless networks
+*** TODO [#4] WiFi
+*** TODO [#4] Mobile networks
+*** TODO [#4] Optimizing for mobile networks
+** TODO [#2] HTTP
+*** TODO [#2] Brief history of HTTP
+*** TODO [#2] Primer on web performance
+*** TODO [#2] HTTP/1.X
+*** TODO [#2] HTTP/2
+*** TODO [#2] Optimizing application delivery
+** TODO [#2] Browser APIs and protocols
+*** TODO [#2] Primer on browser networking
+*** TODO [#2] XMLHttpRequest
+*** TODO [#2] Server-sent events
+*** TODO [#2] WebSocket
+*** TODO [#2] WebRTC
+* TODO [#2] Flashcards
+#+print_bibliography:

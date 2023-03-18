@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       25f5faeb-aeeb-4ae6-998c-08940cb60c3f
+:LAST_MODIFIED: [2023-02-11 Sat 07:31]
+:END:
+#+title: Socratic grilling
+#+hugo_custom_front_matter: :slug "25f5faeb-aeeb-4ae6-998c-08940cb60c3f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-18 Mon 19:05]
+#+filetags: :concept:
+
+#+begin_quote
+[...] like Socratic questioning, but a little harsher and more confrontational in order to get to the point more quickly.
+
+[[id:cb4ba655-dabf-40a2-95e7-0cdbff887074][Scott Alexander | Socratic Grilling]]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       6fdd6f11-ed71-4ab3-877b-bf1387182aff
+:ANKI_NOTE_ID: 1658196404650
+:FC_CREATED: 2022-07-19T02:06:44Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |    92.57 | 2023-05-10T11:19:37Z |
+| front    | 2.80 |   6 |   113.20 | 2023-06-04T20:22:51Z |
+:END:
+[[id:25f5faeb-aeeb-4ae6-998c-08940cb60c3f][Socratic grilling]]
+*** Back
+Related to [[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]] but a littler harsher and more confrontational in order to get to the point quickly.
+*** Source
+[cite:@alexanderSocraticGrilling2020]
+#+print_bibliography:

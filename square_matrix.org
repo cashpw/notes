@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       09208dbb-8043-4ef2-ac56-be944afb1dfa
+:ROAM_REFS: [cite:@SquareMatrix2021]
+:LAST_MODIFIED: [2023-02-17 Fri 07:02]
+:END:
+#+title: Square matrix
+#+hugo_custom_front_matter: :slug "09208dbb-8043-4ef2-ac56-be944afb1dfa"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-21 Sun 05:23]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a square matrix is a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] with the same number of rows and columns. An n-by-n matrix is known as a square matrix of order \(n\).
+
+[cite:@SquareMatrix2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 12:30]
+:FC_CREATED: 2022-11-18T20:31:26Z
+:FC_TYPE:  double
+:ID:       41af430d-4a91-48cd-a456-6aaf9c319356
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   110.41 | 2023-06-03T03:16:01Z |
+| back     | 2.80 |   6 |   106.94 | 2023-06-04T13:41:56Z |
+:END:
+
+[[id:09208dbb-8043-4ef2-ac56-be944afb1dfa][Square matrix]]
+
+*** Back
+A matrix which has the same number of rows and columns.
+*** Source
+[cite:@SquareMatrix2021]
+#+print_bibliography:

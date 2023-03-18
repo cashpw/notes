@@ -1,0 +1,197 @@
+:PROPERTIES:
+:ID:       a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad
+:ROAM_ALIASES: "Binary heaps"
+:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:END:
+#+title: Binary heap
+#+hugo_custom_front_matter: :slug "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 09:22]
+#+filetags: :concept:
+
+#+begin_quote
+A binary heap is a [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that takes the form of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]. Binary heaps are a common way of implementing [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queues]].
+
+[...]
+
+A binary heap is defined as a binary tree with two additional constraints:
+
+1. Shape property: a binary heap is a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]; that is, all levels of the tree, except possibly the last one (deepest) are fully filled, and, if the last level of the tree is not complete, the nodes of that level are filled from left to right.
+1. [[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]: the key stored in each node is either greater than or equal to (≥; [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap]]) or less than or equal to (≤; [[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap]]) the keys in the node's children, according to some total order.
+
+[...]
+
+Binary heaps are also commonly employed in the heapsort sorting algorithm, which is an in-place algorithm because binary heaps can be implemented as an [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]], storing keys in an [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Array]] and using their relative positions within that array to represent child–parent relationships.
+
+[formatting and links added]
+
+[cite:@BinaryHeap2022]
+#+end_quote
+
+#+begin_quote
+Example of a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] binary [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap]].
+
+[[file:Max-Heap.svg.png]]
+
+[cite:@BinaryHeap2022]
+#+end_quote
+
+* Implementation
+
+- [[id:c49251f2-f550-4a7a-96cc-cbc17c5911b9][Max binary heap implementation in java]]
+- [[id:8178ba27-6553-4e8e-b7d4-125e72278029][Binary heap implementation in python]]
+
+* Operations
+** Insert
+#+begin_quote
+1. Add the element to the bottom level of the heap at the leftmost open space.
+2. Compare the added element with its parent; if they are in the correct order, stop.
+3. If not, swap the element with its parent and return to the previous step.
+
+[cite:@BinaryHeap2022]
+#+end_quote
+
+** Extract
+#+begin_quote
+1. Replace the root of the heap with the last element on the last level.
+1. Compare the new root with its children; if they are in the correct order, stop.
+1. If not, swap the element with one of its children and return to the previous step. (Swap with its smaller child in a min-heap and its larger child in a max-heap.)
+
+[cite:@BinaryHeap2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       fb95c69c-a49c-4577-91e6-ec8aaf0c8c6f
+:ANKI_NOTE_ID: 1656857000357
+:FC_CREATED: 2022-07-03T14:03:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   193.53 | 2023-07-23T04:59:44Z |
+| front    | 2.95 |   7 |   337.24 | 2024-01-27T09:27:50Z |
+:END:
+[[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]]
+*** Back
+A [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that takes the form of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]].
+*** Source
+[cite:@BinaryHeap2022]
+** {{[[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heaps]]}@0} are a common way of implementing {{[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queues]]}@1} :fc:
+:PROPERTIES:
+:ID:       bb9dba76-1d38-4aaa-b9d9-bc1c4adffe53
+:ANKI_NOTE_ID: 1656857001208
+:FC_CREATED: 2022-07-03T14:03:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.95 |   7 |   348.63 | 2024-02-21T18:18:31Z |
+|        0 | 2.80 |   7 |   352.96 | 2024-03-04T13:06:21Z |
+:END:
+*** Extra
+*** Source
+[cite:@BinaryHeap2022]
+** Algorithm :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T02:14:26Z
+:FC_TYPE:  normal
+:ID:       01dd4c1e-ca91-4572-bcb9-44d26bd4f882
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   134.93 | 2023-06-17T13:27:34Z |
+:END:
+Insertion into a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]]
+*** Back
+1. Add the element to the bottom level of the heap at the leftmost open space.
+2. =heapify_up=
+
+*** Source
+[cite:@BinaryHeap2022]
+
+** Algorithm :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-22T02:14:29Z
+:FC_TYPE:  normal
+:ID:       ecffea4f-ba5e-4caa-8ba1-ce1387bb2dc9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   146.85 | 2023-06-22T11:15:47Z |
+:END:
+=Heap.pop= for a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]]
+*** Back
+1. Replace the root of the heap with the last element on the last level.
+2. Remove the last element of the heap
+3. =heapify_down=
+4. Return the element from step 2
+*** Source
+[cite:@BinaryHeap2022]
+
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-21 Fri 16:36]
+:FC_CREATED: 2022-10-21T23:43:02Z
+:FC_TYPE:  double
+:ID:       5974c9f6-4acd-4a43-8068-5f27b7ec2854
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   160.87 | 2023-07-21T20:44:13Z |
+| back     | 2.80 |   6 |   132.21 | 2023-07-08T20:48:25Z |
+:END:
+
+=Heap.heapify_up= algorithm
+
+*** Back
+
+- Called after inserting a new value into the heap
+- Swaps elements in the [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] such that it maintains its [[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]
+
+Steps:
+
+1. Compare the element at the end of the heap with its parent; if they are in the correct order, stop.
+2. If not, swap the element with its parent and return to the previous step.
+
+*** Source
+[cite:@BinaryHeap2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-10-21 Fri 16:43]
+:FC_CREATED: 2022-10-21T23:44:46Z
+:FC_TYPE:  double
+:ID:       3ceb78bc-d524-48df-96d8-8484c5acf6c2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   131.86 | 2023-06-03T13:37:20Z |
+| back     | 2.50 |   6 |   126.92 | 2023-06-13T21:48:50Z |
+:END:
+
+=Heap.heapify_down= algorithm
+
+*** Back
+
+- Called after removing the top of the heap
+- Swaps elements in the [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] such that it maintains its [[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]
+
+Steps:
+
+1. Compare the root with its children; if they are in the correct order, stop.
+2. If not, swap the element with one of its children and return to the previous step. (Swap with its smaller child in a min-heap and its larger child in a max-heap.)
+*** Source
+[cite:@BinaryHeap2022]
+#+print_bibliography:

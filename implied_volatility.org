@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       7b2744d7-c760-474b-97ef-120da8b4220f
+:LAST_MODIFIED: [2023-03-02 Thu 06:09]
+:END:
+#+title: Implied volatility
+#+hugo_custom_front_matter: :slug "7b2744d7-c760-474b-97ef-120da8b4220f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-06 Sun 18:08]
+#+filetags: :has_todo:concept:
+* TODO [#2]
+[cite:@ImpliedVolatility2022]
+* TODO [#2] Flashcards
+** [[id:7b2744d7-c760-474b-97ef-120da8b4220f][Implied volatility]] looks {{forward}{direction}@0} in time :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 18:10]
+:FC_CREATED: 2022-11-07T02:10:59Z
+:FC_TYPE:  cloze
+:ID:       c6dc9be8-5f68-47e2-b9ef-b30a77688c39
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   5 |    25.05 | 2023-03-27T15:23:01Z |
+:END:
+
+*** Source
+[cite:@VolatilityFinance2022]
+#+print_bibliography:

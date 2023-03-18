@@ -1,0 +1,1720 @@
+:PROPERTIES:
+:ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
+:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:END:
+#+title: Linear algebra
+#+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 11:12]
+#+filetags: :has_todo:concept:
+* TODO [#2] Flashcards
+** AKA :fc:
+:PROPERTIES:
+:ID:       83aedce6-ed1c-4406-afe8-b2bcdc6ea789
+:ANKI_NOTE_ID: 1640628557703
+:FC_CREATED: 2021-12-27T18:09:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |  12 |   140.44 | 2023-04-01T13:21:01Z |
+|        1 | 1.60 |   4 |     9.18 | 2023-03-24T18:47:38Z |
+:END:
+
+- {{Expansion of $\vec{v}$ in the basis $\beta$}@0}
+- {{$\vec{v} = \alpha_1\beta_1 + \cdots + \alpha_n\beta_n$}@1}
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** {{$\|\mathbf{C}\vec{v}\|^2$}{norm}@0} $=$ {{$n\operatorname{stddev}(\vec{v})^2$}{function}@1} :fc:
+:PROPERTIES:
+:ID:       e9038ab3-7e71-4b5f-874f-142306b1ec5f
+:ANKI_NOTE_ID: 1656854713927
+:FC_CREATED: 2022-07-03T13:25:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.85 |   4 |    12.13 | 2023-03-20T20:36:42Z |
+|        1 | 2.80 |   7 |   194.07 | 2023-07-03T16:02:00Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** AKA :fc:
+:PROPERTIES:
+:ID:       62d48123-8b26-4a46-ac4f-bf02f6333f66
+:ANKI_NOTE_ID: 1640628534001
+:FC_CREATED: 2021-12-27T18:08:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   9 |   207.21 | 2023-06-24T23:36:41Z |
+|        1 | 2.35 |   8 |   339.78 | 2024-02-12T22:06:34Z |
+:END:
+
+- {{Constant polynomial}@0}
+- {{Polynomial of degree zero}@1}
+
+*** Extra
+eg: $5$
+
+*** Source
+[cite:@DegreePolynomial2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       9a287ecf-3a13-4fb0-9456-967273e66003
+:ANKI_NOTE_ID: 1640628535403
+:FC_CREATED: 2021-12-27T18:08:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  10 |   228.58 | 2023-09-04T05:11:09Z |
+|        1 | 2.80 |   8 |   292.63 | 2023-12-16T07:12:10Z |
+:END:
+
+- {{Cubic polynomial}@0}
+- {{Polynomial of degree three}@1}
+
+*** Extra
+eg: $x+y^3$, $x+xy^2$
+
+*** Source
+[cite:@DegreePolynomial2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       fb674587-9fcd-4a4e-aad0-3c1deb154f74
+:ANKI_NOTE_ID: 1640628534576
+:FC_CREATED: 2021-12-27T18:08:54Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   329.47 | 2024-01-03T10:13:19Z |
+|        1 | 2.20 |   6 |    72.11 | 2023-04-03T17:09:46Z |
+:END:
+
+- {{Linear polynomial}@0}
+- {{Polynomial of degree one}@1}
+
+*** Extra
+eg: $x+y$, $y$
+
+*** Source
+[cite:@DegreePolynomial2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       62f5afc4-5bd2-4296-b4dd-4e3654fe4e8a
+:ANKI_NOTE_ID: 1640628536527
+:FC_CREATED: 2021-12-27T18:08:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   146.84 | 2023-04-01T13:07:00Z |
+|        1 | 2.65 |   7 |   136.80 | 2023-03-23T11:55:08Z |
+:END:
+
+- {{Linear subspace}@0}
+- {{Vector subspace}@1}
+
+*** Source
+[cite:@LinearSubspace2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       4b5c1186-c692-42eb-b9e5-514674b774ad
+:ANKI_NOTE_ID: 1640628535126
+:FC_CREATED: 2021-12-27T18:08:55Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |  10 |   408.39 | 2024-04-27T00:29:39Z |
+|        1 | 2.80 |   8 |   303.41 | 2023-12-17T13:10:54Z |
+:END:
+
+- {{Quadratic polynomial}@0}
+- {{Polynomial of degree two}@1}
+
+*** Extra
+eg: $x+y^2$, $x+xy$
+
+*** Source
+[cite:@DegreePolynomial2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       595de297-c798-45ff-8378-ff86c4a2ea9c
+:ANKI_NOTE_ID: 1640627905721
+:FC_CREATED: 2021-12-27T17:58:25Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |  15 |   315.91 | 2023-11-27T14:09:30Z |
+:END:
+Describe the properties required for $U$ to be a subspace of a vector space $V$ over a field $F$, given $U \subset V$.
+*** Back
+1. Additive identify
+
+   $\vec{0} \in U$
+2. Closed under addition
+
+   $\vec{a} + \vec{b} \in U \; | \; \vec{a}, \vec{b} \in U$
+3. Closed under scalar multiplication
+
+   $a\vec{b} \in U \; | \; a \in F; \; \vec{b} \in U$
+
+All other properties of a vector space are inherited from $V$.
+*** Source
+[cite:@VectorSpace2022]
+
+** Definition (Vector spaces; Linear algebra) :fc:
+:PROPERTIES:
+:ID:       8f8c2e5c-7757-4612-a78e-58a337b2bea6
+:ANKI_NOTE_ID: 1640627849024
+:FC_CREATED: 2021-12-27T17:57:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   275.94 | 2023-10-09T13:03:57Z |
+| front    | 2.20 |   8 |   220.44 | 2023-09-03T03:21:05Z |
+:END:
+
+Linear dependence
+
+*** Back
+A property of a set of vectors which indicates at least one can be defined as a linear combination of the others.
+
+*** Extra
+$(0, 1), (1, 0), \text{and } (1, 1)$ are linearly dependent
+
+*** Source
+[cite:@LinearIndependence2022]
+
+** Definition (Vector spaces; Linear algebra) :fc:
+:PROPERTIES:
+:ID:       4e0df85a-6fa0-40da-b322-90784251360a
+:ANKI_NOTE_ID: 1640627849197
+:FC_CREATED: 2021-12-27T17:57:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   159.17 | 2023-04-14T21:01:03Z |
+| front    | 2.50 |   9 |   313.04 | 2023-12-27T03:00:12Z |
+:END:
+
+Linear Independence
+
+*** Back
+A property of a set of vectors which indicates none of the vectors can be defined as a linear combination of the others.
+
+*** Extra
+$(0, 1), (1, 0)$ are linearly independent
+
+*** Source
+[cite:@LinearIndependence2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       3d8bb14a-af12-433a-9907-634f2dc30c3a
+:ANKI_NOTE_ID: 1640627844298
+:FC_CREATED: 2021-12-27T17:57:24Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   158.54 | 2023-03-25T03:34:23Z |
+| front    | 2.50 |   6 |    78.91 | 2023-03-28T13:13:18Z |
+:END:
+
+Norm
+
+*** Back
+A function that assigns a strictly positive length or size to each vector in a vector space — except for the zero vector, which is assigned a length of zero.
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       fc219f52-498d-419e-b4df-ec12052053d5
+:ANKI_NOTE_ID: 1640627851723
+:FC_CREATED: 2021-12-27T17:57:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   6 |    75.31 | 2023-05-15T11:47:16Z |
+| front    | 2.50 |   8 |   233.09 | 2023-08-24T18:33:45Z |
+:END:
+
+Cauchy-Schwarz Inequality
+
+*** Back
+$\lvert\vec{x}\cdot\vec{y}\rvert \leq \lVert\vec{x}\rVert\lVert\vec{y}\rVert$
+
+*** Source
+[cite:@CauchySchwarzInequality2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       dec12b05-be0f-447b-a082-9b39bbe123bc
+:ANKI_NOTE_ID: 1640627852524
+:FC_CREATED: 2021-12-27T17:57:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   8 |   362.38 | 2024-02-23T02:31:51Z |
+| front    | 2.80 |  11 |   236.99 | 2023-08-07T01:42:03Z |
+:END:
+
+Row equivalent matrices
+
+*** Back
+Matrices which are interreducible by elementary row operations.
+
+*** Source
+[cite:@RowEquivalence2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       d54b4c93-4a15-4dc5-b51a-94fed7dc28d0
+:ANKI_NOTE_ID: 1640627853823
+:FC_CREATED: 2021-12-27T17:57:33Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   236.15 | 2023-09-24T18:06:25Z |
+| front    | 2.65 |   7 |   155.66 | 2023-04-11T13:38:05Z |
+:END:
+
+System of linear equations
+
+*** Back
+A collection of linear equations which share the same set of variables.
+
+*** Source
+[cite:@LinearEquation2022]
+** Definition
+:PROPERTIES:
+:ID:       57fbf2f3-cf62-4986-97c3-a1e187d39954
+:ANKI_NOTE_ID: 1640627848196
+:FC_CREATED: 2021-12-27T17:57:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   129.84 | 2023-02-21T11:11:36Z |
+| front    | 2.35 |   8 |   208.39 | 2023-07-13T03:06:07Z |
+:END:
+
+Additive inverse
+
+*** Back
+A number which, when added to $x$, yields the additive identity: $0$.
+
+*** Extra
+Denoted $-x$.
+
+*** Source
+[cite:@InverseElement2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       64766e06-2a41-4404-ae21-07756d50619b
+:ANKI_NOTE_ID: 1640627855496
+:FC_CREATED: 2021-12-27T17:57:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   204.29 | 2023-07-03T00:12:46Z |
+| front    | 2.50 |   8 |   228.39 | 2023-08-15T23:31:52Z |
+:END:
+
+Column space of a matrix
+
+*** Back
+The span of the column vectors of the matrix.
+
+*** Source
+[cite:@RowColumnSpaces2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       32a70da4-5ef9-46ad-bf00-f004449d799f
+:ANKI_NOTE_ID: 1640627842694
+:FC_CREATED: 2021-12-27T17:57:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   264.01 | 2023-09-11T14:29:54Z |
+| front    | 2.65 |   8 |   155.40 | 2023-03-19T01:00:03Z |
+:END:
+
+Elementary matrices
+
+*** Back
+Matrices which differ from the identity matrix by one elementary row operation.
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       cdc1f5cf-6518-42b9-aac2-be37300ba3dd
+:ANKI_NOTE_ID: 1640627853174
+:FC_CREATED: 2021-12-27T17:57:33Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 1.45 |   8 |    35.12 | 2023-04-15T08:18:44Z |
+| front    | 2.65 |   7 |   152.92 | 2023-04-18T12:34:37Z |
+:END:
+
+Gauss–Jordan elimination
+
+*** Back
+Using elementary row operations to convert a matrix into reduced row echelon form.
+
+*** Source
+[cite:@GaussianElimination2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       af754ac7-e899-4c1b-836b-c290fe5bb3bc
+:ANKI_NOTE_ID: 1640627852973
+:FC_CREATED: 2021-12-27T17:57:32Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   226.80 | 2023-07-27T21:16:15Z |
+| front    | 2.35 |   8 |   220.24 | 2023-07-27T00:36:44Z |
+:END:
+
+Interreducible Matrices
+
+*** Back
+Matrices which are equal given appropriate elementary row and column operations.
+
+*** Source
+[cite:@hefferonLinearAlgebra2020]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       ed742c0d-cc60-4fe4-95d2-67408e80ad9d
+:ANKI_NOTE_ID: 1640627849597
+:FC_CREATED: 2021-12-27T17:57:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  12 |   202.46 | 2023-06-18T05:27:18Z |
+| front    | 2.20 |   6 |    63.58 | 2023-03-23T05:08:49Z |
+:END:
+
+Linear combination
+
+*** Back
+An expression constructed from a set of terms by multiplying each term by a constant and adding the results.
+
+*** Extra
+$(2, 2)$ is a linear combination of $(1, 0)$ and $(0, 1)$: \[2 * (1, 0) + 2 * (0, 1)\]
+
+*** Source
+[cite:@LinearCombination2022]
+** Definition :fc:
+
+Linear equation
+
+*** Back
+An equation that can be written as $a_1{x_1}+ \cdots +a_n{x_n}=0$.
+
+*** Source
+[cite:@LinearEquation2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       7cf5f9ef-5e8a-4d44-9918-3bde9df7da2d
+:ANKI_NOTE_ID: 1640627850222
+:FC_CREATED: 2021-12-27T17:57:30Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   209.72 | 2023-06-27T11:57:54Z |
+| front    | 2.80 |   8 |   251.53 | 2023-09-11T03:43:37Z |
+:END:
+
+Linear span
+
+*** Back
+The set of all linear combinations of a set of vectors.
+
+*** Source
+[cite:@LinearSpan2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       480c1a62-8889-4b7e-a8a7-7ab506a2d8a5
+:ANKI_NOTE_ID: 1640627855075
+:FC_CREATED: 2021-12-27T17:57:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |  10 |   199.51 | 2023-07-02T06:50:10Z |
+| front    | 2.65 |   8 |   353.87 | 2024-02-25T14:17:26Z |
+:END:
+
+Linear subspace
+
+*** Back
+A vector space that is a subset of some larger vector space.
+
+*** Source
+[cite:@LinearSubspace2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       d5fa5aba-ef22-4ed0-b3e8-bfc506cf43ab
+:ANKI_NOTE_ID: 1658684575733
+:FC_CREATED: 2022-07-24T17:42:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   7 |   220.90 | 2023-08-12T14:05:56Z |
+| back     | 2.35 |   7 |   216.03 | 2023-09-28T04:50:22Z |
+:END:
+Space conversions underlying $A_{3 \times 4} B_{4 \times 2} \vec{x}$
+*** Back
+1. $x$ is converted from 2-D space $\xrightarrow{B}$ 4-D space
+2. $x$ is converted from 4-D space $\xrightarrow{A}$ 3-D space
+** Basic (and reversed card) :fc:
+:PROPERTIES:
+:ID:       e3e48c10-8df4-4ea3-8f41-1f45b1748a41
+:ANKI_NOTE_ID: 1640627794747
+:FC_CREATED: 2021-12-27T17:56:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    77.88 | 2023-04-05T11:39:12Z |
+| back     | 2.65 |  10 |   126.48 | 2023-03-21T03:05:00Z |
+:END:
+
+Describe how to solve $\{f: V \to W \; | \; V \in \mathbb{R}^n; \; W \in \mathbb{R}^k; \;$ $\beta_V \neq \varepsilon_n; \; \beta_W \neq \varepsilon_k\}$ for an arbitrary $\vec{v}$.
+
+*** Back
+1. $f(\vec{v}) = \begin{bmatrix}f\end{bmatrix}_{\beta_V}^{\beta_W}$
+2. $\begin{bmatrix}f\end{bmatrix}_{\beta_V}^{\beta_W} =$ $\begin{bmatrix}\begin{bmatrix}f(\beta_{V_1})\end{bmatrix}_{\beta_W} \cdots \; \begin{bmatrix}f(\beta_{V_n})\end{bmatrix}_{\beta_W}\end{bmatrix}$ $=$ $\begin{bmatrix}\beta_W^{-1} f(\beta_{V_1}) \cdots \beta_W^{-1} f(\beta_{V_n})\end{bmatrix}$
+3. $\beta_W^{-1} = \begin{bmatrix}\beta_{W_1} \cdots \; \beta_{W_k}\end{bmatrix}^{-1}$.
+4. $f(\beta_{V_1}) \cdots \; f(\beta_{V_n})$ must be given or calculated from a known formula.
+** Describe :fc:
+:PROPERTIES:
+:ID:       ddcfacb0-c05f-4654-9a29-3bf2bfaebe43
+:ANKI_NOTE_ID: 1640627795121
+:FC_CREATED: 2021-12-27T17:56:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   7 |   102.84 | 2023-06-24T11:07:02Z |
+| back     | 2.65 |   7 |   151.99 | 2023-04-26T14:56:26Z |
+:END:
+
+The quantities which must be known to find an equation that represents the effect of a linear map on an arbitrary vector.
+
+*** Back
+$f: V \to W$
+
+1. Basis of $V$, $\beta_V$.
+2. Basis of $W$, $\beta_W$.
+3. $f(\beta_{V_i}) \; \forall \; \beta_{V_i} \in \beta_V$
+** {{$\begin{bmatrix}f\end{bmatrix}_{\beta_1}^{\beta_2}$}{Coordinate}@0} $=$ {{$\begin{bmatrix}\begin{bmatrix}f(\beta_{1_1})\end{bmatrix}_{\beta_2} \cdots \; \begin{bmatrix}f(\beta_{1_n})\end{bmatrix}_{\beta_2}\end{bmatrix}$}{Block matrix}@1}
+:PROPERTIES:
+:ID:       0576674d-4024-49ad-82b6-7607ead41662
+:ANKI_NOTE_ID: 1658684449359
+:FC_CREATED: 2022-07-24T17:40:49Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   5 |       43 | 2022-10-09T13:00:00Z |
+|        1 |  2.5 |   5 |       32 | 2022-09-27T13:00:00Z |
+|        2 |  2.5 |   5 |       23 | 2022-09-22T13:00:00Z |
+|        3 |  2.5 |   5 |       35 | 2022-10-16T13:00:00Z |
+|       10 |  2.5 |   4 |       16 | 2022-09-16T13:00:00Z |
+|       14 |  2.5 |   4 |       17 | 2022-09-20T13:00:00Z |
+:END:
+** {{$\begin{bmatrix}f\end{bmatrix}_{\beta_1}^{\beta_2}$}{Coordinate}@0} $=$ {{$\begin{bmatrix}\beta_2^{-1} f(\beta_{1_1}) \cdots \beta_2^{-1} f(\beta_{1_n})\end{bmatrix}$}{Inverse}@1}
+:PROPERTIES:
+:ANKI_NOTE_ID: 1658684449359
+:FC_CREATED: 2022-07-24T17:40:49Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       9a20a249-c2ab-44fc-bddc-c594d5ed3a0b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   5 |       23 | 2022-09-22T13:00:00Z |
+|        1 |  2.5 |   5 |       35 | 2022-10-16T13:00:00Z |
+:END:
+** Denotes :fc:
+:PROPERTIES:
+:ID:       d7a8956e-1da4-4e26-bcde-50b4fca25e37
+:ANKI_NOTE_ID: 1640627796472
+:FC_CREATED: 2021-12-27T17:56:36Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   198.17 | 2023-06-04T20:08:44Z |
+|        1 | 2.80 |   8 |   309.79 | 2023-12-13T23:06:46Z |
+:END:
+
+- {{$\displaystyle O$, or $0_{n \times m}$}@0}
+
+{{The zero matrix.}@1}
+
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:ID:       0ee37a5f-44e2-4c12-b6c4-c4c0eee1b315
+:ANKI_NOTE_ID: 1640627794020
+:FC_CREATED: 2021-12-27T17:56:34Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   241.52 | 2023-08-15T06:27:52Z |
+|        1 | 2.65 |   8 |   337.31 | 2024-02-14T22:43:13Z |
+:END:
+
+- {{$\operatorname{dim}(V)$}@0}
+
+{{The dimension of the vector space $V$.}@1}
+
+*** Source
+[cite:@DimensionVectorSpace2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       82c95a16-b690-4826-8597-ade7ab4991e2
+:ANKI_NOTE_ID: 1640627881421
+:FC_CREATED: 2021-12-27T17:58:01Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   411.16 | 2024-04-11T07:50:52Z |
+| front    | 2.65 |   8 |   368.71 | 2024-03-16T08:02:38Z |
+:END:
+
+Dense vector/matrix
+
+*** Back
+A vector/matrix in which most of the values are non-zero.
+
+*** Source
+[cite:@SparseMatrix2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       c9b96366-6e5c-4229-b0d7-53c5ebedbda0
+:ANKI_NOTE_ID: 1640627861796
+:FC_CREATED: 2021-12-27T17:57:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   109.59 | 2023-06-16T06:18:51Z |
+| front    | 2.80 |   8 |   321.63 | 2023-12-21T07:08:14Z |
+:END:
+
+Diagonal matrix
+
+*** Back
+A matrix, $A$, with zeros in all positions except for $\{A_{i,j} \; \forall \; i = j\}$
+
+*** Source
+[cite:@DiagonalMatrix2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       478f8883-bc5e-405d-aa63-04951c0abe34
+:ANKI_NOTE_ID: 1640627865548
+:FC_CREATED: 2021-12-27T17:57:45Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   4 |    11.63 | 2023-03-22T20:33:54Z |
+| front    | 2.65 |   8 |   287.85 | 2023-12-27T11:30:22Z |
+:END:
+
+Eigenbasis
+
+*** Back
+A set of eigenvectors of a vector space, $V$, which span $V$.
+
+*** Source
+[cite:@EigenvaluesEigenvectors2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       65879986-0e25-42a3-9425-ad22088493a0
+:ANKI_NOTE_ID: 1640627863871
+:FC_CREATED: 2021-12-27T17:57:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   9 |   323.31 | 2023-12-10T21:56:21Z |
+| front    | 2.80 |   8 |   288.63 | 2023-10-24T06:40:23Z |
+:END:
+
+Eigenvalue
+
+*** Back
+The factor by which an associated eigenvector is scaled.
+
+*** Source
+[cite:@EigenvaluesEigenvectors2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       b119bcc9-54f2-4314-9f17-482bc21675f3
+:ANKI_NOTE_ID: 1640627863674
+:FC_CREATED: 2021-12-27T17:57:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   9 |   330.29 | 2024-01-22T23:11:27Z |
+| front    | 2.65 |   8 |   363.91 | 2024-03-15T11:57:57Z |
+:END:
+
+Eigenvector
+
+*** Back
+A vector in a vector space, $\vec{v} \in V$, with respect to some linear transformation, $f$, such that $f(\vec{v}) = c\vec{v}$.
+
+*** Extra
+A vector that, for a particular linear transformation of the vector space, remains on its span.
+
+Formally: $T(\vec{v}) = {\lambda}\vec{v}$ $V$ is a vector space, $T: V \to V$, $\vec{v} \in V$
+*** Source
+[cite:@EigenvaluesEigenvectors2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       2558fe32-d7ec-4cac-8119-6ee224ca8843
+:ANKI_NOTE_ID: 1640627857521
+:FC_CREATED: 2021-12-27T17:57:37Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   264.82 | 2023-09-22T17:30:03Z |
+| front    | 2.65 |   8 |   205.27 | 2023-06-18T22:08:27Z |
+:END:
+
+Full column rank
+
+*** Back
+A property of a matrix whose rank equals the number of columns.
+
+*** Source
+[cite:@RankLinearAlgebra2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       a00a20cd-8e76-4d28-96d7-1f7accf8e8f4
+:ANKI_NOTE_ID: 1640627856900
+:FC_CREATED: 2021-12-27T17:57:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   9 |   262.01 | 2023-11-04T05:09:24Z |
+| front    | 2.80 |   8 |   312.93 | 2024-01-05T14:07:53Z |
+:END:
+
+Full rank
+
+*** Back
+A matrix whose rank equals the largest possible for a matrix of its dimensions; the lesser of the number of rows and columns.
+
+*** Source
+[cite:@RankLinearAlgebra2022]
+
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       2714f95f-6fa1-411b-84f9-acf11921d171
+:ANKI_NOTE_ID: 1640627857698
+:FC_CREATED: 2021-12-27T17:57:37Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   288.80 | 2023-12-27T09:35:45Z |
+| front    | 2.65 |   8 |   304.65 | 2023-11-20T07:36:45Z |
+:END:
+
+Full row rank
+
+*** Back
+A property of a matrix whose rank equals the number of rows.
+
+*** Source
+[cite:@RankLinearAlgebra2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       ee9d4c0c-3f2d-4dac-911a-1e4556a60a78
+:ANKI_NOTE_ID: 1640627862198
+:FC_CREATED: 2021-12-27T17:57:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  12 |   264.05 | 2023-10-17T16:02:17Z |
+| front    | 2.65 |   8 |   349.44 | 2024-02-26T01:06:57Z |
+:END:
+
+Gram-Schmidt Process
+
+*** Back
+A method for orthonormalizing a linearly independent set of vectors.
+
+*** Source
+[cite:@GramSchmidtProcess2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       1705b21d-5aa5-48df-ba73-57a6b2b21c4c
+:ANKI_NOTE_ID: 1640627856472
+:FC_CREATED: 2021-12-27T17:57:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   6 |   129.89 | 2023-05-03T12:59:23Z |
+| front    | 3.10 |   6 |   137.93 | 2023-05-20T02:14:29Z |
+:END:
+
+Matrix inversion
+
+*** Back
+The process of finding the inverse of a matrix.
+
+*** Source
+[cite:@InvertibleMatrix2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       b34eab54-a1f3-40f0-aa4a-9b02402011a6
+:ANKI_NOTE_ID: 1640627890846
+:FC_CREATED: 2021-12-27T17:58:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   145.41 | 2023-03-31T02:48:05Z |
+| front    | 2.80 |   6 |   101.61 | 2023-04-27T07:07:14Z |
+:END:
+
+Normalized vector
+
+*** Back
+A vector, $\mathbf{\hat{v}}$, for which $\| \mathbf{\hat{v}} \| = 1$
+
+*** Source
+[cite:@UnitVector2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       06385afe-3170-4266-98e9-492c2d436c63
+:ANKI_NOTE_ID: 1640627891296
+:FC_CREATED: 2021-12-27T17:58:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   222.10 | 2023-07-06T17:26:14Z |
+| front    | 2.65 |   8 |   215.63 | 2023-07-07T10:24:46Z |
+:END:
+
+Normalizing a vector
+
+*** Back
+Converting a given vector, $\vec{v}$, to a unit vector in the direction of $\vec{v}$: $\mathbf{\hat{v}} = \frac{\vec{v}}{\| \vec{v} \|}$
+
+*** Source
+[cite:@UnitVector2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       01648d5b-eff7-4538-98f0-1a9af85e9629
+:ANKI_NOTE_ID: 1640627862804
+:FC_CREATED: 2021-12-27T17:57:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   5 |    34.89 | 2023-04-17T11:55:00Z |
+| front    | 2.65 |   8 |   154.99 | 2023-03-28T14:14:04Z |
+:END:
+
+Orthonormal Basis
+
+*** Back
+A basis whose vectors are orthogonal unit vectors.
+
+*** Source
+[cite:@OrthonormalBasis2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       7ac80274-b654-496a-8860-142a4ace63f9
+:ANKI_NOTE_ID: 1640627875797
+:FC_CREATED: 2021-12-27T17:57:55Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   313.60 | 2023-12-29T07:28:14Z |
+| front    | 2.65 |   8 |   371.20 | 2024-03-22T19:00:31Z |
+:END:
+
+Outer product
+
+*** Back
+An operation on two vectors which produces a matrix.
+
+*** Extra
+$\vec{a} \otimes \vec{b}$ $=$ $\begin{bmatrix} \vec{a}_1 \vec{b}_1 & \vec{a}_1 \vec{b}_2 & \cdots & \vec{a}_1 \vec{b}_m \\ \vec{a}_2 \vec{b}_1 & \vec{a}_2 \vec{b}_2 & \cdots & \vec{a}_2 \vec{b}_m \\ \vdots & \vdots & \ddots & \vdots \\ \vec{a}_n \vec{b}_1 & \vec{a}_n \vec{b}_2 & \cdots & \vec{a}_n \vec{b}_m\end{bmatrix}$
+
+*** Source
+[cite:@OuterProduct2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       ff1543e1-bc4a-49b9-8b93-79d0a7e67b56
+:ANKI_NOTE_ID: 1640627857097
+:FC_CREATED: 2021-12-27T17:57:37Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   216.39 | 2023-06-28T12:21:16Z |
+| front    | 2.65 |   8 |   376.45 | 2024-03-20T13:47:30Z |
+:END:
+
+Rank deficient
+
+*** Back
+A matrix that does not have full rank; whose rank is less than the lesser of the number of its rows and columns.
+
+*** Source
+[cite:@RankLinearAlgebra2022]
+** Definition (Linear algebra) :fc:
+:PROPERTIES:
+:ID:       d820bf8a-d8ff-4578-aa09-7aab0827e22d
+:ANKI_NOTE_ID: 1640627855901
+:FC_CREATED: 2021-12-27T17:57:35Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   9 |   341.90 | 2023-12-29T12:06:46Z |
+| front    | 2.35 |   8 |   210.36 | 2023-06-29T00:41:11Z |
+:END:
+
+Row space of a matrix
+
+*** Back
+The span of the row vectors of a matrix.
+
+*** Source
+[cite:@RowColumnSpaces2022]
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       46ab896c-4b68-4097-93cd-cae5a188eb0d
+:ANKI_NOTE_ID: 1640627891494
+:FC_CREATED: 2021-12-27T17:58:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   316.36 | 2024-01-13T00:34:27Z |
+| front    | 2.80 |   8 |   339.98 | 2024-02-03T14:27:33Z |
+:END:
+
+Block matrices
+
+*** Back
+A matrix that is interpreted as having been broken into sections or submatrices.
+
+*** Extra
+$\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{B} & = \begin{bmatrix} 2 & 3 \\ 5 & 6 \end{bmatrix} \\ \mathbf{C} & = \begin{bmatrix} 7 & 8 \\ 10 & 11 \end{bmatrix} \\ \mathbf{D} & = \begin{bmatrix} 9 \\ 12 \end{bmatrix} \\ \mathbf{E} & = \begin{bmatrix} \mathbf{A} & \mathbf{B} \\ \mathbf{C} & \mathbf{D} \end{bmatrix} \\ & = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \\ 10 & 11 & 12 \end{bmatrix} \end{aligned}$
+
+*** Source
+[cite:@BlockMatrix2022]
+
+** AKA :fc:
+:PROPERTIES:
+:ID:       fd3254a9-e502-4f47-902f-8180e0b12de7
+:ANKI_NOTE_ID: 1640628536852
+:FC_CREATED: 2021-12-27T18:08:56Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   310.51 | 2024-01-04T17:07:17Z |
+|        1 | 2.45 |  17 |   219.19 | 2023-09-15T23:27:30Z |
+|        2 | 2.65 |   7 |   166.89 | 2023-04-02T12:17:10Z |
+:END:
+
+- {{Column space of a matrix}@0}
+- {{Range of a matrix}@1}
+- {{Image of a matrix}@2}
+
+*** Source
+[cite:@RowColumnSpaces2022]
+** AKA :fc:
+:PROPERTIES:
+:ID:       95d060b1-de84-4dd0-b36f-587fd52796b3
+:ANKI_NOTE_ID: 1640628541901
+:FC_CREATED: 2021-12-27T18:09:01Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   9 |   199.50 | 2023-06-21T07:16:10Z |
+|        1 | 2.80 |  11 |   331.63 | 2023-12-10T06:06:10Z |
+:END:
+
+- {{Eigenvector}@0}
+- {{Characteristic vector}@1}
+
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:ID:       edfdd019-10c9-4a32-92f5-b31f221ad59d
+:ANKI_NOTE_ID: 1640628558002
+:FC_CREATED: 2021-12-27T18:09:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |  11 |   303.07 | 2023-12-25T05:15:21Z |
+|        1 | 2.65 |   8 |   157.60 | 2023-04-11T14:46:41Z |
+:END:
+
+- {{Unit vector}@0}
+- {{Normalized vector}@1}
+
+*** Source
+[cite:@UnitVector2022]
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       3403bf1c-baf1-4d47-b99f-bf324909cddf
+:ANKI_NOTE_ID: 1640627876023
+:FC_CREATED: 2021-12-27T17:57:56Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   147.92 | 2023-03-18T13:29:46Z |
+| front    | 2.50 |   8 |   337.37 | 2024-01-30T01:07:53Z |
+:END:
+
+Trace
+
+*** Back
+The sum of elements along the main diagonal of a matrix.
+
+*** Extra
+$\operatorname{tr}(A)$
+
+*** Source
+[cite:@TraceLinearAlgebra2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       d650930b-9c4b-4024-a7ee-28a4dbb56fce
+:ANKI_NOTE_ID: 1640628588877
+:FC_CREATED: 2021-12-27T18:09:48Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   391.59 | 2024-03-19T06:49:51Z |
+|        1 | 2.65 |   8 |   331.63 | 2024-02-06T15:40:59Z |
+:END:
+
+- {{$\mathbf{\hat{v}}$}@0}
+
+{{The unit vector in the direction of $\vec{v}$}@1}
+
+*** Source
+[cite:@UnitVector2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       6d918ce4-d7c4-45b5-b2f2-0a9343ca4447
+:ANKI_NOTE_ID: 1640628567627
+:FC_CREATED: 2021-12-27T18:09:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   332.37 | 2023-12-09T23:50:07Z |
+|        1 | 2.65 |   7 |   153.25 | 2023-04-10T21:46:05Z |
+:END:
+
+- {{$\operatorname{diag}(\vec{x})$}@0}
+
+{{$D_{n \times n}$, the diagonal matrix, where $D_{i, i} = \vec{x}_i$.}@1}
+
+*** Source
+[cite:@b0rk4AnswerStandardNotationDiagonalMatrices2016]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       6513fa81-d4d4-4e2b-94dc-7a963ed1debf
+:ANKI_NOTE_ID: 1640628566526
+:FC_CREATED: 2021-12-27T18:09:26Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   211.18 | 2023-07-15T00:29:25Z |
+|        1 | 2.80 |   8 |   295.35 | 2023-10-30T23:49:53Z |
+:END:
+
+- {{$\operatorname{proj}_{\vec{w}}(\vec{v})$}@0}
+
+{{The projection of $\vec{v}$ onto $\vec{w}$}@1}
+
+*** Source
+[cite:@VectorProjection2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       5ec2219b-6b65-48a0-bf1b-097aedcd4e6d
+:ANKI_NOTE_ID: 1640628578601
+:FC_CREATED: 2021-12-27T18:09:38Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   296.13 | 2023-10-24T00:52:03Z |
+|        1 | 2.35 |   8 |   188.84 | 2023-06-20T14:33:32Z |
+:END:
+
+- {{$\operatorname{trace}(A)$}@0}
+
+{{The trace of a matrix, $A$}@1}
+
+*** Source
+[cite:@TraceLinearAlgebra2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       68602c35-b3ae-42f7-ac55-1efbc0b02a1b
+:ANKI_NOTE_ID: 1640628583147
+:FC_CREATED: 2021-12-27T18:09:43Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   8 |   337.13 | 2024-02-04T18:26:29Z |
+|        1 | 2.50 |   8 |   247.14 | 2023-09-10T17:57:10Z |
+:END:
+
+- {{$\vec{1}$}@0}
+
+{{A vector of ones}@1}
+
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:ID:       80dbd60a-bb3c-4a5a-8f25-5eda5e80b3b9
+:ANKI_NOTE_ID: 1640628582797
+:FC_CREATED: 2021-12-27T18:09:42Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   176.09 | 2023-05-24T20:41:11Z |
+|        1 | 2.65 |   8 |   183.26 | 2023-05-09T20:46:58Z |
+|        2 | 2.50 |   6 |   111.12 | 2023-04-20T19:25:31Z |
+:END:
+
+- {{$\vec{a}$}@0}
+- {{$\mathbf{a}$}@1}
+
+{{A vector}@2}
+
+*** Source
+[cite:@VectorNotation2022]
+** Denotes :fc:
+:PROPERTIES:
+:ID:       c5fb24fa-b695-4b1e-9d8d-0bf2ac90ef43
+:ANKI_NOTE_ID: 1640628577451
+:FC_CREATED: 2021-12-27T18:09:37Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   9 |   293.20 | 2023-11-02T21:42:22Z |
+|        1 | 2.65 |   8 |   209.59 | 2023-06-24T04:36:17Z |
+:END:
+
+- {{$\vec{a} \otimes \vec{b}$}@0}
+
+{{Outer product}@1}
+
+*** Source
+[cite:@OuterProduct2022]
+** Algorithm :fc:
+:PROPERTIES:
+:ID:       5e14f59c-2a76-474f-815d-bd7bea1e0012
+:ANKI_NOTE_ID: 1658693978385
+:FC_CREATED: 2022-07-24T20:19:38Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   4 |    10.70 | 2023-03-19T11:21:15Z |
+| back     | 2.65 |   7 |   287.89 | 2023-12-14T01:15:10Z |
+:END:
+
+Gram-Schmidt process
+
+*** Back
+Given:
+
+1. $S$: a set of linearly independent vectors
+
+*Step1*
+
+$\vec{k_1} := \vec{s_1}$
+
+$\vec{k_2} := \vec{s_2} - \operatorname{proj}_{\vec{k_1}}(\vec{s_2})$
+
+$\vec{k_3} := \vec{s_3} - \operatorname{proj}_{\vec{k_1}}(\vec{s_3}) - \operatorname{proj}_{\vec{k_2}}(\vec{s_3})$
+
+$\vdots$
+
+$\vec{k_i} := \vec{s_i} - \sum_{j = i}^{i-1}{\operatorname{proj}_{\vec{k_j}}(\vec{s_i})}$
+
+*Step2*
+
+$\vec{k} =  \frac{\vec{k}}{\lVert\vec{k}\rVert} \; \forall \; k \in K$
+** Describe :fc:
+:PROPERTIES:
+:ID:       44e01cbb-c207-4572-9794-ac7ff6b71cf7
+:ANKI_NOTE_ID: 1640628523951
+:FC_CREATED: 2021-12-27T18:08:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   177.45 | 2023-04-27T03:22:23Z |
+| back     | 2.50 |   8 |   271.40 | 2023-11-07T03:57:42Z |
+:END:
+
+How to find the inverse of a matrix, $M_{n \times n}$, using Gauss-Jordan elimination.
+
+*** Back
+1. Rewrite the matrix as an augmented matrix: $\left[\begin{array}{l|l}M_{n \times n} & I_{n \times n}\end{array}\right]$
+2. Perform Gauss-Jordan elimination
+** Describe :fc:
+:PROPERTIES:
+:ID:       f10fa787-d1f0-472d-8ff5-4939c4d57cc8
+:ANKI_NOTE_ID: 1655821234160
+:FC_CREATED: 2022-06-21T14:20:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   416.23 | 2024-05-01T05:57:21Z |
+| back     | 2.80 |   8 |   309.45 | 2023-12-09T02:38:36Z |
+:END:
+
+How to find the row space of a matrix
+
+*** Back
+1. Perform gaussian elimination or Gauss-Jordan elimination
+2. Take the non-zero rows of the (reduced) row echelon matrix
+** Describe :fc:
+:PROPERTIES:
+:ID:       75f7ad6d-00af-4d23-a3be-258f592d34c2
+:ANKI_NOTE_ID: 1640628522977
+:FC_CREATED: 2021-12-27T18:08:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   101.47 | 2023-04-30T02:43:31Z |
+| back     | 2.80 |  11 |   237.47 | 2023-10-12T13:18:33Z |
+:END:
+How to parameterize the solution set for a system of linear equations
+*** Back
+1. Convert to reduced row echelon form so the basic and free variables are clear to see
+2. Write the solution vector ($\vec{s}$): An $n \times 1$ vector where $n$ is the number of variables and the $i\text{-th}$ entry in the row is equal to the expression that equals the $i\text{-th}$ variable, in terms of the free variables
+3. Break the solution vector, $\vec{s}$, into a linear combination of the free variables
+*** Extra
+eg:
+
+$x - y + z = 0$ $\to$ $\left[\begin{array}{ccc|c}1 & -1 & 1 & 0\end{array}\right]$
+
+$\vec{s} = \begin{bmatrix}0 + y - z \\ 0 + y \\ 0 + z\end{bmatrix}$
+
+$S = \left \{ \begin{bmatrix}1 \\ 1 \\ 0\end{bmatrix}y + \begin{bmatrix}-1 \\ 0 \\ 1\end{bmatrix}z \;|\; y, z \in \mathbb{R} \right \}$
+** Describe :fc:
+:PROPERTIES:
+:ID:       80974c49-82c8-4bcc-869d-00281769174b
+:ANKI_NOTE_ID: 1655821262988
+:FC_CREATED: 2022-06-21T14:21:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   348.29 | 2024-02-13T11:09:25Z |
+| back     | 2.30 |  10 |   130.55 | 2023-04-10T06:47:34Z |
+:END:
+
+How to transform a matrix into row echelon form
+
+*** Back
+For rows $1...n-1$, ${row}_i$, if ${row}_i$ is nonzero:
+
+1. Add a scaled multiple of ${row}_i$ to ${row}_{i+1}$, such that the leading coefficient of $c \cdot {row}_i + {row}_{i+1}$ is $0$.
+** Describe :fc:
+:PROPERTIES:
+:ID:       bddbda6c-e4c9-43f6-ac64-6b1b93bacea4
+:ANKI_NOTE_ID: 1655821302736
+:FC_CREATED: 2022-06-21T14:21:42Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   278.83 | 2023-10-14T11:18:59Z |
+| back     | 2.80 |   8 |   382.27 | 2024-03-05T09:57:32Z |
+:END:
+
+Permutation matrix
+
+*** Back
+- A square binary matrix
+- Has exactly one entry of 1 in each row and column, with 0s elsewhere
+- Is used to swap rows/columns of another matrix
+- Can be constructed by swapping rows/columns of the Identity Matrix
+** {{$\vec{a} \cdot \vec{b}$}@0} $=$ {{$\|\vec{a}\| \|\vec{b}\| \cos(\angle \vec{a}, \vec{b})$}{norm}@1} :fc:
+:PROPERTIES:
+:ID:       ba948866-f192-4112-a77b-fb5de65e963f
+:ANKI_NOTE_ID: 1656854713352
+:FC_CREATED: 2022-07-03T13:25:13Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   248.19 | 2023-10-05T20:55:56Z |
+|        1 | 2.30 |  10 |   234.29 | 2023-10-05T00:27:53Z |
+:END:
+*** Source
+[cite:@DotProduct2022]
+** {{$\operatorname{ms}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{n} \sum \vec{x}_i^2$}{summation}@1} :fc:
+:PROPERTIES:
+:ID:       0815bed2-ff9c-4c1e-ba0a-c605d4408278
+:ANKI_NOTE_ID: 1656854717326
+:FC_CREATED: 2022-07-03T13:25:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   7 |   207.89 | 2023-09-07T12:53:45Z |
+|        1 | 2.80 |   7 |   241.99 | 2023-10-15T15:58:08Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** {{$\operatorname{ms}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{n} (\vec{x} \cdot \vec{x})$}{vector}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854717326
+:FC_CREATED: 2022-07-03T13:25:17Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       eb8e5fcb-df40-487e-b79b-ae806893c4f2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   148.58 | 2023-06-13T06:08:34Z |
+|        1 | 2.05 |   7 |   106.54 | 2023-06-13T05:09:59Z |
+:END:
+
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
+** {{$\operatorname{stddev}(\vec{x})$}{function}@0} $=$ {{$\sqrt{\frac{1}{n} \sum (\vec{x}_i - \mu)^2}$}{summation}@1} :fc:
+:PROPERTIES:
+:ID:       efc53c0f-18f8-4131-8e60-6a35f203dc82
+:ANKI_NOTE_ID: 1656854718176
+:FC_CREATED: 2022-07-03T13:25:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   6 |    54.66 | 2023-04-22T08:01:39Z |
+|        1 | 2.20 |   7 |   183.14 | 2023-08-01T19:46:12Z |
+:END:
+** {{$\operatorname{stddev}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{\sqrt{n}} \| \mathbf{C}\vec{x} \|$}{norm}@1} :suspended:fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656854718176
+:FC_CREATED: 2022-07-03T13:25:18Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       97f31305-6c2e-4d70-a9ac-312fb19c2412
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    68.43 | 2023-02-04T04:38:40Z |
+|        1 | 2.35 |   7 |    46.77 | 2022-12-11T08:54:54Z |
+:END:
+** Basic :fc:
+:PROPERTIES:
+:ID:       fd8c44ca-fc71-4f8b-b34a-ee3b4e97e712
+:ANKI_NOTE_ID: 1640628521351
+:FC_CREATED: 2021-12-27T18:08:41Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   324.72 | 2023-12-16T09:48:49Z |
+:END:
+
+$A_{m \times n} * \operatorname{diag}(\vec{x}) = B_{m \times n}$. Describe $B_{m \times n}$.
+
+*** Back
+$B_{i,j} = A_{i,j} * \vec{x}_j$;$B_{m \times n}$ is a column-scaled $A_{m \times n}$ by the values of $\vec{x}$.
+** Basic :fc:
+:PROPERTIES:
+:ID:       9932afe9-59ad-47fc-a4fd-1d92720de9da
+:ANKI_NOTE_ID: 1640628522026
+:FC_CREATED: 2021-12-27T18:08:42Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |  10 |   186.52 | 2023-05-16T06:04:34Z |
+:END:
+
+$A_{m \times n}P_{n \times n} = B_{m \times n}$ $|$ $P_{n \times n}$ is a permutation matrix. Describe $B_{m \times n}$.
+
+*** Back
+$B_{m \times n}$ is a column-swapped $A_{m \times n}$ based on $P_{n \times n}$.
+** Basic :fc:
+:PROPERTIES:
+:ID:       6d2c8cae-623a-4c42-aa7e-9aaa7385be5b
+:ANKI_NOTE_ID: 1640628521476
+:FC_CREATED: 2021-12-27T18:08:41Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   8 |   176.20 | 2023-05-05T20:57:53Z |
+:END:
+
+$\operatorname{diag}(\vec{x}) * A_{n \times m} = B_{n \times m}$. Describe $B_{n \times m}$.
+
+*** Back
+$B_{i,j} = A_{i,j} * \vec{x}_i$;$B_{n \times m}$ is a row-scaled $A_{n \times m}$ by the values of $\vec{x}$.
+** Basic :fc:
+:PROPERTIES:
+:ID:       347cb57a-4fa5-416e-8f06-36a8429185c6
+:ANKI_NOTE_ID: 1640628521629
+:FC_CREATED: 2021-12-27T18:08:41Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   393.37 | 2024-03-27T13:43:59Z |
+:END:
+
+$P_{n \times n}A_{n \times m} = B_{n \times m}$ $|$ $P_{n \times n}$ is a permutation matrix. Describe $B_{n \times m}$.
+
+*** Back
+$B_{n \times m}$ is a row-swapped $A_{n \times m}$ based on $P_{n \times n}$.
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       4fcd6819-7589-45d9-94c2-c43b52688903
+:ANKI_NOTE_ID: 1640627858871
+:FC_CREATED: 2021-12-27T17:57:38Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   9 |   215.17 | 2023-07-16T06:44:26Z |
+| front    | 2.65 |   7 |   143.71 | 2023-03-28T17:32:10Z |
+:END:
+
+Endomorphism
+
+*** Back
+A morphism from a mathematical object to itself.
+
+*** Source
+[cite:@Endomorphism2022]
+** Describe :fc:
+:PROPERTIES:
+:ID:       4677dc1d-e5e2-49cb-aa35-95abc0b5cce0
+:ANKI_NOTE_ID: 1655822659637
+:FC_CREATED: 2022-06-21T14:44:19Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.80 |   5 |    16.96 | 2023-04-03T13:03:02Z |
+| back     | 2.65 |   7 |   119.17 | 2023-04-05T19:42:57Z |
+:END:
+
+Axioms of a vector space, $V$, over a field, $F$
+
+*** Back
+1. $V$ is closed under vector addition
+
+   $\vec{v}_1 + \vec{v}_2 \in V \; \forall \; \vec{v}_1, \vec{v}_2 \in V$
+
+2. $V$ is closed under scalar multiplication
+
+   $a\vec{v} \in V \; \forall \; \vec{v} \in V \; \text{and} \; a \in F$
+
+3. Vector addition is associative
+
+   $\vec{v}_1+(\vec{v}_2+\vec{v}_3)=(\vec{v}_1+\vec{v}_2)+\vec{v}_3$
+4. Vector addition is commutative
+
+   $\vec{v}_1+\vec{v}_1=\vec{v}_2+\vec{v}_1$
+
+5. Scalar multiplication is distributitive w.r.t. vector addition
+
+   $a(\vec{v}_1+\vec{v}_2) = a\vec{v}_1+a\vec{v}_2$
+
+6. Scalar multiplication is distributitive w.r.t. field addition
+
+   $(a + b)\vec{v} = a\vec{v} + b\vec{v}$
+7. There is an additive inverse: $-\vec{v} \in V$
+
+   $\vec{v} + (-\vec{v}) = \vec{0} \; \forall \; \vec{v} \in V$
+
+8. There is a zero vector: $\vec{0}\in V$
+
+   $\vec{v}+\vec{0}=\vec{v} \; \forall \; \vec{v} \in V$
+
+9. There is a multiplicative identity element of $F$
+
+   $I\vec{v} = \vec{v} \; | \: \vec{v} \in V; \; I$
+
+*** Source
+- [cite:@LinearAlgebraDefinitionExamplesVectorSpacesWikibooksOpenBooksOpen]
+- [cite:@hefferonLinearAlgebra2020]
+
+** Describe :fc:
+:PROPERTIES:
+:ID:       e0105a7f-999a-4fbf-babd-c8a4b0d8f86a
+:ANKI_NOTE_ID: 1655822731887
+:FC_CREATED: 2022-06-21T14:45:31Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   304.31 | 2023-12-27T23:46:27Z |
+| back     | 2.65 |   8 |   360.74 | 2024-02-24T21:48:27Z |
+:END:
+
+General = Particular + Homogeneous
+
+*** Back
+$S_g = \{S_p + S_h\}$ where $S_p$ is any particular solution and $S_h$ is the set set of the homogeneous system.
+*** Source
+[cite:@hefferonLinearAlgebra2020]
+** {{rotation matrix in $\mathbb{R}^2$}@0} $=$ {{$\begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{bmatrix}$}@1} :suspended:fc:
+:PROPERTIES:
+:ID:       5f864147-3207-4ae6-acac-d1fdcdd2b65d
+:ANKI_NOTE_ID: 1656854725975
+:FC_CREATED: 2022-07-03T13:25:25Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   149.92 | 2023-05-13T16:33:14Z |
+|        1 | 2.50 |   6 |    60.11 | 2022-12-20T18:01:38Z |
+:END:
+
+*** Source
+[cite:@RotationMatrix2022]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       e81f1ec6-fbd7-4ae3-88c5-9dab19b7481f
+:ANKI_NOTE_ID: 1640627831073
+:FC_CREATED: 2021-12-27T17:57:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   9 |   312.58 | 2023-11-22T06:40:51Z |
+| back     | 2.65 |  10 |   158.95 | 2023-04-06T15:22:26Z |
+:END:
+
+Isomorphism of two vector spaces
+
+*** Back
+- $f_1: \begin{bmatrix}a_0 \\ a_1 \end{bmatrix} \to \begin{bmatrix}a_0 & a_1\end{bmatrix}$
+- $f_2: \begin{bmatrix}a_0 & a_1 \\ a_2 & a_3\end{bmatrix} \to a_0 + {a_1}x + {a_2}x^2 + {a_3}x^3$
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       d09c4e4a-870d-42ab-a6ef-a0e8d597d6f2
+:ANKI_NOTE_ID: 1640627830895
+:FC_CREATED: 2021-12-27T17:57:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   8 |   204.12 | 2023-07-07T23:36:19Z |
+| back     | 2.50 |   6 |   102.85 | 2023-04-25T11:06:26Z |
+:END:
+
+Automorphism of a vector space
+
+*** Back
+- Scale: $s(\begin{bmatrix}x_0 \\ x_1 \end{bmatrix}) = \begin{bmatrix}2{x_0} \\ x_1 \end{bmatrix}$
+- Rotate: $r(\begin{bmatrix}x_0 \\ x_1 \end{bmatrix}) = \begin{bmatrix}cos \, \theta & -sin \, \theta \\ sin \, \theta & cos \, \theta \end{bmatrix} \begin{bmatrix}x_0 \\ x_1 \end{bmatrix}$
+** Describe :fc:
+:PROPERTIES:
+:ID:       f84e61de-638c-41d4-b277-b85725de72b3
+:ANKI_NOTE_ID: 1655822299905
+:FC_CREATED: 2022-06-21T14:38:19Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   224.94 | 2023-08-15T02:32:56Z |
+| back     | 2.65 |   7 |   151.17 | 2023-03-21T02:07:10Z |
+:END:
+
+Types of morphisms
+
+*** Back
+- Morphism: A structure-preserving map from one mathematical structure to another of the same type
+- Homomorphism: A morphism between algebraic structures
+- Isomorphism: A morphism that can be reversed by an inverse mapping
+- Endomorphism: A morphism from a structure to itself
+- Automorphism: An isomorphic endomorphism
+#+print_bibliography:

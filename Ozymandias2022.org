@@ -1,0 +1,126 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@Ozymandias2022]
+:ID:       7aa8dfb5-3aba-45b6-a6b5-0e718403d237
+:DIR:      /home/cashweaver/proj/roam/attachments/7aa8dfb5-3aba-45b6-a6b5-0e718403d237
+:ROAM_ALIASES: "Nothing beside remains" "The lone and level sands stretch far away" "Look on my works, ye Mighty, and despair!" "Ozymandias (Poem)"
+:LAST_MODIFIED: [2023-03-18 Sat 06:44]
+:END:
+#+title: Percy Bysshe Shelley | Ozymandias
+#+hugo_custom_front_matter: :slug "7aa8dfb5-3aba-45b6-a6b5-0e718403d237"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-26 Sat 18:30]
+#+filetags: :poem:
+ 
+#+begin_verse
+I met a traveller from an antique land
+Who said: "Two vast and trunkless legs of stone
+Stand in the desert. Near them, on the sand,
+Half sunk, a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them and the heart that fed:
+And on the pedestal these words appear:
+"My name is Ozymandias, king of kings;
+Look on my works, ye Mighty, and despair!"
+Nothing beside remains. Round the decay
+Of that colossal wreck, boundless and bare
+The lone and level sands stretch far away."
+#+end_verse
+
+[[id:0d6d106f-5a90-4dff-83ce-0eef1db38c61][Percy Bysshe Shelley]], [cite:@Ozymandias2022]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Poem :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-16T03:11:06Z
+:FC_TYPE:  cloze
+:ID:       245870cd-834d-47b3-a7ac-053649361b30
+:FC_CLOZE_MAX: 13
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   127.39 | 2023-06-24T12:51:49Z |
+|        1 | 2.80 |   6 |   119.89 | 2023-06-17T11:55:29Z |
+|        2 | 2.05 |   4 |    12.44 | 2023-03-28T01:46:24Z |
+|        3 | 2.35 |   6 |    82.18 | 2023-06-02T04:55:29Z |
+|        4 | 1.60 |   6 |    25.04 | 2023-04-04T04:12:02Z |
+|        5 | 2.35 |   5 |    29.46 | 2023-03-25T15:05:40Z |
+|        6 | 2.20 |   4 |    13.14 | 2023-03-24T08:41:54Z |
+|        7 | 2.50 |   3 |     6.00 | 2023-03-23T14:13:59Z |
+|        8 | 2.50 |   2 |     2.00 | 2023-03-20T13:44:15Z |
+|        9 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|       10 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|       11 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|       12 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|       13 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+
+[[id:7aa8dfb5-3aba-45b6-a6b5-0e718403d237][Ozymandias (Poem)]]
+
+#+begin_verse
+{{I met a traveler from an antique land}@0}
+{{Who said: "Two vast and trunkless legs of stone}@1}
+{{Stand in the desert. Near them, on the sand,}@2}
+{{Half sunk, a shattered visage lies, whose frown,}@3}
+{{And wrinkled lip, and sneer of cold command,}@4}
+{{Tell that its sculptor well those passions read}@5}
+{{Which yet survive, stamped on these lifeless things,}@6}
+{{The hand that mocked them and the heart that fed:}@7}
+{{And on the pedestal these words appear:}@8}
+{{"My name is Ozymandias, king of kings;}@9}
+{{Look on my works, ye Mighty, and despair!"}@10}
+{{Nothing beside remains. Round the decay}@11}
+{{Of that colossal wreck, boundless and bare}@12}
+{{The lone and level sands stretch far away."}@13}
+#+end_verse
+** Poem (full) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-16T17:26:40Z
+:FC_TYPE:  normal
+:ID:       7eeb22b2-e4a8-4a58-93b5-c133354cc4a0
+:FC_BLOCKED_BY:       245870cd-834d-47b3-a7ac-053649361b30
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2022-11-16T17:26:40Z |
+:END:
+[[id:7aa8dfb5-3aba-45b6-a6b5-0e718403d237][Ozymandias (Poem)]]
+
+*** Back
+#+begin_verse
+{{I met a traveler from an antique land}@0}
+{{Who said: "Two vast and trunkless legs of stone}@1}
+{{Stand in the desert. Near them, on the sand,}@2}
+{{Half sunk, a shattered visage lies, whose frown,}@3}
+{{And wrinkled lip, and sneer of cold command,}@4}
+{{Tell that its sculptor well those passions read}@5}
+{{Which yet survive, stamped on these lifeless things,}@6}
+{{The hand that mocked them and the heart that fed:}@7}
+{{And on the pedestal these words appear:}@8}
+{{"My name is Ozymandias, king of kings;}@9}
+{{Look on my works, ye Mighty, and despair!"}@10}
+{{Nothing beside remains. Round the decay}@11}
+{{Of that colossal wreck, boundless and bare}@12}
+{{The lone and level sands stretch far away."}@13}
+#+end_verse
+** {{[[id:0d6d106f-5a90-4dff-83ce-0eef1db38c61][Percy Bysshe Shelley]]}@0} wrote [[id:7aa8dfb5-3aba-45b6-a6b5-0e718403d237][Ozymandias]] :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-21T15:43:30Z
+:FC_TYPE:  cloze
+:ID:       1efa1a89-7e02-448b-a3e8-f014b33cfe29
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    73.06 | 2023-04-14T15:57:24Z |
+:END:
+#+print_bibliography:

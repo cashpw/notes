@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@DunningKrugerEffect2022]
+:ID:       393d22dc-fb65-4f8c-9070-6973d6c9668e
+:LAST_MODIFIED: [2023-02-15 Wed 07:54]
+:END:
+#+title: Dunning-Kruger effect
+#+hugo_custom_front_matter: :slug "393d22dc-fb65-4f8c-9070-6973d6c9668e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 16:07]
+#+filetags: :reference:
+
+#+begin_quote
+[T]he [[id:e4086889-eae7-4924-931c-7d73626c94f9][Cognitive bias]] whereby people with low ability at a task overestimate their ability. Some researchers also include in their definition the opposite effect for high performers: their tendency to underestimate their skills.
+
+[cite:@DunningKrugerEffect2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 09:22]
+:FC_CREATED: 2022-11-07T17:22:27Z
+:FC_TYPE:  double
+:ID:       48f0e78c-226b-489e-be10-66516b5847c9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   101.99 | 2023-05-12T16:10:58Z |
+| back     | 2.20 |   6 |    62.80 | 2023-04-19T11:09:04Z |
+:END:
+
+[[id:393d22dc-fb65-4f8c-9070-6973d6c9668e][Dunning-Kruger effect]]
+
+*** Back
+The [[id:e4086889-eae7-4924-931c-7d73626c94f9][Cognitive bias]] whereby people with low ability overestimate their ability. Those with high ability can also tend to underestimate their ability.
+*** Source
+[cite:@DunningKrugerEffect2022]
+#+print_bibliography:

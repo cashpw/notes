@@ -1,0 +1,173 @@
+:PROPERTIES:
+:ID:       2a01a221-0aa9-493b-b690-c15c11f16831
+:LAST_MODIFIED: [2023-03-13 Mon 07:34]
+:ROAM_REFS: [cite:@SuffixTree2022]
+:END:
+#+title: Suffix tree
+#+hugo_custom_front_matter: :slug "2a01a221-0aa9-493b-b690-c15c11f16831"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-25 Fri 09:43]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In computer science, a suffix tree (also called PAT tree or, in an earlier form, position tree) is a compressed trie containing all the suffixes of the given text as their keys and positions in the text as their values. Suffix trees allow particularly fast implementations of many important string operations.
+
+The construction of such a tree for the string $S$ takes time and space linear in the length of $S$.
+
+[cite:@SuffixTree2022]
+#+end_quote
+
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Suffix_tree_BANANA.svg/500px-Suffix_tree_BANANA.svg.png @ 2022-11-25 09:54:57
+[[file:2022-11-25_09-54-57_500px-Suffix_tree_BANANA.svg.png]]
+
+[cite:@SuffixTree2022]
+#+end_quote
+
+* TODO [#4] How to build a [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]
+* Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 09:55]
+:FC_CREATED: 2022-11-25T17:55:22Z
+:FC_TYPE:  double
+:ID:       05450325-8e9b-4388-90df-b24e800df9ed
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   155.84 | 2023-08-12T23:05:36Z |
+| back     | 2.20 |   6 |    82.80 | 2023-05-20T11:22:22Z |
+:END:
+
+[[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]
+
+*** Back
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Suffix_tree_BANANA.svg/500px-Suffix_tree_BANANA.svg.png @ 2022-11-25 09:54:57
+[[file:2022-11-25_09-54-57_500px-Suffix_tree_BANANA.svg.png]]
+*** Source
+[cite:@SuffixTree2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 09:55]
+:FC_CREATED: 2022-11-25T17:56:06Z
+:FC_TYPE:  double
+:ID:       5b284682-5ced-4ca7-9379-e6fddc8253bb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    64.65 | 2023-03-31T08:26:41Z |
+| back     | 2.50 |   6 |    91.04 | 2023-05-13T00:43:08Z |
+:END:
+
+[[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]
+
+*** Back
+A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains all of the suffixes of the given text as their keys and positions in the text as their values.
+*** Source
+[cite:@SuffixTree2022]
+** {{[[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]}@0} allow for particularly fast implementations of important {{string operations}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 09:56]
+:FC_CREATED: 2022-11-25T17:57:19Z
+:FC_TYPE:  cloze
+:ID:       2c4be200-af32-4878-8902-8e89cfc239f3
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    61.53 | 2023-04-27T16:25:18Z |
+|        1 | 2.65 |   6 |   113.84 | 2023-07-05T10:36:58Z |
+:END:
+
+*** Source
+[cite:@SuffixTree2022]
+** [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] space complexity: {{$\bigo{n}$}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:00]
+:FC_CREATED: 2022-11-25T18:01:23Z
+:FC_TYPE:  cloze
+:ID:       e7007c6e-e0ca-4212-ba99-febf02107a4c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   139.75 | 2023-07-21T07:49:40Z |
+:END:
+
+*** Source
+[cite:@SuffixTree2022]
+** [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] creation time complexity: {{$\bigo{n}$}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:01]
+:FC_CREATED: 2022-11-25T18:02:00Z
+:FC_TYPE:  cloze
+:ID:       57bd68e6-4b4a-454e-bead-be28e2f4cc7d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    62.40 | 2023-04-01T01:55:11Z |
+:END:
+
+*** Source
+[cite:@SuffixTree2022]
+** [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] edges contain {{suffixes}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:02]
+:FC_CREATED: 2022-11-25T18:03:10Z
+:FC_TYPE:  cloze
+:ID:       1f038240-6ecf-44e7-bee4-a75bbc73ec07
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   6 |    56.95 | 2023-03-30T15:36:45Z |
+:END:
+
+*** Source
+[cite:@SuffixTree2022]
+** [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] nodes contain {{the substring's position.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:03]
+:FC_CREATED: 2022-11-25T18:03:53Z
+:FC_TYPE:  cloze
+:ID:       17777562-d93e-43bb-bf7c-a41eaed7254b
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    96.50 | 2023-05-24T15:28:30Z |
+:END:
+
+*** Source
+[cite:@SuffixTree2022]
+** [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] edges are {{multiple characters}{length}@0} long. :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 10:21]
+:FC_CREATED: 2022-11-25T18:22:24Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       00c637c4-2d5d-4e87-9dbb-135e56265777
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    79.65 | 2023-05-08T06:23:51Z |
+:END:
+
+*** Source
+[cite:@RadixTree2022]
+#+print_bibliography:

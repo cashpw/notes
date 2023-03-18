@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       48d05562-111f-4e9a-b005-013d54d4419e
+:ROAM_REFS: [cite:@ReflexiveRelation2022]
+:LAST_MODIFIED: [2023-03-18 Sat 06:29]
+:END:
+#+title: Reflexive relation
+#+hugo_custom_front_matter: :slug "48d05562-111f-4e9a-b005-013d54d4419e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 17:10]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, a binary relation $R$ on a set $X$ is reflexive if it relates every element of $X$ to itself [($x R x \;\forall\; x \in X$)].
+
+An example of a reflexive relation is the relation "is equal to" on the set of real numbers, since every real number is equal to itself.
+
+[cite:@ReflexiveRelation2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Math) :fc:
+:PROPERTIES:
+:ID:       8b63ce51-dc4a-4673-8331-01b8bf6bf735
+:ANKI_NOTE_ID: 1640627861172
+:FC_CREATED: 2021-12-27T17:57:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   7 |   168.27 | 2023-09-02T20:02:28Z |
+| front    | 2.65 |   8 |   312.40 | 2024-01-17T15:09:17Z |
+:END:
+
+[[id:48d05562-111f-4e9a-b005-013d54d4419e][Reflexive relation]]
+
+*** Back
+A binary relation, $R$, over a set, $X$, which relates every element of $X$ to itself.
+
+Formally: $x \, R \, x \; \forall \; x \in X$
+
+*** Source
+[cite:@ReflexiveRelation2022]
+#+print_bibliography:

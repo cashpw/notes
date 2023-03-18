@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       e5db0b54-03b5-417a-a4c8-93001958c410
+:ROAM_REFS: [cite:@Presupposition2021]
+:LAST_MODIFIED: [2023-01-29 Sun 18:45]
+:END:
+#+title: Presupposition
+#+hugo_custom_front_matter: :slug "e5db0b54-03b5-417a-a4c8-93001958c410"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-17 Wed 16:11]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a presupposition is an implicit assumption about the world or background belief relating to an utterance whose truth is taken for granted in discourse. Examples of presuppositions include:
+
+- Jane no longer writes fiction.
+  - Presupposition: Jane once wrote fiction.
+- Have you stopped eating meat?
+  - Presupposition: you had once eaten meat.
+- Have you talked to Hans?
+  - Presupposition: Hans exists.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       a2013d35-795f-4850-929c-fa750f40a502
+:ANKI_NOTE_ID: 1660778073297
+:FC_CREATED: 2022-08-17T23:14:33Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.05 |   6 |    65.36 | 2023-03-22T00:49:44Z |
+| front    | 2.65 |   6 |   114.08 | 2023-05-24T04:43:17Z |
+:END:
+[[id:e5db0b54-03b5-417a-a4c8-93001958c410][Presupposition]]
+*** Back
+An implicit assumption relating to a statement/question/etc whose truth is taken for granted in discourse.
+*** Source
+[cite:@Presupposition2021]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       39bcbeeb-00e3-4b7f-945f-09a32a71078f
+:ANKI_NOTE_ID: 1660778074296
+:FC_CREATED: 2022-08-17T23:14:34Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    93.81 | 2023-03-19T15:59:42Z |
+| back     | 2.20 |   6 |    74.72 | 2023-04-05T10:03:33Z |
+:END:
+[[id:e5db0b54-03b5-417a-a4c8-93001958c410][Presupposition]]
+*** Back
+- Jane no longer writes fiction.
+- Have you stopped beating your wife?
+*** Source
+[cite:@Presupposition2021]
+#+print_bibliography:

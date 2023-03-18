@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       afedd8eb-a4af-4ed3-9d77-c0e6aba3923e
+:ROAM_ALIASES: "The new world struggles to be born" "Now is the time of monsters"
+:LAST_MODIFIED: [2023-02-08 Wed 10:49]
+:END:
+#+title: The old world is dying
+#+hugo_custom_front_matter: :slug "afedd8eb-a4af-4ed3-9d77-c0e6aba3923e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 14:19]
+#+filetags: :quote:
+#+begin_quote
+The old world is dying, and the new world struggles to be born: now is the time of monsters.
+
+Misattributed to [[id:8e881515-f969-480f-b101-ea9e3476d723][Antonio Gramsci]] [cite:@AntonioGramsciWikiquote]
+#+end_quote
+
+* Flashcards
+** The old world {{is dying, and the new world struggles to be born: now is the time of monsters.}{full}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 14:21]
+:FC_CREATED: 2022-11-18T22:22:33Z
+:FC_TYPE:  cloze
+:ID:       a302c3a3-211d-40da-a3f9-6428abccdc87
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |    93.65 | 2023-05-13T10:30:50Z |
+:END:
+
+*** Source
+[cite:@gramsciOldWorldDying]
+#+print_bibliography:

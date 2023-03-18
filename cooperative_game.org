@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       31a42b11-aca6-41e8-a41a-5fb97006ddc2
+:ROAM_REFS: [cite:@CooperativeGameTheory2022]
+:LAST_MODIFIED: [2023-02-01 Wed 09:14]
+:END:
+#+title: Cooperative game
+#+hugo_custom_front_matter: :slug "31a42b11-aca6-41e8-a41a-5fb97006ddc2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-28 Wed 07:40]
+#+filetags: :concept:
+
+#+begin_quote
+In [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], a [[id:31a42b11-aca6-41e8-a41a-5fb97006ddc2][Cooperative game]] (or coalitional game) is a game with competition between groups of players ("coalitions") due to the possibility of external enforcement of cooperative behavior (e.g. through contract law). Those are opposed to [[id:e826003f-a13e-4cce-9b80-30f8bd802374][Non-cooperative game]] in which there is either no possibility to forge alliances or all agreements need to be self-enforcing (e.g. through credible threats).
+
+[cite:@CooperativeGameTheory2022]
+#+end_quote
+
+* Flashcards
+** Define :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:24]
+:FC_CREATED: 2022-09-30T22:25:39Z
+:FC_TYPE:  double
+:ID:       67207b92-fa24-4bfc-b1d1-06d9117339e9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   140.88 | 2023-06-08T12:29:55Z |
+| back     | 2.80 |   6 |   115.42 | 2023-05-22T00:57:38Z |
+:END:
+
+[[id:31a42b11-aca6-41e8-a41a-5fb97006ddc2][Cooperative game]]
+
+*** Back
+A game in which there is external authority which enforces aggreements (e.g. a government to enforce contract law).
+*** Source
+[cite:@CooperativeGameTheory2022]
+** Compare/Contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 15:25]
+:FC_CREATED: 2022-09-30T22:27:00Z
+:FC_TYPE:  normal
+:ID:       3be6343c-3cb7-4cc3-9b19-629f4f6f5d54
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   129.71 | 2023-06-11T10:16:19Z |
+:END:
+
+[[id:31a42b11-aca6-41e8-a41a-5fb97006ddc2][Cooperative game]] and [[id:e826003f-a13e-4cce-9b80-30f8bd802374][Non-cooperative game]]
+
+*** Back
+- A [[id:31a42b11-aca6-41e8-a41a-5fb97006ddc2][Cooperative game]] has an external authority which enforces cooperative behavior (e.g. a government which enforces contract law).
+- Any agreements made in a [[id:e826003f-a13e-4cce-9b80-30f8bd802374][Non-cooperative game]] must be self-enforced.
+*** Source
+[cite:@CooperativeGameTheory2022]
+#+print_bibliography:

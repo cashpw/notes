@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       86c3b62f-4766-4c76-856b-bebe9fe6d125
+:LAST_MODIFIED: [2023-02-12 Sun 09:43]
+:END:
+#+title: Height-balanced binary tree
+#+hugo_custom_front_matter: :slug "86c3b62f-4766-4c76-856b-bebe9fe6d125"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-23 Sat 16:52]
+#+filetags: :concept:
+
+#+begin_quote
+For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], the height is defined to be logarithmic \(O(\log n)\) in the number \(n\) of items.
+
+[cite:@SelfbalancingBinarySearchTree2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]) :fc:
+:PROPERTIES:
+:ID:       715ab07a-b706-47a7-b3a6-a77a9059ed86
+:ANKI_NOTE_ID: 1658620708807
+:FC_CREATED: 2022-07-23T23:58:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   7 |   289.93 | 2023-11-29T15:59:36Z |
+| front    | 2.50 |   7 |   205.20 | 2023-08-23T21:21:07Z |
+:END:
+[[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]]
+*** Back
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] for which the height is guaranteed to be \(O(\log n)\) for size \(n\).
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]
+#+print_bibliography:

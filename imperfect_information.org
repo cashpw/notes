@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff
+:ROAM_ALIASES: "No hidden information"
+:LAST_MODIFIED: [2023-02-16 Thu 19:31]
+:END:
+#+title: Imperfect information
+#+hugo_custom_front_matter: :slug "f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-28 Wed 07:46]
+#+filetags: :concept:
+
+#+begin_quote
+Games where some aspect of play is hidden from opponents - such as the cards in poker and bridge - are examples of games with imperfect information.
+
+[cite:@PerfectInformation2022]
+#+end_quote
+
+Also see [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], [[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]], and [[id:d80fe9f3-c36e-4878-89fc-d7ad8d6e247f][Complete information]].
+
+* Flashcards
+** Example(s) (information) :fc:
+:PROPERTIES:
+:CREATED: [2022-10-22 Sat 15:58]
+:FC_CREATED: 2022-10-22T22:58:57Z
+:FC_TYPE:  double
+:ID:       6d9bbdb8-6443-4aa2-a952-7f32b2836723
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   104.91 | 2023-05-10T14:53:42Z |
+| back     | 2.50 |   6 |   110.24 | 2023-05-17T19:32:24Z |
+:END:
+
+[[id:f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff][Imperfect information]]
+
+*** Back
+
+- Just about everything in life
+- Poker
+
+*** Source
+[cite:@PerfectInformation2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-10-22 Sat 15:59]
+:FC_CREATED: 2022-10-22T22:59:48Z
+:FC_TYPE:  double
+:ID:       1254bd51-f293-40c1-8e00-3446ae65fec9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   129.30 | 2023-05-28T23:45:43Z |
+| back     | 3.10 |   6 |   146.12 | 2023-07-13T06:24:55Z |
+:END:
+
+[[id:f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff][Imperfect information]]
+
+*** Back
+
+A game in which information is hidden from one or more players.
+*** Source
+[cite:@PerfectInformation2022]
+#+print_bibliography:

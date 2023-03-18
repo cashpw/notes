@@ -1,0 +1,125 @@
+:PROPERTIES:
+:ID:       b0f01042-9128-4189-a344-033496d5ce24
+:ROAM_ALIASES: "\"Hope\" is the thing with feathers" "Hope is the thing with feathers"
+:LAST_MODIFIED: [2023-03-18 Sat 06:28]
+:END:
+#+title: Emily Dickinson | "Hope" is the thing with feathers
+#+hugo_custom_front_matter: :slug "b0f01042-9128-4189-a344-033496d5ce24"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-28 Mon 21:11]
+#+filetags: :poem:
+
+#+begin_verse
+"Hope" is the thing with feathers -
+That perches in the soul -
+And sings the tune without the words -
+And never stops - at all -
+
+And sweetest - in the Gale - is heard -
+And sore must be the storm -
+That could abash the little Bird
+That kept so many warm -
+
+I've heard it in the chillest land -
+And on the strangest Sea -
+Yet - never - in Extremity,
+It asked a crumb - of me.
+#+end_verse
+
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonHopeThingFeathers2022]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Poem :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-16T03:06:38Z
+:FC_TYPE:  cloze
+:ID:       13b32f05-467e-45ac-9796-5a63c61b9412
+:FC_CLOZE_MAX: 11
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   113.35 | 2023-05-19T01:11:41Z |
+|        1 | 2.80 |   6 |   113.13 | 2023-06-19T19:12:32Z |
+|        2 | 2.95 |   5 |    55.64 | 2023-03-28T05:42:45Z |
+|        3 | 2.80 |   5 |    43.23 | 2023-03-22T05:15:58Z |
+|        4 | 1.90 |   5 |    22.12 | 2023-03-24T17:01:27Z |
+|        5 | 2.80 |   5 |    47.06 | 2023-04-24T19:41:14Z |
+|        6 | 2.35 |   5 |    35.56 | 2023-04-22T03:37:28Z |
+|        7 | 2.65 |   4 |    16.67 | 2023-03-26T19:05:13Z |
+|        8 | 2.50 |   4 |    15.60 | 2023-03-31T05:30:27Z |
+|        9 | 2.50 |   3 |     6.00 | 2023-03-24T13:28:54Z |
+|       10 | 2.50 |   2 |     2.00 | 2023-03-16T15:09:00Z |
+|       11 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+:END:
+
+[[id:b0f01042-9128-4189-a344-033496d5ce24]["Hope" is the thing with feathers]]
+
+#+begin_verse
+{{"Hope" is the thing with feathers -}@0}
+{{That perches in the soul -}@1}
+{{And sings the tune without the words -}@2}
+{{And never stops - at all -}@3}
+
+{{And sweetest - in the Gale - is heard -}@4}
+{{And sore must be the storm -}@5}
+{{That could abash the little Bird}@6}
+{{That kept so many warm -}@7}
+
+{{I've heard it in the chillest land -}@8}
+{{And on the strangest Sea -}@9}
+{{Yet - never - in Extremity,}@10}
+{{It asked a crumb - of me.}@11}
+#+end_verse
+
+** Poem (full) :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T16:56:16Z
+:FC_TYPE:  normal
+:ID:       f9c6f6f9-c589-4bdc-951f-c04baec26c7e
+:FC_BLOCKED_BY: 13b32f05-467e-45ac-9796-5a63c61b9412
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2022-10-31T16:56:16Z |
+:END:
+
+[[id:b0f01042-9128-4189-a344-033496d5ce24]["Hope" is the thing with feathers]]
+
+*** Back
+#+begin_verse
+"Hope" is the thing with feathers -
+That perches in the soul -
+And sings the tune without the words -
+And never stops - at all -
+
+And sweetest - in the Gale - is heard -
+And sore must be the storm -
+That could abash the little Bird
+That kept so many warm -
+
+I've heard it in the chillest land -
+And on the strangest Sea -
+Yet - never - in Extremity,
+It asked a crumb - of me.
+#+end_verse
+** {{[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]]}@0} wrote [[id:b0f01042-9128-4189-a344-033496d5ce24]["Hope" is the thing with feathers]] :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-09-21T15:22:44Z
+:FC_TYPE:  cloze
+:ID:       c6f7e5af-76ed-4f21-a1a1-a1dae8704c17
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   140.01 | 2023-05-25T15:06:44Z |
+:END:
+#+print_bibliography:

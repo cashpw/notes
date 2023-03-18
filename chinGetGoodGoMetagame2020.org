@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chinGetGoodGoMetagame2020]
+:ID:       4f9769a8-94c3-461c-b4be-933b522aab15
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/4f9769a8-94c3-461c-b4be-933b522aab15
+:LAST_MODIFIED: [2023-02-16 Thu 19:44]
+:END:
+#+title: Cedric Chin | To Get Good, Go After The Metagame
+#+hugo_custom_front_matter: :slug "4f9769a8-94c3-461c-b4be-933b522aab15"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 08:01]
+#+filetags: :reference:
+ 
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinGetGoodGoMetagame2020]
+
+* Summary
+
+Mastering something requires mastering the literal game as well as the [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]; in that order.
+
+* Thoughts
+* Notes
+
+#+begin_quote
+Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'.
+#+end_quote
+
+#+begin_quote
+Every sufficiently interesting domain in the world has a meta associated with it.
+#+end_quote
+
+#+begin_quote
+What is interesting about the meta is that metagames can only be played if you have mastered the basics of the domain.
+#+end_quote
+
+#+begin_quote
+The nature of the metagame demands that you play the base game well. It lives on top of the [[id:b481f4e5-63b4-4455-8406-49825121b06c][pattern-matching that comes with expertise]].
+
+This seems like an obvious thing to say. But as with most such things, the second-order implications are more interesting than the first-order ones. For instance, because expertise is necessary to play the metagame, it is often useful to search for the meta in your domain as a north star for expertise. The way I remind myself of this is to say that I should 'locate the meta' whenever I'm at the bottom of a skill tree. Even if I can't yet participate, searching for the metagame that experts play will usually give me hints as to what skills I must acquire in order to become good enough.
+
+An example suffices: in marketing, I have found it very useful to seek out articles or podcasts (but especially podcasts) where practitioners talk about the ways their best practices have changed: "In the past I did X and now it seems it doesn't work as well, so now we do Y, and I recommend Y." This tells me that:
+
+I need to learn Y and at least have a passing familiarity with X, because X is what came before and is 'covered ground', and I need to remember the 'shape' of the shift. If one such shift happened in the past, more may happen in the future. More concretely, this is something like a podcast guest saying:
+
+"In the past (for content marketing) I did roundup posts, but these don't seem to work as well anymore. So now we do longer, more comprehensive guides, and we cross-launch those to Product Hunt and Hacker News and social media. That seems to work better for us."
+
+Which in turn tells me:
+
+I need to look up as many examples of these 'comprehensive guides' to see what the state of the art looks like. From there I can develop an understanding of how they are planned, how they are executed and what success looks like when these things are launched. And I must launch one to verify their effectiveness for myself.
+
+I need to try my hand at at least one roundup post, just for the tacit experience of doing it.
+
+And I must ask: why did roundup posts fail? Well, because too many people are doing it. (Is this true? How do I verify?) Why might the current best practice fail, then? I might not know the answer to this because I am a noob, but a side-effect of (1) is that I now know the best practitioners of the guide strategy, and I can observe them to see what changes in their marketing over the next few years.
+
+Note what I'm not saying, however. I'm not saying that I should actively pursue the meta — this is ineffective, because I am not good enough to play. I cannot execute even if I know where the puck is going. But studying the state of the metagame as it is right now often tells me what I must learn in order to get to that point.
+#+end_quote
+
+#+begin_quote
+If you can't master a particular skill, drop back down to its component elements and practice each of them in isolation. If you don't get good conversions in your content marketing, drop down to practice publishing at a regular cadence. If you can't get a throw to work, break it down to arms, then legs, then body position, then into one complete motion.
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 16:23]
+:FC_CREATED: 2022-11-23T00:24:40Z
+:FC_TYPE:  double
+:ID:       82088d4f-5b8d-4feb-b998-dc543cec3612
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   103.51 | 2023-05-27T06:03:44Z |
+| back     | 2.50 |   6 |    83.41 | 2023-05-11T13:28:26Z |
+:END:
+
+[[id:4f9769a8-94c3-461c-b4be-933b522aab15][Cedric Chin | To Get Good, Go After The Metagame]]
+
+*** Back
+Getting good at something is a two step process wherein you learn, and [[id:d797ba44-b962-4d6e-9b71-38ca49d070ce][Git gud]], at:
+
+1. The thing itself
+2. The associated [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]
+*** Source
+[cite:@chinGetGoodGoMetagame2020]
+#+print_bibliography:

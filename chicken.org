@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a
+:ROAM_REFS: [cite:@ChickenGame2022]
+:LAST_MODIFIED: [2023-01-16 Mon 17:52]
+:END:
+#+title: Chicken (game)
+#+hugo_custom_front_matter: :slug "f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-09-30 Fri 14:28]
+#+filetags: :concept:
+
+#+begin_quote
+The game of chicken, also known as the hawk–dove game or snowdrift game, is a model of conflict for two players in [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]. The principle of the game is that while the ideal outcome is for one player to yield (to avoid the worst outcome if neither yields), the individuals try to avoid it out of pride for not wanting to look like a "chicken". Each player taunts the other to increase the risk of shame in yielding. However, when one player yields, the conflict is avoided, and the game is for the most part over.
+
+The name "chicken" has its origins in a game in which two drivers drive toward each other on a collision course: one must swerve, or both may die in the crash, but if one driver swerves and the other does not, the one who swerved will be called a "chicken", meaning a coward; this terminology is most prevalent in political science and economics.
+
+[cite:@ChickenGame2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-09-30 Fri 14:31]
+:FC_CREATED: 2022-09-30T21:32:52Z
+:FC_TYPE:  double
+:ID:       40ad327a-cb60-471a-9d0f-825af8d97628
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   119.33 | 2023-05-16T09:53:07Z |
+| back     | 2.65 |   6 |   125.58 | 2023-06-12T13:42:54Z |
+:END:
+
+[[id:f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a][Chicken]] ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]])
+
+*** Back
+A game modeling conflict between two players in which they both achieve the best outcome when one of them yields. However, neither wants to yield as doing so is shameful or embarrassing. The worst outcome occurs when neither yields.
+*** Source
+[cite:@ChickenGame2022]
+#+print_bibliography:

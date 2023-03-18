@@ -1,0 +1,96 @@
+:PROPERTIES:
+:ID:       735e2c4a-52b9-455d-9872-cb897cc0bd54
+:LAST_MODIFIED: [2023-03-04 Sat 07:09]
+:END:
+#+title: Reactionary
+#+hugo_custom_front_matter: :slug "735e2c4a-52b9-455d-9872-cb897cc0bd54"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-12 Sat 08:19]
+#+filetags: :concept:
+
+#+begin_quote
+In political science, a reactionary or a reactionist is a person who holds political views that favor a return to the status quo ante, the previous political state of society, which that person believes possessed positive characteristics absent from contemporary society. As a descriptor term, reactionary derives from the ideological context of the left–right political spectrum. As an adjective, the word reactionary describes points of view and policies meant to restore a past status quo ante.
+
+In ideology, reactionism is a tradition in right-wing politics; the reactionary stance opposes policies for the social transformation of society, whereas conservatives seek to preserve the socio-economic structure and order that exists in the present. In popular usage, reactionary refers to a strong traditionalist conservative political perspective of a person opposed to social, political, and economic change.
+
+[cite:@Reactionary2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 08:20]
+:FC_CREATED: 2022-11-12T16:21:30Z
+:FC_TYPE:  double
+:ID:       7ef6ef68-b839-4615-9fac-b560a41853d2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    85.44 | 2023-04-27T00:44:09Z |
+| back     | 2.35 |   6 |    81.78 | 2023-04-29T18:39:19Z |
+:END:
+
+[[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] (adjective)
+
+*** Back
+Points of view and policies meant to restore the [[id:4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4][Status quo ante]]
+*** Source
+[cite:@Reactionary2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-12 Sat 08:20]
+:FC_CREATED: 2022-11-12T16:21:30Z
+:FC_TYPE:  double
+:ID:       2effd41b-ce04-4c53-8c05-1e94df025a42
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    69.86 | 2023-04-18T00:16:32Z |
+| back     | 2.80 |   6 |   100.43 | 2023-06-02T03:07:33Z |
+:END:
+
+[[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] (noun)
+
+*** Back
+A person who holds political views which favor a return to the [[id:4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4][Status quo ante]]
+*** Source
+[cite:@Reactionary2022]
+** {{[[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]]}@0} politics is closely related to {{Conservatism}{Political philosophy}@1} :fc:
+:PROPERTIES:
+:FC_CREATED: 2022-11-17T16:22:23Z
+:FC_TYPE:  cloze
+:ID:       cc087186-5fd5-44e2-be00-4eb8f77737c3
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   144.15 | 2023-07-11T07:27:14Z |
+|        1 | 2.65 |   6 |    99.43 | 2023-06-12T01:34:03Z |
+:END:
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-11-29 Tue 10:41]
+:FC_CREATED: 2022-11-29T18:42:27Z
+:FC_TYPE:  normal
+:ID:       b283a64e-57a0-4829-b0da-b6b1d6788826
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    57.90 | 2023-03-30T12:02:03Z |
+:END:
+
+[[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] politics with Conservative politics
+
+*** Back
+- [[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]]: Return to the [[id:4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4][Status quo ante]]
+- Conservative: Keep the [[id:dd143af0-9e37-4b8c-8d9a-53a96b43cf53][Status quo]]
+
+In practice there's a lot of overlap.
+*** Source
+[cite:@Reactionary2022]
+#+print_bibliography:

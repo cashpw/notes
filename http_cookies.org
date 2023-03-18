@@ -1,0 +1,184 @@
+:PROPERTIES:
+:ID:       023c4857-9ecc-48a8-81b6-4738bab59a4c
+:ROAM_ALIASES: "HTTP Cookie"
+:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:END:
+#+title: HTTP Cookies
+#+hugo_custom_front_matter: :slug "023c4857-9ecc-48a8-81b6-4738bab59a4c"
+#+author: Cash Prokop-Weaver
+#+date: [2022-07-20 Wed 09:52]
+#+filetags: :concept:
+
+#+begin_quote
+An HTTP cookie (web cookie, browser cookie) is a small piece of data that a server sends to a user's web browser. The browser may store the cookie and send it back to the same server with later requests. Typically, an HTTP cookie is used to tell if two requests come from the same browser—keeping a user logged in, for example. It remembers stateful information for the stateless HTTP protocol.
+
+[cite:@mdnUsingHTTPCookies]
+#+end_quote
+
+* Types
+- [[id:5e91bfb8-05ea-43d3-bfef-fd5d6299138e][First-party cookies]]
+- [[id:2651f5d4-f8db-45b1-9256-aadb99c39575][Third-party cookies]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       8e56b941-b9eb-487b-be2a-0bb005818c94
+:ANKI_NOTE_ID: 1658338297684
+:FC_CREATED: 2022-07-20T17:31:37Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   6 |    66.44 | 2023-05-01T14:29:43Z |
+| back     | 2.50 |   7 |   205.10 | 2023-08-14T16:49:13Z |
+:END:
+Purposes of [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]]
+*** Back
+1. Session management
+2. Personalization
+3. Tracking
+*** Source
+[cite:@mdnUsingHTTPCookies]
+** Describe :fc:
+:PROPERTIES:
+:ID:       da8cb67c-e8b5-4ab4-a554-43d41d5b9aa4
+:ANKI_NOTE_ID: 1658338298332
+:FC_CREATED: 2022-07-20T17:31:38Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   7 |   230.15 | 2023-09-17T05:54:11Z |
+| back     | 2.65 |   7 |   197.73 | 2023-08-04T08:55:42Z |
+:END:
+[[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]]
+*** Back
+A small piece of data sent by a server to a user's web browser. The browser may store and include it in subsequent requests to the server.
+
+Servers use them for:
+
+1. Session management
+2. Personalization
+3. Tracking
+*** Source
+[cite:@mdnUsingHTTPCookies]
+** The web browser includes [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]] in requests which match {{the =Path= and =Domain= attributes}@0}. :fc:
+:PROPERTIES:
+:ID:       9a7e28e6-abbb-4823-ad46-45ac70908cf4
+:ANKI_NOTE_ID: 1658338298931
+:FC_CREATED: 2022-07-20T17:31:38Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   7 |   163.92 | 2023-08-28T12:16:08Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnUsingHTTPCookies]
+
+
+** The =Domain= attribute of an [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]] defaults to {{the host which sent the cookie, excluding subdomains}@0}. :fc:
+:PROPERTIES:
+:ID:       77c27ca9-ec23-4b79-8c51-3c2973f0e0c9
+:ANKI_NOTE_ID: 1658338299357
+:FC_CREATED: 2022-07-20T17:31:39Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.00 |   6 |    42.04 | 2023-03-31T16:16:57Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnUsingHTTPCookies]
+
+
+** Requests to =foo.example.com= {{will}{y/n}@0} include [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]] from =example.com= with ~Domain=example.com~. :fc:
+:PROPERTIES:
+:ID:       c2fde839-6558-401c-ba18-135413199edb
+:ANKI_NOTE_ID: 1658338299756
+:FC_CREATED: 2022-07-20T17:31:39Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   301.48 | 2023-12-09T11:13:26Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnUsingHTTPCookies]
+
+
+** Requests to =foo.example.com= {{won't}{y/n}@0} include [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]] from =example.com= with an unset =Domain=. :fc:
+:PROPERTIES:
+:ID:       ec95ae93-5cac-497a-ad18-526f57649432
+:ANKI_NOTE_ID: 1658338300156
+:FC_CREATED: 2022-07-20T17:31:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.30 |   9 |   163.76 | 2023-06-21T10:07:07Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnUsingHTTPCookies]
+
+
+** Servers send cookies to a user's web browser via {{the =Set-Cookie= HTTP response header}@0}. :fc:
+:PROPERTIES:
+:ID:       3f73c61f-d1fb-4e97-b619-1c52cb44c27f
+:ANKI_NOTE_ID: 1658338300757
+:FC_CREATED: 2022-07-20T17:31:40Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   8 |   204.70 | 2023-08-30T16:27:34Z |
+:END:
+*** Extra
+*** Source
+[cite:@mdnUsingHTTPCookies]
+
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       6f4b09ea-c20c-408a-a664-465b02710285
+:ANKI_NOTE_ID: 1658339196432
+:FC_CREATED: 2022-07-20T17:46:36Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   9 |   198.16 | 2023-07-31T22:23:27Z |
+| back     | 2.35 |   6 |    83.10 | 2023-03-22T21:16:16Z |
+:END:
+=Set-Cookie= HTTP response headers
+*** Back
+- ~Set-Cookie: best_cat=Myth~
+- ~Set-Cookie: best_cat=Jynx~
+*** Source
+[cite:@mdnUsingHTTPCookies]
+#+print_bibliography:

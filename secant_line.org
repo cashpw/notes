@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       a1a0a03b-2d39-4119-bbec-e32ed8e6852e
+:LAST_MODIFIED: [2023-03-09 Thu 18:52]
+:ROAM_REFS: [cite:@SecantLine2022]
+:END:
+#+title: Secant line
+#+hugo_custom_front_matter: :slug "a1a0a03b-2d39-4119-bbec-e32ed8e6852e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 16:23]
+#+filetags: :concept:
+
+#+begin_quote
+In geometry [[[id:e67fa9ff-5bb3-47cd-8559-0c3a25300f0d][Geometry]]], a secant is a line that intersects a curve at a minimum of two distinct points. The word secant comes from the Latin word secare, meaning to cut. In the case of a circle, a secant intersects the circle at exactly two points. A chord [[[id:a5084eae-a2c4-4b9a-b827-6ae594960035][Chord (Geometry)]]] is the line segment determined by the two points, that is, the interval on the secant whose ends are the two points.
+
+[...]
+
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Secanttangent.svg/1280px-Secanttangent.svg.png @ 2023-01-27 16:29:33
+[[file:2023-01-27_16-29-33_1280px-Secanttangent.svg.png]]
+
+The tangent line at point P is a secant line of the curve.
+
+[cite:@SecantLine2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:28]
+:FC_CREATED: 2023-01-28T00:29:27Z
+:FC_TYPE:  double
+:ID:       3ef2ca00-3bdb-4db4-b63f-6868b6d38938
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    36.52 | 2023-04-05T17:17:09Z |
+| back     | 2.80 |   5 |    45.02 | 2023-04-18T15:45:25Z |
+:END:
+
+[[id:a1a0a03b-2d39-4119-bbec-e32ed8e6852e][Secant line]]
+
+*** Back
+A line which intersects a curve at a minimum of two distinct points.
+*** Source
+[cite:@SecantLine2022]
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 16:29]
+:FC_CREATED: 2023-01-28T00:30:06Z
+:FC_TYPE:  double
+:ID:       0b0107f1-7094-4db7-8065-edc3e6385a3a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    55.90 | 2023-05-05T00:34:16Z |
+| back     | 2.80 |   4 |    17.07 | 2023-03-19T15:56:57Z |
+:END:
+
+[[id:a1a0a03b-2d39-4119-bbec-e32ed8e6852e][Secant line]]
+
+*** Back
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Secanttangent.svg/1280px-Secanttangent.svg.png @ 2023-01-27 16:29:33
+[[file:2023-01-27_16-29-33_1280px-Secanttangent.svg.png]]
+#+end_quote
+*** Source
+[cite:@SecantLine2022]
+#+print_bibliography:

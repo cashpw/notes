@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       31d92d21-3e87-413e-b9f7-3bdfd1a1d77f
+:ROAM_ALIASES: Metier
+:LAST_MODIFIED: [2023-03-13 Mon 07:53]
+:END:
+#+title: Métier
+#+hugo_custom_front_matter: :slug "31d92d21-3e87-413e-b9f7-3bdfd1a1d77f"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 09:38]
+#+filetags: :concept:
+
+- A trade, profession, or occupation
+- An outstanding or advantageous characteristic
+
+* Flashcards
+** [[id:31d92d21-3e87-413e-b9f7-3bdfd1a1d77f][Métier]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 09:39]
+:FC_CREATED: 2022-11-18T17:39:57Z
+:FC_TYPE:  vocab
+:ID:       5ead4c0b-b9f0-43fd-992e-db338b65b6ab
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   5 |    21.30 | 2023-03-30T01:49:06Z |
+| back     | 2.35 |   5 |    35.93 | 2023-04-18T13:08:36Z |
+:END:
+
+- A trade, profession, or occupation
+- An outstanding or advantageous characteristic

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@moridinamaelMonthlyNewsletterThinkingTool2018]
+:ID:       da8376c0-7849-47fd-9f79-fca821651232
+:DIR:      /home/cashweaver/proj/roam/attachments/da8376c0-7849-47fd-9f79-fca821651232
+:END:
+#+title:  moridinamael | The Monthly Newsletter as Thinking Tool
+#+hugo_custom_front_matter: :slug "da8376c0-7849-47fd-9f79-fca821651232"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 06:19]
+#+filetags: :reference:
+ 
+[[id:edc893d8-ed7d-4b34-aa48-d1bb8239ec0c][Matt Freeman]], [cite:@moridinamaelMonthlyNewsletterThinkingTool2018]
+
+* Summary
+* Thoughts
+- [[id:bfc1e54d-2c91-4514-ad99-54e6494268bb][Writing to think]]
+* Notes
+
+#+begin_quote
+The easiest, very high ROI step is to simply open up a new Evernote document on the first of each month and title it "February 2018 Update" or whatever. Then just try to keep that tab open. You'll find stuff to put in there. What I end up writing generally falls into a small number of categories:
+
+- Links to things that I think my friend would be interested in, with a bit of discussion of why I think it's interesting. These also serve as future reference material for me.
+- Updates on my progress toward some goal or another, usually written in a style meant to be at least readably entertaining. This lets me look back over the years and see exactly what I was doing and when.
+- Discovery of some new thing that obsesses me briefly that prompts me to write 10,000 words of evangelism about it (e.g. meditation, hypnosis, trigger point therapy, Alexander technique, Ghokale method posture, jiu-jitsu, longevity supplements, some new AI architecture, Mr. Rogers, EverQuest as an exemplar of Fun Theory, the ketogenic diet, at least four different exercise regimens) which serves as very useful reference material, which I tend to frequently refer back to when the topic ends up being something that I make part of my life.
+- At one point I started writing a story for my friends and sending it to them in installements, which gradually turned into a 50,000 word book over the course of a year.
+
+You don't even have to share it with anybody, I suppose, but I suspect you'll find it much more motivating to actually write in it if you do intend to share it.
+#+end_quote
+
+#+begin_quote
+And the final and most important distinction between a monthly newsletter and a blog -- and, I think, the place where all the value of this practice comes in -- is the time-locked nature of it. You have a month to jot down thoughts, then at the end of the month you have to "finish" those thoughts.
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       05cb0686-d54a-46c6-90d3-8679156b4139
+:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:END:
+#+title: Ontology
+#+hugo_custom_front_matter: :slug "05cb0686-d54a-46c6-90d3-8679156b4139"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 09:33]
+#+filetags: :concept:
+#+begin_quote
+In metaphysics, ontology is the philosophical study of being, as well as related concepts such as existence, becoming, and reality.
+
+Ontology addresses questions of how entities are grouped into categories and which of these entities exist on the most fundamental level. Ontologists often try to determine what the categories or highest kinds are and how they form a system of categories that encompasses classification of all entities.
+
+[cite:@Ontology2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-07 Mon 09:34]
+:FC_CREATED: 2022-11-07T17:35:01Z
+:FC_TYPE:  double
+:ID:       3aa5f60e-85ad-4791-8214-67f0f3340750
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   6 |    56.36 | 2023-04-10T22:57:16Z |
+| back     | 2.35 |   6 |    92.21 | 2023-06-04T20:17:07Z |
+:END:
+
+[[id:05cb0686-d54a-46c6-90d3-8679156b4139][Ontology]]
+
+*** Back
+1. Branch of [[id:afbde4fc-8907-4d5e-87c7-19a9c5b78b6e][Metaphysics]] dealing with the nature of being
+2. A set of concepts and categories in a subject area or domain that shows their properties and the relations between them
+*** Source
+[cite:@Ontology2022]
+#+print_bibliography:

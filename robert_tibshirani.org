@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       29b3cfe2-55ed-45d5-92e5-e604808b72bb
+:LAST_MODIFIED: [2023-02-18 Sat 09:13]
+:END:
+#+title: Robert Tibshirani
+#+hugo_custom_front_matter: :slug "29b3cfe2-55ed-45d5-92e5-e604808b72bb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:20]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       5f9d8b11-5fb7-46df-a637-3baf039517c7
+:ANKI_NOTE_ID: 1640627806874
+:FC_CREATED: 2021-12-27T17:56:46Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   9 |   334.95 | 2024-01-19T15:59:06Z |
+:END:
+
+[[id:29b3cfe2-55ed-45d5-92e5-e604808b72bb][Robert Tibshirani]]
+
+*** Back
+[[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]

@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       458de7df-08ff-40dc-9a7b-18f2d14520ee
+:ROAM_ALIASES: "I must not fear"
+:LAST_MODIFIED: [2023-03-15 Wed 08:10]
+:END:
+#+title: Litany against fear
+#+hugo_custom_front_matter: :slug "458de7df-08ff-40dc-9a7b-18f2d14520ee"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-17 Thu 07:03]
+#+filetags: :poem:
+
+#+begin_verse
+I must not fear.
+Fear is the mind-killer.
+Fear is the little-death that brings total obliteration.
+I will face my fear.
+I will permit it to pass over me and through me.
+And when it has gone past I will turn the inner eye to see its path.
+Where the fear has gone there will be nothing.
+Only I will remain.
+#+end_verse
+
+Bene Gesserit, [cite:@herbertDune1999]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Poem :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1658344407760
+:FC_CREATED: 2022-09-16T03:08:24Z
+:FC_TYPE:  cloze
+:ID:       293e5231-d671-4c2a-bc59-d6a9bfa5f0da
+:FC_CLOZE_MAX: 7
+:FC_CLOZE_TYPE: context
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   145.01 | 2023-06-03T14:53:14Z |
+|        1 | 3.10 |   6 |   140.68 | 2023-06-15T09:13:15Z |
+|        2 | 2.50 |   6 |    79.78 | 2023-04-19T21:31:41Z |
+|        3 | 2.50 |   6 |    79.03 | 2023-05-08T17:46:39Z |
+|        4 | 2.95 |   6 |   125.42 | 2023-07-19T01:18:53Z |
+|        5 | 2.35 |   6 |    69.85 | 2023-05-20T20:44:35Z |
+|        6 | 2.65 |   5 |    42.17 | 2023-03-29T20:05:06Z |
+|        7 | 2.95 |   5 |    53.20 | 2023-04-11T19:49:08Z |
+:END:
+
+[[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]
+
+#+begin_verse
+{{I must not fear.}@0}
+{{Fear is the mind-killer.}@1}
+{{Fear is the little-death that brings total obliteration.}@2}
+{{I will face my fear.}@3}
+{{I will permit it to pass over me and through me.}@4}
+{{And when it has gone past I will turn the inner eye to see its path.}@5}
+{{Where the fear has gone there will be nothing.}@6}
+{{Only I will remain.}@7}
+#+end_verse
+*** Source
+[cite:@herbertDune1999]
+** Poem (full) :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1658344407760
+:FC_CREATED: 2022-09-22T16:21:14Z
+:FC_TYPE:  normal
+:FC_BLOCKED_BY:       293e5231-d671-4c2a-bc59-d6a9bfa5f0da
+:ID:       4e37bbee-b067-4f0a-9558-02d812ddc74c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    49.57 | 2023-03-25T06:09:50Z |
+:END:
+
+[[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]
+
+*** Back
+#+begin_verse
+I must not fear.
+Fear is the mind-killer.
+Fear is the little-death that brings total obliteration.
+I will face my fear.
+I will permit it to pass over me and through me.
+And when it has gone past I will turn the inner eye to see its path.
+Where the fear has gone there will be nothing.
+Only I will remain.
+#+end_verse
+*** Source
+[cite:@herbertDune1999]
+#+print_bibliography:

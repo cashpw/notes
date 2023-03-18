@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       0ff1c07f-e015-4929-b119-8890ebbc312c
+:LAST_MODIFIED: [2023-03-13 Mon 07:28]
+:END:
+#+title: Chain rule
+#+hugo_custom_front_matter: :slug "0ff1c07f-e015-4929-b119-8890ebbc312c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 09:24]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], the chain rule is a formula that expresses the derivative [[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]] of the composition of two differentiable functions $f$ and $g$ in terms of the derivatives of $f$ and $g$. More precisely, if $h=f\circ g$ is the function such that $h(x)=f(g(x))$ for every $x$, then the chain rule is, in Lagrange's notation [[[id:b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13][Lagrange's notation]]],
+
+$h'(x)=f'(g(x))g'(x)$.
+
+or, equivalently,
+
+$h'=(f\circ g)'=(f'\circ g)\cdot g'$.
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 09:29]
+:FC_CREATED: 2023-01-23T17:31:02Z
+:FC_TYPE:  double
+:ID:       c8c3c0fa-a52a-44cc-94e9-823737a66581
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    40.14 | 2023-04-13T18:27:09Z |
+| back     | 2.80 |   5 |    51.01 | 2023-05-03T14:50:15Z |
+:END:
+
+[[id:0ff1c07f-e015-4929-b119-8890ebbc312c][Chain rule]] in [[id:b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13][Lagrange's notation]]
+
+*** Back
+$$
+\begin{align}
+h(x) &= f(g(x)) = (f\circ g)(x) \\
+h'(x) &= f'(g(x))g'(x)
+\end{align}
+$$
+*** Source
+[cite:@ChainRule2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:28]
+:FC_CREATED: 2023-01-27T14:29:48Z
+:FC_TYPE:  cloze
+:ID:       d3f4c277-9572-432f-909d-e636722862b1
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    48.64 | 2023-04-17T20:18:48Z |
+:END:
+
+$h(x) = f(g(x)) = (f\circ g)(x)$
+
+$h'(x)=$ {{$f'(g(x))g'(x)$}@0}
+
+*** Source
+[cite:@ChainRule2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 06:30]
+:FC_CREATED: 2023-01-27T14:32:03Z
+:FC_TYPE:  double
+:ID:       a7be3a20-e7e5-41e3-bb9f-37eb4dcb06f7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    37.97 | 2023-04-09T03:28:31Z |
+| back     | 2.80 |   5 |    43.56 | 2023-04-22T16:29:06Z |
+:END:
+
+[[id:0ff1c07f-e015-4929-b119-8890ebbc312c][Chain rule]] in [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]
+
+*** Back
+$\frac{dy}{dx} = \frac{dy}{du} \times \frac{du}{dx}$
+*** Source
+[cite:@ChainRule2022]
+#+print_bibliography:

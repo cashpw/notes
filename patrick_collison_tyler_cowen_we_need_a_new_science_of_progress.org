@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@collisonWeNeedNewScienceProgress2019]
+:ID:       71422543-ab62-4166-8429-0cd631da8d38
+:END:
+#+title: Patrick Collison, Tyler Cowen | We Need a New Science of Progress
+#+hugo_custom_front_matter: :slug "71422543-ab62-4166-8429-0cd631da8d38"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-10 Thu 17:32]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@collisonWeNeedNewScienceProgress2019]
+
+* TODO [#2] Also review [cite:@collisonProgress]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

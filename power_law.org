@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       29d30938-ecd0-4f44-a86b-5bd7f7734f08
+:ROAM_REFS: [cite:@PowerLaw2022]
+:ROAM_ALIASES: "Power law distribution"
+:LAST_MODIFIED: [2023-02-16 Thu 19:24]
+:END:
+#+title: Power law
+#+hugo_custom_front_matter: :slug "29d30938-ecd0-4f44-a86b-5bd7f7734f08"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-07 Mon 07:26]
+#+filetags: :concept:
+
+#+begin_quote
+In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another. For instance, considering the area of a square in terms of the length of its side, if the length is doubled, the area is multiplied by a factor of four.
+
+[cite:@PowerLaw2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 09:13]
+:FC_CREATED: 2022-11-22T17:14:44Z
+:FC_TYPE:  double
+:ID:       f2bf752e-24ad-4267-af80-c259c934b22f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   101.77 | 2023-05-11T21:02:52Z |
+| back     | 2.50 |   6 |    71.07 | 2023-04-29T05:08:50Z |
+:END:
+
+[[id:29d30938-ecd0-4f44-a86b-5bd7f7734f08][Power law]]
+
+*** Back
+A functional relationship between two quantities where one varies as a power of the other.
+*** Source
+[cite:@PowerLaw2022]
+#+print_bibliography:

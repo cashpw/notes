@@ -1,0 +1,12 @@
+// General (from git)
+.DS_Store
+.idea
+*.log
+tmp/
+
+// org-mode
+org-roam.db
+*.org_archive
+
+// Syncthing
+.trashed-*

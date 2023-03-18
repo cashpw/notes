@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       f549369f-9c2b-4c90-a2c8-05cbdaf34b27
+:LAST_MODIFIED: [2023-01-03 Tue 08:36]
+:END:
+#+title: A man grows most tired while standing still
+#+hugo_custom_front_matter: :slug "f549369f-9c2b-4c90-a2c8-05cbdaf34b27"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-11 Fri 17:18]
+#+filetags: :quote:
+
+#+begin_quote
+A man grows most tired while standing still.
+
+/Chinese Proverb/
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** A man grows most tired {{while standing still.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 14:55]
+:FC_CREATED: 2022-11-23T22:56:12Z
+:FC_TYPE:  cloze
+:ID:       2e9a6619-74b1-4c30-8152-0c28767ed654
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    68.95 | 2023-04-16T17:50:57Z |
+:END:
+
+*** Source

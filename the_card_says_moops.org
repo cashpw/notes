@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       7e543b7d-8335-45e9-94ec-1392c0c91ce0
+:LAST_MODIFIED: [2023-03-01 Wed 20:14]
+:END:
+#+title: The card says moops
+#+hugo_custom_front_matter: :slug "7e543b7d-8335-45e9-94ec-1392c0c91ce0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-05 Fri 15:28]
+#+filetags: :concept:
+
+Performative irony used to win arguments and obfuscate the underlying guiding beliefs from the public and, often, themselves.
+
+See [[id:d23a7621-32c5-4cf6-8f2e-e9a84bb55eec][Ian Danskin | The Card Says Moops]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       d5d7cec6-a4a6-4049-a89d-519e13d35701
+:ANKI_NOTE_ID: 1656857049757
+:FC_CREATED: 2022-07-03T14:04:09Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.45 |   6 |    91.31 | 2023-06-01T11:45:12Z |
+| back     | 2.65 |   7 |   249.41 | 2023-10-14T09:37:40Z |
+:END:
+[[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]
+*** Back
+Performative irony used to win arguments and obfuscate the underlying guiding beliefs from the public and, often, themselves.
+*** Source
+[cite:@danskinCardSaysMoops2019]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       1b306faf-5d03-4940-9a68-932b76e6a26d
+:ANKI_NOTE_ID: 1656857050582
+:FC_CREATED: 2022-07-03T14:04:10Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    95.72 | 2023-03-27T08:43:08Z |
+| back     | 2.35 |   6 |    81.89 | 2023-03-21T14:15:46Z |
+:END:
+[[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]
+*** Back
+- I just want to watch the world burn
+- I'm just here to trigger the libs ([[id:d8ff4c8c-4032-473b-9060-8bd7903784c8][Why is it always the libs?]])
+
+*** Source
+[cite:@danskinCardSaysMoops2019]
+#+print_bibliography:

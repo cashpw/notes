@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@FestinaLente2022]
+:ID:       ff009594-d69f-4d33-b0c2-65ed62eaf0b2
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ff009594-d69f-4d33-b0c2-65ed62eaf0b2
+:LAST_MODIFIED: [2023-02-12 Sun 09:36]
+:END:
+#+title: Festina lente
+#+hugo_custom_front_matter: :slug "ff009594-d69f-4d33-b0c2-65ed62eaf0b2"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 16:50]
+#+filetags: :reference:
+ 
+#+begin_quote
+[...] a classical adage and oxymoron meaning "make haste slowly" (sometimes rendered in English as "more haste, less speed").
+
+[cite:@FestinaLente2022]
+#+end_quote
+
+[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** {{[[id:ff009594-d69f-4d33-b0c2-65ed62eaf0b2][Festina lente]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Make haste slowly}{English}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-08 Tue 08:22]
+:FC_CREATED: 2022-11-08T16:23:30Z
+:FC_TYPE:  cloze
+:ID:       466ac44f-acf7-4d82-9e62-1c0cb538622e
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   168.52 | 2023-07-31T05:58:34Z |
+|        1 | 2.05 |   6 |    54.31 | 2023-04-02T07:30:04Z |
+:END:
+
+*** Source
+[cite:@FestinaLente2022]
+#+print_bibliography:

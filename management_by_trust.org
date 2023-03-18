@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       295eeb2d-4265-481a-affe-2009f7f33a3a
+:END:
+#+title: Management by trust
+#+hugo_custom_front_matter: :slug "295eeb2d-4265-481a-affe-2009f7f33a3a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 03:38]
+#+startup: overview
+#+filetags: :has_todo:concept:
+
+- [cite:@ardLittleTasksLittleTrust]
+* TODO [#2] Expand :noexport:
+* TODO [#2] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+#+print_bibliography:

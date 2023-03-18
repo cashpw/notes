@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       1a499a31-7ecb-4f80-95a5-22d748a0c634
+:ROAM_REFS: [cite:@NCComplexity2022]
+:ROAM_ALIASES: "NC (Complexity)"
+:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:END:
+#+title: Nick's class
+#+hugo_custom_front_matter: :slug "1a499a31-7ecb-4f80-95a5-22d748a0c634"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-30 Mon 09:33]
+#+filetags: :concept:
+
+#+begin_quote
+In computational complexity theory [[[id:235c1171-e8bd-4b52-820c-109f34a0bc80][Computational complexity theory]]], the class NC (for "Nick's Class") is the set of decision problems decidable in polylogarithmic time on a parallel computer with a polynomial number of processors. In other words, a problem with input size $n$ is in NC if there exist constants $c$ and $k$ such that it can be solved in time $\bigo{\log^c n}$ using $\bigo{n^k}$ parallel processors. Stephen Cook coined the name "Nick's class" after Nick Pippenger, who had done extensive research on circuits with polylogarithmic depth and polynomial size.
+
+Just as the class P [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]] can be thought of as the tractable problems (Cobham's thesis), so NC can be thought of as the problems that can be efficiently solved on a parallel computer.
+
+[cite:@NCComplexity2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:37]
+:FC_CREATED: 2023-01-30T17:38:36Z
+:FC_TYPE:  double
+:ID:       3fccd80d-a508-4042-b104-4a7cd365b294
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    51.45 | 2023-05-05T01:23:51Z |
+| back     | 2.50 |   5 |    34.20 | 2023-04-18T19:49:13Z |
+:END:
+
+[[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]] (informal)
+
+*** Back
+A complexity class of problems which can be solve in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]] on a parallel computer.
+*** Source
+[cite:@NCComplexity2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:38]
+:FC_CREATED: 2023-01-30T17:40:04Z
+:FC_TYPE:  double
+:ID:       36efbdef-79d4-4263-a028-8b2b699bcbc8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    45.62 | 2023-05-02T05:05:15Z |
+| back     | 2.80 |   5 |    48.53 | 2023-05-06T02:32:47Z |
+:END:
+
+[[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]] (formal)
+
+*** Back
+The set of problems with input size $n$ which can be solved in $\bigo{\log^cn}$ time with $\bigo{n^k}$ parallel processors for some constants $c$ and $k$.
+*** Source
+[cite:@NCComplexity2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-30 Mon 09:41]
+:FC_CREATED: 2023-01-30T17:42:14Z
+:FC_TYPE:  cloze
+:ID:       75610cb6-1d9f-4ab9-b809-c3531c99d68d
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    45.08 | 2023-04-24T04:43:06Z |
+|        1 | 2.65 |   5 |    45.07 | 2023-04-28T16:55:23Z |
+:END:
+
+{{[[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]]}@0} stands for {{[[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][Nick's class]]}@1}.
+
+*** Source
+[cite:@NCComplexity2022]
+#+print_bibliography:

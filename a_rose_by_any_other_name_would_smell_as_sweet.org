@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       8976f641-f94b-488f-8fbf-1679c0185957
+:LAST_MODIFIED: [2023-02-16 Thu 17:47]
+:END:
+#+title: A rose by any other name would smell as sweet
+#+hugo_custom_front_matter: :slug "8976f641-f94b-488f-8fbf-1679c0185957"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-26 Sun 11:29]
+#+filetags: :concept:
+
+#+begin_quote
+The reference is used to state that the names of things do not affect what they really are.
+
+[cite:@RoseAnyOtherNameWouldSmellSweet2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** A rose by {{any other name would smell as sweet.}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 11:38]
+:FC_CREATED: 2022-11-23T19:38:37Z
+:FC_TYPE:  cloze
+:ID:       2094505c-2b37-4066-9495-56e18961cdde
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    83.82 | 2023-05-11T21:31:58Z |
+:END:
+
+*** Source
+[cite:@RoseAnyOtherNameWouldSmellSweet2022]
+#+print_bibliography:

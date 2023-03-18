@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       87a63cc1-4240-44f9-b4f7-7771173d6350
+:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:END:
+#+title: If you're explaining, you're losing
+#+hugo_custom_front_matter: :slug "87a63cc1-4240-44f9-b4f7-7771173d6350"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-11 Fri 08:23]
+#+filetags: :quote:
+
+#+begin_quote
+If you're explaining, you're losing.
+
+/[[id:7b829211-3bb5-4b8b-bd11-347ae0d13031][Ronald Reagan]]/, [cite:@reaganIfYouReExplainingYouReLosing]
+#+end_quote
+
+An example of [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]].
+
+* Flashcards
+** {{[[id:7b829211-3bb5-4b8b-bd11-347ae0d13031][Ronald Reagan]]}@0} said [[id:87a63cc1-4240-44f9-b4f7-7771173d6350][If you're explaining, you're losing]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-11 Fri 08:25]
+:FC_CREATED: 2022-11-11T16:25:32Z
+:FC_TYPE:  cloze
+:ID:       bc30eeb4-6b80-40d0-8721-4732ceac3049
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    43.06 | 2023-04-27T16:47:18Z |
+:END:
+
+*** Source
+[cite:@reaganIfYouReExplainingYouReLosing]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-12-18 Sun 10:42]
+:FC_CREATED: 2022-12-18T18:43:12Z
+:FC_TYPE:  double
+:ID:       a671bf97-6f6d-4644-963b-0ad2a9aa621a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    73.21 | 2023-04-25T20:42:01Z |
+| back     | 2.65 |   6 |    97.42 | 2023-06-10T01:12:22Z |
+:END:
+
+[[id:87a63cc1-4240-44f9-b4f7-7771173d6350][If you're explaining, you're losing]]
+
+*** Back
+A quote which embodies the [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]] attitude.
+*** Source
+[cite:@reaganIfYouReExplainingYouReLosing]
+#+print_bibliography:

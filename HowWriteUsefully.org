@@ -1,0 +1,102 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@grahamHowWriteUsefully]
+:ID:       70afedd4-60d2-4e2e-87e1-04999d90079e
+:DIR:      /home/cashweaver/proj/roam/attachments/70afedd4-60d2-4e2e-87e1-04999d90079e
+:LAST_MODIFIED: [2023-03-09 Thu 18:51]
+:END:
+#+title: Paul Graham | How to Write Usefully
+#+hugo_custom_front_matter: :slug "70afedd4-60d2-4e2e-87e1-04999d90079e"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 17:42]
+#+filetags: :reference:
+ 
+[[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]], [cite:@grahamHowWriteUsefully]
+
+* Summary
+
+A useful essay is one which is novel, correct, important, and strong:
+
+- A *novel* essay communicates a "new thing" (point of view, fact, opinion, etc) to at least some of its audience.
+- A *correct* essay is factually accurate; insofar as is possible.
+- An *important* essay matters to at least some people. You can measure it by the product of the number of people for which your points matter and how much it matters to those people.
+- An essay is *stronger* when it can afford to omit qualification (eg: "Perhaps").
+
+Additionally, for Graham, a useful essay is one which says things as simply as possible.
+
+* Thoughts
+* Notes
+
+#+begin_quote
+What should an essay be? [...] useful.
+#+end_quote
+
+#+begin_quote
+Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.
+#+end_quote
+
+#+begin_quote
+In effect the [novelty, correctness, importance, and strength] are like numbers you can multiply together to get a score for usefulness.
+#+end_quote
+
+#+begin_quote
+[...] if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
+#+end_quote
+
+#+begin_quote
+There's a trick for getting importance too. It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want. You can use yourself as a proxy for the reader. The reader is not completely unlike you, so if you write about topics that seem important to you, they'll probably seem important to a significant number of readers as well.
+#+end_quote
+
+#+begin_quote
+The way to get novelty is to write about topics you've thought about a lot. Then you can use yourself as a proxy for the reader in this department too. Anything you notice that surprises you, who've thought about the topic a lot, will probably also surprise a significant number of readers.
+#+end_quote
+
+#+begin_quote
+[...] strength, comes from two things: thinking well, and the skillful use of qualification. [...] As you try to refine the expression of an idea, you adjust the qualification accordingly. Something you're sure of, you can state baldly with no qualification at all, as I did the four components of useful writing. Whereas points that seem dubious have to be held at arm's length with perhapses.
+#+end_quote
+
+#+begin_quote
+There's one other quality I aim for in essays: to say things as simply as possible. But I don't think this is a component of usefulness. It's more a matter of consideration for the reader. And it's a practical aid in getting things right; a mistake is more obvious when expressed in simple language. But I'll admit that the main reason I write simply is not for the reader's sake or because it helps get things right, but because it bothers me to use more or fancier words than I need to. It seems inelegant, like a program that's too long.
+#+end_quote
+
+#+begin_quote
+Sometimes the reason people don't know something is because they don't want to know it.
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]] considers a useful essay as one which is {{novel, correct, important, and strong}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-08 Tue 15:19]
+:FC_CREATED: 2022-11-08T23:19:59Z
+:FC_TYPE:  cloze
+:ID:       b0019b8a-30db-4b7f-bff3-b9eef873cf8c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.75 |   5 |    18.17 | 2023-03-28T06:57:52Z |
+:END:
+
+*** Source
+[cite:@grahamHowWriteUsefully]
+** [[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]] considers a strong essay to be one which {{can afford to omit qualification (e.g. "perhaps")}@0} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-08 Tue 15:20]
+:FC_CREATED: 2022-11-08T23:20:52Z
+:FC_TYPE:  cloze
+:ID:       8925ff53-b6b3-473d-9d86-75084eb45d0d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.60 |   7 |    33.04 | 2023-04-05T14:59:40Z |
+:END:
+
+*** Source
+[cite:@grahamHowWriteUsefully]
+#+print_bibliography:

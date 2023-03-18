@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@SpeculativeEvolution2022]
+:ID:       6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55
+:LAST_MODIFIED: [2023-02-08 Wed 10:34]
+:END:
+#+title: Speculative evolution
+#+hugo_custom_front_matter: :slug "6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-18 Fri 15:04]
+#+filetags: :reference:
+ 
+[cite:@SpeculativeEvolution2022]
+
+#+begin_quote
+Speculative evolution is a genre of speculative fiction and an artistic movement focused on hypothetical scenarios in the evolution of life, and a significant form of fictional biology. It is also known as speculative biology and it is referred to as speculative zoology in regards to hypothetical animals. Works incorporating speculative evolution may have entirely conceptual species that evolve on a planet other than Earth, or they may be an alternate history focused on an alternate evolution of terrestrial life. Speculative evolution is often considered hard science fiction because of its strong connection to and basis in science, particularly biology.
+#+end_quote
+
+Related:
+
+- [[id:607e152b-fce5-4e83-a88e-58c0f1f5571d][Deep Time]]
+- [[id:392666aa-baf5-4b52-b95f-e37b893ac63e][All Tomorrows]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 12:01]
+:FC_CREATED: 2022-11-23T20:01:57Z
+:FC_TYPE:  double
+:ID:       3be97b85-de1c-4a9e-87c6-99267dc48f97
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   120.73 | 2023-06-09T12:10:01Z |
+| back     | 2.35 |   6 |    58.46 | 2023-04-06T10:33:59Z |
+:END:
+
+[[id:6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55][Speculative evolution]]
+
+*** Back
+A genre of fiction, and an artistic movement, focused on hypothetical scenarios in how life grows and changes over time.
+*** Source
+[cite:@SpeculativeEvolution2022]
+#+print_bibliography:

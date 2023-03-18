@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@leungPythonLanguageCompanionIntroductionAppliedLinearAlgebraVectorsMatricesLeast2019]
+:ID:       2a445fab-e52e-4402-af16-3c67f29be582
+:LAST_MODIFIED: [2023-02-22 Wed 06:57]
+:END:
+#+title: Jessica Leung, Dmytro Matsypura | Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
+#+hugo_custom_front_matter: :slug "2a445fab-e52e-4402-af16-3c67f29be582"
+#+author: Cash Weaver
+#+date: [2022-12-24 Sat 09:33]
+#+filetags: :has_todo:reference:
+
+[[id:7229c3b7-41df-4122-88ab-0a808cc272af][Jessica Leung]], [[id:8f382815-45a4-4eaf-9d0c-a5a0c27adbe8][Dmytro Matsypura]], [cite:@leungPythonLanguageCompanionIntroductionAppliedLinearAlgebraVectorsMatricesLeast2019]
+
+This is the [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] companion to [[id:7dc661e4-ea71-4280-b6bc-20a32da8b49e][VMLS]].
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+* TODO [#2] Flashcards
+** Source :fc:
+:PROPERTIES:
+:ID:       759a93b7-5eea-4f29-998c-ed3c0190ff47
+:ANKI_NOTE_ID: 1640627810446
+:FC_CREATED: 2021-12-27T17:56:50Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    32.12 | 2023-03-26T17:57:44Z |
+:END:
+
+[[id:2a445fab-e52e-4402-af16-3c67f29be582][Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]]
+
+*** Back
+1. [[id:7229c3b7-41df-4122-88ab-0a808cc272af][Jessica Leung]]
+2. [[id:8f382815-45a4-4eaf-9d0c-a5a0c27adbe8][Dmytro Matsypura]]
+#+print_bibliography:

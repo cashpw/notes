@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       846cdec4-5f6c-4dd9-99a4-d30ea0b61180
+:ROAM_REFS: [cite:@PassiveHouse2022]
+:END:
+#+title: Passive House
+#+hugo_custom_front_matter: :slug "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
+#+filetags: :has_todo:concept:
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-29 Sat 16:52]
+#+hugo_draft: t
+
+#+begin_quote
+[...] a voluntary standard for energy efficiency in a building, which reduces the building's ecological footprint.
+
+/[cite:@PassiveHouse2022]/
+#+end_quote
+
+* TODO [#2] Expand :noexport:
+
+* TODO [#2] Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+#+print_bibliography:

@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@AskHNHowYouLearnComplexDenseTechnicalInformation]
+:ID:       39b74423-8abb-4fd6-8ca1-536539e2d05b
+:DIR:      /home/cashweaver/proj/roam/attachments/39b74423-8abb-4fd6-8ca1-536539e2d05b
+:LAST_MODIFIED: [2022-12-14 Wed 13:26]
+:END:
+#+title: Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?
+#+hugo_custom_front_matter: :slug "39b74423-8abb-4fd6-8ca1-536539e2d05b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 14:56]
+#+filetags: reference
+
+[cite:@AskHNHowYouLearnComplexDenseTechnicalInformation]
+
+* Thoughts
+
+Relevant: [[id:e6b1cd50-8293-44a3-bcba-d302d0835470][How to Read a Paper]]
+
+* Notes
+
+#+begin_quote
+Essentially I think learning is fundamentally Pain. You have to take on the pain before the learning can alleviate it, if you try to skip the pain then you have only a superficial idea of what you're talking about.
+
+/[[https://news.ycombinator.com/item?id=22327554][crdrost]]/
+#+end_quote
+
+#+begin_quote
+Interestingly there is a concept in learning research called "[[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][desirable difficulty]]". The idea is that learning something, forgetting it and then struggling to learn it again leads to faster learning times. It may be that struggle is inherent in the process of learning something complex. If you equate struggle with pain, then I think it makes some sense.
+
+/[[https://news.ycombinator.com/item?id=22330631][mikekchar]]/
+#+end_quote
+
+#+begin_quote
+In my ~20 years of experience, the only way to get good at something that is incredibly complex like kernel development, you will need to actually try to build the thing. Over and over and over.
+
+/[[https://news.ycombinator.com/item?id=22330078][bob1029]]/
+#+end_quote
+
+See [[id:ca6fd965-8c9c-470c-b020-8fe0765ceb20][Blub studies]].
+
+#+begin_quote
+In the language learning example, Extensive Reading leads to not only picking up and remembering words, but also collocations, grammar and even cultural beliefs of the speakers of the target language. Single word flash cards miss all of that. Full sentence flashcards do a bit better but still fall short.
+
+I think the best use for [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][SRS]] for something like a language or programming is for laying down a scaffold in the very early stages of learning, and then moving to more productive uses of study time as soon as possible.
+
+/[[https://news.ycombinator.com/item?id=22332329][AlchemistCamp]], replying to [[https://news.ycombinator.com/item?id=22326925][stared]]/
+#+end_quote
+
+This raises an important point in the use of [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced Repetition System]] ([[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][SRS]]). I wouldn't expect someone to be able to write a good essay if they only studied the meaning of words. Spaced repetition systems lend themselves easily to the study of small chunks of information (eg: definitions) but it is more difficult to apply them to higher-level applications of knowledge and understanding (eg: essay writing).
+
+#+begin_quote
+I think semantic tree/first principles/physics-based approach (popularly attributed to Elon Musk) is one way to approach it. It's actually a really difficult approach and you need a certain level of intelligence and personality to do it well, so it's not for everyone. I can do it to some extent but it's actually really difficult to hold lots of ideas in tension and to be questioning all the time -- it's just not my thinking style.
+
+The other approach is what many smart (but non-geniuses) take: the buffet approach. You graze at the table of books, Wikipedia, online articles, and hang out in online communities (like Twitter) to overhear what experts are discussing. The thing about most areas of knowledge is, there's usually only 20% [[[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][Pareto principle]] ] of the subject that matters--the rest rarely come up (Pareto Principle). To know what 20% to focus on, you need to understand the sociology of the subject matter and what experts think are important. Unlike the previous approach, you won't have watershed-level insights, but you'll know enough to be considered "educated" on the subject.
+
+/[[https://news.ycombinator.com/item?id=22327704][wenc]]/
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

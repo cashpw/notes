@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       650f4577-c1ec-46c9-b7a6-af8d90756bcd
+:ROAM_ALIASES: "Space-efficient data structure"
+:LAST_MODIFIED: [2023-03-09 Thu 19:15]
+:END:
+#+title: Implicit data structure
+#+hugo_custom_front_matter: :slug "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 09:32]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, an implicit data structure or space-efficient data structure is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that stores very little information other than the main or required data: a data structure that requires low overhead. They are called "implicit" because the position of the elements carries meaning and relationship between elements; this is contrasted with the use of pointers to give an explicit relationship between elements. Definitions of "low overhead" vary, but generally means constant overhead; in big O notation, O(1) overhead.
+
+[cite:@ImplicitDataStructure2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       4e5934c2-b83c-4da3-bf9f-2c91af09623b
+:ANKI_NOTE_ID: 1656857120282
+:FC_CREATED: 2022-07-03T14:05:20Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   288.43 | 2023-11-14T13:01:50Z |
+| front    | 1.90 |   4 |    11.04 | 2023-03-19T19:31:53Z |
+:END:
+[[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]
+*** Back
+A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z + O(1)\) space to store some data where \(Z\) is the information-theoretical optimal number of bits needed to store the data.
+*** Source
+[cite:@ImplicitDataStructure2021]
+** AKA (Computer science) :fc:
+:PROPERTIES:
+:ID:       0351b29f-02c9-4e1f-81bd-4f71ea6a2509
+:ANKI_NOTE_ID: 1656857121533
+:FC_CREATED: 2022-07-03T14:05:21Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   7 |    74.95 | 2023-04-29T12:59:42Z |
+|        1 | 2.50 |  12 |   112.35 | 2023-04-14T00:01:24Z |
+:END:
+- {{[[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]}@0}
+- {{[[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Space-efficient data structure]]}@1}
+*** Source
+[cite:@ImplicitDataStructure2021]
+
+
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       8738cc93-0b2a-49d7-a935-3583f1692134
+:ANKI_NOTE_ID: 1656857122207
+:FC_CREATED: 2022-07-03T14:05:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   7 |   319.60 | 2024-01-23T17:41:39Z |
+| back     | 2.80 |   6 |   102.95 | 2023-04-24T13:27:20Z |
+:END:
+
+[[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]
+
+*** Back
+- [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Array]]
+*** Source
+[cite:@ImplicitDataStructure2021]
+#+print_bibliography:

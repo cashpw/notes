@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       3609e84d-7834-48dd-8a93-24d1cc653def
+:LAST_MODIFIED: [2022-12-24 Sat 09:18]
+:END:
+#+title: Charles van Doren
+#+hugo_custom_front_matter: :slug "3609e84d-7834-48dd-8a93-24d1cc653def"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:14]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       a29bec0a-9e91-4d53-8af7-b56413317581
+:ANKI_NOTE_ID: 1640627804947
+:FC_CREATED: 2021-12-27T17:56:44Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   8 |   281.33 | 2023-11-15T02:40:47Z |
+:END:
+
+[[id:3609e84d-7834-48dd-8a93-24d1cc653def][Charles van Doren]]
+
+*** Back
+[[id:52512c4c-d011-4cca-afd5-87db8442f9c3][How to Read a Book]]

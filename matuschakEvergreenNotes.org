@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@matuschakEvergreenNotes]
+:ID:       eb5965f1-211b-45cb-9f56-b8e85c48bb6d
+:DIR:      /home/cashweaver/proj/roam/attachments/eb5965f1-211b-45cb-9f56-b8e85c48bb6d
+:END:
+#+title: Andy Matuschak | Evergreen Notes
+#+hugo_custom_front_matter: :slug "eb5965f1-211b-45cb-9f56-b8e85c48bb6d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-21 Mon 17:40]
+#+filetags: :has_todo:reference:
+ 
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakEvergreenNotes]
+
+#+begin_quote
+[[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]] are written and organized to evolve, contribute, and accumulate over time, across projects. This is an unusual way to think about writing notes: [[https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1][Most people take only transient notes]]. That's because these practices aren't about writing notes; they're about effectively developing insight: [[https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc]["Better note-taking" misses the point; what matters is "better thinking"]]. When done well, these notes can be quite valuable: [[https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be][Evergreen note-writing as fundamental unit of knowledge work]].
+
+It's hard to write notes that are worth developing over time. These principles help:
+
+- [[https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1][Evergreen notes should be atomic]]
+- [[https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF][Evergreen notes should be concept-oriented]]
+- [[https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC][Evergreen notes should be densely linked]]
+- [[https://notes.andymatuschak.org/z29hLZHiVt7W2uss2uMpSZquAX5T6vaeSF6Cy][Prefer associative ontologies to hierarchical taxonomies]]
+- [[https://notes.andymatuschak.org/z8AfCaQJdp852orumhXPxHb3r278FHA9xZN8J][Write notes for yourself by default, disregarding audience]]
+
+This concept evolves in large part from Niklas Luhmann's [[https://notes.andymatuschak.org/z2QvtE9w5zs49x7WUeG8Ut1vywHDLiG2Wkm9p][Zettelkasten]], which he regards as the independent intellectual partner in writing his 70 books. See [[https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm][Similarities and differences between evergreen note-writing and Zettelkasten]]
+
+*Implementing an evergreen note practice*
+
+See:
+
+- [[https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo][Write about what you read to internalize texts deeply]]
+- [[https://notes.andymatuschak.org/z3N113rxPFreW9xUkLkUFomr2LUqfXbdCo3M][A reading inbox to capture possibly-useful references]]
+- [[https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz][A writing inbox for transient and incomplete notes]]
+- [[https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8][Executable strategy for writing]]
+#+end_quote
+
+* TODO [#2] Extract links into notes
+
+* Flashcards
+#+print_bibliography:

@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       bd91ce7a-9b16-4c0c-9b42-0fac236a1364
+:ROAM_REFS: [cite:@Panopticon2022]
+:LAST_MODIFIED: [2023-03-13 Mon 07:31]
+:END:
+#+title: Panopticon
+#+hugo_custom_front_matter: :slug "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-08 Fri 16:03]
+#+filetags: :concept:
+
+#+begin_quote
+The panopticon is a type of institutional building and a system of control designed by the English philosopher and social theorist Jeremy Bentham in the 18th century. The concept of the design is to allow all prisoners of an institution to be observed by a single security guard, without the inmates being able to tell whether they are being watched.
+
+Although it is physically impossible for the single guard to observe all the inmates' cells at once, the fact that the inmates cannot know when they are being watched means that they are motivated to act as though they are being watched at all times. Thus, the inmates are effectively compelled to regulate their own behaviour.
+
+[cite:@Panopticon2022]
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 09:56]
+:FC_CREATED: 2022-11-22T17:59:29Z
+:FC_TYPE:  double
+:ID:       def3e8ca-e1b9-4059-9878-c3e2d8fd762f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    69.33 | 2023-04-14T00:32:17Z |
+| back     | 2.95 |   6 |   164.82 | 2023-08-25T10:08:03Z |
+:END:
+
+[[id:bd91ce7a-9b16-4c0c-9b42-0fac236a1364][Panopticon]]
+
+*** Back
+A building design and system of control which compels those within it to regulate their own behavior as they cannot tell when they're being watched.
+*** Source
+[cite:@Panopticon2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 09:59]
+:FC_CREATED: 2022-11-22T18:00:02Z
+:FC_TYPE:  double
+:ID:       2fb64c91-a450-45a3-baaf-167b4536c559
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    83.96 | 2023-05-03T17:17:09Z |
+| back     | 2.50 |   6 |    89.62 | 2023-05-17T18:31:29Z |
+:END:
+
+[[id:bd91ce7a-9b16-4c0c-9b42-0fac236a1364][Panopticon]]
+
+*** Back
+- A computer network wherein all computers are visible to a central security team
+- A circular prison with a single tower at the center
+*** Source
+[cite:@Panopticon2022]
+#+print_bibliography:

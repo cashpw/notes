@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       d263a9a2-ed45-438b-a390-7f205f383d54
+:LAST_MODIFIED: [2023-03-03 Fri 05:52]
+:END:
+#+title: The opposite of a trap is a garden
+#+hugo_custom_front_matter: :slug "d263a9a2-ed45-438b-a390-7f205f383d54"
+#+author: Cash Prokop-Weaver
+#+date: [2022-10-10 Mon 09:13]
+#+filetags: :concept:quote:
+
+#+begin_quote
+The opposite of a trap is a garden. The only way to avoid having all human values gradually ground down by optimization-competition is to install a Gardener over the entire universe who optimizes for human values.
+
+[cite:@alexanderMeditationsMoloch2014]
+#+end_quote
+
+* Flashcards
+** [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]] proposes that the opposite of a {{trap}@1} is a {{garden}@0}. :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1658350461242
+:FC_CREATED: 2022-09-21T15:57:07Z
+:FC_TYPE:  cloze
+:ID:       5555e68e-1548-4f28-a7a7-63820e3f908f
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        1 | 2.35 |   7 |   152.89 | 2023-08-03T11:14:34Z |
+|        0 | 2.65 |   6 |   103.74 | 2023-05-14T10:05:49Z |
+:END:
+
+*** Source
+[cite:@alexanderMeditationsMoloch2014]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 10:12]
+:FC_CREATED: 2022-11-23T18:13:49Z
+:FC_TYPE:  double
+:ID:       45460e29-8290-4e5d-90b3-a3dfe5c54d52
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   137.28 | 2023-07-02T11:25:59Z |
+| back     | 2.50 |   6 |   102.50 | 2023-05-20T11:49:52Z |
+:END:
+
+[[id:d263a9a2-ed45-438b-a390-7f205f383d54][The opposite of a trap is a garden]]
+
+*** Back
+The only way to avoid having all human values gradually ground down by optimization-competition ([[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]) is to install a ... over the entire universe who optimizes for human values.
+*** Source
+[cite:@alexanderMeditationsMoloch2014]
+#+print_bibliography:

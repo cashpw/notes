@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       96e6cece-bfe4-4f80-b526-9578d2431364
+:LAST_MODIFIED: [2023-02-07 Tue 10:29]
+:END:
+#+title: Little-o notation
+#+hugo_custom_front_matter: :slug "96e6cece-bfe4-4f80-b526-9578d2431364"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-19 Fri 19:06]
+#+filetags: :concept:
+
+Little-o notation, written as \(\littleo{g(n)}\), is a stronger statement than [[id:adca1b0d-0ebe-4ea9-8b89-b4583f0d74ad][Big O notation]]. It implies that \(g(x)\) grows much faster than \(f(x)\). It's defined as:
+
+\[f(x) = \littleo{g(x)} \overset{\Delta}{=} \lim_{x \to \infty} \frac{f(x)}{g(x)} = 0\]
+
+* Relationship with [[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big-O notation]]
+\[\begin{align}3n^3 &= \bigo{n^3} \\ 3n^3 &\ne \littleo{n^3} \\ 3n^3 &= \littleo{n^4}\end{align}\]
+
+To use an analogy:
+
+\[\begin{align}f(n) &\in \bigo{g(n)} &\implies f(n) &\le g(n) \\ f(n) &\in \littleo{g(n)} &\implies f(n) &< g(n)\end{align}\]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       1848c930-a5b5-45a9-b45f-e54cf5353a25
+:ANKI_NOTE_ID: 1656856942285
+:FC_CREATED: 2022-07-03T14:02:22Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.20 |   8 |   137.84 | 2023-05-16T13:09:56Z |
+| front    | 2.05 |   6 |    69.46 | 2023-03-25T05:33:03Z |
+:END:
+
+[[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]]
+
+*** Back
+\[\operatorname{fn}(g(x)) \overset{\Delta}{=} \lim_{x \to \infty} \frac{f(x)}{g(x)} = 0\]
+
+*** Source
+[cite:@BigNotation2022]
+
+** Denotes (Computer science) :fc:
+:PROPERTIES:
+:ID:       e230316e-00a9-46d7-a68e-70a6b4513bac
+:ANKI_NOTE_ID: 1656856943208
+:FC_CREATED: 2022-07-03T14:02:23Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 3.10 |   6 |   154.85 | 2023-07-11T20:16:17Z |
+|        1 | 2.65 |   6 |    89.24 | 2023-04-26T19:40:16Z |
+:END:
+
+- {{$o(n)$}@0}
+
+{{[[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]]}@1}
+
+*** Source
+[cite:@BigNotation2022]
+** [[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]] is a {{stronger}{stronger/weaker}@0} statement than [[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big-O notation]] :fc:
+:PROPERTIES:
+:CREATED: [2022-11-06 Sun 08:33]
+:FC_CREATED: 2022-11-06T16:34:55Z
+:FC_TYPE:  cloze
+:ID:       7ea3fed5-93cf-417d-957a-d5a6f70f9d1a
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   151.00 | 2023-07-08T18:36:05Z |
+:END:
+
+*** Source
+[cite:@BigNotation2022]
+#+print_bibliography:

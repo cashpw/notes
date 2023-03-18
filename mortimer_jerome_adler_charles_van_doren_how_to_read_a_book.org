@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@adlerHowReadBook1972]
+:ID:       52512c4c-d011-4cca-afd5-87db8442f9c3
+:LAST_MODIFIED: [2022-12-24 Sat 09:39]
+:END:
+#+title: Mortimer Jerome Adler, Charles Van Doren | How to Read a Book
+#+hugo_custom_front_matter: :slug "52512c4c-d011-4cca-afd5-87db8442f9c3"
+#+author: Cash Weaver
+#+date: [2022-12-24 Sat 09:16]
+#+filetags: :has_todo:reference:
+
+[[id:575a40fb-8d8e-4946-8f21-c3dcaafbfcc3][Mortimer J Adler]], [[id:3609e84d-7834-48dd-8a93-24d1cc653def][Charles van Doren]], [cite:@adlerHowReadBook1972]
+
+* TODO [#3] Summary
+* TODO [#3] Thoughts
+* TODO [#3] Notes
+* TODO [#3] Flashcards
+** Source :fc:
+:PROPERTIES:
+:ID:       d21cf963-1f4a-4b02-b28a-141e2fb46942
+:ANKI_NOTE_ID: 1640627805149
+:FC_CREATED: 2021-12-27T17:56:45Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.00 |  12 |    90.75 | 2023-03-19T12:40:09Z |
+:END:
+
+[[id:52512c4c-d011-4cca-afd5-87db8442f9c3][How to Read a Book]]
+
+*** Back
+1. [[id:575a40fb-8d8e-4946-8f21-c3dcaafbfcc3][Mortimer J Adler]]
+2. [[id:3609e84d-7834-48dd-8a93-24d1cc653def][Charles van Doren]]
+#+print_bibliography:

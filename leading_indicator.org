@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       31eaa796-a578-43ae-a119-a1d8505cbe72
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/31eaa796-a578-43ae-a119-a1d8505cbe72
+:LAST_MODIFIED: [2023-02-26 Sun 08:17]
+:END:
+#+title: Leading indicator
+#+hugo_custom_front_matter: :slug "31eaa796-a578-43ae-a119-a1d8505cbe72"
+#+filetags: :has_todo:reference:
+#+author: Cash Prokop-Weaver
+#+date: [2022-01-28 Fri 08:18]
+
+#+begin_quote
+Leading indicators are indicators that usually, but not always, change before the [a thing] as a whole changes. They are therefore useful as short-term predictors of the [a thing].
+
+[cite:@EconomicIndicator2021]
+#+end_quote
+
+* TODO [#2] Examples
+
+- Amount of sleep someone gets as a leading indicator for their focus during the day.
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-25 Fri 08:51]
+:FC_CREATED: 2022-11-25T16:51:37Z
+:FC_TYPE:  double
+:ID:       181f715f-2054-4b88-a9fd-39f2964f9bec
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   127.59 | 2023-07-02T18:01:05Z |
+| back     | 2.20 |   6 |    68.76 | 2023-05-06T10:26:54Z |
+:END:
+
+[[id:31eaa796-a578-43ae-a119-a1d8505cbe72][Leading indicator]]
+
+*** Back
+A measure of change which predicts change.
+*** Source
+[cite:@EconomicIndicator2021]
+#+print_bibliography:

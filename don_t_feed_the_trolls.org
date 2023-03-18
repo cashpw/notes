@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       a6d989de-a309-479e-91ab-9327b8fdf874
+:LAST_MODIFIED: [2023-03-13 Mon 07:29]
+:END:
+#+title: Don't feed the trolls
+#+hugo_custom_front_matter: :slug "a6d989de-a309-479e-91ab-9327b8fdf874"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-25 Sat 18:15]
+#+filetags: :concept:
+
+Trolls seek to derail conversations, inject negativity, and generally be a nuisance [[id:54072a82-9f61-443d-b51e-af74fc18e895][for the lulz]]. How do you deal with them? How do you refute their bullshit or drive them out of your communities? Ignore them. Their goal is attention -- don't give it to them. This isn't a foolproof plan. It'll reduce the number of trolls but not all the way to zero.
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:20]
+:FC_CREATED: 2022-11-22T23:20:39Z
+:FC_TYPE:  double
+:ID:       bf0d7caa-1ee0-4c7b-81a4-f7233e9dae5f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    93.55 | 2023-05-15T13:13:56Z |
+| back     | 2.95 |   6 |   143.65 | 2023-08-04T06:06:49Z |
+:END:
+
+[[id:a6d989de-a309-479e-91ab-9327b8fdf874][Don't feed the trolls]]
+
+*** Back
+Trolls seek attention -- don't give it to them. It's not a foolproof plan for dealing with them but it's a necessary component.
+*** Source

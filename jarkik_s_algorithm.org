@@ -1,0 +1,144 @@
+:PROPERTIES:
+:ID:       2e340461-20cb-4d63-afdb-cac74fbea013
+:ROAM_ALIASES: "DJP algorithm" "Prim's algorithm"
+:ROAM_REFS: [cite:@PrimAlgorithm2022]
+:LAST_MODIFIED: [2023-03-17 Fri 07:07]
+:END:
+#+title: Jarnik's algorithm
+#+hugo_custom_front_matter: :slug "2e340461-20cb-4d63-afdb-cac74fbea013"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 08:41]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, Prim's algorithm (also known as Jarník's algorithm) is a greedy algorithm [[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy algorithm]]] that finds a minimum spanning tree [[[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]] for a weighted undirected graph [[[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]]. This means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized. The algorithm operates by building this tree one vertex at a time, from an arbitrary starting vertex, at each step adding the cheapest possible connection from the tree to another vertex.
+
+[cite:@PrimAlgorithm2022]
+#+end_quote
+
+* Algorithm
+
+#+begin_quote
+The algorithm may informally be described as performing the following steps:
+
+1. Initialize a tree with a single vertex, chosen arbitrarily from the graph.
+2. Grow the tree by one edge: of the edges that connect the tree to vertices not yet in the tree, find the minimum-weight edge, and transfer it to the tree.
+3. Repeat step 2 (until all vertices are in the tree).
+
+[cite:@PrimAlgorithm2022]
+#+end_quote
+
+* Time complexity
+
+- With [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]] and an [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]: $\bigo{|E|\log(|V|)}$
+- With [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]] and an [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]: $\bigo{|E| + |V|\log(|V|)}$
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:16]
+:FC_CREATED: 2023-01-17T17:22:35Z
+:FC_TYPE:  double
+:ID:       4825de5d-c9a4-4ca3-a602-9a94f858093a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    34.24 | 2023-03-30T09:37:07Z |
+| back     | 2.80 |   5 |    48.81 | 2023-05-05T09:33:20Z |
+:END:
+
+Discovery of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
+
+*** Back
+- Discovered by Vojtěch Jarník in 1930
+- Rediscovered by Robert Prim in 1957
+- Rediscovered by Dijkstra in 1959
+*** Source
+[cite:@PrimAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:22]
+:FC_CREATED: 2023-01-17T17:24:05Z
+:FC_TYPE:  cloze
+:ID:       ffe8448a-aa9c-4619-b388-8f0a1a697cc0
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   5 |    39.69 | 2023-03-27T08:30:19Z |
+:END:
+
+[[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] is {{a [[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy algorithm]]}{heuristic}@0}.
+
+*** Source
+[cite:@PrimAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 09:25]
+:FC_CREATED: 2023-01-17T17:26:02Z
+:FC_TYPE:  double
+:ID:       9ef16769-fad5-4380-a53e-a77d5dca8e17
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   4 |    14.10 | 2023-03-22T20:49:29Z |
+| back     | 2.80 |   5 |    52.92 | 2023-05-07T12:35:49Z |
+:END:
+
+Time complexity of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
+
+*** Back
+([[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]])
+
+- With [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]] and an [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]: $\bigo{|E|\log(|V|)}$
+- With [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]] and an [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]: $\bigo{|E| + |V|\log(|V|)}$
+*** Source
+[cite:@PrimAlgorithm2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-01-20 Fri 09:08]
+:FC_CREATED: 2023-01-20T17:09:26Z
+:FC_TYPE:  cloze
+:ID:       b34bc0b0-1f75-4ae1-80de-4febcac7c354
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    30.59 | 2023-03-29T06:26:29Z |
+:END:
+
+[[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]'s purpose: {{find a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]}@0}.
+
+*** Source
+[cite:@PrimAlgorithm2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-01-28 Sat 14:31]
+:FC_CREATED: 2023-01-28T22:31:49Z
+:FC_TYPE:  double
+:ID:       8c472936-1c0f-4c4a-9474-5a8d84c8e2d1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    35.58 | 2023-04-19T04:23:49Z |
+| back     | 2.80 |   4 |    18.00 | 2023-03-19T04:10:40Z |
+:END:
+
+[[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in pseudocode
+
+*** Back
+#+begin_quote
+1. Initialize a tree with a single vertex, chosen arbitrarily from the graph.
+2. Grow the tree by one edge: of the edges that connect the tree to vertices not yet in the tree, find the minimum-weight edge, and transfer it to the tree.
+3. Repeat step 2 (until all vertices are in the tree).
+#+end_quote
+*** Source
+[cite:@PrimAlgorithm2022]
+#+print_bibliography:

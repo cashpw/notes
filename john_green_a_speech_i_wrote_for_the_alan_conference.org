@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@greenSpeechWroteALANConference2015]
+:ID:       8fab397c-3935-4c50-9861-37f913e19482
+:LAST_MODIFIED: [2023-02-25 Sat 08:38]
+:END:
+#+title: John Green | A Speech I Wrote for the ALAN Conference
+#+hugo_custom_front_matter: :slug "8fab397c-3935-4c50-9861-37f913e19482"
+#+author: Cash Weaver
+#+date: [2022-11-22 Tue 14:25]
+#+filetags: :has_todo:reference:
+
+[[id:4eaa8d9d-b4d1-4373-8723-d19d9c1dc38b][John Green]], [cite:@greenSpeechWroteALANConference2015]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+[[id:91aae608-44c7-4dd0-94e1-512d5d5263cf][Imagine others complexly]]
+* TODO [#2] Notes
+
+#+begin_quote
+Literacy is important. Literacy is vital, but literacy is not the finish line. Literature is not just in the business of See Jane Run. Literature is in the business of helping us to imagine ourselves and others more complexly, of connecting us to the ancient conversation about how to live as a person in a world full of other people.
+
+[...]
+
+Let me tell you what is, in my opinion, the central problem of human existence: I am stuck in my body, in my consciousness, seeing out of my eyes. I am the only me I ever get to be, and so I am the only person I can imagine endlessly complexly. That's not the problem, actually. The problem is you. You are so busy taking in your own wondrousness that you can't be bothered to acknowledge mine.
+#+end_quote
+* TODO [#2] Flashcards
+#+print_bibliography:

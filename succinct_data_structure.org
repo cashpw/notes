@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9
+:LAST_MODIFIED: [2023-03-05 Sun 09:33]
+:END:
+#+title: Succinct data structure
+#+hugo_custom_front_matter: :slug "2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 09:35]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a succinct data structure is a data structure which uses an amount of space that is "close" to the information-theoretic lower bound, but (unlike other compressed representations) still allows for efficient query operations.
+
+[cite:@SuccinctDataStructure2021]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       4ae072e7-0bda-43db-ae6f-1aeda534bde0
+:ANKI_NOTE_ID: 1656857188207
+:FC_CREATED: 2022-07-03T14:06:28Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   167.90 | 2023-07-08T11:58:08Z |
+| front    | 1.90 |   7 |   101.66 | 2023-06-15T09:26:53Z |
+:END:
+[[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]
+*** Back
+A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z + o(Z)\) space to store some data where \(Z\) is the information-theoretical optimal number of bits needed to store the data.
+*** Source
+[cite:@SuccinctDataStructure2021]
+** Example(s) :fc:
+:PROPERTIES:
+:ID:       4d0e1d93-ee6d-4210-b203-6f1dfed43545
+:ANKI_NOTE_ID: 1656857189132
+:FC_CREATED: 2022-07-03T14:06:29Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   7 |    62.22 | 2023-05-03T21:12:31Z |
+| back     | 2.80 |   7 |   245.61 | 2023-10-10T12:36:04Z |
+:END:
+[[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]
+*** Back
+- [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
+*** Source
+[cite:@SuccinctDataStructure2021]
+#+print_bibliography:

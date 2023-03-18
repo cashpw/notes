@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@peckWhatAreThreeTypesFun2017]
+:ID:       a06d371b-148e-4a49-86bb-f4d04cfcefe7
+:DIR:      /home/cashweaver/proj/roam/attachments/a06d371b-148e-4a49-86bb-f4d04cfcefe7
+:LAST_MODIFIED: [2022-12-14 Wed 13:31]
+:END:
+#+title: Tim Peck | What Are the Three Types of Fun?
+#+hugo_custom_front_matter: :slug "a06d371b-148e-4a49-86bb-f4d04cfcefe7"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-07 Mon 08:09]
+#+filetags: :reference:
+ 
+[[id:de4c984b-79f6-49b6-bc23-1272eb110559][Tim Peck]], [cite:@peckWhatAreThreeTypesFun2017]
+
+* Summary
+
+| Type | Fun in the moment | Fun when looking back |
+|------+-------------------+-----------------------|
+|    1 | Yes               | Yes                   |
+|    2 | No                | Yes                   |
+|    3 | No                | No                    |
+
+
+* Thoughts
+
+There's a fourth type missing:
+
+| Type | Fun in the moment | Fun when looking back |
+|------+-------------------+-----------------------|
+|    1 | Yes               | Yes                   |
+|    2 | No                | Yes                   |
+|    3 | No                | No                    |
+|    4 | Yes               | No                    |
+
+* Notes
+** Type 1 Fun
+#+begin_quote
+Type 1 fun is most simply described as fun every step of the way, and it's what most of us imagine when planning our adventures.
+#+end_quote
+
+** Type 2 Fun
+#+begin_quote
+Type 2 is a strange beast, because it isn't actually fun at the moment. In fact, it feels much like suffering. It's only after the event, and in reflection, that you come to realize you actually had fun.
+#+end_quote
+** Type 3 Fun
+
+#+begin_quote
+Ironically, Type 3 isn't actually fun at all. Fun doesn't surface when it's happening and doesn't appear later during reflection.
+
+Instead, it's the type that makes most of us go crawling back to Type 1, and say, "The heck with Type 2, because it's just too damned close to Type 3." While we often learn something from our suffering during Type 2 that furthers our outdoor knowledge and experience, it's Type 3 that chases us away from activities altogether. In fact, most great stories of Type 3 Fun will include the phrase, "And that was the last time I…"
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

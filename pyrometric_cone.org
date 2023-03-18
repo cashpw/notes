@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       36a89fad-7e34-47eb-b8ec-555c2832abbf
+:LAST_MODIFIED: [2023-03-04 Sat 07:20]
+:END:
+#+title: Pyrometric cone
+#+hugo_custom_front_matter: :slug "36a89fad-7e34-47eb-b8ec-555c2832abbf"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 07:40]
+#+filetags: :concept:
+
+#+begin_quote
+Pyrometric cones are pyrometric devices that are used to gauge [[id:68b68eba-1b4b-4fe2-9d8d-334fdbf0802f][Heatwork]] during the firing of ceramic materials. The cones, often used in sets of three, are positioned in a kiln with the wares to be fired and provide a visual indication of when the wares have reached a required state of maturity, a combination of time and temperature. Thus, pyrometric cones give a temperature equivalent; they are not simple temperature-measuring devices.
+
+[cite:@PyrometricCone2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** {{[[id:36a89fad-7e34-47eb-b8ec-555c2832abbf][Pyrometric cones]]}@0} gauge {{[[id:68b68eba-1b4b-4fe2-9d8d-334fdbf0802f][Heatwork]]}@1} during the firing of ceramic materials. :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 07:43]
+:FC_CREATED: 2022-11-23T15:44:18Z
+:FC_TYPE:  cloze
+:ID:       cbc6aaaa-3520-472b-ad93-f95b52a753e3
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |    87.69 | 2023-05-14T08:27:14Z |
+|        1 | 2.65 |   6 |   115.17 | 2023-06-27T19:18:43Z |
+:END:
+
+*** Source
+[cite:@PyrometricCone2022]
+#+print_bibliography:

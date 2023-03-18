@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       d57fdb71-8ae6-4307-a255-bfeaeb50a5a9
+:LAST_MODIFIED: [2023-03-11 Sat 16:31]
+:END:
+#+title: Product rule
+#+hugo_custom_front_matter: :slug "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-23 Mon 09:18]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], the product rule (or neibniz [[[id:7d88c4e5-e3f2-4206-8b42-a842754c0dc2][Gottfried Leibniz]]] rule or Leibniz product rule) is a formula used to find the derivatives of products of two or more functions. For two functions, it may be stated in Lagrange's notation [[[id:b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13][Lagrange's notation]]] as
+
+$(u\cdot v)'=u'\cdot v+u\cdot v'$
+
+or in Leibniz's notation [[[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]] as
+
+$\frac {d}{dx}}(u\cdot v)={\frac {du}{dx}}\cdot v+u\cdot {\frac {dv}{dx}}$.
+
+The rule may be extended or generalized to products of three or more functions, to a rule for higher-order derivatives of a product, and to other contexts.
+
+[cite:@ProductRule2022]
+#+end_quote
+
+This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]].
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 09:21]
+:FC_CREATED: 2023-01-23T17:23:13Z
+:FC_TYPE:  double
+:ID:       bad4f1cf-3c01-4ce1-9382-ee31baf5759c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    14.70 | 2023-03-25T22:04:32Z |
+| back     | 2.50 |   5 |    33.96 | 2023-04-14T23:38:27Z |
+:END:
+
+[[id:d57fdb71-8ae6-4307-a255-bfeaeb50a5a9][Product rule]]
+
+*** Back
+$$
+\begin{align}
+h(x) &= f(x)g(x) \\
+h'(x) &= f'(x)g(x)+f(x)g'(x)
+\end{align}
+$$
+*** Source
+[cite:@ProductRule2022]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-23 Mon 09:23]
+:FC_CREATED: 2023-01-23T17:23:55Z
+:FC_TYPE:  cloze
+:ID:       3727b904-16b3-457e-917b-369acc18d0c5
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    33.93 | 2023-04-08T15:43:04Z |
+:END:
+
+$h(x) = f(x)g(x)$
+
+$h'(x)=$ {{$f'(x)g(x)+f(x)g'(x)$}@0}
+
+*** Source
+[cite:@ProductRule2022]
+#+print_bibliography:

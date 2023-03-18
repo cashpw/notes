@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       e3915b9e-665b-4da5-b2ec-42ba090918c9
+:LAST_MODIFIED: [2023-02-28 Tue 20:10]
+:END:
+#+title: Innovator's dilemma
+#+hugo_custom_front_matter: :slug "e3915b9e-665b-4da5-b2ec-42ba090918c9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-16 Wed 19:44]
+#+filetags: :concept:
+
+#+begin_quote
+[...] describes how large incumbent companies lose market share by listening to their customers and providing what appears to be the highest-value products, but new companies that serve low-value customers with poorly developed technology can improve that technology incrementally until it is good enough to quickly and take market share from established business.
+
+[...]
+
+Clayton Christensen demonstrates how successful, outstanding companies can do everything "right" and still lose their market leadership – or even fail – as new, unexpected competitors rise and take over the market. There are two key parts to this dilemma.
+
+1. Value to innovation is an S-curve [[[id:7c9624d9-8abd-4581-b0df-c5db61516818][S-curve]]]: Improving a product takes time and many iterations. The first of these iterations provide minimal value to the customer but in time the base is created and the value increases exponentially. Once the base is created then each iteration is dramatically better than the last. At some point the most valuable improvements are complete and the value per iteration is minimal again. So in the middle is the most value, at the beginning and end the value is minimal.
+2. Incumbent sized deals: The incumbent has the luxury of a huge customer set but high expectations of yearly sales. New entry next generation products find niches away from the incumbent customer set to build the new product. The new entry companies do not require the yearly sales of the incumbent and thus have more time to focus and innovate on this smaller venture.
+
+[cite:@InnovatorDilemma2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 14:17]
+:FC_CREATED: 2022-11-22T22:19:18Z
+:FC_TYPE:  double
+:ID:       4657c3a7-dd1b-4203-a35f-18dff288f157
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   115.60 | 2023-06-24T18:33:33Z |
+| back     | 2.35 |   6 |    77.05 | 2023-05-14T17:18:03Z |
+:END:
+
+[[id:e3915b9e-665b-4da5-b2ec-42ba090918c9][Innovator's dilemma]]
+
+*** Back
+- Incumbent Company A listens to their customers and provide high-value solutions
+- Alternative Company B serves low-value customers while incrementally improving their offerings
+- Eventually, Company B can take market share from Company A once their offering is good enough to compete
+*** Source
+[cite:@InnovatorDilemma2022]
+** Describe
+:PROPERTIES:
+:CREATED: [2022-12-14 Wed 10:36]
+:END:
+
+Key parts of the [[id:e3915b9e-665b-4da5-b2ec-42ba090918c9][Innovator's dilemma]]
+
+*** Back
+1. Value to innovation is a [[id:7c9624d9-8abd-4581-b0df-c5db61516818][Sigmoid curve]]. The early and late periods are characterized by lots of effort for minimal gains. However, the early period has upward opportunity the late period doesn't.
+2. Customers of incumbent companies expect the incumbent to improve the existing product as they're already using it and it's easier to stick with the existing product. However, the incumbent has little to gain by continuing to improve this product as they're at in the late period of the value-to-innovation [[id:7c9624d9-8abd-4581-b0df-c5db61516818][Sigmoid curve]].
+*** Source
+[cite:@InnovatorDilemma2022]
+#+print_bibliography:

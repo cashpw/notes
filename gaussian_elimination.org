@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       b59377a2-c3af-4647-b74b-2c38bd4f8c7a
+:ROAM_REFS: [cite:@GaussianElimination2022]
+:LAST_MODIFIED: [2023-01-05 Thu 07:08]
+:END:
+#+title: Gaussian elimination
+#+hugo_custom_front_matter: :slug "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 11:06]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, Gaussian elimination, also known as row reduction, is an algorithm for solving systems of linear equations. It consists of a sequence of operations performed on the corresponding matrix of coefficients. This method can also be used to compute the rank of a matrix, the determinant of a square matrix, and the inverse of an invertible matrix. [...]
+
+To perform row reduction on a matrix, one uses a sequence of elementary row operations to modify the matrix until the lower left-hand corner of the matrix is filled with zeros, as much as possible. There are three types of elementary row operations:
+
+- Swapping two rows,
+- Multiplying a row by a nonzero number,
+- Adding a multiple of one row to another row. (subtraction can be achieved by multiplying one row with -1 and adding the result to another row)
+
+[cite:@GaussianElimination2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:ID:       cbd3dc6a-d6dd-43c0-8516-5c54cf08d6e4
+:ANKI_NOTE_ID: 1655822787411
+:FC_CREATED: 2022-06-21T14:46:27Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   8 |   235.54 | 2023-08-13T05:39:57Z |
+| back     | 2.50 |   8 |   240.92 | 2023-09-03T13:16:02Z |
+:END:
+
+[[id:b59377a2-c3af-4647-b74b-2c38bd4f8c7a][Gaussian elimination]]
+
+*** Back
+An algorithm for solving a system of linear equations consisting of three operations:
+
+1. swapping rows
+2. multiplying a row by a nonzero scalar
+3. adding a scalar multiple of one row to another row.
+
+It reduces a given matrix to [[id:2b33e0aa-52e7-404b-90f0-34f6468389c0][Row echelon form]] (upper triangular), and can further reduce it to [[id:8ebdd5de-6846-42d2-b019-0404e4bba32d][Reduced row echelon form]].
+** Definition :fcn:
+:PROPERTIES:
+:ID:       5dc9463c-eac1-457a-ae2e-d1cafcd5058d
+:ANKI_NOTE_ID: 1655822411686
+:FC_CREATED: 2022-06-21T14:40:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   191.52 | 2023-06-10T05:46:59Z |
+| front    | 2.65 |   8 |   196.84 | 2023-06-01T09:58:05Z |
+:END:
+Reduced row echelon form
+*** Back
+The state of a matrix when:
+
+- it is in row echelon form
+- all leading coefficients are 1
+- each column which contains a leading coefficient has only one nonzero value
+*** Source
+#+print_bibliography:

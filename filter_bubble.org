@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       895e6fb7-8503-486a-978f-9c1dc155d373
+:LAST_MODIFIED: [2023-03-05 Sun 09:29]
+:END:
+#+title: Filter bubble
+#+hugo_custom_front_matter: :slug "895e6fb7-8503-486a-978f-9c1dc155d373"
+#+author: Cash Prokop-Weaver
+#+date: [2022-03-12 Sat 07:26]
+#+startup: overview
+#+filetags: :concept:
+
+#+begin_quote
+A filter bubble [...] is a state of intellectual isolation that can result from personalized searches when a website algorithm selectively guesses what information a user would like to see based on information about the user, such as location, past click-behavior and search history.
+
+[cite:@FilterBubble2022]
+#+end_quote
+
+Related:
+
+- [[id:3657474e-5e72-4f19-8664-c66583f6310d][Echo chamber]]
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 15:06]
+:FC_CREATED: 2022-11-22T23:07:32Z
+:FC_TYPE:  double
+:ID:       c400cef4-1632-4996-a321-fd80a1339cd0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   105.08 | 2023-06-02T17:15:28Z |
+| back     | 2.65 |   6 |   113.16 | 2023-06-26T21:17:52Z |
+:END:
+
+[[id:895e6fb7-8503-486a-978f-9c1dc155d373][Filter bubble]]
+
+*** Back
+A state of intellectual isolation that can result from personalization algorithms which control the content you're shown.
+*** Source
+[cite:@FilterBubble2022]
+#+print_bibliography:

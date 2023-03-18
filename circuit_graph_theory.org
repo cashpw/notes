@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       f063a5e6-62e1-44ae-9fac-7b30b4692afb
+:LAST_MODIFIED: [2023-03-13 Mon 07:52]
+:END:
+#+title: Circuit (Graph theory)
+#+hugo_custom_front_matter: :slug "f063a5e6-62e1-44ae-9fac-7b30b4692afb"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 12:09]
+#+filetags: :concept:
+
+#+begin_quote
+A circuit is a non-empty trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]]] in which the first and last vertices are equal (closed trail).
+
+[cite:@CycleGraphTheory2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:10]
+:FC_CREATED: 2022-12-22T20:11:12Z
+:FC_TYPE:  double
+:ID:       210e4ba0-8274-426a-a45a-abc64ef85ad6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   109.37 | 2023-06-29T09:21:19Z |
+| back     | 2.35 |   6 |    77.16 | 2023-05-29T18:35:55Z |
+:END:
+
+[[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]]
+
+*** Back
+A non-empty [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which the first and last vertices are equal.
+*** Source
+[cite:@CycleGraphTheory2022]
+#+print_bibliography:

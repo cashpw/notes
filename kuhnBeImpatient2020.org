@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@kuhnBeImpatient2020]
+:ID:       2149d460-f6e0-4696-b34d-c2cc2228d8db
+:LAST_MODIFIED: [2023-03-03 Fri 05:55]
+:END:
+#+title: Ben Kuhn | Be Impatient
+#+hugo_custom_front_matter: :slug "2149d460-f6e0-4696-b34d-c2cc2228d8db"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 15:36]
+#+filetags: :reference:
+ 
+[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnBeImpatient2020]
+
+* Summary
+Impatience produces faster/tighter [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loops]].
+* Thoughts
+Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
+* Notes
+
+#+begin_quote
+Being impatient is the best way to get faster at things. And across a surprising number of domains, being really fast correlates strongly with being effective.
+
+[...]
+
+There's an obvious way in which moving faster is important: if you're 10% more productive, you will finish your work in 10% less time, so you can do 10% more work total. But I don't think that's the main reason that speed is important.
+
+It's worth pointing out at this point that all of the quotes above aren't just about churning out work—they're about processing information more quickly. The faster you process information, the faster you can incorporate the result into what you do next.
+
+In other words, the main benefit of being fast is that you end up doing different things. Nelson Elhage's point—"having faster tools changes how users use a tool"—applies across nearly every domain:
+
+- If you respond to your emails quickly instead of slowly, you'll get access to more new opportunities, and end up prioritizing them over whatever you would have done instead.
+- If you make it 10x faster to test your code, you don't just save time waiting on tests—you can start doing test-driven development, discover your mistakes earlier, and save yourself from going down bad paths.
+- If you deploy your new app now instead of next week, you'll learn how users like the new features one week earlier, and you'll be able to feed that knowledge back into future product decisions.
+
+That means that moving quickly is an advantage that compounds. Being twice as fast doesn't just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
+#+end_quote
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+** ([[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]]) {{Effectiveness}@0} is correlated with {{impatience}@1} :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:48]
+:FC_CREATED: 2022-11-22T20:49:01Z
+:FC_TYPE:  cloze
+:ID:       63644b04-fe32-49e9-b356-01327a50fe44
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   122.84 | 2023-07-04T10:05:37Z |
+|        1 | 2.20 |   6 |    78.63 | 2023-05-16T07:08:15Z |
+:END:
+
+*** Source
+[cite:@kuhnBeImpatient2020]
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2022-11-22 Tue 12:49]
+:FC_CREATED: 2022-11-22T20:50:21Z
+:FC_TYPE:  double
+:ID:       f011ef2e-532f-4819-af55-6b2531c9bc8d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    72.94 | 2023-04-13T15:02:14Z |
+| back     | 2.50 |   6 |    88.69 | 2023-05-24T20:35:13Z |
+:END:
+
+[[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]]
+
+*** Back
+The faster you process information, the faster you can incorporate the result into what you'll do next.
+*** Source
+[cite:@kuhnBeImpatient2020]
+#+print_bibliography:

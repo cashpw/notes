@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       1b2526af-676d-4c0f-aa85-1ba05b8e7a93
+:ROAM_ALIASES: Nodes Node Vertices
+:LAST_MODIFIED: [2023-02-27 Mon 20:53]
+:END:
+#+title: Vertex
+#+hugo_custom_front_matter: :slug "1b2526af-676d-4c0f-aa85-1ba05b8e7a93"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 19:13]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] are formed: an undirected graph consists of a set of vertices and a set of [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
+
+[cite:@VertexGraphTheory2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]) :fc:
+:PROPERTIES:
+:ID:       1f0268ec-2f36-4beb-b246-6ff078e51798
+:ANKI_NOTE_ID: 1656857337631
+:FC_CREATED: 2022-07-03T14:08:57Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   7 |   302.62 | 2023-12-24T18:50:28Z |
+| front    | 2.95 |   7 |   278.19 | 2023-12-03T09:29:55Z |
+:END:
+[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]
+*** Back
+The fundamental unit of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]].
+*** Source
+[cite:@VertexGraphTheory2022]
+** AKA ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
+:PROPERTIES:
+:ID:       5780e809-d8c7-4c70-b5fd-e4fffbd2403d
+:ANKI_NOTE_ID: 1656857338711
+:FC_CREATED: 2022-07-03T14:08:58Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   7 |   171.52 | 2023-06-22T16:29:40Z |
+|        1 | 2.65 |   7 |   233.25 | 2023-09-22T22:48:09Z |
+:END:
+- {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]}@0}
+- {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Node]]}@1}
+*** Source
+[cite:@VertexGraphTheory2022]
+#+print_bibliography:

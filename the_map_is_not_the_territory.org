@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       bfc5100c-d70d-4829-9798-7a90b5edea9b
+:ROAM_REFS: [cite:@MapTerritoryRelation2022] [cite:@farnumstreetMapNotTerritory2015]
+:LAST_MODIFIED: [2023-03-15 Wed 08:09]
+:END:
+#+title: The map is not the territory
+#+hugo_custom_front_matter: :slug "bfc5100c-d70d-4829-9798-7a90b5edea9b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-08-26 Fri 14:42]
+#+filetags: :concept:
+
+#+begin_quote
+The map of reality is not reality. Even the best maps are imperfect. That's because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. A map can also be a snapshot of a point in time, representing something that no longer exists.
+
+[cite:@farnumstreetMapNotTerritory2015]
+#+end_quote
+
+A [[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]].
+
+Related: [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]], [[id:e6a6fbb2-d3ae-41e1-8821-3698d55507b0][All models are wrong]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Describe :fc:
+:PROPERTIES:
+:ID:       dc96940d-c144-4a20-b7bf-9e7ce0c4e516
+:ANKI_NOTE_ID: 1655820546588
+:FC_CREATED: 2022-06-21T14:09:06Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   8 |   360.30 | 2024-03-09T22:24:54Z |
+| back     | 2.20 |   8 |   237.80 | 2023-10-14T13:52:58Z |
+:END:
+[[id:bfc5100c-d70d-4829-9798-7a90b5edea9b][The map is not the territory]]
+*** Back
+A description of a thing is not the thing itself.
+#+print_bibliography:

@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       06b5c658-5513-4c18-a24d-9ed3fb4ad23b
+:ROAM_REFS: [cite:@LearnedHelplessness2022]
+:LAST_MODIFIED: [2023-02-12 Sun 09:45]
+:END:
+#+title: Learned helplessness
+#+hugo_custom_front_matter: :slug "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-23 Wed 08:35]
+#+filetags: :concept:
+
+#+begin_quote
+Learned helplessness is the behavior exhibited by a subject after enduring repeated aversive stimuli beyond their control.
+
+[...]
+
+Research has found that a human's reaction to feeling a lack of control differs both between individuals and between situations, i.e. learned helplessness sometimes remains specific to one situation but at other times generalizes across situations. Such variations are not explained by the original theory of learned helplessness, and an influential view is that such variations depend on an individual's attributional or explanatory style. According to this view, how someone interprets or explains adverse events affects their likelihood of acquiring learned helplessness and subsequent depression. For example, people with pessimistic explanatory style tend to see negative events as permanent ("it will never change"), personal ("it's my fault"), and pervasive ("I can't do anything correctly"), and are likely to suffer from learned helplessness and depression.
+
+[cite:@LearnedHelplessness2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-23 Wed 08:36]
+:FC_CREATED: 2022-11-23T16:37:52Z
+:FC_TYPE:  double
+:ID:       5f7ae733-037e-4d07-93a2-549af3e4b31a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 3.10 |   6 |   164.18 | 2023-07-26T22:01:06Z |
+| back     | 2.20 |   6 |    59.01 | 2023-03-30T16:42:46Z |
+:END:
+
+[[id:06b5c658-5513-4c18-a24d-9ed3fb4ad23b][Learned helplessness]]
+
+*** Back
+A behavior characterized by "giving up" which the subject exhibits after enduring repeated adverse stimuli outside of their control.
+*** Source
+[cite:@LearnedHelplessness2022]
+#+print_bibliography:

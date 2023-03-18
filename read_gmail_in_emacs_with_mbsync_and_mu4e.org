@@ -1,0 +1,195 @@
+:PROPERTIES:
+:ID:       5e8b11e4-9600-44b7-8cd4-1be85f359948
+:LAST_MODIFIED: [2022-11-25 Fri 08:49]
+:END:
+#+title: Read Gmail in Emacs with mbsync and mu4e
+#+hugo_custom_front_matter: :slug "5e8b11e4-9600-44b7-8cd4-1be85f359948"
+#+author: Cash Prokop-Weaver
+#+date: [2021-12-27 Mon 20:01]
+
+This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] ([[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]]) using =mu=, =mbsync= (=isync=), and =mu4e= (=mu= for =emacs=).
+
+You may have to complete additional steps if you are not using [[https://github.com/hlissner/doom-emacs][=doom emacs=]], Gmail, or if your set-up differs from mine in other ways.
+
+* Prerequisites
+
+Please be sure you've completed these steps before continuing:
+
+** Required Software
+
+1. Install =mbsync= version >= 1.4.1.
+
+   We will use =mbsync= to download our email. It is essential that the version is greater than or equal to 1.3.3 to ensure the OAuth2 token is not cut off (see line 1891 in [[https://sourceforge.net/p/isync/isync/ci/v1.3.3/tree/src/drv_imap.c][drv_imap.c]])
+
+   #+BEGIN_SRC sh
+git clone https://git.code.sf.net/p/isync/isync isync
+cd isync
+./autogen.sh
+./configure
+make
+sudo make install
+#+END_SRC
+
+2. Install =mu=.
+
+   =mu= will index the emails we've downloaded with =mbsync= and provide them to the =mu4e= package.
+
+   #+BEGIN_SRC sh
+sudo apt install maildir-utils
+#+END_SRC
+
+3. Install =mu4e=.
+
+   =mu4e= is our email client within emacs.
+
+   #+BEGIN_SRC sh
+sudo apt install mu4e
+#+END_SRC
+
+4. Download =gmail-oauth2-tools=.
+
+   This utility will generate our refersh tokens for us.
+
+   #+BEGIN_SRC sh
+git clone https://github.com/google/gmail-oauth2-tools
+#+END_SRC
+
+5. Download Cyrus SASL Oauth2
+
+   =mbsync= doesn't support OAuth2, so we'll install a plugin which enables it.
+
+   #+BEGIN_SRC sh
+# Reference: https://unix.stackexchange.com/a/632794/423626
+# Clone the Cyrus SASL OAuth2 sources.
+git clone https://github.com/moriyoshi/cyrus-sasl-xoauth2.git
+
+# Configure and make.
+cd cyrus-sasl-xoauth2
+./autogen.sh
+./configure
+
+# SASL2 libraries on Ubuntu are in /usr/lib/x86_64-linux-gnu/; modify the Makefile accordingly
+sed -i 's%pkglibdir = ${CYRUS_SASL_PREFIX}/lib/sasl2%pkglibdir = ${CYRUS_SASL_PREFIX}/lib/x86_64-linux-gnu/sasl2%' Makefile
+
+make
+sudo make install
+
+# Install saslpluginviewer
+sudo apt install sasl2-bin
+
+# Verify XOAUTH2 is known to SASL.
+saslpluginviewer | grep XOAUTH2
+#+END_SRC
+
+** Create an OAuth2 Client ID
+
+Please refer to: [[id:486b286b-8806-4282-af4e-cfbac4fb0990][Create an OAuth2 Client ID]]
+
+** Create =mbsyncrc=
+
+1. Create a new file at =~/.mbsyncrc= (or symlink to that location, etc).
+2. Base your config on mine, included below:
+
+   #+BEGIN_EXAMPLE
+# Account Information
+IMAPAccount gmail
+Host imap.gmail.com
+User cashbweaver@gmail.com
+AuthMechs XOAUTH2
+PassCmd "/path/to/gen_email_access_token.sh"
+SSLType IMAPS
+
+IMAPStore gmail-remote
+Account gmail
+
+MaildirStore gmail-local
+Path ~/.mail/cashweaver-gmail
+Inbox ~/.mail/cashweaver-gmail/inbox
+
+Channel gmail-inbox
+Far :gmail-remote:
+Near :gmail-local:
+Patterns "INBOX"
+
+Channel gmail-sent
+Far :gmail-remote:"[Gmail]/Sent Mail"
+Near :gmail-local:sent
+Remove Near
+Create near
+SyncState *
+
+Channel gmail-trash
+Far :gmail-remote:"[Gmail]/Trash"
+Near :gmail-local:trash
+Remove Near
+Create near
+SyncState *
+
+Channel gmail-drafts
+Far :gmail-remote:"[Gmail]/Drafts"
+Near :gmail-local:drafts
+Remove Near
+Create near
+SyncState *
+
+Group gmail
+Channel gmail-inbox
+Channel gmail-sent
+Channel gmail-trash
+Channel gmail-drafts
+#+END_EXAMPLE
+
+** Emable IMAP in your Gmail Account
+
+Follow the [[https://support.google.com/mail/answer/7126229?hl=en][documentation]] to enable IMAP.
+
+** Enable =mu4e= within =emacs=
+
+This step is written for those using [[https://github.com/hlissner/doom-emacs][=doom emacs=]]. Those using other flavors of =emacs= will need to enable =mu4e= on their own.
+
+1. Enable =mu4e= within [[https://github.com/hlissner/doom-emacs][=doom emacs=]] by uncommenting =(mu4e +gmail)= within =init.el=.
+
+2. Sync =doom emacs=.
+
+   #+BEGIN_SRC sh
+doom sync
+#+END_SRC
+
+3. Reload =doom emacs= by either killing =emacs= and restarting, or by running =doom/reload= (=SPC : doom/reload= or =SPC h r r=).
+
+* Sync and index your email
+
+Follow the steps documented by [[https://github.com/hlissner/doom-emacs/blob/develop/modules/email/mu4e/README.org][doom emacs' mu4e section]].
+
+1. Sync your email by running =mbsync --all=.
+
+   This may take a while.
+
+2. Index your email by running:
+
+   #+BEGIN_SRC sh
+mu init --maildir ~/.mail --my-address <you>@gmail.com
+mu index
+#+END_SRC
+
+3. Configure emacs to use your email address.
+
+   As an example:
+
+   #+BEGIN_EXAMPLE
+;; Each path is relative to `+mu4e-mu4e-mail-path', which is ~/.mail by default
+(set-email-account! "gmail.com"
+                    '((mu4e-sent-folder       . "/gmail.com/Sent Mail")
+                    (mu4e-drafts-folder     . "/gmail.com/Drafts")
+                    (mu4e-trash-folder      . "/gmail.com/Trash")
+                    (mu4e-refile-folder     . "/gmail.com/All Mail")
+                    (smtpmail-smtp-user     . "<you>@gmail.com")
+                    (mu4e-compose-signature . "<Your signature here>"))
+#+END_EXAMPLE
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

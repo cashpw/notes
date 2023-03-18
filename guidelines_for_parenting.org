@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       06156007-ba51-4934-9df5-b923e2030026
+:ROAM_ALIASES: "Rules for parenting"
+:LAST_MODIFIED: [2023-03-17 Fri 08:30]
+:END:
+#+title: Guidelines for parenting
+#+hugo_custom_front_matter: :slug "06156007-ba51-4934-9df5-b923e2030026"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-01 Fri 19:19]
+#+filetags: :has_todo:concept:
+
+I've titled this "Guidelines" as opposed to "Rules" because:
+
+1. No two children are the same and they each benefit from an individualized approach. That said, [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][most of this is applicable to most children]].
+2. Rules have, to me at least, an air of finality and I mean for these guidelines to expand and change over time
+
+The guidelines:
+
+- [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]; tell the truth but perhaps not the full truth. The answer should be proportional to both the child's interest level and their capacity for understanding.
+
+  To use the concept of death as an example: Be [[id:eb55ec18-edb6-4116-901a-b8c1a29a1ffc][specific and honest]] when talking about death; however, don't feel the need to mention the [[id:e549e41e-1a12-41a9-8547-540eefac6d81][Heat death of the universe]].
+
+* TODO [#3] Expand
+References:
+
+- [[id:99e14785-13bb-420c-b0b5-b14bad1bd163][Freddish]]
+- [[id:eb55ec18-edb6-4116-901a-b8c1a29a1ffc][Fred Rodgers Institute | When Someone a Child Loves Dies]]
+- [[id:cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce][Dave Orr | Parenting Rules]]
+- [cite:@weinersmithSaturdayMorningBreakfastCerealParentingTechnique]
+
+* TODO [#3] Flashcards
+
+#+print_bibliography:

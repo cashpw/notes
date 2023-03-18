@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       10fb7c4a-8922-4d5f-aa1b-1251e34804e9
+:LAST_MODIFIED: [2023-02-27 Mon 20:48]
+:ROAM_REFS: [cite:@Sushi2022]
+:END:
+#+title: Sushi
+#+hugo_custom_front_matter: :slug "10fb7c4a-8922-4d5f-aa1b-1251e34804e9"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:44]
+#+filetags: :has_todo:concept:
+
+* TODO [#4] Makizushi
+:PROPERTIES:
+:ID:       36088370-5640-48b7-b42f-0b8d083068c8
+:ROAM_ALIASES: Maki "Maki sushi"
+:END:
+
+* TODO [#4] Sashimi
+:PROPERTIES:
+:ID:       6f4bd5b9-fc39-4cf5-8070-c50bb317cbd0
+:END:
+
+* TODO [#4] Nigirizushi
+:PROPERTIES:
+:ID:       21b2f51c-eab0-42eb-8e95-4fbaecc43da6
+:ROAM_ALIASES: "Nigiri sushi" Nigiri
+:END:
+
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       219be5e4-74a8-4c32-a8c3-4102399504a1
+:ANKI_NOTE_ID: 1640627822672
+:FC_CREATED: 2021-12-27T17:57:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.80 |   8 |   399.56 | 2024-03-20T18:19:20Z |
+| front    | 2.35 |   8 |   204.57 | 2023-07-01T06:27:14Z |
+:END:
+
+[[id:36088370-5640-48b7-b42f-0b8d083068c8][Maki]]
+
+*** Back
+Rice cylinder filled with ingredients
+
+*** Source
+[cite:@Sushi2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       44a2eabb-4ae2-4748-985d-3f65d4d22724
+:ANKI_NOTE_ID: 1640627822472
+:FC_CREATED: 2021-12-27T17:57:02Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |  10 |   261.71 | 2023-10-26T11:54:43Z |
+| front    | 2.50 |   8 |   349.01 | 2024-02-12T05:04:38Z |
+:END:
+
+[[id:21b2f51c-eab0-42eb-8e95-4fbaecc43da6][Nigiri]]
+
+*** Back
+Slice of fish, etc, over chunk of rice.
+
+*** Source
+[cite:@Sushi2022]
+** Definition :fc:
+:PROPERTIES:
+:ID:       d628252a-8534-4970-b66f-4a7cdb9dd1c7
+:ANKI_NOTE_ID: 1640627823072
+:FC_CREATED: 2021-12-27T17:57:03Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   5 |    48.44 | 2023-03-27T10:42:36Z |
+| front    | 2.65 |   8 |   249.92 | 2023-08-17T15:25:29Z |
+:END:
+
+[[id:6f4bd5b9-fc39-4cf5-8070-c50bb317cbd0][Sashimi]]
+
+*** Back
+Raw slice of fish
+
+*** Source
+[cite:@Sushi2022]
+#+print_bibliography:

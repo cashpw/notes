@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ID:       8775762c-d5aa-434d-9e89-0488841eb1ea
+:ROAM_REFS: [cite:@CycleGraphTheory2022]
+:LAST_MODIFIED: [2023-03-09 Thu 19:09]
+:END:
+#+title: Cycle (Graph theory)
+#+hugo_custom_front_matter: :slug "8775762c-d5aa-434d-9e89-0488841eb1ea"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-22 Thu 10:42]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], a cycle in a graph [[[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]] is a non-empty trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]]] in which only the first and last vertices [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]] are equal.
+
+[cite:@CycleGraphTheory2022]
+#+end_quote
+
+Also see [[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]].
+
+* Negative cycle
+:PROPERTIES:
+:ID:       92976e2e-a367-4517-a287-1b4a95db9592
+:END:
+
+#+begin_quote
+[...] a cycle whose edges sum to a negative value [...]
+
+[cite:@BellmanFordAlgorithm2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:06]
+:FC_CREATED: 2022-12-22T20:07:13Z
+:FC_TYPE:  double
+:ID:       e86e4973-742c-4dd4-819d-08d00864af36
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   6 |   125.33 | 2023-07-13T11:01:05Z |
+| back     | 2.65 |   5 |    49.24 | 2023-03-21T19:52:17Z |
+:END:
+
+[[id:92976e2e-a367-4517-a287-1b4a95db9592][Negative cycle]]
+
+*** Back
+A [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]] whose edges sum to a negative value.
+*** Source
+[cite:@CycleGraphTheory2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:07]
+:FC_CREATED: 2022-12-22T20:08:14Z
+:FC_TYPE:  double
+:ID:       2f7c6a78-d94a-4178-bff3-431823a88ba7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    77.03 | 2023-05-24T19:27:54Z |
+| back     | 2.80 |   5 |    53.04 | 2023-03-31T22:57:00Z |
+:END:
+
+[[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]]
+
+*** Back
+A non-empty [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which only the first and last vertices are equal.
+*** Source
+[cite:@CycleGraphTheory2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2022-12-22 Thu 12:09]
+:FC_CREATED: 2022-12-22T20:10:42Z
+:FC_TYPE:  normal
+:ID:       85e6125b-8cab-4868-a9c4-626027986fcc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    76.83 | 2023-05-18T10:08:59Z |
+:END:
+
+[[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]] and [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]]
+
+*** Back
+A [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]] is a [[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]] where *only* the first and last [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are equal.
+*** Source
+[cite:@CycleGraphTheory2022]
+#+print_bibliography:

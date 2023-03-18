@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       e67fa9ff-5bb3-47cd-8559-0c3a25300f0d
+:LAST_MODIFIED: [2023-02-28 Tue 06:56]
+:END:
+#+title: Geometry
+#+hugo_custom_front_matter: :slug "e67fa9ff-5bb3-47cd-8559-0c3a25300f0d"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-18 Fri 08:23]
+#+filetags: :concept:
+
+#+begin_quote
+Geometry (from Ancient Greek γεωμετρία (geōmetría) 'land measurement'; from γῆ (gê) 'earth, land', and μέτρον (métron) 'a measure') is, with arithmetic, one of the oldest branches of mathematics. It is concerned with properties of space such as the distance, shape, size, and relative position of figures.
+
+[cite:@Geometry2022]
+#+end_quote
+
+#+print_bibliography:
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2022-11-18 Fri 08:24]
+:FC_CREATED: 2022-11-18T16:25:20Z
+:FC_TYPE:  double
+:ID:       75dc26ad-adeb-4102-ae5f-1045ac7eb841
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    97.37 | 2023-06-05T23:49:21Z |
+| back     | 2.95 |   5 |    52.50 | 2023-03-24T04:07:04Z |
+:END:
+
+[[id:e67fa9ff-5bb3-47cd-8559-0c3a25300f0d][Geometry]]
+
+*** Back
+A branch of math focused on properties of space such as distance, shape, size, and relative position of figures.
+*** Source
+[cite:@Geometry2022]
+#+print_bibliography:

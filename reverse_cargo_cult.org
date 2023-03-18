@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       0a9fac5c-2919-4dc1-b75b-ccab89d31a52
+:LAST_MODIFIED: [2023-01-25 Wed 08:33]
+:END:
+#+title: Reverse cargo cult
+#+hugo_custom_front_matter: :slug "0a9fac5c-2919-4dc1-b75b-ccab89d31a52"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-23 Thu 15:45]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In a regular [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]] you have people who see an airstrip, and the cargo drops, so they build one out of straw, hoping for the same outcome. They don't know the difference between a straw airstrip and a real one, they just want the cargo.
+
+In a reverse cargo cult, you have people who see an airstrip, and the cargo drops, so they build one out of straw. But there's a twist:
+
+When they build the straw airstrip, it isn't because they are hoping for the same outcome. They know the difference, and know that because their airstrip is made of straw, it certainly won't yield any cargo, but it serves another purpose. They don't lie to the rubes and tell them that an airstrip made of straw will bring them cargo. That's an easy lie to dismantle. Instead, what they do is make it clear that the airstrip is made of straw, and doesn't work, but then tell you that the other guy's airstrip doesn't work either. They tell you that no airstrips yield cargo. The whole idea of cargo is a lie, and those fools, with their fancy airstrip made out of wood, concrete, and metal is just as wasteful and silly as one made of straw.
+
+1980s Soviets knew that their government was lying to them about the strength and power of their society, the Communist Party couldn't hide all of the dysfunctions people saw on a daily basis. This didn't stop the Soviet leadership from lying. Instead, they just accused the West of being equally deceptive. "Sure, things might be bad here, but they are just as bad in America, and in America people are actually foolish enough to believe in the lie! Not like you, clever people. You get it. You know it is a lie."
+
+[cite:@howeTrumpReverseCargoCult2017]
+#+end_quote
+
+#+begin_quote
+According to Shulman, "Cargo-cult is a belief that mock airplanes made of manure and straw-bale may summon the real airplanes who bring canned beef. Reverse cargo-cult is used by the political elites in countries lagging behind who proclaim that, in the developed world, airplanes are also made of manure and straw-bale, and there is also a shortage of canned beef."
+
+[cite:@CargoCult2022]
+#+end_quote
+
+Related: [[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of grey]].
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition :fc:
+:PROPERTIES:
+:ID:       fb4ae0d4-7ddb-451d-8a01-05f4c9020d66
+:ANKI_NOTE_ID: 1656856843107
+:FC_CREATED: 2022-07-03T14:00:43Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.95 |   8 |   228.96 | 2023-09-11T15:40:04Z |
+| front    | 2.65 |   7 |   169.25 | 2023-07-05T07:59:34Z |
+:END:
+[[id:0a9fac5c-2919-4dc1-b75b-ccab89d31a52][Reverse cargo cult]]
+*** Back
+A belief system which ineffectively mimics some observed behavior while also arguing that those purporting to effectively perform the behavior are wrong or lying.
+*** Extra
+In a reverse cargo cult, you have people who see an airstrip, and the cargo drops, so they build one out of straw. But there's a twist:
+
+When they build the straw airstrip, it isn't because they are hoping for the same outcome. They know the difference, and know that because their airstrip is made of straw, it certainly won't yield any cargo, but it serves another purpose. They don't lie to the rubes and tell them that an airstrip made of straw will bring them cargo. That's an easy lie to dismantle. Instead, what they do is make it clear that the airstrip is made of straw, and doesn't work, but then tell you that the other guy's airstrip doesn't work either. They tell you that no airstrips yield cargo. The whole idea of cargo is a lie, and those fools, with their fancy airstrip made out of wood, concrete, and metal is just as wasteful and silly as one made of straw.
+*** Source
+[cite:@howeTrumpReverseCargoCult2017]
+** TODO [#2] Example(s)
+#+print_bibliography:

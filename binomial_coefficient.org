@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       be5ebd31-6655-4f99-9325-2c41becd4dab
+:ROAM_REFS: [cite:@BinomialCoefficient2023]
+:LAST_MODIFIED: [2023-03-18 Sat 06:38]
+:END:
+#+title: Binomial coefficient
+#+hugo_custom_front_matter: :slug "be5ebd31-6655-4f99-9325-2c41becd4dab"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-18 Wed 09:53]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, the binomial coefficients are the positive integers that occur as coefficients in the binomial theorem. Commonly, a binomial coefficient is indexed by a pair of integers n ≥ k ≥ 0 and is written $\tbinom {n}{k}$. It is the coefficient of the xk term in the polynomial expansion of the binomial power (1 + x)n; this coefficient can be computed by the multiplicative formula
+
+$\binom {n}{k}}={\frac {n\times (n-1)\times \cdots \times (n-k+1)}{k\times (k-1)\times \cdots \times 1}$,
+
+which using factorial notation can be compactly expressed as
+
+$\binom {n}{k}}={\frac {n!}{k!(n-k)!}$.
+
+For example, the fourth power of 1 + x is
+
+$\begin{aligned}(1+x)^{4}&={\tbinom {4}{0}}x^{0}+{\tbinom {4}{1}}x^{1}+{\tbinom {4}{2}}x^{2}+{\tbinom {4}{3}}x^{3}+{\tbinom {4}{4}}x^{4}\\&=1+4x+6x^{2}+4x^{3}+x^{4},\end{aligned}$
+
+and the binomial coefficient $\tbinom {4}{2}}={\tfrac {4\times 3}{2\times 1}}={\tfrac {4!}{2!2!}}=6$ is the coefficient of the $x^2$ term.
+
+[cite:@BinomialCoefficient2023]
+#+end_quote
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:55]
+:FC_CREATED: 2023-01-18T17:57:37Z
+:FC_TYPE:  double
+:ID:       68c611d4-a59e-4e99-8189-718870f020ca
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    40.37 | 2023-03-29T12:12:48Z |
+| back     | 2.80 |   5 |    41.74 | 2023-04-07T21:37:33Z |
+:END:
+
+[[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]
+
+*** Back
+$\binom{n}{k}$
+*** Source
+[cite:@BinomialCoefficient2023]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:57]
+:FC_CREATED: 2023-01-18T17:58:53Z
+:FC_TYPE:  cloze
+:ID:       0159ed8a-007a-4321-92ae-af56eacb0b23
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    36.33 | 2023-04-07T22:02:21Z |
+|        1 | 2.80 |   5 |    44.13 | 2023-04-24T08:34:32Z |
+:END:
+
+{{$\binom{n}{k}$}@0} $=$ {{$\frac{n!}{k!(n-k)!}$}{factorial}@1}
+
+*** Source
+[cite:@BinomialCoefficient2023]
+** Equivalence :fc:
+:PROPERTIES:
+:CREATED: [2023-01-18 Wed 09:57]
+:FC_CREATED: 2023-01-18T17:58:53Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:ID:       792d2d12-aab3-4613-8795-fdc5737f72d1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    39.44 | 2023-03-26T15:06:36Z |
+|        1 | 2.65 |   5 |    41.13 | 2023-04-22T03:31:25Z |
+:END:
+
+{{$\binom{n}{k}$}@0} $=$ {{$\binom{n-1}{k} + \binom{n-1}{k-1}$}{binomial, recursive}@1}
+
+*** Source
+[cite:@BinomialCoefficient2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-11 Sat 21:19]
+:FC_CREATED: 2023-03-12T05:20:18Z
+:FC_TYPE:  cloze
+:ID:       2381a03c-6f0f-41ac-8d46-7c8aa24893c8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   3 |     6.00 | 2023-03-23T13:19:45Z |
+|        1 | 2.50 |   2 |     2.00 | 2023-03-20T13:38:57Z |
+:END:
+
+{{$\binom{n}{k}$}{Math}@0} :: {{$n$ choose $k$}{English}@1}
+
+*** Source
+[cite:@BinomialCoefficient2023]
+#+print_bibliography:

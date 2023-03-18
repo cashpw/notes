@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       976fb83d-ae8c-427d-b47e-f0089b4d9ce1
+:ROAM_ALIASES: "Symbolic expressions" S-expression Sexp
+:LAST_MODIFIED: [2023-02-08 Wed 10:47]
+:END:
+#+title: Symbolic expression
+#+hugo_custom_front_matter: :slug "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-29 Wed 08:13]
+#+filetags: :concept:
+#+begin_quote
+In computer programming, an S-expression (or symbolic expression, abbreviated as sexpr or sexp) is an expression in a like-named notation for nested list (tree-structured) data. S-expressions were invented for and popularized by the programming language Lisp, which uses them for source code as well as data.
+
+In the usual parenthesized syntax of Lisp, an S-expression is classically defined as:
+
+1. an atom [[[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]]], or
+1. an expression of the form =(x . y)= where =x= and =y= are S-expressions.
+
+[formatting added]
+[cite:@Sexpression2022]
+#+end_quote
+
+#+begin_quote
+Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
+
+[[file:Corrected_S-expression_tree_2.svg.png]]
+[cite:@Sexpression2022]
+#+end_quote
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** AKA ([[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]) :fc:
+:PROPERTIES:
+:ID:       e94de5ac-89b3-4a09-8776-68c11eeb01e8
+:ANKI_NOTE_ID: 1656857151908
+:FC_CREATED: 2022-07-03T14:05:51Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 3
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   126.05 | 2023-05-08T05:24:13Z |
+|        1 | 2.50 |   6 |    98.32 | 2023-04-26T23:13:48Z |
+|        2 | 2.50 |   6 |    75.97 | 2023-04-25T17:58:21Z |
+:END:
+
+- {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expression]]}@0}
+- {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Sexp]]}@1}
+- {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][S-expression]]}@2}
+
+*** Source
+[cite:@Sexpression2022]
+
+
+** Definition ([[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]) :fc:
+:PROPERTIES:
+:ID:       04780a1c-3fb6-4a82-9492-16b581e0b63d
+:ANKI_NOTE_ID: 1656857152958
+:FC_CREATED: 2022-07-03T14:05:52Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.50 |   6 |    84.45 | 2023-04-11T12:53:57Z |
+| front    | 2.20 |   7 |   223.47 | 2023-09-02T01:38:18Z |
+:END:
+
+[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expression]]
+
+*** Back
+Either an [[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]] or an expression of the form =(x . y)= where =x= and =y= are also [...].
+
+*** Source
+[cite:@Sexpression2022]
+#+print_bibliography:

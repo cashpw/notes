@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       76f1aa23-b553-4eca-9e18-7b038f444dbb
+:LAST_MODIFIED: [2023-03-05 Sun 09:15]
+:END:
+#+title: Monitoring costs
+#+hugo_custom_front_matter: :slug "76f1aa23-b553-4eca-9e18-7b038f444dbb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-17 Tue 07:58]
+#+filetags: :concept:
+
+#+begin_quote
+Costs borne by the principal to mitigate the problems associated with using an agent. [...] They may include gathering more information on what the agent is doing (e.g., the costs of producing financial statements or carrying out audits) or employing mechanisms to align the interests of the agent with those of the principal (e.g. compensating executives with equity payment such as stock options)
+
+[cite:@AgencyCost2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 07:59]
+:FC_CREATED: 2023-01-17T15:59:42Z
+:FC_TYPE:  double
+:ID:       14c63c9b-1bf2-4837-9db5-3652a608ace2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    48.49 | 2023-04-14T15:43:59Z |
+| back     | 2.50 |   5 |    35.35 | 2023-03-31T12:06:09Z |
+:END:
+
+[[id:76f1aa23-b553-4eca-9e18-7b038f444dbb][Monitoring costs]]
+
+*** Back
+Costs borne by the principal to mitigate the problems associated with using an agent.
+*** Source
+[cite:@AgencyCost2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-01-17 Tue 08:05]
+:FC_CREATED: 2023-01-17T16:06:46Z
+:FC_TYPE:  double
+:ID:       10c8dfff-7834-4522-9775-19bada347b53
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    43.26 | 2023-04-08T10:19:21Z |
+| back     | 2.80 |   5 |    43.03 | 2023-04-17T18:05:03Z |
+:END:
+
+[[id:76f1aa23-b553-4eca-9e18-7b038f444dbb][Monitoring costs]]
+
+*** Back
+- Compensating executives with equity payment (e.g. stock options)
+- Paying a third party to audit your organization's internal accountants
+*** Source
+[cite:@AgencyCost2022]
+#+print_bibliography:

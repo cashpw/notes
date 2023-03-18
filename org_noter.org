@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       dc6d6e17-e4d3-4390-b988-8e09d451e9b0
+:END:
+#+title: org-noter
+#+hugo_custom_front_matter: :slug "dc6d6e17-e4d3-4390-b988-8e09d451e9b0"
+#+author: Cash Prokop-Weaver
+#+date: [2022-11-16 Wed 08:34]
+#+filetags: :concept:
+
+#+begin_quote
+Org-noter's purpose is to let you create notes that are kept in sync when you scroll through the document, but that are external to it - the notes themselves live in an Org-mode file.
+
+[cite:@santosOrgnoterSynchronizedOrgmodeDocumentAnnotator2022]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

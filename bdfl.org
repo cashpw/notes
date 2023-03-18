@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       b292ed4e-5a75-4b1e-aab3-158d1e02bbc5
+:ROAM_ALIASES: BDFL
+:LAST_MODIFIED: [2023-02-10 Fri 15:48]
+:ROAM_REFS: [cite:@BenevolentDictatorLife2023]
+:END:
+#+title: Benevolent dictator for life
+#+hugo_custom_front_matter: :slug "b292ed4e-5a75-4b1e-aab3-158d1e02bbc5"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-11 Wed 07:34]
+#+filetags: :concept:
+
+#+begin_quote
+Benevolent dictator for life (BDFL) is a title given to a small number of open-source software development leaders, typically project founders who retain the final say in disputes or arguments within the community.
+#+end_quote
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-01-11 Wed 07:36]
+:FC_CREATED: 2023-01-11T15:37:21Z
+:FC_TYPE:  cloze
+:ID:       921b9f40-8bac-454e-86ad-3b5aff77d76c
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   5 |    56.19 | 2023-04-05T23:16:46Z |
+|        1 | 2.95 |   5 |    54.58 | 2023-04-06T13:39:01Z |
+:END:
+
+- {{[[id:b292ed4e-5a75-4b1e-aab3-158d1e02bbc5][Benevolent dictator for life]]}@0}
+- {{[[id:b292ed4e-5a75-4b1e-aab3-158d1e02bbc5][BDFL]]}@1}
+
+*** Source
+[cite:@BenevolentDictatorLife2023]
+#+print_bibliography:

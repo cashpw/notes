@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       7229c3b7-41df-4122-88ab-0a808cc272af
+:LAST_MODIFIED: [2023-01-27 Fri 06:05]
+:END:
+#+title: Jessica Leung
+#+hugo_custom_front_matter: :slug "7229c3b7-41df-4122-88ab-0a808cc272af"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:34]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:ID:       d49bc43e-b6db-4dc8-9cd9-331aafb5a18c
+:ANKI_NOTE_ID: 1640627810647
+:FC_CREATED: 2021-12-27T17:56:50Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   6 |    66.36 | 2023-04-03T22:45:15Z |
+:END:
+
+[[id:7229c3b7-41df-4122-88ab-0a808cc272af][Jessica Leung]]
+
+*** Back
+[[id:2a445fab-e52e-4402-af16-3c67f29be582][Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]]

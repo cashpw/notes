@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       25be72f1-5350-45d6-a454-9c4f1296006b
+:ROAM_REFS: [cite:@KitchenWorkTriangle2022]
+:LAST_MODIFIED: [2023-03-09 Thu 19:14]
+:END:
+#+title: Kitchen work triangle
+#+hugo_custom_front_matter: :slug "25be72f1-5350-45d6-a454-9c4f1296006b"
+#+author: Cash Prokop-Weaver
+#+date: [2022-12-24 Sat 09:42]
+#+filetags: :concept:
+
+#+begin_quote
+The kitchen work triangle is a concept used to determine efficient kitchen layouts that are both aesthetically pleasing and functional. The primary tasks in a home kitchen are carried out between the cook top, the sink and the refrigerator. These three points and the imaginary lines between them make up what kitchen experts call the work triangle. The idea is that when these three elements are close (but not too close) to one another, the kitchen will be easy and efficient to use, cutting down on wasted steps.
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/e/ea/Work_triangle.jpg @ 2022-12-24 09:43:17
+[[file:2022-12-24_09-43-17_Work_triangle.jpg]]
+
+[cite:@KitchenWorkTriangle2022]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:ID:       dd98525f-77eb-4cf8-93bd-98ac7ffd9362
+:ANKI_NOTE_ID: 1640627825143
+:FC_CREATED: 2021-12-27T17:57:05Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   8 |   224.89 | 2023-07-14T14:05:52Z |
+| front    | 2.65 |   8 |   349.85 | 2024-02-22T23:41:37Z |
+:END:
+
+[[id:25be72f1-5350-45d6-a454-9c4f1296006b][Kitchen work triangle]]
+
+*** Back
+The triangle made up from three points in a kitchen: the cook top, refrigerator, and sink.
+
+*** Extra
+#+begin_quote
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/e/ea/Work_triangle.jpg @ 2022-12-24 09:43:17
+[[file:2022-12-24_09-43-17_Work_triangle.jpg]]
+
+[cite:@KitchenWorkTriangle2022]
+#+end_quote
+*** Source
+[cite:@KitchenWorkTriangle2022]
+#+print_bibliography:

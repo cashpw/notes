@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       1b39fa71-69fb-416c-9031-0927bc006a3b
+:ROAM_REFS: [cite:@ConstantIntegration2022]
+:LAST_MODIFIED: [2023-03-08 Wed 09:26]
+:END:
+#+title: Constant of integration
+#+hugo_custom_front_matter: :slug "1b39fa71-69fb-416c-9031-0927bc006a3b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-01-27 Fri 09:55]
+#+filetags: :concept:
+
+#+begin_quote
+In calculus [[[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]], the constant of integration, often denoted by $C$ (or $c$), is a constant term added to an antiderivative [[[id:4dafe179-aeb8-4718-9eb8-ac96a27f9a58][Antiderivative]]] of a function $f(x)$ to indicate that the indefinite integral of $f(x)$ (i.e., the set of all antiderivatives of $f(x)$), on a connected domain, is only defined up to an additive constant. This constant expresses an ambiguity inherent in the construction of antiderivatives.
+
+More specifically, if a function $f(x)$ is defined on an interval, and $F(x)$(x)} is an antiderivative of $f(x)$, then the set of all antiderivatives of $f(x)$ is given by the functions $F(x) + C$, where $C$ is an arbitrary constant (meaning that any value of $C$ would make $F(x) + C$ a valid antiderivative). For that reason, the indefinite integral is often written as $\int f(x)\,dx=F(x)+C$, although the constant of integration might be sometimes omitted in lists of integrals for simplicity.
+
+[cite:@ConstantIntegration2022]
+#+end_quote
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-01-27 Fri 10:17]
+:FC_CREATED: 2023-01-27T18:18:03Z
+:FC_TYPE:  double
+:ID:       50ce6a0a-75c3-4ce1-b71f-9d31d9963e9b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.95 |   5 |    47.19 | 2023-04-18T18:56:11Z |
+| back     | 2.80 |   5 |    47.13 | 2023-04-24T20:28:09Z |
+:END:
+
+[[id:1b39fa71-69fb-416c-9031-0927bc006a3b][Constant of integration]]
+
+*** Back
+$C$ in $\int f(x)\,dx=F(x)+C$
+*** Source
+[cite:@ConstantIntegration2022]
+#+print_bibliography:

@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       6f787120-13bb-405a-bfca-060df6d80b14
+:ROAM_ALIASES: "Priority queues"
+:LAST_MODIFIED: [2023-01-30 Mon 08:10]
+:END:
+#+title: Priority queue
+#+hugo_custom_front_matter: :slug "6f787120-13bb-405a-bfca-060df6d80b14"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-28 Tue 17:37]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a priority queue is an abstract data-type similar to a regular queue [[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]] or stack data structure in which each element additionally has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority.
+
+[...]
+
+To improve performance, priority queues are typically based on a heap [[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]], giving O(log n) performance for inserts and removals, and O(n) to build the heap initially from a set of n elements.
+
+[cite:@PriorityQueue2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Definition (Computer science) :fc:
+:PROPERTIES:
+:ID:       8d18d098-eac6-4060-92d2-b0da2a7bb73f
+:ANKI_NOTE_ID: 1656856978708
+:FC_CREATED: 2022-07-03T14:02:58Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   210.83 | 2023-08-20T10:13:31Z |
+| front    | 2.95 |   6 |   128.70 | 2023-04-01T18:09:32Z |
+:END:
+[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
+*** Back
+An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which maintains items in its collection in order based on a priority property.
+*** Source
+[cite:@PriorityQueue2022]
+** A {{[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]}{[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}@0} is often implemented with a {{[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]}@1} :fc:
+:PROPERTIES:
+:ID:       bd6da833-4cdb-46a9-b47e-54ad298cfc6d
+:ANKI_NOTE_ID: 1656856979658
+:FC_CREATED: 2022-07-03T14:02:59Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   8 |   209.10 | 2023-08-27T18:30:57Z |
+|        1 | 2.50 |   7 |   222.24 | 2023-09-06T19:23:58Z |
+:END:
+*** Extra
+*** Source
+[cite:@PriorityQueue2022]
+#+print_bibliography:

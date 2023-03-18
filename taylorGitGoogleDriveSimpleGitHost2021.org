@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       abb1e1cc-12bb-42fe-9004-555145c8faaa
+:ROAM_REFS: [cite:@taylorGitGoogleDriveSimpleGitHost2021]
+:END:
+#+title: Laura Taylor | Git + Google Drive = Simple Git Host
+#+hugo_custom_front_matter: :slug "abb1e1cc-12bb-42fe-9004-555145c8faaa"
+#+author: Cash Prokop-Weaver
+#+date: [2022-04-18 Mon 08:20]
+#+filetags: :reference:
+ 
+Laura Taylor, [cite:@taylorGitGoogleDriveSimpleGitHost2021]
+
+1. Mount Google Drive locally
+
+   - Linux: I prefer [[https://rclone.org/drive/][=rclone=]]
+   - Windows: [[https://www.google.com/drive/download/][Google Drive]]
+   - Mac: [[https://www.google.com/drive/download/][Google Drive]]
+
+2. Navigate to your local git repository you'd like to host on Google Drive
+
+3. Create a bare git clone:
+
+   #+begin_src bash
+git clone --bare \
+    . \
+    PATH_TO_GDRIVE/.../PROJECT_NAME.git
+   #+end_src
+
+   Example:
+
+   #+begin_src bash
+git clone --bare . /mnt/gdrive/projects/addon.git
+   #+end_src
+
+4. Add this bare repository as a remote:
+
+   #+begin_src bash
+git remote add \
+    REMOTE_NAME \
+    PATH_TO_GDRIVE/.../PROJECT_NAME.git
+   #+end_src
+
+   Example:
+
+   #+begin_src bash
+git remote add gdrive /mnt/gdrive/projects/addon.git
+   #+end_src
+
+5. Push/pull project as you usually would from github/gitlab/etc
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

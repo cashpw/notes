@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1497025f-da3e-4bed-be19-f8f9c9a0e351
+:ROAM_REFS: [cite:@Orgroam2022]
+:END:
+#+title: org-roam
+#+hugo_custom_front_matter: :slug "1497025f-da3e-4bed-be19-f8f9c9a0e351"
+#+author: Cash Prokop-Weaver
+#+date: [2022-02-06 Sun 07:22]
+
+#+begin_quote
+Org-roam is a plain-text knowledge management system. It brings some of Roam's more powerful features into the Org-mode ecosystem.
+
+[cite:@Orgroam2022]
+#+end_quote
+
+I use =org-roam= for:
+
+- [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][Personal knowledge management]] at [[https://cashpw.com][cashpw.com]] and [[github:cashpw/notes][cashpw/notes]]
+- [[id:4938a000-de24-45a9-bb5b-5b8559bc99c3][Personal relationship manager]] via [[https://www.orgzly.com/][orgzly]], [[https://syncthing.net/][syncthing]], and a [[id:abb1e1cc-12bb-42fe-9004-555145c8faaa][private git repo]]
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+#+print_bibliography:

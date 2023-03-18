@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       2e77f3e0-2a9b-4012-b778-244c19059adb
+:ROAM_ALIASES: Metre
+:LAST_MODIFIED: [2023-03-18 Sat 06:37]
+:END:
+#+title: Meter
+#+hugo_custom_front_matter: :slug "2e77f3e0-2a9b-4012-b778-244c19059adb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-17 Fri 09:16]
+#+filetags: :concept:
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-17 Fri 09:17]
+:FC_CREATED: 2023-03-17T16:19:14Z
+:FC_TYPE:  cloze
+:ID:       8b6b85f8-229f-43d3-bb17-86d61bbe2285
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-03-19T13:37:29Z |
+:END:
+
+1 [[id:2e77f3e0-2a9b-4012-b778-244c19059adb][Meter]] is approximately {{3}@0} feet.
+
+*** Source
+[cite:@Metre2023]
+#+print_bibliography:

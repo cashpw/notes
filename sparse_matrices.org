@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       2c005434-56e2-430d-a4b9-8ad05d052f49
+:ROAM_REFS: [cite:@SparseMatrix2022]
+:END:
+#+title: Sparse matrices
+#+hugo_custom_front_matter: :slug "2c005434-56e2-430d-a4b9-8ad05d052f49"
+#+author: Cash Prokop-Weaver
+#+date: [2022-06-21 Tue 18:33]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a sparse matrix or sparse array is a matrix in which most of the elements are zero.
+
+[cite:@SparseMatrix2022]
+#+end_quote
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Definition (Linear Algebra) :fc:
+:PROPERTIES:
+:ID:       25f67b3c-ba0e-4d0f-b4aa-acf18c91ff70
+:ANKI_NOTE_ID: 1640627881248
+:FC_CREATED: 2021-12-27T17:58:01Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |   7 |   137.37 | 2023-03-24T01:26:51Z |
+| front    | 2.65 |   8 |   147.39 | 2023-04-05T01:38:45Z |
+:END:
+
+Sparse vector/matrix
+
+*** Back
+A vector or matrix in which most of the values are zero.
+
+*** Source
+[cite:@SparseMatrix2022]
+#+print_bibliography:
