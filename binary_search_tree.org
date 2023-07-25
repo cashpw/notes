@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dc929031-e15a-4566-a7bd-7331768ee02f
 :ROAM_ALIASES: "Sorted binary tree" "Ordered search tree"
-:LAST_MODIFIED: [2023-03-17 Fri 07:01]
+:LAST_MODIFIED: [2023-07-23 Sun 20:58]
 :END:
 #+title: Binary search tree
 #+hugo_custom_front_matter: :slug "dc929031-e15a-4566-a7bd-7331768ee02f"
@@ -41,7 +41,7 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   158.41 | 2023-06-28T23:57:45Z |
+|        0 | 2.80 |   7 |   415.47 | 2024-08-18T08:01:14Z |
 :END:
 
 *** Extra
@@ -81,7 +81,7 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   7 |   179.45 | 2023-05-25T01:45:50Z |
+|        0 | 2.80 |   8 |   503.36 | 2024-10-09T22:44:58Z |
 :END:
 
 *** Extra
@@ -101,7 +101,7 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   136.23 | 2023-06-06T20:02:09Z |
+|        0 | 2.65 |   7 |   339.45 | 2024-05-12T01:48:56Z |
 :END:
 *** Extra
 *** Source
@@ -117,8 +117,8 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   7 |   173.24 | 2023-07-10T20:54:06Z |
-| front    | 2.35 |   6 |    86.93 | 2023-03-24T15:01:57Z |
+| back     | 2.20 |   8 |   354.07 | 2024-06-29T14:39:10Z |
+| front    | 2.20 |   7 |   107.17 | 2023-11-08T08:09:50Z |
 :END:
 
 [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]]
@@ -146,7 +146,7 @@ A binary tree in which satisfies the binary search property. That is, the nodes 
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |  10 |   272.70 | 2023-11-06T16:47:50Z |
 |        1 | 2.50 |   7 |   228.06 | 2023-08-03T20:04:00Z |
-|        2 | 2.50 |   7 |   157.50 | 2023-06-22T04:05:44Z |
+|        2 | 2.50 |   8 |   356.19 | 2024-06-13T06:21:45Z |
 :END:
 
 - {{[[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]]}@0}

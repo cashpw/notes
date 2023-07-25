@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d
-:LAST_MODIFIED: [2023-03-10 Fri 21:19]
+:LAST_MODIFIED: [2023-06-25 Sun 10:15]
 :END:
 #+title: Chain of suspicion
 #+hugo_custom_front_matter: :slug "7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d"
@@ -20,8 +20,8 @@ Communication between civilizations is slow due to interstellar distances and co
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   105.66 | 2023-06-24T21:03:47Z |
-| back     | 2.50 |   6 |    92.28 | 2023-05-20T21:38:01Z |
+| front    | 2.20 |   8 |   230.82 | 2024-02-11T12:51:11Z |
+| back     | 2.50 |   7 |   248.62 | 2024-01-25T03:59:44Z |
 :END:
 
 [[id:7d5f813c-75f3-4bfd-a6a7-f1bb8951d46d][Chain of suspicion]]

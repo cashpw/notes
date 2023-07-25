@@ -2,7 +2,7 @@
 :ID:       d553899d-ac5d-4ecf-bf57-9eabb3407b6e
 :ROAM_REFS: [cite:@StreetlightEffect2022]
 :ROAM_ALIASES: "Where the light is"
-:LAST_MODIFIED: [2023-02-26 Sun 07:56]
+:LAST_MODIFIED: [2023-06-20 Tue 08:13]
 :END:
 #+title: Streetlight effect
 #+hugo_custom_front_matter: :slug "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
@@ -28,8 +28,8 @@ A policeman sees a drunk man searching for something under a streetlight and ask
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    89.20 | 2023-05-01T22:09:31Z |
-| back     | 2.80 |   6 |   113.78 | 2023-06-20T10:38:57Z |
+| front    | 2.65 |   7 |   231.27 | 2023-12-19T05:32:11Z |
+| back     | 2.95 |   7 |   338.22 | 2024-05-23T20:33:26Z |
 :END:
 [[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Streetlight effect]]
 *** Back
@@ -46,7 +46,7 @@ Observational bias wherein people tend to only search for something where it is 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   101.41 | 2023-05-23T10:07:53Z |
+| front    | 2.80 |   7 |   261.35 | 2024-02-09T04:51:21Z |
 :END:
 
 [[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Where the light is]] (Joke)

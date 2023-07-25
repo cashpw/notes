@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       3910de4c-e0b0-4bad-93b9-334af4256906
+:LAST_MODIFIED: [2023-07-10 Mon 08:45]
+:END:
+#+title: Leveling up (Staff Engineer's Path)
+#+hugo_custom_front_matter: :slug "3910de4c-e0b0-4bad-93b9-334af4256906"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-05 Mon 09:34]
+#+filetags: :has_todo:concept:
+#+begin_quote
+Every increase in seniority comes with more responsibility for raising the standards and skills of the engineers within your orbit, whether that's your local team, colleagues in your organization, or engineers across your whole company or industry. This responsibility will include intentional influence through teaching and mentoring, as well as the accidental influence that comes from being a role model.
+
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+#+end_quote
+* TODO [#2] Flashcards
+** TODO [#2] Examples
+** Describe (Staff engineer) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-05 Mon 09:40]
+:FC_CREATED: 2023-06-05T16:41:28Z
+:FC_TYPE:  double
+:ID:       2524e2c0-cb3f-4728-986e-ebb4146380e2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    28.97 | 2023-08-04T13:59:37Z |
+| back     | 2.35 |   5 |    29.98 | 2023-08-09T15:21:55Z |
+:END:
+
+[[id:3910de4c-e0b0-4bad-93b9-334af4256906][Leveling up (Staff Engineer's Path)]]
+
+*** Back
+The ability to:
+
+- raise the standards and skills of engineers within your orbit
+- influence through (active) teaching, mentoring, and (passive) being a role model
+*** Source
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+#+print_bibliography:

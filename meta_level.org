@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c5f0758f-1499-4284-bb87-77ee55819c3c
-:LAST_MODIFIED: [2023-02-23 Thu 19:47]
+:LAST_MODIFIED: [2023-07-23 Sun 20:55]
 :END:
 #+title: Meta level
 #+hugo_custom_front_matter: :slug "c5f0758f-1499-4284-bb87-77ee55819c3c"
@@ -25,8 +25,8 @@ Object level [[[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]]] vs Meta
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    39.61 | 2023-03-29T05:36:51Z |
-| back     | 2.80 |   5 |    46.02 | 2023-04-11T04:21:46Z |
+| front    | 2.80 |   7 |   353.15 | 2024-07-11T07:30:51Z |
+| back     | 2.95 |   6 |   122.41 | 2023-08-12T02:03:51Z |
 :END:
 
 [[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]

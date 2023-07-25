@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       449940d4-8cd4-4b71-bf71-5bd719c7a6d0
 :ROAM_REFS: [cite:@ScienceEmotionExploringBasicsEmotionalPsychology2019]
-:LAST_MODIFIED: [2023-03-13 Mon 07:55]
+:LAST_MODIFIED: [2023-07-06 Thu 07:40]
 :END:
 #+title: Three components of emotion
 #+hugo_custom_front_matter: :slug "449940d4-8cd4-4b71-bf71-5bd719c7a6d0"
@@ -30,8 +30,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   6 |    37.34 | 2023-03-20T23:41:41Z |
-| back     | 2.65 |   6 |   114.72 | 2023-07-06T08:17:40Z |
+| front    | 1.90 |   8 |   135.53 | 2023-10-17T16:53:48Z |
+| back     | 2.50 |   7 |   315.16 | 2024-05-16T18:27:22Z |
 :END:
 
 [[id:449940d4-8cd4-4b71-bf71-5bd719c7a6d0][Three components of emotion]]

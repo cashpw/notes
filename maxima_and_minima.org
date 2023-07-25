@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2023-02-28 Tue 07:02]
+:LAST_MODIFIED: [2023-07-23 Sun 20:57]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -99,8 +99,8 @@ The smallest output of a function over some subset of the domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   9 |   164.50 | 2023-04-24T04:44:08Z |
-|        1 | 2.65 |   8 |   172.96 | 2023-05-13T01:23:18Z |
+|        0 | 2.80 |  10 |   482.74 | 2024-08-24T08:28:06Z |
+|        1 | 2.50 |   9 |   406.28 | 2024-06-22T23:07:01Z |
 :END:
 
 - {{Local minima}@0}
@@ -120,8 +120,8 @@ The smallest output of a function over some subset of the domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   158.40 | 2023-03-19T23:49:09Z |
-|        1 | 2.65 |   7 |   183.40 | 2023-04-26T00:08:59Z |
+|        0 | 2.65 |   8 |   424.76 | 2024-05-18T10:34:19Z |
+|        1 | 2.65 |   8 |   500.66 | 2024-09-22T07:51:17Z |
 :END:
 
 - {{Global maxima}@0}
@@ -140,7 +140,7 @@ The smallest output of a function over some subset of the domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   8 |   157.76 | 2023-04-17T10:29:06Z |
+|        0 | 2.35 |   9 |   402.13 | 2024-06-04T01:59:11Z |
 |        1 | 2.80 |   8 |   284.73 | 2023-10-14T08:56:34Z |
 :END:
 
@@ -159,7 +159,7 @@ The smallest output of a function over some subset of the domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    81.78 | 2023-03-28T09:46:28Z |
+| back     | 2.20 |   7 |   176.62 | 2023-09-21T17:59:36Z |
 | front    | 2.80 |   8 |   326.69 | 2023-12-07T10:50:17Z |
 :END:
 
@@ -201,7 +201,7 @@ The smallest output of a function over the function's domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   151.25 | 2023-03-21T07:44:06Z |
+| back     | 2.65 |   9 |   380.11 | 2024-04-04T20:10:58Z |
 | front    | 2.80 |   8 |   307.61 | 2023-11-11T05:31:51Z |
 :END:
 
@@ -225,7 +225,7 @@ The largest output of a function over some subset of the domain.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   326.56 | 2024-01-19T05:56:20Z |
-|        1 | 2.65 |   8 |   218.17 | 2023-07-20T22:50:19Z |
+|        1 | 2.65 |   9 |   569.66 | 2025-02-12T19:49:52Z |
 :END:
 
 - {{Local maxima}@0}

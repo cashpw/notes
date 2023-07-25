@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
-:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:LAST_MODIFIED: [2023-07-23 Sun 20:54]
 :ROAM_REFS: [cite:@MinimumSpanningTree2022]
 :END:
 #+title: Minimum spanning tree
@@ -64,8 +64,8 @@ If the minimum cost edge e of a graph is unique, then this edge is included in a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    48.03 | 2023-04-15T16:39:14Z |
-| back     | 2.80 |   5 |    51.78 | 2023-05-02T00:09:18Z |
+| front    | 2.80 |   6 |   143.71 | 2023-09-24T08:35:59Z |
+| back     | 2.80 |   6 |   138.73 | 2023-09-22T11:17:27Z |
 :END:
 
 [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
@@ -84,8 +84,8 @@ A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] whose sum of edge w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    51.72 | 2023-04-26T10:42:12Z |
-| back     | 2.80 |   5 |    45.33 | 2023-04-28T22:59:28Z |
+| front    | 2.95 |   6 |   143.69 | 2023-09-19T15:10:52Z |
+| back     | 2.80 |   6 |   125.58 | 2023-09-14T05:11:23Z |
 :END:
 
 [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
@@ -107,8 +107,8 @@ A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] whose sum of edge w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    41.20 | 2023-04-07T08:52:39Z |
-|        1 | 2.65 |   5 |    45.15 | 2023-04-26T04:02:53Z |
+|        0 | 2.95 |   6 |   133.67 | 2023-08-21T07:52:19Z |
+|        1 | 2.65 |   6 |   126.67 | 2023-09-13T08:57:35Z |
 :END:
 
 A graph has {{a single}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]] when {{each edge has a distinct weight}@1}.
@@ -127,8 +127,8 @@ A graph has {{a single}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Min
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    36.75 | 2023-04-08T10:00:14Z |
-|        1 | 2.80 |   5 |    49.64 | 2023-04-27T10:04:35Z |
+|        0 | 2.65 |   7 |   301.75 | 2024-05-20T21:48:20Z |
+|        1 | 2.80 |   6 |   137.57 | 2023-09-16T13:04:52Z |
 :END:
 
 A graph has {{more than one}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]] when {{some edges have the same weight}@1}.
@@ -146,8 +146,8 @@ A graph has {{more than one}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   3 |     6.00 | 2023-03-23T14:00:05Z |
-| back     | 2.80 |   5 |    46.62 | 2023-05-01T06:03:04Z |
+| front    | 1.90 |   7 |    95.26 | 2023-09-23T02:27:45Z |
+| back     | 2.80 |   6 |   119.53 | 2023-09-09T04:46:50Z |
 :END:
 
 [[id:c7d1c673-664e-4f45-9504-97e600a1db09][Cycle property]] of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
@@ -168,8 +168,8 @@ For any cycle $C$ in the graph, if the weight of an edge $e$ of $C$ is larger th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    46.67 | 2023-05-01T07:11:01Z |
-| back     | 2.65 |   4 |    15.07 | 2023-03-20T19:04:31Z |
+| front    | 2.65 |   6 |   127.33 | 2023-09-06T07:39:18Z |
+| back     | 2.65 |   6 |   110.21 | 2023-08-31T21:39:05Z |
 :END:
 
 [[id:1f772508-2f8d-42c6-ac79-2ed7dd02f874][Cut property]] of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
@@ -190,8 +190,8 @@ For any cut [[[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]]] $C
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    52.29 | 2023-04-30T01:12:42Z |
-| back     | 2.80 |   5 |    54.03 | 2023-05-08T15:50:52Z |
+| front    | 2.65 |   6 |   145.97 | 2023-09-24T22:55:49Z |
+| back     | 2.80 |   6 |   148.59 | 2023-10-06T06:13:50Z |
 :END:
 
 [[id:ec97ceb5-b281-4f2d-bbba-9d8760236901][Minimum-cost edge]] property of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
@@ -212,8 +212,8 @@ If the minimum cost edge e of a graph is unique, then this edge is included in a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    46.42 | 2023-04-21T03:42:05Z |
-| back     | 1.90 |   4 |    12.08 | 2023-03-22T05:03:33Z |
+| front    | 2.65 |   6 |   135.01 | 2023-09-12T18:50:23Z |
+| back     | 1.60 |   5 |    17.70 | 2023-07-23T21:07:34Z |
 :END:
 
 Algorithms which generate a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]

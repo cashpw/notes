@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e860a606-84d0-47a0-8230-a702e86c363a
-:LAST_MODIFIED: [2023-03-10 Fri 21:24]
+:LAST_MODIFIED: [2023-07-04 Tue 12:24]
 :END:
 #+title: Item-specific processing
 #+hugo_custom_front_matter: :slug "e860a606-84d0-47a0-8230-a702e86c363a"
@@ -29,8 +29,8 @@ Item-specific processing involves encoding the various characteristics or proper
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   116.02 | 2023-07-04T03:51:35Z |
-| back     | 2.20 |   6 |    70.13 | 2023-05-05T06:55:20Z |
+| front    | 2.50 |   7 |   306.26 | 2024-05-06T01:36:03Z |
+| back     | 2.20 |   7 |   147.67 | 2023-10-05T08:05:23Z |
 :END:
 
 [[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]]
@@ -55,7 +55,7 @@ Examples:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    81.72 | 2023-05-07T22:07:25Z |
+| front    | 2.50 |   7 |   192.57 | 2023-11-17T06:59:23Z |
 | back     | 2.95 |   6 |   149.16 | 2023-08-07T09:12:23Z |
 :END:
 
@@ -77,7 +77,7 @@ Examples:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    77.70 | 2023-04-26T11:14:19Z |
+| front    | 2.35 |   7 |   191.33 | 2023-11-09T07:32:57Z |
 :END:
 
 [[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]] and [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]

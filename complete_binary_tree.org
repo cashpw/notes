@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
-:LAST_MODIFIED: [2023-02-25 Sat 09:28]
+:LAST_MODIFIED: [2023-07-23 Sun 21:01]
 :END:
 #+title: Complete binary tree
 #+hugo_custom_front_matter: :slug "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
@@ -31,7 +31,7 @@ A complete binary tree is a binary tree in which every level, except possibly th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   7 |   161.55 | 2023-05-21T06:03:20Z |
+| back     | 2.65 |   8 |   421.13 | 2024-07-15T16:09:25Z |
 | front    | 2.95 |   7 |   361.54 | 2024-02-22T06:22:13Z |
 :END:
 [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
@@ -51,8 +51,8 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which every level,
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   142.27 | 2023-06-12T20:46:52Z |
-| back     | 2.65 |   6 |   114.31 | 2023-05-24T02:48:51Z |
+| front    | 2.65 |   5 |    41.17 | 2023-08-20T19:33:36Z |
+| back     | 2.20 |   6 |    70.97 | 2023-10-03T03:20:37Z |
 :END:
 [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
 *** Back

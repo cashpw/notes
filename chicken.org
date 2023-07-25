@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a
 :ROAM_REFS: [cite:@ChickenGame2022]
-:LAST_MODIFIED: [2023-01-16 Mon 17:52]
+:LAST_MODIFIED: [2023-06-12 Mon 17:00]
 :END:
 #+title: Chicken (game)
 #+hugo_custom_front_matter: :slug "f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a"
@@ -28,8 +28,8 @@ The name "chicken" has its origins in a game in which two drivers drive toward e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   119.33 | 2023-05-16T09:53:07Z |
-| back     | 2.65 |   6 |   125.58 | 2023-06-12T13:42:54Z |
+| front    | 2.80 |   7 |   348.47 | 2024-04-29T01:57:56Z |
+| back     | 2.65 |   7 |   299.68 | 2024-04-07T16:16:38Z |
 :END:
 
 [[id:f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a][Chicken]] ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]])

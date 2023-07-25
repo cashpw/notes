@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       735e2c4a-52b9-455d-9872-cb897cc0bd54
-:LAST_MODIFIED: [2023-03-04 Sat 07:09]
+:LAST_MODIFIED: [2023-07-11 Tue 06:04]
 :END:
 #+title: Reactionary
 #+hugo_custom_front_matter: :slug "735e2c4a-52b9-455d-9872-cb897cc0bd54"
@@ -27,8 +27,8 @@ In ideology, reactionism is a tradition in right-wing politics; the reactionary 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    85.44 | 2023-04-27T00:44:09Z |
-| back     | 2.35 |   6 |    81.78 | 2023-04-29T18:39:19Z |
+| front    | 2.20 |   6 |    65.49 | 2023-08-26T03:39:39Z |
+| back     | 2.35 |   7 |   188.68 | 2023-11-08T14:16:00Z |
 :END:
 
 [[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] (adjective)
@@ -37,23 +37,20 @@ In ideology, reactionism is a tradition in right-wing politics; the reactionary 
 Points of view and policies meant to restore the [[id:4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4][Status quo ante]]
 *** Source
 [cite:@Reactionary2022]
-** Definition :fc:
+** [[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] :fc:
 :PROPERTIES:
 :CREATED: [2022-11-12 Sat 08:20]
 :FC_CREATED: 2022-11-12T16:21:30Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :ID:       2effd41b-ce04-4c53-8c05-1e94df025a42
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    69.86 | 2023-04-18T00:16:32Z |
-| back     | 2.80 |   6 |   100.43 | 2023-06-02T03:07:33Z |
+| front    | 2.20 |   7 |   141.67 | 2023-09-22T07:46:54Z |
+| back     | 2.80 |   7 |   291.20 | 2024-03-19T19:16:20Z |
 :END:
 
-[[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] (noun)
-
-*** Back
 A person who holds political views which favor a return to the [[id:4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4][Status quo ante]]
 *** Source
 [cite:@Reactionary2022]
@@ -68,8 +65,8 @@ A person who holds political views which favor a return to the [[id:4021fd2b-7bd
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 3.10 |   6 |   144.15 | 2023-07-11T07:27:14Z |
-|        1 | 2.65 |   6 |    99.43 | 2023-06-12T01:34:03Z |
+|        0 | 3.10 |   7 |   444.27 | 2024-09-27T19:39:37Z |
+|        1 | 2.80 |   7 |   297.11 | 2024-04-05T02:56:48Z |
 :END:
 ** Compare and contrast :fc:
 :PROPERTIES:
@@ -81,7 +78,7 @@ A person who holds political views which favor a return to the [[id:4021fd2b-7bd
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    57.90 | 2023-03-30T12:02:03Z |
+| front    | 2.20 |   7 |   120.45 | 2023-07-30T02:20:40Z |
 :END:
 
 [[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] politics with Conservative politics

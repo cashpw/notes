@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d57fdb71-8ae6-4307-a255-bfeaeb50a5a9
-:LAST_MODIFIED: [2023-03-11 Sat 16:31]
+:LAST_MODIFIED: [2023-06-27 Tue 08:32]
 :END:
 #+title: Product rule
 #+hugo_custom_front_matter: :slug "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
@@ -35,8 +35,8 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    14.70 | 2023-03-25T22:04:32Z |
-| back     | 2.50 |   5 |    33.96 | 2023-04-14T23:38:27Z |
+| front    | 2.35 |   6 |    88.11 | 2023-07-27T21:15:07Z |
+| back     | 2.50 |   6 |    90.73 | 2023-08-05T11:23:27Z |
 :END:
 
 [[id:d57fdb71-8ae6-4307-a255-bfeaeb50a5a9][Product rule]]
@@ -62,7 +62,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    33.93 | 2023-04-08T15:43:04Z |
+|        0 | 2.50 |   7 |   208.42 | 2024-01-22T01:44:16Z |
 :END:
 
 $h(x) = f(x)g(x)$

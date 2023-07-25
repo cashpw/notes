@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@riconBloomTwoSigmaProblemSystematicReviewEffectivenessMasteryLearningTutoring2019]
 :ID:       05f362b2-ab02-4cfb-9185-aae4e1c9e235
-:LAST_MODIFIED: [2023-02-12 Sun 09:47]
+:LAST_MODIFIED: [2023-07-10 Mon 08:46]
 :END:
 #+title: Jose Luis Ricon | On Bloom's Two Sigma Problem: A systematic review of the effectiveness of mastery learning, tutoring, and direct instruction
 #+hugo_custom_front_matter: :slug "05f362b2-ab02-4cfb-9185-aae4e1c9e235"
@@ -82,7 +82,7 @@ Granting that one can use DI to hammer down very basic points, should one also h
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    38.81 | 2023-03-23T13:14:42Z |
+|        0 | 2.65 |   7 |   315.80 | 2024-05-21T10:54:57Z |
 :END:
 
 Question not only how we can learn better, but also {{what is worth learning?}@0}

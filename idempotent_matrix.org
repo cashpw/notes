@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8ffd5a59-aecd-4482-879a-ecbf2a720043
 :ROAM_ALIASES: "Idempotent matrices"
-:LAST_MODIFIED: [2023-03-15 Wed 08:05]
+:LAST_MODIFIED: [2023-05-01 Mon 16:35]
 :END:
 #+title: Idempotent matrix
 #+hugo_custom_front_matter: :slug "8ffd5a59-aecd-4482-879a-ecbf2a720043"
@@ -30,7 +30,7 @@ In linear algebra, an idempotent matrix is a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   9 |   378.49 | 2024-03-28T02:56:02Z |
-| front    | 2.65 |   7 |   167.02 | 2023-04-16T17:03:06Z |
+| front    | 2.50 |   8 |   455.70 | 2024-07-30T16:25:24Z |
 :END:
 
 [[id:8ffd5a59-aecd-4482-879a-ecbf2a720043][Idempotent matrix]]

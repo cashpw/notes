@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       39f7e92f-c7df-4d0d-94cd-ef7f39437ec1
+:LAST_MODIFIED: [2023-07-23 Sun 20:59]
+:ROAM_REFS: [cite:@ImperativeMood2023]
+:END:
+#+title: Imperative mood
+#+hugo_custom_front_matter: :slug "39f7e92f-c7df-4d0d-94cd-ef7f39437ec1"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-03 Wed 15:17]
+#+filetags: :concept:
+
+#+begin_quote
+The imperative mood is a grammatical mood that forms a command or request.
+
+The imperative mood is used to demand or require that an action be performed. It is usually found only in the present tense, second person. They are sometimes called directives, as they include a feature that encodes directive force, and another feature that encodes modality of unrealized interpretation.
+
+An example of a verb used in the imperative mood is the English phrase "Go."
+
+[cite:@ImperativeMood2023]
+#+end_quote
+
+* Example(s)
+
+- "Work hard!"
+- "Don't be late."
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-05-03 Wed 15:19]
+:FC_CREATED: 2023-05-03T22:19:43Z
+:FC_TYPE:  double
+:ID:       fe1d1d54-ce9c-45ac-80e5-ebb35d0e8f79
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    93.24 | 2023-10-09T20:34:25Z |
+| back     | 2.50 |   5 |    41.62 | 2023-07-28T06:25:31Z |
+:END:
+
+[[id:39f7e92f-c7df-4d0d-94cd-ef7f39437ec1][Imperative mood]]
+
+*** Back
+Grammatical mood that forms a command or request.
+*** Source
+[cite:@ImperativeMood2023]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-05-03 Wed 15:19]
+:FC_CREATED: 2023-05-03T22:20:46Z
+:FC_TYPE:  double
+:ID:       12ec3802-4bba-4691-b9ca-974c8fdd2d87
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    78.70 | 2023-09-28T05:53:21Z |
+| back     | 2.50 |   6 |    98.03 | 2023-10-30T04:38:11Z |
+:END:
+
+[[id:39f7e92f-c7df-4d0d-94cd-ef7f39437ec1][Imperative mood]]
+
+*** Back
+- "Work hard!"
+- "Don't be late."
+- "Bring the hammer."
+*** Source
+[cite:@ImperativeMood2023]
+#+print_bibliography:

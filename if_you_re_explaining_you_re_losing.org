@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       87a63cc1-4240-44f9-b4f7-7771173d6350
-:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:LAST_MODIFIED: [2023-07-02 Sun 18:10]
 :END:
 #+title: If you're explaining, you're losing
 #+hugo_custom_front_matter: :slug "87a63cc1-4240-44f9-b4f7-7771173d6350"
@@ -29,7 +29,7 @@ An example of [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    43.06 | 2023-04-27T16:47:18Z |
+|        0 | 2.50 |   6 |   109.61 | 2023-08-18T09:23:57Z |
 :END:
 
 *** Source
@@ -44,8 +44,8 @@ An example of [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    73.21 | 2023-04-25T20:42:01Z |
-| back     | 2.65 |   6 |    97.42 | 2023-06-10T01:12:22Z |
+| front    | 2.20 |   6 |    67.19 | 2023-09-08T05:46:06Z |
+| back     | 2.65 |   7 |   265.01 | 2024-03-01T16:14:19Z |
 :END:
 
 [[id:87a63cc1-4240-44f9-b4f7-7771173d6350][If you're explaining, you're losing]]

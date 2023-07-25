@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       61ab086c-842c-4d34-8c96-99cb9b80293f
 :ROAM_REFS: [cite:@AdjacencyMatrix2022]
-:LAST_MODIFIED: [2023-01-05 Thu 07:12]
+:LAST_MODIFIED: [2023-06-11 Sun 10:17]
 :END:
 #+title: Adjacency matrix
 #+hugo_custom_front_matter: :slug "61ab086c-842c-4d34-8c96-99cb9b80293f"
@@ -18,9 +18,6 @@ In graph theory and computer science, an adjacency matrix is a [[id:09208dbb-804
 Also see [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]].
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
 :PROPERTIES:
 :ID:       44704588-26f5-41a6-81f9-fa7ab2e2004a
@@ -31,8 +28,8 @@ Also see [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   156.52 | 2023-06-11T03:37:01Z |
-| front    | 2.65 |   7 |   144.85 | 2023-05-09T15:06:47Z |
+| back     | 2.65 |   8 |   385.47 | 2024-07-01T04:40:23Z |
+| front    | 2.65 |   8 |   394.75 | 2024-06-08T10:08:24Z |
 :END:
 [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]]
 *** Back

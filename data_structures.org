@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       738c2ba7-a272-417d-9b6d-b6952d765280
 :ROAM_ALIASES: "Concrete data type" "Data structure"
-:LAST_MODIFIED: [2023-02-28 Tue 06:59]
+:LAST_MODIFIED: [2023-07-12 Wed 05:53]
 :END:
 #+title: Data structures
 #+hugo_custom_front_matter: :slug "738c2ba7-a272-417d-9b6d-b6952d765280"
@@ -14,13 +14,12 @@ In computer science, a data structure is a data organization, management, and st
 
 [cite:@DataStructure2022]
 #+end_quote
-
 * Sizes
 
 - [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]: \(Z+O(1)\) (see [[id:7ca69182-2f04-4e4a-b426-ec428409d99c][Big O notation]])
 - [[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]: \(Z+o(Z)\) (see [[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]])
 
-* Flashcardscomputer_science:
+* Flashcards
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
@@ -36,8 +35,8 @@ In computer science, a data structure is a data organization, management, and st
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   103.46 | 2023-04-17T03:34:15Z |
-|        1 | 2.05 |   7 |    97.94 | 2023-06-06T13:32:53Z |
+|        0 | 2.65 |   7 |   289.15 | 2024-01-31T19:33:07Z |
+|        1 | 1.45 |   6 |    19.28 | 2023-07-31T19:34:01Z |
 :END:
 - {{[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]}@0}
 - {{[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Concrete data type]]}@1}
@@ -53,8 +52,8 @@ In computer science, a data structure is a data organization, management, and st
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   141.98 | 2023-03-20T15:29:29Z |
-| front    | 2.35 |   6 |   137.40 | 2023-03-28T02:06:48Z |
+| back     | 2.65 |   8 |   394.74 | 2024-04-19T11:24:55Z |
+| front    | 2.35 |   7 |   344.37 | 2024-03-07T12:13:38Z |
 :END:
 [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]
 *** Back

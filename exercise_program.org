@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       ede98d80-26a5-4b11-8427-9b6fec550c3e
+:LAST_MODIFIED: [2023-07-25 Tue 10:33]
+:ROAM_ALIASES: "Exercise routine" "Fitness routing" "Fitness program"
+:END:
+#+title: Exercise program
+#+hugo_custom_front_matter: :slug "ede98d80-26a5-4b11-8427-9b6fec550c3e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-24 Sat 19:39]
+#+filetags: :concept:
+* Current program
+
+My current program is a [[id:be21c5df-1559-4d50-8efb-6bd1b5db104f][Concurrent training]] consisting of [[id:07bbf4c0-e3bb-4689-9009-2cdb0404944d][Progressive overload]] resistance training ([[id:14049321-7c6d-4b23-a15f-02d2192bbeb8][5/3/1]]), running, and rowing ([[id:1ee95d06-e879-4f99-915f-3ec9a75ae412][Pete Marston | Beginner Training]]). It's informed by [[id:dec127fd-bb24-48de-8d07-52906e357792][Keith Baar | Using Molecular Biology to Maximize Concurrent Training]] to minimize cardio's negative effect on strength and hypertrophy.
+
+| Day       | 5am  | 9am            |
+|-----------+------+----------------|
+| Monday    | Run  | Overhead press |
+| Tuesday   | Row  | Deadlift       |
+| Wednesday | Run  | Mobility       |
+| Thursday  | Row  | Chest          |
+| Friday    | Run  | Squat          |
+| Saturday  | Run  | Mobility       |
+| Sunday    | Rest | Rest           |
+
+I'm lifting between the untrained and novice levels as described in [[id:7b52ebd6-f673-4db3-b9ca-49bce7acee56][ExRx | Weightlifting Performance Standards]].
+
+* When away from a gym
+
+My resistance training requires a gym with barbells, free weights, etc. I skip that training if I'm away from a gym. I continue my cardio and replace the resistance training a modified version of [[id:f2387c39-de20-48be-9733-7498f51672de][r/bodyweightfitness | Recommended Routine]].
+
+* Past programs
+* Flashcards

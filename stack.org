@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5ab783c7-9a13-42d2-920d-95f103ac677c
-:LAST_MODIFIED: [2023-03-08 Wed 09:31]
+:LAST_MODIFIED: [2023-05-03 Wed 14:49]
 :END:
 #+title: Stack
 #+hugo_custom_front_matter: :slug "5ab783c7-9a13-42d2-920d-95f103ac677c"
@@ -57,7 +57,7 @@ Common API of a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   136.64 | 2023-04-15T07:15:40Z |
+|        0 | 2.65 |   7 |   369.53 | 2024-05-07T10:30:02Z |
 :END:
 *** Extra
 *** Source
@@ -74,7 +74,7 @@ Common API of a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   113.42 | 2023-03-23T04:38:04Z |
+| front    | 2.95 |   7 |   337.12 | 2024-02-23T18:38:15Z |
 | back     | 2.95 |   7 |   270.80 | 2023-12-01T12:37:47Z |
 :END:
 [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]

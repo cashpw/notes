@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0b13cdf1-2678-420e-b919-4a349d4ef81a
 :ROAM_ALIASES: "First principles thinking"
-:LAST_MODIFIED: [2023-03-10 Fri 21:14]
+:LAST_MODIFIED: [2023-06-24 Sat 06:26]
 :END:
 #+title: Reasoning from first principles
 #+hugo_custom_front_matter: :slug "0b13cdf1-2678-420e-b919-4a349d4ef81a"
@@ -51,7 +51,7 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   322.48 | 2023-12-28T05:51:08Z |
-| back     | 2.80 |   7 |   204.86 | 2023-06-24T12:20:37Z |
+| back     | 2.80 |   8 |   557.29 | 2025-01-01T20:17:33Z |
 :END:
 
 [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2fa891f4-effa-4a66-b0a2-bd587103dc14
-:LAST_MODIFIED: [2023-03-03 Fri 05:57]
+:LAST_MODIFIED: [2023-06-10 Sat 08:56]
 :END:
 #+title: Pseudo-polynomial time subset sum problem implementation in Python
 #+hugo_custom_front_matter: :slug "2fa891f4-effa-4a66-b0a2-bd587103dc14"
@@ -58,7 +58,7 @@ print(subset_sum(0, [2,4,5]), 'should be []')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-02-07T23:58:49Z |
+| front    | 2.50 |   1 |     1.00 | 2023-06-11T15:56:34Z |
 :END:
 
 [[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time sumbset sum problem implementation in Python]]

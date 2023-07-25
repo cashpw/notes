@@ -1,12 +1,61 @@
 :PROPERTIES:
 :ID:       f85a49e5-6718-4da8-b325-22b23a44985f
 :ROAM_ALIASES: RPC
-:LAST_MODIFIED: [2023-03-18 Sat 08:19]
+:LAST_MODIFIED: [2023-06-14 Wed 17:40]
+:ROAM_REFS: [cite:@RemoteProcedureCall2023]
 :END:
 #+title: Remote procedure call
 #+hugo_custom_front_matter: :slug "f85a49e5-6718-4da8-b325-22b23a44985f"
 #+author: Cash Prokop-Weaver
 #+date: [2023-03-18 Sat 08:19]
-#+filetags: :has_todo:concept:
-* TODO [#1]
-* TODO [#2] Flashcards
+#+filetags: :concept:
+
+#+begin_quote
+In distributed computing, a remote procedure call (RPC) is when a computer program causes a procedure (subroutine [[[id:3823c17c-f4f2-454e-ad97-52de55d239e9][Subroutine]]]) to execute in a different address space (commonly on another computer on a shared network), which is coded as if it were a normal (local) procedure call, without the programmer explicitly coding the details for the remote interaction. That is, the programmer writes essentially the same code whether the subroutine is local to the executing program, or remote.
+
+[cite:@RemoteProcedureCall2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-20 Mon 10:08]
+:FC_CREATED: 2023-03-20T17:11:19Z
+:FC_TYPE:  double
+:ID:       37b1d222-c9d9-4f86-b730-a3e13b92b832
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    99.14 | 2023-09-16T18:51:10Z |
+| back     | 2.65 |   6 |    84.91 | 2023-09-05T22:08:00Z |
+:END:
+
+[[id:f85a49e5-6718-4da8-b325-22b23a44985f][Remote procedure call]]
+
+*** Back
+A request-response protocol in which a client computer requests a remote computer execute a [[id:3823c17c-f4f2-454e-ad97-52de55d239e9][Subroutine]] and respond to the client with the result
+
+The programmer writing the call doesn't have to explicitly code the details of the remote interaction! They code the call as if it were a local procedure call.
+*** Source
+[cite:@RemoteProcedureCall2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-20 Mon 10:12]
+:FC_CREATED: 2023-03-20T17:13:41Z
+:FC_TYPE:  cloze
+:ID:       2057615e-e43b-4a9f-85ac-7fb5c79e482b
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   139.87 | 2023-11-01T21:36:44Z |
+:END:
+
+The programmer making a [[id:f85a49e5-6718-4da8-b325-22b23a44985f][Remote procedure call]] {{doesn't}{yes/no}@0} has to deal with the details of the remote interaction.
+
+*** Source
+[cite:@RemoteProcedureCall2023]
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a66b0533-194f-45a4-92d5-9db81589f715
-:LAST_MODIFIED: [2023-03-03 Fri 05:52]
+:LAST_MODIFIED: [2023-07-12 Wed 05:54]
 :END:
 #+title: Truth resists simplicity
 #+hugo_custom_front_matter: :slug "a66b0533-194f-45a4-92d5-9db81589f715"
@@ -22,9 +22,9 @@ Phrase by [[id:4eaa8d9d-b4d1-4373-8723-d19d9c1dc38b][John Green]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   6 |   129.73 | 2023-06-25T09:28:04Z |
-|        0 | 2.20 |   6 |    72.55 | 2023-04-13T05:40:56Z |
-|        2 | 2.65 |   6 |   130.06 | 2023-07-11T15:13:12Z |
+|        1 | 2.95 |   7 |   393.24 | 2024-07-22T23:05:11Z |
+|        0 | 2.20 |   7 |   157.97 | 2023-09-18T12:40:11Z |
+|        2 | 2.80 |   7 |   395.83 | 2024-08-11T08:49:48Z |
 :END:
 
 *** Source

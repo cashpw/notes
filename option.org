@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1263eb22-a819-43e6-9ab4-d45f790b095f
 :ROAM_REFS: [cite:@OptionFinance2022]
-:LAST_MODIFIED: [2023-02-02 Thu 07:49]
+:LAST_MODIFIED: [2023-05-03 Wed 15:07]
 :END:
 #+title: Option (finance)
 #+hugo_custom_front_matter: :slug "1263eb22-a819-43e6-9ab4-d45f790b095f"
@@ -61,7 +61,7 @@ A European option may be exercised only at the expiration date of the option, i.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    59.62 | 2023-04-03T06:35:18Z |
+|        0 | 2.35 |   7 |   135.06 | 2023-08-16T16:46:07Z |
 :END:
 
 *** Source
@@ -76,7 +76,7 @@ A European option may be exercised only at the expiration date of the option, i.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   105.33 | 2023-05-02T09:52:33Z |
+| front    | 2.80 |   7 |   287.08 | 2024-02-14T23:55:09Z |
 :END:
 
 [[id:d3ad448d-c93d-4f29-9e91-dea656de0bb2][American options]] and [[id:38e47dc2-d914-4569-9a81-f5e8c7eecfe8][European options]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@gentleTribesProgramming2017]
 :ID:       2f62e8c7-6d64-4820-9b12-3949627c2386
-:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:LAST_MODIFIED: [2023-07-18 Tue 06:47]
 :END:
 #+title: Joseph Gentle | Three Tribes of Programming
 #+hugo_custom_front_matter: :slug "2f62e8c7-6d64-4820-9b12-3949627c2386"
@@ -94,8 +94,8 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   106.97 | 2023-06-15T04:12:20Z |
-| back     | 2.80 |   6 |   122.19 | 2023-07-17T18:39:12Z |
+| front    | 2.35 |   7 |   232.94 | 2024-02-03T11:58:56Z |
+| back     | 2.80 |   7 |   314.68 | 2024-05-28T06:01:43Z |
 :END:
 
 [[id:2f62e8c7-6d64-4820-9b12-3949627c2386][Joseph Gentle | Three Tribes of Programming]]
@@ -116,8 +116,8 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   113.36 | 2023-06-06T02:24:12Z |
-| back     | 2.35 |   6 |    73.07 | 2023-05-15T15:25:06Z |
+| front    | 2.80 |   7 |   296.24 | 2024-03-28T20:24:42Z |
+| back     | 2.35 |   7 |   177.62 | 2023-11-09T08:15:36Z |
 :END:
 
 [[id:f1b52515-ce90-451f-8b58-281cc314a693][Programming as applied mathematics]]
@@ -141,8 +141,8 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    88.21 | 2023-05-02T21:30:24Z |
-| back     | 2.35 |   6 |    85.78 | 2023-05-03T16:34:50Z |
+| front    | 2.50 |   7 |   237.62 | 2023-12-27T12:59:39Z |
+| back     | 2.35 |   7 |   199.79 | 2023-11-25T11:34:02Z |
 :END:
 
 [[id:8aba3ca3-4de0-46cc-be4a-4e7c4611fafd][Programming as hardware hacking]]
@@ -166,8 +166,8 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   103.58 | 2023-05-31T17:17:09Z |
-| back     | 2.80 |   6 |   109.15 | 2023-06-15T19:57:00Z |
+| front    | 2.80 |   7 |   290.11 | 2024-03-18T03:52:04Z |
+| back     | 2.80 |   7 |   330.54 | 2024-05-12T04:28:17Z |
 :END:
 
 [[id:d2918b36-ab82-4e9c-a7ee-ded62efb1d62][Programming as a tool to make things]]

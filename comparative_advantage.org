@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f
-:LAST_MODIFIED: [2023-02-26 Sun 07:58]
+:LAST_MODIFIED: [2023-07-19 Wed 06:39]
 :END:
 #+title: Comparative advantage
 #+hugo_custom_front_matter: :slug "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
@@ -31,8 +31,8 @@ In an economic model, agents have a comparative advantage over others in produci
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   124.00 | 2023-06-15T00:27:31Z |
-| back     | 2.35 |   6 |    76.40 | 2023-05-12T13:30:45Z |
+| front    | 2.80 |   7 |   338.92 | 2024-05-18T22:49:16Z |
+| back     | 2.35 |   7 |   188.10 | 2023-11-16T18:25:06Z |
 :END:
 
 [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]]
@@ -51,18 +51,20 @@ One's ability to produce a given good or service in a more efficient and economi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   142.76 | 2023-07-19T10:07:40Z |
-| back     | 2.20 |   6 |    71.03 | 2023-04-29T15:43:08Z |
+| front    | 3.10 |   7 |   421.12 | 2024-09-12T16:25:41Z |
+| back     | 2.20 |   7 |   171.71 | 2023-10-20T16:25:33Z |
 :END:
 
 [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]]
 
 *** Back
 
-- An attorney, with absolute advantage, who can earn $175/hour for legal work and $25/hour for secretarial work
-- A secretary who can earn $0/hour for legal work and $20/hour for secretarial work
+|                  | Attorney | Secretary |
+|------------------+----------+-----------|
+| Legal work       | $25/hr   | $20/hr    |
+| Secretarial work | $175/hr  | $0/hr     |
 
-The attorney is better off hiring the secretary so they can focus on their [...]: legal work.
+The attorney's [...] is legal work. They're better off hiring the secretary so they can focus on legal work.
 *** Source
 [cite:@WhatComparativeAdvantage]
 #+print_bibliography:

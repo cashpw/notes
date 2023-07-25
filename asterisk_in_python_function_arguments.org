@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6
-:LAST_MODIFIED: [2023-03-18 Sat 06:30]
+:LAST_MODIFIED: [2023-05-11 Thu 08:06]
 :ROAM_ALIASES: "Asterisk in Python function invocations"
 :END:
 #+title: Asterisk in Python function arguments
@@ -113,8 +113,8 @@ print(foo(10, **kwargs))
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   4 |    18.36 | 2023-03-18T23:36:20Z |
-| back     | 2.65 |   5 |    42.76 | 2023-04-29T08:26:21Z |
+| front    | 2.65 |   6 |   142.60 | 2023-10-01T05:36:50Z |
+| back     | 2.65 |   6 |   113.84 | 2023-08-25T18:09:40Z |
 :END:
 
 Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]]
@@ -134,8 +134,8 @@ Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function ar
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    38.76 | 2023-04-21T09:10:23Z |
-| back     | 2.80 |   5 |    44.80 | 2023-04-28T09:51:27Z |
+| front    | 2.50 |   6 |    94.13 | 2023-08-04T02:36:45Z |
+| back     | 2.80 |   6 |   117.64 | 2023-08-29T07:10:20Z |
 :END:
 
 Double [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]]
@@ -154,8 +154,8 @@ Double [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function ar
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    43.70 | 2023-04-26T07:47:27Z |
-| back     | 2.65 |   4 |    17.36 | 2023-03-20T00:50:16Z |
+| front    | 2.65 |   6 |   117.25 | 2023-08-26T00:48:29Z |
+| back     | 2.65 |   6 |   109.78 | 2023-08-24T12:20:57Z |
 :END:
 
 Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function invocations]]
@@ -174,8 +174,8 @@ Expands a tuple of arguments into positional arguments
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    41.72 | 2023-04-26T08:22:23Z |
-| back     | 2.80 |   5 |    51.72 | 2023-05-09T06:48:39Z |
+| front    | 2.80 |   6 |   125.59 | 2023-09-02T04:38:23Z |
+| back     | 2.80 |   6 |   145.19 | 2023-10-01T21:15:30Z |
 :END:
 
 Double [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function invocations]]
@@ -196,7 +196,7 @@ Expands a dictionary of keyword arguments
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    41.19 | 2023-04-15T22:01:50Z |
+|        0 | 2.80 |   6 |   119.21 | 2023-08-26T03:47:52Z |
 :END:
 
 Positional arguments {{can't}{can(not)}@0} come after =*= in a [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] function.

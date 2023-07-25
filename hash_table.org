@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:LAST_MODIFIED: [2023-07-23 Sun 21:01]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -103,7 +103,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.80 |   7 |   253.36 | 2023-09-26T00:58:17Z |
-|        0 | 2.80 |   7 |   190.09 | 2023-07-20T16:45:41Z |
+|        0 | 2.80 |   8 |   479.43 | 2024-11-14T14:15:13Z |
 :END:
 
 *** Extra
@@ -123,8 +123,8 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   6 |   159.42 | 2023-06-10T13:45:11Z |
-|        0 | 3.10 |   6 |   182.12 | 2023-07-09T18:29:54Z |
+|        1 | 2.65 |   5 |    44.53 | 2023-08-25T01:53:30Z |
+|        0 | 3.25 |   7 |   609.92 | 2025-03-13T11:02:13Z |
 :END:
 
 *** Extra
@@ -143,7 +143,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   127.08 | 2023-06-05T21:18:27Z |
+|        0 | 2.80 |   7 |   369.55 | 2024-06-10T03:49:08Z |
 |        1 | 2.20 |   7 |   145.95 | 2023-08-10T12:50:06Z |
 :END:
 
@@ -159,8 +159,8 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   148.72 | 2023-06-16T08:38:32Z |
-| back     | 2.35 |   6 |    63.52 | 2023-04-08T04:55:20Z |
+| front    | 3.10 |   7 |   440.57 | 2024-08-30T03:48:02Z |
+| back     | 2.20 |   7 |   140.78 | 2023-08-27T09:52:57Z |
 :END:
 
 [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]]
@@ -180,8 +180,8 @@ A collision resolution algorithm in which each bucket in the [[id:b8f1337e-8231-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   150.46 | 2023-06-17T01:11:17Z |
-| back     | 2.35 |   4 |    15.22 | 2023-03-30T19:42:19Z |
+| front    | 3.10 |   7 |   425.15 | 2024-08-16T07:41:38Z |
+| back     | 2.35 |   6 |    88.81 | 2023-08-08T10:40:27Z |
 :END:
 
 [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]]
@@ -199,7 +199,7 @@ A collision resolution algorithm which uses a probing sequence (i.e. linear, qua
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   132.10 | 2023-06-30T19:41:48Z |
+| front    | 3.10 |   7 |   447.40 | 2024-09-20T11:10:57Z |
 :END:
 
 [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]] and [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]]
@@ -221,7 +221,7 @@ A collision resolution algorithm which uses a probing sequence (i.e. linear, qua
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   129.24 | 2023-07-05T21:56:37Z |
+|        0 | 2.05 |   4 |    12.02 | 2023-07-29T14:23:36Z |
 :END:
 *** Source
 [cite:@HashTable2022]

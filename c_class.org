@@ -1,0 +1,147 @@
+:PROPERTIES:
+:ID:       b3c25e15-f426-41d3-ae97-925da325ed73
+:LAST_MODIFIED: [2023-07-23 Sun 20:54]
+:END:
+#+title: C++ class
+#+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-11 Thu 10:06]
+#+filetags: :concept:
+
+A =class= in C++ represents a user-defined data structure. It's similar to a [[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]].
+
+* Concrete class
+:PROPERTIES:
+:ID:       79986637-4396-4179-b1da-17268fb34306
+:END:
+
+#+begin_quote
+The basic idea of ocncrete classes is that they behave "just like built-in types".
+
+[cite:@stroustrupTour2022]
+#+end_quote
+
+Classes without any abstract methods.
+
+* Abstract class
+:PROPERTIES:
+:ID:       1434196d-1ed2-44dd-bbf8-a3e57f0eff28
+:END:
+
+Classes with at least one abstract method.
+
+An example of an abstract class is the following =Container=:
+#+begin_src C++
+class Container {
+ public:
+  virtual double& operator[](int) = 0;
+  virtual int size() const = 0;
+  virtual ˜Container() {}
+};
+#+end_src
+
+See [[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]
+
+* Inheritance and implementation
+
+=Foo= implements =Container= in the following example. =Container= is the base-class and =Foo= is the derived-class.
+
+#+begin_src C++
+class Container {
+ public:
+  virtual double& operator[](int) = 0;
+  virtual int size() const = 0;
+  virtual ˜Container() {}
+};
+
+class Foo : public Container {
+  // ...
+}
+#+end_src
+
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:47]
+:FC_CREATED: 2023-05-11T16:47:53Z
+:FC_TYPE:  cloze
+:ID:       b747888c-d190-46b1-9e14-85744da48212
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   114.53 | 2023-11-15T16:41:20Z |
+|        1 | 2.65 |   5 |    49.87 | 2023-08-17T14:12:22Z |
+:END:
+
+(C++) {{=class=}@0} members are {{private}{visibility}@1} by default.
+
+*** Source
+[cite:@stroustrupTour2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 09:32]
+:FC_CREATED: 2023-05-18T16:33:32Z
+:FC_TYPE:  double
+:ID:       772d38e4-33de-4f0c-bc24-08bd6c0652e7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   5 |    42.70 | 2023-08-01T13:13:27Z |
+| back     | 2.35 |   5 |    35.40 | 2023-08-05T11:13:21Z |
+:END:
+
+[[id:79986637-4396-4179-b1da-17268fb34306][Concrete class]]
+
+*** Back
+A class which behaves just like built-in types. It has no abstract methods.
+*** Source
+[cite:@stroustrupTour2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 09:33]
+:FC_CREATED: 2023-05-18T16:34:18Z
+:FC_TYPE:  double
+:ID:       3d80df8d-4b2a-44c8-97fe-3e0e1640f0f1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    37.16 | 2023-07-28T19:35:24Z |
+| back     | 2.50 |   5 |    37.09 | 2023-08-07T16:26:44Z |
+:END:
+
+[[id:1434196d-1ed2-44dd-bbf8-a3e57f0eff28][Abstract class]]
+
+*** Back
+A class with at least one method which another class must implement.
+*** Source
+[cite:@stroustrupTour2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 09:44]
+:FC_CREATED: 2023-05-18T16:46:36Z
+:FC_TYPE:  cloze
+:ID:       ee727364-7c8f-49e5-ba3f-ff95004547e9
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   5 |    34.86 | 2023-08-19T10:59:09Z |
+:END:
+
+=Foo= implements =Bar=
+
+#+begin_src C++
+class Foo{{ : public Bar ...}@0}
+#+end_src
+
+*** Source
+[cite:@stroustrupTour2022]
+#+print_bibliography:

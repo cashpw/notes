@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       be21c5df-1559-4d50-8efb-6bd1b5db104f
+:LAST_MODIFIED: [2023-07-23 Sun 21:07]
+:END:
+#+title: Concurrent training
+#+hugo_custom_front_matter: :slug "be21c5df-1559-4d50-8efb-6bd1b5db104f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-24 Sat 19:38]
+#+filetags: :concept:
+
+Concurrent training is a combination of cardio and resistance training.
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-06-24 Sat 19:57]
+:FC_CREATED: 2023-06-25T02:57:26Z
+:FC_TYPE:  double
+:ID:       8eb7a0ea-d4de-4fe2-b3dc-e2ffd887422f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    34.04 | 2023-08-26T04:45:33Z |
+| back     | 2.05 |   1 |     1.00 | 2023-07-25T04:07:10Z |
+:END:
+
+[[id:be21c5df-1559-4d50-8efb-6bd1b5db104f][Concurrent training]]
+
+*** Back
+A fitness program which combines cardio and resistance training to gain the benefits of both.
+*** Source

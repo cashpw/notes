@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ParadoxTolerance2021]
 :ID:       b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9
-:LAST_MODIFIED: [2023-02-16 Thu 19:25]
+:LAST_MODIFIED: [2023-05-31 Wed 08:44]
 :END:
 #+title: Paradox of tolerance
 #+hugo_custom_front_matter: :slug "b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9"
@@ -29,8 +29,8 @@ The paradox of tolerance states that if a society is tolerant without limit, its
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    99.18 | 2023-05-17T07:57:30Z |
-| back     | 2.50 |   6 |   102.39 | 2023-05-30T12:53:39Z |
+| front    | 2.50 |   7 |   252.73 | 2024-01-25T05:55:19Z |
+| back     | 2.50 |   7 |   279.42 | 2024-03-06T01:47:16Z |
 :END:
 
 [[id:b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9][Paradox of tolerance]]

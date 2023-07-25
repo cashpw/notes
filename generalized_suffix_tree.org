@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f9f02ed3-1796-4484-85ae-082664002d54
 :ROAM_REFS: [cite:@GeneralizedSuffixTree2022]
-:LAST_MODIFIED: [2023-02-22 Wed 18:23]
+:LAST_MODIFIED: [2023-07-04 Tue 12:26]
 :END:
 #+title: Generalized suffix tree
 #+hugo_custom_front_matter: :slug "f9f02ed3-1796-4484-85ae-082664002d54"
@@ -26,8 +26,8 @@ In computer science, a generalized suffix tree is a suffix tree for a set of str
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   117.63 | 2023-06-10T08:50:50Z |
-| back     | 2.20 |   6 |    87.68 | 2023-05-21T18:41:34Z |
+| front    | 2.95 |   7 |   368.43 | 2024-06-14T03:26:13Z |
+| back     | 1.75 |   6 |    35.41 | 2023-08-09T05:21:10Z |
 :END:
 
 [[id:f9f02ed3-1796-4484-85ae-082664002d54][Generalized suffix tree]]

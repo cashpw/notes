@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4c7bf5db-dc29-44a1-bb77-36d560b38688
-:LAST_MODIFIED: [2023-02-28 Tue 20:16]
+:LAST_MODIFIED: [2023-06-03 Sat 21:28]
 :END:
 #+title: Skewed binary tree
 #+hugo_custom_front_matter: :slug "4c7bf5db-dc29-44a1-bb77-36d560b38688"
@@ -31,7 +31,7 @@ A skewed binary tree is a pathological/degenerate tree in which the tree is eith
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   151.23 | 2023-05-22T20:49:01Z |
+| back     | 2.50 |   8 |   359.49 | 2024-05-17T08:01:33Z |
 | front    | 2.95 |   7 |   327.96 | 2024-01-23T03:13:23Z |
 :END:
 
@@ -56,7 +56,7 @@ A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   362.05 | 2024-02-23T17:09:58Z |
-| back     | 2.05 |   7 |    95.95 | 2023-06-04T03:38:15Z |
+| back     | 2.05 |   8 |   204.61 | 2023-12-25T19:12:26Z |
 :END:
 [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
 *** Back
@@ -75,7 +75,7 @@ A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   134.23 | 2023-05-20T20:25:59Z |
+|        0 | 2.35 |   8 |   308.05 | 2024-03-24T14:21:56Z |
 :END:
 *** Extra
 *** Source

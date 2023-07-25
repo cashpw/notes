@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d
+:LAST_MODIFIED: [2023-07-23 Sun 20:54]
+:END:
+#+title: No half measures
+#+hugo_custom_front_matter: :slug "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-07-21 Fri 08:24]
+#+filetags: :has_todo:concept:
+
+* INPROGRESS [#2]
+
+- Go all-in. It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
+- [cite:@salamonCorrectResponseUncertaintyNotHalfspeed]
+
+#+begin_quote
+In my AP Art class, there was a girl who was just starting to experiment with mixed media. At this point she was still playing around, trying to decide what direction she wanted to go with her portfolio. So one critique day, she brought in an abstract canvas with some rhinestone highlights and painted and real peacock feathers. She loved sparkles and peacock feathers so she thought she'd try introducing them a *little*. And after everyone had given some input, the teacher gave her his advice, VERY roughly paraphrased here:
+
+"So here's the thing… I do not like this style. These are just elements that do not speak to me personally, but I see that you like them, and you're doing interesting things with them.
+
+"My biggest critique is, I only merely *dislike* this piece. I want you to make me HATE it. Go crazy with the things that you like. Don't hold back trying to make it palatable to people like me. Because I am NEVER going to like it. And if the audience does not like it, it should drive them crazy seeing how much YOU love it."
+
+Her portfolio was chock full of neon colors and glitter and rhinestones and splashes of peacock feathers and it was a delight. Our teacher despised every piece lol, but she got great marks and I think even won some awards. And more importantly, she was happy and proud of the results. Because she didn't limit herself by trying to appeal to people who were never going to enjoy what she enjoyed.
+
+[cite:@switchelsweetsMyAPArtClass]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-07-21 Fri 10:46]
+:FC_CREATED: 2023-07-21T17:46:40Z
+:FC_TYPE:  double
+:ID:       6c58cd57-cc27-40e7-8fe8-ed917eb6b6f5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-07-26T03:54:28Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-28T17:46:40Z |
+:END:
+
+[[id:b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d][No half measures]]
+
+*** Back
+It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
+*** Source
+[[id:b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d][No half measures]]
+
+#+print_bibliography:

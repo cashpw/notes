@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d0d62414-0eb1-4036-aae9-da4db0eb1d52
-:LAST_MODIFIED: [2023-02-15 Wed 07:52]
+:LAST_MODIFIED: [2023-05-16 Tue 08:01]
 :END:
 #+title: Greenware
 #+hugo_custom_front_matter: :slug "d0d62414-0eb1-4036-aae9-da4db0eb1d52"
@@ -22,9 +22,6 @@ Greenware is clay before it's undergone [[id:546a8c28-18bb-4500-bb35-a18ca162ee1
 - [[id:7358ec53-29b1-4b14-b1b5-20a09e40caf1][Leather-hard clay]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:44]
@@ -35,8 +32,8 @@ Greenware is clay before it's undergone [[id:546a8c28-18bb-4500-bb35-a18ca162ee1
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    98.52 | 2023-05-16T14:18:00Z |
-| back     | 2.50 |   6 |    82.00 | 2023-05-08T15:58:01Z |
+| front    | 2.50 |   7 |   258.48 | 2024-01-30T02:38:40Z |
+| back     | 2.50 |   7 |   194.55 | 2023-11-20T05:43:05Z |
 :END:
 
 [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]]

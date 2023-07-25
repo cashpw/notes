@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       043438c3-d647-4fe0-a29b-cd1c44e9e3e7
-:LAST_MODIFIED: [2023-03-10 Fri 21:20]
+:LAST_MODIFIED: [2023-04-13 Thu 06:23]
 :END:
 #+title: Fully automated luxury communism
 #+hugo_custom_front_matter: :slug "043438c3-d647-4fe0-a29b-cd1c44e9e3e7"
@@ -11,10 +11,6 @@
 A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] achieved through a combination of automation technology and material abundance.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Describe :fc:
 :PROPERTIES:
 :ID:       217d86e5-3064-4659-b548-45282b9c4317
@@ -26,7 +22,7 @@ A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] ac
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   303.02 | 2024-01-08T05:42:51Z |
-| back     | 2.80 |   6 |   110.41 | 2023-04-12T01:15:45Z |
+| back     | 2.80 |   7 |   283.34 | 2024-01-21T21:38:38Z |
 :END:
 
 [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully automated luxury communism]]

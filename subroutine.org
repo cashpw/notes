@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       3823c17c-f4f2-454e-ad97-52de55d239e9
+:LAST_MODIFIED: [2023-06-13 Tue 07:47]
+:ROAM_REFS: [cite:@FunctionComputerProgramming2023]
+:END:
+#+title: Subroutine
+#+hugo_custom_front_matter: :slug "3823c17c-f4f2-454e-ad97-52de55d239e9"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-20 Mon 10:03]
+#+filetags: :concept:
+
+#+begin_quote
+In computer programming, a function or subroutine is a sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.
+
+[cite:@FunctionComputerProgramming2023]
+#+end_quote
+
+* Flashcards
+** Subroutine :fc:
+:PROPERTIES:
+:CREATED: [2023-03-20 Mon 10:04]
+:FC_CREATED: 2023-03-20T17:05:29Z
+:FC_TYPE:  vocab
+:ID:       da570ad0-e813-41f0-ab52-520dd2a9654b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |   119.82 | 2023-10-10T19:50:26Z |
+| back     | 2.35 |   6 |    77.74 | 2023-08-30T08:26:34Z |
+:END:
+
+In computer programming, a ... is a sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.
+*** Source
+[cite:@FunctionComputerProgramming2023]
+#+print_bibliography:

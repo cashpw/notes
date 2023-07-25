@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6bd79f38-1c84-45f0-9840-738f712fdf40
-:LAST_MODIFIED: [2023-03-15 Wed 08:05]
+:LAST_MODIFIED: [2023-07-11 Tue 06:04]
 :ROAM_REFS: [cite:@SpanningTree2022]
 :END:
 #+title: Spanning tree
@@ -24,8 +24,8 @@ In the mathematical field of graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    41.83 | 2023-03-31T10:21:21Z |
-| back     | 2.65 |   5 |    35.97 | 2023-04-01T03:19:02Z |
+| front    | 2.95 |   6 |   125.80 | 2023-08-04T11:17:17Z |
+| back     | 2.65 |   7 |   250.14 | 2024-03-17T16:30:22Z |
 :END:
 
 [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]]
@@ -46,8 +46,8 @@ A subgraph of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] $G$ which (1)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    46.99 | 2023-04-26T02:55:04Z |
-|        1 | 2.80 |   5 |    47.92 | 2023-05-02T13:02:56Z |
+|        0 | 2.95 |   6 |   128.37 | 2023-09-06T03:34:48Z |
+|        1 | 2.80 |   6 |   125.46 | 2023-09-12T03:42:37Z |
 :END:
 
 A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] for a graph with {{$n$}{count}@0} vertices will have {{$n-1$}{count}@1} edges.

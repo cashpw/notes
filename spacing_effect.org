@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       37699e33-fccb-43bf-ab4b-ca9e74a03510
-:LAST_MODIFIED: [2023-02-10 Fri 15:45]
+:LAST_MODIFIED: [2023-07-16 Sun 07:01]
 :END:
 #+title: Spacing effect
 #+hugo_custom_front_matter: :slug "37699e33-fccb-43bf-ab4b-ca9e74a03510"
@@ -24,8 +24,8 @@ The spacing effect demonstrates that learning is more effective when study sessi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   157.04 | 2023-07-15T19:49:35Z |
-| back     | 2.50 |   6 |    82.60 | 2023-05-04T14:07:02Z |
+| front    | 2.95 |   7 |   475.15 | 2024-11-02T17:32:16Z |
+| back     | 2.35 |   7 |   211.15 | 2023-12-07T19:44:20Z |
 :END:
 
 [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]]

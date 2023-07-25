@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
 :DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
-:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:LAST_MODIFIED: [2023-06-06 Tue 09:57]
 :END:
 #+title: Skills of a senior software engineer
 #+hugo_custom_front_matter: :slug "973e037c-6ae7-4c6a-abf8-57339feb49f9"
@@ -15,12 +15,14 @@ I've sought out common traits of "senior" roles and collected them here to help 
 
 * TODO [#2] Incorporate Sources; expand
 
+- [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][Tanya Reilly | The Staff Engineer's Path]]
 - [[id:e7753777-506e-490e-b79e-59dede5dce2e][Zach Tellman | Senior Engineers Reduce Risk]]
 - [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][John Allspaw | On Being A Senior Engineer]]
 - [[id:e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e][Kamran Ahmed | Levels of Seniority]]
 - [[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]]
 - [[id:7af2ca45-ca0d-452d-83b3-a700057009d7][Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?]]
 - [[https://www.lesswrong.com/posts/XWthiR3mg9FpSgd8m/becoming-a-staff-engineer][Becoming a Staff Engineer]]
+- Understand the context before taking action or giving advice. This may involve taking preliminary action ([[id:630c804a-cef5-42e6-a168-5a233a0acbed][Just start]], [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loop]]) to gather the appropriate contexual information. The right decision, answer, etc, is always "It depends".
 - Understand the flow of data through the system; 10,000 foot view
 - Understand the fundamental problems that your solution addresses
   - Enables comprehension of which new features are important and when to prioritize X over Y
@@ -37,6 +39,14 @@ I've sought out common traits of "senior" roles and collected them here to help 
     - Retrospective performed
     - Stakeholders informed
     - Hacks fixed
+- [[id:9f7ed9dc-46f1-4f12-a87e-cd03005c06dd][Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding]]
+- [[id:b4e207cd-6c52-425c-8b60-a21e8cb1d8c6][Sabrina Leandro | So You're Staff+ ... Now What?]]
+- Manage their time effectively; [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
+  - Work on things that matter
+  - Avoid busywork, etc
+  - [[id:b5246b0f-685b-4408-b79e-3b2b5e0eb601][Delegate]] whenever possible to ensure you're working on something that only you can do
+- Networking
+  - Maintain mutually beneficial relationships with peers within your organization, company, and externally
 
 * TODO [#2] Flashcards
 :PROPERTIES:

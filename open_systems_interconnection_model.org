@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-03-18 Sat 08:34]
+:LAST_MODIFIED: [2023-07-22 Sat 20:41]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -31,10 +31,24 @@ From bottom-to-top:
 :PROPERTIES:
 :ID:       28c1811a-bfe1-4910-8622-f1568dd7c388
 :END:
+
+#+begin_quote
+The application layer is used by end-user software such as web browsers and email clients. It provides protocols that allow software to send and receive information and present meaningful data to users. A few examples of application layer protocols are the Hypertext Transfer Protocol (HTTP), File Transfer Protocol (FTP), Post Office Protocol (POP), Simple Mail Transfer Protocol (SMTP), and Domain Name System (DNS).
+
+[cite:@WhatOSIModelLayersExplainedImperva]
+#+end_quote
+
 ** Presentation layer (OSI model)
 :PROPERTIES:
 :ID:       134da303-601d-40f9-929e-67cc4f35761d
 :END:
+
+#+begin_quote
+The presentation layer handles protocol conversion, data encryption, data decryption, data compression, data decompression, incompatibility of data representation between operating systems, and graphic commands. The presentation layer transforms data into the form that the application layer accepts, to be sent across a network.
+
+[cite:@OSIModel2023]
+#+end_quote
+
 ** Session layer (OSI model)
 :PROPERTIES:
 :ID:       68b61c7b-c05c-4aee-8f9a-1e1a4612dac7
@@ -95,8 +109,8 @@ The physical layer is responsible for the transmission and reception of unstruct
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T14:49:56Z |
-| back     |  2.5 |  -1 |        0 | 2023-03-18T14:49:56Z |
+| front    | 2.50 |   6 |   112.50 | 2023-10-15T01:22:35Z |
+| back     | 2.20 |   3 |     6.00 | 2023-07-29T03:41:13Z |
 :END:
 
 [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
@@ -115,8 +129,8 @@ A conceptual model for abstract network connections.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T14:55:10Z |
-| back     |  2.5 |  -1 |        0 | 2023-03-18T14:55:10Z |
+| front    | 2.50 |   6 |    92.36 | 2023-09-12T01:47:14Z |
+| back     | 2.50 |   1 |     1.00 | 2023-07-09T00:20:59Z |
 :END:
 
 [[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
@@ -136,10 +150,10 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
-|        1 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
-|        2 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
-|        3 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
+|        0 | 2.35 |   6 |    70.06 | 2023-08-11T15:38:34Z |
+|        1 | 2.20 |   6 |    64.76 | 2023-09-11T09:13:37Z |
+|        2 | 2.50 |   4 |    15.71 | 2023-07-28T05:48:15Z |
+|        3 | 2.50 |   0 |     0.00 | 2023-07-19T13:40:56Z |
 |        4 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        5 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        6 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
@@ -188,8 +202,8 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T15:00:37Z |
-| back     |  2.5 |  -1 |        0 | 2023-03-18T15:00:37Z |
+| front    | 2.50 |   5 |    40.23 | 2023-08-05T21:42:38Z |
+| back     | 2.50 |   3 |     6.00 | 2023-07-24T13:40:58Z |
 :END:
 
 [[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]
@@ -208,8 +222,8 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T15:02:11Z |
-| back     |  2.5 |  -1 |        0 | 2023-03-18T15:02:11Z |
+| front    | 2.20 |   6 |    56.17 | 2023-09-05T17:08:07Z |
+| back     | 2.50 |   3 |     6.00 | 2023-06-21T13:20:35Z |
 :END:
 
 [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
@@ -228,7 +242,7 @@ This layer provides functional and procedural means of transferring packets from
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T15:06:34Z |
+| front    | 2.50 |   5 |    36.16 | 2023-07-24T07:53:27Z |
 :END:
 
 Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
@@ -243,12 +257,13 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :CREATED: [2023-03-18 Sat 08:07]
 :FC_CREATED: 2023-03-18T15:08:51Z
 :FC_TYPE:  normal
+:FC_BLOCKED_BY:       21f70540-a5f7-450a-9e95-79f4eb26c4a6
 :ID:       1019b1b3-d665-4712-859e-de1974cfda76
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T15:08:51Z |
+| front    | 2.50 |   2 |     2.00 | 2023-05-01T14:22:59Z |
 :END:
 
 [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
@@ -268,8 +283,8 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-03-18T15:30:52Z |
-| back     |  2.5 |  -1 |        0 | 2023-03-18T15:30:52Z |
+| front    | 2.20 |   6 |    59.26 | 2023-08-29T07:48:09Z |
+| back     | 2.35 |   3 |     6.00 | 2023-07-26T15:18:20Z |
 :END:
 
 [[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]
@@ -279,4 +294,45 @@ This layer handles setup, teardown, and controls the connections between two or 
 
 *** Source
 [cite:@OSIModel2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-20 Mon 10:20]
+:FC_CREATED: 2023-03-20T17:21:02Z
+:FC_TYPE:  double
+:ID:       1f55b961-6a36-4283-a400-e103c18ece45
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |   5 |    20.32 | 2023-07-19T00:50:05Z |
+| back     | 2.50 |   1 |     1.00 | 2023-07-16T14:14:57Z |
+:END:
+
+[[id:134da303-601d-40f9-929e-67cc4f35761d][Presentation layer (OSI model)]]
+
+*** Back
+The [...] handles protocol conversion, data encryption, data decryption, data compression, data decompression, incompatibility of data formats between operating systems, and graphic commands. The [...] transforms data into the form that the application layer accepts, to be sent across a network.
+
+*** Source
+[cite:@OSIModel2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-20 Mon 10:26]
+:FC_CREATED: 2023-03-20T17:28:07Z
+:FC_TYPE:  double
+:ID:       beaa2783-01ea-4813-85fa-7623c87eb38f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.60 |   6 |    26.22 | 2023-08-12T19:05:20Z |
+| back     | 2.50 |   2 |     2.00 | 2023-07-06T19:24:44Z |
+:END:
+
+[[id:28c1811a-bfe1-4910-8622-f1568dd7c388][Application layer (OSI model)]]
+
+*** Back
+Layer which provides protocols that allow software to send and receive information across the network (e.g. HTTP, FTP, SMTP).
+*** Source
+[cite:@WhatOSIModelLayersExplainedImperva]
 #+print_bibliography:

@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       a604cedc-f0a1-4652-8bdf-697b6781ffad
+:ROAM_REFS: [cite:@CollectiveActionProblem2023]
+:LAST_MODIFIED: [2023-07-13 Thu 17:54]
+:END:
+#+title: Collective action problem
+#+hugo_custom_front_matter: :slug "a604cedc-f0a1-4652-8bdf-697b6781ffad"
+#+author: Cash Prokop-Weaver
+#+date: [2023-04-02 Sun 09:50]
+#+filetags: :concept:
+
+#+begin_quote
+A collective action problem or social dilemma is a situation in which all individuals would be better off cooperating but fail to do so because of conflicting interests [[[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]]] between individuals that discourage joint action.
+
+[cite:@CollectiveActionProblem2023]
+#+end_quote
+
+Related:
+
+- [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] for a personification of the [[id:a604cedc-f0a1-4652-8bdf-697b6781ffad][Collective action problem]]
+- [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-04-02 Sun 09:51]
+:FC_CREATED: 2023-04-02T16:52:18Z
+:FC_TYPE:  double
+:ID:       a01d7425-fa7f-4b92-a7cd-7d3c6a309ac4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    80.72 | 2023-09-08T13:37:18Z |
+| back     | 2.50 |   6 |    80.73 | 2023-10-02T18:18:52Z |
+:END:
+
+[[id:a604cedc-f0a1-4652-8bdf-697b6781ffad][Collective action problem]]
+
+*** Back
+A situation in which all individuals would be better off cooperating but fail to do so because of conflicting interests [[[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]]] between individuals that discourage joint action.
+*** Source
+[cite:@CollectiveActionProblem2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-04-02 Sun 09:52]
+:FC_CREATED: 2023-04-02T16:52:44Z
+:FC_TYPE:  cloze
+:ID:       25dcf2f6-aeb9-433f-af90-04e3dadda216
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   113.54 | 2023-10-24T13:53:12Z |
+|        1 | 2.50 |   6 |    92.36 | 2023-10-08T08:58:22Z |
+:END:
+
+{{[[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]}@0} is a personification of {{the [[id:a604cedc-f0a1-4652-8bdf-697b6781ffad][Collective action problem]]}@1}.
+
+*** Source
+Me
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       75a95d65-3fcd-4f92-8d9a-26fe88fbcd01
-:LAST_MODIFIED: [2023-03-15 Wed 08:06]
+:LAST_MODIFIED: [2023-03-26 Sun 06:26]
 :END:
 #+title: Death of a euphamism
 #+hugo_custom_front_matter: :slug "75a95d65-3fcd-4f92-8d9a-26fe88fbcd01"
@@ -26,7 +26,7 @@ See [[id:42c2aa22-7172-4a1e-a707-e3dc0f3c2684][Ian Danskin | The Death of a Euph
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   261.09 | 2023-12-01T17:18:33Z |
-| back     | 2.95 |   6 |   102.15 | 2023-03-20T23:30:21Z |
+| back     | 2.95 |   7 |   287.12 | 2024-01-02T20:21:14Z |
 :END:
 [[id:75a95d65-3fcd-4f92-8d9a-26fe88fbcd01][Death of a euphamism]]
 *** Back
@@ -44,7 +44,7 @@ The point at which those who would have previously used a euphemism instead of s
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   313.48 | 2023-12-25T16:18:34Z |
-| back     | 2.50 |   6 |    82.23 | 2023-03-25T20:41:58Z |
+| back     | 2.50 |   7 |   218.70 | 2023-10-31T06:12:30Z |
 :END:
 [[id:75a95d65-3fcd-4f92-8d9a-26fe88fbcd01][Death of a euphamism]]
 *** Back

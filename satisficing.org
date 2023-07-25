@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       28e41536-e061-4f49-8423-94f0147b49b9
+:LAST_MODIFIED: [2023-07-05 Wed 21:12]
+:ROAM_REFS: [cite:@Satisficing2023]
+:END:
+#+title: Satisficing
+#+hugo_custom_front_matter: :slug "28e41536-e061-4f49-8423-94f0147b49b9"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-06 Tue 08:46]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met.
+
+[cite:@Satisficing2023]
+#+end_quote
+
+Related: [[id:3dd67ed4-d1d5-47f4-982d-164f55c8a4ff][Good enough]]
+
+* Flashcards
+** [[id:28e41536-e061-4f49-8423-94f0147b49b9][Satisficing]] :fc:
+:PROPERTIES:
+:CREATED: [2023-06-06 Tue 08:47]
+:FC_CREATED: 2023-06-06T15:47:52Z
+:FC_TYPE:  vocab
+:ID:       63677eab-5b67-49c4-bc61-71e79fbf9bc7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    41.62 | 2023-08-13T16:10:12Z |
+| back     | 2.50 |   5 |    34.73 | 2023-08-09T21:39:14Z |
+:END:
+
+#+begin_quote
+a decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met.
+#+end_quote
+
+*** Source
+[cite:@Satisficing2023]
+#+print_bibliography:

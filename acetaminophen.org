@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2e981d20-0244-4ff1-ad21-4024fc24630f
-:LAST_MODIFIED: [2023-01-07 Sat 07:03]
+:LAST_MODIFIED: [2023-06-01 Thu 18:11]
 :END:
 #+title: Acetaminophen
 #+hugo_custom_front_matter: :slug "2e981d20-0244-4ff1-ad21-4024fc24630f"
@@ -10,10 +10,7 @@
 
 * TODO [#2] Expand :noexport:
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-** AKA :fc:
+** TODO [#2] AKA :fc:suspended:
 :PROPERTIES:
 :ID:       f6c7c7d9-6f87-494b-83dc-585e3de98d9b
 :ANKI_NOTE_ID: 1658321058194
@@ -25,7 +22,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   137.74 | 2023-04-23T09:28:44Z |
+|        0 | 1.90 |   4 |    10.30 | 2023-06-09T23:25:51Z |
 |        1 | 2.50 |   9 |   225.57 | 2023-08-21T04:39:08Z |
 :END:
 - {{[[id:2e981d20-0244-4ff1-ad21-4024fc24630f][Acetaminophen]]}@0}

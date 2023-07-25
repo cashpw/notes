@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8
+:LAST_MODIFIED: [2023-07-16 Sun 06:59]
+:ROAM_REFS: [cite:@StdVariant]
+:END:
+#+title: std::variant
+#+hugo_custom_front_matter: :slug "cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-11 Thu 10:19]
+#+filetags: :concept:
+
+A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]].
+
+=std::variant= is a discriminating [[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]; a =union= that tracks the "active" member.
+
+#+begin_src C++
+#include <string>
+#include <variant>
+
+struct Entry {
+  std::string name;
+  std::variant<std::string, int, double> value;
+};
+
+int main() {
+  Entry e;
+  e.name = "foo";
+  e.value = 14;
+
+  if (std::holds_alternative<std::string>(e.value)) {
+    return 0;
+  }
+
+  if (std::holds_alternative<double>(e.value)) {
+    return 1;
+  }
+
+  if (std::holds_alternative<int>(e.value)) {
+    return 2;
+  }
+}
+#+end_src
+
+#+RESULTS:
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 10:20]
+:FC_CREATED: 2023-05-11T17:21:22Z
+:FC_TYPE:  cloze
+:ID:       9d02aa24-cb42-40f9-bf52-9d884c96f00b
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |    87.18 | 2023-10-11T18:23:17Z |
+|        1 | 2.50 |   5 |    42.79 | 2023-07-31T09:17:50Z |
+:END:
+
+Prefer {{[[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]}@0} to {{naked [[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]}@1}.
+
+*** Source
+[cite:@stroustrupTour2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 10:31]
+:FC_CREATED: 2023-05-11T17:33:48Z
+:FC_TYPE:  cloze
+:ID:       01bbc830-8143-42e0-b8ec-60a856e2aef6
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   5 |    24.57 | 2023-07-26T04:02:04Z |
+|        1 | 2.50 |   5 |    39.84 | 2023-07-26T11:40:21Z |
+:END:
+
+Use {{=std::holds_alternative<type>=}@0} to test the type held in a {{[[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]}@1}.
+
+*** Source
+[cite:@StdVariant]
+#+print_bibliography:

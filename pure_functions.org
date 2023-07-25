@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       426b6e66-710b-4d01-8ff0-f5311478260c
-:LAST_MODIFIED: [2023-03-05 Sun 09:26]
+:LAST_MODIFIED: [2023-05-20 Sat 17:35]
 :END:
 #+title: Pure functions
 #+hugo_custom_front_matter: :slug "426b6e66-710b-4d01-8ff0-f5311478260c"
@@ -36,7 +36,7 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   9 |   186.47 | 2023-05-20T03:10:14Z |
+|        0 | 2.65 |  10 |   516.07 | 2024-10-18T02:14:58Z |
 |        1 | 2.80 |   8 |   295.80 | 2023-10-29T09:59:15Z |
 :END:
 
@@ -52,7 +52,7 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   170.64 | 2023-04-24T15:33:21Z |
+| back     | 2.65 |   8 |   489.15 | 2024-08-30T02:04:48Z |
 | front    | 2.65 |   8 |   349.90 | 2024-02-18T15:07:51Z |
 :END:
 

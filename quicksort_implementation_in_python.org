@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed982b37-6f8e-4b89-bb51-ac608510325e
-:LAST_MODIFIED: [2023-03-03 Fri 06:06]
+:LAST_MODIFIED: [2023-06-11 Sun 10:16]
 :END:
 #+title: Quicksort implementation in Python
 #+hugo_custom_front_matter: :slug "ed982b37-6f8e-4b89-bb51-ac608510325e"
@@ -67,7 +67,7 @@ print(quick_sort(a, lambda a, b: a <= b))
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    32.62 | 2023-02-13T05:48:08Z |
+| front    | 2.80 |   7 |   199.36 | 2023-12-28T01:49:39Z |
 :END:
 
 [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]

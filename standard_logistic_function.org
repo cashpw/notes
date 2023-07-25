@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
 :ROAM_REFS: [cite:@LogisticFunction2022]
-:LAST_MODIFIED: [2023-03-18 Sat 06:41]
+:LAST_MODIFIED: [2023-07-23 Sun 20:56]
 :END:
 #+title: Logistic function
 #+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
@@ -41,7 +41,7 @@ $\operatorname{logistic}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\disp
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  11 |   359.88 | 2024-03-12T10:51:51Z |
-| front    | 2.20 |   4 |    13.23 | 2023-03-28T20:35:30Z |
+| front    | 1.90 |   6 |    44.88 | 2023-08-10T13:28:16Z |
 :END:
 
 [[id:671b7c10-9757-4b62-9d05-069dca439f92][Standard logistic function]]
@@ -62,7 +62,7 @@ $\operatorname{fn}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\displaysty
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.05 |  24 |   191.99 | 2023-09-12T15:02:40Z |
-| front    | 1.75 |   7 |    60.94 | 2023-05-13T13:45:12Z |
+| front    | 1.60 |   8 |   100.91 | 2023-08-23T12:38:58Z |
 :END:
 
 [[id:a9bbc185-640a-4182-8bc8-ba43325f0c19][Logistic function]]
@@ -88,8 +88,8 @@ $f(x; L, k, x_0) = \displaystyle \frac{L}{1 + e^{-k(x + x_0)}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    91.70 | 2023-04-28T07:37:54Z |
-| back     | 2.65 |  10 |   171.31 | 2023-05-02T10:08:53Z |
+| front    | 2.20 |   6 |    61.61 | 2023-08-29T07:56:53Z |
+| back     | 2.65 |  11 |   429.87 | 2024-07-13T13:01:58Z |
 :END:
 
 $\operatorname{logistic}(x)$
@@ -129,8 +129,8 @@ $\operatorname{logistic}(x)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   180.89 | 2023-05-14T13:37:50Z |
-|        1 | 2.20 |   7 |   192.45 | 2023-07-18T01:13:14Z |
+|        0 | 2.50 |   8 |   445.19 | 2024-08-02T21:56:40Z |
+|        1 | 1.90 |   3 |     6.00 | 2023-07-30T03:56:44Z |
 :END:
 {{$\operatorname{logistic}(x)$}{function}@0} $=$ {{$\displaystyle \frac{e^x}{e^x + 1}$}{fraction}@1}
 

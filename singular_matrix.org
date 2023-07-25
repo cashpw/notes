@@ -2,7 +2,7 @@
 :ID:       9a804f64-5cb5-4ead-911f-f3c87eedb369
 :ROAM_ALIASES: "Non-invertible matrix" "Degenerate matrix"
 :ROAM_REFS: [cite:@InvertibleMatrix2022]
-:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:LAST_MODIFIED: [2023-07-02 Sun 18:07]
 :END:
 #+title: Singular matrix
 #+hugo_custom_front_matter: :slug "9a804f64-5cb5-4ead-911f-f3c87eedb369"
@@ -28,9 +28,9 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is n
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   117.46 | 2023-06-26T15:10:28Z |
-|        1 | 2.50 |   8 |   169.39 | 2023-06-29T01:27:44Z |
-|        2 | 2.45 |  12 |    98.54 | 2023-04-14T04:15:31Z |
+|        0 | 2.35 |   8 |   271.42 | 2024-03-24T02:18:08Z |
+|        1 | 2.50 |   9 |   395.05 | 2024-07-28T22:01:52Z |
+|        2 | 2.00 |   6 |    42.17 | 2023-08-08T19:40:22Z |
 :END:
 - {{[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Singular matrix]]}@0}
 - {{[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Non-invertible matrix]]}@1}
@@ -47,8 +47,8 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is n
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   6 |    64.94 | 2023-04-13T21:18:51Z |
-| back     | 2.65 |   6 |   119.40 | 2023-07-02T00:50:29Z |
+| front    | 1.90 |   7 |   125.33 | 2023-08-20T23:43:51Z |
+| back     | 2.65 |   7 |   323.63 | 2024-05-21T16:16:16Z |
 :END:
 
 [[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Singular matrix]]

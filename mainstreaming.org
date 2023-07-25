@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       111a6e96-cead-445c-8061-2b7498d7f9a3
-:LAST_MODIFIED: [2023-02-12 Sun 09:46]
+:LAST_MODIFIED: [2023-07-02 Sun 18:18]
 :END:
 #+title: Mainstreaming
 #+hugo_custom_front_matter: :slug "111a6e96-cead-445c-8061-2b7498d7f9a3"
@@ -12,9 +12,6 @@ The process by which a group or idea from the fringes moves toward the center.
 
 See [[id:de73d179-937a-4d95-9c1b-0ea865d0e469][Ian Danskin | Mainstreaming]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       d299827f-9860-4b62-82d3-727a27fa29ed
@@ -25,8 +22,8 @@ See [[id:de73d179-937a-4d95-9c1b-0ea865d0e469][Ian Danskin | Mainstreaming]] and
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   160.58 | 2023-06-05T06:24:50Z |
-| front    | 2.20 |   7 |   128.23 | 2023-04-26T00:21:09Z |
+| back     | 2.65 |   8 |   446.87 | 2024-08-25T11:56:32Z |
+| front    | 2.20 |   8 |   302.53 | 2024-02-27T07:20:01Z |
 :END:
 [[id:111a6e96-cead-445c-8061-2b7498d7f9a3][Mainstreaming]]
 *** Back
@@ -43,8 +40,8 @@ The process by which a group or idea from the fringes moves toward the center.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   125.32 | 2023-05-23T23:02:28Z |
-| back     | 2.80 |   6 |   139.78 | 2023-07-02T12:27:14Z |
+| front    | 2.80 |   7 |   351.62 | 2024-05-10T11:15:44Z |
+| back     | 2.80 |   7 |   407.44 | 2024-08-13T11:59:25Z |
 :END:
 [[id:111a6e96-cead-445c-8061-2b7498d7f9a3][Mainstreaming]]
 *** Back

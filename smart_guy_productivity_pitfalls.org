@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SmartGuyProductivityPitfalls]
 :ID:       9ed16182-a4a5-4bf6-a5c7-b6196c6eca97
-:LAST_MODIFIED: [2022-12-20 Tue 15:37]
+:LAST_MODIFIED: [2023-07-22 Sat 20:47]
 :END:
 #+title: Smart Guy Productivity Pitfalls
 #+hugo_custom_front_matter: :slug "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
@@ -12,7 +12,7 @@
 Unknown, [cite:@SmartGuyProductivityPitfalls]
 
 * Summary
-The simplicity of "Work smart, not hard" is deceptive. It's too easy to conclude that you don't need to work hard -- only smart. This is wrong. It's necessary to
+The simplicity of "Work smart, not hard" is deceptive. It's too easy to conclude that you don't need to work hard -- only smart. This is the pitfall.
 * Thoughts
 I feel seen by this years-old blog post and it's unpleasant. Particularly:
 
@@ -109,4 +109,25 @@ I disagree with the author's assessment that solutions such as "turning off the 
 #+end_quote
 
 * Flashcards
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2023-06-22 Thu 20:25]
+:FC_CREATED: 2023-06-23T03:26:00Z
+:FC_TYPE:  double
+:ID:       2b9d5976-1248-447b-a612-f20c051de310
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    32.73 | 2023-08-20T07:13:25Z |
+| back     | 2.50 |   5 |    40.95 | 2023-09-02T02:41:54Z |
+:END:
+
+[[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
+
+*** Back
+- "Work smart, not hard" is better phrased as: "Work smart *and* hard"
+- Don't waste your effort but recognize you *still need to put in effort*
+*** Source
+[cite:@SmartGuyProductivityPitfalls]
 #+print_bibliography:

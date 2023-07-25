@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4b55d2c1-0a98-476e-a3fb-caec175cb0a0
-:LAST_MODIFIED: [2023-01-31 Tue 06:33]
+:LAST_MODIFIED: [2023-07-13 Thu 17:59]
 :END:
 #+title: The best time was yesterday; the second best time is now
 #+hugo_custom_front_matter: :slug "4b55d2c1-0a98-476e-a3fb-caec175cb0a0"
@@ -15,9 +15,6 @@ The best time for \under\under\under[fn:1] was yesterday. The second best time i
 [fn:1] Where X is most things, behaviors, activities, etc.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** The best time for X {{was yesterday. The second best time is now.}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 09:53]
@@ -30,5 +27,5 @@ The best time for \under\under\under[fn:1] was yesterday. The second best time i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   6 |    52.66 | 2023-03-25T06:27:16Z |
+|        0 | 1.90 |   8 |   223.06 | 2024-02-22T02:20:51Z |
 :END:

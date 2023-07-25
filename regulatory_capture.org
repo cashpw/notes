@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7a54dd70-5a68-46f7-83e2-f0f0992c26c4
-:LAST_MODIFIED: [2023-03-14 Tue 08:09]
+:LAST_MODIFIED: [2023-05-31 Wed 08:31]
 :END:
 #+title: Regulatory capture
 #+hugo_custom_front_matter: :slug "7a54dd70-5a68-46f7-83e2-f0f0992c26c4"
@@ -28,7 +28,7 @@ Often the ultimate goal is [[id:7b600674-2c87-4532-b676-a6e025fca18e][Rent-seeki
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   102.59 | 2023-05-30T17:36:04Z |
+| front    | 2.80 |   7 |   286.70 | 2024-03-13T08:21:51Z |
 | back     | 2.65 |   6 |   140.62 | 2023-08-02T05:55:33Z |
 :END:
 

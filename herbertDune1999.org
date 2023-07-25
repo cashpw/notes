@@ -2,6 +2,7 @@
 :ROAM_REFS: [cite:@herbertDune1999]
 :ID:       68077361-66a6-4abe-b00f-dfb3d83630f2
 :ROAM_ALIASES: Dune
+:LAST_MODIFIED: [2023-03-24 Fri 10:48]
 :END:
 #+title: Frank Herbert | Dune
 #+hugo_custom_front_matter: :slug "68077361-66a6-4abe-b00f-dfb3d83630f2"
@@ -14,8 +15,4 @@
 A note for the first book in the Dune series as well as a shorthand for the series as a whole.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 #+print_bibliography:

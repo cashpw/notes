@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@salamonHumansAreNotAutomaticallyStrategic2010]
 :ID:       3bac7cee-9146-45df-be28-bb51ac48be68
 :DIR:      /home/cashweaver/proj/roam/attachments/3bac7cee-9146-45df-be28-bb51ac48be68
-:LAST_MODIFIED: [2023-02-26 Sun 08:17]
+:LAST_MODIFIED: [2023-05-25 Thu 07:12]
 :END:
 #+title:  Anna Salamon | Humans Are Not Automatically Strategic
 #+hugo_custom_front_matter: :slug "3bac7cee-9146-45df-be28-bb51ac48be68"
@@ -43,7 +43,7 @@ But there are clearly also heuristics that would be useful to goal-achievement (
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Describe :fc:
+** Summarize :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 08:47]
 :FC_CREATED: 2022-11-23T16:48:41Z
@@ -53,8 +53,8 @@ But there are clearly also heuristics that would be useful to goal-achievement (
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    58.12 | 2023-04-06T21:20:58Z |
-| back     | 2.50 |   6 |    87.40 | 2023-05-25T01:50:36Z |
+| front    | 2.20 |   7 |   139.32 | 2023-08-25T22:53:23Z |
+| back     | 2.50 |   7 |   209.52 | 2023-12-21T02:46:23Z |
 :END:
 
 [[id:3bac7cee-9146-45df-be28-bb51ac48be68][Anna Salamon | Humans Are Not Automatically Strategic]]

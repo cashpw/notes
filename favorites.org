@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       2a586a0e-eddc-4903-9c90-7e3a91e3204c
+:LAST_MODIFIED: [2023-06-23 Fri 07:55]
 :END:
 #+title: Favorites
 #+hugo_custom_front_matter: :slug "2a586a0e-eddc-4903-9c90-7e3a91e3204c"
@@ -9,6 +10,22 @@
 
 Some of my favorite things.
 
-- [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
+* Essays
+- [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
+- [[id:e02451fc-c9d5-4c02-849b-d9b7d4cc95a7][Derek Sivers | There's No Speed Limit]] ([[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]])
+- [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]]
+- [[id:617eec3a-89c3-4b9f-9074-47d4bf4e69fd][Ben Kuhn | To Listen Well, Get Curious]]
+- [[id:4625d068-26fe-47d7-93b3-da12b0151ca1][Ben Kuhn | Attention Is Your Scarcest Resource]]
+
+* Concepts
+- [[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][Attention capital theory]]
+- [[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]]
+- [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
+
+* Tools
+- [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]], [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]], [[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]]
+
+* Quotes
+- [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The first lesson]]
 
 * Flashcards

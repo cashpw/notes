@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13
-:LAST_MODIFIED: [2023-03-18 Sat 06:42]
+:LAST_MODIFIED: [2023-06-07 Wed 08:01]
 :END:
 #+title: Lagrange's notation
 #+hugo_custom_front_matter: :slug "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
@@ -41,8 +41,8 @@ $$f^{(n)}(x)$$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    78.21 | 2023-06-04T18:41:28Z |
-| back     | 2.80 |   5 |    45.16 | 2023-04-22T22:24:59Z |
+| front    | 2.50 |   7 |   214.38 | 2024-01-05T09:08:38Z |
+| back     | 2.80 |   6 |   121.37 | 2023-09-08T01:47:15Z |
 :END:
 
 $f'(x)$
@@ -63,8 +63,8 @@ The first derivative of $f(x)$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    67.48 | 2023-05-17T17:01:55Z |
-|        1 | 2.35 |   5 |    30.08 | 2023-03-30T16:49:11Z |
+|        0 | 2.35 |   7 |   169.86 | 2023-11-04T11:58:06Z |
+|        1 | 2.35 |   7 |   143.64 | 2023-10-29T06:17:14Z |
 :END:
 
 {{$f'(x)$}{notation}@0} $=$ {{$\frac{d(f(x))}{dx}$}{notation}@1}

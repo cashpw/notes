@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4c05e5da-c14c-45b8-9284-af1dda8dd3a6
 :ROAM_REFS: [cite:@DictatorGame2022]
-:LAST_MODIFIED: [2023-03-10 Fri 21:22]
+:LAST_MODIFIED: [2023-07-20 Thu 08:24]
 :END:
 #+title: Dictator game
 #+hugo_custom_front_matter: :slug "4c05e5da-c14c-45b8-9284-af1dda8dd3a6"
@@ -25,8 +25,8 @@ The [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]] is [...] a deriva
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   138.19 | 2023-06-08T18:54:09Z |
-| back     | 2.95 |   6 |   129.35 | 2023-07-18T13:48:08Z |
+| front    | 3.10 |   7 |   462.66 | 2024-09-14T07:22:51Z |
+| back     | 2.95 |   7 |   372.90 | 2024-07-27T12:57:08Z |
 :END:
 
 [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]]
@@ -48,8 +48,8 @@ A two-player game in which the first player decides how to split an amount of mo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   104.51 | 2023-05-02T02:39:41Z |
-|        1 | 2.80 |   6 |   128.35 | 2023-06-25T23:18:41Z |
+|        0 | 2.95 |   7 |   331.33 | 2024-03-30T05:44:03Z |
+|        1 | 2.80 |   7 |   351.95 | 2024-06-12T15:12:34Z |
 :END:
 
 *** Source
@@ -64,7 +64,7 @@ A two-player game in which the first player decides how to split an amount of mo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   114.91 | 2023-04-28T14:30:33Z |
+| front    | 2.80 |   7 |   320.83 | 2024-03-15T10:26:24Z |
 :END:
 
 [[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]] and [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]]

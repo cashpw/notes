@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       69b3ebf4-c54d-424b-9479-e06e7c905433
 :ROAM_REFS: [cite:@SurjectiveFunction2022]
-:LAST_MODIFIED: [2023-02-23 Thu 19:44]
+:LAST_MODIFIED: [2023-07-07 Fri 17:16]
 :END:
 #+title: Surjective function
 #+hugo_custom_front_matter: :slug "69b3ebf4-c54d-424b-9479-e06e7c905433"
@@ -30,8 +30,8 @@ In mathematics, a surjective function (also known as surjection, or onto functio
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   185.78 | 2023-06-04T12:40:11Z |
-| back     | 2.30 |   6 |    77.21 | 2023-04-05T20:37:27Z |
+| front    | 2.65 |   9 |   538.91 | 2024-11-24T21:50:47Z |
+| back     | 2.30 |   7 |   164.64 | 2023-09-18T11:58:03Z |
 :END:
 
 [[id:69b3ebf4-c54d-424b-9479-e06e7c905433][Surjective function]]
@@ -52,7 +52,7 @@ In mathematics, a surjective function (also known as surjection, or onto functio
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   8 |   266.82 | 2023-11-17T23:24:21Z |
-|        1 | 2.65 |   9 |   146.64 | 2023-03-22T06:52:00Z |
+|        1 | 2.65 |  10 |   422.22 | 2024-05-17T19:14:05Z |
 :END:
 
 - {{[[id:69b3ebf4-c54d-424b-9479-e06e7c905433][Surjective function]]}@0}
@@ -61,18 +61,18 @@ In mathematics, a surjective function (also known as surjection, or onto functio
 *** Source
 [cite:@SurjectiveFunction2022]
 
-** Definition (Math) :fc:
+** Definition :fc:
 :PROPERTIES:
-:ID:       6698df88-24b8-40a1-99f3-5fc1555b1591
 :ANKI_NOTE_ID: 1640627860345
 :FC_CREATED: 2021-12-27T17:57:40Z
 :FC_TYPE:  double
+:ID:       bbbd049c-0731-4ed6-a791-1c1f9fadf594
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.55 |   7 |    51.68 | 2023-03-27T08:44:18Z |
-| front    | 2.65 |   9 |   146.19 | 2023-04-10T19:05:50Z |
+| back     | 1.30 |   9 |    29.40 | 2023-08-06T09:52:43Z |
+| front    | 2.05 |   6 |    57.55 | 2023-08-26T10:00:39Z |
 :END:
 
 [[id:69b3ebf4-c54d-424b-9479-e06e7c905433][Surjective function]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4
-:LAST_MODIFIED: [2023-01-12 Thu 15:02]
+:LAST_MODIFIED: [2023-03-24 Fri 10:58]
 :END:
 #+title: X isn't (only) about Y
 #+hugo_custom_front_matter: :slug "064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4"
@@ -40,5 +40,5 @@ The above summarizes much of my contrarian world view.  (What else should go on 
 
 Related: [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]] and [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]].
 
-* Flashcards
+* TODO [#2] Flashcards
 #+print_bibliography:

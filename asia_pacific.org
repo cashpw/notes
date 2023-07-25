@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       016c8f40-349d-407a-95c5-bccc27d9bed8
+:ROAM_ALIASES: APAC
+:ROAM_REFS: [cite:@AsiaPacific2023]
+:LAST_MODIFIED: [2023-07-19 Wed 06:43]
+:END:
+#+title: Asia-Pacific
+#+hugo_custom_front_matter: :slug "016c8f40-349d-407a-95c5-bccc27d9bed8"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-22 Mon 10:25]
+#+filetags: :concept:
+
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-05-22 Mon 10:25]
+:FC_CREATED: 2023-05-22T17:25:43Z
+:FC_TYPE:  cloze
+:ID:       39a8722e-72af-428a-92ee-c1f69aea6db5
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   6 |    56.28 | 2023-09-13T20:27:54Z |
+|        1 | 2.50 |   5 |    31.94 | 2023-07-26T12:04:39Z |
+:END:
+
+- {{[[id:016c8f40-349d-407a-95c5-bccc27d9bed8][Asia-Pacific]]}@0}
+- {{[[id:016c8f40-349d-407a-95c5-bccc27d9bed8][APAC]]}@1}
+
+*** Source
+[cite:@AsiaPacific2023]
+#+print_bibliography:

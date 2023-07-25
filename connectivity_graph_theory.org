@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9ee639e1-b92d-4bdb-8d13-9c53e22bf945
 :ROAM_REFS: [cite:@ConnectivityGraphTheory2022]
-:LAST_MODIFIED: [2023-03-17 Fri 07:13]
+:LAST_MODIFIED: [2023-06-27 Tue 08:32]
 :END:
 #+title: Connectivity (Graph theory)
 #+hugo_custom_front_matter: :slug "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
@@ -80,8 +80,8 @@ A directed graph [[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    50.65 | 2023-04-28T09:45:56Z |
-|        1 | 2.80 |   5 |    41.74 | 2023-04-24T08:45:04Z |
+|        0 | 2.80 |   6 |   134.98 | 2023-09-13T23:12:01Z |
+|        1 | 2.80 |   6 |   116.44 | 2023-09-02T03:46:52Z |
 :END:
 
 Two vertices, $u$ and $v$, in a graph, $G$, are {{connected}@0} when {{there exists a [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]] between $u$ and $v$}@1}.
@@ -98,8 +98,8 @@ Two vertices, $u$ and $v$, in a graph, $G$, are {{connected}@0} when {{there exi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    50.25 | 2023-04-29T09:01:49Z |
-| back     | 2.80 |   5 |    47.69 | 2023-05-01T07:49:00Z |
+| front    | 2.65 |   6 |   143.96 | 2023-09-24T14:45:51Z |
+| back     | 2.95 |   6 |   152.74 | 2023-10-09T10:16:45Z |
 :END:
 
 [[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]]
@@ -118,74 +118,14 @@ A graph whose vertices are all connected.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    48.29 | 2023-04-14T10:46:37Z |
-| back     | 2.50 |   5 |    34.39 | 2023-04-06T01:16:24Z |
+| front    | 3.10 |   6 |   153.74 | 2023-10-02T17:18:44Z |
+| back     | 2.50 |   7 |   187.22 | 2023-12-31T20:52:01Z |
 :END:
 
 [[id:59479a24-ff8a-4119-9c2c-a81fed2f8985][Disconnected graph]]
 
 *** Back
 A graph with at least one vertex which isn't connected.
-*** Source
-[cite:@ConnectivityGraphTheory2022]
-** Definition :fc:
-:PROPERTIES:
-:CREATED: [2023-01-28 Sat 13:41]
-:FC_CREATED: 2023-01-28T21:41:57Z
-:FC_TYPE:  double
-:ID:       0c18d801-136e-419c-a58d-9a217b1910f8
-:END:
-:REVIEW_DATA:
-| position | ease | box | interval | due                  |
-|----------+------+-----+----------+----------------------|
-| front    | 2.20 |   5 |    24.06 | 2023-04-06T16:24:03Z |
-| back     | 2.65 |   5 |    41.73 | 2023-04-28T07:43:09Z |
-:END:
-
-[[id:eec29aba-ca7d-4462-8d47-1fe86377ca10][Weakly connected graph]]
-
-*** Back
-A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] which would be [[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][connected]] if you were to replace the directed edges with undirected edges.
-*** Source
-[cite:@ConnectivityGraphTheory2022]
-** Definition :fc:
-:PROPERTIES:
-:CREATED: [2023-01-28 Sat 13:42]
-:FC_CREATED: 2023-01-28T21:43:36Z
-:FC_TYPE:  double
-:ID:       5109c83d-72ee-4b91-b96f-90abc731eddf
-:END:
-:REVIEW_DATA:
-| position | ease | box | interval | due                  |
-|----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    39.71 | 2023-04-19T22:28:39Z |
-| back     | 2.65 |   5 |    40.91 | 2023-04-27T11:03:42Z |
-:END:
-
-[[id:f761e11f-71c5-49b6-a480-c42c5c067fd5][Unilaterally connected graph]]
-
-*** Back
-A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] which contains a path from $u \to v$ or from $v \to u$ for every pair of vertices $u$, $v$.
-*** Source
-[cite:@ConnectivityGraphTheory2022]
-** Definition :fc:
-:PROPERTIES:
-:CREATED: [2023-01-28 Sat 13:44]
-:FC_CREATED: 2023-01-28T21:45:02Z
-:FC_TYPE:  double
-:ID:       40582c60-4b25-4248-af46-546b19317693
-:END:
-:REVIEW_DATA:
-| position | ease | box | interval | due                  |
-|----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    53.44 | 2023-04-21T02:20:43Z |
-| back     | 2.80 |   5 |    48.58 | 2023-04-28T19:15:00Z |
-:END:
-
-[[id:b2774fef-e5fb-4557-96bf-6e9e8c47a96a][Strongly connected graph]]
-
-*** Back
-A [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] which contains paths from $u \to v$ and $v \to u$ for every pair of vertices $u$, $v$.
 *** Source
 [cite:@ConnectivityGraphTheory2022]
 #+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a
 :ROAM_REFS: [cite:@MainDiagonal2022]
-:LAST_MODIFIED: [2023-02-26 Sun 07:51]
+:LAST_MODIFIED: [2023-06-20 Tue 08:15]
 :END:
 #+title: Main diagonal
 #+hugo_custom_front_matter: :slug "a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a"
@@ -31,8 +31,8 @@ In linear algebra, the main diagonal (sometimes principal diagonal, primary diag
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   116.59 | 2023-06-14T04:58:27Z |
-| back     | 2.80 |   6 |   113.27 | 2023-06-19T22:17:01Z |
+| front    | 2.80 |   7 |   332.82 | 2024-05-12T20:15:25Z |
+| back     | 2.95 |   7 |   344.31 | 2024-05-29T22:48:42Z |
 :END:
 
 [[id:a61c410c-f8ea-4bdd-92c8-2f8d037dfe6a][Main diagonal]]

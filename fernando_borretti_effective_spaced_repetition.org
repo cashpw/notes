@@ -1,0 +1,185 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@borrettiEffectiveSpacedRepetition2023]
+:ID:       ec2a6f22-dad5-4615-a2a9-c5313229ff5d
+:LAST_MODIFIED: [2023-04-11 Tue 17:03]
+:END:
+#+title: Fernando Borretti | Effective Spaced Repetition
+#+hugo_custom_front_matter: :slug "ec2a6f22-dad5-4615-a2a9-c5313229ff5d"
+#+author: Cash Weaver
+#+date: [2023-04-11 Tue 15:21]
+#+filetags: :has_todo:reference:
+
+[[id:f30176d6-adc0-43be-bc31-d4ab25bfe772][Fernando Borretti]], [cite:@borrettiEffectiveSpacedRepetition2023]
+
+* Summary
+On [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]].
+* TODO Thoughts
+* INPROGRESS Notes
+#+begin_quote
+There are two main limiting factors to effective spaced repetition:
+
+1. Habit Formation
+
+   For spaced repetition to be useful, it has to be a habit. I drill flashcards every day as part of my morning routine. But habit formation is difficult, doubly so for people who have ADHD or are low in conscientiousness.
+
+   The reason you have to do it every day is that the spaced repetition algorithm schedules the reviews for you, freeing you from having to do that manually. But you don't know what cards are due in a given day until you open the app. And if you skip a day, those cards pile up and are due the next day.
+
+   A common failure mode (and I did this more than once, before I got the hang of it) is to use Anki for two weeks, then drop it, and pick it back up six months later only to find you have 600 cards due for review. This is not encouraging, and it defeats the point of spaced repetition, which is to review the cards on the intervals the algorithm chooses.
+
+2. Card-Writing Skills
+
+   Writing effective flashcards is a skill that took me a while to acquire. Many of the cards I wrote in the first four or six months of using spaced repetition consistently turned out pretty much useless, and this can be frustrating. The main reason to write this post was to communicate the lessons I learnt so you can jump in to using spaced repetition effectively from the start.
+
+   One reason this can be frustrating is you'll often remember a flashcard for the first few weeks of it (when you're seeing it with high frequency), but after a couple of months, you start failing it. It didn't take root in your long term memory, because it was poorly written in some way. And this long feedback cycle means it takes time to acquire these skills through trial and error.
+
+[frmatting mine]
+#+end_quote
+
+** Rules
+
+*** Understand First
+#+begin_quote
+Don't try to memorize what you don't understand. The concepts should be clear in your head before you try to commit them to memory. "Clear" can be a fuzzy thing. What I tend to do is: dig, expand, and clarify the text until I'm comfortable I have a good grasp of this region of the concept graph, and then write the flashcards.
+#+end_quote
+
+*** Be Honest
+#+begin_quote
+The software doesn't know whether you recalled something correctly or not. You are only accountable to yourself. If you recalled something wrong, or not quite right, err on the side of caution and mark it forgotten.
+#+end_quote
+
+*** Keep It Fun
+#+begin_quote
+This is /crucial/ to maintaining the habit. If reviewing flashcards feels like a chore, you will become averse to doing it.
+
+I used to frequently have this problem. I solved it in a few ways:
+
+1. Having a diverse knowledge base you're drilling helps, so you are not bored by going through the same topic for a long time. Typically, spaced repetition software will shuffle the cards, so that if you're drilling all the cards across all decks, you will be surprised often.
+2. A common source of frustration is cards that are too long to recall quickly, and thus feel like a chore. Break big cards down into smaller cards. It feels good to be able to fly through the cards quickly.
+3. Cards that are difficult to recall are very frustrating. I solved this by applying the rules described in this post.
+#+end_quote
+
+*** Repeat Yourself
+#+begin_quote
+Memory is frequency times volume. Individual cards should be extremely brief, but your deck as a whole can be as repetitive as you want.
+#+end_quote
+
+*** Organize by Source
+#+begin_quote
+Organize content by source, not topic.
+
+The reason is you'll often bring in information from multiple sources: multiple textbooks, plus Wikipedia, plus lecture notes, etc. Each one of these sources likely has a different way of organizing knowledge.
+
+Don't waste time trying to find the perfect ontology.
+
+Make a deck for each source. In the case of textbooks, make a sub-deck for each chapter. In the case of math textbooks, possibly make a sub-sub-deck in each chapter to put theorem cards.
+
+This also makes it easier to keep track of how far along you got into a text.
+#+end_quote
+
+*** Write Atomic Flashcards
+:PROPERTIES:
+:ID:       5819da38-1d40-498f-a915-dc2b4596846b
+:END:
+
+#+begin_quote
+Cards should be short. They should refer to as little information as possible. They should be like chemical bonds, linking individual /atoms/ of knowledge.
+
+/This is the most important thing./ By far the worst failure mode is to put too much in a flashcard.
+
+There's two reasons for this rule:
+
+1. Larger cards are harder to remember.
+2. It's harder to objectively grade yourself: when you reveal the answer, you might have got some things right and some things wrong. If you click forget, you will be over-reviewing the parts you already know. If you click remembered, you will under-review the parts you forgot.
+
+There is one exception to this: you can have big cards if you also have smaller cards that add up to the same information. You can think of the larger card as testing that you can collate the information from the smaller cards.
+#+end_quote
+
+*** Write Two-Way Questions
+:PROPERTIES:
+:ID:       5eaddd36-abc6-428a-8dae-d2a0466c196f
+:END:
+
+#+begin_quote
+When possible, ask questions in two directions.
+
+Whenever you have a term with a definition, the obvious thing to do is to ask for the definition from the term, e.g.:
+
+#+begin_quote2
+Q: What is the order of a group?
+
+A: The cardinality of its underlying set.
+#+end_quote2
+
+But you can also ask for the term from the definition, e.g.:
+
+#+begin_quote2
+Q: What is the term for the cardinality of a group?
+
+A: The group's order.
+#+end_quote2
+
+When you have some notation, like \(\mathbb{R}\) for the real numbers, or \(\dim V\) for the dimension of a vector space, the natural thing to ask is what the notation means.
+
+#+begin_quote2
+Q: What does \(\mathbb{R}\) stand for?
+
+A: The set of real numbers.
+#+end_quote2
+
+You can also ask the question backwards:
+
+#+begin_quote2
+Q: What is the notation for the set of real numbers?
+
+A: \(\mathbb{R}\)R
+#+end_quote2
+
+#+end_quote
+
+*** Ask Questions in Multiple Ways
+Ask questions in multiple ways. Ask for formal and informal definitions of terms. Ask for the formal and informal statements of a theorem. Ask questions forwards and backwards. Add contextual questions: "what is the intutition for [concept]?". Add questions that link different concepts across your knowledge graph.
+
+The more interlinked your knowledge graph is, the better.
+
+*** Concept Graphs
+It can help to visualize the concepts you're acquiring as being like a graph, where each node represents a discrete concept having certain properties, and the edges in the graphs are questions which get you from one concept to another.
+
+*** Learning Hierarchies
+A lot of knowledge is hierarchical, of the form "Foo can be either A, B, or C", or, dually, "A is a kind of Foo". By analogy to OOP: these concepts are joined by superclass and subclass relations.
+
+The idea is to ask questons in the top down direction ("What are the subclasses of Foo?") and the bottom-up direction ("What is Bar a subclass of?").
+
+This ties into keeping flashcards atomic. Even when some information is not hierarchical, intrinsically, breaking down large flashcards into smaller flashcards is fundamentally building a hierarchy of flashcards.
+
+*** Learning Sequences
+In general, to learn a sequence \((A_{1},\ldots,A_{n})\)(A1​<<>>,...,An​<<>>), you want to generate the following flashcards for each \(i \in \lbrack 1,n\rbrack\)i∈[1,n]:
+
+| Question                                   | Answer                |
+|--------------------------------------------+-----------------------|
+| What is the \(i\)i-th element?             | \(A_{i}\)Ai​<<>>       |
+| What is the position of \(A_{i}\)Ai​<<>>?   | \(i\)i                |
+| What element comes after \(A_{i}\)Ai​<<>>?  | \(A_{i + 1}\)Ai+1​<<>> |
+| What element comes before                  | \(A_{i - 1}\)Ai−1​<<>> |
+| \(A_{i}\)Ai​<<>>?                           |                       |
+
+You might also want:
+
+1. A **test card:* a flashcard asking you to recite the sequence from beginning to end.
+2. A **cloze sequence:* flashcard with a cloze deletion for each element in the sequence, to fill in the blank given the context.
+
+The [[https://borretti.me/article/effective-spaced-repetition#seq-script][sequence script]] can generate these for you.
+
+How thorough you want to be depends on the nature of the information. Most of the time I use a cloze card and a test card.
+
+Another type of card you might use (I use this to memorize poems) is a card that gives you some context (the previous one or two items in the sequence) and asks you to fill in the blank. For example, if you wanted to learn the sequence (A, B, C, D), you might have these flashcards:
+
+| Question            | Answer |
+|---------------------+--------|
+| /Beginning/, ...    | A      |
+| /Beginning/, A, ... | B      |
+| A, B, ...           | C      |
+| B, C, ...           | D      |
+
+The [[https://borretti.me/article/effective-spaced-repetition#poetry-script][poetry script]] can generate these for you.
+* TODO [#2] Flashcards
+#+print_bibliography:

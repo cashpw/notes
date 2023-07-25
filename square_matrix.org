@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       09208dbb-8043-4ef2-ac56-be944afb1dfa
 :ROAM_REFS: [cite:@SquareMatrix2021]
-:LAST_MODIFIED: [2023-02-17 Fri 07:02]
+:LAST_MODIFIED: [2023-06-04 Sun 17:05]
 :END:
 #+title: Square matrix
 #+hugo_custom_front_matter: :slug "09208dbb-8043-4ef2-ac56-be944afb1dfa"
@@ -29,8 +29,8 @@ In mathematics, a square matrix is a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   110.41 | 2023-06-03T03:16:01Z |
-| back     | 2.80 |   6 |   106.94 | 2023-06-04T13:41:56Z |
+| front    | 2.80 |   7 |   322.50 | 2024-04-21T16:21:48Z |
+| back     | 2.95 |   7 |   323.65 | 2024-04-23T15:35:05Z |
 :END:
 
 [[id:09208dbb-8043-4ef2-ac56-be944afb1dfa][Square matrix]]

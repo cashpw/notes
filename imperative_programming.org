@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a
+:LAST_MODIFIED: [2023-07-13 Thu 17:58]
+:ROAM_REFS: [cite:@ImperativeProgramming2023]
+:END:
+#+title: Imperative programming
+#+hugo_custom_front_matter: :slug "fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-01 Mon 17:46]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, imperative programming is a programming paradigm of software that uses statements that change a program's state. In much the same way that the imperative mood [[[id:39f7e92f-c7df-4d0d-94cd-ef7f39437ec1][Imperative mood]]] in natural languages expresses commands, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates step by step, rather than on high-level descriptions of its expected results.
+
+The term is often used in contrast to declarative programming [[[id:f234a51d-23e4-4050-bf2c-60895a99ee12][Declarative programming]]], which focuses on what the program should accomplish without specifying all the details of how the program should achieve the result.
+
+[cite:@ImperativeProgramming2023]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-05-03 Wed 15:22]
+:FC_CREATED: 2023-05-03T22:23:21Z
+:FC_TYPE:  double
+:ID:       8da2085a-5530-417d-bf1b-188a5f71d48f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    95.02 | 2023-10-17T01:32:28Z |
+| back     | 2.05 |   6 |    68.76 | 2023-09-11T13:36:50Z |
+:END:
+
+[[id:fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a][Imperative programming]]
+
+*** Back
+A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] in which the author writes statements which change a program's state; describes how the program operates step by step.
+*** Source
+[cite:@ImperativeProgramming2023]
+#+print_bibliography:

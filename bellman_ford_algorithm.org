@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2fe284fb-7fbc-4956-9857-db90b66e504e
 :ROAM_REFS: [cite:@BellmanFordAlgorithm2022]
-:LAST_MODIFIED: [2023-03-18 Sat 06:44]
+:LAST_MODIFIED: [2023-07-20 Thu 08:22]
 :END:
 #+title: Bellman-Ford algorithm
 #+hugo_custom_front_matter: :slug "2fe284fb-7fbc-4956-9857-db90b66e504e"
@@ -85,7 +85,7 @@ Since the longest possible path without a cycle can be $|V| - 1$ edges, the edge
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   111.82 | 2023-07-01T01:01:50Z |
+| front    | 2.50 |   7 |   291.51 | 2024-04-17T13:59:00Z |
 :END:
 
 [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
@@ -109,7 +109,7 @@ Since the longest possible path without a cycle can be $|V| - 1$ edges, the edge
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   6 |   133.28 | 2023-07-29T20:12:26Z |
-|        1 | 2.65 |   6 |   102.08 | 2023-06-23T16:27:22Z |
+|        1 | 2.65 |   7 |   269.55 | 2024-03-20T02:35:03Z |
 :END:
 
 Failure cases for {{[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]}@0} are {{[[id:92976e2e-a367-4517-a287-1b4a95db9592][Negative cycles]]}@1}, but not negative edges.
@@ -128,7 +128,7 @@ Failure cases for {{[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    46.97 | 2023-03-21T14:27:11Z |
+|        0 | 2.80 |   7 |   347.49 | 2024-07-02T03:03:32Z |
 :END:
 
 [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] is {{slower}{speed}@0} than [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]
@@ -147,7 +147,7 @@ Failure cases for {{[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   5 |    28.13 | 2023-03-26T19:25:56Z |
+|        0 | 1.60 |   6 |    25.44 | 2023-07-24T03:57:13Z |
 :END:
 
 Time complexity of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] is {{$\bigtheta{|V||E|}$}@0}.
@@ -166,7 +166,7 @@ Time complexity of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algor
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   112.74 | 2023-07-09T07:26:54Z |
+|        0 | 2.65 |   7 |   300.07 | 2024-05-05T17:19:30Z |
 :END:
 
 [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] iterates over {{[[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]}@0}
@@ -183,8 +183,8 @@ Time complexity of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algor
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |    97.97 | 2023-06-16T02:30:27Z |
-| back     | 2.95 |   5 |    53.97 | 2023-04-02T17:47:56Z |
+| front    | 2.35 |   5 |    32.99 | 2023-08-13T12:49:56Z |
+| back     | 2.95 |   6 |   152.57 | 2023-09-03T05:07:29Z |
 :END:
 
 Iterations in [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
@@ -206,8 +206,8 @@ The algorithm iterates through all edges in the graph $|V|$ times.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   106.44 | 2023-07-03T00:12:32Z |
-| back     | 2.50 |   5 |    44.00 | 2023-03-22T23:44:31Z |
+| front    | 2.35 |   7 |   258.49 | 2024-03-17T12:52:21Z |
+| back     | 2.50 |   7 |   267.62 | 2024-04-05T03:51:12Z |
 :END:
 
 [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]]
@@ -244,7 +244,7 @@ An exhaustive (try every combination) search for the optimal pathway.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    54.72 | 2023-03-22T08:03:52Z |
+|        0 | 2.95 |   6 |   163.96 | 2023-09-02T12:59:09Z |
 :END:
 
 [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] supports negative weights because {{it's an exhaustive search; it tries every pathway}@0}.

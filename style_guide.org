@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       05911fff-a79b-4462-bf6d-a3cec4e1c9f2
 :DIR:      /home/cashweaver/proj/roam/attachments/05911fff-a79b-4462-bf6d-a3cec4e1c9f2
-:LAST_MODIFIED: [2022-12-13 Tue 10:03]
+:LAST_MODIFIED: [2023-06-24 Sat 20:22]
 :END:
 #+title: Style Guide
 #+hugo_custom_front_matter: :slug "05911fff-a79b-4462-bf6d-a3cec4e1c9f2"
@@ -19,6 +19,7 @@ I try to write with an emphasis on clear communication.
 - [[id:5b18fea0-1aab-4ad3-91ef-781a2524f11d][Use serial commas]]
 - [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the length of sentences]]
 - [[id:70afedd4-60d2-4e2e-87e1-04999d90079e][Be useful]]
+- [[id:001f6ae7-a549-4e90-a571-783d9a20fcc3][Avoid qualifying language]]
 - [[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be explicit]]
 
 ** Use sentence case in headings and titles
@@ -86,7 +87,7 @@ Org is a mode for keeping notes, maintaining TODO lists, and project planning wi
 
 ** Large quotes are okay
 
-There isn't a hard rule on how much quoting is too much. Large quotes [[id:18745aec-fcd1-4dd5-a55f-73fdc409aacb][have their benefits]] and are simple to capture using [cite:@porterOrgprotocolcapturehtml2022] bookmarklets.
+There isn't a hard rule on how much quoting is too much. Large quotes [[id:18745aec-fcd1-4dd5-a55f-73fdc409aacb][have their benefits]] and are simple to capture using bookmarklets [cite:@porterOrgprotocolcapturehtml2022].
 
 ** Nodes can just be a quote
 

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4c407900-03c1-40f0-85c6-9852da004f16
+:LAST_MODIFIED: [2023-07-12 Wed 20:43]
+:END:
+#+title: Learn math
+#+hugo_custom_front_matter: :slug "4c407900-03c1-40f0-85c6-9852da004f16"
+#+author: Cash Prokop-Weaver
+#+date: [2023-07-12 Wed 20:42]
+#+filetags: :has_todo:concept:
+
+* TODO [#4] Expand
+List math learning resources. Perhaps generalize this into a series of "How to learn X" notes which can track what I've used to learn subjects, or at least the primary resources which would then link off to the rest of it.
+
+[cite:@MathAcademy]
+#+print_bibliography:
+
+* TODO [#4] Flashcards
+#+print_bibliography:

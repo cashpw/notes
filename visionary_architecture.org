@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       0b177377-113b-43c9-83aa-319703d38fb8
+:LAST_MODIFIED: [2023-07-25 Tue 08:28]
+:ROAM_REFS: [cite:@VisionaryArchitecture2023]
+:END:
+#+title: Visionary architecture
+#+hugo_custom_front_matter: :slug "0b177377-113b-43c9-83aa-319703d38fb8"
+#+author: Cash Prokop-Weaver
+#+date: [2023-07-24 Mon 10:39]
+#+filetags: :concept:
+
+#+begin_quote
+Visionary architecture is a design that only exists on paper or displays idealistic or impractical qualities. The term originated from an exhibit at the Museum of Modern Art in 1960. Visionary architects are also known as paper architects because their improbable works exist only as drawings, collages, or models. Their designs show unique, creative concepts that are unrealistic or impossible except in the design environment.
+
+[cite:@VisionaryArchitecture2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-07-24 Mon 10:40]
+:FC_CREATED: 2023-07-24T17:41:06Z
+:FC_TYPE:  double
+:ID:       13baa1f5-efca-4d1f-96eb-24c733eaf4d7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-07-24T17:41:06Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-31T17:41:06Z |
+:END:
+
+[[id:0b177377-113b-43c9-83aa-319703d38fb8][Visionary architecture]]
+
+*** Back
+Designs which only exist on paper, or those which display idealistic or impractical qualities.
+*** Source
+[cite:@VisionaryArchitecture2023]
+#+print_bibliography:

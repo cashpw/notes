@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       afedd8eb-a4af-4ed3-9d77-c0e6aba3923e
 :ROAM_ALIASES: "The new world struggles to be born" "Now is the time of monsters"
-:LAST_MODIFIED: [2023-02-08 Wed 10:49]
+:LAST_MODIFIED: [2023-05-13 Sat 09:32]
 :END:
 #+title: The old world is dying
 #+hugo_custom_front_matter: :slug "afedd8eb-a4af-4ed3-9d77-c0e6aba3923e"
@@ -27,7 +27,7 @@ Misattributed to [[id:8e881515-f969-480f-b101-ea9e3476d723][Antonio Gramsci]] [c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |    93.65 | 2023-05-13T10:30:50Z |
+|        0 | 2.65 |   7 |   252.91 | 2024-01-21T14:28:41Z |
 :END:
 
 *** Source

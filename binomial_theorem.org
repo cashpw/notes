@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e3806f4b-94b7-443e-8e7e-278fe8a2781c
-:LAST_MODIFIED: [2023-03-18 Sat 06:35]
+:LAST_MODIFIED: [2023-07-23 Sun 21:05]
 :END:
 #+title: Binomial theorem
 #+hugo_custom_front_matter: :slug "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
@@ -42,8 +42,8 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    43.81 | 2023-04-08T23:22:07Z |
-|        1 | 2.80 |   5 |    46.44 | 2023-04-25T13:27:11Z |
+|        0 | 2.65 |   6 |   122.06 | 2023-08-09T17:07:00Z |
+|        1 | 1.75 |   4 |    10.94 | 2023-08-04T02:42:18Z |
 :END:
 
 {{$(x+y)^{n}$}@0} $=$ {{$\sum _{k=0}^{n}{n \choose k}x^{k}y^{n-k}$}{summation}@1}
@@ -60,8 +60,8 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    15.16 | 2023-03-23T22:19:46Z |
-| back     | 2.35 |   5 |    36.27 | 2023-04-23T20:09:36Z |
+| front    | 1.75 |   7 |    54.57 | 2023-09-09T03:38:12Z |
+| back     | 2.35 |   6 |    87.41 | 2023-07-30T07:48:17Z |
 :END:
 
 [[id:e3806f4b-94b7-443e-8e7e-278fe8a2781c][Binomial theorem]]
@@ -85,7 +85,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    35.23 | 2023-03-24T09:05:52Z |
+| front    | 2.35 |   7 |   203.58 | 2024-01-13T03:59:20Z |
 :END:
 
 Relationship between the [[id:e3806f4b-94b7-443e-8e7e-278fe8a2781c][Binomial theorem]] and [[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]

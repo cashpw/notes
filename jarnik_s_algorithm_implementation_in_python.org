@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       575409bd-1bb2-45c0-84a3-63abaa4b899b
-:LAST_MODIFIED: [2023-03-03 Fri 05:57]
+:LAST_MODIFIED: [2023-06-27 Tue 08:17]
 :END:
 #+title: Jarnik's algorithm implementation in Python
 #+hugo_custom_front_matter: :slug "575409bd-1bb2-45c0-84a3-63abaa4b899b"
@@ -48,7 +48,6 @@ def jarniks_minimum_spanning_tree(edges: WeightedEdges) -> AdjacencyList:
 
     current_id = initial_vertex_id
     for neighbor_id, edge_weight in [(neighbor_id, edges[current_id][neighbor_id]) for neighbor_id in edges[current_id] if neighbor_id not in included]:
-        print(edge_weight, (current_id, neighbor_id))
         min_queue.put(PrioritizedItem(priority=edge_weight, item=(current_id, neighbor_id)))
 
     while not min_queue.empty():
@@ -98,6 +97,11 @@ for vertex_a_id, vertex_b_id, edge_weight in adjacency_list:
 print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a,f), (b,c), (c,d)]')
 #+end_src
 
+#+RESULTS:
+: 2 (5, 0)
+: 11 (5, 4)
+: [(0, 1), (0, 4), (1, 2), (2, 3), (5, 0)] should be [(a,b), (a,e), (a,f), (b,c), (c,d)]
+
 * Flashcards
 ** Implement :fc:implement:
 :PROPERTIES:
@@ -110,7 +114,7 @@ print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-02-14T16:28:43Z |
+| front    | 2.20 |   2 |     2.00 | 2023-06-29T15:17:08Z |
 :END:
 
 Implement [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]

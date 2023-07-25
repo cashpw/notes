@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9b054cbc-f7f4-4443-b28a-65d66eef4880
-:LAST_MODIFIED: [2023-03-14 Tue 07:36]
+:LAST_MODIFIED: [2023-07-05 Wed 21:15]
 :END:
 #+title: Lowercase-a accurate without being capital-T True
 #+hugo_custom_front_matter: :slug "9b054cbc-f7f4-4443-b28a-65d66eef4880"
@@ -27,8 +27,8 @@ Describes a condition in which a certain framing is correct in that acting as if
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    82.21 | 2023-06-04T19:31:52Z |
-| back     | 2.80 |   5 |    38.51 | 2023-03-22T03:57:07Z |
+| front    | 2.35 |   7 |   209.98 | 2023-12-31T23:36:00Z |
+| back     | 2.80 |   7 |   284.25 | 2024-04-15T10:08:45Z |
 :END:
 
 [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]

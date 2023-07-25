@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DunningKrugerEffect2022]
 :ID:       393d22dc-fb65-4f8c-9070-6973d6c9668e
-:LAST_MODIFIED: [2023-02-15 Wed 07:54]
+:LAST_MODIFIED: [2023-05-13 Sat 09:23]
 :END:
 #+title: Dunning-Kruger effect
 #+hugo_custom_front_matter: :slug "393d22dc-fb65-4f8c-9070-6973d6c9668e"
@@ -28,8 +28,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   101.99 | 2023-05-12T16:10:58Z |
-| back     | 2.20 |   6 |    62.80 | 2023-04-19T11:09:04Z |
+| front    | 2.50 |   7 |   242.56 | 2024-01-11T05:52:18Z |
+| back     | 2.20 |   7 |   129.63 | 2023-09-17T07:17:56Z |
 :END:
 
 [[id:393d22dc-fb65-4f8c-9070-6973d6c9668e][Dunning-Kruger effect]]

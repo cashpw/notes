@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a01a221-0aa9-493b-b690-c15c11f16831
-:LAST_MODIFIED: [2023-03-13 Mon 07:34]
+:LAST_MODIFIED: [2023-07-22 Sat 20:44]
 :ROAM_REFS: [cite:@SuffixTree2022]
 :END:
 #+title: Suffix tree
@@ -37,7 +37,7 @@ The construction of such a tree for the string $S$ takes time and space linear i
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   6 |   155.84 | 2023-08-12T23:05:36Z |
-| back     | 2.20 |   6 |    82.80 | 2023-05-20T11:22:22Z |
+| back     | 2.05 |   7 |   178.61 | 2023-11-16T03:52:03Z |
 :END:
 
 [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]
@@ -57,8 +57,8 @@ The construction of such a tree for the string $S$ takes time and space linear i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    64.65 | 2023-03-31T08:26:41Z |
-| back     | 2.50 |   6 |    91.04 | 2023-05-13T00:43:08Z |
+| front    | 2.05 |   7 |   119.54 | 2023-07-30T10:28:19Z |
+| back     | 2.50 |   7 |   216.29 | 2023-12-15T23:29:58Z |
 :END:
 
 [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]
@@ -79,8 +79,8 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    61.53 | 2023-04-27T16:25:18Z |
-|        1 | 2.65 |   6 |   113.84 | 2023-07-05T10:36:58Z |
+|        0 | 2.50 |   7 |   145.05 | 2023-09-20T23:55:47Z |
+|        1 | 2.65 |   7 |   317.66 | 2024-05-18T20:05:40Z |
 :END:
 
 *** Source
@@ -97,7 +97,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   139.75 | 2023-07-21T07:49:40Z |
+|        0 | 2.95 |   7 |   413.65 | 2024-09-08T19:17:40Z |
 :END:
 
 *** Source
@@ -114,7 +114,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    62.40 | 2023-04-01T01:55:11Z |
+|        0 | 2.20 |   7 |   145.07 | 2023-08-25T18:37:46Z |
 :END:
 
 *** Source
@@ -131,7 +131,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    56.95 | 2023-03-30T15:36:45Z |
+|        0 | 2.20 |   7 |   131.69 | 2023-08-10T08:43:25Z |
 :END:
 
 *** Source
@@ -148,7 +148,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    96.50 | 2023-05-24T15:28:30Z |
+|        0 | 2.50 |   7 |   248.36 | 2024-01-28T04:53:32Z |
 :END:
 
 *** Source
@@ -165,7 +165,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    79.65 | 2023-05-08T06:23:51Z |
+|        0 | 2.50 |   7 |   210.14 | 2023-12-04T20:34:13Z |
 :END:
 
 *** Source

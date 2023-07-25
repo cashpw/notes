@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9d646383-d4a9-4f9d-ab12-74d45b82d58a
 :ROAM_REFS: [cite:@QuadraticFormula2023]
-:LAST_MODIFIED: [2023-03-18 Sat 06:30]
+:LAST_MODIFIED: [2023-07-10 Mon 08:35]
 :END:
 #+title: Quadratic formula
 #+hugo_custom_front_matter: :slug "9d646383-d4a9-4f9d-ab12-74d45b82d58a"
@@ -38,8 +38,8 @@ $\displaystyle x_{1}={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}}\quad {\text{or}}\quad 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   4 |    12.54 | 2023-03-21T06:18:34Z |
-| back     | 2.65 |   5 |    48.00 | 2023-05-05T13:31:30Z |
+| front    | 1.60 |   7 |    37.84 | 2023-08-17T11:40:32Z |
+| back     | 2.65 |   6 |   120.31 | 2023-09-07T23:42:23Z |
 :END:
 
 [[id:9d646383-d4a9-4f9d-ab12-74d45b82d58a][Quadratic formula]]
@@ -58,7 +58,7 @@ $x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    39.68 | 2023-04-11T08:28:34Z |
+| front    | 2.80 |   6 |   117.60 | 2023-08-07T06:40:57Z |
 :END:
 
 How to solve $3x^2 + 6x + 4$ for $x$

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8bd2ca47-4972-4869-89c3-b4e82a23042b
-:LAST_MODIFIED: [2023-03-15 Wed 08:06]
+:LAST_MODIFIED: [2023-07-23 Sun 21:00]
 :ROAM_REFS: [cite:@Solipsism2023]
 :END:
 #+title: Solipsism
@@ -26,8 +26,8 @@ Solipsism is the philosophical idea that only one's mind is sure to exist. As an
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    43.14 | 2023-04-13T07:37:34Z |
-| back     | 2.35 |   5 |    32.36 | 2023-04-16T23:48:01Z |
+| front    | 2.80 |   6 |   122.16 | 2023-08-13T16:38:02Z |
+| back     | 1.90 |   1 |     1.00 | 2023-07-25T04:00:21Z |
 :END:
 
 [[id:8bd2ca47-4972-4869-89c3-b4e82a23042b][Solipsism]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0441837e-1102-45d3-89aa-4da09147f8dd
-:LAST_MODIFIED: [2023-02-08 Wed 10:35]
+:LAST_MODIFIED: [2023-07-15 Sat 07:17]
 :END:
 #+title: Personal user guide
 #+hugo_custom_front_matter: :slug "0441837e-1102-45d3-89aa-4da09147f8dd"
@@ -13,9 +13,6 @@ A personal user guide explains how an individual would like others to interact w
 The [[id:68cc0b1b-a85b-4406-a65b-72baacbc9552][act of writing the guide]] may prove useful for the author even if others don't adhere to it's requirements.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 09:29]
@@ -26,8 +23,8 @@ The [[id:68cc0b1b-a85b-4406-a65b-72baacbc9552][act of writing the guide]] may pr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   111.66 | 2023-05-31T10:29:32Z |
-| back     | 2.50 |   5 |    45.33 | 2023-03-20T23:27:26Z |
+| front    | 2.65 |   7 |   306.38 | 2024-04-02T00:52:58Z |
+| back     | 2.50 |   7 |   314.64 | 2024-05-25T05:44:53Z |
 :END:
 
 [[id:0441837e-1102-45d3-89aa-4da09147f8dd][Personal user guide]]

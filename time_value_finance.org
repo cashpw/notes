@@ -2,7 +2,7 @@
 :ID:       f41ce01a-f8d7-4d5e-a7c6-178706176f6c
 :ROAM_ALIASES: "Instrumental value (finance)" "Extrinsic value (finance)"
 :ROAM_REFS: [cite:@OptionTimeValue2022]
-:LAST_MODIFIED: [2023-03-04 Sat 07:09]
+:LAST_MODIFIED: [2023-07-17 Mon 06:59]
 :END:
 #+title: Option time value
 #+hugo_custom_front_matter: :slug "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
@@ -27,8 +27,8 @@ In finance, the time value (TV) (extrinsic or instrumental value) of an [[id:126
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   106.05 | 2023-05-08T17:37:56Z |
-| back     | 2.80 |   6 |   137.56 | 2023-07-05T04:11:51Z |
+| front    | 2.50 |   7 |   288.69 | 2024-02-22T09:13:13Z |
+| back     | 2.80 |   7 |   379.57 | 2024-07-20T04:18:29Z |
 :END:
 
 [[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Option time value]]
@@ -49,9 +49,9 @@ The part of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]]'s v
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    76.55 | 2023-04-25T12:05:55Z |
-|        1 | 2.65 |   6 |   119.23 | 2023-07-01T20:41:14Z |
-|        2 | 1.90 |   6 |    50.90 | 2023-04-21T01:59:25Z |
+|        0 | 2.20 |   6 |    56.31 | 2023-08-18T09:07:42Z |
+|        1 | 2.35 |   4 |    13.88 | 2023-07-26T09:51:41Z |
+|        2 | 1.30 |   8 |    24.11 | 2023-08-10T16:38:19Z |
 :END:
 
 - {{[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Option time value]]}@0}

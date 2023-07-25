@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ac25c22f-8025-4664-893d-ce98825c25c0
 :ROAM_ALIASES: "One must be invented" "The military force which is denied an external target always turns against its own people"
-:LAST_MODIFIED: [2023-03-02 Thu 07:59]
+:LAST_MODIFIED: [2023-07-15 Sat 07:15]
 :END:
 #+title: If there is no enemy, one must be invented
 #+hugo_custom_front_matter: :slug "ac25c22f-8025-4664-893d-ce98825c25c0"
@@ -26,12 +26,12 @@ If there is no enemy, one must be invented. The military force which is denied a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   7 |    89.39 | 2023-05-31T01:17:17Z |
+|        0 | 1.90 |   8 |   176.13 | 2023-11-23T18:34:31Z |
 :END:
 
 *** Source
 [cite:@herbertGodEmperorDune2020]
-** The military force which is {{denied an external target always turns against its own people.}@0} :fc:
+** {{The military force which is denied an external target always turns against its own people.}{Quote: Military turns on its people}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:38]
 :FC_CREATED: 2022-11-15T17:38:55Z
@@ -43,7 +43,7 @@ If there is no enemy, one must be invented. The military force which is denied a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    95.84 | 2023-05-22T12:11:31Z |
+|        0 | 1.90 |   6 |    43.70 | 2023-08-28T07:00:35Z |
 :END:
 
 *** Source

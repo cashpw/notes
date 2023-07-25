@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@r/bodyweightfitnessRecommendedRoutine]
+:ID:       f2387c39-de20-48be-9733-7498f51672de
+:LAST_MODIFIED: [2023-07-06 Thu 09:30]
+:END:
+#+title:  r/bodyweightfitness | Recommended Routine
+#+hugo_custom_front_matter: :slug "f2387c39-de20-48be-9733-7498f51672de"
+#+author: Cash Weaver
+#+date: [2023-07-06 Thu 09:13]
+#+filetags: :reference:
+
+[[id:9dca42fa-21a8-4790-8de4-d24d243672e6][r/bodyweightfitness]], [cite:@r/bodyweightfitnessRecommendedRoutine]
+
+* Summary
+* Thoughts
+* Notes
+
+** Warm-up: Dynamic Stretches (5-10min)
+
+#+begin_quote
+| Reps | Exercise                    | Comments                                                                               |
+|------+-----------------------------+----------------------------------------------------------------------------------------|
+| 5-10 | [[https://www.youtube.com/watch?v=Vwn5hSf3WEg][Yuri's Shoulder Band Warmup]] | Less good: [[https://media.giphy.com/media/2x6ZLj05SFvHy/giphy.gif][Stick dislocates]], can also be done with a tee-shirt                         |
+| 5-10 | [[https://youtu.be/lbozu0DPcYI?t=42s][Squat Sky Reaches]]           | You can do these [[https://youtu.be/muF-knm3HCc][assisted]]                                                              |
+|  10+ | [[https://www.youtube.com/watch?v=mSZWSQSSEjE][GMB Wrist Prep]]              | Do as many reps as you want                                                            |
+|  30s | [[http://www.nick-e.com/deadbug/][Deadbugs]]                    |                                                                                        |
+|   10 | [[https://youtu.be/C995b3KLXS4?t=7s][Arch Hangs]]                  | Add these after you reach Negative Pullups. Beginner attempts will look more like [[https://www.youtube.com/watch?v=HoE-C85ZlCE][this]] |
+|  30s | [[https://www.reddit.com/r/bodyweightfitness/wiki/exercises/support][Support Hold]]                | Add these after you reach Negative Dips.                                               |
+|   10 | [[https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat][Easier Squat progression]]    | Add these after you reach Bulgarian Split Squats.                                      |
+|   10 | [[https://www.reddit.com/r/bodyweightfitness/wiki/exercises/hinge][Easier Hinge progression]]    | Add these after you reach Banded Nordic Curls.                                         |
+#+end_quote
+
+** Strength work (40-60 minutes)
+*** First Pair
+- 3x5-8 [[https://old.reddit.com/r/bodyweightfitness/wiki/exercises/pullup][Pull-up progression]]
+- 3x5-8 [[https://old.reddit.com/r/bodyweightfitness/wiki/exercises/squat][Squat Progression]]
+
+*Note: If you have access to barbells (and a squat rack), we recommend you [[https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine#wiki_integrating_barbell_squats_and_deadlifts][learn how to use them instead of the squat progression.]] after you have perfected the basic squat.*
+
+*** Second Pair
+- 3x5-8 [[https://old.reddit.com/r/bodyweightfitness/wiki/exercises/dip][Dip progression]]
+- 3x5-8 [[https://old.reddit.com/r/bodyweightfitness/wiki/exercises/hinge][Hinge Progression]]
+
+*Note: If you have access to barbells, we recommend you [[https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine#wiki_integrating_barbell_squats_and_deadlifts][learn how to use them instead of the hinge progression.]] after you have perfected the basic hinge progression.*
+
+*** Third Pair
+- 3x5-8 [[https://old.reddit.com/r/bodyweightfitness/wiki/exercises/row][Row Progression]]
+- 3x5-8 [[https://old.reddit.com/r/bodyweightfitness/wiki/exercises/pushup][Push-up progression]]
+
+*** Core Triplet
+- 3x8-12 [[https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_anti-extension][Anti-Extension progression]]
+- 3x8-12 [[https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_anti-rotation][Anti-Rotation progression]]
+- 3x8-12 [[https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_extension][Extension progression]]
+
+* Flashcards
+#+print_bibliography:

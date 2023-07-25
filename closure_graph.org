@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7eb233ff-0428-4a08-be3f-768a42dfd248
-:LAST_MODIFIED: [2023-03-09 Thu 18:56]
+:LAST_MODIFIED: [2023-06-30 Fri 18:39]
 :END:
 #+title: Closure (Graph)
 #+hugo_custom_front_matter: :slug "7eb233ff-0428-4a08-be3f-768a42dfd248"
@@ -25,8 +25,8 @@ In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]] and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   118.54 | 2023-06-30T03:06:55Z |
-| back     | 2.50 |   6 |    88.94 | 2023-06-07T01:31:39Z |
+| front    | 2.65 |   7 |   339.25 | 2024-06-04T07:37:05Z |
+| back     | 2.35 |   7 |   227.06 | 2024-01-20T16:21:35Z |
 :END:
 
 [[id:7eb233ff-0428-4a08-be3f-768a42dfd248][Closure (Graph)]]

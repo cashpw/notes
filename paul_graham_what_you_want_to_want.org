@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@grahamWhatYouWantWant]
 :ID:       6e6aa331-8dbf-4751-a896-ca5fc6c7128b
-:LAST_MODIFIED: [2023-03-10 Fri 21:17]
+:LAST_MODIFIED: [2023-05-25 Thu 07:09]
 :END:
 #+title: Paul Graham | What You (Want to)* Want
 #+hugo_custom_front_matter: :slug "6e6aa331-8dbf-4751-a896-ca5fc6c7128b"
@@ -39,8 +39,8 @@ That's still not quite true. It's possible to change what you want to want. I ca
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    74.81 | 2023-05-25T00:41:42Z |
-| back     | 2.35 |   6 |    62.88 | 2023-05-10T15:37:41Z |
+| front    | 2.20 |   7 |   156.55 | 2023-10-29T03:14:10Z |
+| back     | 2.35 |   7 |   158.71 | 2023-10-16T09:10:16Z |
 :END:
 
 You can't (want to)* want what you want

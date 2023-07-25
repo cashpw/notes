@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@yudkowskyTsuyokuNaritaiWantBecomeStronger2007]
 :ID:       9bbe0740-9dff-4d2a-908e-535e96ea4e59
-:LAST_MODIFIED: [2023-03-03 Fri 05:43]
+:LAST_MODIFIED: [2023-04-28 Fri 15:52]
 :END:
 #+title: Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)
 #+hugo_custom_front_matter: :slug "9bbe0740-9dff-4d2a-908e-535e96ea4e59"
@@ -43,7 +43,7 @@ Never confess to me that you are just as flawed as I am unless you can tell me w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |  10 |   174.89 | 2023-04-24T13:52:18Z |
+| back     | 2.80 |  11 |   497.86 | 2024-09-07T19:36:54Z |
 | front    | 2.35 |   8 |   304.29 | 2024-01-01T20:46:55Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bd91ce7a-9b16-4c0c-9b42-0fac236a1364
 :ROAM_REFS: [cite:@Panopticon2022]
-:LAST_MODIFIED: [2023-03-13 Mon 07:31]
+:LAST_MODIFIED: [2023-05-18 Thu 08:25]
 :END:
 #+title: Panopticon
 #+hugo_custom_front_matter: :slug "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
@@ -17,9 +17,6 @@ Although it is physically impossible for the single guard to observe all the inm
 [cite:@Panopticon2022]
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 09:56]
@@ -30,7 +27,7 @@ Although it is physically impossible for the single guard to observe all the inm
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    69.33 | 2023-04-14T00:32:17Z |
+| front    | 2.05 |   7 |   143.10 | 2023-09-07T18:15:11Z |
 | back     | 2.95 |   6 |   164.82 | 2023-08-25T10:08:03Z |
 :END:
 
@@ -50,8 +47,8 @@ A building design and system of control which compels those within it to regulat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    83.96 | 2023-05-03T17:17:09Z |
-| back     | 2.50 |   6 |    89.62 | 2023-05-17T18:31:29Z |
+| front    | 2.50 |   7 |   206.86 | 2023-11-26T18:24:21Z |
+| back     | 2.50 |   7 |   206.61 | 2023-12-11T06:09:55Z |
 :END:
 
 [[id:bd91ce7a-9b16-4c0c-9b42-0fac236a1364][Panopticon]]

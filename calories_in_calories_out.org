@@ -1,14 +1,15 @@
 :PROPERTIES:
 :ID:       cad5c1db-61d6-40bd-98c2-8882bf4193f6
-:LAST_MODIFIED: [2023-02-26 Sun 10:24]
+:LAST_MODIFIED: [2023-06-24 Sat 19:56]
 :END:
 #+title: Calories in, calories out
 #+hugo_custom_front_matter: :slug "cad5c1db-61d6-40bd-98c2-8882bf4193f6"
 #+author: Cash Prokop-Weaver
 #+date: [2023-02-26 Sun 09:50]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 The idea that the difference between one's balance between calories in (i.e. eating) and calories out (i.e. burned, excreted, etc) can explain all weight loss and gain.
 
-I consider this to be [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]. Calories in calories out is accurate in the context of thermodynamics but it's insufficient to explain human behavior. It ignores the emotional and social reasons for weight change. It also makes the flawed assumption that every person's biology is identical. Saying "Eat less and you'll lose weight" is true without being helpful -- if it was really that easy the person in question would already have made that change. What works for one person may or may not work well for another.
-* TODO [#2] Flashcards
+I consider this to be [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]. Calories in calories out is accurate in the context of thermodynamics but it's insufficient to explain human behavior. It ignores the emotional and social reasons for weight change. Saying "Eat less and you'll lose weight" is true without being helpful -- if it was really that easy the person in question would already have made that change. What works for one person may or may not work well for another.
+
+* Flashcards

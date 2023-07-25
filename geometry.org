@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e67fa9ff-5bb3-47cd-8559-0c3a25300f0d
-:LAST_MODIFIED: [2023-02-28 Tue 06:56]
+:LAST_MODIFIED: [2023-06-06 Tue 07:37]
 :END:
 #+title: Geometry
 #+hugo_custom_front_matter: :slug "e67fa9ff-5bb3-47cd-8559-0c3a25300f0d"
@@ -26,8 +26,8 @@ Geometry (from Ancient Greek γεωμετρία (geōmetría) 'land measurement'
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    97.37 | 2023-06-05T23:49:21Z |
-| back     | 2.95 |   5 |    52.50 | 2023-03-24T04:07:04Z |
+| front    | 2.50 |   7 |   227.16 | 2024-01-19T18:33:02Z |
+| back     | 2.95 |   6 |   153.25 | 2023-08-24T23:56:44Z |
 :END:
 
 [[id:e67fa9ff-5bb3-47cd-8559-0c3a25300f0d][Geometry]]

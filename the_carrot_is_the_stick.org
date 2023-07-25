@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       23bf8c2e-5c00-414a-860f-3a6c87ea6283
-:LAST_MODIFIED: [2023-03-17 Fri 06:59]
+:LAST_MODIFIED: [2023-06-25 Sun 10:31]
 :END:
 #+title: The carrot is the stick
 #+hugo_custom_front_matter: :slug "23bf8c2e-5c00-414a-860f-3a6c87ea6283"
@@ -33,7 +33,7 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   7 |    99.73 | 2023-06-25T07:31:09Z |
+|        0 | 1.90 |   8 |   180.54 | 2023-12-23T06:34:06Z |
 :END:
 
 *** Source
@@ -48,8 +48,8 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    72.67 | 2023-04-20T13:51:37Z |
-| back     | 2.50 |   6 |   108.86 | 2023-06-18T01:04:12Z |
+| front    | 2.35 |   7 |   178.80 | 2023-10-29T10:49:23Z |
+| back     | 2.50 |   7 |   261.91 | 2024-03-07T18:34:33Z |
 :END:
 
 [[id:23bf8c2e-5c00-414a-860f-3a6c87ea6283][The carrot is the stick]]

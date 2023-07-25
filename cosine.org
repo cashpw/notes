@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8f39b616-dc89-4597-b689-c65aecde4a05
-:LAST_MODIFIED: [2023-03-15 Wed 08:07]
+:LAST_MODIFIED: [2023-07-16 Sun 07:02]
 :END:
 #+title: Cosine
 #+hugo_custom_front_matter: :slug "8f39b616-dc89-4597-b689-c65aecde4a05"
@@ -56,7 +56,7 @@ Graph \(f(x) = \cos(x)\)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   290.78 | 2023-12-31T09:49:49Z |
-|        1 | 2.50 |   6 |    91.73 | 2023-04-27T10:33:20Z |
+|        1 | 2.50 |   7 |   234.44 | 2023-12-22T10:09:14Z |
 :END:
 *** Source
 [cite:@SineCosine2022]
@@ -72,8 +72,25 @@ Graph \(f(x) = \cos(x)\)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   7 |    78.59 | 2023-05-05T06:09:47Z |
-|        1 | 2.50 |   6 |   104.67 | 2023-05-15T08:25:26Z |
+|        0 | 1.75 |   8 |   129.08 | 2023-09-12T19:38:30Z |
+|        1 | 2.50 |   7 |   251.60 | 2024-01-22T07:41:00Z |
+:END:
+*** Source
+[cite:@SineCosine2022]
+** {{$\cos(\theta)$}@0} \(=\) {{$\frac{\sin(\theta)}{\tan(\theta)}$}{function}@1} :fc:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1662496497453
+:FC_CREATED: 2022-09-06T20:34:57Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:ID:       8016cabe-4907-44fb-868b-4a3cfdb94851
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   6 |    63.71 | 2023-08-04T18:14:04Z |
+|        1 | 2.50 |   6 |    99.51 | 2023-10-24T02:23:02Z |
 :END:
 *** Source
 [cite:@SineCosine2022]

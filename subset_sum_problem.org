@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3
 :ROAM_REFS: [cite:@SubsetSumProblem2023]
-:LAST_MODIFIED: [2023-03-18 Sat 06:31]
+:LAST_MODIFIED: [2023-05-08 Mon 10:10]
 :END:
 #+title: Subset sum problem
 #+hugo_custom_front_matter: :slug "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
@@ -57,8 +57,8 @@ Starting from the initial state $(0, 0)$, it is possible to use any graph search
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    48.40 | 2023-04-26T03:02:23Z |
-| back     | 2.80 |   5 |    43.87 | 2023-04-26T11:16:09Z |
+| front    | 2.80 |   6 |   144.04 | 2023-09-20T15:35:53Z |
+| back     | 2.65 |   6 |   118.38 | 2023-09-04T02:20:50Z |
 :END:
 
 [[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]]
@@ -79,8 +79,8 @@ Determine whether any subset of values in a [[id:f25031de-9b51-4f1c-9166-f155b2d
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    37.98 | 2023-04-20T14:24:25Z |
-|        1 | 2.65 |   5 |    38.49 | 2023-04-26T01:22:41Z |
+|        0 | 2.65 |   6 |    99.77 | 2023-08-09T17:26:31Z |
+|        1 | 2.65 |   6 |    92.02 | 2023-08-03T22:36:33Z |
 :END:
 
 {{[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]]}@0} is a special case of {{the [[id:24b10601-c88f-46fc-bbf9-3f7687c2d2ba][Knapsack problem]]}@1}.

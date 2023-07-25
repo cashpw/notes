@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       92b87e35-87c9-4911-a95e-200ca365361d
-:LAST_MODIFIED: [2023-03-11 Sat 16:31]
+:LAST_MODIFIED: [2023-07-22 Sat 20:41]
 :END:
 #+title: There should be a science of discontent
 #+hugo_custom_front_matter: :slug "92b87e35-87c9-4911-a95e-200ca365361d"
@@ -13,7 +13,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 [[id:9f491719-8277-4aab-94fd-39c512730430][Paul Atreides]], [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]], [cite:@herbertDune1999]
 #+end_quote
 * Flashcards
-** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) There should be {{a science of discontent. People need hard times to develop psychic muscles. The body and mind adapt to stress, without it they atrophy, like a tree's limbs without the wind.}{full}@0} :fc:
+** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) {{There should be a science of discontent. People need hard times to develop psychic muscles. The body and mind adapt to stress, without it they atrophy, like a tree's limbs without the wind.}{on adapting to stress}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:23]
 :FC_CREATED: 2022-11-15T17:25:09Z
@@ -26,7 +26,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   4 |    12.15 | 2023-03-24T04:03:44Z |
+|        0 | 1.60 |   7 |    47.60 | 2023-09-08T18:03:36Z |
 :END:
 
 *** Source
@@ -43,7 +43,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    78.59 | 2023-04-22T05:13:07Z |
+|        0 | 2.20 |   7 |   161.97 | 2023-10-09T18:10:43Z |
 :END:
 
 *** Source
@@ -60,7 +60,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    82.81 | 2023-05-22T10:17:55Z |
+|        0 | 2.35 |   7 |   194.17 | 2023-12-02T18:03:27Z |
 :END:
 
 *** Source
@@ -77,7 +77,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   109.07 | 2023-06-27T04:45:19Z |
+|        0 | 2.50 |   7 |   268.19 | 2024-03-21T19:45:27Z |
 :END:
 
 *** Source

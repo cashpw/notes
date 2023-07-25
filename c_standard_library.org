@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       768671c9-ba24-4e1b-bf17-2d1ecf773c3f
+:LAST_MODIFIED: [2023-05-18 Thu 10:00]
+:ROAM_ALIASES: "Standard Library (C++)"
+:END:
+#+title: C++ Standard Library
+#+hugo_custom_front_matter: :slug "768671c9-ba24-4e1b-bf17-2d1ecf773c3f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-18 Thu 09:58]
+#+filetags: :has_todo:concept:
+
+The =std::= namespace in C++.
+
+#+begin_quote
+In the C++ programming language, the C++ Standard Library is a collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
+
+[cite:@StandardLibrary2023]
+#+end_quote
+
+#+begin_quote
+The C++ standard library provides a wide range of facilities that are usable in standard C++.
+
+[cite:@StandardLibrary]
+#+end_quote
+* TODO [#2] Flashcards
+#+print_bibliography:

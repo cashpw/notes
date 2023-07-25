@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@peckWhatAreThreeTypesFun2017]
 :ID:       a06d371b-148e-4a49-86bb-f4d04cfcefe7
 :DIR:      /home/cashweaver/proj/roam/attachments/a06d371b-148e-4a49-86bb-f4d04cfcefe7
-:LAST_MODIFIED: [2022-12-14 Wed 13:31]
+:LAST_MODIFIED: [2023-07-17 Mon 06:59]
 :END:
 #+title: Tim Peck | What Are the Three Types of Fun?
 #+hugo_custom_front_matter: :slug "a06d371b-148e-4a49-86bb-f4d04cfcefe7"
@@ -14,35 +14,44 @@
 
 * Summary
 
-| Type | Fun in the moment | Fun when looking back |
-|------+-------------------+-----------------------|
-|    1 | Yes               | Yes                   |
-|    2 | No                | Yes                   |
-|    3 | No                | No                    |
-
+|            | Fun in the moment | Fun in retrospect |
+|------------+-------------------+-------------------|
+| [[id:6a2276e5-19e5-4fb5-bd82-f1cab8867065][Type 1 Fun]] | Yes               | Yes               |
+| [[id:1566f960-3448-4e09-a1c7-87980f7fd97e][Type 2 Fun]] | No                | Yes               |
+| [[id:b84b6643-ab62-436e-b63d-196542d1ba73][Type 3 Fun]] | No                | No                |
+| [[id:44910dc7-2ef3-4f94-8cf9-49c223d11908][Type 4 fun]] | Yes               | No                |
 
 * Thoughts
 
 There's a fourth type missing:
 
-| Type | Fun in the moment | Fun when looking back |
-|------+-------------------+-----------------------|
-|    1 | Yes               | Yes                   |
-|    2 | No                | Yes                   |
-|    3 | No                | No                    |
-|    4 | Yes               | No                    |
+** Type 4 fun
+:PROPERTIES:
+:ID:       44910dc7-2ef3-4f94-8cf9-49c223d11908
+:END:
+
+Fun in the moment, but not fun in retrospect.
 
 * Notes
 ** Type 1 Fun
+:PROPERTIES:
+:ID:       6a2276e5-19e5-4fb5-bd82-f1cab8867065
+:END:
 #+begin_quote
 Type 1 fun is most simply described as fun every step of the way, and it's what most of us imagine when planning our adventures.
 #+end_quote
 
 ** Type 2 Fun
+:PROPERTIES:
+:ID:       1566f960-3448-4e09-a1c7-87980f7fd97e
+:END:
 #+begin_quote
 Type 2 is a strange beast, because it isn't actually fun at the moment. In fact, it feels much like suffering. It's only after the event, and in reflection, that you come to realize you actually had fun.
 #+end_quote
 ** Type 3 Fun
+:PROPERTIES:
+:ID:       b84b6643-ab62-436e-b63d-196542d1ba73
+:END:
 
 #+begin_quote
 Ironically, Type 3 isn't actually fun at all. Fun doesn't surface when it's happening and doesn't appear later during reflection.
@@ -51,7 +60,73 @@ Instead, it's the type that makes most of us go crawling back to Type 1, and say
 #+end_quote
 
 * Flashcards
+** Definition :fc:
 :PROPERTIES:
-:ANKI_DECK: Default
+:CREATED: [2023-03-25 Sat 08:09]
+:FC_CREATED: 2023-03-25T15:10:50Z
+:FC_TYPE:  double
+:ID:       1955e777-8dcc-421e-8d92-0a6cc4868cb0
 :END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |   106.84 | 2023-09-21T10:45:20Z |
+| back     | 2.35 |   6 |   100.06 | 2023-10-11T02:44:39Z |
+:END:
+
+[[id:6a2276e5-19e5-4fb5-bd82-f1cab8867065][Type 1 Fun]]
+
+*** Back
+Fun every step of the way; fun in the moment and fun in retrospect.
+*** Source
+[cite:@peckWhatAreThreeTypesFun2017]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-03-25 Sat 08:10]
+:FC_CREATED: 2023-03-25T15:12:08Z
+:FC_TYPE:  double
+:ID:       6a16ece6-f733-4a62-b058-09e4c93e6c62
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.80 |   6 |   103.83 | 2023-09-21T11:26:28Z |
+| back     | 2.65 |   6 |   108.69 | 2023-10-13T08:54:35Z |
+:END:
+
+[[id:1566f960-3448-4e09-a1c7-87980f7fd97e][Type 2 Fun]]
+
+*** Back
+- *Not* fun in the moment
+- Fun in retrospect
+*** Source
+[cite:@peckWhatAreThreeTypesFun2017]
+** Summarize :fc:
+:PROPERTIES:
+:CREATED: [2023-03-25 Sat 08:12]
+:FC_CREATED: 2023-03-25T15:14:41Z
+:FC_TYPE:  double
+:ID:       74295286-a810-420c-8239-c5bd0c80fc92
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    88.23 | 2023-09-14T19:50:53Z |
+| back     | 2.65 |   6 |   117.57 | 2023-11-12T03:43:15Z |
+:END:
+
+[[id:a06d371b-148e-4a49-86bb-f4d04cfcefe7][Tim Peck | What Are the Three Types of Fun?]]
+
+*** Back
+- It's useful to distinguish activities that are fun in the moment from those that are fun in retrospect, and note the cases when those two overlap.
+- We avoid [[id:1566f960-3448-4e09-a1c7-87980f7fd97e][Type 2 Fun]] because it can seem like [[id:b84b6643-ab62-436e-b63d-196542d1ba73][Type 3 Fun]]
+
+|                 | Fun in the moment | Fun in retrospect |
+|-----------------+-------------------+-------------------|
+| [[id:6a2276e5-19e5-4fb5-bd82-f1cab8867065][Type 1 Fun]] | Yes               | Yes               |
+| [[id:1566f960-3448-4e09-a1c7-87980f7fd97e][Type 2 Fun]] | No                | Yes               |
+| [[id:b84b6643-ab62-436e-b63d-196542d1ba73][Type 3 Fun]] | No                | No                |
+| [[id:44910dc7-2ef3-4f94-8cf9-49c223d11908][Type 4 fun]] | Yes               | No                |
+*** Source
+[cite:@peckWhatAreThreeTypesFun2017]
 #+print_bibliography:

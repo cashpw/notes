@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       07e3fd1d-8aa7-4fe4-9a65-bf10654c9552
 :ROAM_REFS: [cite:@HungerStone2022]
-:LAST_MODIFIED: [2023-02-22 Wed 06:55]
+:LAST_MODIFIED: [2023-07-07 Fri 17:17]
 :END:
 #+title: Hunger stone
 #+hugo_custom_front_matter: :slug "07e3fd1d-8aa7-4fe4-9a65-bf10654c9552"
@@ -28,8 +28,8 @@ These stones were embedded into a river during droughts to mark the water level 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    88.81 | 2023-04-24T11:52:57Z |
-| back     | 3.10 |   6 |   134.55 | 2023-07-07T04:01:07Z |
+| front    | 2.20 |   7 |   176.99 | 2023-10-23T14:28:04Z |
+| back     | 3.10 |   7 |   392.75 | 2024-08-03T18:16:08Z |
 :END:
 
 [[id:07e3fd1d-8aa7-4fe4-9a65-bf10654c9552][Hunger stone]]

@@ -2,7 +2,7 @@
 :ID:       d636dfa7-428d-457c-8db6-15fa61e03bef
 :ROAM_ALIASES: "Implicit knowledge"
 :ROAM_REFS: [cite:@TacitKnowledge2022]
-:LAST_MODIFIED: [2023-02-24 Fri 19:53]
+:LAST_MODIFIED: [2023-07-15 Sat 07:18]
 :END:
 #+title: Tacit knowledge
 #+hugo_custom_front_matter: :slug "d636dfa7-428d-457c-8db6-15fa61e03bef"
@@ -17,12 +17,9 @@ For example, knowing that London is in the United Kingdom is a piece of explicit
 
 [cite:@TacitKnowledge2022]
 #+end_quote
+
 * TODO [#2] https://nintil.com/scaling-tacit-knowledge :noexport:
-* TODO [#2] https://commoncog.com/the-tacit-knowledge-series/ :noexport:
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-12 Sat 08:05]
@@ -33,10 +30,9 @@ For example, knowing that London is in the United Kingdom is a piece of explicit
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    86.02 | 2023-04-22T15:41:17Z |
-| back     | 3.10 |   6 |   140.07 | 2023-07-15T05:40:21Z |
+| front    | 2.35 |   7 |   210.16 | 2023-11-26T22:19:58Z |
+| back     | 3.25 |   7 |   462.73 | 2024-10-20T07:43:16Z |
 :END:
-
 [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
 
 *** Back
@@ -55,8 +51,8 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    72.14 | 2023-03-30T17:46:53Z |
-|        1 | 2.50 |   6 |    96.50 | 2023-05-04T01:39:27Z |
+|        0 | 2.35 |   7 |   184.94 | 2023-10-02T14:42:35Z |
+|        1 | 2.35 |   7 |   228.89 | 2023-12-24T14:13:09Z |
 :END:
 
 - {{[[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]}@0}
@@ -74,8 +70,8 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    89.76 | 2023-05-04T10:37:20Z |
-| back     | 2.80 |   6 |   133.69 | 2023-07-04T13:43:01Z |
+| front    | 2.50 |   7 |   229.77 | 2023-12-22T12:20:55Z |
+| back     | 2.95 |   7 |   406.80 | 2024-08-14T14:42:51Z |
 :END:
 
 [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
@@ -97,7 +93,7 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   119.32 | 2023-06-23T11:30:20Z |
+| front    | 2.95 |   7 |   322.75 | 2024-05-11T08:04:48Z |
 :END:
 
 [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] and [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]

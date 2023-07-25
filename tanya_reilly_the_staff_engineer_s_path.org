@@ -1,0 +1,2354 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+:ID:       bc1937f1-31ce-41cc-ba0b-dedaac9334b5
+:LAST_MODIFIED: [2023-07-16 Sun 06:58]
+:END:
+#+title: Tanya Reilly | The Staff Engineer's Path
+#+hugo_custom_front_matter: :slug "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
+#+author: Cash Weaver
+#+date: [2023-03-18 Sat 13:26]
+#+filetags: :has_todo:reference:
+
+[[id:ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1][Tanya Reilly]], [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+
+* TODO Read next section: [[id:49d0c976-126c-4612-82ad-bebd079dd200][Topographical map (Staff Engineer's Path)]]
+SCHEDULED: <2023-07-31 Mon>
+
+Wait to do this for a month or two. I'm not at a senior/staff level yet and I can benefit from more execution-focused efforts right now.
+
+* TODO [#2] Summary
+** Pillars
+- [[id:69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e][Big-picture thinking (Staff Engineer's Path)]]
+- [[id:66f9b635-a07d-43c0-963b-46878ded5183][Execution (Staff Engineer's Path)]]
+- [[id:3910de4c-e0b0-4bad-93b9-334af4256906][Leveling up (Staff Engineer's Path)]]
+* TODO [#2] Thoughts
+* TODO [#2] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/bc/1937f1-31ce-41cc-ba0b-dedaac9334b5/tanya-reilly-the-staff-engineers-path.pdf
+:NOTER_PAGE: 197
+:END:
+** Foreword
+:PROPERTIES:
+:NOTER_PAGE: (8 . 0.090909)
+:END:
+
+#+begin_quote
+One of the core challenges of the staff+ engineering path is the unspoken expectation that part of being qualified to be on that path is figuring out how to climb it without much in the way of directions. If you were destined to be a staff+ engineer, conventional wisdom argues, you would figure out how to get there yourself. Needless to say, this is a frustrating and bias-ridden approach to career development. As more and more companies realize the need for staff+ engineers, we as an industry cannot afford to maintain a mysticism about the staff+ engineering career path that ignores the underlying skills that lead to successful technical leaders.
+#+end_quote
+
+** Introduction
+:PROPERTIES:
+:NOTER_PAGE: (11 . 0.090909)
+:END:
+*** Two Paths
+:PROPERTIES:
+:NOTER_PAGE: (11 . 0.421402)
+:END:
+
+#+begin_quote
+The staff engineer's path is a little less defined. While many companies now allow engineers to keep growing in seniority without taking on reports, this "technical track" is still muddy and poorly signposted. Engineers considering this path may have never worked with a staff engineer before, or might have seen such a narrow set of personalities in the role that it seems like unattainable wizardry. (It's not. It's all learnable.) The expectations of the job vary across companies, and, even within a company, the criteria for hiring or promoting staff engineers can be vague and not always actionable.
+#+end_quote
+*** The Pillars of Staff Engineering
+:PROPERTIES:
+:NOTER_PAGE: (13 . 0.715909)
+:END:
+
+#+begin_quote
+I'll unpack the staff engineer role by looking at what I think of as its three pillars: big-picture thinking, execution of projects, and leveling up the engineers you work with.
+
+1. Big-picture thinking
+
+   Big-picture thinking means being able to step back and take a broader view. It means seeing beyond the immediate details and understanding the context that you're working in. It also means thinking beyond the current time, whether that means initiating yearlong projects, building software that will be easy to decommission, or predicting what your company will need in three years.
+
+2. Execution
+
+   At the staff level, the projects you take on will become messier and more ambiguous. They'll involve more people and need more political capital, influence, or culture change to succeed.
+
+3. Leveling up
+
+   Every increase in seniority comes with more responsibility for raising the standards and skills of the engineers within your orbit, whether that's your local team, colleagues in your organization, or engineers across your whole company or industry. This responsibility will include intentional influence through teaching and mentoring, as well as the accidental influence that comes from being a role model.
+
+[...]
+
+But technical knowledge is not enough. Success and growth at this level means doing more than you can do with technical skills alone. To become adept at big-picture thinking, execute on bigger projects, and level up everyone around you, you're going to need "humaning" skills, like:
+
+- Communication and leadership
+- Navigating complexity
+- Putting your work in perspective
+- Mentorship, sponsorship, and delegation
+- Framing a problem so that other people care about it
+- Acting like a leader whether you feel like one or not
+
+And a lot more. Check out Camille Fournier's article "An Incomplete List of Skills Senior Engineers Need, Beyond Coding" [[[id:9f7ed9dc-46f1-4f12-a87e-cd03005c06dd][Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding]]].
+
+[formatting mine]
+#+end_quote
+*** Part I: The Big Picture
+:PROPERTIES:
+:NOTER_PAGE: (19 . 0.398674)
+:END:
+*** Part II: Execution
+:PROPERTIES:
+:NOTER_PAGE: (20 . 0.379735)
+:END:
+*** Part III: Leveling Up
+:PROPERTIES:
+:NOTER_PAGE: (21 . 0.474432)
+:END:
+*** O'Reilly Online Learning
+:PROPERTIES:
+:NOTER_PAGE: (23 . 0.375001)
+:END:
+*** How to Contact Us
+:PROPERTIES:
+:NOTER_PAGE: (23 . 0.80966)
+:END:
+*** Acknowledgments
+:PROPERTIES:
+:NOTER_PAGE: (24 . 0.711174)
+:END:
+
+
+** I. The Big Picture
+:PROPERTIES:
+:NOTER_PAGE: (28 . 0.090909)
+:END:
+** 1. What Would You Say You Do Here?
+:PROPERTIES:
+:NOTER_PAGE: (29 . 0.090909)
+:END:
+*** What Even Is a Staff Engineer?
+:PROPERTIES:
+:NOTER_PAGE: (30 . 0.090909)
+:END:
+**** Why Do We Need Engineers Who Can See the Big Picture?
+:PROPERTIES:
+:NOTER_PAGE: (35 . 0.166667)
+:END:
+Staff+ engineers play the role of a gardener; resisting [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] within the business.
+**** Why Do We Need Engineers Who Lead Projects That Cross Multiple Teams?
+:PROPERTIES:
+:NOTER_PAGE: (39 . 0.682766)
+:END:
+Team boundaries are a [[id:c112d0b0-ceef-4a41-9dc8-013a31bd1f49][Lagging indicator]] of the needs of a project. Crossing team boundaries is necessary in practice to accomplish larger tasks.
+**** Why Do We Need Engineers Who Are a Good Influence?
+:PROPERTIES:
+:NOTER_PAGE: (42 . 0.190341)
+:END:
+*** Enough Philosophy. What's My Job?
+:PROPERTIES:
+:NOTER_PAGE: (44 . 0.247159)
+:END:
+**** You're Not a Manager, but You Are a Leader
+:PROPERTIES:
+:NOTER_PAGE: (44 . 0.408144)
+:END:
+
+#+begin_quote
+First things first: staff engineering is a leadership role. [...] Whenever there's a feeling of "someone should do something here," there's a reasonable chance that the someone is you.
+
+[...]
+
+As your compensation increases and your time becomes more and more expensive, the work you do is expected to be more valuable and have a greater impact. Your technical judgment will need to include the reality of the business and whether any given project is worth doing at all. As you increase in seniority, you'll take on bigger projects, projects that can't succeed without collaboration, communication, and alignment; your brilliant solutions are just going to cause you frustration if you can't convince the other people on the team that yours is the right path to take. And whether you want to or not, you'll be a role model: other engineers will look to those with the big job titles to understand how to behave. [...]
+
+Leadership comes in lots of forms that you might not immediately recognize as such [TODO: LINK]. It can come from designing "happy path" solutions that protect other engineers from common mistakes. It can come from reviewing other engineers' code and designs in a way that improves their confidence and skills, or from highlighting that a design proposal doesn't meet a genuine business need. Teaching is a form of leadership. Quietly raising everyone's game is leadership. Setting technical direction is leadership. Finally, there's having the reputation as a stellar technologist that can inspire other people to buy into your plans just because they trust you.
+#+end_quote
+***** TODO [#1] Create and link to node
+
+Something like: "Senior engineering leadership is indirect", "Soft leadership" versus "Hard leadership" being the distinction between telling people what to do (hard, direct) and guiding people to take the path you want them to take (soft, indirect). [[id:0d00d854-02ca-4b2f-bf1d-8321de9378f8][The slow knife penetrates the shield]]. What would you call that? Guiding somene to make a choice on their own that's also the choice you want them to make. Either by convincing them directly or by making it the easier path or by aligning [[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]].
+**** You're in a "Technical" Role
+:PROPERTIES:
+:NOTER_PAGE: (48 . 0.09091)
+:END:
+
+#+begin_quote
+To be a good influence, you need to have high standards for what excellent engineering looks like and model them when you build something [[[id:c1e92962-bb77-4da1-a565-dba4d2d29076][Lead by example]]]. Your reviews of code or designs should be instructive for your colleagues and should make your codebase or architecture better. When you're making technical decisions, you need to understand the trade-offs and help other people understand them too. You need to be able to dive into the details where necessary, ask the right questions, and understand the answers. When arguing for a particular course of action, or a particular change in technical culture, you need to know what you're talking about. So you have to have a solid foundation of technical skills.
+
+This doesn't necessarily mean you'll write a lot of code. At this level, your goal is to solve problems efficiently [TODO: LINK], and programming will often not be the best use of your time. It may make more sense for you to take on the design or leadership work that only you can do and let others handle the programming. Staff engineers often take on ambiguous, messy, difficult problems and do just enough work on them to make them manageable by someone else. Once the problem is tractable, it becomes a growth opportunity for less experienced engineers (sometimes with support from the staff engineer).
+#+end_quote
+***** TODO [#1] Link to reference node
+
+I read something a while back which went "Your job is to [[id:b00a62dd-b06c-4943-81d7-140b11e15c8b][Solve the problem]]" -- not to code or fall into a [[id:3923eefd-c5ff-455e-a107-cd5a9e9191c3][Technologist]] trap. Try to find that and cite it here.
+
+**** You Aim to Be Autonomous
+:PROPERTIES:
+:NOTER_PAGE: (49 . 0.190342)
+:END:
+
+#+begin_quote
+When you started out as an engineer, your manager probably told you what to work on and how to approach it. At senior level, maybe your manager advised you on which problems were important to solve, and left it to you to figure out what to do about it. At staff+ levels, your manager should be bringing you information and sharing context, but you should be telling them what's important just as much as the other way around. As Sabrina Leandro, principal engineer at Intercom, asks, "So you know you're supposed to be working on things that are impactful and valuable. But where do you find this magic backlog of high- impact work that you should be doing?" Her answer: "You create it!"
+#+end_quote
+
+See [[id:b4e207cd-6c52-425c-8b60-a21e8cb1d8c6][Sabrina Leandro | So You're Staff+ ... Now What?]].
+
+#+begin_quote
+As a senior person in the organization, it's likely that you'll be pulled in many directions. It's up to you to defend and structure your time.
+#+end_quote
+
+**** You Set Technical Direction
+:PROPERTIES:
+:NOTER_PAGE: (50 . 0.214016)
+:END:
+
+#+begin_quote
+As a technical leader, part of a staff engineer's role is to make sure the organization has a good technical direction. Underlying the product or service your organization provides is a host of technical decisions: your architecture, your storage systems, the tools and frameworks you use, and so on. Whether these decisions are made at a team level or across multiple teams or whole organizations, part of your job is to make sure that they get made, that they get made well, and that they get written down. The job is not to come up with all (or even necessarily any!) of the aspects of the technical direction, but to ensure there is an agreed-upon, well-understood solution that solves the problems it sets out to solve.
+#+end_quote
+
+**** You Communicate Often and Well
+:PROPERTIES:
+:NOTER_PAGE: (50 . 0.624054)
+:END:
+
+#+begin_quote
+The more senior you become, the more you will rely on strong communication skills. [...] The better you are at being understood, the easier your job will be.
+#+end_quote
+
+*** Understanding Your Role
+:PROPERTIES:
+:NOTER_PAGE: (50 . 0.855115)
+:END:
+**** Where in the Organization Do You Sit?
+:PROPERTIES:
+:NOTER_PAGE: (51 . 0.42235)
+:END:
+***** Reporting "high"
+:PROPERTIES:
+:NOTER_PAGE: (52 . 0.750948)
+:END:
+***** Reporting "low"
+:PROPERTIES:
+:NOTER_PAGE: (53 . 0.507577)
+:END:
+**** What's Your Scope?
+:PROPERTIES:
+:NOTER_PAGE: (54 . 0.673295)
+:END:
+***** A scope too broad
+:PROPERTIES:
+:NOTER_PAGE: (55 . 0.753788)
+:END:
+#+begin_quote
+If your scope is too broad (or undefined), there are a few possible failure modes:
+
+- Lack of impact
+- Becoming a bottleneck
+- Decision fatigue
+- Missing relationships
+#+end_quote
+***** A scope too narrow
+:PROPERTIES:
+:NOTER_PAGE: (57 . 0.090909)
+:END:
+#+begin_quote
+Beware, too, of scoping yourself too narrowly. [...]
+
+- Lack of impact
+- Opportunity cost
+- Overshadowing other engineers
+- Overengineering
+#+end_quote
+**** What Shape Is Your Role?
+:PROPERTIES:
+:NOTER_PAGE: (58 . 0.337121)
+:END:
+***** Do you approach things depth-first or breadth-first?
+:PROPERTIES:
+:NOTER_PAGE: (58 . 0.524621)
+:END:
+***** Which of the "four disciplines" do you gravitate toward?
+:PROPERTIES:
+:NOTER_PAGE: (59 . 0.204545)
+:END:
+#+begin_quote
+Yonatan Zunger, distinguished engineer at Twitter, describes the four disciplines that are needed in any job in the world:
+
+- Core technical skills
+
+  Coding, litigation, producing content, cooking— whatever a typical practitioner of the role works on
+
+- Product management
+
+  Figuring out what needs to be done and why, and maintaining a narrative about that work
+
+- Project management
+
+  The practicalities of achieving the goal, removing chaos, tracking the tasks, noticing what's blocked, and making sure it gets unblocked
+
+- People management
+
+  Turning a group of people into a team, building their skills and careers, mentoring, and dealing with their problems
+
+Zunger notes that the higher your level, the less your mix of these skills corresponds with your job title: "The more senior you get, the more this becomes true, the more and more there is an expectation that you can shift across each of these four kinds of jobs easily and fluidly, and function in all rooms."
+#+end_quote
+****** TODO Read and link to https://oreil.ly/3S9HE
+
+***** How much do you want (or need) to code?
+:PROPERTIES:
+:NOTER_PAGE: (60 . 0.782197)
+:END:
+***** How's your delayed gratification?
+:PROPERTIES:
+:NOTER_PAGE: (61 . 0.403409)
+:END:
+***** Are you keeping one foot on the manager track?
+:PROPERTIES:
+:NOTER_PAGE: (61 . 0.819129)
+:END:
+***** Do any of these archetypes fit you?
+:PROPERTIES:
+:NOTER_PAGE: (62 . 0.403409)
+:END:
+**** What's Your Primary Focus?
+:PROPERTIES:
+:NOTER_PAGE: (63 . 0.166667)
+:END:
+***** What's important?
+:PROPERTIES:
+:NOTER_PAGE: (63 . 0.870265)
+:END:
+
+#+begin_quote
+"Your work needs to be important" doesn't mean you should only work on the fanciest, most glamorous technologies and VP-sponsored initiatives. The work that's most important will often be the work that nobody else sees. It might be a struggle to even articulate the need for it, because your teams don't have good mental models for it yet. It might involve gathering data that doesn't exist, or spelunking through dusty code or documents that haven't been touched in a decade. There are any number of other grungy tasks that just need to get done. Meaningful work comes in many forms. Know why the problem you're working on is strategically important—and if it's not, do something else.
+#+end_quote
+
+***** What needs you?
+:PROPERTIES:
+:NOTER_PAGE: (64 . 0.53125)
+:END:
+*** Aligning on Scope, Shape, and Primary Focus
+:PROPERTIES:
+:NOTER_PAGE: (65 . 0.199811)
+:END:
+
+#+begin_quote
+By now, you should have a pretty clear picture of what the scope of your role is, how it's shaped, and what you're working on right now. But are you certain that your picture matches everyone else's? Your manager's and colleagues' expectations may differ wildly from yours on what a staff engineer is, what authority you have to make decisions, and myriad other big questions. If you're joining a company as a staff engineer, it's best to get all of this straightened out up front.
+
+A technique I learned from my friend Cian Synnott is to write out my understanding of my job and share it with my manager. It can feel a little intimidating to answer the question "What do you do here?" What if other people think what you do is useless, or think you don't do it well? But writing it out removes the ambiguity, and you'll find out early if your mental model of the role is the same as everyone else's. Better now than at performance review time.
+#+end_quote
+**** Is That Your Job?
+:PROPERTIES:
+:NOTER_PAGE: (68 . 0.090911)
+:END:
+
+#+begin_quote
+Your job is to make your organization successful. You might be a technology expert or a coder or affiliated with a specific team, but ultimately your job is to help your organization achieve its goals. Senior people do a lot of things that are not in their core job description. They can end up doing things that make no sense in anyone's job description! But if that's what the project needs to be successful, consider doing it.
+#+end_quote
+
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (69 . 0.090911)
+:END:
+
+#+begin_quote
+- Staff engineering roles are ambiguous by definition. It's up to you to discover and decide what your role is and what it means for you.
+- You're probably not a manager, but you're in a leadership role.
+- You're also in a role that requires technical judgment and solid technical experience.
+- Be clear about your scope: your area of responsibility and influence.
+- Your time is finite. Be deliberate about choosing a primary focus that's important and that isn't wasting your skills. [see [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]]
+- Align with your management chain. Discuss what you think your job is, see what your manager thinks it is, understand what's valued and what's actually useful, and set expectations explicitly. Not all companies need all shapes of staff engineers.
+- Your job will be a weird shape sometimes, and that's OK.
+#+end_quote
+** 2. Three Maps
+:PROPERTIES:
+:NOTER_PAGE: (71 . 0.090909)
+:END:
+*** Uh, Did Anyone Bring a Map?
+:PROPERTIES:
+:NOTER_PAGE: (71 . 0.738636)
+:END:
+
+Remember that [[id:bfc5100c-d70d-4829-9798-7a90b5edea9b][The map is not the territory]].
+
+**** A Locator Map: You Are Here
+:PROPERTIES:
+:NOTER_PAGE: (72 . 0.446023)
+:END:
+
+[[id:1b17b268-7192-4117-9d4f-1b67dcc091ee][Locator map (Staff Engineer's Path)]]
+
+#+begin_quote
+We're going to start with your place in the wider organization and company. Last chapter we talked about your scope, but to truly understand that scope, you need to see what's outside it. What's along the borders? When you zoom way out, how big is your part of the world compared to everywhere else? Think of it like one of those maps that a news station throws up behind the presenter to remind you where a particular place is, and put it in context.
+
+You need the locator map because it's tricky to be objective about any work while you're deep inside it. Unless you can maintain perspective, the concerns and decisions of your local group will feel more important to you than they would if you looked at them on a bigger scale. So we'll try out some techniques for getting that perspective. You'll be honest with yourself about which of the projects you care about would actually show up on a big map of the company, and which ones you wouldn't see unless you zoomed all the way in.
+#+end_quote
+
+**** A Topographical Map: Learning the Terrain
+:PROPERTIES:
+:NOTER_PAGE: (73 . 0.166667)
+:END:
+
+[[id:49d0c976-126c-4612-82ad-bebd079dd200][Topographical map (Staff Engineer's Path)]]
+
+#+begin_quote
+The second map is all about navigating the terrain. If you're setting off across the landscape, you'll go further and faster if you have a robust knowledge of what's ahead. In this section, we'll look at some of the hazards on the map: the canyons and ridges along the fault lines of your organization, the weird political boundaries in places nobody would predict, and the difficult people everyone's been going out of their way to avoid. If there's quicksand ahead, or krakens to be wary of, or an impassable desert full of the sun-bleached skeletons of previous travelers, you'll want to mark those pretty clearly before you set out on your journey.
+
+Despite the dangers and difficulties, you might find that there are navigable paths already in place. Discovering these paths will include understanding your organization's "personality" and how your leaders prefer to work, clarifying how decisions are made, and uncovering both the official and the "shadow" organization charts.
+#+end_quote
+
+**** A Treasure Map: X Marks the Spot
+:PROPERTIES:
+:NOTER_PAGE: (73 . 0.732955)
+:END:
+
+[[id:f3ca255f-a05d-4410-8a11-4fc48db1afe7][Treasure map (Staff Engineer's Path)]]
+
+#+begin_quote
+The third map has a destination and some points on a trail to get there. It shows where you're going and lays out some of the stops on the journey.
+#+end_quote
+
+**** Clearing the Fog of War
+:PROPERTIES:
+:NOTER_PAGE: (74 . 0.460227)
+:END:
+
+#+begin_quote
+These three maps already exist in your organization; they're just obscured. When you join a new company, most of the big picture is completely unknown to you. A big part of starting a new job is building context, learning how your new organization works, and uncovering everyone's goals.
+
+[...]
+
+You'll be able to clear some parts of the map through everyday learning, but you'll need to deliberately set out to clear other parts. A core theme of this chapter is how important it is to know things: to have continual context and a sense of what's going on. Knowing things takes both skill and opportunity, and you might need to work at it for a while before you start seeing what you're not seeing.
+
+[...]
+
+Why could they see all of these things when I couldn't? Because they had learned to pay attention and they knew what they were looking for.
+
+Paying attention means being alert to facts that affect your projects or organization. And that means continually sifting information out of the noise around you. If you can train your brain to say "That's interesting!" and remember facts that you might need later on, you'll start to add detail to your maps and build skills in synthesizing new information. What sorts of facts are useful? Anything that can help you or others have context for your work, navigate your organization, or progress toward your goals. Here are some examples:
+
+- A company all-hands presentation about an upcoming marketing push might be a hint that huge traffic spikes you're not ready for are coming your way.
+- Your director asks you to take on a project you don't have time to do, but you know which senior engineers in your organization are ready for opportunities to stretch their skills.
+- A shift in corporate priorities could mean a platform you'd considered but backburnered has become an amazing investment.
+- Your database just disappeared, and you remember getting an email about network maintenance.
+
+Over time, you'll get used to how news travels in your org
+and what you should pay attention to. [...] Think of
+gathering context as a skill to build as part of your job.
+#+end_quote
+*** The Locator Map: Getting Perspective
+:PROPERTIES:
+:NOTER_PAGE: (77 . 0.318182)
+:END:
+
+See [[id:1b17b268-7192-4117-9d4f-1b67dcc091ee][Locator map (Staff Engineer's Path)]].
+
+**** TODO Read [cite:@larsonDrawingYourThreeMapsExercise2022]
+
+**** Seeing Bigger
+:PROPERTIES:
+:NOTER_PAGE: (81 . 0.470645)
+:END:
+***** Taking an outsider view
+:PROPERTIES:
+:NOTER_PAGE: (81 . 0.752841)
+:END:
+****** TODO Read [cite:@naPushingFriction]
+
+***** Escaping the echo chamber
+:PROPERTIES:
+:NOTER_PAGE: (83 . 0.204546)
+:END:
+
+***** What's actually important?
+:PROPERTIES:
+:NOTER_PAGE: (85 . 0.850379)
+:END:
+
+***** What do your customers care about?
+:PROPERTIES:
+:NOTER_PAGE: (88 . 0.47822)
+:END:
+
+***** Have your problems been solved before?
+:PROPERTIES:
+:NOTER_PAGE: (89 . 0.22822)
+:END:
+*** TODO [#2] The Topographical Map: Navigating the Terrain
+:PROPERTIES:
+:NOTER_PAGE: (90 . 0.767994)
+:END:
+**** Rough Terrain
+:PROPERTIES:
+:NOTER_PAGE: (92 . 0.386365)
+:END:
+**** Understanding Your Organization
+:PROPERTIES:
+:NOTER_PAGE: (93 . 0.47538)
+:END:
+***** What's the culture?
+:PROPERTIES:
+:NOTER_PAGE: (94 . 0.180872)
+:END:
+****** Secret or open?
+:PROPERTIES:
+:NOTER_PAGE: (95 . 0.176138)
+:END:
+****** Oral or written?
+:PROPERTIES:
+:NOTER_PAGE: (95 . 0.738638)
+:END:
+****** Top-down or bottom-up?
+:PROPERTIES:
+:NOTER_PAGE: (96 . 0.493371)
+:END:
+****** Fast change or deliberate change?
+:PROPERTIES:
+:NOTER_PAGE: (97 . 0.327652)
+:END:
+****** Back channels or front doors?
+:PROPERTIES:
+:NOTER_PAGE: (97 . 0.667614)
+:END:
+****** Allocated or available?
+:PROPERTIES:
+:NOTER_PAGE: (98 . 0.446023)
+:END:
+****** Liquid or crystallized?
+:PROPERTIES:
+:NOTER_PAGE: (99 . 0.152462)
+:END:
+***** Power, rules, or mission?
+:PROPERTIES:
+:NOTER_PAGE: (100 . 0.712121)
+:END:
+***** Noticing the points of interest
+:PROPERTIES:
+:NOTER_PAGE: (103 . 0.370265)
+:END:
+****** Chasms
+:PROPERTIES:
+:NOTER_PAGE: (103 . 0.582386)
+:END:
+****** Fortresses
+:PROPERTIES:
+:NOTER_PAGE: (104 . 0.465909)
+:END:
+****** Disputed territory
+:PROPERTIES:
+:NOTER_PAGE: (105 . 0.270833)
+:END:
+****** Uncrossable deserts
+:PROPERTIES:
+:NOTER_PAGE: (106 . 0.176136)
+:END:
+****** Paved roads, shortcuts, and long ways around
+:PROPERTIES:
+:NOTER_PAGE: (106 . 0.492424)
+:END:
+**** What Points of Interest Are on Your Map?
+:PROPERTIES:
+:NOTER_PAGE: (107 . 0.753788)
+:END:
+***** How are decisions made?
+:PROPERTIES:
+:NOTER_PAGE: (108 . 0.554924)
+:END:
+***** Where is "the room"?
+:PROPERTIES:
+:NOTER_PAGE: (109 . 0.569131)
+:END:
+***** Asking to join in
+:PROPERTIES:
+:NOTER_PAGE: (110 . 0.791669)
+:END:
+***** The shadow org chart
+:PROPERTIES:
+:NOTER_PAGE: (112 . 0.545457)
+:END:
+**** Keeping Your Topographic Map Up to Date
+:PROPERTIES:
+:NOTER_PAGE: (113 . 0.706442)
+:END:
+**** If the Terrain Is Still Difficult to Navigate, Be a Bridge
+:PROPERTIES:
+:NOTER_PAGE: (116 . 0.59754)
+:END:
+*** The Treasure Map: Remind Me Where We're Going?
+:PROPERTIES:
+:NOTER_PAGE: (118 . 0.318184)
+:END:
+
+[[id:f3ca255f-a05d-4410-8a11-4fc48db1afe7][Treasure map (Staff Engineer's Path)]]
+
+**** Chasing Shiny Things
+:PROPERTIES:
+:NOTER_PAGE: (119 . 0.81629)
+:END:
+**** Taking a Longer View
+:PROPERTIES:
+:NOTER_PAGE: (121 . 0.498106)
+:END:
+***** Why are you doing whatever you're doing?
+:PROPERTIES:
+:NOTER_PAGE: (121 . 0.851326)
+:END:
+***** Sharing the map
+:PROPERTIES:
+:NOTER_PAGE: (123 . 0.346591)
+:END:
+**** If the Treasure Map Is Still Unclear, It Might Be Time to Draw a New One
+:PROPERTIES:
+:NOTER_PAGE: (124 . 0.555871)
+:END:
+*** Your Personal Journey
+:PROPERTIES:
+:NOTER_PAGE: (125 . 0.280303)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (125 . 0.720644)
+:END:
+#+begin_quote
+- Practice the skills of intentionally looking for a bigger picture and seeing what's happening.
+- Understand your work in context: know your customers, talk with peers outside your group, understand your success metrics, and be clear on what's actually important.
+- Know how your organization works and how decisions get made within it.
+- Build or discover paths to allow information you need to come to you.
+- Be clear about what goals everyone is aiming for.
+- Think about your own work and what your journey is.
+#+end_quote
+** 3. Creating the Big Picture
+:PROPERTIES:
+:NOTER_PAGE: (128 . 0.090909)
+:END:
+*** The Scenario: SockMatcher Needs a Plan
+:PROPERTIES:
+:NOTER_PAGE: (129 . 0.659091)
+:END:
+*** What's a Vision? What's a Strategy?
+:PROPERTIES:
+:NOTER_PAGE: (133 . 0.852273)
+:END:
+**** What's a Technical Vision?
+:PROPERTIES:
+:NOTER_PAGE: (135 . 0.214015)
+:END:
+**** What's a Technical Strategy?
+:PROPERTIES:
+:NOTER_PAGE: (138 . 0.166667)
+:END:
+***** The diagnosis
+:PROPERTIES:
+:NOTER_PAGE: (140 . 0.204546)
+:END:
+***** Guiding policy
+:PROPERTIES:
+:NOTER_PAGE: (140 . 0.421402)
+:END:
+***** Coherent actions
+:PROPERTIES:
+:NOTER_PAGE: (140 . 0.59091)
+:END:
+**** Do You Really Need Vision and Strategy Documents?
+:PROPERTIES:
+:NOTER_PAGE: (141 . 0.578598)
+:END:
+*** The Approach
+:PROPERTIES:
+:NOTER_PAGE: (142 . 0.54072)
+:END:
+**** Embrace the Boring Ideas
+:PROPERTIES:
+:NOTER_PAGE: (143 . 0.507576)
+:END:
+**** Join an Expedition in Progress
+:PROPERTIES:
+:NOTER_PAGE: (145 . 0.090909)
+:END:
+**** Get a Sponsor
+:PROPERTIES:
+:NOTER_PAGE: (147 . 0.214016)
+:END:
+**** Choose Your Core Group
+:PROPERTIES:
+:NOTER_PAGE: (149 . 0.09091)
+:END:
+**** Set Scope
+:PROPERTIES:
+:NOTER_PAGE: (150 . 0.801138)
+:END:
+**** Make Sure It's Achievable
+:PROPERTIES:
+:NOTER_PAGE: (152 . 0.332388)
+:END:
+**** Make It Official
+:PROPERTIES:
+:NOTER_PAGE: (153 . 0.689394)
+:END:
+*** The Writing
+:PROPERTIES:
+:NOTER_PAGE: (155 . 0.176136)
+:END:
+**** The Writing Loop
+:PROPERTIES:
+:NOTER_PAGE: (155 . 0.337121)
+:END:
+***** Initial ideas
+:PROPERTIES:
+:NOTER_PAGE: (156 . 0.563447)
+:END:
+****** What documents already exist?
+:PROPERTIES:
+:NOTER_PAGE: (156 . 0.751894)
+:END:
+****** What needs to change?
+:PROPERTIES:
+:NOTER_PAGE: (157 . 0.351326)
+:END:
+****** What's great as it is?
+:PROPERTIES:
+:NOTER_PAGE: (158 . 0.152462)
+:END:
+****** What's important?
+:PROPERTIES:
+:NOTER_PAGE: (158 . 0.340909)
+:END:
+****** What will Future You wish that Present You had done?
+:PROPERTIES:
+:NOTER_PAGE: (158 . 0.600379)
+:END:
+**** Writing
+:PROPERTIES:
+:NOTER_PAGE: (158 . 0.864583)
+:END:
+***** Interviews
+:PROPERTIES:
+:NOTER_PAGE: (160 . 0.42803)
+:END:
+***** Thinking time
+:PROPERTIES:
+:NOTER_PAGE: (161 . 0.498106)
+:END:
+**** Make Decisions
+:PROPERTIES:
+:NOTER_PAGE: (162 . 0.649621)
+:END:
+***** Trade-offs
+:PROPERTIES:
+:NOTER_PAGE: (163 . 0.157197)
+:END:
+***** Building consensus
+:PROPERTIES:
+:NOTER_PAGE: (163 . 0.572917)
+:END:
+***** Not deciding is a decision (just usually not a good one)
+:PROPERTIES:
+:NOTER_PAGE: (164 . 0.616477)
+:END:
+***** Show your work
+:PROPERTIES:
+:NOTER_PAGE: (165 . 0.730114)
+:END:
+**** Get Aligned and Stay Aligned
+:PROPERTIES:
+:NOTER_PAGE: (166 . 0.412881)
+:END:
+***** Be reasonable
+:PROPERTIES:
+:NOTER_PAGE: (167 . 0.180874)
+:END:
+***** Nemawashi
+:PROPERTIES:
+:NOTER_PAGE: (167 . 0.716858)
+:END:
+***** Work on your story
+:PROPERTIES:
+:NOTER_PAGE: (168 . 0.839017)
+:END:
+**** Create the Final Draft
+:PROPERTIES:
+:NOTER_PAGE: (170 . 0.834283)
+:END:
+*** The Launch
+:PROPERTIES:
+:NOTER_PAGE: (171 . 0.834283)
+:END:
+**** Make It Official
+:PROPERTIES:
+:NOTER_PAGE: (172 . 0.261366)
+:END:
+**** Keep It Fresh
+:PROPERTIES:
+:NOTER_PAGE: (173 . 0.578601)
+:END:
+*** Case Study: SockMatcher
+:PROPERTIES:
+:NOTER_PAGE: (174 . 0.090911)
+:END:
+**** Approach
+:PROPERTIES:
+:NOTER_PAGE: (174 . 0.356063)
+:END:
+***** Why didn't previous attempts work?
+:PROPERTIES:
+:NOTER_PAGE: (174 . 0.742427)
+:END:
+***** Sponsorship
+:PROPERTIES:
+:NOTER_PAGE: (175 . 0.872161)
+:END:
+***** Other engineers
+:PROPERTIES:
+:NOTER_PAGE: (176 . 0.886366)
+:END:
+***** Scope
+:PROPERTIES:
+:NOTER_PAGE: (178 . 0.465909)
+:END:
+**** The Writing
+:PROPERTIES:
+:NOTER_PAGE: (180 . 0.190341)
+:END:
+***** Diagnosis
+:PROPERTIES:
+:NOTER_PAGE: (180 . 0.448864)
+:END:
+***** Guiding policy
+:PROPERTIES:
+:NOTER_PAGE: (183 . 0.53125)
+:END:
+***** Actions
+:PROPERTIES:
+:NOTER_PAGE: (184 . 0.597538)
+:END:
+**** The Launch
+:PROPERTIES:
+:NOTER_PAGE: (186 . 0.837121)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (188 . 0.337121)
+:END:
+** II. Execution
+:PROPERTIES:
+:NOTER_PAGE: (190 . 0.090909)
+:END:
+** 4. Finite Time
+:PROPERTIES:
+:NOTER_PAGE: (191 . 0.090909)
+:END:
+See [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]].
+*** Doing All the Things
+:PROPERTIES:
+:NOTER_PAGE: (191 . 0.653409)
+:END:
+*** Time
+:PROPERTIES:
+:NOTER_PAGE: (192 . 0.67803)
+:END:
+**** Finite Time
+:PROPERTIES:
+:NOTER_PAGE: (193 . 0.090909)
+:END:
+**** How Busy Do You Like to Be?
+:PROPERTIES:
+:NOTER_PAGE: (196 . 0.680872)
+:END:
+**** projectqueue.pop()?
+:PROPERTIES:
+:NOTER_PAGE: (198 . 0.090909)
+:END:
+*** Resource Constraints
+:PROPERTIES:
+:NOTER_PAGE: (199 . 0.398674)
+:END:
+**** Your Dashboard
+:PROPERTIES:
+:NOTER_PAGE: (200 . 0.494318)
+:END:
+***** Energy
+:PROPERTIES:
+:NOTER_PAGE: (201 . 0.493372)
+:END:
+***** Quality of life
+:PROPERTIES:
+:NOTER_PAGE: (202 . 0.498107)
+:END:
+***** Credibility
+:PROPERTIES:
+:NOTER_PAGE: (203 . 0.464963)
+:END:
+***** Social capital
+:PROPERTIES:
+:NOTER_PAGE: (204 . 0.839015)
+:END:
+***** Skills
+:PROPERTIES:
+:NOTER_PAGE: (206 . 0.356061)
+:END:
+**** E + 2S + ...?
+:PROPERTIES:
+:NOTER_PAGE: (207 . 0.422348)
+:END:
+**** Bin packing
+:PROPERTIES:
+:NOTER_PAGE: (208 . 0.823864)
+:END:
+*** Choosing Projects
+:PROPERTIES:
+:NOTER_PAGE: (210 . 0.176138)
+:END:
+**** Evaluating a Project
+:PROPERTIES:
+:NOTER_PAGE: (210 . 0.408145)
+:END:
+***** You're invited to join
+:PROPERTIES:
+:NOTER_PAGE: (210 . 0.628789)
+:END:
+***** You ask to join
+:PROPERTIES:
+:NOTER_PAGE: (211 . 0.09091)
+:END:
+***** You have an idea
+:PROPERTIES:
+:NOTER_PAGE: (211 . 0.402463)
+:END:
+***** The fire alarm goes off
+:PROPERTIES:
+:NOTER_PAGE: (211 . 0.690342)
+:END:
+***** You're claiming a problem
+:PROPERTIES:
+:NOTER_PAGE: (212 . 0.774622)
+:END:
+***** You're invited to join a grassroots effort
+:PROPERTIES:
+:NOTER_PAGE: (213 . 0.732009)
+:END:
+***** Someone needs to…
+:PROPERTIES:
+:NOTER_PAGE: (214 . 0.299244)
+:END:
+***** You're just meddling
+:PROPERTIES:
+:NOTER_PAGE: (214 . 0.705494)
+:END:
+**** What are you signing on for?
+:PROPERTIES:
+:NOTER_PAGE: (216 . 0.090909)
+:END:
+**** Questions to Ask Yourself About Projects
+:PROPERTIES:
+:NOTER_PAGE: (217 . 0.659091)
+:END:
+***** Energy: How many things are you already doing?
+:PROPERTIES:
+:NOTER_PAGE: (217 . 0.775568)
+:END:
+***** Energy: Does this kind of work give or take energy?
+:PROPERTIES:
+:NOTER_PAGE: (218 . 0.677083)
+:END:
+***** Energy: Are you procrastinating?
+:PROPERTIES:
+:NOTER_PAGE: (219 . 0.22822)
+:END:
+***** Energy: Is this fight worth it?
+:PROPERTIES:
+:NOTER_PAGE: (220 . 0.625)
+:END:
+***** Quality of life: Do you enjoy this work?
+:PROPERTIES:
+:NOTER_PAGE: (221 . 0.090909)
+:END:
+***** Quality of life: How do you feel about the project's goals?
+:PROPERTIES:
+:NOTER_PAGE: (222 . 0.090909)
+:END:
+***** Credibility: Does this project use your technical skills?
+:PROPERTIES:
+:NOTER_PAGE: (222 . 0.448864)
+:END:
+***** Credibility: Does this project show your leadership skills?
+:PROPERTIES:
+:NOTER_PAGE: (222 . 0.75947)
+:END:
+***** Social capital: Is this the kind of work that your company and your manager expects at your level?
+:PROPERTIES:
+:NOTER_PAGE: (223 . 0.275568)
+:END:
+***** Social capital: Will this work be respected?
+:PROPERTIES:
+:NOTER_PAGE: (223 . 0.856061)
+:END:
+***** Social capital: Are you squandering the capital you've built?
+:PROPERTIES:
+:NOTER_PAGE: (224 . 0.441288)
+:END:
+***** Skills: Will this project teach you something you want to learn?
+:PROPERTIES:
+:NOTER_PAGE: (225 . 0.6875)
+:END:
+***** Skills: Will the people around you raise your game?
+:PROPERTIES:
+:NOTER_PAGE: (226 . 0.299242)
+:END:
+**** What If It's the Wrong Project?
+:PROPERTIES:
+:NOTER_PAGE: (227 . 0.166667)
+:END:
+***** Do it anyway?
+:PROPERTIES:
+:NOTER_PAGE: (227 . 0.624053)
+:END:
+***** Compensate for the project
+:PROPERTIES:
+:NOTER_PAGE: (228 . 0.767992)
+:END:
+***** Let others lead
+:PROPERTIES:
+:NOTER_PAGE: (229 . 0.498108)
+:END:
+***** Resize the project
+:PROPERTIES:
+:NOTER_PAGE: (230 . 0.204548)
+:END:
+***** Just don't do it
+:PROPERTIES:
+:NOTER_PAGE: (230 . 0.620268)
+:END:
+**** Examples
+:PROPERTIES:
+:NOTER_PAGE: (231 . 0.643942)
+:END:
+***** Example: Speaking at the all-hands meeting
+:PROPERTIES:
+:NOTER_PAGE: (231 . 0.855116)
+:END:
+***** Example: Joining an on-call rotation
+:PROPERTIES:
+:NOTER_PAGE: (234 . 0.379737)
+:END:
+***** Example: The exciting project you wish you could do
+:PROPERTIES:
+:NOTER_PAGE: (236 . 0.180874)
+:END:
+***** Example: I want to want to
+:PROPERTIES:
+:NOTER_PAGE: (238 . 0.090911)
+:END:
+**** Defend Your Time
+:PROPERTIES:
+:NOTER_PAGE: (240 . 0.090909)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (240 . 0.71875)
+:END:
+** 5. Leading Big Projects
+:PROPERTIES:
+:NOTER_PAGE: (244 . 0.090909)
+:END:
+*** The Life of a Project
+:PROPERTIES:
+:NOTER_PAGE: (244 . 0.585227)
+:END:
+*** The Start of a Project
+:PROPERTIES:
+:NOTER_PAGE: (246 . 0.090909)
+:END:
+**** If You're Feeling Overwhelmed…
+:PROPERTIES:
+:NOTER_PAGE: (246 . 0.52178)
+:END:
+***** Create an anchor for yourself
+:PROPERTIES:
+:NOTER_PAGE: (248 . 0.460227)
+:END:
+***** Talk to your project sponsor
+:PROPERTIES:
+:NOTER_PAGE: (248 . 0.724432)
+:END:
+***** Decide who gets your uncertainty
+:PROPERTIES:
+:NOTER_PAGE: (249 . 0.427084)
+:END:
+***** Give yourself a win
+:PROPERTIES:
+:NOTER_PAGE: (250 . 0.157197)
+:END:
+***** Use your strengths
+:PROPERTIES:
+:NOTER_PAGE: (250 . 0.46875)
+:END:
+**** Building Context
+:PROPERTIES:
+:NOTER_PAGE: (250 . 0.789773)
+:END:
+***** Goals
+:PROPERTIES:
+:NOTER_PAGE: (251 . 0.450758)
+:END:
+***** Customer needs
+:PROPERTIES:
+:NOTER_PAGE: (251 . 0.819129)
+:END:
+***** Success metrics
+:PROPERTIES:
+:NOTER_PAGE: (253 . 0.275568)
+:END:
+***** Sponsors, stakeholders, and customers
+:PROPERTIES:
+:NOTER_PAGE: (254 . 0.322917)
+:END:
+***** Fixed constraints
+:PROPERTIES:
+:NOTER_PAGE: (254 . 0.658144)
+:END:
+***** Risks
+:PROPERTIES:
+:NOTER_PAGE: (255 . 0.427084)
+:END:
+***** History
+:PROPERTIES:
+:NOTER_PAGE: (256 . 0.275569)
+:END:
+***** Team
+:PROPERTIES:
+:NOTER_PAGE: (256 . 0.80966)
+:END:
+**** Giving Your Project Structure
+:PROPERTIES:
+:NOTER_PAGE: (258 . 0.214015)
+:END:
+***** Defining roles
+:PROPERTIES:
+:NOTER_PAGE: (258 . 0.576705)
+:END:
+***** Recruiting people
+:PROPERTIES:
+:NOTER_PAGE: (263 . 0.427084)
+:END:
+***** Agreeing on scope
+:PROPERTIES:
+:NOTER_PAGE: (264 . 0.558713)
+:END:
+***** Estimating time
+:PROPERTIES:
+:NOTER_PAGE: (266 . 0.427084)
+:END:
+***** Agreeing on logistics
+:PROPERTIES:
+:NOTER_PAGE: (267 . 0.625948)
+:END:
+***** Having a kickoff meeting
+:PROPERTIES:
+:NOTER_PAGE: (269 . 0.370265)
+:END:
+*** Driving the Project
+:PROPERTIES:
+:NOTER_PAGE: (270 . 0.090909)
+:END:
+**** Exploring
+:PROPERTIES:
+:NOTER_PAGE: (270 . 0.545455)
+:END:
+***** What are the important aspects of the project?
+:PROPERTIES:
+:NOTER_PAGE: (271 . 0.157197)
+:END:
+***** What possible approaches can you take?
+:PROPERTIES:
+:NOTER_PAGE: (272 . 0.441288)
+:END:
+**** Clarifying
+:PROPERTIES:
+:NOTER_PAGE: (273 . 0.356061)
+:END:
+***** Mental models
+:PROPERTIES:
+:NOTER_PAGE: (274 . 0.460227)
+:END:
+***** Naming
+:PROPERTIES:
+:NOTER_PAGE: (275 . 0.616477)
+:END:
+***** Pictures and graphs
+:PROPERTIES:
+:NOTER_PAGE: (276 . 0.370265)
+:END:
+**** Designing
+:PROPERTIES:
+:NOTER_PAGE: (277 . 0.579545)
+:END:
+***** Why share designs?
+:PROPERTIES:
+:NOTER_PAGE: (278 . 0.090909)
+:END:
+***** RFC templates
+:PROPERTIES:
+:NOTER_PAGE: (278 . 0.79072)
+:END:
+***** What goes in an RFC?
+:PROPERTIES:
+:NOTER_PAGE: (280 . 0.090909)
+:END:
+****** Context
+:PROPERTIES:
+:NOTER_PAGE: (280 . 0.232008)
+:END:
+****** Goals
+:PROPERTIES:
+:NOTER_PAGE: (280 . 0.586174)
+:END:
+****** Design
+:PROPERTIES:
+:NOTER_PAGE: (281 . 0.389205)
+:END:
+****** Security/privacy/compliance
+:PROPERTIES:
+:NOTER_PAGE: (284 . 0.686555)
+:END:
+****** Alternatives considered/prior art
+:PROPERTIES:
+:NOTER_PAGE: (285 . 0.090911)
+:END:
+****** Background
+:PROPERTIES:
+:NOTER_PAGE: (285 . 0.620268)
+:END:
+****** Trade-offs
+:PROPERTIES:
+:NOTER_PAGE: (285 . 0.761366)
+:END:
+****** Risks
+:PROPERTIES:
+:NOTER_PAGE: (285 . 0.87879)
+:END:
+****** Dependencies
+:PROPERTIES:
+:NOTER_PAGE: (286 . 0.247161)
+:END:
+****** Operations
+:PROPERTIES:
+:NOTER_PAGE: (286 . 0.411934)
+:END:
+***** Technical pitfalls
+:PROPERTIES:
+:NOTER_PAGE: (286 . 0.534093)
+:END:
+****** It's a brand-new problem (but it isn't)
+:PROPERTIES:
+:NOTER_PAGE: (286 . 0.675192)
+:END:
+****** This looks easy!
+:PROPERTIES:
+:NOTER_PAGE: (286 . 0.863639)
+:END:
+****** Building for the present
+:PROPERTIES:
+:NOTER_PAGE: (287 . 0.389207)
+:END:
+****** Building for the distant, distant future
+:PROPERTIES:
+:NOTER_PAGE: (287 . 0.696025)
+:END:
+****** Every user just needs to…
+:PROPERTIES:
+:NOTER_PAGE: (288 . 0.152465)
+:END:
+****** We'll figure out the difficult part later
+:PROPERTIES:
+:NOTER_PAGE: (288 . 0.364586)
+:END:
+****** Solving the small problem by making the big problem more difficult
+:PROPERTIES:
+:NOTER_PAGE: (288 . 0.671404)
+:END:
+****** It's not really a rewrite (but it is!)
+:PROPERTIES:
+:NOTER_PAGE: (289 . 0.199813)
+:END:
+****** But is it operable?
+:PROPERTIES:
+:NOTER_PAGE: (289 . 0.482957)
+:END:
+****** Discussing the smallest decisions the most
+:PROPERTIES:
+:NOTER_PAGE: (289 . 0.822919)
+:END:
+**** Coding
+:PROPERTIES:
+:NOTER_PAGE: (290 . 0.483904)
+:END:
+***** Should you code on the project?
+:PROPERTIES:
+:NOTER_PAGE: (290 . 0.718752)
+:END:
+***** Be an exemplar, but not a bottleneck
+:PROPERTIES:
+:NOTER_PAGE: (291 . 0.578601)
+:END:
+**** Communicating
+:PROPERTIES:
+:NOTER_PAGE: (293 . 0.554924)
+:END:
+***** Talking to each other
+:PROPERTIES:
+:NOTER_PAGE: (293 . 0.766098)
+:END:
+***** Sharing status
+:PROPERTIES:
+:NOTER_PAGE: (294 . 0.474432)
+:END:
+**** Navigating
+:PROPERTIES:
+:NOTER_PAGE: (295 . 0.753788)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (297 . 0.422348)
+:END:
+** 6. Why Have We Stopped?
+:PROPERTIES:
+:NOTER_PAGE: (301 . 0.090909)
+:END:
+*** The Project Isn't Moving—Should It Be?
+:PROPERTIES:
+:NOTER_PAGE: (301 . 0.466856)
+:END:
+**** You're Stuck in Traffic
+:PROPERTIES:
+:NOTER_PAGE: (303 . 0.483902)
+:END:
+**** Blocked by Another Team
+:PROPERTIES:
+:NOTER_PAGE: (304 . 0.559659)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (304 . 0.86553)
+:END:
+***** Navigating the dependency
+:PROPERTIES:
+:NOTER_PAGE: (307 . 0.090909)
+:END:
+****** Understand and explain
+:PROPERTIES:
+:NOTER_PAGE: (307 . 0.160985)
+:END:
+****** Make the work easier
+:PROPERTIES:
+:NOTER_PAGE: (307 . 0.524621)
+:END:
+****** Get organizational support
+:PROPERTIES:
+:NOTER_PAGE: (308 . 0.199811)
+:END:
+****** Make alternative plans
+:PROPERTIES:
+:NOTER_PAGE: (308 . 0.818182)
+:END:
+**** Blocked by a Decision
+:PROPERTIES:
+:NOTER_PAGE: (309 . 0.261364)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (309 . 0.638258)
+:END:
+***** Navigating the unmade decision
+:PROPERTIES:
+:NOTER_PAGE: (310 . 0.403409)
+:END:
+****** Understand and explain
+:PROPERTIES:
+:NOTER_PAGE: (310 . 0.568182)
+:END:
+****** Make the work easier
+:PROPERTIES:
+:NOTER_PAGE: (310 . 0.827652)
+:END:
+****** Get organizational support
+:PROPERTIES:
+:NOTER_PAGE: (311 . 0.517046)
+:END:
+****** Make alternative plans
+:PROPERTIES:
+:NOTER_PAGE: (311 . 0.681819)
+:END:
+**** Blocked by a Single $%@$% Button Click
+:PROPERTIES:
+:NOTER_PAGE: (312 . 0.483902)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (312 . 0.695076)
+:END:
+***** Navigating the unclicked button
+:PROPERTIES:
+:NOTER_PAGE: (314 . 0.090909)
+:END:
+****** Understand and explain
+:PROPERTIES:
+:NOTER_PAGE: (314 . 0.350379)
+:END:
+****** Make the work easier
+:PROPERTIES:
+:NOTER_PAGE: (314 . 0.714015)
+:END:
+****** Get organizational support
+:PROPERTIES:
+:NOTER_PAGE: (315 . 0.497159)
+:END:
+****** Make alternative plans
+:PROPERTIES:
+:NOTER_PAGE: (315 . 0.756629)
+:END:
+**** Blocked by a Single Person
+:PROPERTIES:
+:NOTER_PAGE: (316 . 0.166667)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (316 . 0.354167)
+:END:
+***** Navigating a colleague who isn't doing the work
+:PROPERTIES:
+:NOTER_PAGE: (317 . 0.22822)
+:END:
+****** Understand and explain
+:PROPERTIES:
+:NOTER_PAGE: (317 . 0.440341)
+:END:
+****** Make the work easier
+:PROPERTIES:
+:NOTER_PAGE: (318 . 0.090909)
+:END:
+****** Get organizational support
+:PROPERTIES:
+:NOTER_PAGE: (319 . 0.389205)
+:END:
+**** Blocked by Unassigned Work
+:PROPERTIES:
+:NOTER_PAGE: (319 . 0.710227)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (320 . 0.251895)
+:END:
+***** Navigating the unassigned work
+:PROPERTIES:
+:NOTER_PAGE: (321 . 0.803978)
+:END:
+****** Understand and explain
+:PROPERTIES:
+:NOTER_PAGE: (322 . 0.09091)
+:END:
+****** Make the work easier
+:PROPERTIES:
+:NOTER_PAGE: (323 . 0.711175)
+:END:
+****** Get organizational support
+:PROPERTIES:
+:NOTER_PAGE: (324 . 0.09091)
+:END:
+****** Make alternative plans
+:PROPERTIES:
+:NOTER_PAGE: (324 . 0.303031)
+:END:
+**** Blocked by a Huge Crowd of People
+:PROPERTIES:
+:NOTER_PAGE: (324 . 0.576706)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (325 . 0.157198)
+:END:
+***** Navigating the half-finished migration
+:PROPERTIES:
+:NOTER_PAGE: (325 . 0.596592)
+:END:
+****** Understand and explain
+:PROPERTIES:
+:NOTER_PAGE: (325 . 0.737691)
+:END:
+****** Make the work easier
+:PROPERTIES:
+:NOTER_PAGE: (326 . 0.270833)
+:END:
+****** Get organizational support
+:PROPERTIES:
+:NOTER_PAGE: (327 . 0.327652)
+:END:
+****** Make alternative plans
+:PROPERTIES:
+:NOTER_PAGE: (327 . 0.610795)
+:END:
+*** You're Lost
+:PROPERTIES:
+:NOTER_PAGE: (328 . 0.176136)
+:END:
+**** You Don't Know Where You're All Going
+:PROPERTIES:
+:NOTER_PAGE: (328 . 0.431818)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (328 . 0.856061)
+:END:
+***** Choosing a destination
+:PROPERTIES:
+:NOTER_PAGE: (329 . 0.498106)
+:END:
+****** Clarify roles
+:PROPERTIES:
+:NOTER_PAGE: (329 . 0.61553)
+:END:
+****** Choose a strategy
+:PROPERTIES:
+:NOTER_PAGE: (330 . 0.090909)
+:END:
+****** Choose a problem
+:PROPERTIES:
+:NOTER_PAGE: (330 . 0.397727)
+:END:
+****** Choose a stakeholder
+:PROPERTIES:
+:NOTER_PAGE: (330 . 0.704545)
+:END:
+**** You Don't Know How to Get There
+:PROPERTIES:
+:NOTER_PAGE: (331 . 0.214015)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (331 . 0.567235)
+:END:
+***** Finding the way
+:PROPERTIES:
+:NOTER_PAGE: (331 . 0.807765)
+:END:
+****** Articulate the problem
+:PROPERTIES:
+:NOTER_PAGE: (332 . 0.090909)
+:END:
+****** Revisit your assumptions
+:PROPERTIES:
+:NOTER_PAGE: (332 . 0.326705)
+:END:
+****** Give it time
+:PROPERTIES:
+:NOTER_PAGE: (332 . 0.5625)
+:END:
+****** Increase your capacity
+:PROPERTIES:
+:NOTER_PAGE: (332 . 0.774621)
+:END:
+****** Look for prior art
+:PROPERTIES:
+:NOTER_PAGE: (333 . 0.223485)
+:END:
+****** Learn from other people
+:PROPERTIES:
+:NOTER_PAGE: (333 . 0.435606)
+:END:
+****** Try a different angle
+:PROPERTIES:
+:NOTER_PAGE: (333 . 0.671402)
+:END:
+****** Start smaller
+:PROPERTIES:
+:NOTER_PAGE: (334 . 0.090909)
+:END:
+****** Ask for help
+:PROPERTIES:
+:NOTER_PAGE: (334 . 0.326705)
+:END:
+**** You Don't Know Where You Stand
+:PROPERTIES:
+:NOTER_PAGE: (334 . 0.576705)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (335 . 0.180871)
+:END:
+***** Getting back on solid ground
+:PROPERTIES:
+:NOTER_PAGE: (335 . 0.691288)
+:END:
+****** Clarify organizational support
+:PROPERTIES:
+:NOTER_PAGE: (335 . 0.808712)
+:END:
+****** Clarify roles
+:PROPERTIES:
+:NOTER_PAGE: (336 . 0.152462)
+:END:
+****** Ask for what you need
+:PROPERTIES:
+:NOTER_PAGE: (336 . 0.388258)
+:END:
+****** Refuel
+:PROPERTIES:
+:NOTER_PAGE: (336 . 0.600379)
+:END:
+*** You Have Arrived…Somewhere?
+:PROPERTIES:
+:NOTER_PAGE: (337 . 0.090909)
+:END:
+**** But It's Code Complete!
+:PROPERTIES:
+:NOTER_PAGE: (339 . 0.090911)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (339 . 0.529358)
+:END:
+***** Making sure the user can catch a Pokémon
+:PROPERTIES:
+:NOTER_PAGE: (340 . 0.157199)
+:END:
+****** Define "done"
+:PROPERTIES:
+:NOTER_PAGE: (340 . 0.298298)
+:END:
+****** Be your own user
+:PROPERTIES:
+:NOTER_PAGE: (340 . 0.676139)
+:END:
+****** Celebrate landings, not launches
+:PROPERTIES:
+:NOTER_PAGE: (340 . 0.840911)
+:END:
+**** It's Done but Nobody Is Using It
+:PROPERTIES:
+:NOTER_PAGE: (341 . 0.237692)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (341 . 0.47254)
+:END:
+***** Selling it
+:PROPERTIES:
+:NOTER_PAGE: (342 . 0.609851)
+:END:
+***** Tell people
+:PROPERTIES:
+:NOTER_PAGE: (342 . 0.86932)
+:END:
+***** Make it discoverable
+:PROPERTIES:
+:NOTER_PAGE: (343 . 0.412881)
+:END:
+**** It's Built on a Shaky Foundation
+:PROPERTIES:
+:NOTER_PAGE: (343 . 0.639207)
+:END:
+***** What's going on?
+:PROPERTIES:
+:NOTER_PAGE: (344 . 0.157199)
+:END:
+***** Shoring up the foundations
+:PROPERTIES:
+:NOTER_PAGE: (344 . 0.620268)
+:END:
+***** Set a culture of quality
+:PROPERTIES:
+:NOTER_PAGE: (344 . 0.78504)
+:END:
+***** Make the foundational work a user story
+:PROPERTIES:
+:NOTER_PAGE: (345 . 0.270836)
+:END:
+***** Negotiate for engineer-led time
+:PROPERTIES:
+:NOTER_PAGE: (345 . 0.752843)
+:END:
+**** The Project Just Stops Here
+:PROPERTIES:
+:NOTER_PAGE: (346 . 0.28504)
+:END:
+***** This is a better place to stop
+:PROPERTIES:
+:NOTER_PAGE: (346 . 0.543563)
+:END:
+***** It's not the right journey to take
+:PROPERTIES:
+:NOTER_PAGE: (347 . 0.090911)
+:END:
+***** The project has been canceled
+:PROPERTIES:
+:NOTER_PAGE: (348 . 0.090911)
+:END:
+***** This is the destination!
+:PROPERTIES:
+:NOTER_PAGE: (349 . 0.801139)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (350 . 0.763258)
+:END:
+** III. Leveling Up
+:PROPERTIES:
+:NOTER_PAGE: (353 . 0.090909)
+:END:
+** 7. You're a Role Model Now (Sorry)
+:PROPERTIES:
+:NOTER_PAGE: (354 . 0.090909)
+:END:
+*** What Does It Mean to Do a Good Job?
+:PROPERTIES:
+:NOTER_PAGE: (354 . 0.594697)
+:END:
+**** Values Are What You Do
+:PROPERTIES:
+:NOTER_PAGE: (355 . 0.166667)
+:END:
+**** But I Don't Want to Be a Role Model!
+:PROPERTIES:
+:NOTER_PAGE: (355 . 0.799242)
+:END:
+*** What Does It Mean to Do a Good Job as a Senior Engineer?
+:PROPERTIES:
+:NOTER_PAGE: (356 . 0.611742)
+:END:
+**** Be Competent
+:PROPERTIES:
+:NOTER_PAGE: (357 . 0.38447)
+:END:
+**** Know Things
+:PROPERTIES:
+:NOTER_PAGE: (357 . 0.569129)
+:END:
+***** Build experience
+:PROPERTIES:
+:NOTER_PAGE: (357 . 0.803977)
+:END:
+***** Build domain knowledge
+:PROPERTIES:
+:NOTER_PAGE: (360 . 0.607955)
+:END:
+***** Stay up to date
+:PROPERTIES:
+:NOTER_PAGE: (361 . 0.711174)
+:END:
+**** Be Self-Aware
+:PROPERTIES:
+:NOTER_PAGE: (362 . 0.706439)
+:END:
+***** Admit what you know
+:PROPERTIES:
+:NOTER_PAGE: (363 . 0.251894)
+:END:
+***** Admit what you don't know
+:PROPERTIES:
+:NOTER_PAGE: (363 . 0.795455)
+:END:
+***** Understand your own context
+:PROPERTIES:
+:NOTER_PAGE: (364 . 0.625948)
+:END:
+**** Have High Standards
+:PROPERTIES:
+:NOTER_PAGE: (365 . 0.261364)
+:END:
+***** Seek out constructive criticism
+:PROPERTIES:
+:NOTER_PAGE: (365 . 0.59091)
+:END:
+***** Own your mistakes
+:PROPERTIES:
+:NOTER_PAGE: (366 . 0.09091)
+:END:
+***** Be reliable
+:PROPERTIES:
+:NOTER_PAGE: (367 . 0.157197)
+:END:
+**** Be Responsible
+:PROPERTIES:
+:NOTER_PAGE: (367 . 0.729167)
+:END:
+**** Take Ownership
+:PROPERTIES:
+:NOTER_PAGE: (368 . 0.223485)
+:END:
+***** Make decisions
+:PROPERTIES:
+:NOTER_PAGE: (369 . 0.285038)
+:END:
+***** Ask "obvious" questions
+:PROPERTIES:
+:NOTER_PAGE: (369 . 0.78125)
+:END:
+***** Don't delegate through neglect
+:PROPERTIES:
+:NOTER_PAGE: (370 . 0.670455)
+:END:
+**** Take Charge
+:PROPERTIES:
+:NOTER_PAGE: (371 . 0.635417)
+:END:
+***** Step up in an emergency
+:PROPERTIES:
+:NOTER_PAGE: (371 . 0.846591)
+:END:
+***** Ask for more information when everyone is confused
+:PROPERTIES:
+:NOTER_PAGE: (372 . 0.569129)
+:END:
+***** Drive meetings
+:PROPERTIES:
+:NOTER_PAGE: (374 . 0.867425)
+:END:
+***** If you see something, say something
+:PROPERTIES:
+:NOTER_PAGE: (375 . 0.744319)
+:END:
+**** Create Calm
+:PROPERTIES:
+:NOTER_PAGE: (377 . 0.584281)
+:END:
+***** Defuse, don't amplify
+:PROPERTIES:
+:NOTER_PAGE: (377 . 0.771781)
+:END:
+***** Avoid blame
+:PROPERTIES:
+:NOTER_PAGE: (378 . 0.767994)
+:END:
+***** Be consistent
+:PROPERTIES:
+:NOTER_PAGE: (379 . 0.667614)
+:END:
+*** Remember the Goal
+:PROPERTIES:
+:NOTER_PAGE: (380 . 0.493371)
+:END:
+**** Remember There's a Business
+:PROPERTIES:
+:NOTER_PAGE: (380 . 0.772727)
+:END:
+***** Adapt to the situation
+:PROPERTIES:
+:NOTER_PAGE: (381 . 0.204545)
+:END:
+***** Be aware that there's a budget
+:PROPERTIES:
+:NOTER_PAGE: (382 . 0.22822)
+:END:
+***** Spend resources mindfully
+:PROPERTIES:
+:NOTER_PAGE: (382 . 0.643939)
+:END:
+*** Remember There's a User
+:PROPERTIES:
+:NOTER_PAGE: (383 . 0.341856)
+:END:
+*** Remember There's a Team
+:PROPERTIES:
+:NOTER_PAGE: (384 . 0.308712)
+:END:
+*** Look Ahead
+:PROPERTIES:
+:NOTER_PAGE: (384 . 0.785038)
+:END:
+**** Anticipate What You'll Wish You'd Done
+:PROPERTIES:
+:NOTER_PAGE: (385 . 0.493371)
+:END:
+***** Telegraph what's coming
+:PROPERTIES:
+:NOTER_PAGE: (385 . 0.704545)
+:END:
+***** Tidy up
+:PROPERTIES:
+:NOTER_PAGE: (386 . 0.22822)
+:END:
+***** Keep your tools sharp
+:PROPERTIES:
+:NOTER_PAGE: (386 . 0.738636)
+:END:
+***** Create institutional memory
+:PROPERTIES:
+:NOTER_PAGE: (387 . 0.332386)
+:END:
+**** Expect Failure
+:PROPERTIES:
+:NOTER_PAGE: (388 . 0.261364)
+:END:
+**** Optimize for Maintenance, Not Creation
+:PROPERTIES:
+:NOTER_PAGE: (389 . 0.332386)
+:END:
+***** Make it understandable
+:PROPERTIES:
+:NOTER_PAGE: (389 . 0.742424)
+:END:
+***** Keep it simple
+:PROPERTIES:
+:NOTER_PAGE: (390 . 0.635417)
+:END:
+***** Build to decommission
+:PROPERTIES:
+:NOTER_PAGE: (391 . 0.720644)
+:END:
+**** Create Future Leaders
+:PROPERTIES:
+:NOTER_PAGE: (392 . 0.507578)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (393 . 0.323866)
+:END:
+** 8. Good Influence at Scale
+:PROPERTIES:
+:NOTER_PAGE: (396 . 0.090909)
+:END:
+*** Good Influence
+:PROPERTIES:
+:NOTER_PAGE: (396 . 0.571023)
+:END:
+**** Scaling Your Good Influence
+:PROPERTIES:
+:NOTER_PAGE: (397 . 0.564394)
+:END:
+*** Advice
+:PROPERTIES:
+:NOTER_PAGE: (402 . 0.469697)
+:END:
+**** Individual Advice
+:PROPERTIES:
+:NOTER_PAGE: (404 . 0.267045)
+:END:
+***** Mentorship
+:PROPERTIES:
+:NOTER_PAGE: (404 . 0.47822)
+:END:
+***** Answering questions
+:PROPERTIES:
+:NOTER_PAGE: (406 . 0.356061)
+:END:
+***** Feedback
+:PROPERTIES:
+:NOTER_PAGE: (407 . 0.625948)
+:END:
+***** Peer reviews
+:PROPERTIES:
+:NOTER_PAGE: (408 . 0.299243)
+:END:
+**** Scaling Your Advice to a Group
+:PROPERTIES:
+:NOTER_PAGE: (409 . 0.578598)
+:END:
+***** Being a Catalyst
+:PROPERTIES:
+:NOTER_PAGE: (410 . 0.730114)
+:END:
+*** Teaching
+:PROPERTIES:
+:NOTER_PAGE: (411 . 0.763258)
+:END:
+**** Individual Teaching
+:PROPERTIES:
+:NOTER_PAGE: (412 . 0.460227)
+:END:
+***** Unlocking a topic
+:PROPERTIES:
+:NOTER_PAGE: (412 . 0.695076)
+:END:
+***** Pairing, shadowing, and reverse shadowing
+:PROPERTIES:
+:NOTER_PAGE: (413 . 0.636364)
+:END:
+***** Code and design review
+:PROPERTIES:
+:NOTER_PAGE: (414 . 0.732955)
+:END:
+****** Understand the assignment
+:PROPERTIES:
+:NOTER_PAGE: (415 . 0.398675)
+:END:
+****** Explain why as well as what
+:PROPERTIES:
+:NOTER_PAGE: (415 . 0.658145)
+:END:
+****** Give an example of what would be better
+:PROPERTIES:
+:NOTER_PAGE: (416 . 0.09091)
+:END:
+****** Be clear about what matters
+:PROPERTIES:
+:NOTER_PAGE: (416 . 0.232009)
+:END:
+****** Choose your battles
+:PROPERTIES:
+:NOTER_PAGE: (416 . 0.755683)
+:END:
+****** If you mean "yes," say "yes"
+:PROPERTIES:
+:NOTER_PAGE: (417 . 0.199812)
+:END:
+***** Coaching
+:PROPERTIES:
+:NOTER_PAGE: (417 . 0.66288)
+:END:
+****** Asking open questions
+:PROPERTIES:
+:NOTER_PAGE: (418 . 0.199812)
+:END:
+****** Active listening
+:PROPERTIES:
+:NOTER_PAGE: (418 . 0.388259)
+:END:
+****** Making space
+:PROPERTIES:
+:NOTER_PAGE: (418 . 0.60038)
+:END:
+**** Scaling Your Teaching to a Group
+:PROPERTIES:
+:NOTER_PAGE: (419 . 0.190342)
+:END:
+**** Being a Catalyst
+:PROPERTIES:
+:NOTER_PAGE: (420 . 0.531251)
+:END:
+*** Guardrails
+:PROPERTIES:
+:NOTER_PAGE: (421 . 0.294508)
+:END:
+**** Individual Guardrails
+:PROPERTIES:
+:NOTER_PAGE: (421 . 0.550189)
+:END:
+***** Code, design, and change review
+:PROPERTIES:
+:NOTER_PAGE: (421 . 0.690341)
+:END:
+***** Project guardrails
+:PROPERTIES:
+:NOTER_PAGE: (423 . 0.535985)
+:END:
+**** Scaling Your Guardrails to a Group
+:PROPERTIES:
+:NOTER_PAGE: (424 . 0.730114)
+:END:
+***** Processes
+:PROPERTIES:
+:NOTER_PAGE: (425 . 0.090909)
+:END:
+***** Written decisions
+:PROPERTIES:
+:NOTER_PAGE: (428 . 0.090909)
+:END:
+****** Style guides
+:PROPERTIES:
+:NOTER_PAGE: (428 . 0.3125)
+:END:
+****** Paved roads
+:PROPERTIES:
+:NOTER_PAGE: (428 . 0.619318)
+:END:
+****** Policies
+:PROPERTIES:
+:NOTER_PAGE: (428 . 0.784091)
+:END:
+****** Technical vision and strategy
+:PROPERTIES:
+:NOTER_PAGE: (429 . 0.223485)
+:END:
+***** Robots and reminders
+:PROPERTIES:
+:NOTER_PAGE: (429 . 0.345644)
+:END:
+****** Automated reminders
+:PROPERTIES:
+:NOTER_PAGE: (429 . 0.732955)
+:END:
+****** Linters
+:PROPERTIES:
+:NOTER_PAGE: (429 . 0.874053)
+:END:
+****** Search
+:PROPERTIES:
+:NOTER_PAGE: (430 . 0.152462)
+:END:
+****** Templates
+:PROPERTIES:
+:NOTER_PAGE: (430 . 0.293561)
+:END:
+****** Config checkers and presubmits
+:PROPERTIES:
+:NOTER_PAGE: (430 . 0.410985)
+:END:
+**** Being a Catalyst
+:PROPERTIES:
+:NOTER_PAGE: (430 . 0.637311)
+:END:
+***** Solve a real problem
+:PROPERTIES:
+:NOTER_PAGE: (431 . 0.412879)
+:END:
+***** Choose your battles
+:PROPERTIES:
+:NOTER_PAGE: (431 . 0.582386)
+:END:
+***** Offer support
+:PROPERTIES:
+:NOTER_PAGE: (431 . 0.751894)
+:END:
+***** Find allies
+:PROPERTIES:
+:NOTER_PAGE: (431 . 0.850379)
+:END:
+*** Opportunity
+:PROPERTIES:
+:NOTER_PAGE: (432 . 0.223485)
+:END:
+**** Individual Opportunities
+:PROPERTIES:
+:NOTER_PAGE: (432 . 0.479167)
+:END:
+***** Delegation
+:PROPERTIES:
+:NOTER_PAGE: (432 . 0.714015)
+:END:
+***** Sponsorship
+:PROPERTIES:
+:NOTER_PAGE: (434 . 0.702654)
+:END:
+***** Connecting people
+:PROPERTIES:
+:NOTER_PAGE: (436 . 0.488639)
+:END:
+**** Scaling Your Opportunities to a Group
+:PROPERTIES:
+:NOTER_PAGE: (436 . 0.833336)
+:END:
+***** Share the spotlight
+:PROPERTIES:
+:NOTER_PAGE: (437 . 0.204548)
+:END:
+**** Being a Catalyst
+:PROPERTIES:
+:NOTER_PAGE: (438 . 0.369321)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (439 . 0.653411)
+:END:
+** 9. What's Next?
+:PROPERTIES:
+:NOTER_PAGE: (442 . 0.090909)
+:END:
+*** Your Career
+:PROPERTIES:
+:NOTER_PAGE: (443 . 0.090909)
+:END:
+**** What's Important to You?
+:PROPERTIES:
+:NOTER_PAGE: (445 . 0.236523)
+:END:
+**** Where Are You Going?
+:PROPERTIES:
+:NOTER_PAGE: (447 . 0.442261)
+:END:
+**** What Do You Need to Invest In?
+:PROPERTIES:
+:NOTER_PAGE: (448 . 0.551236)
+:END:
+***** Building skills
+:PROPERTIES:
+:NOTER_PAGE: (448 . 0.807703)
+:END:
+***** Building a network
+:PROPERTIES:
+:NOTER_PAGE: (452 . 0.560631)
+:END:
+***** Building visibility
+:PROPERTIES:
+:NOTER_PAGE: (453 . 0.668666)
+:END:
+***** Choosing roles and projects deliberately
+:PROPERTIES:
+:NOTER_PAGE: (454 . 0.588813)
+:END:
+*** Your Current Role
+:PROPERTIES:
+:NOTER_PAGE: (455 . 0.616997)
+:END:
+**** Five Metrics to Keep an Eye On
+:PROPERTIES:
+:NOTER_PAGE: (455 . 0.823674)
+:END:
+**** Can You Get What You Want from Your Role?
+:PROPERTIES:
+:NOTER_PAGE: (458 . 0.213036)
+:END:
+**** Should You Change Jobs?
+:PROPERTIES:
+:NOTER_PAGE: (459 . 0.283496)
+:END:
+***** Reasons to stay in the same role or company
+:PROPERTIES:
+:NOTER_PAGE: (459 . 0.446019)
+:END:
+***** Reasons to move
+:PROPERTIES:
+:NOTER_PAGE: (460 . 0.741003)
+:END:
+*** Paths from Here
+:PROPERTIES:
+:NOTER_PAGE: (462 . 0.175461)
+:END:
+**** Keep Doing What You're Doing
+:PROPERTIES:
+:NOTER_PAGE: (462 . 0.288192)
+:END:
+**** Work Toward Promotion
+:PROPERTIES:
+:NOTER_PAGE: (462 . 0.79831)
+:END:
+**** Work Less
+:PROPERTIES:
+:NOTER_PAGE: (464 . 0.166064)
+:END:
+**** Change Teams
+:PROPERTIES:
+:NOTER_PAGE: (465 . 0.330468)
+:END:
+**** Build a New Specialty
+:PROPERTIES:
+:NOTER_PAGE: (465 . 0.817098)
+:END:
+**** Explore
+:PROPERTIES:
+:NOTER_PAGE: (466 . 0.52775)
+:END:
+**** Take a Management Role
+:PROPERTIES:
+:NOTER_PAGE: (467 . 0.189553)
+:END:
+**** Take on Reports for the First Time
+:PROPERTIES:
+:NOTER_PAGE: (468 . 0.457292)
+:END:
+**** Find or Invent Your Own Niche
+:PROPERTIES:
+:NOTER_PAGE: (470 . 0.668667)
+:END:
+**** Do the Same Job for a Different Employer
+:PROPERTIES:
+:NOTER_PAGE: (472 . 0.457292)
+:END:
+**** Change Employers and Go Up a Level
+:PROPERTIES:
+:NOTER_PAGE: (473 . 0.584117)
+:END:
+**** Change Employers and Go Down a Level
+:PROPERTIES:
+:NOTER_PAGE: (474 . 0.33986)
+:END:
+**** Set Up Your Own Startup
+:PROPERTIES:
+:NOTER_PAGE: (475 . 0.306982)
+:END:
+**** Go Independent
+:PROPERTIES:
+:NOTER_PAGE: (476 . 0.090911)
+:END:
+**** Change Careers
+:PROPERTIES:
+:NOTER_PAGE: (477 . 0.353951)
+:END:
+**** Prepare to Reset
+:PROPERTIES:
+:NOTER_PAGE: (477 . 0.803004)
+:END:
+*** Your Choices Matter
+:PROPERTIES:
+:NOTER_PAGE: (479 . 0.090911)
+:END:
+*** To Recap
+:PROPERTIES:
+:NOTER_PAGE: (480 . 0.429107)
+:END:
+** Index
+:PROPERTIES:
+:NOTER_PAGE: (482 . 0.090909)
+:END:
+
+* TODO [#2] Flashcards
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-03-19 Sun 12:23]
+:FC_CREATED: 2023-03-19T19:25:55Z
+:FC_TYPE:  normal
+:ID:       37da718f-748d-4b84-85ea-add28dd23397
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   6 |    50.58 | 2023-08-12T15:37:45Z |
+:END:
+
+An engineer's relationship with management at the junior, senior, and staff+ levels.
+
+*** Back
+- Junior engineers ask for work from management and then execute on it
+- Senior engineers ask for problems from management and provide solutions for those problems
+- Staff+ engineers collaborate/consult management to autonomously identify problems *and* provide solutions
+*** Source
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-19 Sun 12:26]
+:FC_CREATED: 2023-03-19T19:26:23Z
+:FC_TYPE:  cloze
+:ID:       20cbb6fd-e358-4005-a11d-05a504d44d2a
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   118.90 | 2023-10-09T21:47:34Z |
+:END:
+
+Staff+ engineering is a {{leadership}@0} role.
+
+*** Source
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-19 Sun 12:28]
+:FC_CREATED: 2023-03-19T19:28:44Z
+:FC_TYPE:  cloze
+:ID:       19e5dfea-add2-4829-a708-3d980076123f
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.60 |   7 |    38.09 | 2023-08-23T16:12:27Z |
+|        1 | 2.65 |   6 |   105.45 | 2023-10-03T07:28:14Z |
+|        2 | 2.65 |   6 |    94.71 | 2023-10-11T08:03:27Z |
+:END:
+
+Pillars of staff engineering, according to [[id:ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1][Tanya Reilly]]:
+
+1. {{[[id:69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e][Big-picture thinking (Staff Engineer's Path)]]}@0}
+2. {{[[id:66f9b635-a07d-43c0-963b-46878ded5183][Execution (Staff Engineer's Path)]]}@1}
+3. {{[[id:3910de4c-e0b0-4bad-93b9-334af4256906][Leveling up (Staff Engineer's Path)]]}@2}
+
+*** Source
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-03-19 Sun 12:28]
+:FC_CREATED: 2023-03-19T19:29:13Z
+:FC_TYPE:  cloze
+:ID:       507401ad-2938-46c7-a1ae-bacb8058c01c
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   5 |    25.68 | 2023-07-26T18:07:09Z |
+:END:
+
+{{[[id:ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1][Tanya Reilly]]}@0} wrote [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][The Staff Engineer's Path]].
+
+*** Source
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+#+print_bibliography:

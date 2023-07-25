@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       81611da6-3ea4-45d9-b2db-b96ed95d946d
-:LAST_MODIFIED: [2023-01-06 Fri 06:53]
+:LAST_MODIFIED: [2023-06-19 Mon 13:46]
 :END:
 #+title: Post-order tree traversal
 #+hugo_custom_front_matter: :slug "81611da6-3ea4-45d9-b2db-b96ed95d946d"
@@ -37,8 +37,8 @@ Post-order traversal (blue node): A, C, E, D, B, H, I, G, F
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   142.20 | 2023-05-12T20:05:13Z |
-| back     | 2.95 |   6 |   163.38 | 2023-06-19T00:01:04Z |
+| front    | 2.95 |   7 |   453.84 | 2024-08-09T12:46:43Z |
+| back     | 2.95 |   7 |   486.17 | 2024-10-18T00:53:58Z |
 :END:
 [[id:81611da6-3ea4-45d9-b2db-b96ed95d946d][Post-order tree traversal]]
 *** Back

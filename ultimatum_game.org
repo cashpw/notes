@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d88f63c9-296b-4b0c-9757-00cc1e891e16
 :ROAM_REFS: [cite:@UltimatumGame2022]
-:LAST_MODIFIED: [2023-02-10 Fri 16:18]
+:LAST_MODIFIED: [2023-06-30 Fri 18:41]
 :END:
 #+title: Ultimatum game
 #+hugo_custom_front_matter: :slug "d88f63c9-296b-4b0c-9757-00cc1e891e16"
@@ -49,8 +49,8 @@ unfair_2 -> "0,0" [label="reject"]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   151.13 | 2023-06-30T05:51:08Z |
-| back     | 2.80 |   6 |   115.34 | 2023-06-06T08:21:16Z |
+| front    | 2.80 |   7 |   439.92 | 2024-09-12T23:52:27Z |
+| back     | 2.80 |   7 |   341.08 | 2024-05-12T16:37:08Z |
 :END:
 
 [[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]]

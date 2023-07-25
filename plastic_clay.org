@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d874911-f4f8-460f-b20d-90425c53cfa1
-:LAST_MODIFIED: [2023-02-24 Fri 19:47]
+:LAST_MODIFIED: [2023-07-13 Thu 17:57]
 :END:
 #+title: Plastic clay
 #+hugo_custom_front_matter: :slug "8d874911-f4f8-460f-b20d-90425c53cfa1"
@@ -10,9 +10,6 @@
 
 Clay which is moist, soft, and bendable. Clay at this state is ready for use on the wheel, under a roller, etc.
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 09:24]
@@ -23,8 +20,8 @@ Clay which is moist, soft, and bendable. Clay at this state is ready for use on 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   146.07 | 2023-07-13T03:40:55Z |
-| back     | 2.80 |   6 |   114.28 | 2023-06-19T10:27:40Z |
+| front    | 3.10 |   7 |   413.29 | 2024-08-30T07:50:17Z |
+| back     | 2.80 |   7 |   302.35 | 2024-04-17T05:05:20Z |
 :END:
 
 [[id:8d874911-f4f8-460f-b20d-90425c53cfa1][Plastic clay]]

@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       05730e41-9875-4ad5-aa5e-e497ed1f7af0
+:LAST_MODIFIED: [2023-07-08 Sat 08:06]
+:END:
+#+title: Naive practice
+#+hugo_custom_front_matter: :slug "05730e41-9875-4ad5-aa5e-e497ed1f7af0"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-07 Wed 08:57]
+#+filetags: :concept:
+
+#+begin_quote
+Naive practice is the act of doing something repeatedly, with the belief that mere repetition would improve one's performance.
+
+[cite:@chinProblemsDeliberatePractice2019]
+#+end_quote
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-07 Wed 08:57]
+:FC_CREATED: 2023-06-07T15:58:12Z
+:FC_TYPE:  double
+:ID:       f86a855e-371d-47e2-bc4b-debcd6b2873d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    40.35 | 2023-08-15T12:37:30Z |
+| back     | 2.65 |   5 |    42.30 | 2023-08-19T22:24:29Z |
+:END:
+
+[[id:05730e41-9875-4ad5-aa5e-e497ed1f7af0][Naive practice]]
+
+*** Back
+Practice through repetition alone.
+*** Source
+[cite:@chinProblemsDeliberatePractice2019]
+#+print_bibliography:

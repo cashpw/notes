@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@jamesIntroductionStatisticalLearningApplications2013]
 :ID:       94bcb9cb-d5b8-49d7-a169-891808910a65
-:LAST_MODIFIED: [2023-01-18 Wed 06:55]
+:LAST_MODIFIED: [2023-03-24 Fri 11:00]
 :ROAM_ALIASES: "An introduction to statistical learning with applications in R"
 :END:
 #+title: Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | An Introduction to Statistical Learning: With Applications in R
@@ -1109,7 +1109,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |  12 |   156.70 | 2023-03-19T10:27:52Z |
+| front    | 2.65 |  13 |   377.11 | 2024-03-30T20:39:07Z |
 :END:
 
 [[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]
@@ -1131,7 +1131,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   152.13 | 2023-03-22T18:37:50Z |
+|        0 | 2.65 |   9 |   415.17 | 2024-05-12T22:01:21Z |
 |        1 | 2.80 |  11 |   330.77 | 2023-12-13T20:30:23Z |
 :END:
 

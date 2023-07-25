@@ -2,7 +2,7 @@
 :ID:       9649b104-6092-47f4-ac00-0e92463126cd
 :DIR:      /home/cashweaver/proj/roam/attachments/9649b104-6092-47f4-ac00-0e92463126cd
 :ROAM_ALIASES: "Fallacy of grey"
-:LAST_MODIFIED: [2023-02-07 Tue 14:56]
+:LAST_MODIFIED: [2023-05-12 Fri 09:09]
 :END:
 #+title: Fallacy of gray
 #+hugo_custom_front_matter: :slug "9649b104-6092-47f4-ac00-0e92463126cd"
@@ -25,9 +25,6 @@ I don't know if the Sophisticate's mistake has an official name, but I call it t
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-13 Sun 06:54]
@@ -38,8 +35,8 @@ I don't know if the Sophisticate's mistake has an official name, but I call it t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    78.97 | 2023-04-16T13:00:04Z |
-| back     | 2.80 |   6 |    93.55 | 2023-05-12T12:10:41Z |
+| front    | 2.50 |   7 |   188.23 | 2023-10-22T21:16:19Z |
+| back     | 2.95 |   7 |   286.79 | 2024-02-23T11:09:32Z |
 :END:
 
 [[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of gray]]

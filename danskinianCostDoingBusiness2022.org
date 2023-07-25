@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@danskinianCostDoingBusiness2022]
 :ID:       073a3833-8cf1-431e-97df-c87f448b6a12
-:LAST_MODIFIED: [2023-01-26 Thu 06:41]
+:LAST_MODIFIED: [2023-06-18 Sun 07:26]
 :END:
 #+title: Ian Danskin | The Cost of Doing Business
 #+hugo_custom_front_matter: :slug "073a3833-8cf1-431e-97df-c87f448b6a12"
@@ -92,7 +92,7 @@ See [[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]], [[id:2e9a36f6-43e0
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    81.55 | 2023-04-18T03:48:39Z |
+|        0 | 1.90 |   6 |    39.40 | 2023-07-28T00:08:10Z |
 :END:
 
 *** Source

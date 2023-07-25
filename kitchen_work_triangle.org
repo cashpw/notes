@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       25be72f1-5350-45d6-a454-9c4f1296006b
 :ROAM_REFS: [cite:@KitchenWorkTriangle2022]
-:LAST_MODIFIED: [2023-03-09 Thu 19:14]
+:LAST_MODIFIED: [2023-07-15 Sat 07:09]
 :END:
 #+title: Kitchen work triangle
 #+hugo_custom_front_matter: :slug "25be72f1-5350-45d6-a454-9c4f1296006b"
@@ -29,7 +29,7 @@ The kitchen work triangle is a concept used to determine efficient kitchen layou
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   224.89 | 2023-07-14T14:05:52Z |
+| back     | 2.65 |   9 |   600.40 | 2025-03-06T23:41:56Z |
 | front    | 2.65 |   8 |   349.85 | 2024-02-22T23:41:37Z |
 :END:
 

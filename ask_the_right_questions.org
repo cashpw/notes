@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09
-:LAST_MODIFIED: [2023-03-11 Sat 16:29]
+:LAST_MODIFIED: [2023-07-02 Sun 18:19]
 :END:
 #+title: Ask the right questions
 #+hugo_custom_front_matter: :slug "162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09"
@@ -27,8 +27,8 @@ A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] strategy which uses q
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    66.04 | 2023-04-14T23:40:59Z |
-| back     | 2.50 |   6 |    88.54 | 2023-05-27T17:47:11Z |
+| front    | 2.20 |   7 |   145.10 | 2023-09-24T02:12:53Z |
+| back     | 2.50 |   7 |   216.05 | 2024-01-02T16:51:57Z |
 :END:
 
 [[id:162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09][Ask the right questions]]
@@ -47,8 +47,8 @@ Questions as a [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] for achi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   127.82 | 2023-07-01T23:44:56Z |
-| back     | 2.05 |   4 |    11.92 | 2023-03-23T22:36:06Z |
+| front    | 2.80 |   7 |   354.67 | 2024-06-21T17:14:44Z |
+| back     | 2.05 |   7 |   104.73 | 2023-10-15T18:53:23Z |
 :END:
 
 [[id:162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09][Ask the right questions]]

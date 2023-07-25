@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5180515a-c694-49fb-ac2e-9718fe501f38
 :ROAM_REFS: [cite:@Linearity2022]
-:LAST_MODIFIED: [2023-03-13 Mon 07:53]
+:LAST_MODIFIED: [2023-06-01 Thu 18:26]
 :ROAM_ALIASES: "Superposition principle"
 :END:
 #+title: Linearity
@@ -32,7 +32,7 @@ These properties are known as the superposition principle. In this definition, x
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |  15 |   135.65 | 2023-03-19T08:26:33Z |
+| back     | 2.35 |  16 |   317.79 | 2024-01-31T12:32:13Z |
 | front    | 2.65 |   8 |   239.61 | 2023-10-04T14:31:21Z |
 :END:
 
@@ -55,7 +55,7 @@ For all linear systems, the net response caused by two or more stimuli is the su
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  12 |   254.32 | 2023-10-19T05:20:05Z |
-| front    | 1.90 |   3 |     6.00 | 2023-03-19T14:53:29Z |
+| front    | 1.75 |   7 |    54.16 | 2023-07-26T05:10:50Z |
 :END:
 
 [[id:5180515a-c694-49fb-ac2e-9718fe501f38][Linearity]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chinExpertise2023]
+:ID:       148505a6-5c2a-4236-a389-da33f5b57ae5
+:LAST_MODIFIED: [2023-06-07 Wed 08:41]
+:END:
+#+title: Cedric Chin | Expertise
+#+hugo_custom_front_matter: :slug "148505a6-5c2a-4236-a389-da33f5b57ae5"
+#+author: Cash Weaver
+#+date: [2023-06-07 Wed 08:35]
+#+filetags: :has_todo:reference:
+
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinExpertise2023]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+begin_quote
+Let's say that you want to get good. Let's say that you want to get good fast. And suppose you're aiming to be top of your field. How do you go about doing it?
+
+The typical answer you'll get is probably something along the lines of 'go do deliberate practice' [[[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]], or 'learn to interleave learning' or 'go do spaced repetition'. These answers draw from a rich body of research on practice methods, expertise, and expertise acceleration.
+#+end_quote
+* TODO [#2] Flashcards
+#+print_bibliography:

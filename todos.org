@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
 :DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
-:LAST_MODIFIED: [2023-03-17 Fri 09:12]
+:LAST_MODIFIED: [2023-07-12 Wed 20:45]
 :END:
 #+title: Todos
 #+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
@@ -1190,7 +1190,6 @@ Fahrenheit to Celsius and back
 :PROPERTIES:
 :CREATED: [2023-03-03 Fri 11:01]
 :END:
-#+print_bibliography:
 * TODO [#2] [cite:@Shuhari2023]
 :PROPERTIES:
 :CREATED: [2023-03-03 Fri 12:43]
@@ -1214,5 +1213,163 @@ Fahrenheit to Celsius and back
 * TODO [#2] [cite:@alicornExpressiveVocabulary2018]
 :PROPERTIES:
 :CREATED: [2023-03-04 Sat 08:06]
+:END:
+* TODO [#2] Add quote: "Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them."
+:PROPERTIES:
+:CREATED: [2023-03-24 Fri 10:49]
+:END:
+* TODO [#2] Origin of "Butlarian Jihad": Samuel Butler's Erewhon
+:PROPERTIES:
+:CREATED: [2023-03-24 Fri 10:49]
+:END:
+* TODO [#2] [cite:@graeberUtopiaRulesTechnologyStupiditySecretJoysBureaucracy2016]
+:PROPERTIES:
+:CREATED: [2023-03-24 Fri 15:44]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=35221609
+:PROPERTIES:
+:CREATED: [2023-04-06 Thu 21:00]
+:END:
+* TODO [#2] [cite:@HighTrustLowTrustSocieties2022]
+:PROPERTIES:
+:CREATED: [2023-05-10 Wed 08:42]
+:END:
+* TODO [#2] [cite:@DisjunctiveNormalForm2023]
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 14:41]
+:END:
+* TODO [#2] [cite:@HilbertCurve2023]
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 14:42]
+:END:
+* TODO [#2] https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2022
+:PROPERTIES:
+:CREATED: [2023-05-25 Thu 08:51]
+:END:
+* TODO [#2] https://newsletter.pragmaticengineer.com/p/compensation-at-tech-companies
+:PROPERTIES:
+:CREATED: [2023-05-25 Thu 08:51]
+:END:
+* TODO [#2] [cite:@YakShaving2023]
+:PROPERTIES:
+:CREATED: [2023-06-19 Mon 13:21]
+:END:
+* TODO [#2] [cite:@NobleLie2023]
+:PROPERTIES:
+:CREATED:  [2023-05-14 Sun 13:09]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/w4jba9/unpopular_opinion_im_the_most_helpful_onboarding/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:03]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/11epkqb/what_is_your_unethical_developer_career_advice/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:04]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/xxa79p/i_preobject_my_prs_ive_found_it_to_be_a_helpful/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:04]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/v45x2y/6_lessons_i_learned_from_working_at_a/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:04]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/10tnhi2/handling_resentment/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:06]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/zwcwei/how_to_handle_a_disruptive_overachiever_as_an/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:06]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/ygk6py/more_recent_alternatives_to_books_like_pragmatic/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:06]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/136whxd/what_is_something_that_you_dont_understand_but_at/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:06]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/11vqy7o/how_to_handle_overeager_junior_dev_who_works_all/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:06]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/vmax11/how_to_handle_a_team_mate_that_rewrites_everything/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:07]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/10hiu2l/why_do_post_mortems_rarely_look_at_incentive/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:07]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/11npqqi/what_type_of_bookscourses_has_revolutionized_your/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:07]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/vamjio/what_questions_do_you_like_to_ask_to_get_a_feel/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:08]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/vyjo5z/what_are_some_traits_of_the_most_valuable/ :home
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:08]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/ys12wf/succeeding_without_strong_opinions/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:08]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/132pf33/my_favorite_resources_to_improve_as_a_developer/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:08]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/120yvvn/engineers_who_became_tech_leads_how_did_you/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:17]
+:END:
+
+* TODO [#2] https://www.reddit.com/r/ExperiencedDevs/comments/w3xg5j/how_am_i_supposed_to_get_work_done_with_so_many/
+:PROPERTIES:
+:CREATED:  [2023-05-16 Tue 07:19]
+:END:
+* TODO [#2] [cite:@HeterotopiasGamesArchitecture]
+:PROPERTIES:
+:CREATED: [2023-07-10 Mon 08:10]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=36211250
+:PROPERTIES:
+:CREATED: [2023-07-12 Wed 20:40]
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=35511357
+:PROPERTIES:
+:CREATED: [2023-07-12 Wed 20:41]
+:END:
+* TODO [#2] [cite:@borrettiEffectiveSpacedRepetition2023]
+:PROPERTIES:
+:CREATED: [2023-07-12 Wed 20:41]
+:END:
+* TODO [#2] [cite:@matuschakHowCanWeDevelopTransformativeToolsThought2019]
+:PROPERTIES:
+:CREATED: [2023-07-12 Wed 20:44]
+:END:
+* TODO [#2] [cite:@larsonIrrationalExuberance2023]
+:PROPERTIES:
+:CREATED: [2023-07-12 Wed 20:45]
 :END:
 #+print_bibliography:

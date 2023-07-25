@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b07a1490-3847-4b65-80bb-17e3f4927cfb
 :ROAM_REFS: [cite:@BayesTheorem2022]
-:LAST_MODIFIED: [2023-03-17 Fri 07:14]
+:LAST_MODIFIED: [2023-05-13 Sat 09:30]
 :END:
 #+title: Bayes's theorem
 #+hugo_custom_front_matter: :slug "b07a1490-3847-4b65-80bb-17e3f4927cfb"
@@ -30,7 +30,7 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.45 |  17 |   150.31 | 2023-04-07T23:28:49Z |
+| back     | 2.45 |  18 |   351.16 | 2024-03-24T19:00:36Z |
 | front    | 2.65 |   8 |   402.16 | 2024-04-22T17:58:08Z |
 :END:
 
@@ -74,7 +74,7 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |  10 |   382.91 | 2024-03-17T12:47:52Z |
-|        1 | 2.80 |   6 |   113.57 | 2023-05-13T05:50:07Z |
+|        1 | 2.80 |   7 |   340.56 | 2024-04-18T05:55:53Z |
 :END:
 
 - {{$\operatorname{P}(H|E)$}@0}

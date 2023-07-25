@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       f234a51d-23e4-4050-bf2c-60895a99ee12
+:LAST_MODIFIED: [2023-07-22 Sat 20:47]
+:ROAM_REFS: [cite:@DeclarativeProgramming2023]
+:END:
+#+title: Declarative programming
+#+hugo_custom_front_matter: :slug "f234a51d-23e4-4050-bf2c-60895a99ee12"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-01 Mon 17:49]
+#+filetags: :concept:
+
+#+begin_quote
+Declarative programming is often defined as any style of programming that is not imperative [[[id:fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a][Imperative programming]]]. A number of other common definitions attempt to define it by simply contrasting it with imperative programming. For example:
+
+- A high-level program that describes what a computation should perform.
+- Any programming language that lacks side effects (or more specifically, is referentially transparent)
+- A language with a clear correspondence to mathematical logic.
+
+These definitions overlap substantially.
+
+Declarative programming is a non-imperative style of programming in which programs describe their desired results without explicitly listing commands or steps that must be performed. Functional [[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]] and logical programming [[[id:6890c22d-7dc3-4ce9-ae3a-a9d7d288fa14][Logic programming]]] languages are characterized by a declarative programming style.
+
+[cite:@DeclarativeProgramming2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-05-03 Wed 15:26]
+:FC_CREATED: 2023-05-03T22:26:45Z
+:FC_TYPE:  double
+:ID:       1d7a4334-5f44-49fb-b065-4969deaa89f4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    92.28 | 2023-10-14T07:31:38Z |
+| back     | 1.45 |   2 |     2.00 | 2023-07-25T03:47:02Z |
+:END:
+
+[[id:f234a51d-23e4-4050-bf2c-60895a99ee12][Declarative programming]]
+
+*** Back
+A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] in which the author describes the desired result without explicitly listing commands or steps to be performed.
+*** Source
+[cite:@DeclarativeProgramming2023]
+#+print_bibliography:

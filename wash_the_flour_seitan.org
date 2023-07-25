@@ -2,7 +2,7 @@
 :ID:       aec8ffce-c854-4800-8a3d-bf8ac3616eef
 :ROAM_ALIASES: "WTF seitan" "WTF method" "Wash the flour method"
 :ROAM_REFS: [cite:@seitansocietyWashFlourMethod] [cite:@leWashedFlourSeitanMethod2021]
-:LAST_MODIFIED: [2023-01-22 Sun 08:40]
+:LAST_MODIFIED: [2023-04-30 Sun 11:45]
 :END:
 #+title: Wash the flour seitan
 #+hugo_custom_front_matter: :slug "aec8ffce-c854-4800-8a3d-bf8ac3616eef"
@@ -126,7 +126,7 @@ Wash the flour method is a way to make [[id:2caa9715-d216-41c4-babb-c6e66364ac6d
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    86.13 | 2023-04-18T19:51:05Z |
+| front    | 2.05 |   7 |   172.74 | 2023-10-20T12:35:20Z |
 :END:
 
 1. Combine flour and water

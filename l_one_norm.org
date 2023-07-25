@@ -2,7 +2,7 @@
 :ID:       1328dcd2-14a0-4f79-bf54-80ac0bf2e162
 :ROAM_REFS: [cite:@TaxicabGeometry2022]
 :ROAM_ALIASES: "Manhattan norm" "Taxicab norm"
-:LAST_MODIFIED: [2023-03-09 Thu 18:59]
+:LAST_MODIFIED: [2023-05-06 Sat 10:41]
 :END:
 #+title: L-one norm
 #+hugo_custom_front_matter: :slug "1328dcd2-14a0-4f79-bf54-80ac0bf2e162"
@@ -49,7 +49,7 @@ $\|\vec{x}\|_1 = \sum |x_i|$
 |        0 | 2.80 |   8 |   375.28 | 2024-02-21T07:06:20Z |
 |        1 | 2.80 |   8 |   373.13 | 2024-02-23T19:15:11Z |
 |        2 | 2.65 |   8 |   385.89 | 2024-03-30T00:23:06Z |
-|        3 | 2.65 |   8 |   175.87 | 2023-05-01T18:42:06Z |
+|        3 | 2.65 |   9 |   488.97 | 2024-09-06T17:01:35Z |
 :END:
 
 - {{p-norm for $p = 1$}@0}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d216377f-00fe-45d5-8ed3-e3bef88eae70
-:LAST_MODIFIED: [2023-03-14 Tue 08:18]
+:LAST_MODIFIED: [2023-07-05 Wed 21:10]
 :ROAM_REFS: [cite:@SineQuaNon2023]
 :END:
 #+title: Sine qua non
@@ -26,8 +26,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   5 |    28.29 | 2023-04-11T22:17:45Z |
-|        1 | 2.65 |   4 |    17.07 | 2023-03-19T17:45:37Z |
+|        0 | 1.30 |   8 |    19.98 | 2023-07-26T03:45:09Z |
+|        1 | 2.65 |   6 |   116.27 | 2023-09-02T23:28:37Z |
 :END:
 
 {{[[id:d216377f-00fe-45d5-8ed3-e3bef88eae70][Sine qua non]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} :: {{A thing which is absolutely necessary}{English}@1}

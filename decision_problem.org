@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82
-:LAST_MODIFIED: [2023-03-09 Thu 18:58]
+:LAST_MODIFIED: [2023-07-23 Sun 21:06]
 :ROAM_REFS: [cite:@DecisionProblem2023]
 :ROAM_ALIASES: Undecidable Decidable
 :END:
@@ -27,8 +27,8 @@ In computability theory and computational complexity theory [[[id:235c1171-e8bd-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    35.51 | 2023-04-09T03:17:20Z |
-| back     | 2.50 |   5 |    39.76 | 2023-04-17T12:45:47Z |
+| front    | 2.65 |   7 |   230.50 | 2024-02-29T12:47:22Z |
+| back     | 2.35 |   7 |   234.69 | 2024-03-14T20:42:41Z |
 :END:
 
 [[id:53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82][Decision problem]]
@@ -47,8 +47,8 @@ A computational problem one can pose as a yes/no question of the input values.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    45.78 | 2023-04-24T21:42:51Z |
-| back     | 2.80 |   4 |    18.25 | 2023-03-19T10:15:08Z |
+| front    | 2.65 |   6 |   119.73 | 2023-08-29T17:04:30Z |
+| back     | 2.65 |   6 |   143.25 | 2023-09-30T22:09:34Z |
 :END:
 
 A [[id:53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82][Decidable]] problem.

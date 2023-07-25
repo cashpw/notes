@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e00b9c0f-103f-4c55-8938-e777f58d04fb
 :ROAM_ALIASES: "Radix trie" "Patricia tree"
-:LAST_MODIFIED: [2023-03-15 Wed 08:07]
+:LAST_MODIFIED: [2023-07-23 Sun 20:58]
 :END:
 #+title: Radix tree
 #+hugo_custom_front_matter: :slug "e00b9c0f-103f-4c55-8938-e777f58d04fb"
@@ -35,8 +35,8 @@ In computer science, a radix tree (also radix trie or compact prefix tree or com
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    86.24 | 2023-05-22T09:47:13Z |
-| back     | 2.35 |   6 |    75.15 | 2023-05-15T07:44:36Z |
+| front    | 1.90 |   3 |     6.00 | 2023-07-24T13:40:32Z |
+| back     | 2.20 |   7 |   151.16 | 2023-10-13T21:11:03Z |
 :END:
 
 [[id:e00b9c0f-103f-4c55-8938-e777f58d04fb][Radix tree]]
@@ -57,7 +57,7 @@ A space-optimized [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]] who's
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   4 |    12.87 | 2023-03-18T14:17:09Z |
+|        0 | 2.05 |   7 |   113.95 | 2023-10-10T13:04:38Z |
 :END:
 
 *** Source
@@ -74,9 +74,9 @@ A space-optimized [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]] who's
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        2 | 2.80 |   6 |   109.29 | 2023-06-15T22:57:07Z |
-|        0 | 2.50 |   6 |    82.61 | 2023-05-14T10:51:23Z |
-|        1 | 2.65 |   6 |   129.30 | 2023-07-22T22:12:10Z |
+|        2 | 2.80 |   7 |   304.57 | 2024-04-16T03:41:16Z |
+|        0 | 2.50 |   7 |   223.23 | 2023-12-23T20:12:40Z |
+|        1 | 2.65 |   7 |   311.19 | 2024-05-30T08:27:26Z |
 :END:
 
 *** Source
@@ -93,7 +93,7 @@ A space-optimized [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]] who's
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    77.52 | 2023-04-25T07:24:19Z |
+|        0 | 2.20 |   7 |   157.47 | 2023-10-04T01:49:58Z |
 :END:
 
 *** Source

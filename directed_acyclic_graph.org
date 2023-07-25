@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ee7fcae8-6322-4b71-91b0-704b7c21ae3a
 :ROAM_ALIASES: DAG
-:LAST_MODIFIED: [2023-03-17 Fri 07:02]
+:LAST_MODIFIED: [2023-07-17 Mon 06:52]
 :ROAM_REFS: [cite:@DirectedAcyclicGraph2022]
 :END:
 #+title: Directed acyclic graph
@@ -35,8 +35,8 @@ Some algorithms become simpler when used on DAGs instead of general graphs, base
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   120.97 | 2023-07-16T13:25:15Z |
-| back     | 2.80 |   6 |   121.98 | 2023-07-14T14:30:44Z |
+| front    | 2.50 |   7 |   285.97 | 2024-04-28T13:14:55Z |
+| back     | 2.65 |   7 |   346.67 | 2024-06-26T06:17:27Z |
 :END:
 
 [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]
@@ -58,7 +58,7 @@ A directed graph which can be topologically sorted.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   6 |   145.90 | 2023-08-06T12:06:42Z |
-|        1 | 2.95 |   5 |    48.77 | 2023-03-20T10:44:30Z |
+|        1 | 2.95 |   6 |   153.54 | 2023-08-21T05:26:23Z |
 :END:
 
 - {{[[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]}@0}
@@ -77,10 +77,10 @@ A directed graph which can be topologically sorted.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   106.92 | 2023-06-26T03:31:03Z |
+|        0 | 2.65 |   7 |   296.22 | 2024-04-17T21:30:06Z |
 :END:
 
-A [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]] can be {{sorted in [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]}@0}.
+A [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]] can be {{sorted in [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]}{order}@0}.
 
 *** Source
 [cite:@DirectedAcyclicGraph2022]

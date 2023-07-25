@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2023-03-04 Sat 07:06]
+:LAST_MODIFIED: [2023-07-23 Sun 20:55]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -57,10 +57,6 @@ procedure partition(lowIndex, highIndex, list) is
 | Space | \(\bigo{n}\)   |                     | \(\bigo{n}\)                       |
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Algorithm :fc:
 :PROPERTIES:
 :ID:       5c298d12-be0f-4a7f-b4b7-210b4d1a1565
@@ -74,9 +70,9 @@ procedure partition(lowIndex, highIndex, list) is
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   282.75 | 2023-11-16T15:42:56Z |
-|        1 | 2.35 |   7 |   118.90 | 2023-05-06T12:58:00Z |
-|        2 | 2.65 |   6 |   105.56 | 2023-04-05T05:11:08Z |
-|        3 | 2.80 |   6 |   120.03 | 2023-05-30T03:19:05Z |
+|        1 | 2.20 |   8 |   267.63 | 2024-02-01T07:40:35Z |
+|        2 | 2.65 |   7 |   304.12 | 2024-02-03T19:17:46Z |
+|        3 | 2.80 |   7 |   337.72 | 2024-05-03T09:02:13Z |
 :END:
 
 {{[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}@0}
@@ -99,7 +95,7 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   134.34 | 2023-05-28T01:00:19Z |
+|        0 | 2.20 |   8 |   273.53 | 2024-02-28T05:02:27Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function initializes =i= to ={{low_index - 1}@0}=
 *** Extra
@@ -118,7 +114,7 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   118.54 | 2023-05-14T05:18:04Z |
+|        0 | 2.80 |   7 |   353.03 | 2024-05-01T15:38:16Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function iterates =j= from ={{range(low_index, high_index)}@0}=
 *** Extra
@@ -137,7 +133,7 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    71.95 | 2023-03-23T14:29:02Z |
+|        0 | 2.20 |   7 |   150.53 | 2023-08-21T04:51:39Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= conditionally swaps elements at ={{i and j}@0}=
 *** Source
@@ -155,7 +151,7 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    72.23 | 2023-03-21T20:30:32Z |
+|        0 | 2.50 |   7 |   164.28 | 2023-09-02T20:38:26Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= compares elements at ={{j and pivot_index}@0}=
 *** Source
@@ -171,8 +167,8 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   112.92 | 2023-05-14T12:17:41Z |
-| back     | 2.50 |   6 |   102.25 | 2023-04-27T00:27:18Z |
+| front    | 2.35 |   7 |   290.06 | 2024-02-29T18:38:56Z |
+| back     | 2.50 |   7 |   271.01 | 2024-01-29T21:51:57Z |
 :END:
 
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
@@ -199,7 +195,7 @@ A divide-and-conquer sorting algorithm which recursively sorts a list by selecti
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    81.39 | 2023-04-26T01:04:40Z |
+| front    | 1.90 |   6 |    51.02 | 2023-09-01T13:10:32Z |
 :END:
 
 Implementation of [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
@@ -256,8 +252,8 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.20 |   7 |   178.85 | 2023-07-23T13:07:32Z |
-|        0 | 2.65 |   7 |   164.18 | 2023-04-30T20:29:30Z |
+|        1 | 2.20 |   8 |   394.99 | 2024-08-22T03:44:44Z |
+|        0 | 2.65 |   8 |   451.10 | 2024-08-04T17:38:21Z |
 :END:
 {{[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}@0}'s implementation is composed of: {{partition, inner, and swap}{functions}@1}
 *** Extra
@@ -276,7 +272,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    72.35 | 2023-04-13T00:39:17Z |
+|        0 | 2.35 |   7 |   167.67 | 2023-09-28T05:22:39Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] average time complexity is {{$O(n \log n)$}@0}
 *** Extra
@@ -295,7 +291,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   146.46 | 2023-05-25T05:42:19Z |
+|        0 | 2.35 |   8 |   335.96 | 2024-04-25T13:12:04Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] space complexity is {{$O(n)$}@0}
 
@@ -336,7 +332,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |   126.03 | 2023-05-04T19:21:41Z |
+|        0 | 2.05 |   8 |   277.25 | 2024-02-07T23:33:21Z |
 :END:
 
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{[[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]}{memory}@0}

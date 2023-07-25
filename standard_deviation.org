@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f4de9f04-053d-4602-a81a-c4118e6ee3c2
-:LAST_MODIFIED: [2023-03-15 Wed 08:11]
+:LAST_MODIFIED: [2023-07-23 Sun 21:04]
 :END:
 #+title: Standard deviation
 #+hugo_custom_front_matter: :slug "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
@@ -17,7 +17,7 @@ $\operatorname{stddev}(x) = \sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$
 
 * Flashcards
 
-** Definition (Statistics) :fc:
+** Describe (Statistics) :fc:
 :PROPERTIES:
 :ID:       eb787732-911c-4ed1-9b1a-c58e231df7de
 :ANKI_NOTE_ID: 1640627867844
@@ -27,8 +27,8 @@ $\operatorname{stddev}(x) = \sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   9 |   210.90 | 2023-06-30T15:09:21Z |
-| front    | 1.85 |   7 |    79.03 | 2023-06-02T15:48:44Z |
+| back     | 2.35 |  10 |   468.17 | 2024-10-11T05:51:17Z |
+| front    | 1.55 |   6 |    23.73 | 2023-08-05T06:31:31Z |
 :END:
 
 [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
@@ -93,8 +93,8 @@ Population [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    91.67 | 2023-05-18T08:11:16Z |
-|        1 | 1.90 |   6 |    45.49 | 2023-04-11T15:28:41Z |
+|        0 | 2.50 |   7 |   236.36 | 2024-01-09T23:53:40Z |
+|        1 | 1.30 |   8 |    33.66 | 2023-08-26T19:51:02Z |
 :END:
 
 {{$\operatorname{stddev}(x)$}@0} $=$ {{$\sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$}{expression}@1}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2aba17e5-6dca-46ae-ad64-1feb6e91a01d
-:LAST_MODIFIED: [2023-02-16 Thu 19:34]
+:LAST_MODIFIED: [2023-06-28 Wed 10:20]
 :END:
 #+title: I hate mondays
 #+hugo_custom_front_matter: :slug "2aba17e5-6dca-46ae-ad64-1feb6e91a01d"
@@ -26,8 +26,8 @@ See [[id:d15c77d7-fde1-4f65-a68d-59a6a51ed7d1][Ian Danskin | I Hate Mondays]] an
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   104.30 | 2023-04-21T22:27:19Z |
-| back     | 2.50 |   6 |    78.13 | 2023-04-07T19:18:43Z |
+| front    | 2.50 |   7 |   283.49 | 2024-02-08T06:37:53Z |
+| back     | 2.50 |   7 |   211.62 | 2023-11-06T06:01:26Z |
 :END:
 [[id:2aba17e5-6dca-46ae-ad64-1feb6e91a01d][I hate mondays]]
 *** Back
@@ -47,7 +47,7 @@ Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   351.64 | 2024-02-03T18:59:53Z |
-| back     | 2.50 |   7 |   173.83 | 2023-06-28T11:15:38Z |
+| back     | 2.50 |   8 |   434.46 | 2024-09-05T04:21:59Z |
 :END:
 [[id:2aba17e5-6dca-46ae-ad64-1feb6e91a01d][I hate mondays]]
 *** Back

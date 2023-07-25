@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a4a360b0-9898-4d9b-a0f0-c84a6ae07f42
 :ROAM_ALIASES: "Exercise price"
-:LAST_MODIFIED: [2023-02-23 Thu 20:03]
+:LAST_MODIFIED: [2023-07-23 Sun 21:04]
 :END:
 #+title: Strike price
 #+hugo_custom_front_matter: :slug "a4a360b0-9898-4d9b-a0f0-c84a6ae07f42"
@@ -26,8 +26,8 @@ In finance, the strike price (or exercise price) of an [[id:1263eb22-a819-43e6-9
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   152.69 | 2023-03-19T07:50:32Z |
-| front    | 2.65 |   8 |   232.45 | 2023-07-21T03:23:55Z |
+| back     | 2.65 |   8 |   439.83 | 2024-06-01T13:29:07Z |
+| front    | 2.65 |   9 |   636.86 | 2025-04-21T00:45:00Z |
 :END:
 
 [[id:a4a360b0-9898-4d9b-a0f0-c84a6ae07f42][Strike price]]

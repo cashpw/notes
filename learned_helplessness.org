@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       06b5c658-5513-4c18-a24d-9ed3fb4ad23b
 :ROAM_REFS: [cite:@LearnedHelplessness2022]
-:LAST_MODIFIED: [2023-02-12 Sun 09:45]
+:LAST_MODIFIED: [2023-03-31 Fri 08:46]
 :END:
 #+title: Learned helplessness
 #+hugo_custom_front_matter: :slug "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
@@ -31,7 +31,7 @@ Research has found that a human's reaction to feeling a lack of control differs 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   6 |   164.18 | 2023-07-26T22:01:06Z |
-| back     | 2.20 |   6 |    59.01 | 2023-03-30T16:42:46Z |
+| back     | 2.20 |   7 |   136.58 | 2023-08-15T05:39:16Z |
 :END:
 
 [[id:06b5c658-5513-4c18-a24d-9ed3fb4ad23b][Learned helplessness]]

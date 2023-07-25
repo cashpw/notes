@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       58146c27-37cf-4270-bb24-ab1f6bed8e9f
-:LAST_MODIFIED: [2023-03-07 Tue 08:14]
+:LAST_MODIFIED: [2023-07-18 Tue 06:47]
 :END:
 #+title: Greatness is a transitory experience
 #+hugo_custom_front_matter: :slug "58146c27-37cf-4270-bb24-ab1f6bed8e9f"
@@ -25,7 +25,7 @@ Greatness is a transitory experience. It is never consistent. It depends in part
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   6 |    44.01 | 2023-04-13T05:10:42Z |
+|        0 | 1.90 |   8 |   148.66 | 2023-12-02T06:33:11Z |
 :END:
 
 Greatness is {{a transitory experience}{short}@0}.
@@ -44,7 +44,7 @@ Greatness is {{a transitory experience}{short}@0}.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    70.14 | 2023-05-13T18:43:33Z |
+|        0 | 2.20 |   7 |   155.56 | 2023-10-17T04:16:16Z |
 :END:
 
 The person who experiences greatness must {{have a feeling for the myth they are in}{short}@0}.
@@ -64,10 +64,10 @@ The person who experiences greatness must {{have a feeling for the myth they are
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    36.01 | 2023-04-02T04:17:55Z |
+|        0 | 2.05 |   3 |     6.00 | 2023-07-24T13:47:24Z |
 :END:
 
-The person who experiences greatness must {{have a feeling for the myth they are in. They must reflect what is projected upon them. And they must have a strong sense of the sardonic}{full}@0}.
+{{The person who experiences greatness must have a feeling for the myth they are in. They must reflect what is projected upon them. And they must have a strong sense of the sardonic}{greatness (full); Dune}@0}.
 
 *** Source
 [cite:@herbertDune1999]

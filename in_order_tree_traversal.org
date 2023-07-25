@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5069eb5e-f5c6-49de-8329-ba07dafe320e
-:LAST_MODIFIED: [2022-12-25 Sun 07:06]
+:LAST_MODIFIED: [2023-07-23 Sun 21:05]
 :END:
 #+title: In-order tree traversal
 #+hugo_custom_front_matter: :slug "5069eb5e-f5c6-49de-8329-ba07dafe320e"
@@ -37,8 +37,8 @@ In-order traversal (green node): A, B, C, D, E, F, G, H, I
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   131.73 | 2023-04-21T11:57:01Z |
-| back     | 2.80 |   7 |   208.06 | 2023-07-21T16:31:59Z |
+| front    | 2.50 |   8 |   336.29 | 2024-03-30T21:39:53Z |
+| back     | 2.80 |   8 |   534.21 | 2025-01-08T09:11:54Z |
 :END:
 [[id:5069eb5e-f5c6-49de-8329-ba07dafe320e][In-order tree traversal]]
 *** Back

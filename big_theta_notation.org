@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       55b432cc-354d-406f-aa49-cb7a50c8d5a2
-:LAST_MODIFIED: [2023-03-08 Wed 10:32]
+:LAST_MODIFIED: [2023-06-13 Tue 07:48]
 :END:
 #+title: Big-Theta notation
 #+hugo_custom_front_matter: :slug "55b432cc-354d-406f-aa49-cb7a50c8d5a2"
@@ -27,8 +27,8 @@ Big Theta notation, written as \(\bigtheta{g(n)}\), indicates \(f\) is bound abo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    95.24 | 2023-05-01T20:31:43Z |
-| front    | 2.20 |   9 |   166.66 | 2023-06-13T08:22:16Z |
+| back     | 2.05 |   7 |   189.61 | 2023-11-09T12:28:10Z |
+| front    | 2.20 |  10 |   387.05 | 2024-07-04T16:04:12Z |
 :END:
 
 [[id:55b432cc-354d-406f-aa49-cb7a50c8d5a2][Big Theta notation]]

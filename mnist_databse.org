@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       97aadd62-8fb1-4670-a675-c5d591bfe6a1
 :ROAM_REFS: [cite:@MNISTDatabase2022]
-:LAST_MODIFIED: [2023-01-19 Thu 08:12]
+:LAST_MODIFIED: [2023-03-26 Sun 06:29]
 :END:
 #+title: MNIST databse
 #+hugo_custom_front_matter: :slug "97aadd62-8fb1-4670-a675-c5d591bfe6a1"
@@ -21,7 +21,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   152.97 | 2023-03-25T19:06:46Z |
+|        0 | 2.65 |   9 |   380.52 | 2024-04-10T01:58:36Z |
 :END:
 
 *** Extra

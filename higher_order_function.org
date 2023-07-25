@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c27e7511-da0f-4a63-91d5-902078d0add5
 :ROAM_REFS: [cite:@HigherorderFunction2022]
-:LAST_MODIFIED: [2023-02-26 Sun 08:02]
+:LAST_MODIFIED: [2023-07-23 Sun 21:00]
 :END:
 #+title: Higher-order function
 #+hugo_custom_front_matter: :slug "c27e7511-da0f-4a63-91d5-902078d0add5"
@@ -30,8 +30,8 @@ All other functions are first-order functions. In mathematics higher-order funct
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    39.89 | 2023-03-30T14:45:08Z |
-| back     | 2.80 |   5 |    47.20 | 2023-04-13T08:33:01Z |
+| front    | 2.50 |   7 |   269.02 | 2024-04-11T14:23:17Z |
+| back     | 2.80 |   6 |   128.85 | 2023-08-20T09:45:05Z |
 :END:
 
 [[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order function]]
@@ -52,7 +52,7 @@ A function which takes function(s) as argument(s) and/or returns a function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    48.17 | 2023-04-15T20:13:04Z |
+|        0 | 1.75 |   5 |    21.25 | 2023-08-14T10:03:03Z |
 :END:
 
 Functions which are not [[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order functions]] are {{first-order functions}@0}.

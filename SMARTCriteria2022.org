@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SMARTCriteria2022]
 :ID:       68f0244e-a6f4-42d5-ac41-2d2001987ea3
-:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:LAST_MODIFIED: [2023-06-19 Mon 13:41]
 :END:
 #+title: SMART criteria
 #+hugo_custom_front_matter: :slug "68f0244e-a6f4-42d5-ac41-2d2001987ea3"
@@ -35,8 +35,8 @@ SMART goals are:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    58.61 | 2023-04-06T09:36:34Z |
-| back     | 2.65 |   6 |   107.10 | 2023-06-19T17:48:41Z |
+| front    | 2.20 |   7 |   139.79 | 2023-08-26T10:03:14Z |
+| back     | 2.80 |   7 |   292.00 | 2024-04-06T20:43:30Z |
 :END:
 
 [[id:68f0244e-a6f4-42d5-ac41-2d2001987ea3][SMART criteria]]

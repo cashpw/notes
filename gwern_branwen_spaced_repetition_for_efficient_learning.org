@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@branwenSpacedRepetitionEfficientLearning2009]
 :ID:       14d26509-1c1c-4983-8f00-0c481fe918d5
-:LAST_MODIFIED: [2022-12-16 Fri 16:55]
+:LAST_MODIFIED: [2023-04-11 Tue 16:56]
 :END:
 #+title: Gwern Branwen | Spaced Repetition for Efficient Learning
 #+hugo_custom_front_matter: :slug "14d26509-1c1c-4983-8f00-0c481fe918d5"
@@ -10,6 +10,9 @@
 #+filetags: :reference:
 
 [[id:ea20bb3d-28ba-455f-8a8c-6aa2ad05c081][Gwern Branwen]], [cite:@branwenSpacedRepetitionEfficientLearning2009]
+
+* Summary
+On [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]].
 
 * Notes
 #+begin_quote

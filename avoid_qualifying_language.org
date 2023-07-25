@@ -1,12 +1,13 @@
 :PROPERTIES:
 :ID:       001f6ae7-a549-4e90-a571-783d9a20fcc3
-:LAST_MODIFIED: [2022-12-14 Wed 13:16]
+:LAST_MODIFIED: [2023-06-24 Sat 20:22]
 :END:
 #+title: Avoid qualifying language
 #+hugo_custom_front_matter: :slug "001f6ae7-a549-4e90-a571-783d9a20fcc3"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-20 Sun 08:51]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 Avoid using qualifying language (e.g. "perhaps" and "probably") to increase the [[id:70afedd4-60d2-4e2e-87e1-04999d90079e][strength]] of your writing.
-* TODO [#2] Flashcards
+
+* Flashcards

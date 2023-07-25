@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SpeculativeEvolution2022]
 :ID:       6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55
-:LAST_MODIFIED: [2023-02-08 Wed 10:34]
+:LAST_MODIFIED: [2023-06-09 Fri 08:33]
 :END:
 #+title: Speculative evolution
 #+hugo_custom_front_matter: :slug "6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55"
@@ -21,9 +21,6 @@ Related:
 - [[id:392666aa-baf5-4b52-b95f-e37b893ac63e][All Tomorrows]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 12:01]
@@ -34,8 +31,8 @@ Related:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   120.73 | 2023-06-09T12:10:01Z |
-| back     | 2.35 |   6 |    58.46 | 2023-04-06T10:33:59Z |
+| front    | 2.80 |   7 |   350.22 | 2024-05-24T20:55:16Z |
+| back     | 2.35 |   7 |   150.75 | 2023-09-04T14:35:11Z |
 :END:
 
 [[id:6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55][Speculative evolution]]

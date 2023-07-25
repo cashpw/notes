@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d0545243-563c-4745-8efa-04c0508293e9
 :ROAM_REFS: [cite:@Logit2022]
-:LAST_MODIFIED: [2023-03-10 Fri 21:21]
+:LAST_MODIFIED: [2023-07-22 Sat 20:46]
 :END:
 #+title: Logit function
 #+hugo_custom_front_matter: :slug "d0545243-563c-4745-8efa-04c0508293e9"
@@ -34,8 +34,8 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    93.10 | 2023-05-16T19:57:57Z |
-|        1 | 1.30 |   4 |     7.43 | 2023-03-18T15:40:32Z |
+|        0 | 2.50 |   7 |   215.17 | 2023-12-18T16:28:05Z |
+|        1 | 1.30 |   7 |    16.14 | 2023-08-08T07:12:33Z |
 :END:
 
 {{$\operatorname{logit}$}{function}@0} $\overset{\Delta}{=}$ {{$\ln(\frac{x}{1-x}) \;|\; x \in [0, 1]$}{expression}@1}
@@ -54,8 +54,8 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   100.29 | 2023-05-28T10:33:36Z |
-|        1 | 2.95 |   5 |    52.60 | 2023-03-23T09:59:08Z |
+|        0 | 2.65 |   7 |   281.64 | 2024-03-07T07:41:16Z |
+|        1 | 2.95 |   6 |   155.55 | 2023-08-26T05:01:36Z |
 :END:
 
 {{$\operatorname{logit}$}{function}@0} $\overset{\Delta}{=}$ {{$\operatorname{logistic}^{-1}$}{function}@1}
@@ -72,8 +72,8 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    13.01 | 2023-03-23T03:38:44Z |
-| back     | 2.80 |   5 |    47.45 | 2023-04-25T05:11:55Z |
+| front    | 1.90 |   6 |    41.37 | 2023-08-02T00:38:03Z |
+| back     | 2.80 |   6 |   129.00 | 2023-09-17T15:17:10Z |
 :END:
 
 [[id:d0545243-563c-4745-8efa-04c0508293e9][Logit function]]

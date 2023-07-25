@@ -2,7 +2,7 @@
 :ROAM_ALIASES: "Geometric progression"
 :ROAM_REFS: [cite:@GeometricProgression2022]
 :ID:       0a3c8553-f631-4eca-8e2c-957419ebb8ac
-:LAST_MODIFIED: [2023-03-10 Fri 21:19]
+:LAST_MODIFIED: [2023-07-10 Mon 08:41]
 :END:
 #+title: Geometric sequence
 #+hugo_custom_front_matter: :slug "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
@@ -35,8 +35,8 @@ The distinction between a progression and a series is that a progression is a se
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    64.68 | 2023-04-12T16:19:23Z |
-| back     | 2.65 |   6 |   109.83 | 2023-06-29T01:21:11Z |
+| front    | 2.20 |   7 |   128.34 | 2023-08-19T21:33:01Z |
+| back     | 2.80 |   7 |   292.16 | 2024-04-17T00:49:03Z |
 :END:
 
 [[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geometric progression]]
@@ -55,8 +55,8 @@ A sequence of non-zero numbers where each term is =previous_number * common_rati
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    75.39 | 2023-04-19T01:17:07Z |
-| back     | 2.65 |   6 |   104.60 | 2023-06-15T06:30:54Z |
+| front    | 2.35 |   7 |   173.55 | 2023-10-21T07:56:22Z |
+| back     | 2.35 |   5 |    32.20 | 2023-08-11T20:25:55Z |
 :END:
 
 Common ratio
@@ -75,8 +75,8 @@ The multiplicative factor in a [[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geomet
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    68.58 | 2023-04-09T06:16:31Z |
-| back     | 2.80 |   6 |   121.74 | 2023-06-29T22:36:59Z |
+| front    | 2.20 |   7 |   148.89 | 2023-09-05T13:06:53Z |
+| back     | 2.95 |   7 |   361.99 | 2024-06-27T01:33:27Z |
 :END:
 
 [[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geometric progression]]

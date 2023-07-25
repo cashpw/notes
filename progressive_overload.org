@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       07bbf4c0-e3bb-4689-9009-2cdb0404944d
+:ROAM_REFS: [cite:@ProgressiveOverload2023]
+:LAST_MODIFIED: [2023-07-22 Sat 20:42]
+:END:
+#+title: Progressive overload
+#+hugo_custom_front_matter: :slug "07bbf4c0-e3bb-4689-9009-2cdb0404944d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-24 Sat 19:45]
+#+filetags: :concept:
+
+#+begin_quote
+Progressive overload is a method of strength training and hypertrophy training that advocates for the gradual increase of the stress placed upon the musculoskeletal and nervous system. The principle of progressive overload suggests that the continual increase in the total workload during training sessions will stimulate muscle growth and strength gain by muscle hypertrophy.This improvement in overall performance will, in turn, allow the athlete to keep increasing the intensity of their training sessions.
+
+[cite:@ProgressiveOverload2023]
+#+end_quote
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-06-24 Sat 19:46]
+:FC_CREATED: 2023-06-25T02:47:28Z
+:FC_TYPE:  double
+:ID:       bf7f27dd-68b5-4c21-a5c3-5d446f68acac
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    39.59 | 2023-08-31T17:54:39Z |
+| back     | 2.50 |   4 |    13.64 | 2023-07-24T07:07:19Z |
+:END:
+
+[[id:07bbf4c0-e3bb-4689-9009-2cdb0404944d][Progressive overload]]
+
+*** Back
+#+begin_quote
+[...] is a method of strength training and hypertrophy training that advocates for the gradual increase of the stress placed upon the musculoskeletal and nervous system.
+#+end_quote
+*** Source
+[cite:@ProgressiveOverload2023]
+#+print_bibliography:

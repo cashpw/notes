@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       621bc458-5d22-462d-89df-e3f8e13d6dc4
-:LAST_MODIFIED: [2023-03-04 Sat 07:07]
+:LAST_MODIFIED: [2023-06-13 Tue 07:48]
 :END:
 #+title: Polarity
 #+hugo_custom_front_matter: :slug "621bc458-5d22-462d-89df-e3f8e13d6dc4"
@@ -60,7 +60,7 @@ Multipolarity is a distribution of power in which more than two nation-states ha
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   7 |   214.44 | 2023-07-25T02:25:42Z |
-| front    | 2.50 |   7 |   175.36 | 2023-06-13T01:12:26Z |
+| front    | 2.35 |   8 |   415.16 | 2024-08-01T18:43:52Z |
 :END:
 [[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]
 *** Back
@@ -84,7 +84,7 @@ Usually in the context of:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    68.86 | 2023-04-12T12:27:48Z |
+| back     | 2.20 |   7 |   140.86 | 2023-09-01T09:55:47Z |
 | front    | 2.50 |   7 |   207.99 | 2023-08-02T14:26:18Z |
 :END:
 
@@ -96,7 +96,7 @@ A condition in which one state has a preponderance of power and faces no competi
 *** Source
 [cite:@PolarityInternationalRelations2022]
 
-** Definition ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]) :fc:
+** Definition :fc:
 :PROPERTIES:
 :ID:       36d1b3a2-e559-478a-b08f-7387df8c286d
 :ANKI_NOTE_ID: 1658072636221
@@ -107,10 +107,10 @@ A condition in which one state has a preponderance of power and faces no competi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   7 |   334.61 | 2024-02-01T04:18:55Z |
-| front    | 2.50 |   6 |   111.87 | 2023-04-14T11:22:21Z |
+| front    | 2.35 |   7 |   278.86 | 2024-02-03T15:24:24Z |
 :END:
 
-[[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]]
+[[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]] ([[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]])
 
 *** Back
 A condition in which two states have a preponderance of power.
@@ -149,8 +149,8 @@ A condition in which more than two states have a preponderance of power.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   151.56 | 2023-05-20T07:02:33Z |
-| back     | 2.50 |   7 |   131.54 | 2023-05-03T04:28:25Z |
+| front    | 2.50 |   8 |   394.31 | 2024-06-18T20:32:46Z |
+| back     | 2.50 |   8 |   336.77 | 2024-04-07T12:17:06Z |
 :END:
 [[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]]
 *** Back
@@ -168,7 +168,7 @@ A condition in which more than two states have a preponderance of power.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   181.27 | 2023-08-25T10:22:41Z |
-| back     | 2.35 |   7 |   127.54 | 2023-06-05T05:19:28Z |
+| back     | 2.35 |   8 |   274.74 | 2024-03-06T08:49:14Z |
 :END:
 [[id:79e18826-8ece-4b40-8bd3-8c42c760ff94][Unipolarity]]
 *** Back

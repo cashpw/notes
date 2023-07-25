@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       2b16ef01-2da2-4de8-ae0f-eb694367a7f7
+:LAST_MODIFIED: [2023-07-15 Sat 07:10]
+:ROAM_REFS: [cite:@LogicalDisjunction2023]
+:END:
+#+title: Disjunction
+#+hugo_custom_front_matter: :slug "2b16ef01-2da2-4de8-ae0f-eb694367a7f7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-22 Mon 09:31]
+#+filetags: :concept:
+
+#+begin_quote
+In logic, disjunction is a logical connective typically notated as $\vee$ and read aloud as "or". For instance, the English language sentence "it is sunny or it is warm" can be represented in logic using the disjunctive formula $S \vee W$ assuming that $S$ abbreviates "it is sunny" and $W$ abbreviates "it is warm".
+
+[cite:@LogicalDisjunction2023]
+#+end_quote
+
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-05-22 Mon 09:35]
+:FC_CREATED: 2023-05-22T16:35:42Z
+:FC_TYPE:  cloze
+:ID:       8a1e442d-8cc4-4bf3-854e-ee62807a40ca
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.05 |   5 |    27.10 | 2023-08-11T16:30:24Z |
+|        1 | 2.65 |   5 |    44.48 | 2023-08-09T05:21:15Z |
+:END:
+
+- {{[[id:2b16ef01-2da2-4de8-ae0f-eb694367a7f7][Disjunction]]}@0}
+- {{Or}@1}
+
+*** Source
+[cite:@LogicalDisjunction2023]
+#+print_bibliography:

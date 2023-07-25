@@ -1,11 +1,43 @@
 :PROPERTIES:
 :ID:       0f560f37-8170-46a9-8ec3-160de418eb7d
-:LAST_MODIFIED: [2023-01-11 Wed 11:04]
+:LAST_MODIFIED: [2023-07-23 Sun 21:00]
+:ROAM_REFS: [cite:@GenerativeAdversarialNetwork2023]
 :END:
 #+title: Generative adversarial network
 #+hugo_custom_front_matter: :slug "0f560f37-8170-46a9-8ec3-160de418eb7d"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-11 Wed 11:04]
-#+filetags: :has_todo:concept:
-* TODO [#3]
-* TODO [#2] Flashcards
+#+filetags: :concept:
+
+#+begin_quote
+A generative adversarial network (GAN) is a class of machine learning [[[id:a9575c29-595a-4c89-b931-48d86bf1530a][Machine learning]]] frameworks and a prominent framework for approaching generative AI. The concept was initially developed by Ian Goodfellow and his colleagues in June 2014. In a GAN, two neural networks contest with each other in the form of a zero-sum game [[[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]], where one agent's gain is another agent's loss.
+
+[...]
+
+GANs are similar to mimicry in evolutionary biology, with an evolutionary arms race between both networks.
+
+[cite:@GenerativeAdversarialNetwork2023]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-24 Sat 20:19]
+:FC_CREATED: 2023-06-25T03:20:02Z
+:FC_TYPE:  double
+:ID:       d4eb04b2-f4f3-4dbf-8778-d83a6f942e47
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    43.51 | 2023-09-04T15:56:08Z |
+| back     | 2.50 |   5 |    37.41 | 2023-08-30T13:56:24Z |
+:END:
+
+[[id:0f560f37-8170-46a9-8ec3-160de418eb7d][Generative adversarial network]]
+
+*** Back
+A machine learning framework which pits two agents against each other in a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]: one produces output and the other distinguishes the output as good or bad.
+*** Source
+[cite:@GenerativeAdversarialNetwork2023]
+#+print_bibliography:

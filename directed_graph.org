@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       129f1b92-49f6-44af-bae3-d8a171f66f04
-:LAST_MODIFIED: [2023-02-14 Tue 20:45]
+:LAST_MODIFIED: [2023-07-02 Sun 18:08]
 :END:
 #+title: Directed graph
 #+hugo_custom_front_matter: :slug "129f1b92-49f6-44af-bae3-d8a171f66f04"
@@ -54,7 +54,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which the [[id:7211246e-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   186.97 | 2023-07-01T15:43:36Z |
+| front    | 2.95 |   8 |   586.28 | 2025-02-08T07:53:06Z |
 | back     | 2.95 |   7 |   313.25 | 2023-12-25T10:43:01Z |
 :END:
 

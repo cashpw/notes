@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cbd532d2-7ec0-4710-ba42-54212961b1c3
-:LAST_MODIFIED: [2023-03-13 Mon 08:03]
+:LAST_MODIFIED: [2023-06-14 Wed 17:40]
 :END:
 #+title: Monomial
 #+hugo_custom_front_matter: :slug "cbd532d2-7ec0-4710-ba42-54212961b1c3"
@@ -28,7 +28,7 @@ In mathematics, a monomial is, roughly speaking, a polynomial [[[id:b5f2c2d9-50a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |  10 |   154.13 | 2023-04-01T19:43:49Z |
+| back     | 2.65 |  11 |   385.05 | 2024-04-20T22:56:29Z |
 | front    | 2.20 |   7 |   151.97 | 2023-08-12T14:15:54Z |
 :END:
 
@@ -54,7 +54,7 @@ eg: $x$, $2y^2$, $\frac{1}{2}x^2{y}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   8 |   197.32 | 2023-06-14T23:40:11Z |
+|        0 | 2.20 |   9 |   436.10 | 2024-08-24T03:07:32Z |
 |        1 | 2.65 |   8 |   351.70 | 2024-02-24T19:50:59Z |
 :END:
 

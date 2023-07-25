@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       23a21efb-912c-46ff-84f6-5b3d68f96060
-:LAST_MODIFIED: [2022-12-24 Sat 09:22]
+:LAST_MODIFIED: [2023-06-23 Fri 07:07]
 :END:
 #+title: Daniela Witten
 #+hugo_custom_front_matter: :slug "23a21efb-912c-46ff-84f6-5b3d68f96060"
@@ -18,7 +18,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   199.30 | 2023-06-23T07:47:19Z |
+| front    | 2.65 |   9 |   511.40 | 2024-11-15T23:39:34Z |
 :END:
 
 [[id:23a21efb-912c-46ff-84f6-5b3d68f96060][Daniela Witten]]

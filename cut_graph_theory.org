@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d10d6ecb-87e1-446a-81a0-6afe74eddb78
 :ROAM_REFS: [cite:@CutGraphTheory2022]
-:LAST_MODIFIED: [2023-03-10 Fri 21:22]
+:LAST_MODIFIED: [2023-07-22 Sat 20:43]
 :END:
 #+title: Cut (Graph theory)
 #+hugo_custom_front_matter: :slug "d10d6ecb-87e1-446a-81a0-6afe74eddb78"
@@ -24,8 +24,8 @@ In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], a c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    37.61 | 2023-04-09T06:54:22Z |
-| back     | 2.80 |   5 |    51.60 | 2023-04-30T17:26:38Z |
+| front    | 2.50 |   7 |   241.87 | 2024-03-21T00:37:19Z |
+| back     | 2.65 |   6 |   143.01 | 2023-09-30T16:26:39Z |
 :END:
 
 [[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]]
@@ -44,8 +44,8 @@ A partition of vertices in a graph into two disjoint sets.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    45.04 | 2023-04-19T18:22:37Z |
-| back     | 2.35 |   4 |    12.93 | 2023-03-24T03:46:30Z |
+| front    | 2.05 |   4 |    11.46 | 2023-07-27T01:21:58Z |
+| back     | 2.50 |   7 |   156.86 | 2023-12-21T10:39:55Z |
 :END:
 
 Cut-set

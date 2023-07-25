@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2b33e0aa-52e7-404b-90f0-34f6468389c0
-:LAST_MODIFIED: [2023-03-14 Tue 08:13]
+:LAST_MODIFIED: [2023-07-10 Mon 08:42]
 :ROAM_REFS: [cite:@RowEchelonForm2022]
 :END:
 #+title: Row echelon form
@@ -46,8 +46,8 @@ A matrix is in reduced row echelon form (also called row canonical form) if it s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   218.98 | 2023-07-09T21:11:09Z |
-| front    | 2.65 |   8 |   196.84 | 2023-06-01T09:58:05Z |
+| back     | 2.65 |   9 |   525.28 | 2024-12-16T22:27:22Z |
+| front    | 2.65 |   9 |   563.78 | 2024-12-16T20:04:04Z |
 :END:
 [[id:8ebdd5de-6846-42d2-b019-0404e4bba32d][Reduced row echelon form]]
 *** Back
@@ -70,9 +70,9 @@ The state of a matrix when:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   108.41 | 2023-04-02T04:33:36Z |
+|        0 | 2.50 |   7 |   292.89 | 2024-01-20T14:22:09Z |
 |        1 | 2.80 |   7 |   242.92 | 2023-11-12T13:23:34Z |
-|        2 | 2.50 |   6 |   111.67 | 2023-04-20T10:40:03Z |
+|        2 | 2.50 |   7 |   304.13 | 2024-03-09T19:24:51Z |
 :END:
 
 - {{In row echelon form}@0}

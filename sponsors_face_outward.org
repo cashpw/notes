@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8ff15f08-a2b1-432c-b093-c774ab951f2c
-:LAST_MODIFIED: [2023-02-02 Thu 07:48]
+:LAST_MODIFIED: [2023-06-01 Thu 18:17]
 :END:
 #+title: Sponsors face outward
 #+hugo_custom_front_matter: :slug "8ff15f08-a2b1-432c-b093-c774ab951f2c"
@@ -24,8 +24,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   115.35 | 2023-05-29T00:09:10Z |
-| back     | 2.80 |   6 |   108.78 | 2023-05-26T18:42:06Z |
+| front    | 2.80 |   7 |   309.38 | 2024-04-04T01:25:23Z |
+| back     | 2.80 |   7 |   314.12 | 2024-04-11T04:08:31Z |
 :END:
 
 [[id:8ff15f08-a2b1-432c-b093-c774ab951f2c][Sponsors face outward]]

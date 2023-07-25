@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e1705b21-a504-452f-b809-4d8cbf1ec3d8
-:LAST_MODIFIED: [2023-02-22 Wed 18:24]
+:LAST_MODIFIED: [2023-06-18 Sun 07:16]
 :END:
 #+title: Power comes from having something to protect
 #+hugo_custom_front_matter: :slug "e1705b21-a504-452f-b809-4d8cbf1ec3d8"
@@ -22,5 +22,5 @@ See [[id:ad3762f0-6d77-4289-baa7-4c3192b9c4b1][Eliezer Yudkowsky | Something to 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   113.91 | 2023-06-17T00:09:25Z |
+|        0 | 2.50 |   7 |   256.45 | 2024-03-01T01:04:50Z |
 :END:

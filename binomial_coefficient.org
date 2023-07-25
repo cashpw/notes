@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       be5ebd31-6655-4f99-9325-2c41becd4dab
 :ROAM_REFS: [cite:@BinomialCoefficient2023]
-:LAST_MODIFIED: [2023-03-18 Sat 06:38]
+:LAST_MODIFIED: [2023-07-20 Thu 08:24]
 :END:
 #+title: Binomial coefficient
 #+hugo_custom_front_matter: :slug "be5ebd31-6655-4f99-9325-2c41becd4dab"
@@ -38,8 +38,8 @@ and the binomial coefficient $\tbinom {4}{2}}={\tfrac {4\times 3}{2\times 1}}={\
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    40.37 | 2023-03-29T12:12:48Z |
-| back     | 2.80 |   5 |    41.74 | 2023-04-07T21:37:33Z |
+| front    | 2.65 |   7 |   263.52 | 2024-04-02T13:23:27Z |
+| back     | 2.65 |   6 |   111.04 | 2023-07-29T16:29:42Z |
 :END:
 
 [[id:be5ebd31-6655-4f99-9325-2c41becd4dab][Binomial coefficient]]
@@ -60,8 +60,8 @@ $\binom{n}{k}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    36.33 | 2023-04-07T22:02:21Z |
-|        1 | 2.80 |   5 |    44.13 | 2023-04-24T08:34:32Z |
+|        0 | 2.65 |   7 |   234.66 | 2024-03-02T04:54:02Z |
+|        1 | 2.35 |   6 |   101.73 | 2023-10-28T07:23:27Z |
 :END:
 
 {{$\binom{n}{k}$}@0} $=$ {{$\frac{n!}{k!(n-k)!}$}{factorial}@1}
@@ -80,8 +80,8 @@ $\binom{n}{k}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    39.44 | 2023-03-26T15:06:36Z |
-|        1 | 2.65 |   5 |    41.13 | 2023-04-22T03:31:25Z |
+|        0 | 2.80 |   7 |   277.41 | 2024-04-17T23:59:51Z |
+|        1 | 1.90 |   4 |    10.29 | 2023-07-30T22:22:12Z |
 :END:
 
 {{$\binom{n}{k}$}@0} $=$ {{$\binom{n-1}{k} + \binom{n-1}{k-1}$}{binomial, recursive}@1}
@@ -100,8 +100,8 @@ $\binom{n}{k}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   3 |     6.00 | 2023-03-23T13:19:45Z |
-|        1 | 2.50 |   2 |     2.00 | 2023-03-20T13:38:57Z |
+|        0 | 2.65 |   6 |    98.20 | 2023-08-22T19:34:14Z |
+|        1 | 2.50 |   6 |    88.11 | 2023-08-18T16:37:29Z |
 :END:
 
 {{$\binom{n}{k}$}{Math}@0} :: {{$n$ choose $k$}{English}@1}

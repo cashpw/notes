@@ -2,7 +2,7 @@
 :ID:       4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087
 :ROAM_REFS: [cite:@SearchAlgorithm2022]
 :ROAM_ALIASES: "A* search algorithm" A*
-:LAST_MODIFIED: [2023-03-17 Fri 06:59]
+:LAST_MODIFIED: [2023-07-24 Mon 11:53]
 :END:
 #+title: A-star search algorithm
 #+hugo_custom_front_matter: :slug "4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087"
@@ -55,15 +55,12 @@ By the way, in this context, "optimal" doesn't mean that it reaches the optimal 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    77.58 | 2023-05-09T11:19:15Z |
+| front    | 2.50 |   7 |   204.76 | 2023-11-30T11:03:44Z |
 :END:
 
 Heuristics for [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A-star search algorithm]]
 
 *** Back
-:PROPERTIES:
-:ID:       9ae7014c-b92f-420f-b896-7590647c88b1
-:END:
 - [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][Manhattan distance]]
 - [[id:a5079f3d-9926-4de1-8b60-5d5e64396a01][Euclidian distance]]
 *** Source
@@ -80,7 +77,7 @@ Heuristics for [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A-star search algorith
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    73.05 | 2023-05-12T05:58:46Z |
+|        0 | 2.50 |   7 |   171.77 | 2023-10-31T10:39:06Z |
 :END:
 
 The time complexity of [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] {{depends on the heuristic}@0}.
@@ -99,8 +96,8 @@ The time complexity of [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] {{depends
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    53.21 | 2023-03-22T21:49:20Z |
-|        1 | 2.95 |   5 |    51.57 | 2023-03-26T05:30:14Z |
+|        0 | 2.95 |   6 |   161.79 | 2023-09-01T11:01:05Z |
+|        1 | 2.95 |   6 |   159.38 | 2023-09-01T22:32:15Z |
 :END:
 
 {{The =*=, for example in [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]],}@0} denotes {{optimal solutions}@1}
@@ -119,8 +116,8 @@ The time complexity of [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] {{depends
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    89.33 | 2023-06-06T01:29:28Z |
-|        1 | 2.35 |   6 |    73.31 | 2023-05-25T21:54:06Z |
+|        0 | 2.35 |   7 |   214.24 | 2024-01-06T20:19:07Z |
+|        1 | 2.35 |   7 |   167.65 | 2023-11-10T06:04:18Z |
 :END:
 
 [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] is {{optimal}{property}@0} if {{it uses an [[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]]}@1}
@@ -137,7 +134,7 @@ The time complexity of [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] {{depends
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   102.53 | 2023-06-21T18:13:29Z |
+| front    | 2.65 |   7 |   261.66 | 2024-03-10T17:14:01Z |
 | back     | 2.95 |   6 |   133.50 | 2023-07-29T01:58:42Z |
 :END:
 
@@ -162,8 +159,8 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   110.01 | 2023-07-02T15:27:26Z |
-|        1 | 2.50 |   6 |   113.10 | 2023-07-06T17:26:54Z |
+|        0 | 2.65 |   7 |   277.23 | 2024-04-05T06:37:30Z |
+|        1 | 2.50 |   7 |   296.99 | 2024-04-30T00:08:07Z |
 :END:
 
 - {{$f(n)$}@0}
@@ -172,7 +169,7 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 
 *** Source
 [cite:@SearchAlgorithm2022]
-** Denotes :fc:
+** Denotes ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]) :fc:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 20:07]
 :FC_CREATED: 2022-12-22T04:08:22Z
@@ -184,13 +181,13 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   105.89 | 2023-06-24T00:40:17Z |
-|        1 | 2.20 |   6 |    58.75 | 2023-04-25T11:29:17Z |
+|        0 | 2.65 |   7 |   261.35 | 2024-03-11T21:43:15Z |
+|        1 | 2.20 |   7 |   118.96 | 2023-09-06T15:15:25Z |
 :END:
 
 - {{$g(n)$}@0}
 
-{{The cost of the path from the start node to $n$}@1} ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
+{{The cost of the path from the start node to $n$}@1}
 
 *** Source
 [cite:@SearchAlgorithm2022]
@@ -206,8 +203,8 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    52.39 | 2023-03-24T01:51:32Z |
-|        1 | 2.95 |   5 |    51.14 | 2023-03-26T20:07:49Z |
+|        0 | 2.80 |   6 |   141.86 | 2023-08-13T14:23:05Z |
+|        1 | 2.95 |   6 |   159.95 | 2023-09-03T16:01:09Z |
 :END:
 
 - {{$h(n)$}@0}
@@ -226,7 +223,7 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    51.06 | 2023-03-20T17:40:34Z |
+| front    | 2.65 |   6 |   137.54 | 2023-08-06T06:16:48Z |
 :END:
 
 [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]
@@ -249,7 +246,7 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   129.54 | 2023-07-17T15:53:18Z |
+|        0 | 2.65 |   7 |   324.37 | 2024-06-06T22:28:43Z |
 :END:
 
 [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] is {{faster}{speed}@0} than [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]

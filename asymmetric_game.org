@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ad6e2800-e722-4fc0-90e7-a6f895c16100
-:LAST_MODIFIED: [2023-03-03 Fri 05:46]
+:LAST_MODIFIED: [2023-06-24 Sat 06:19]
 :END:
 #+title: Asymmetric game
 #+hugo_custom_front_matter: :slug "ad6e2800-e722-4fc0-90e7-a6f895c16100"
@@ -26,8 +26,8 @@ In [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], an [[id:ad6e2800-e7
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   153.12 | 2023-06-23T17:04:58Z |
-| back     | 2.20 |   7 |   109.12 | 2023-06-20T16:44:00Z |
+| front    | 3.10 |   7 |   519.56 | 2024-11-25T02:39:32Z |
+| back     | 2.20 |   8 |   245.16 | 2024-02-21T19:36:06Z |
 :END:
 
 [[id:ad6e2800-e722-4fc0-90e7-a6f895c16100][Asymmetric game]]
@@ -47,8 +47,8 @@ A game in which the identities of the players are non-fungible; the players have
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    61.82 | 2023-03-20T10:04:53Z |
-| back     | 2.50 |   6 |    86.73 | 2023-05-12T22:10:32Z |
+| front    | 2.20 |   7 |   131.40 | 2023-07-30T01:54:39Z |
+| back     | 2.35 |   7 |   201.37 | 2023-12-01T01:17:04Z |
 :END:
 
 [[id:ad6e2800-e722-4fc0-90e7-a6f895c16100][Asymmetric game]]

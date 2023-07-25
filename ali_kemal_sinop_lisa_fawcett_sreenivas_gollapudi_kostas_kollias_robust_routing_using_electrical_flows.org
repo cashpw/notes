@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@sinopRobustRoutingUsingElectricalFlows2021]
+:ID:       5db2d60d-f58e-43ed-80d8-b1826abaccd1
+:LAST_MODIFIED: [2023-06-26 Mon 05:18]
+:END:
+#+title: Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows
+#+hugo_custom_front_matter: :slug "5db2d60d-f58e-43ed-80d8-b1826abaccd1"
+#+author: Cash Weaver
+#+date: [2023-03-24 Fri 16:56]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@sinopRobustRoutingUsingElectricalFlows2021]
+
+* TODO Summary
+* TODO Thoughts
+* TODO [#0] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/5d/b2d60d-f58e-43ed-80d8-b1826abaccd1/Sinop et al. - 2021 - Robust Routing Using Electrical Flows.pdf
+:NOTER_PAGE: 1
+:END:
+* Questions
+** TODO What is "Customizable route planning" in the context of [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]?
+Daniel Delling, Andrew V. Goldberg, Thomas Pajor, and Renato F. Werneck. 2017. Customizable Route Planning in Road Networks. Transp. Sci. 51, 2 (2017), 566–591.
+** TODO What are "via-nodes"?
+** TODO What is the penalty method?
+** TODO What is the plateau method?
+** TODO What is "flow decomposition"?
+** TODO What is the "k-shortest path problem"?
+Jin Y. Yen. 1971. Finding the K Shortest Loopless Paths in a Network. Management
+Science 17, 11 (1971), 712–716.
+** TODO Read Alternative route graphs in road networks
+Roland Bader, Jonathan Dees, Robert Geisberger, and Peter Sanders. 2011. Al- ternative Route Graphs in Road Networks. In Theory and Practice of Algorithms in (Computer) Systems, Alberto Marchetti-Spaccamela and Michael Segal (Eds.). Springer Berlin Heidelberg, Berlin, Heidelberg, 21–32.
+** TODO What is an electrical flow in the context of [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graphs]]?
+Christos Faloutsos, Kevin S. McCurley, and Andrew Tomkins. 2004. Fast discovery of connection subgraphs. In Proceedings of the Tenth ACM SIGKDD International
+** TODO What is a Laplacian solver? And what is the significance of a near-linear one?
+Daniel A. Spielman and Shang-Hua Teng. 2004. Nearly-linear time algorithms for graph partitioning, graph sparsification, and solving linear systems. In Proceedings of the 36th Annual ACM Symposium on Theory of Computing, Chicago, IL, USA, June 13-16, 2004, László Babai (Ed.). ACM, 81–90.
+** TODO Read Choice routing
+2009. Camvit: Choice routing. http://www.camvit.com.
+** TODO Read Alternative routes in road networks
+Ittai Abraham, Daniel Delling, Andrew V. Goldberg, and Renato F. Werneck. 2013. Alternative routes in road networks. ACM J. Exp. Algorithmics 18 (2013).
+* TODO [#2] Flashcards
+#+print_bibliography:

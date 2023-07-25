@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       cbe60cda-fc7d-4188-9cb3-4715ae550b3d
+:LAST_MODIFIED: [2023-07-23 Sun 20:56]
+:END:
+#+title: Pure virtual function
+#+hugo_custom_front_matter: :slug "cbe60cda-fc7d-4188-9cb3-4715ae550b3d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-18 Thu 09:37]
+#+filetags: :concept:
+A =virtual= function which the implementing class *must* implement. They're denoted with ~=0;~ (see the first and second virtual functions in =Container=).
+
+#+begin_src C++
+class Container {
+ public:
+  virtual double& operator[](int) = 0;
+  virtual int size() const = 0;
+  virtual ˜Container() {}
+};
+#+end_src
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 09:39]
+:FC_CREATED: 2023-05-18T16:39:29Z
+:FC_TYPE:  double
+:ID:       55410b54-8e08-4686-8129-46e5f11865c4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   2 |     2.00 | 2023-07-26T03:56:07Z |
+| back     | 2.80 |   5 |    45.98 | 2023-08-16T01:19:30Z |
+:END:
+
+[[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]
+
+*** Back
+~=0;~ at the end of the function's declaration.
+*** Source
+[cite:@stroustrupTour2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 09:39]
+:FC_CREATED: 2023-05-18T16:40:09Z
+:FC_TYPE:  double
+:ID:       3bd37a26-e3ee-4b15-95a0-33373b6550eb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    43.02 | 2023-07-31T04:27:14Z |
+| back     | 1.90 |   2 |     2.00 | 2023-07-22T15:24:11Z |
+:END:
+
+[[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]
+
+*** Back
+(C++) A function which the implementing class *must* implement.
+*** Source
+[cite:@stroustrupTour2022]
+#+print_bibliography:

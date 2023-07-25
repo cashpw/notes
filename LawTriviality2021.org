@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@LawTriviality2021]
 :ID:       d4dba9bb-3753-45c8-b3ad-396185b2c62c
 :ROAM_ALIASES: Bike-shedding
-:LAST_MODIFIED: [2023-03-05 Sun 09:31]
+:LAST_MODIFIED: [2023-07-18 Tue 06:39]
 :END:
 #+title: Law of triviality
 #+hugo_custom_front_matter: :slug "d4dba9bb-3753-45c8-b3ad-396185b2c62c"
@@ -19,9 +19,6 @@
 Also known as [[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]].
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 14:37]
@@ -34,8 +31,8 @@ Also known as [[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   107.27 | 2023-06-12T10:02:24Z |
-|        1 | 2.50 |   6 |   105.88 | 2023-06-19T14:45:11Z |
+|        0 | 2.50 |   3 |     6.00 | 2023-07-24T13:39:28Z |
+|        1 | 2.50 |   7 |   253.87 | 2024-02-28T17:14:45Z |
 :END:
 
 - {{[[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Law of triviality]]}@0}
@@ -53,8 +50,8 @@ Also known as [[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    59.01 | 2023-04-17T03:43:24Z |
-| back     | 2.80 |   6 |   108.23 | 2023-06-12T09:04:00Z |
+| front    | 2.35 |   7 |   141.22 | 2023-09-05T21:09:36Z |
+| back     | 2.80 |   7 |   277.45 | 2024-03-20T02:28:10Z |
 :END:
 
 [[id:d4dba9bb-3753-45c8-b3ad-396185b2c62c][Bike-shedding]]

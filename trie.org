@@ -2,7 +2,7 @@
 :ID:       5b235c79-d75b-4e4e-808a-b43f532b6226
 :ROAM_ALIASES: "Prefix trie" "Prefix tree"
 :ROAM_REFS: [cite:@Trie2022]
-:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:LAST_MODIFIED: [2023-06-29 Thu 13:37]
 :END:
 #+title: Trie
 #+hugo_custom_front_matter: :slug "5b235c79-d75b-4e4e-808a-b43f532b6226"
@@ -34,8 +34,8 @@ In computer science, a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]], also c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    47.15 | 2023-04-29T18:05:26Z |
-| back     | 2.50 |   6 |    96.07 | 2023-05-24T16:43:08Z |
+| front    | 2.50 |   6 |   118.39 | 2023-08-28T08:47:27Z |
+| back     | 2.35 |   7 |   210.06 | 2023-12-20T21:53:53Z |
 :END:
 
 [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
@@ -53,8 +53,8 @@ A k-ary search tree for locating keys within a set.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   119.34 | 2023-05-08T22:24:02Z |
-| back     | 2.50 |   6 |   119.34 | 2023-05-29T10:46:00Z |
+| front    | 2.80 |   7 |   363.42 | 2024-05-07T02:44:45Z |
+| back     | 2.50 |   7 |   271.20 | 2024-02-26T20:09:38Z |
 :END:
 
 [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
@@ -72,8 +72,8 @@ A k-ary search tree for locating keys within a set.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   102.81 | 2023-05-11T11:48:00Z |
-| back     | 2.35 |   6 |    56.70 | 2023-04-06T11:13:48Z |
+| front    | 2.05 |   6 |    55.45 | 2023-08-24T07:21:49Z |
+| back     | 2.35 |   7 |   127.77 | 2023-08-12T15:04:58Z |
 :END:
 
 Applications of a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
@@ -95,8 +95,8 @@ Applications of a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   7 |    90.06 | 2023-06-15T15:39:39Z |
-|        1 | 2.20 |   6 |    56.21 | 2023-04-08T04:45:55Z |
+|        0 | 1.90 |   8 |   187.41 | 2023-12-21T00:01:06Z |
+|        1 | 2.20 |   7 |   111.97 | 2023-07-29T14:18:19Z |
 :END:
 
 *** Source

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@XanatosGambit]
 :ID:       8710324a-ceda-4590-86ee-ad11c3eb36b9
-:LAST_MODIFIED: [2023-02-07 Tue 10:27]
+:LAST_MODIFIED: [2023-05-08 Mon 10:10]
 :END:
 #+title: Xanatos gambit
 #+hugo_custom_front_matter: :slug "8710324a-ceda-4590-86ee-ad11c3eb36b9"
@@ -17,9 +17,6 @@ A Xanatos Gambit is a plan for which all foreseeable outcomes benefit the creato
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 09:02]
@@ -30,8 +27,8 @@ A Xanatos Gambit is a plan for which all foreseeable outcomes benefit the creato
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    89.50 | 2023-05-07T09:49:31Z |
-| back     | 2.35 |   6 |    70.22 | 2023-04-18T23:38:49Z |
+| front    | 2.50 |   7 |   241.76 | 2024-01-05T11:31:00Z |
+| back     | 2.20 |   7 |   151.63 | 2023-09-29T09:54:41Z |
 :END:
 
 [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][Xanatos gambit]]

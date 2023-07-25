@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8c1b0569-db17-41af-90a3-7f2c75dc8923
-:LAST_MODIFIED: [2023-02-14 Tue 20:41]
+:LAST_MODIFIED: [2023-07-15 Sat 07:14]
 :END:
 #+title: Realpolitik
 #+hugo_custom_front_matter: :slug "8c1b0569-db17-41af-90a3-7f2c75dc8923"
@@ -14,21 +14,18 @@ Realpolitik refers to enacting or engaging in diplomatic or political policies b
 
 Also see [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       4628fa14-3f89-405c-b67f-e5ce3a1116d9
 :ANKI_NOTE_ID: 1658600755331
 :FC_CREATED: 2022-07-23T18:25:55Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   6 |   146.97 | 2023-06-17T13:42:40Z |
-| front    | 2.80 |   6 |   118.92 | 2023-06-14T02:39:06Z |
+| back     | 2.65 |   5 |    43.08 | 2023-08-27T16:11:07Z |
+| front    | 2.80 |   7 |   338.21 | 2024-05-18T05:47:37Z |
 :END:
 [[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]]
 *** Back

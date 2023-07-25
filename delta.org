@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ef21ad22-553d-432e-a4e2-bdc404009c87
-:LAST_MODIFIED: [2023-03-13 Mon 07:52]
+:LAST_MODIFIED: [2023-07-24 Mon 11:54]
 :END:
 #+title: Delta (finance)
 #+hugo_custom_front_matter: :slug "ef21ad22-553d-432e-a4e2-bdc404009c87"
@@ -38,8 +38,8 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   100.98 | 2023-04-28T01:38:32Z |
-| back     | 2.50 |   6 |    75.67 | 2023-04-24T14:47:37Z |
+| front    | 2.35 |   7 |   250.95 | 2024-01-06T17:32:30Z |
+| back     | 2.65 |   7 |   209.60 | 2023-11-27T13:50:05Z |
 :END:
 
 [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]]
@@ -63,8 +63,8 @@ $\dots = \frac{\partial V}{\partial S}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   6 |   144.21 | 2023-07-09T20:53:15Z |
-|        0 | 2.50 |   6 |    96.04 | 2023-06-02T17:16:28Z |
+|        1 | 2.80 |   7 |   402.58 | 2024-08-16T05:30:11Z |
+|        0 | 2.05 |   5 |    31.42 | 2023-07-31T07:00:59Z |
 :END:
 
 *** Source
@@ -82,8 +82,8 @@ $\dots = \frac{\partial V}{\partial S}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   6 |   128.82 | 2023-06-15T19:22:39Z |
-|        0 | 1.90 |   7 |    82.74 | 2023-06-04T08:36:56Z |
+|        1 | 2.80 |   7 |   379.00 | 2024-06-29T14:02:39Z |
+|        0 | 1.75 |   8 |   140.28 | 2023-10-23T06:48:56Z |
 :END:
 
 *** Source
@@ -100,15 +100,10 @@ $\dots = \frac{\partial V}{\partial S}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    75.85 | 2023-03-29T10:59:55Z |
+|        0 | 2.35 |   7 |   178.44 | 2023-09-24T01:28:11Z |
 :END:
 
 *** Source
-:PROPERTIES:
-:FC_CREATED: 2022-11-07T01:37:37Z
-:FC_TYPE:  cloze
-:ID:       1f4c1d94-be2f-4bab-947f-d512b45eaf8d
-:END:
 [cite:@WhatDeltaDerivativesTradingHowDoesItWork]
 ** (Finance) {{$\Delta$}@0} $=$ {{$\frac{\partial V}{\partial S}$}@1} :fc:
 :PROPERTIES:
@@ -122,8 +117,8 @@ $\dots = \frac{\partial V}{\partial S}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   129.28 | 2023-06-11T22:29:11Z |
-|        1 | 2.35 |   6 |    69.11 | 2023-04-13T19:12:19Z |
+|        0 | 2.95 |   7 |   374.06 | 2024-06-21T01:33:00Z |
+|        1 | 2.35 |   7 |   149.58 | 2023-10-07T05:48:44Z |
 :END:
 
 *** Source

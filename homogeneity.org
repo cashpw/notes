@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       65f61fff-628e-484a-baf5-785b37f7f28e
 :ROAM_REFS: [cite:@HomogeneousFunction2022]
-:LAST_MODIFIED: [2023-03-11 Sat 16:29]
+:LAST_MODIFIED: [2023-07-17 Mon 06:54]
 :END:
 #+title: Homogeneity
 #+hugo_custom_front_matter: :slug "65f61fff-628e-484a-baf5-785b37f7f28e"
@@ -37,8 +37,8 @@ $f(s\mathbf {v} )=s^{k}f(\mathbf {v})$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   220.62 | 2023-06-24T04:25:49Z |
-| front    | 2.60 |  10 |   131.06 | 2023-04-19T23:59:29Z |
+| back     | 1.75 |   4 |    10.65 | 2023-07-28T05:29:48Z |
+| front    | 2.60 |  11 |   319.12 | 2024-03-18T00:35:37Z |
 :END:
 
 Degree of homogeneity
@@ -59,7 +59,7 @@ The value of $k$ in $f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  13 |   261.38 | 2023-10-01T00:26:36Z |
-| front    | 1.90 |   4 |    10.89 | 2023-03-22T21:53:19Z |
+| front    | 1.60 |   6 |    23.37 | 2023-07-31T09:10:01Z |
 :END:
 
 Homogeneous function

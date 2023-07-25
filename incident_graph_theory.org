@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       a7ef48ed-6671-4bd2-a83b-816535c38f5e
+:LAST_MODIFIED: [2023-07-15 Sat 07:13]
+:END:
+#+title: Incident (Graph theory)
+#+hugo_custom_front_matter: :slug "a7ef48ed-6671-4bd2-a83b-816535c38f5e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-13 Tue 09:32]
+#+filetags: :concept:
+
+#+begin_quote
+Two edges are called incident, if they share a vertex. Also, a vertex and an edge are called incident, if the vertex is one of the two vertices the edge connects.
+
+[cite:@boteroAnswerGraphTheoryAdjacencyVsIncident2012]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-06-13 Tue 09:34]
+:FC_CREATED: 2023-06-13T16:35:31Z
+:FC_TYPE:  double
+:ID:       a73afd47-bfce-41cb-a49b-242e39484c06
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.04 | 2023-08-17T13:43:35Z |
+| back     | 2.35 |   5 |    33.05 | 2023-08-17T15:28:41Z |
+:END:
+
+[[id:a7ef48ed-6671-4bd2-a83b-816535c38f5e][Incident (Graph theory)]]
+
+*** Back
+A term describing both:
+
+- edges which share a vertex
+- a connected vertex-edge pairing
+*** Source
+[cite:@boteroAnswerGraphTheoryAdjacencyVsIncident2012]
+#+print_bibliography:

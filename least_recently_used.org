@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       682e1968-6d7c-4689-a627-5a9903323194
+:ROAM_ALIASES: LRU
+:LAST_MODIFIED: [2023-07-20 Thu 08:23]
+:END:
+#+title: Least recently used
+#+hugo_custom_front_matter: :slug "682e1968-6d7c-4689-a627-5a9903323194"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-22 Wed 09:21]
+#+filetags: :concept:
+
+A [[id:f1a77c99-0bb1-4972-a462-7ac47735faa8][Cache replacement policy]] which:
+
+#+begin_quote
+Discards the least recently used items first. This algorithm requires keeping track of what was used when, which is expensive if one wants to make sure the algorithm always discards the least recently used item.
+
+[cite:@CacheReplacementPolicies2023]
+#+end_quote
+
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 09:22]
+:FC_CREATED: 2023-03-22T16:22:59Z
+:FC_TYPE:  cloze
+:ID:       90709030-b1b9-4bb1-8485-0af59c8b4138
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   6 |   129.35 | 2023-10-25T22:36:14Z |
+|        1 | 2.80 |   6 |   146.77 | 2023-12-14T09:57:46Z |
+:END:
+
+- {{[[id:682e1968-6d7c-4689-a627-5a9903323194][LRU]]}@0}
+- {{[[id:682e1968-6d7c-4689-a627-5a9903323194][Least recently used]]}@1}
+
+*** Source
+[cite:@CacheReplacementPolicies2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 09:23]
+:FC_CREATED: 2023-03-22T16:25:06Z
+:FC_TYPE:  double
+:ID:       1573c29d-f770-46ff-a6bc-0efeb0211ecb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    94.54 | 2023-09-14T06:15:29Z |
+| back     | 2.65 |   6 |   126.64 | 2023-11-11T15:43:24Z |
+:END:
+
+[[id:682e1968-6d7c-4689-a627-5a9903323194][Least recently used]]
+
+*** Back
+A [[id:f1a77c99-0bb1-4972-a462-7ac47735faa8][Cache replacement policy]] which discards the items in the [[id:0bd96e38-6a09-4053-b5e8-cf707b03a3e5][Cache]] which haven't been accessed in the longest time.
+*** Source
+[cite:@CacheReplacementPolicies2023]
+#+print_bibliography:

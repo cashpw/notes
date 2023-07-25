@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e6c3a056-5061-4152-8b12-41f001f637a5
-:LAST_MODIFIED: [2023-03-13 Mon 08:01]
+:LAST_MODIFIED: [2023-07-15 Sat 07:11]
 :ROAM_REFS: [cite:@zviSlack]
 :END:
 #+title: Slack
@@ -44,8 +44,8 @@ Slack presents things as they are without concern for how things look or what ot
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    38.71 | 2023-04-13T10:26:42Z |
-| back     | 2.65 |   5 |    40.75 | 2023-04-20T23:26:16Z |
+| front    | 2.50 |   7 |   230.56 | 2024-03-02T03:37:23Z |
+| back     | 2.80 |   6 |   106.21 | 2023-08-13T19:43:33Z |
 :END:
 
 [[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]
@@ -64,8 +64,8 @@ Slack presents things as they are without concern for how things look or what ot
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    48.09 | 2023-04-27T05:19:35Z |
-| back     | 2.80 |   5 |    52.15 | 2023-05-04T18:43:10Z |
+| front    | 2.80 |   6 |   142.54 | 2023-09-18T11:32:09Z |
+| back     | 2.80 |   6 |   131.93 | 2023-09-18T15:12:52Z |
 :END:
 
 ... is the absence of binding constraints on behavior. It is
@@ -104,7 +104,7 @@ Poor is the person without .... Lack of ... compounds and traps.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    37.60 | 2023-04-10T04:05:16Z |
+|        0 | 2.50 |   7 |   224.57 | 2024-02-17T13:59:25Z |
 :END:
 
 Lack of {{[[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]}@0} compounds and traps.

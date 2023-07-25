@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6bc266e-1090-492f-bdba-f044e04db3ff
-:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:LAST_MODIFIED: [2023-07-23 Sun 21:00]
 :END:
 #+title: Bubble sort
 #+hugo_custom_front_matter: :slug "c6bc266e-1090-492f-bdba-f044e04db3ff"
@@ -54,7 +54,7 @@ while list is not sorted do
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   232.85 | 2023-09-22T13:10:22Z |
-| back     | 2.80 |   7 |   150.64 | 2023-05-08T09:39:05Z |
+| back     | 2.65 |   8 |   414.12 | 2024-06-25T20:13:34Z |
 :END:
 
 [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] algorithm
@@ -81,7 +81,7 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 3.10 |   6 |   166.34 | 2023-07-06T22:39:05Z |
+|        0 | 3.10 |   7 |   522.20 | 2024-12-11T05:03:16Z |
 :END:
 
 *** Extra
@@ -102,7 +102,7 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   141.26 | 2023-05-27T20:41:38Z |
+|        0 | 2.80 |   7 |   406.63 | 2024-07-11T06:47:34Z |
 :END:
 
 *** Extra
@@ -121,8 +121,8 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   214.18 | 2023-07-23T18:28:44Z |
-| back     | 2.65 |   6 |   150.07 | 2023-03-30T17:47:41Z |
+| front    | 2.65 |   8 |   511.87 | 2024-12-17T00:47:53Z |
+| back     | 2.80 |   7 |   378.93 | 2024-04-13T14:10:05Z |
 :END:
 
 [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]]
@@ -144,14 +144,14 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.70 |   8 |    66.97 | 2023-05-23T13:20:37Z |
+|        0 | 1.70 |   9 |   109.02 | 2023-09-10T20:56:25Z |
 :END:
 *** Extra
 *** Source
 [cite:@BubbleSort2022]
 
 
-** Implement [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] in Python :fc:
+** Implement [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] in Python :fc:implement:
 :PROPERTIES:
 :ID:       2841574b-9c02-4ed6-ba75-d9306d5743ba
 :ANKI_NOTE_ID: 1656856915683
@@ -161,7 +161,7 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   112.53 | 2023-04-28T04:03:59Z |
+| front    | 2.95 |   7 |   339.92 | 2024-04-15T13:12:53Z |
 :END:
 [[id:af832252-c4a9-4364-bdef-59c1a8ea6ebe][Bubble sort implementation in Python]]
 *** Source

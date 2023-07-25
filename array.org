@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       79b155d7-5a67-469d-b3f4-b8010cad8b54
 :ROAM_ALIASES: Arrays
-:LAST_MODIFIED: [2023-01-30 Mon 08:14]
+:LAST_MODIFIED: [2023-07-01 Sat 07:17]
 :END:
 #+title: Array
 #+hugo_custom_front_matter: :slug "79b155d7-5a67-469d-b3f4-b8010cad8b54"
@@ -30,8 +30,8 @@ In computer science, an array [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data st
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.95 |   6 |   151.48 | 2023-07-01T03:47:51Z |
-| front    | 2.50 |   6 |    85.54 | 2023-05-03T07:53:54Z |
+| back     | 2.95 |   7 |   466.22 | 2024-10-09T19:29:11Z |
+| front    | 2.50 |   7 |   197.76 | 2023-11-20T11:53:32Z |
 :END:
 
 [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Array]]

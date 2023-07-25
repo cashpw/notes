@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       2bb656cd-6834-4534-95e2-c77df28ffccb
+:LAST_MODIFIED: [2023-07-22 Sat 20:44]
+:END:
+#+title: Purposeful practice
+#+hugo_custom_front_matter: :slug "2bb656cd-6834-4534-95e2-c77df28ffccb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-07 Wed 08:41]
+#+filetags: :concept:
+
+#+begin_quote
+Purposeful practice consists of the following principles:
+
+1. Purposeful practice has to be focused. You should not be able to think of your next meal (nuggets!) while undertaking it.
+1. Purposeful practice should take you out of your comfort zone. It should feel painful to do. As I've mentioned earlier, playing a piece of music you already know how to play — for instance, during a musical performance — does not count, and writing a program that utilises techniques you already know to use also does not count for the purpose of mastery. Practice that makes you better should take maximal effort, and thus feel terribly unpleasant to do.
+1. Purposeful practice requires feedback, and adjustments to technique after getting the feedback. In its most general form, Ericsson notes that feedback need not be immediate — but it is most effective if the feedback loop is short.
+1. Purposeful practice has well-defined, specific goals. You don't want to "play this musical piece", you want to "play the complicated second section that requires unorthodox finger placement". You don't want to "code iPhone apps" you want to "implement the nested MVC model from scratch".
+
+[cite:@chinProblemsDeliberatePractice2019]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-07 Wed 08:55]
+:FC_CREATED: 2023-06-07T15:56:16Z
+:FC_TYPE:  double
+:ID:       8501a24d-582e-4d02-91c8-b406ca3c963b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.75 |   5 |    19.23 | 2023-08-11T09:21:03Z |
+| back     | 2.50 |   5 |    37.23 | 2023-08-18T18:21:34Z |
+:END:
+
+[[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]]
+
+*** Back
+Practice which is:
+
+- specific
+- focused
+- takes you out of your comfort zone
+- involves feedback to guide future effort
+*** Source
+[cite:@chinProblemsDeliberatePractice2019]
+#+print_bibliography:

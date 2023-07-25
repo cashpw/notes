@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0a9fac5c-2919-4dc1-b75b-ccab89d31a52
-:LAST_MODIFIED: [2023-01-25 Wed 08:33]
+:LAST_MODIFIED: [2023-07-05 Wed 21:11]
 :END:
 #+title: Reverse cargo cult
 #+hugo_custom_front_matter: :slug "0a9fac5c-2919-4dc1-b75b-ccab89d31a52"
@@ -43,7 +43,7 @@ Related: [[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of grey]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.95 |   8 |   228.96 | 2023-09-11T15:40:04Z |
-| front    | 2.65 |   7 |   169.25 | 2023-07-05T07:59:34Z |
+| front    | 2.65 |   8 |   416.65 | 2024-08-25T19:52:15Z |
 :END:
 [[id:0a9fac5c-2919-4dc1-b75b-ccab89d31a52][Reverse cargo cult]]
 *** Back

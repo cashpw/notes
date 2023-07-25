@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@dellingCustomizableRoutePlanning2011]
+:ID:       db28ce80-0ee2-48eb-abc9-8cc98e0c3936
+:LAST_MODIFIED: [2023-06-27 Tue 18:09]
+:END:
+#+title: Daniel Delling, Andrew V. Goldberg, Thomas Pajor, Renato F. Werneck | Customizable Route Planning
+#+hugo_custom_front_matter: :slug "db28ce80-0ee2-48eb-abc9-8cc98e0c3936"
+#+author: Cash Weaver
+#+date: [2023-06-21 Wed 09:44]
+#+filetags: :reference:
+
+[[id:b8b4c6bf-6059-48ec-ad26-e8fe698fec46][Daniel Delling]], [[id:75e1174d-6b3d-46d6-9dcd-154502f32a7e][Andrew Goldberg]], [[id:4c30ad18-1172-4b43-8364-f1b7535f1de2][Thomas Pajor]], [[id:1907ce27-4cc8-4995-8b94-ef5711c3d77f][Renato Werneck]], [cite:@dellingCustomizableRoutePlanning2011]
+
+* Summary
+See [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]
+* Thoughts
+* Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/db/28ce80-0ee2-48eb-abc9-8cc98e0c3936/customizable-route-planning.pdf
+:NOTER_PAGE: 5
+:END:
+
+#+begin_quote
+Abstract. We present an algorithm to compute shortest paths on continental road networks with arbitrary metrics (cost functions). The approach supports turn costs, enables real-time queries, and can incorporate a new metric in a few seconds—fast enough to support real-time traffic updates and personalized optimization functions. The amount of metric-specific data is a small fraction of the graph itself, which allows us to maintain several metrics in memory simultaneously.
+#+end_quote
+
+** Introduction
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+#+begin_quote
+Most previous research focused on the most natural metric, driving times. Real-world systems, however, often support other natural metrics as well, such as shortest distance, walking, biking, avoid U-turns, avoid/prefer freeways, or avoid left turns.
+#+end_quote
+
+- [[id:80204036-f6a9-4c5e-a02d-0112f517e9a3][Topology (Road networks)]]
+- [[id:b349f179-9181-40e6-a6e9-b1f065ba6abe][Metric (Customizable route planning)]]
+
+#+begin_quote
+The first [stage], /metric-independent preprocessing/, may be relatively slow, since it is run infrequently. It takes only the graph topology as input, and may produce a fair amount of auxiliary data (comparable to the input size). The second stage, /metric customization/, is run once for each metric, and must be much quicker (a few seconds) and produce little data—a small fraction of the original graph. Finally, the /query stage/ uses the outputs of the first two stages and must be fast enough for real-time applications.
+#+end_quote
+
+** Previous techniques
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+** Our approach
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+*** Basic algorithm
+:PROPERTIES:
+:NOTER_PAGE: (4 . 0.33080808080808083)
+:END:
+See [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]] for write-up.
+*** Sparsification
+:PROPERTIES:
+:NOTER_PAGE: (4 . 0.8592662871600253)
+:END:
+See [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]] for write-up.
+
+** Turns
+:PROPERTIES:
+:NOTER_PAGE: 9
+:END:
+** Conclusion
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
+
+* Flashcards
+#+print_bibliography:

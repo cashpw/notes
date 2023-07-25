@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c19c4cf1-9304-46b7-9441-8fed0ed17a57
-:LAST_MODIFIED: [2023-02-01 Wed 09:12]
+:LAST_MODIFIED: [2023-06-15 Thu 06:41]
 :END:
 #+title: Growth mindset
 #+hugo_custom_front_matter: :slug "c19c4cf1-9304-46b7-9441-8fed0ed17a57"
@@ -36,8 +36,8 @@ According to [[id:e1dbf248-511f-4518-aba6-8eeb1c6bbeb3][Carol Dweck]], individua
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   136.73 | 2023-06-15T12:33:59Z |
-| back     | 2.20 |   6 |    70.75 | 2023-04-13T11:07:22Z |
+| front    | 2.80 |   7 |   350.94 | 2024-05-31T12:19:00Z |
+| back     | 2.20 |   7 |   158.48 | 2023-09-19T00:35:32Z |
 :END:
 
 [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]]

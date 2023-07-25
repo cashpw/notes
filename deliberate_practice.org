@@ -1,0 +1,95 @@
+:PROPERTIES:
+:ID:       a1d74568-61f0-4a01-8aab-184d1b7a9752
+:LAST_MODIFIED: [2023-07-23 Sun 20:56]
+:END:
+#+title: Deliberate practice
+#+hugo_custom_front_matter: :slug "a1d74568-61f0-4a01-8aab-184d1b7a9752"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-07 Wed 08:37]
+#+filetags: :concept:
+
+"Deliberate practice is [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] that knows where it is going and how to get there".
+
+#+begin_quote
+Deliberate practice, on the other hand, adds a small number of principles to [[[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]]]:
+
+1. First, it demands that the practice be conducted in a field with well-established training techniques. Fields like music, math and chess have rigorous training methods that have been developed over the course of decades. This makes such fields ideal candidates for deliberate practice.
+1. Second, it demands that practice be guided in the initial stages by a teacher or coach. This is somewhat linked to the first principle — that the practice occurs in a domain with established training methods mean that a teacher may use known pedagogical techniques to improve student performance. As the student improves, her ability to form accurate mental models will also improve; these models allow her to eventually practice on her own.
+1. Third, and last, deliberate practice nearly always involves building or modifying previously acquired skills by focusing on particular aspects of those skills and working to improve them specifically. This in turns implies finding teachers or coaches with ever higher levels of expertise, and learning better refinements from them.
+
+[cite:@chinProblemsDeliberatePractice2019]
+#+end_quote
+
+#+begin_quote
+Principles of Deliberate Practice:
+
+1. The field must be well developed, the best performers must be clearly far superior to people just entering the field. If there's no competition to indicate skill, then it's hard for there to be deliberate practice because the differences of the best are less clear.
+1. Deliberate practice requires a teacher who can provide practice activities designed to help a student improve his or her performance.
+1. Near maximal effort, constantly being taken out of your comfort zone by a teacher or coach. Not "fun"
+1. Well defined, specific goals, not aimed at "overall improvement."
+1. Full attention and conscious action, no autopilot.
+1. Feedback and constant little improvements, modifying efforts in response to feedback
+1. Building and modifying mental representations
+1. Focusing on building and improving specific skills by focusing on aspects of those skills and improving them
+
+[cite:@eliasonPeakAndersEricssonRobertPoolSummaryNotesLessons]
+#+end_quote
+
+#+begin_quote
+Psychologist K. Anders Ericsson, a professor of Psychology at Florida State University, was a pioneer in researching deliberate practice and what it means. According to Ericsson:
+
+#+begin_quote2
+People believe that because expert performance is qualitatively different from a normal performance the expert performer must be endowed with characteristics qualitatively different from those of normal adults. [...] We agree that expert performance is qualitatively different from normal performance and even that expert performers have characteristics and abilities that are qualitatively different from or at least outside the range of those of normal adults. However, we deny that these differences are immutable, that is, due to innate talent. Only a few exceptions, most notably height, are genetically prescribed. Instead, we argue that the differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain.
+#+end_quote2
+
+One of Ericsson's core findings was that how expert one becomes at a skill has more to do with how one practises than with merely performing a skill a large number of times. An expert breaks down the skills that are required to be expert and focuses on improving those skill chunks during practice or day-to-day activities, often paired with immediate coaching feedback. Another important feature of deliberate practice lies in continually practising a skill at more challenging levels with the intention of mastering it.
+
+[cite:@PracticeLearningMethod2023]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-06-07 Wed 08:51]
+:FC_CREATED: 2023-06-07T15:52:08Z
+:FC_TYPE:  cloze
+:ID:       e5df65d8-3be9-4c76-8959-c7bc209217a8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 1.90 |   5 |    20.49 | 2023-08-12T15:21:45Z |
+|        1 | 2.20 |   5 |    33.74 | 2023-08-26T21:41:35Z |
+:END:
+
+{{[[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]}@0} is {{[[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] that knows where its going}{coloquially}@1}.
+
+*** Source
+Ericson
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-07 Wed 08:52]
+:FC_CREATED: 2023-06-07T15:54:31Z
+:FC_TYPE:  double
+:ID:       457eb219-183d-498c-849a-87e4c963ead3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    37.11 | 2023-08-12T17:05:25Z |
+| back     | 2.35 |   5 |    37.89 | 2023-08-25T11:08:25Z |
+:END:
+
+[[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]
+
+*** Back
+[[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] which additionally:
+
+1. is within a well-established domain (e.g. music, math) with known training techniques
+2. is led by an instructor
+3. refines, builds on, or modifies existing skills
+*** Source
+[cite:@chinProblemsDeliberatePractice2019]
+#+print_bibliography:

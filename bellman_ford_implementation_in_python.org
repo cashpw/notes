@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1e2daf6b-a3b6-471c-b273-b91f3e1f745d
-:LAST_MODIFIED: [2023-02-13 Mon 06:10]
+:LAST_MODIFIED: [2023-05-19 Fri 09:11]
 :END:
 #+title: Bellman-Ford implementation in Python
 #+hugo_custom_front_matter: :slug "1e2daf6b-a3b6-471c-b273-b91f3e1f745d"
@@ -66,7 +66,7 @@ def bellman_ford(source: Node, edges: Edges, nodes: Nodes) -> Tuple[Distances, P
     return distances, previouses
 #+end_src
 * Flashcards
-** Implement :fc:
+** Implement :fc:implement:
 :PROPERTIES:
 :CREATED: [2023-01-08 Sun 18:22]
 :FC_CREATED: 2023-01-09T02:22:38Z
@@ -76,7 +76,7 @@ def bellman_ford(source: Node, edges: Edges, nodes: Nodes) -> Tuple[Distances, P
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    47.38 | 2023-04-01T23:12:01Z |
+| front    | 2.80 |   6 |   129.51 | 2023-09-26T04:31:18Z |
 :END:
 
 Implement [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] to solve the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]

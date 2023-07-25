@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b37a4585-be03-43ea-a55c-6a5f84e59c77
-:LAST_MODIFIED: [2022-12-14 Wed 13:54]
+:LAST_MODIFIED: [2023-05-09 Tue 09:46]
 :END:
 #+title: Atom
 #+hugo_custom_front_matter: :slug "b37a4585-be03-43ea-a55c-6a5f84e59c77"
@@ -38,7 +38,7 @@ Technically speaking, a list in Lisp consists of parentheses surrounding atoms s
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   7 |   350.15 | 2024-01-23T03:44:27Z |
-| front    | 2.35 |   7 |   142.75 | 2023-04-17T08:40:38Z |
+| front    | 2.35 |   8 |   317.08 | 2024-03-21T18:43:35Z |
 :END:
 [[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]]
 *** Back

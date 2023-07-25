@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@matuschakEvergreenNotesShouldBeAtomic]
+:ID:       6ae97f03-6ce3-437e-88cf-a9f965839477
+:LAST_MODIFIED: [2023-04-11 Tue 16:50]
+:END:
+#+title: Andy Matuschak | Evergreen Notes Should Be Atomic
+#+hugo_custom_front_matter: :slug "6ae97f03-6ce3-437e-88cf-a9f965839477"
+#+author: Cash Weaver
+#+date: [2023-04-11 Tue 16:49]
+#+filetags: :reference:
+
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakEvergreenNotesShouldBeAtomic]
+
+* Notes
+#+begin_quote
+It's best to create notes which are only about one thing---but which, as much as possible, capture the entirety of that thing.
+
+This way, it's easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you'll also fragment your link network, which may make it harder to see certain connections. [[id:6037800d-34c3-4d62-a33b-3931d694f083][Evergreen notes should be densely linked]].
+
+There's no clear litmus test or correct answer here---just a bunch of tradeoffs.
+
+The notion is quite similar to the software engineering principle of /separation of concerns,/ which suggests that modules should only be "about" one thing, so that they're more easily reusable. But likewise, if you fragment modules too much, you'll have a cohesion problem. In this way, [[https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C][Evergreen note titles are like APIs]].
+#+end_quote
+* Flashcards
+#+print_bibliography:

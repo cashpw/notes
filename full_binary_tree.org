@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       25395d14-712a-4f0a-8fec-ee18152bc757
-:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:LAST_MODIFIED: [2023-07-10 Mon 08:33]
 :END:
 #+title: Full binary tree
 #+hugo_custom_front_matter: :slug "25395d14-712a-4f0a-8fec-ee18152bc757"
@@ -28,7 +28,7 @@ A full binary tree (sometimes referred to as a proper or plane or strict binary 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   230.98 | 2023-11-03T13:38:24Z |
-| back     | 2.50 |   6 |    97.95 | 2023-03-23T19:36:51Z |
+| back     | 1.75 |   6 |    29.37 | 2023-08-09T00:28:51Z |
 :END:
 [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
 *** Back

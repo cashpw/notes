@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       740ee074-bbfc-4b26-9909-376c9725b57d
-:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:LAST_MODIFIED: [2023-07-23 Sun 20:56]
 :END:
 #+title: You go high, we go low
 #+hugo_custom_front_matter: :slug "740ee074-bbfc-4b26-9909-376c9725b57d"
@@ -15,7 +15,7 @@ See [[id:f39cbb1c-8265-4f3e-9a99-632132ade597][Ian Danskin | You Go High, We Go 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Describe ([[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]) :fc:
+** Describe :fc:
 :PROPERTIES:
 :ID:       8621e170-6666-49f4-9c75-775fb2942e1b
 :ANKI_NOTE_ID: 1656857008057
@@ -25,8 +25,8 @@ See [[id:f39cbb1c-8265-4f3e-9a99-632132ade597][Ian Danskin | You Go High, We Go 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |    70.30 | 2023-05-13T22:29:29Z |
-| back     | 2.35 |   6 |   141.07 | 2023-05-05T22:21:40Z |
+| front    | 2.05 |   8 |   153.89 | 2023-10-15T12:07:47Z |
+| back     | 2.35 |   7 |   301.36 | 2024-03-07T00:51:43Z |
 :END:
 [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
 *** Back
@@ -44,7 +44,7 @@ A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.45 |  10 |   283.00 | 2023-12-25T14:13:00Z |
-| back     | 2.80 |   7 |   205.87 | 2023-07-20T13:50:55Z |
+| back     | 2.50 |   2 |     2.00 | 2023-07-26T03:56:35Z |
 :END:
 [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
 *** Back

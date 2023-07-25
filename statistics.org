@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-03-18 Sat 06:32]
+:LAST_MODIFIED: [2023-07-23 Sun 20:53]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -18,7 +18,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   212.86 | 2023-06-30T15:01:43Z |
+| front    | 2.65 |   9 |   609.04 | 2025-03-04T20:17:30Z |
 | back     | 2.65 |   8 |   180.26 | 2023-05-07T22:15:45Z |
 :END:
 
@@ -106,7 +106,7 @@ Where
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   364.32 | 2024-03-12T22:11:26Z |
-| front    | 2.35 |   8 |   195.47 | 2023-06-20T02:39:56Z |
+| front    | 2.05 |   1 |     1.00 | 2023-06-30T20:52:40Z |
 :END:
 
 Expected value
@@ -130,8 +130,8 @@ The mean of a large number of independent realizations of a random variable.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   156.55 | 2023-03-19T14:37:18Z |
-|        1 | 2.65 |   7 |   160.31 | 2023-04-02T21:58:31Z |
+|        0 | 2.65 |   8 |   435.10 | 2024-05-27T19:59:26Z |
+|        1 | 2.65 |   8 |   466.75 | 2024-07-13T09:18:34Z |
 :END:
 
 - {{$E[X]$}@0}
@@ -189,8 +189,8 @@ The difference between $f$ and $\hat{f}$.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |  12 |   372.71 | 2024-03-24T07:19:21Z |
-|        1 | 2.65 |   5 |    44.13 | 2023-05-01T16:46:41Z |
-|        2 | 1.40 |   4 |     8.81 | 2023-03-18T22:30:57Z |
+|        1 | 2.50 |   5 |    33.54 | 2023-08-14T02:04:36Z |
+|        2 | 1.40 |   5 |    12.23 | 2023-03-31T23:01:46Z |
 |        3 | 2.95 |   6 |   118.16 | 2023-04-15T22:27:24Z |
 |        4 | 2.80 |   6 |   148.87 | 2023-07-29T11:20:25Z |
 :END:
@@ -214,9 +214,9 @@ The difference between $f$ and $\hat{f}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |  11 |   189.32 | 2023-05-21T22:46:34Z |
-|        1 | 2.65 |   8 |   195.96 | 2023-05-20T16:15:34Z |
-|        2 | 2.65 |   9 |   158.73 | 2023-03-25T08:24:04Z |
+|        0 | 2.50 |  12 |   464.02 | 2024-08-28T14:15:32Z |
+|        1 | 2.65 |   9 |   530.05 | 2024-11-19T17:10:03Z |
+|        2 | 2.35 |   1 |     1.00 | 2023-07-16T14:19:16Z |
 |        3 | 2.35 |   8 |   232.40 | 2023-08-07T13:14:23Z |
 |        4 | 2.65 |   9 |   292.31 | 2023-12-20T21:22:44Z |
 :END:
@@ -242,7 +242,7 @@ The difference between $f$ and $\hat{f}$.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |  10 |   290.15 | 2023-10-20T20:13:49Z |
-|        1 | 2.20 |   6 |    80.03 | 2023-03-28T15:55:14Z |
+|        1 | 2.20 |   7 |   165.75 | 2023-09-13T09:28:23Z |
 |        2 | 2.80 |   8 |   281.02 | 2023-12-02T04:15:26Z |
 :END:
 
@@ -297,7 +297,7 @@ Follow these steps:
     For each group, set $\vec{z}_i$ to be the mean of the vectors in the $i$th group.$\vec{\mu}_j := \frac{\sum_{i=1}^{n} 1\{\vec{c}_i = j\}\vec{x}_i}{\sum_{i=1}^{n} 1\{\vec{c}_i = j\} }$ for $j = 1 \dots k$
 *** Source
 [cite:@KmeansClustering2022]
-** Clusters are represented by {{representative vectors}@0}. :fc:
+** Cloze (Math) :fc:
 :PROPERTIES:
 :ID:       73ce9d69-42d6-4f21-9f6b-6ac5bb24e18e
 :ANKI_NOTE_ID: 1640627812023
@@ -309,10 +309,10 @@ Follow these steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   9 |   192.00 | 2023-05-25T16:24:21Z |
+|        0 | 2.35 |   4 |    14.00 | 2023-07-17T00:54:44Z |
 :END:
 
-*** Extra
+Clusters are represented by {{representative vectors}@0}.
 
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
@@ -345,14 +345,14 @@ Follow these steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   160.89 | 2023-04-11T14:02:14Z |
-| front    | 2.65 |   7 |   163.77 | 2023-04-02T20:20:23Z |
+| back     | 2.50 |  10 |   425.62 | 2024-06-10T07:07:12Z |
+| front    | 2.65 |   8 |   463.97 | 2024-07-15T13:52:52Z |
 :END:
 
 Clustering
 
 *** Back
-The task of grouping a set of objects in such a way that elements in the same group are more similar to each other than to those in other groups
+The task of grouping a set of objects in such a way that elements in the same group are more similar to each other than to those in other groups.
 
 *** Source
 [cite:@ClusterAnalysis2022]
@@ -388,8 +388,8 @@ The value $\epsilon$ is not included as we cannot influence/reduce the irreducib
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   9 |   153.76 | 2023-04-10T08:55:04Z |
-| back     | 2.65 |   8 |   174.59 | 2023-05-07T05:42:38Z |
+| front    | 2.65 |  10 |   416.35 | 2024-06-01T00:35:31Z |
+| back     | 2.65 |   9 |   472.79 | 2024-08-31T09:51:42Z |
 :END:
 
 Odd function
@@ -408,7 +408,7 @@ Odd function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    66.00 | 2023-04-06T02:14:00Z |
+| front    | 2.50 |   7 |   174.69 | 2023-10-09T08:30:31Z |
 | back     | 2.65 |   7 |   130.45 | 2023-04-13T06:29:01Z |
 :END:
 
@@ -430,8 +430,8 @@ Asymptote
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   120.11 | 2023-05-11T17:38:25Z |
-|        1 | 2.35 |   6 |    77.84 | 2023-04-02T14:46:53Z |
+|        0 | 2.50 |   5 |    35.97 | 2023-08-29T03:16:17Z |
+|        1 | 2.35 |   7 |   181.95 | 2023-10-08T14:28:50Z |
 :END:
 *** Source
 [cite:@LawTotalProbability2022]
@@ -467,7 +467,7 @@ A series of data points indexed in time-order.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   132.94 | 2023-03-20T13:34:03Z |
+| back     | 2.35 |   9 |   319.67 | 2024-02-03T08:24:41Z |
 | front    | 2.65 |   7 |   141.48 | 2023-04-05T03:52:01Z |
 :END:
 
@@ -533,8 +533,8 @@ eg: k-nearest neighbors, support vector machines
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   154.71 | 2023-03-21T08:15:18Z |
-| back     | 2.65 |   7 |   162.46 | 2023-04-02T02:14:08Z |
+| front    | 2.65 |   9 |   378.59 | 2024-04-03T07:37:17Z |
+| back     | 2.65 |   8 |   419.39 | 2024-08-23T10:52:03Z |
 :END:
 
 Parametric models
@@ -582,7 +582,7 @@ Probability function: $f(\text{event}) = \operatorname{card}(\text{event}) / 6$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   281.14 | 2023-11-05T19:43:48Z |
-| back     | 2.35 |   5 |    32.92 | 2023-04-05T11:50:30Z |
+| back     | 2.35 |   6 |    71.78 | 2023-08-01T07:37:35Z |
 :END:
 
 Why Bessel's correction is used
@@ -709,7 +709,7 @@ Parametric model
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |    89.97 | 2023-05-19T17:46:54Z |
+|        0 | 2.05 |   8 |   168.20 | 2023-11-05T17:45:08Z |
 |        1 | 2.20 |   7 |   101.58 | 2023-05-10T06:44:26Z |
 :END:
 
@@ -756,7 +756,7 @@ Formally: A measurable function defined on a probability space that maps from th
 
 *** Source
 [cite:@RandomVariable2022]
-** Definition (Statistics) :fc:
+** Definition (Statistics) :fc:suspended:
 :PROPERTIES:
 :ID:       8d3557bd-f5fe-4a01-ae8b-c2082019b281
 :ANKI_NOTE_ID: 1640627877349
@@ -790,7 +790,7 @@ $\text{RSS} = \sum^{n}_{i=1}(f(x_i) - \hat{f}(x_i))^2$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   154.98 | 2023-03-26T14:56:52Z |
+| back     | 2.35 |   9 |   331.74 | 2024-02-24T08:35:44Z |
 | front    | 2.65 |   8 |   323.78 | 2024-01-20T10:49:47Z |
 :END:
 
@@ -811,8 +811,8 @@ The set of all possible outcomes.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.30 |  11 |   147.05 | 2023-05-04T17:51:44Z |
-| front    | 2.00 |   6 |    63.47 | 2023-04-08T02:52:51Z |
+| back     | 2.00 |   6 |    45.41 | 2023-08-22T10:09:29Z |
+| front    | 2.00 |   7 |   120.28 | 2023-09-14T19:10:16Z |
 :END:
 
 Sampling distribution
@@ -835,8 +835,8 @@ eg: Normal distribution: $\mathcal{N}(\mu, \sigma^2)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.45 |  12 |   145.92 | 2023-04-01T14:53:02Z |
-| front    | 2.35 |   5 |    34.10 | 2023-04-20T16:19:19Z |
+| back     | 2.45 |  13 |   350.16 | 2024-04-13T02:27:16Z |
+| front    | 2.35 |   6 |    84.70 | 2023-10-01T07:47:16Z |
 :END:
 
 Simple linear regression
@@ -860,7 +860,7 @@ $\hat{Y} = \hat{f}(x) = \hat{\beta_0} + \hat{\beta_1}x$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  16 |   247.18 | 2023-10-05T18:55:53Z |
-| front    | 2.20 |   6 |    72.54 | 2023-03-24T05:07:40Z |
+| front    | 1.90 |   1 |     1.00 | 2023-07-17T13:58:06Z |
 :END:
 
 Standard error
@@ -901,8 +901,8 @@ A quantity computed from values in a sample.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   164.64 | 2023-04-20T13:15:31Z |
-| front    | 2.65 |   8 |   213.30 | 2023-06-20T23:12:50Z |
+| back     | 2.50 |  10 |   408.14 | 2024-06-13T03:05:07Z |
+| front    | 2.80 |   9 |   539.32 | 2025-01-03T20:44:04Z |
 :END:
 
 Stochastic
@@ -943,7 +943,7 @@ An estimator with zero bias; neither overestimates, nor underestimates, the true
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   169.75 | 2023-04-05T09:08:53Z |
+| back     | 2.65 |  10 |   462.79 | 2024-08-06T18:03:23Z |
 | front    | 2.80 |   8 |   338.85 | 2024-01-23T15:06:11Z |
 :END:
 
@@ -964,7 +964,7 @@ A descriptor of a statistical model which cannot adequately capture the underlyi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   162.40 | 2023-04-10T02:08:12Z |
+| back     | 2.65 |   8 |   413.29 | 2024-06-15T21:13:21Z |
 | front    | 2.65 |   8 |   288.78 | 2023-12-18T09:57:37Z |
 :END:
 
@@ -988,7 +988,7 @@ The number of standard deviations a value is above, or below, the mean. The diff
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   171.38 | 2023-04-20T02:37:25Z |
+|        0 | 2.65 |   8 |   491.39 | 2024-09-02T00:03:34Z |
 |        1 | 2.80 |   8 |   302.86 | 2023-12-29T00:45:23Z |
 :END:
 
@@ -1010,7 +1010,7 @@ The number of standard deviations a value is above, or below, the mean. The diff
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   8 |   177.12 | 2023-05-25T21:06:13Z |
+|        0 | 2.50 |   9 |   423.26 | 2024-08-22T22:21:00Z |
 :END:
 
 - {{$\mu$}@0}
@@ -1031,7 +1031,7 @@ Population mean
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   159.16 | 2023-03-22T05:12:18Z |
+|        0 | 2.65 |   8 |   452.30 | 2024-06-16T21:10:17Z |
 |        1 | 2.50 |   8 |   308.02 | 2023-12-22T15:22:36Z |
 :END:
 
@@ -1053,7 +1053,7 @@ Population mean
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   134.00 | 2023-03-21T14:49:41Z |
+|        0 | 2.35 |   8 |   338.75 | 2024-02-24T07:52:29Z |
 |        1 | 2.65 |   8 |   295.52 | 2023-12-30T15:43:01Z |
 :END:
 
@@ -1075,7 +1075,7 @@ Population mean
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   6 |    34.36 | 2023-04-06T22:30:25Z |
+|        0 | 1.90 |   8 |   130.36 | 2023-10-31T09:52:21Z |
 :END:
 
 - {{$s^2$}@0}
@@ -1096,7 +1096,7 @@ Sample variance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   145.26 | 2023-03-30T23:21:15Z |
+|        0 | 2.65 |   8 |   366.04 | 2024-04-02T17:50:31Z |
 :END:
 
 - {{$\sigma^2$}@0}
@@ -1140,7 +1140,7 @@ Population variance
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   322.58 | 2024-01-13T17:48:02Z |
-|        1 | 2.65 |   8 |   173.01 | 2023-05-04T14:17:47Z |
+|        1 | 2.50 |   9 |   393.35 | 2024-07-09T01:35:46Z |
 |        2 | 2.65 |   8 |   333.18 | 2024-02-14T17:47:38Z |
 :END:
 
@@ -1182,7 +1182,7 @@ The conflict of trying to simultaneously reduce both the bias and the variance o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.15 |   7 |   104.53 | 2023-06-15T04:53:47Z |
+| back     | 2.15 |   8 |   241.44 | 2024-02-15T00:48:00Z |
 | front    | 2.65 |  12 |   301.94 | 2024-01-01T15:52:32Z |
 :END:
 
@@ -1203,7 +1203,7 @@ A measure of difference between the observed value of a variable and some other 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   217.53 | 2023-07-18T15:08:23Z |
+| back     | 2.35 |   9 |   554.21 | 2025-01-27T08:36:45Z |
 | front    | 2.35 |   5 |    31.29 | 2023-04-03T20:45:56Z |
 :END:
 
@@ -1227,8 +1227,8 @@ Eg: A d6 would have an event space: $\{\{1\}, ..., \{6\}, \{1, 3, 5\}, ...\}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   217.26 | 2023-06-18T21:19:36Z |
-| front    | 2.65 |   8 |   148.73 | 2023-03-18T15:25:11Z |
+| back     | 2.65 |   9 |   537.27 | 2024-12-12T19:48:38Z |
+| front    | 2.65 |   9 |   370.02 | 2024-03-23T18:15:35Z |
 :END:
 
 Linear model
@@ -1250,7 +1250,7 @@ $\hat{f}(X) = \beta_0 + \beta_1X_1 + \cdots + \beta_nX_n$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   5 |    19.84 | 2023-03-29T23:26:36Z |
+| back     | 1.60 |   8 |    72.61 | 2023-09-04T04:38:12Z |
 | front    | 2.50 |   9 |   276.71 | 2023-10-15T07:30:05Z |
 :END:
 
@@ -1274,7 +1274,7 @@ $\frac{1}{n}a^Ta \; | \; a = Y - \hat{Y}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |  11 |   181.59 | 2023-05-19T06:26:01Z |
+| back     | 1.90 |   5 |    22.91 | 2023-08-11T11:24:55Z |
 | front    | 2.65 |   8 |   357.47 | 2024-03-02T16:28:39Z |
 :END:
 
@@ -1316,8 +1316,8 @@ The default assumption; that a quantity to be measured is zero/null.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |  11 |   185.26 | 2023-05-29T21:42:58Z |
-| front    | 2.65 |   8 |   174.18 | 2023-05-06T19:33:45Z |
+| back     | 2.35 |  12 |   433.06 | 2024-08-11T16:09:45Z |
+| front    | 2.50 |   9 |   403.92 | 2024-07-27T18:24:50Z |
 :END:
 
 Overfitting
@@ -1358,7 +1358,7 @@ A finite-dimensional model whose parameters encode all the information about its
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |  13 |   185.41 | 2023-05-23T02:05:39Z |
+| back     | 2.65 |  14 |   524.13 | 2024-10-29T23:27:23Z |
 | front    | 2.50 |   6 |   116.17 | 2023-05-11T20:26:33Z |
 :END:
 
@@ -1380,7 +1380,7 @@ The probability function of a probability space. The mathematical function that 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   8 |   281.26 | 2023-11-25T09:46:57Z |
-| front    | 2.65 |   8 |   158.58 | 2023-04-09T06:19:01Z |
+| front    | 2.35 |   1 |     1.00 | 2023-05-26T14:14:21Z |
 :END:
 
 Probability function
@@ -1390,7 +1390,7 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 
 *** Source
 [cite:@ProbabilitySpace2022]
-** Definition (Statistics) :fc:
+** Definition :fc:
 :PROPERTIES:
 :ID:       af1af1d6-0e99-4a2c-8d0c-0686dd9b7acf
 :ANKI_NOTE_ID: 1640627866173
@@ -1400,7 +1400,7 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   5 |     8.82 | 2023-03-20T00:57:25Z |
+| back     | 1.30 |  10 |    36.70 | 2023-08-08T18:02:41Z |
 | front    | 2.65 |   6 |   128.22 | 2023-07-04T21:34:06Z |
 :END:
 
@@ -1423,8 +1423,8 @@ A mathematical construct that provides a formal model of a random process or "ex
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |  12 |   187.25 | 2023-05-27T08:29:08Z |
-|        1 | 2.65 |   5 |    40.06 | 2023-04-21T01:46:06Z |
+|        0 | 2.35 |  13 |   398.60 | 2024-07-02T06:18:19Z |
+|        1 | 2.35 |   1 |     1.00 | 2023-07-15T13:21:07Z |
 :END:
 
 - {{Correlation}@0}
@@ -1466,7 +1466,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.60 |  15 |   253.91 | 2023-09-26T14:06:09Z |
-|        1 | 1.90 |   6 |    54.86 | 2023-03-25T23:21:36Z |
+|        1 | 1.90 |   7 |   109.35 | 2023-07-15T00:43:52Z |
 :END:
 
 - {{Non-parametric model}@0}
@@ -1507,7 +1507,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.60 |  11 |   163.51 | 2023-05-09T02:55:37Z |
+|        0 | 2.60 |  12 |   428.38 | 2024-07-27T23:38:20Z |
 |        1 | 2.50 |   8 |   270.04 | 2023-10-02T16:18:43Z |
 :END:
 
@@ -1527,9 +1527,9 @@ A mathematical construct that provides a formal model of a random process or "ex
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   150.65 | 2023-03-25T06:26:58Z |
-|        1 | 2.65 |   7 |   148.56 | 2023-03-27T05:53:13Z |
-|        2 | 2.65 |   7 |   136.74 | 2023-03-30T08:56:50Z |
+|        0 | 2.65 |   9 |   427.19 | 2024-05-26T17:53:25Z |
+|        1 | 2.65 |   8 |   365.05 | 2024-05-02T17:01:08Z |
+|        2 | 2.65 |   8 |   335.05 | 2024-05-25T18:35:52Z |
 :END:
 
 - {{Residual sum of squares (RSS)}@0}
@@ -1581,7 +1581,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 
 *** Source
 [cite:@StandardScore2022]
-** Compare/Contrast :fc:
+** Compare and contrast :fc:suspended:
 :PROPERTIES:
 :ID:       2837409f-6e8e-4d81-af28-c0424a930dc9
 :ANKI_NOTE_ID: 1654528370253
@@ -1630,8 +1630,8 @@ A position that states that something is happening; that the quantity being meas
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   199.94 | 2023-06-05T14:25:16Z |
-| front    | 2.65 |   8 |   208.25 | 2023-06-26T23:42:33Z |
+| back     | 2.50 |   9 |   461.92 | 2024-09-10T12:44:37Z |
+| front    | 2.65 |   9 |   596.94 | 2025-02-17T12:37:49Z |
 :END:
 
 Bayes error rate
@@ -1652,7 +1652,7 @@ The lowest possible error rate for any classifier; analogous to the irreducible 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   8 |   381.93 | 2024-03-27T03:52:00Z |
-| front    | 2.65 |   7 |   138.05 | 2023-03-24T17:27:45Z |
+| front    | 2.65 |   8 |   337.68 | 2024-02-26T11:34:28Z |
 :END:
 
 Bessel's correction
@@ -1675,8 +1675,8 @@ $s^2 =$ $\frac{1}{n-1} \sum_{i = 1}^n (x_i - \bar{x})^2$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   157.97 | 2023-04-01T14:13:38Z |
-| front    | 2.35 |   8 |   187.50 | 2023-06-02T02:56:19Z |
+| back     | 2.65 |   9 |   443.38 | 2024-06-18T06:15:48Z |
+| front    | 2.35 |   9 |   465.10 | 2024-10-17T17:57:45Z |
 :END:
 
 Bias
@@ -1696,7 +1696,7 @@ The difference between an estimator's expected value and the true value of the p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   4 |    13.30 | 2023-03-22T01:23:00Z |
+| back     | 1.60 |   7 |    50.25 | 2023-09-05T19:49:30Z |
 | front    | 2.35 |   6 |    75.13 | 2023-04-23T00:36:10Z |
 :END:
 
@@ -1717,7 +1717,7 @@ Any statistical relationship, whether causal or not, between two random variable
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |   8 |    37.92 | 2023-03-26T23:58:06Z |
+| back     | 1.30 |   6 |    11.51 | 2023-07-30T01:48:40Z |
 | front    | 1.60 |   7 |    54.66 | 2023-05-07T06:44:21Z |
 :END:
 
@@ -1740,7 +1740,7 @@ Covariance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   146.56 | 2023-03-19T08:59:38Z |
+|        0 | 2.35 |   8 |   343.95 | 2024-02-26T16:31:49Z |
 |        1 | 2.65 |   8 |   333.24 | 2024-01-30T19:38:02Z |
 :END:
 
@@ -1762,7 +1762,7 @@ Covariance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   149.52 | 2023-04-12T04:14:16Z |
+|        0 | 2.65 |   8 |   373.57 | 2024-04-21T02:27:59Z |
 |        1 | 2.65 |   8 |   230.88 | 2023-07-19T13:18:14Z |
 :END:
 
@@ -1784,8 +1784,8 @@ Covariance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   8 |   186.59 | 2023-06-13T10:04:44Z |
-|        1 | 2.35 |   7 |   150.11 | 2023-04-06T17:26:53Z |
+|        0 | 2.35 |   9 |   439.82 | 2024-08-26T10:29:11Z |
+|        1 | 2.35 |   8 |   347.37 | 2024-06-23T21:43:43Z |
 :END:
 
 - {{$\operatorname{P}(\neg A)$}@0}
@@ -1806,7 +1806,7 @@ Covariance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   120.52 | 2023-05-17T14:48:52Z |
+|        0 | 2.50 |   7 |   329.96 | 2024-04-13T15:19:37Z |
 |        1 | 2.20 |   7 |   175.58 | 2023-07-24T16:15:29Z |
 :END:
 
@@ -1825,7 +1825,7 @@ Covariance
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   346.15 | 2024-02-17T21:00:16Z |
-|        1 | 2.65 |   6 |    92.37 | 2023-05-16T01:01:38Z |
+|        1 | 2.35 |   1 |     1.00 | 2023-07-21T15:25:04Z |
 :END:
 
 *** Source

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ef6148e5-0f53-4535-89fa-1f67b3c557b7
 :ROAM_REFS: [cite:@nandaMeaningfulRest]
-:LAST_MODIFIED: [2023-02-12 Sun 09:46]
+:LAST_MODIFIED: [2023-05-24 Wed 13:08]
 :END:
 #+title: Meaningful rest
 #+hugo_custom_front_matter: :slug "ef6148e5-0f53-4535-89fa-1f67b3c557b7"
@@ -47,7 +47,7 @@ The term is from [[id:43e87bd7-89df-40b8-9c47-dc357c05fa63][Neel Nanda | Post 29
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   124.53 | 2023-05-24T05:04:42Z |
+| front    | 2.80 |   7 |   322.49 | 2024-04-11T07:56:25Z |
 | back     | 3.10 |   6 |   164.21 | 2023-07-26T22:42:26Z |
 :END:
 
@@ -68,7 +68,7 @@ A type of rest which rejuvenates the individual.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    98.57 | 2023-04-30T03:46:52Z |
+| front    | 2.50 |   7 |   260.99 | 2024-01-17T23:15:54Z |
 :END:
 
 [[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] and default actions

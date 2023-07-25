@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b08bf4f7-76cd-41e9-973f-83d2a60de9aa
 :ROAM_REFS: [cite:@GritPersonalityTrait2022]
-:LAST_MODIFIED: [2023-03-18 Sat 06:42]
+:LAST_MODIFIED: [2023-05-12 Fri 09:03]
 :END:
 #+title: Grit
 #+hugo_custom_front_matter: :slug "b08bf4f7-76cd-41e9-973f-83d2a60de9aa"
@@ -18,25 +18,21 @@ In psychology, grit is a positive, non-cognitive trait based on an individual's 
 [[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]] is closely related to a [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]].
 
 * Flashcards
-** Definition :fc:
+** [[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]] :fc:
 :PROPERTIES:
 :CREATED: [2022-10-14 Fri 09:41]
 :FC_CREATED: 2022-10-14T16:42:16Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :ID:       7ed1819e-a5ee-4caa-908f-7e8267fc7153
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    82.00 | 2023-05-11T17:18:34Z |
+| front    | 2.50 |   7 |   187.05 | 2023-11-15T17:16:46Z |
 | back     | 2.80 |   6 |   137.96 | 2023-08-03T12:41:19Z |
 :END:
 
-[[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]]
-
-*** Back
-
-- perseverance and passion for long-term goals
+perseverance and passion for long-term goals
 
 *** Source
 [cite:@GritPersonalityTrait2022]

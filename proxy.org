@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ID:       8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa
+:LAST_MODIFIED: [2023-07-10 Mon 08:49]
+:ROAM_REFS: [cite:@WhatReverseProxy]
+:ROAM_ALIASES: "Forward proxy"
+:END:
+#+title: Proxy
+#+hugo_custom_front_matter: :slug "8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-22 Wed 08:18]
+#+filetags: :concept:
+
+#+begin_quote
+A forward proxy, often called a proxy, proxy server, or web proxy, is a server that sits in front of a group of client machines. When those computers make requests to sites and services on the Internet, the proxy server intercepts those requests and then communicates with web servers on behalf of those clients, like a middleman.
+
+[...]
+
+
+#+DOWNLOADED: https://cf-assets.www.cloudflare.com/slt3lc6tev37/2MZmHGnCdYbQBIsZ4V11C6/25b48def8b56b63f7527d6ad65829676/forward_proxy_flow.png @ 2023-03-22 08:20:09
+[[file:2023-03-22_08-20-09_forward_proxy_flow.png]]
+
+In a standard Internet communication, computer A would reach out directly to computer C, with the client sending requests to the origin server and the origin server responding to the client. When a forward proxy is in place, A will instead send requests to B, which will then forward the request to C. C will then send a response to B, which will forward the response back to A.
+
+[cite:@WhatReverseProxy]
+#+end_quote
+
+* Reverse proxy
+:PROPERTIES:
+:ID:       afaa35fe-7ff7-4621-9b90-5122279c65b0
+:END:
+
+#+begin_quote
+A reverse proxy is a server that sits in front of web servers and forwards client (e.g. web browser) requests to those web servers. Reverse proxies are typically implemented to help increase security, performance, and reliability.
+
+[...]
+
+
+#+DOWNLOADED: https://cf-assets.www.cloudflare.com/slt3lc6tev37/3msJRtqxDysQslvrKvEf8x/f7f54c9a2cad3e4586f58e8e0e305389/reverse_proxy_flow.png @ 2023-03-22 08:26:50
+[[file:2023-03-22_08-26-50_reverse_proxy_flow.png]]
+
+[cite:@WhatReverseProxy]
+#+end_quote
+
+
+* Flashcards
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 08:21]
+:FC_CREATED: 2023-03-22T15:21:59Z
+:FC_TYPE:  cloze
+:ID:       c4575254-68bf-4f3d-ad0e-57f79c36dcff
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.95 |   6 |   125.01 | 2023-10-13T16:12:47Z |
+|        1 | 2.50 |   6 |    90.97 | 2023-10-09T15:08:53Z |
+:END:
+
+- {{[[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Proxy]]}@0}
+- {{[[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Forward proxy]]}@1}
+
+*** Source
+[cite:@WhatReverseProxy]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 08:22]
+:FC_CREATED: 2023-03-22T15:23:14Z
+:FC_TYPE:  double
+:ID:       43170a92-fde5-4b05-b8dd-d327561dd9af
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    68.15 | 2023-08-07T19:12:08Z |
+| back     | 2.50 |   6 |    81.58 | 2023-09-12T15:48:55Z |
+:END:
+
+[[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Forward proxy]]
+
+*** Back
+A server which acts as a middleman between client machines and origin servers.
+*** Source
+[cite:@WhatReverseProxy]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 08:24]
+:FC_CREATED: 2023-03-22T15:26:39Z
+:FC_TYPE:  normal
+:ID:       9e100660-7cd3-4019-ba0b-0a22d9e87eb4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    98.43 | 2023-10-03T02:45:48Z |
+:END:
+
+[[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Forward proxy]] and [[id:afaa35fe-7ff7-4621-9b90-5122279c65b0][Reverse proxy]]
+
+*** Back
+- [[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Forward proxy]]: Sits in front of a set of *client machines* and intercepts, and forwards, *outgoing* internet requests
+- [[id:afaa35fe-7ff7-4621-9b90-5122279c65b0][Reverse proxy]]: Sits in front of a set of *origin severs* and intercepts, and forwards, *incoming* internet requests
+*** Source
+[cite:@WhatReverseProxy]
+#+print_bibliography:

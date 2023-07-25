@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3bd13351-ede1-473b-8789-6a8bfe90a786
 :ROAM_ALIASES: **kwargs kwargs "Python keyword arguments"
-:LAST_MODIFIED: [2023-03-15 Wed 08:13]
+:LAST_MODIFIED: [2023-05-09 Tue 09:52]
 :END:
 #+title: Python keyword argument
 #+hugo_custom_front_matter: :slug "3bd13351-ede1-473b-8789-6a8bfe90a786"
@@ -33,8 +33,8 @@ Also see [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    45.47 | 2023-04-30T02:35:21Z |
-| back     | 2.35 |   4 |    14.07 | 2023-03-24T04:40:09Z |
+| front    | 2.80 |   6 |   138.42 | 2023-09-16T04:52:31Z |
+| back     | 2.35 |   6 |    79.55 | 2023-07-28T06:01:18Z |
 :END:
 
 [[id:3bd13351-ede1-473b-8789-6a8bfe90a786][Python keyword arguments]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       fccbc741-2373-47c3-9d41-a04fb0ce9b66
 :ROAM_REFS: [cite:@NotaBene2022]
-:LAST_MODIFIED: [2023-02-23 Thu 19:41]
+:LAST_MODIFIED: [2023-04-11 Tue 09:14]
 :END:
 #+title: Nota bene
 #+hugo_custom_front_matter: :slug "fccbc741-2373-47c3-9d41-a04fb0ce9b66"
@@ -26,8 +26,8 @@ Nota bene is a Latin [[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]] phrase
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    47.72 | 2023-04-03T21:56:36Z |
-| back     | 2.95 |   5 |    48.19 | 2023-04-07T21:59:42Z |
+| front    | 2.95 |   6 |   143.62 | 2023-08-27T07:25:12Z |
+| back     | 2.95 |   6 |   149.36 | 2023-09-04T23:38:11Z |
 :END:
 
 n.b.
@@ -48,8 +48,8 @@ n.b.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    51.75 | 2023-04-11T11:12:06Z |
-|        1 | 2.80 |   5 |    44.19 | 2023-04-09T08:13:48Z |
+|        0 | 2.95 |   6 |   153.21 | 2023-09-11T21:24:07Z |
+|        1 | 2.80 |   6 |   120.90 | 2023-08-08T13:12:09Z |
 :END:
 
 {{[[id:fccbc741-2373-47c3-9d41-a04fb0ce9b66][Nota bene]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Note well}{English}@1}

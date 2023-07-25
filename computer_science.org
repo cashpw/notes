@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
-:LAST_MODIFIED: [2023-03-17 Fri 07:04]
+:LAST_MODIFIED: [2023-07-15 Sat 07:15]
 :END:
 #+title: Computer science
 #+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
@@ -76,8 +76,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   226.75 | 2023-07-15T10:52:01Z |
-|        1 | 2.65 |  10 |   148.87 | 2023-03-25T12:13:47Z |
+|        0 | 2.65 |   9 |   591.33 | 2025-02-25T22:17:31Z |
+|        1 | 2.65 |  11 |   413.94 | 2024-05-12T18:03:19Z |
 :END:
 
 *** Extra
@@ -97,7 +97,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   337.61 | 2024-01-15T06:10:31Z |
-|        1 | 2.25 |  13 |   158.71 | 2023-06-06T10:43:01Z |
+|        1 | 2.25 |  14 |   340.44 | 2024-05-12T01:20:43Z |
 :END:
 
 *** Extra
@@ -114,7 +114,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   8 |   197.18 | 2023-06-21T18:08:27Z |
+| front    | 2.35 |   9 |   467.15 | 2024-10-02T05:06:41Z |
 :END:
 
 Floating and fixed point number representations
@@ -136,7 +136,7 @@ Floating and fixed point number representations
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
-| front    | 1.30 |   8 |    34.94 | 2023-04-12T16:42:21Z |
+| front    | 1.30 |  10 |    63.91 | 2023-08-03T13:24:21Z |
 :END:
 
 IMAP
@@ -157,7 +157,7 @@ https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   9 |   355.10 | 2024-02-18T07:12:08Z |
-| front    | 2.65 |   7 |   149.23 | 2023-03-26T20:59:54Z |
+| front    | 2.65 |   8 |   389.25 | 2024-04-19T23:05:12Z |
 :END:
 
 Hamming distance

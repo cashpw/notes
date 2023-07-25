@@ -1,0 +1,759 @@
+:PROPERTIES:
+:ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
+:LAST_MODIFIED: [2023-07-23 Sun 20:51]
+:ROAM_REFS: [cite:@ContractionHierarchies2023]
+:END:
+#+title: Contraction hierarchies
+#+hugo_custom_front_matter: :slug "8d0bb3d4-18fb-4c38-a89e-11745614c640"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-18 Thu 11:57]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In computer science, the method of contraction hierarchies is a speed-up technique for finding the shortest-path [[[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]] in a graph [[[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]]. The most intuitive applications are car-navigation systems: a user wants to drive from $A$ to $B$ using the quickest possible route. The metric optimized here is the travel time. Intersections are represented by vertices [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]], the road sections connecting them by edges. The edge weights represent the time it takes to drive along this segment of the road. A path from $A$ to $B$ is a sequence of edges (road sections); the shortest path is the one with the minimal sum of edge weights among all possible paths. The shortest path in a graph can be computed using Dijkstra's algorithm but, given that road networks consist of tens of millions of vertices, this is impractical. Contraction hierarchies is a speed-up method optimized to exploit properties of graphs representing road networks. The speed-up is achieved by creating shortcuts in a preprocessing phase which are then used during a shortest-path query to skip over "unimportant" vertices. This is based on the observation that road networks are highly hierarchical. Some intersections, for example highway junctions, are "more important" and higher up in the hierarchy than for example a junction leading into a dead end. Shortcuts can be used to save the precomputed distance between two important junctions such that the algorithm doesn't have to consider the full path between these junctions at query time. Contraction hierarchies do not know about which roads humans consider "important" (e.g. highways), but they are provided with the graph as input and are able to assign importance to vertices using heuristics.
+
+[...]
+
+The contraction hierarchies (CH) algorithm is a two-phase approach to the shortest path problem consisting of a preprocessing phase and a query phase. [...]
+
+Consider two large cities connected by a highway. Between these two cities, there is a multitude of junctions leading to small villages and suburbs. Most drivers want to get from one city to the other – maybe as part of a larger route – and not take one of the exits on the way. In the graph representing this road layout, each intersection is represented by a node and edges are created between neighboring intersections. To calculate the distance between these two cities, the algorithm has to traverse all the edges along the way, adding up their length. Precomputing this distance once and storing it in an additional edge created between the two large cities will save calculations each time this highway has to be evaluated in a query. This additional edge is called a "shortcut" and has no counterpart in the real world. The contraction hierarchies algorithm has no knowledge about road types but is able to determine which shortcuts have to be created using the graph alone as input.
+
+[cite:@ContractionHierarchies2023]
+#+end_quote
+
+* Algorithm
+** Preprocessing phase
+
+#+begin_quote
+[[file:Shortcut_in_a_shortest_path.svg]]
+
+[cite:@ContractionHierarchies2023]
+#+end_quote
+
+*** Node contraction
+#+begin_quote
+[Contraction hierarchies'] basic ingredient is the contraction of a node $v$: The node $v$ is removed from the graph, but for any pair of arcs $(u,v)$, $(v,w)$ such that $(u,v,w)$ is a shortest path, a shortcut arc $(u,w)$ with the cost of $(u,v,w)$ is inserted. The contracted node $v$ is called the midpoint of the shortcut. The remaining graph has one less node, a changed set of arcs (some dropped, some added), and the same shortest paths between any two remaining nodes.
+
+[cite:@ContractionHierarchies2023]
+#+end_quote
+
+#+begin_quote
+When contracting a vertex $v$ it is temporarily removed from the graph $G$, and a shortcut is created between each pair $\{\u,w\}$ of neighboring vertices if the shortest path from $u$ to $w$ contains $v$.
+
+[cite:@ContractionHierarchies2023]
+#+end_quote
+
+#+begin_quote
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/contraction/contract-intro-1.png @ 2023-06-15 07:59:45
+[[file:2023-06-15_07-59-45_contract-intro-1.png]]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/contraction/contract-intro-2.png @ 2023-06-15 07:59:55
+[[file:2023-06-15_07-59-55_contract-intro-2.png]]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/contraction/contract-intro-3.png @ 2023-06-15 08:00:06
+[[file:2023-06-15_08-00-06_contract-intro-3.png]]
+
+[...]
+
+Consider a node $v$ and the following =contract= process:
+
+We denote the set of all vertices with edges incoming to $v$ as $U$, and the set of all vertices with incoming edges from $v$ as $W$.
+
+Then for each pair of vertices $(u, w)$, for $u$ in $U$ and $w$ in $W$:
+
+#+begin_quote2
+If the path <$u,v,w$> is the unique shortest path from $u$ to $w$, we add a shortcut edge $u,w$ to the graph with weight $w(u, v) + w(v, w)$.
+#+end_quote2
+
+Then, we remove $v$ and all of its adjacent edges from the graph.
+
+We're now done contracting $v$.
+
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+#+end_quote
+
+**** When to add shortcuts
+
+#+begin_quote
+But in general, we need a method for efficiently determining when to add a shortcut edge.
+
+[...]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/shortcuts/example-1.png @ 2023-06-15 08:32:52
+[[file:2023-06-15_08-32-52_example-1.png]]
+
+So we can do the following:
+
+- $\forall\; u \in U$:
+  - $\forall\; w \in W$:
+    - Compute $P_{w} = \operatorname{weight}(u, v) + \operatorname{weight}(v, w)$
+  - $P_{max} = \operatorname{max}(P_w)$
+  - $\forall\; w \in W$:
+    - Perform a standard Dijkstra's shortest-path [[[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]] search from $u$ [to $w$] on the subgraph excluding $v$. Halt when we settle (1) a vertex with a shortest-path score $> P_{max}$ or (2) $w$.
+  - Add a shortcut if $P_w < \operatorname{distance}(u, w)$
+
+[paraphrased, formatting mine]
+
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+#+end_quote
+
+#+begin_quote
+How to decide if a shortcut is strictly necessary?
+
+- Naive: add all possible shortcuts.
+- Strict: invoke Dijkstra and perform a "witness search" proof.
+- Pragmatic: invoke Dijkstra with cutoffs (max cost, max hops).
+
+[cite:@haraborIntroductionContractionHierarchies]
+#+end_quote
+
+**** Example 1
+
+#+begin_quote
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/contraction/contract-full-2.png @ 2023-06-15 08:50:04
+[[file:2023-06-15_08-50-04_contract-full-2.png]]
+
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+#+end_quote
+
+Let:
+
+- $v$ be $B$
+- $U$ be $(A, C, D)$
+- $W$ be $(A, C, D)$
+
+Steps to contract $v (B)$:
+
+1. For each $u \in U$:
+   1. With $u = A$:
+      1. For each $w \in W$:
+         1. Skip $w = A$
+         2. With $w = C$:
+            1. $P_{w} = \operatorname{weight}(u, v) + \operatorname{weight}(v, w)$
+
+                $P_{C} = weight(A, B) + weight(B, C) = 3 + 3 = 6$
+         3. With $w = D$:
+            1. $P_{w} = \operatorname{weight}(u, v) + \operatorname{weight}(v, w)$
+
+                $P_{D} = weight(A, B) + weight(B, D) = 3 + 5 = 8$
+         4. $P_{max} = \operatorname{max}(P_{C}, P_{D}) = \operatorname{max}(6, 8) = 8$
+      2. For each $w \in W$:
+         1. Skip $w = A$
+         2. With $w = C$:
+            1. Perform a standard Dijkstra's shortest-path search from $u (A)$ to $w (C)$ on the subgraph excluding $v (B)$. Halt when we settle (1) a vertex with a shortest-path score $> P_{max}$ or (2) $w (C)$.
+               1. Settle $K$ at a cost of $3$ ($(A, K)$)
+               2. Settle $B$ at a cost of $3$ ($(A, B)$)
+               3. Settle $C$ at a cost of $5$ ($(A, C)$)
+               4. Done!
+            2. Don't add a shortcut. $P_{C} > \operatorname{distance}(A, C)$ ($6 > 5$)
+         3. With $w = D$:
+            1. Perform a standard Dijkstra's shortest-path search from $u (A)$ to $w (D)$ on the subgraph excluding $v (B)$. Halt when we settle (1) a vertex with a shortest-path score $> P_{max}$ or (2) $w (D)$.
+               1. Settle $K$ at a cost of $3$ ($(A, K)$)
+               2. Settle $B$ at a cost of $3$ ($(A, B)$)
+               3. Settle $C$ at a cost of $5$ ($(A, C)$)
+               4. Settle $J$ at a cost of $6$ ($(A, K) + (K, J)$)
+               5. Settle $D$ at a cost of $7$ ($(A, C) + (C, D)$)
+            2. Don't add a shortcut. $P_{D} > \operatorname{distance}(A, D)$ ($8 > 7$)
+   2. With $u = C$:
+      1. Left as an exercise. No shortcuts added.
+   3. With $u = D$:
+      1. Left as an exercise. No shortcuts added.
+**** Example 2
+
+#+begin_quote
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/contraction/contract-full-5.png @ 2023-06-15 10:19:12
+[[file:2023-06-15_10-19-12_contract-full-5.png]]
+
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+#+end_quote
+
+Let:
+
+- $v$ be $K$
+- $U$ be $(A, J)$
+- $W$ be $(A, J)$
+
+Steps to contract $v (K)$:
+
+1. For each $u \in U$:
+   1. With $u = A$:
+      1. For each $w \in W$:
+         1. Skip $w = A$
+         2. With $w = J$:
+            1. $P_{w} = \operatorname{weight}(u, v) + \operatorname{weight}(v, w)$
+
+                $P_{J} = weight(A, K) + weight(K, J) = 3 + 3 = 6$
+         3. $P_{max} = \operatorname{max}(P_{J}) = \operatorname{max}(6) = 6$
+      2. For each $w \in W$:
+         1. Skip $w = A$
+         2. With $w = J$:
+            1. Perform a standard Dijkstra's shortest-path search from $u (A)$ to $w (J)$ on the subgraph excluding $v (K)$. Halt when we settle (1) a vertex with a shortest-path score $> P_{max}$ or (2) $w (J)$.
+               1. Settle $K$ at a cost of $3$ ($(A, K)$)
+               2. Settle $C$ at a cost of $5$ ($(A, C)$)
+               3. Settle $J$ at a cost of $7$ ($(A, K) + (K, J)$)
+               4. Done!
+            2. Add a shortcut! $P_{C} < \operatorname{distance}(A, J)$ ($6 < 7$)
+   2. With $u = J$:
+      1. Left as an exercise. Adds a shortcut to make the shortcut connecting $(A, J)$ bidirectional.
+
+** Query phase
+
+#+begin_quote
+In the query phase, a bidirectional search is performed starting from the starting node $s$ and the target node $t$ on the original graph augmented by the shortcuts created in the preprocessing phase.
+
+[cite:@ContractionHierarchies2023]
+#+end_quote
+
+#+begin_quote
+How to search the contraction hierarchy?
+
+- Bi-directional search (two directions simultaneously)
+- Bi-directional search (one direction at a time)
+- Hybrid search (bi-directional first, then something else)
+- Contraction hierarchies can also be combined with your favourite uni-directional search scheme [cite:@haraborForwardSearchContractionHierarchies2021]
+
+[paraphrased]
+
+[cite:@haraborIntroductionContractionHierarchies]
+#+end_quote
+
+*** TODO FIX; up/down is backward here. Check against [cite:@geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008]
+#+begin_quote
+- The upward graph only contains edges from $v$ to $w$ where we contracted $v$ *after* $w$.
+- The downward graph only contains edges from $v$ to $w$ where we contracted $v$ *before* $w$.
+
+[...]
+
+For our [contraction hierarchies] query from $s$ to $t$, we run a forward search from $s$ on [the upward] graph, and a backward search from $t$ on the [downward] graph.
+
+[paraphrased]
+
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+#+end_quote
+
+*** Example
+
+#+begin_quote
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/g-star-graph.png @ 2023-06-15 16:54:53
+[[file:2023-06-15_16-54-53_g-star-graph.png]]
+
+[...]
+
+[...] for symmetric graphs like the ones we are considering, a backward search (reversing edge directions) on $G_{down}$ is the same as an upward search on $G_{up}$. So from both our source and target nodes, we can perform a standard Dijkstra search on the $G_{up}$ graph.
+
+From our example above, let's say our source node is $B$ and our target node is $G$. Then the two respective search spaces on $G_{up}$ will look as follows:
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/upward-source.png @ 2023-06-15 16:54:11
+[[file:2023-06-15_16-54-11_upward-source.png]]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/upward-target.png @ 2023-06-15 16:57:46
+[[file:2023-06-15_16-57-46_upward-target.png]]
+
+Although we said that /every/ edge in $G*$ is either in the $G_{up}$ or the $G_{down}$ graph, not all edges [...] will be relevant in the search space from a given node.
+
+In our example above, for example, the edge $E,D$ does exist in $G_{up}$ since $E$ was contracted before $D$. But, because there is no path to $E$ in either of the two searches from $B$ or $G$, we would never need to consider the edge $E,D$.
+
+Then on both of these upward graphs, we run a */complete/* Dijkstra search, meaning that all nodes in /both/ subgraphs must be settled. And it should be evident that in both searches, the number of settled nodes and relaxed edges is significantly reduced than if we were searching on the entire $G*$ graph.
+
+Moreover, because we have a complete ordering of nodes, the two search spaces can both be conceptualized as /DAGs/ (directed acyclic graphs [[[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]]) and are inherently topologically sorted [[[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]]. Consider the redrawing of the two searches that emphasizes this hierarchical nature of the contraction order:
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/dag-source.png @ 2023-06-15 17:07:38
+[[file:2023-06-15_17-07-38_dag-source.png]]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/dag-target.png @ 2023-06-15 17:07:44
+[[file:2023-06-15_17-07-44_dag-target.png]]
+
+[...]
+
+In any case, after running two complete Dijkstra searches on $G_{up}$ from both the source and target, we have a set of nodes that are settled in both searches. We denote this set as $L$.
+
+Continuing with our example from above, we see the nodes in $L$ shaded in red with their corresponding shortest path scores:
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/query-scores.png @ 2023-06-15 17:07:19
+[[file:2023-06-15_17-07-19_query-scores.png]]
+
+This means the shortest path from $B$ to $G$ is 10 and goes through node $H$.
+
+[formatting mine]
+
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+#+end_quote
+
+*** Unpacking the shortest path from a shortcut
+
+#+begin_quote
+We're able to compute the /length/ of the shortest path, but we still need to unpack the actual arcs used on that path. We can handle this during the stage of contraction when shortcut edges are added. When we add a shortcut edge from $u$ to $w$ during the contraction of $v$, we store a shortcut pointer to $v$.
+
+We then begin unpacking the shortest path on the G*_{U} graph from the highest order node, in both directions. We back-trace parent edge pointers as in a regular Dijkstra algorithm, and if the parent edge has a shortcut pointer, we replace the parent edge with the shortcut edge, and continue to recursively unpack the full path.
+
+Our example query above didn't end up using any shortcut edges in $G*$, but consider if we had queried the shortest path from node $A$ to $G$. Then, we would certainly use the shortcut edge $A,H$. And since $A$ is the highest-ordered node in terms of contraction time, we can visualize the 'unpacking' of shortcut edges as:
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/g-star-graph.png @ 2023-06-15 17:15:41
+[[file:2023-06-15_17-15-41_g-star-graph.png]]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/query/shortcut-unpack.png @ 2023-06-15 17:14:21
+[[file:2023-06-15_17-14-21_shortcut-unpack.png]]
+
+[Paraphrased, Spelling corrected]
+
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+#+end_quote
+
+** Choosing a node order
+
+#+begin_quote
+Our query is correct no matter the order in which nodes were contracted, but a good node ordering has major implications for the performance of the queries. The order in which nodes are contracted affects the shortcut edges that do or don't get added in G*. And as it's been mentioned before, too many shortcut edges means too dense a G* graph and slower queries as a result.
+
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+#+end_quote
+
+*** Cost functions
+
+**** Edge difference
+
+#+begin_quote
+It turns out that the main function used to determine this cost involves simulating the contraction of each node. Given that all edges incident to a node are removed during contraction, we're interested in the edge difference of a node, which is the difference between the number of original edges removed and the number of shortcut edges added.
+
+[...]
+
+Using our original, arbitrary node ordering, we only added 3 shortcut edges. In the example, B was the first node we contracted, and it didn't require any shortcuts to be added. In other words, the edge difference of B is -3.
+
+But what if we had first contracted J first? Compare what choosing J over B looks like:
+
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/order/order-example-1.png @ 2023-06-16 16:14:51
+[[file:2023-06-16_16-14-51_order-example-1.png]]
+
+#+DOWNLOADED: https://jlazarsfeld.github.io/ch.150.project/img/order/order-example-3.png @ 2023-06-16 16:15:04
+[[file:2023-06-16_16-15-04_order-example-3.png]]
+
+So clearly J has a much greater edge difference than B, and so J is less attractive to contract early on.
+
+[...]
+
+But consider that after we begin contracting nodes, the edge difference for other nodes can be affected. If we wanted to strictly adhere to an ordering based on edge difference, we would need to recompute the edge difference for every remaining node in the graph after each contraction. Of course, this would end up taking quadratic time, so it isn't feasible. Instead, we can use the lazy update heuristic [...]
+
+[...]
+
+Before contracting the next minimum node, we recompute its edge difference. If it's still the smallest in the priority queue [[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]], we can go ahead and actually contract it. If its edge difference is no longer the min, then we update its cost and rebalance our [priority queue]. We then check the next minimum node and continue this process.
+
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+#+end_quote
+
+**** Contracted neighbors
+
+#+begin_quote
+[...] we might consider the idea of uniformity to be important when contracting nodes. This means varying the location of nodes in terms of their contraction order.
+
+Conceptually, we wouldn't want to contract all nodes in a small region of the graph consecutively because we could risk adding too many wasteful shortcuts. In our original example, we had a pretty good ordering partly because nodes in different parts of the graph were contracted each round.
+
+So an additional term to consider is the number of contracted neighbors each node has. This just involves counting the number of neighbors in the original graph that have already been contracted. When dealing with multiple terms like contracted neighbors and edge difference to determine cost, we would use a linear combination of terms.
+
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+#+end_quote
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 11:58]
+:FC_CREATED: 2023-05-18T18:58:56Z
+:FC_TYPE:  cloze
+:ID:       effe948a-f49d-4626-9433-246ecf95f5be
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    41.24 | 2023-07-29T09:53:25Z |
+:END:
+
+[[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]] speed up {{finding the shortest-path in a graph}@0}.
+
+*** Source
+[cite:@ContractionHierarchies2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-05-18 Thu 12:02]
+:FC_CREATED: 2023-05-18T19:03:52Z
+:FC_TYPE:  double
+:ID:       562bd685-7e58-422b-bc99-9c8482f1ed11
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.62 | 2023-07-22T04:17:01Z |
+| back     | 2.65 |   4 |    15.61 | 2023-06-26T06:42:13Z |
+:END:
+
+[[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]
+
+*** Back
+A speed up method for calculating the shortest path between nodes in a graph based on the assumption that some vertices are more important than others.
+*** Source
+[cite:@ContractionHierarchies2023]
+
+** Algorithm :fc:
+:PROPERTIES:
+:CREATED: [2023-06-15 Thu 08:08]
+:FC_CREATED: 2023-06-15T15:20:40Z
+:FC_TYPE:  double
+:ID:       41c60c40-670c-46fa-bb2d-69061bea6985
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-06-17T15:30:12Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-15T15:20:40Z |
+:END:
+
+Node contraction in [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]
+
+*** Back
+
+Given:
+
+- $v$: the vertex to contract
+- $U$: the set of all vertices with edges incoming to $v$
+- $W$: the set of all vertices with incoming edges from $v$
+
+Steps:
+
+1. $\forall\; u \in U$:
+   1. $\forall\; w \in W$:
+      1. Compute $P_{w} = \operatorname{weight}(u, v) + \operatorname{weight}(v, w)$
+   2. $P_{max} = \operatorname{max}(P_w)$
+   3. $\forall\; w \in W$:
+      1. Perform a standard Dijkstra's shortest-path [[[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]] search from $u$ to $w$ on the subgraph excluding $v$. Halt when we settle (1) a vertex with a shortest-path score $> P_{max}$ or (2) $w$.
+   4. Add a shortcut if $P_w < \operatorname{distance}(u, w)$
+
+*** Source
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-06-15 Thu 08:20]
+:FC_CREATED: 2023-06-15T15:21:11Z
+:FC_TYPE:  cloze
+:ID:       b9ab023d-91fb-40f3-b2e5-584483446ace
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-06-15T15:21:11Z |
+|        1 |  2.5 |  -1 |        0 | 2023-06-15T15:21:11Z |
+:END:
+
+{{Node contraction}@0} is the process of {{finding shortcuts in a graph in [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]}@1}.
+
+*** Source
+[cite:@ContractionHierarchies2023]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-15 Thu 08:28]
+:FC_CREATED: 2023-06-15T15:30:06Z
+:FC_TYPE:  double
+:ID:       3a4b5dce-1fb6-4df6-ab97-d4902f733922
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-07-21T15:13:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-15T15:30:07Z |
+:END:
+
+When do we contract a vertex, $v$?
+
+*** Back
+- Given a given vertex, $v$
+- Let $U$ be the set of vertices with edges going to $v$
+- Let $W$ be the set of vertices with edges coming from $v$
+
+We contract $v$ when the path $u, v, w$ is the shortest path from $u$ to $w$.
+*** Source
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-15 Thu 08:30]
+:FC_CREATED: 2023-06-15T15:49:20Z
+:FC_TYPE:  double
+:ID:       59eaf61a-b060-4ac9-8f5c-c974bbbf50a9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-06-21T14:48:39Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-15T15:49:21Z |
+:END:
+
+How do we ensure $u, v, w$ is the shortest path from $u$ to $w$?
+
+*** Back
+Perform a local [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and compare the shortest path found excluding $v$ to the shortest path found which includes $v$.
+*** Source
+[cite:@lazarsfeldCoreComponentsCHNodeContraction]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:03]
+:FC_CREATED: 2023-06-16T23:05:25Z
+:FC_TYPE:  double
+:ID:       9b8045c0-9ef5-4e66-a2e8-b7ed6bd666e8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-06-16T23:05:25Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-16T23:05:25Z |
+:END:
+
+How to extract the shortest path through an added shortcut?
+
+*** Back
+We store a pointer to the interim vertex, $v$, when we contract $u, v, w$ into $u, w$.
+
+*** Source
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:18]
+:FC_CREATED: 2023-06-16T23:19:16Z
+:FC_TYPE:  double
+:ID:       c95a0686-6376-4694-b26c-d23a88a22e7d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-29T03:39:52Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-16T23:19:16Z |
+:END:
+
+Heuristics for choosing the order to contract vertices.
+
+*** Back
+- Edge difference
+- Contacted neighbors
+*** Source
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:19]
+:FC_CREATED: 2023-06-16T23:22:44Z
+:FC_TYPE:  double
+:ID:       6764de38-8001-4f56-a1ce-f07dc8bc18cd
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-06-16T23:22:44Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-16T23:22:44Z |
+:END:
+
+Edge difference
+
+*** Back
+- Heuristic for deciding the order to contract vertices in a graph
+- Ranks vertices by the number of edges removed by contraction
+- $\text{score} = \text{edges removed} + \text{edges (shortcuts) added}$
+*** Source
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:22]
+:FC_CREATED: 2023-06-16T23:23:36Z
+:FC_TYPE:  double
+:ID:       29dedbd9-2036-48a1-b945-e24e237dfc69
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-14T14:52:47Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-16T23:23:36Z |
+:END:
+
+Contracted neighbors
+
+*** Back
+- Heuristic for deciding the order to contract vertices in a graph
+- Ranks vertices by the proximity of other contracted vertices
+*** Source
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:23]
+:FC_CREATED: 2023-06-16T23:25:14Z
+:FC_TYPE:  cloze
+:ID:       6bb16f24-c0ad-4f14-8d56-404be5724c3d
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-06-25T13:17:39Z |
+:END:
+
+We should contract vertices in {{ascending order}{direction}@0} of edge difference.
+
+*** Source
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:25]
+:FC_CREATED: 2023-06-16T23:25:50Z
+:FC_TYPE:  cloze
+:ID:       ca653512-868d-4deb-acf6-c4c6245d746f
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   2 |     2.00 | 2023-07-10T00:11:12Z |
+:END:
+
+We should contract vertices with {{fewer}{comparison}@0} contracted neighbors first.
+
+*** Source
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-16 Fri 16:26]
+:FC_CREATED: 2023-06-16T23:27:55Z
+:FC_TYPE:  double
+:ID:       0ba743b9-17d6-4a59-bacf-24f9f6b56443
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    12.69 | 2023-07-24T05:38:20Z |
+| back     | 2.50 |   1 |     1.00 | 2023-07-13T12:55:35Z |
+:END:
+
+Lazy update in the context of vertex ordering
+
+*** Back
+- Contracting any vertex may change the optimal contraction ordering of the remaining vertices
+- Re-compute the rank/weight after popping the next vertex off the [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
+*** Source
+[cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-20 Tue 08:33]
+:FC_CREATED: 2023-06-20T15:35:52Z
+:FC_TYPE:  double
+:ID:       3f00c713-4e7b-4be0-95dc-d620b81b4892
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-07-16T14:19:06Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-20T15:35:52Z |
+:END:
+
+Query phase
+
+*** Back
+- Performs a bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra]] search for shortest path from $s$ to $t$
+  - Forward search on upward graph from $s$
+  - Backward search on downward graph from $t$
+*** Source
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-20 Tue 08:37]
+:FC_CREATED: 2023-06-20T15:38:35Z
+:FC_TYPE:  cloze
+:ID:       9b082e8b-dbc5-4512-a475-77ddd0572e9d
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   0 |     0.00 | 2023-06-26T16:12:51Z |
+|        1 |  2.5 |  -1 |        0 | 2023-06-20T15:38:35Z |
+:END:
+
+{{$G_{up}$}@0}, a subgraph of $G$, contains only edges from $v$ to $w$ {{where we contracted $w$ *after* $v$}{condition}@1}
+
+*** Source
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-20 Tue 08:38]
+:FC_CREATED: 2023-06-20T15:39:08Z
+:FC_TYPE:  cloze
+:ID:       5ccd2664-7c96-42b1-ae83-2b534ca2b1fa
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-06-20T15:39:08Z |
+|        1 |  2.5 |  -1 |        0 | 2023-06-20T15:39:08Z |
+:END:
+
+{{$G_{down}$}@0}, a subgraph of $G$, contains only edges from $v$ to $w$ {{where we contracted $v$ *before* $w$}{condition}@1}
+
+
+*** Source
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-20 Tue 08:40]
+:FC_CREATED: 2023-06-20T15:42:14Z
+:FC_TYPE:  double
+:ID:       10d226cb-55e8-449a-b962-4e6936e41d25
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-06-29T17:14:09Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-20T15:42:14Z |
+:END:
+
+How to unpack the shortest path from a shortcut
+
+*** Back
+Store a pointer to the contracted node, $v$, whenever we contract $u, v, w$ into $u, w$.
+*** Source
+[cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
+** Witness path ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-20 Tue 08:43]
+:FC_CREATED: 2023-06-20T15:44:41Z
+:FC_TYPE:  vocab
+:ID:       fa1f6262-9599-43e5-a6a6-7d7dafe1c903
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-30T03:51:57Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-20T15:44:41Z |
+:END:
+
+A path $u, \dots, w$ around $v$ with cost smaller than the cost of $u, v, w$.
+
+*** Source
+[cite:@ContractionHierarchies2023]
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-20 Tue 09:07]
+:FC_CREATED: 2023-06-20T16:07:34Z
+:FC_TYPE:  cloze
+:ID:       8bc4bcdf-557f-42c2-acab-9e8052144d2b
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   3 |     6.00 | 2023-07-20T13:14:16Z |
+:END:
+
+Contraction is {{iterative}{process}@0}
+
+*** Source
+[cite:@ContractionHierarchies2023]
+#+print_bibliography:

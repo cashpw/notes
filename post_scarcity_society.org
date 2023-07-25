@@ -2,7 +2,7 @@
 :ID:       7bb3980d-e901-4f5e-b102-61a0a89de28c
 :ROAM_REFS: [cite:@PostscarcityEconomy2022]
 :ROAM_ALIASES: "Post-scarcity economy"
-:LAST_MODIFIED: [2023-02-26 Sun 07:56]
+:LAST_MODIFIED: [2023-06-20 Tue 07:50]
 :END:
 #+title: Post-scarcity society
 #+hugo_custom_front_matter: :slug "7bb3980d-e901-4f5e-b102-61a0a89de28c"
@@ -30,8 +30,8 @@ Post-scarcity is a theoretical economic situation in which most goods can be pro
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   105.43 | 2023-05-28T01:41:55Z |
-| back     | 2.80 |   6 |   113.90 | 2023-06-20T13:34:49Z |
+| front    | 2.80 |   7 |   277.14 | 2024-03-02T19:24:17Z |
+| back     | 2.80 |   7 |   309.30 | 2024-04-24T21:58:56Z |
 :END:
 
 [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][Post-scarcity economy]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60
-:LAST_MODIFIED: [2023-03-09 Thu 19:15]
+:LAST_MODIFIED: [2023-06-18 Sun 07:28]
 :END:
 #+title: Higher order questions
 #+hugo_custom_front_matter: :slug "dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60"
@@ -26,8 +26,8 @@ Also see [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    65.01 | 2023-05-01T04:08:59Z |
-| back     | 2.65 |   6 |    99.57 | 2023-06-17T17:02:05Z |
+| front    | 2.05 |   7 |   127.89 | 2023-09-06T20:47:47Z |
+| back     | 2.65 |   7 |   244.66 | 2024-02-18T06:16:37Z |
 :END:
 
 [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]]
@@ -48,8 +48,8 @@ Questions which go beyond simple information; abstract language functions such a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    89.19 | 2023-05-26T20:31:17Z |
-|        1 | 2.50 |   6 |    95.65 | 2023-06-13T18:21:43Z |
+|        0 | 2.50 |   7 |   227.28 | 2024-01-12T23:02:35Z |
+|        1 | 2.50 |   7 |   234.17 | 2024-02-04T17:42:00Z |
 :END:
 
 {{[[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]]}{questions}@0} :: {{[[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]] and above}{[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]}@1}

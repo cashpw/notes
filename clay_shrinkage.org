@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba4b74e8-2d33-43ec-bd03-b9ff320ed65a
-:LAST_MODIFIED: [2023-03-17 Fri 07:00]
+:LAST_MODIFIED: [2023-07-10 Mon 08:43]
 :END:
 #+title: Clay shrinkage
 #+hugo_custom_front_matter: :slug "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
@@ -39,7 +39,7 @@ Average clay contains about 20% water and 9% organic matter, thus, finished pots
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   6 |    91.61 | 2023-04-27T07:29:51Z |
+| back     | 2.20 |   7 |   198.15 | 2023-11-17T19:24:55Z |
 | front    | 2.80 |   7 |   266.65 | 2023-11-05T07:12:04Z |
 :END:
 
@@ -81,7 +81,7 @@ The weight loss between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   7 |   129.13 | 2023-05-03T18:20:17Z |
+|        0 | 2.05 |   6 |    62.42 | 2023-09-08T10:22:37Z |
 :END:
 *** Extra
 *** Source
@@ -98,7 +98,7 @@ The weight loss between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    37.55 | 2023-04-03T17:27:07Z |
+|        0 | 2.50 |   7 |   214.27 | 2024-02-09T22:09:40Z |
 |        1 | 2.65 |   7 |   217.76 | 2023-09-12T13:05:49Z |
 :END:
 *** Extra

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f4ce56ce-f473-4f06-b78b-db67aaaa45d2
-:LAST_MODIFIED: [2023-03-18 Sat 06:37]
+:LAST_MODIFIED: [2023-07-08 Sat 08:03]
 :END:
 #+title: Commoditize your compliments
 #+hugo_custom_front_matter: :slug "f4ce56ce-f473-4f06-b78b-db67aaaa45d2"
@@ -28,7 +28,7 @@ Commoditizing your compliments is a business strategy to ensure you maintain a d
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    58.46 | 2023-03-25T04:08:17Z |
+| front    | 2.20 |   7 |   134.45 | 2023-08-07T06:09:38Z |
 | back     | 2.65 |   6 |   139.15 | 2023-08-04T17:13:56Z |
 :END:
 
@@ -50,8 +50,8 @@ A product you usually buy together with another product.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   6 |   129.90 | 2023-07-08T02:21:08Z |
-|        0 | 2.80 |   6 |   105.42 | 2023-06-03T00:28:31Z |
+|        1 | 2.80 |   7 |   339.63 | 2024-06-12T06:03:57Z |
+|        0 | 2.80 |   7 |   289.26 | 2024-03-19T10:51:26Z |
 :END:
 
 All else being equal, the demand for a product increases when the prices of {{its complements}@1} {{decrease.}@0}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed88423b-621f-4581-9601-40e631bb4f62
-:LAST_MODIFIED: [2023-03-18 Sat 06:31]
+:LAST_MODIFIED: [2023-05-03 Wed 14:57]
 :ROAM_REFS: [cite:@NPProblem2023]
 :END:
 #+title: P versus NP problem
@@ -25,8 +25,8 @@ The P [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]] versus NP [[
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    42.12 | 2023-04-29T16:25:19Z |
-| back     | 2.50 |   4 |    15.04 | 2023-03-25T03:46:23Z |
+| front    | 2.65 |   6 |   106.25 | 2023-08-15T00:39:05Z |
+| back     | 2.50 |   6 |    85.84 | 2023-07-28T18:08:15Z |
 :END:
 
 [[id:ed88423b-621f-4581-9601-40e631bb4f62][P versus NP problem]]

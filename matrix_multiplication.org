@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
-:LAST_MODIFIED: [2023-03-17 Fri 06:55]
+:LAST_MODIFIED: [2023-07-19 Wed 06:42]
 :ROAM_REFS: [cite:@MatrixMultiplication2023]
 :END:
 #+title: Matrix multiplication
@@ -170,7 +170,7 @@ And the graphical form:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   4 |    10.41 | 2023-03-19T03:19:00Z |
+|        0 | 1.75 |   8 |   121.69 | 2023-11-18T06:15:28Z |
 :END:
 
 For matrices, $A$, $B$, and $C = AB$,
@@ -189,8 +189,8 @@ $c_{i,j}=$ {{$\sum\limits_{k = 1}^{n}a_{i,k}b_{k,j}$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    42.95 | 2023-04-29T12:41:13Z |
-| back     | 2.50 |   4 |    14.30 | 2023-03-24T10:04:27Z |
+| front    | 2.65 |   6 |   111.95 | 2023-08-21T22:20:29Z |
+| back     | 2.50 |   6 |    88.08 | 2023-08-04T19:00:21Z |
 :END:
 
 [[id:a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a][Matrix multiplication]] as a [[id:ef6a5f11-0991-4fff-8453-5006362138e6][Linear combination]] of rows
@@ -249,8 +249,8 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    38.94 | 2023-04-19T22:55:16Z |
-| back     | 2.50 |   5 |    35.57 | 2023-04-20T04:52:17Z |
+| front    | 2.50 |   6 |    95.91 | 2023-08-03T12:22:44Z |
+| back     | 2.50 |   6 |    89.01 | 2023-08-07T16:23:31Z |
 :END:
 
 [[id:a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a][Matrix multiplication]] as a [[id:ef6a5f11-0991-4fff-8453-5006362138e6][Linear combination]] of columns
@@ -306,7 +306,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    45.44 | 2023-04-19T02:04:24Z |
+|        0 | 2.65 |   6 |   119.72 | 2023-08-26T15:48:08Z |
 :END:
 
 $(A_{\ell\times n}B_{n \times m})_{\text{row}i}$ $=$ {{$A_{\text{row}\,i} \cdot \{B_{\text{row}\,0}, \;\dots\;, B_{\text{row}\,m}\}$}@0}
@@ -325,7 +325,7 @@ $(A_{\ell\times n}B_{n \times m})_{\text{row}i}$ $=$ {{$A_{\text{row}\,i} \cdot 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    38.86 | 2023-04-22T11:15:03Z |
+|        0 | 2.80 |   6 |   117.97 | 2023-08-29T14:50:27Z |
 :END:
 
 $(A_{\ell\times n}B_{n \times m})_{\text{col}\,i}$ $=$ {{$B_{\text{col}\,i} \cdot \{A_{\text{col}\,0}, \;\dots\;, A_{\text{col}\,\ell}\}$}@0}

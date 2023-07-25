@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b59377a2-c3af-4647-b74b-2c38bd4f8c7a
 :ROAM_REFS: [cite:@GaussianElimination2022]
-:LAST_MODIFIED: [2023-01-05 Thu 07:08]
+:LAST_MODIFIED: [2023-07-24 Mon 11:55]
 :END:
 #+title: Gaussian elimination
 #+hugo_custom_front_matter: :slug "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"
@@ -46,7 +46,7 @@ An algorithm for solving a system of linear equations consisting of three operat
 3. adding a scalar multiple of one row to another row.
 
 It reduces a given matrix to [[id:2b33e0aa-52e7-404b-90f0-34f6468389c0][Row echelon form]] (upper triangular), and can further reduce it to [[id:8ebdd5de-6846-42d2-b019-0404e4bba32d][Reduced row echelon form]].
-** Definition :fcn:
+** Definition :fc:
 :PROPERTIES:
 :ID:       5dc9463c-eac1-457a-ae2e-d1cafcd5058d
 :ANKI_NOTE_ID: 1655822411686

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24b10601-c88f-46fc-bbf9-3f7687c2d2ba
-:LAST_MODIFIED: [2023-03-17 Fri 08:24]
+:LAST_MODIFIED: [2023-05-10 Wed 08:53]
 :ROAM_REFS: [cite:@KnapsackProblem2023]
 :END:
 #+title: Knapsack problem
@@ -75,8 +75,8 @@ The subset sum problem [[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum pr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    52.96 | 2023-05-09T13:01:25Z |
-| back     | 2.50 |   4 |    15.41 | 2023-03-24T03:22:10Z |
+| front    | 2.80 |   6 |   151.49 | 2023-10-08T04:21:44Z |
+| back     | 2.35 |   6 |    77.01 | 2023-07-26T16:12:49Z |
 :END:
 
 [[id:24b10601-c88f-46fc-bbf9-3f7687c2d2ba][Knapsack problem]]

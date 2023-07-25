@@ -2,7 +2,7 @@
 :ID:       7358ec53-29b1-4b14-b1b5-20a09e40caf1
 :ROAM_ALIASES: "Leather-hard clay"
 :ROAM_REFS: [cite:@Leatherhard2020]
-:LAST_MODIFIED: [2023-02-26 Sun 08:03]
+:LAST_MODIFIED: [2023-07-23 Sun 20:53]
 :END:
 #+title: Leather-hard
 #+hugo_custom_front_matter: :slug "7358ec53-29b1-4b14-b1b5-20a09e40caf1"
@@ -30,8 +30,8 @@ In pottery, leather-hard is the condition of a clay or clay body when it has bee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    51.89 | 2023-04-05T13:28:33Z |
-| back     | 3.10 |   6 |   129.51 | 2023-07-06T04:22:33Z |
+| front    | 2.20 |   8 |   217.89 | 2024-02-27T01:08:18Z |
+| back     | 3.10 |   7 |   369.23 | 2024-07-09T20:12:32Z |
 :END:
 
 [[id:7358ec53-29b1-4b14-b1b5-20a09e40caf1][Leather-hard clay]]

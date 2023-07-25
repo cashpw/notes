@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-02-17 Fri 07:02]
+:LAST_MODIFIED: [2023-06-08 Thu 09:27]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -26,6 +26,7 @@ To determine whether a difficulty is desirable, use the following three guidelin
 1. The processing at encoding should be the same as the processing at retrieval.
 2. The processing at encoding should be the same as the processing during practice.
 3. The task must be able to be accomplished. Too difficult a task may dissuade the learner and prevent full processing.
+
 [cite:@DesirableDifficulty2022]
 #+end_quote
 
@@ -45,7 +46,7 @@ To determine whether a difficulty is desirable, use the following three guidelin
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 3.10 |   8 |   276.83 | 2023-11-21T11:02:35Z |
-| front    | 2.20 |   6 |    77.82 | 2023-04-04T21:32:29Z |
+| front    | 2.20 |   7 |   180.47 | 2023-10-03T03:48:10Z |
 :END:
 [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
 *** Back
@@ -68,7 +69,7 @@ The requisite effort improves long-term performance.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   301.43 | 2023-12-16T01:17:38Z |
-|        1 | 2.20 |   8 |   118.02 | 2023-04-26T17:59:29Z |
+|        1 | 2.20 |   9 |   263.52 | 2024-01-22T10:19:32Z |
 |        2 | 2.50 |   7 |   202.38 | 2023-08-21T01:23:58Z |
 :END:
 
@@ -91,7 +92,7 @@ For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]: the proce
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   114.22 | 2023-03-25T21:12:09Z |
+|        0 | 2.95 |   7 |   339.69 | 2024-02-29T05:59:57Z |
 :END:
 For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]: The performer must be able to {{accomplish}@0} the task
 *** Extra
@@ -109,13 +110,13 @@ Too difficult a task may dissuade the learner and prevent full processing.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    85.75 | 2023-04-14T09:16:31Z |
-| back     | 2.50 |   6 |    79.88 | 2023-04-13T11:31:41Z |
+| front    | 2.50 |   7 |   220.08 | 2023-12-05T00:51:41Z |
+| back     | 2.50 |   7 |   199.72 | 2023-10-30T06:40:21Z |
 :END:
 Guidelines for [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
 *** Back
 - The process at encoding should be the same process at both retrieval and during practice.
-- The task must be able to be accomplished -- too difficult a task may dissuade the learner and prevent full learning.
+- The task must be able to be accomplished -- too hard a task may dissuade the learner and prevent full learning.
 *** Source
 [cite:@DesirableDifficulty2022]
 #+print_bibliography:

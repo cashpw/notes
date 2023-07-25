@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e
+:LAST_MODIFIED: [2023-07-18 Tue 06:49]
+:END:
+#+title: Big-picture thinking (Staff Engineer's Path)
+#+hugo_custom_front_matter: :slug "69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-05 Mon 09:33]
+#+filetags: :has_todo:concept:
+#+begin_quote
+Big-picture thinking means being able to step back and take a broader view. It means seeing beyond the immediate details and understanding the context that you're working in. It also means thinking beyond the current time, whether that means initiating yearlong projects, building software that will be easy to decommission, or predicting what your company will need in three years.
+
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+#+end_quote
+* Maps
+- [[id:1b17b268-7192-4117-9d4f-1b67dcc091ee][Locator map (Staff Engineer's Path)]]
+- [[id:49d0c976-126c-4612-82ad-bebd079dd200][Topographical map (Staff Engineer's Path)]]
+- [[id:f3ca255f-a05d-4410-8a11-4fc48db1afe7][Treasure map (Staff Engineer's Path)]]
+* TODO [#2] Flashcards
+** TODO [#2] Examples
+** Describe (Staff engineer) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-05 Mon 09:36]
+:FC_CREATED: 2023-06-05T16:38:37Z
+:FC_TYPE:  double
+:ID:       e4771f92-4a5f-418f-b29d-10f4acd00bce
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    32.67 | 2023-08-07T20:19:42Z |
+| back     | 2.65 |   5 |    45.23 | 2023-09-01T19:17:30Z |
+:END:
+
+[[id:69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e][Big-picture thinking (Staff Engineer's Path)]]
+
+*** Back
+The ability to
+
+- step back and take a broader view
+- see beyond the immediate details and understand the context you're working in
+- think beyond the current time; long-term projects, building with attention to eventual decommissioning, predicting business needs
+*** Source
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+#+print_bibliography:

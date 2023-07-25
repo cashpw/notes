@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5a289064-2f24-4877-88a3-c9825dc2dbbe
-:LAST_MODIFIED: [2023-02-21 Tue 08:44]
+:LAST_MODIFIED: [2023-05-21 Sun 05:56]
 :END:
 #+title: All that you touch You Change
 #+hugo_custom_front_matter: :slug "5a289064-2f24-4877-88a3-c9825dc2dbbe"
@@ -27,7 +27,7 @@ All that you touch You Change. All that you Change Changes you. The only lasting
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    46.57 | 2023-03-30T05:06:59Z |
+|        0 | 2.95 |   6 |   147.23 | 2023-08-25T21:47:21Z |
 :END:
 
 All that you touch {{You Change. All that you Change Changes you. The only lasting truth is Change. God is Change.}{full}@0}
@@ -46,7 +46,7 @@ All that you touch {{You Change. All that you Change Changes you. The only lasti
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   101.31 | 2023-05-21T01:47:04Z |
+|        0 | 2.80 |   7 |   287.24 | 2024-03-03T18:37:15Z |
 :END:
 
 All that you Change {{Changes you.}@0}
@@ -65,7 +65,7 @@ All that you Change {{Changes you.}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    52.94 | 2023-03-31T17:25:18Z |
+|        0 | 3.10 |   6 |   157.74 | 2023-09-06T15:20:07Z |
 :END:
 
 The only lasting truth {{is Change.}@0}
@@ -84,7 +84,7 @@ The only lasting truth {{is Change.}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    84.22 | 2023-05-16T22:07:05Z |
+|        0 | 2.50 |   7 |   196.03 | 2023-11-29T13:13:15Z |
 :END:
 
 All that you touch {{You Change.}{short}@0}

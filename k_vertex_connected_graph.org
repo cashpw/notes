@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       78c49f16-1956-4ffb-9207-f72f79025d5b
+:ROAM_REFS: [cite:@KvertexconnectedGraph2023]
+:LAST_MODIFIED: [2023-07-23 Sun 20:55]
+:END:
+#+title: k-vertex-connected graph
+#+hugo_custom_front_matter: :slug "78c49f16-1956-4ffb-9207-f72f79025d5b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-24 Sat 20:26]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory, a connected graph [[[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]]] $G$ is said to be k-vertex-connected (or k-connected) if it has more than k vertices and remains connected whenever fewer than k vertices are removed.
+
+[cite:@KvertexconnectedGraph2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-06-24 Sat 20:27]
+:FC_CREATED: 2023-06-25T03:28:46Z
+:FC_TYPE:  double
+:ID:       496c40cd-6d35-4831-98b4-adf4153a4af7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    39.35 | 2023-09-01T12:20:10Z |
+| back     | 2.35 |   4 |    14.60 | 2023-07-22T14:43:32Z |
+:END:
+
+[[id:78c49f16-1956-4ffb-9207-f72f79025d5b][k-vertex-connected graph]]
+
+*** Back
+A [[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]] of $>k$ vertices which remains connected after one removes $<k$ vertices.
+*** Source
+[cite:@KvertexconnectedGraph2023]
+#+print_bibliography:

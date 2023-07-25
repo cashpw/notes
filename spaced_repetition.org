@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-03-10 Fri 21:21]
+:LAST_MODIFIED: [2023-07-16 Sun 07:02]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -22,11 +22,64 @@ The basis for spaced repetition research was laid by Hermann Ebbinghaus, who sug
 
 Also see [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]].
 
-Spaced repetition is how I bring intention to memory. I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful,  process.
+Spaced repetition is how I bring intention to memory. I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful, process.
+
+Note [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowing the name of something and knowing something]]. Spaced repetition is capable of aiding both remembering names and deeper understanding. However, the two require different approaches:
+
+- Remember something when prompted (e.g. knowing the definition of a word while reading)
+- Bring an idea to mind in context (e.g. using a word while writing)
+
+It's most effective when the practice mirrors, as closely as is possible, the way the knowledge will be applied (see also [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]).
 
 * Tools
 
 My preferred solution is [[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]]. However, [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]] is, as far as I can tell, the most popular and well known. I used Anki exclusively prior to switching to org-fc.
+
+* Why isn't spaced repetition more popular?
+
+As far as I can tell, from my own experience and reading what others have written on the topic:
+
+1. It's not popular because it isn't popular
+
+   [[id:3bac7cee-9146-45df-be28-bb51ac48be68][People are not strategic by default]] and aren't likely to go out on their own to pursue novel (to them at least) ways of doing something. They're much more likely to do what they see others doing.
+
+2. Other, more popular, learning methods work well enough
+
+   Spaced repetition isn't the only effective way to learn a topic. Additionally, those alternatives often feel better in the moment or give the impression that they're more effective:
+
+   #+begin_quote
+Of course, [cramming] is precisely what students do. They cram the night before the test, and a month later can't remember anything. So why do people do it? (I'm not innocent myself.) Why is spaced repetition so dreadfully unpopular, even among the people who try it once?⁠
+
+Because it does work. Sort of. Cramming is a trade-off: you trade a strong memory now for weak memory later. (Very weak⁠12⁠.) And tests are usually of all the new material, with occasional old questions, so this strategy pays off! [...]
+
+[cite:@branwenSpacedRepetitionEfficientLearning2009]
+   #+end_quote
+
+3. It's hard to write good, effective, cards
+
+   #+begin_quote
+One reason this can be frustrating is you'll often remember a flashcard for the first few weeks of it (when you're seeing it with high frequency), but after a couple of months, you start failing it. It didn't take root in your long term memory, because it was poorly written in some way. And this long feedback cycle means it takes time to acquire these skills through trial and error.
+
+[cite:@borrettiEffectiveSpacedRepetition2023]
+   #+end_quote
+
+4. Spaced repetition is a form of delayed gratification
+
+5. "For spaced repetition to be useful, it has to be a habit" [cite:@borrettiEffectiveSpacedRepetition2023] and it's often a difficult habit to form
+
+* TODO [#3] On writing cards
+
+** Cards should be small
+
+Cards, like [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]], [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][should be atomic]]; they should test a single, small, idea.
+
+- [[id:5819da38-1d40-498f-a915-dc2b4596846b][Write Atomic Flashcards]]
+- [[id:ac7954e0-a276-418c-89a1-4a8e4a41b5cb][Make most Anki questions and answers as atomic as possible]]
+
+** Approach an idea from more than one direction
+
+- [[id:14712c73-5f39-47ed-85fd-b29b72bec975][Cultivate strategies for elaborative encoding / forming rich associations]]
+- [[id:5eaddd36-abc6-428a-8dae-d2a0466c196f][Write Two-Way Questions]]
 
 * TODO [#3] Expand :noexport:
 
@@ -186,8 +239,8 @@ Hacker News discussion: [[https://www.gwern.net/docs/www/news.ycombinator.com/d9
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   6 |    44.29 | 2023-03-27T22:33:14Z |
-| back     | 2.95 |   5 |    53.84 | 2023-03-21T11:07:21Z |
+| front    | 2.05 |   8 |   178.13 | 2023-12-18T17:22:55Z |
+| back     | 2.95 |   6 |   144.66 | 2023-08-13T09:16:21Z |
 :END:
 
 [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
@@ -208,9 +261,9 @@ An evidence-based learning technique, usually performed with flashcards, which e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    75.54 | 2023-04-15T15:31:29Z |
-|        1 | 2.50 |   6 |    85.06 | 2023-05-13T04:42:26Z |
-|        2 | 2.95 |   6 |   127.22 | 2023-07-16T10:33:34Z |
+|        0 | 2.65 |   7 |   202.86 | 2023-11-17T19:13:43Z |
+|        1 | 2.50 |   7 |   201.72 | 2023-12-01T09:41:22Z |
+|        2 | 2.80 |   7 |   387.07 | 2024-08-06T15:46:13Z |
 :END:
 
 {{[[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]}@0} exploits the {{[[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]]}@1} and {{[[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]}@2}.

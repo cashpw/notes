@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       41618912-5982-453e-adcb-0c4ba57448ae
 :ROAM_REFS: [cite:@TulipMania2022]
-:LAST_MODIFIED: [2023-03-17 Fri 07:10]
+:LAST_MODIFIED: [2023-04-05 Wed 09:27]
 :END:
 #+title: Tulip mania
 #+hugo_custom_front_matter: :slug "41618912-5982-453e-adcb-0c4ba57448ae"
@@ -66,7 +66,7 @@ The first recorded speculative bubble. A period in the Dutch Golden Age during w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   8 |   143.79 | 2023-04-04T11:08:30Z |
+|        0 | 2.50 |   9 |   333.87 | 2024-03-04T13:16:28Z |
 :END:
 
 *** Extra

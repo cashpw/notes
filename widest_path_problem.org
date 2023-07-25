@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       635d6c87-68fe-4fbf-9462-2d86b0ea7f58
-:LAST_MODIFIED: [2023-03-13 Mon 08:03]
+:LAST_MODIFIED: [2023-07-23 Sun 20:57]
 :ROAM_ALIASES: "Maximum capacity path problem"
 :END:
 #+title: Widest path problem
@@ -32,8 +32,8 @@ In this graph, the widest path from Maldon to Feering has bandwidth 29, and pass
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    58.58 | 2023-04-23T17:42:05Z |
-| back     | 2.65 |   5 |    48.26 | 2023-03-23T22:44:32Z |
+| front    | 2.20 |   7 |   132.26 | 2023-09-08T04:54:09Z |
+| back     | 2.35 |   1 |     1.00 | 2023-07-25T03:57:25Z |
 :END:
 
 [[id:635d6c87-68fe-4fbf-9462-2d86b0ea7f58][Widest path problem]]
@@ -54,8 +54,8 @@ The problem of finding a path between two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    46.93 | 2023-03-20T15:47:55Z |
-|        1 | 2.65 |   6 |   116.27 | 2023-07-07T21:33:42Z |
+|        0 | 2.80 |   6 |   127.65 | 2023-07-27T09:06:38Z |
+|        1 | 2.50 |   7 |   279.84 | 2024-04-12T20:31:20Z |
 :END:
 
 Most algorithms which solve the {{[[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]}@0} can, with modifications, also solve the {{[[id:635d6c87-68fe-4fbf-9462-2d86b0ea7f58][Widest path problem]]}@1}.

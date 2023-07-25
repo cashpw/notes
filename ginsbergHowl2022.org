@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@ginsbergHowl2022]
 :ID:       de31b59e-2fed-49c0-82ff-22d6f86fc48d
 :ROAM_ALIASES: "Howl (Poem)"
-:LAST_MODIFIED: [2023-02-16 Thu 19:44]
+:LAST_MODIFIED: [2023-07-24 Mon 11:53]
 :END:
 #+title: Allen Ginsberg | Howl
 #+hugo_custom_front_matter: :slug "de31b59e-2fed-49c0-82ff-22d6f86fc48d"
@@ -163,12 +163,6 @@ I'm with you in Rockland
 #+end_verse
 [[id:99b2e935-acef-4ef6-9904-fbac7797c17b][Footnote to Howl]]
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:FC_CREATED: 2022-11-17T17:01:16Z
-:FC_TYPE:  cloze
-:ID:       266b21db-3adb-4506-a718-aadc1703204c
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-17 Thu 09:01]
@@ -179,8 +173,8 @@ I'm with you in Rockland
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   113.62 | 2023-06-09T07:00:59Z |
-| back     | 2.65 |   6 |   109.07 | 2023-06-06T05:26:42Z |
+| front    | 2.65 |   7 |   299.49 | 2024-04-04T03:19:27Z |
+| back     | 2.65 |   7 |   277.93 | 2024-03-10T12:56:35Z |
 :END:
 
 [[id:de31b59e-2fed-49c0-82ff-22d6f86fc48d][Howl (Poem)]]

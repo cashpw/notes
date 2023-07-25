@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a075c129-c708-4f5b-bbe7-4b5b85f3b475
-:LAST_MODIFIED: [2023-02-27 Mon 20:54]
+:LAST_MODIFIED: [2023-06-07 Wed 08:01]
 :END:
 #+title: Peripheral route processing
 #+hugo_custom_front_matter: :slug "a075c129-c708-4f5b-bbe7-4b5b85f3b475"
@@ -30,7 +30,7 @@ A way of processing an argument by looking at secondary characteristics. Usually
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.60 |  17 |   260.53 | 2023-10-25T12:32:10Z |
-| front    | 2.65 |   6 |    98.44 | 2023-06-06T15:27:45Z |
+| front    | 2.65 |   7 |   278.88 | 2024-03-12T12:11:29Z |
 :END:
 [[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]
 *** Back

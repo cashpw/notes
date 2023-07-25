@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
 :ROAM_REFS: [cite:@Determinant2022]
-:LAST_MODIFIED: [2023-03-17 Fri 07:06]
+:LAST_MODIFIED: [2023-07-22 Sat 20:49]
 :END:
 #+title: Determinant
 #+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
@@ -57,9 +57,9 @@ The absolute value of $\determinant{A}$ represents the factor by which $A$ scale
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   183.39 | 2023-05-09T07:21:40Z |
-|        2 | 2.80 |   6 |   115.28 | 2023-05-20T23:27:27Z |
-|        1 | 2.65 |   7 |   128.09 | 2023-03-22T17:50:33Z |
+|        0 | 2.65 |   9 |   487.98 | 2024-09-08T16:10:32Z |
+|        2 | 2.80 |   7 |   339.42 | 2024-04-24T23:11:40Z |
+|        1 | 2.65 |   8 |   352.12 | 2024-03-12T16:24:07Z |
 :END:
 - {{$\determinant{M}$}@0}
 - {{$|M|$}@2}
@@ -77,7 +77,7 @@ The absolute value of $\determinant{A}$ represents the factor by which $A$ scale
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    81.97 | 2023-03-22T16:11:34Z |
+| front    | 1.90 |   7 |    98.72 | 2023-10-29T21:08:31Z |
 | back     | 2.50 |   7 |   246.00 | 2023-10-03T02:24:48Z |
 :END:
 
@@ -101,7 +101,7 @@ Calculate [[id:dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2][Determinant]] of a matrix, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   135.11 | 2023-06-12T19:17:39Z |
+|        0 | 2.65 |   7 |   365.95 | 2024-06-13T13:38:18Z |
 :END:
 
 - $\determinant{\begin{bmatrix}a & b \\ c & d\end{bmatrix}}$ $=$ {{$ad - bc$}@0}
@@ -120,7 +120,7 @@ Calculate [[id:dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2][Determinant]] of a matrix, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    85.13 | 2023-06-01T21:47:50Z |
+|        0 | 2.20 |   7 |   179.89 | 2023-11-28T22:28:56Z |
 :END:
 
 $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $=$ {{$a \determinant{\begin{bmatrix}e & f \\ h & i\end{bmatrix}}$ $-$ $b \determinant{\begin{bmatrix}d & f \\ g & i\end{bmatrix}}$ $+$ $c \determinant{\begin{bmatrix}d & e \\ g & h\end{bmatrix}}$}@0}
@@ -139,7 +139,7 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    88.22 | 2023-04-01T21:47:20Z |
+|        0 | 2.05 |   7 |   166.58 | 2023-09-16T07:02:12Z |
 :END:
 
 - $\determinant{I}$ $=$ {{$1$}@0}
@@ -157,8 +157,8 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   133.92 | 2023-05-06T11:57:37Z |
-|        1 | 1.90 |   6 |    51.25 | 2023-03-22T22:21:44Z |
+|        0 | 2.80 |   7 |   347.81 | 2024-04-20T12:34:18Z |
+|        1 | 1.90 |   8 |   162.88 | 2023-12-05T14:23:22Z |
 :END:
 
 {{$|\operatorname{det}(A)|$}@0} represents {{the factor by which $A$ scales areas/volumes}{geometric}@1}.
@@ -177,8 +177,8 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   6 |   132.83 | 2023-06-10T12:34:11Z |
-|        0 | 1.90 |   7 |    94.04 | 2023-06-17T16:09:55Z |
+|        1 | 2.65 |   7 |   348.63 | 2024-05-24T07:04:39Z |
+|        0 | 1.90 |   8 |   160.83 | 2023-11-26T10:13:32Z |
 :END:
 
 *** Source
@@ -196,7 +196,7 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.20 |   7 |   133.08 | 2023-07-28T16:03:23Z |
-|        0 | 2.80 |   6 |   107.01 | 2023-06-02T04:52:00Z |
+|        0 | 2.65 |   5 |    43.44 | 2023-08-13T12:14:18Z |
 :END:
 
 *** Source

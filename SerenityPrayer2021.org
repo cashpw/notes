@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SerenityPrayer2021]
 :ID:       749f3b30-7a42-4262-9175-f9b2046557ec
-:LAST_MODIFIED: [2023-03-09 Thu 19:06]
+:LAST_MODIFIED: [2023-07-22 Sat 20:38]
 :END:
 #+title: Serenity prayer
 #+hugo_custom_front_matter: :slug "749f3b30-7a42-4262-9175-f9b2046557ec"
@@ -34,7 +34,7 @@ and wisdom to know the difference.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   5 |    36.93 | 2023-04-11T15:30:59Z |
+|        0 | 1.90 |   5 |    20.84 | 2023-08-12T23:53:42Z |
 :END:
 
 *** Source
@@ -51,7 +51,7 @@ and wisdom to know the difference.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    74.31 | 2023-05-02T09:33:08Z |
+|        0 | 2.20 |   7 |   171.87 | 2023-10-23T13:38:24Z |
 :END:
 *** Source
 [cite:@SerenityPrayer2021]
@@ -67,7 +67,7 @@ and wisdom to know the difference.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    97.20 | 2023-06-15T07:47:44Z |
+|        0 | 2.20 |   5 |    31.01 | 2023-08-10T15:55:49Z |
 :END:
 *** Source
 [cite:@SerenityPrayer2021]
@@ -83,7 +83,7 @@ and wisdom to know the difference.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    78.27 | 2023-05-04T22:27:06Z |
+|        0 | 2.50 |   7 |   204.34 | 2023-11-27T01:45:51Z |
 :END:
 *** Source
 [cite:@SerenityPrayer2021]

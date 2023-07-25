@@ -2,7 +2,7 @@
 :ID:       78cc7b2d-7eb9-4387-aa91-c7fe435b7c35
 :ROAM_ALIASES: Cluster
 :ROAM_REFS: [cite:@ComputerCluster2022]
-:LAST_MODIFIED: [2023-02-23 Thu 19:43]
+:LAST_MODIFIED: [2023-06-14 Wed 17:37]
 :END:
 #+title: Computer cluster
 #+hugo_custom_front_matter: :slug "78cc7b2d-7eb9-4387-aa91-c7fe435b7c35"
@@ -27,8 +27,8 @@ A computer cluster is a set of computers that work together so that they can be 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   115.72 | 2023-06-14T10:48:21Z |
-| back     | 2.50 |   6 |    81.50 | 2023-05-16T15:37:53Z |
+| front    | 2.65 |   7 |   324.07 | 2024-05-04T02:14:55Z |
+| back     | 2.50 |   7 |   223.57 | 2023-12-27T02:04:17Z |
 :END:
 
 [[id:78cc7b2d-7eb9-4387-aa91-c7fe435b7c35][Computer cluster]]

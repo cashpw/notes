@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b0252e55-4cb5-4af8-8a28-9bf331052193
-:LAST_MODIFIED: [2023-03-02 Thu 08:11]
+:LAST_MODIFIED: [2023-07-18 Tue 06:49]
 :END:
 #+title: Lower order questions
 #+hugo_custom_front_matter: :slug "b0252e55-4cb5-4af8-8a28-9bf331052193"
@@ -27,8 +27,8 @@ Also see [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    66.25 | 2023-04-29T21:02:46Z |
-| back     | 2.50 |   6 |    91.72 | 2023-06-02T09:34:07Z |
+| front    | 2.20 |   7 |   139.17 | 2023-09-22T21:36:01Z |
+| back     | 1.90 |   6 |    41.81 | 2023-08-29T09:20:40Z |
 :END:
 
 [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]]
@@ -49,8 +49,8 @@ Questions which require "brief thought" and a basic understanding of an already-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    56.59 | 2023-03-19T04:42:33Z |
-|        1 | 2.20 |   6 |    57.12 | 2023-04-15T17:52:50Z |
+|        0 | 2.80 |   6 |   131.45 | 2023-10-24T11:29:39Z |
+|        1 | 2.20 |   7 |   120.04 | 2023-08-31T16:38:57Z |
 :END:
 
 {{[[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]]}{questions}@0} :: {{[[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]]}{[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]}@1}

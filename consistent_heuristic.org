@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ab54f3ea-b019-482e-8af3-3ff03c495635
-:LAST_MODIFIED: [2023-03-17 Fri 07:12]
+:LAST_MODIFIED: [2023-07-15 Sat 07:11]
 :ROAM_ALIASES: "Monotone heuristic"
 :ROAM_REFS: [cite:@ConsistentHeuristic2022]
 :END:
@@ -27,8 +27,8 @@ In the study of path-finding problems in artificial intelligence, a heuristic fu
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   121.34 | 2023-07-14T23:20:40Z |
-| back     | 2.65 |   6 |   103.86 | 2023-06-29T10:49:56Z |
+| front    | 2.50 |   7 |   314.35 | 2024-05-24T22:41:06Z |
+| back     | 2.65 |   7 |   285.66 | 2024-04-10T12:21:19Z |
 :END:
 
 [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]
@@ -49,8 +49,8 @@ A heuristic function whose estimate is always less than or equal to the estimate
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    99.22 | 2023-06-20T20:11:43Z |
-|        1 | 2.20 |   5 |    31.42 | 2023-04-11T15:28:47Z |
+|        0 | 2.20 |   7 |   208.19 | 2024-01-15T20:21:58Z |
+|        1 | 1.75 |   5 |    19.03 | 2023-07-27T00:59:16Z |
 :END:
 
 - {{[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]}@0}
@@ -70,9 +70,9 @@ A heuristic function whose estimate is always less than or equal to the estimate
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   120.67 | 2023-07-12T07:11:31Z |
-|        1 | 2.05 |   6 |    65.28 | 2023-05-06T22:47:46Z |
-|        2 | 2.95 |   5 |    58.02 | 2023-04-09T16:46:42Z |
+|        0 | 2.65 |   7 |   348.00 | 2024-06-24T12:43:28Z |
+|        1 | 2.05 |   7 |   143.17 | 2023-09-29T20:50:42Z |
+|        2 | 2.95 |   6 |   161.64 | 2023-09-19T06:04:07Z |
 :END:
 
 {{[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]}@0} {{does}{yes/no}@1} $\implies$ {{[[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]]}@2}
@@ -90,7 +90,7 @@ A heuristic function whose estimate is always less than or equal to the estimate
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    93.97 | 2023-06-03T03:33:35Z |
+|        0 | 2.50 |   7 |   221.48 | 2024-01-11T15:56:29Z |
 :END:
 
 [[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]] {{doesn't}{yes/no}@0} $\implies$ [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-03-10 Fri 21:20]
+:LAST_MODIFIED: [2023-07-20 Thu 08:14]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -37,8 +37,8 @@ A period of generally rising prices in a market.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   213.35 | 2023-07-07T23:35:39Z |
-| front    | 2.45 |   4 |    15.47 | 2023-03-19T00:53:25Z |
+| back     | 1.90 |   4 |    12.33 | 2023-08-01T23:08:38Z |
+| front    | 2.45 |   6 |    95.78 | 2023-08-10T12:33:37Z |
 :END:
 
 Defined benefit plan
@@ -94,7 +94,7 @@ $\frac{\text{net income - preferred dividends}}{\text{end-of-period common share
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |   4 |     9.50 | 2023-03-18T06:16:51Z |
+| back     | 1.45 |   9 |    62.08 | 2023-09-16T15:48:28Z |
 | front    | 2.65 |   9 |   339.29 | 2024-02-12T09:48:35Z |
 :END:
 
@@ -115,8 +115,8 @@ $\frac{\text{Market value per share}}{\text{Earnings per share}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   146.25 | 2023-03-26T22:07:57Z |
-| front    | 2.65 |   8 |   172.41 | 2023-05-05T00:55:58Z |
+| back     | 2.65 |   9 |   387.54 | 2024-04-18T04:58:03Z |
+| front    | 2.65 |   9 |   431.63 | 2024-07-14T07:46:07Z |
 :END:
 
 Tax deferral
@@ -158,7 +158,7 @@ Eg: cash, stock, options, mortgages
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 3.10 |   6 |   176.25 | 2023-08-06T06:13:14Z |
-| front    | 2.95 |   6 |   145.15 | 2023-07-02T03:27:55Z |
+| front    | 2.95 |   7 |   414.79 | 2024-08-20T19:48:35Z |
 :END:
 
 401(k)
@@ -176,7 +176,7 @@ A tax-advantaged, defined-contribution retirement account offered by employers t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   361.43 | 2024-02-09T02:35:49Z |
-| front    | 2.30 |  10 |   108.75 | 2023-04-07T10:26:39Z |
+| front    | 2.30 |  11 |   238.46 | 2023-12-03T02:06:25Z |
 :END:
 
 Bear market
@@ -193,8 +193,8 @@ A period of generally falling prices in a market.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   149.74 | 2023-03-21T08:56:34Z |
-| front    | 2.65 |   7 |   147.18 | 2023-04-02T21:16:28Z |
+| back     | 2.65 |   8 |   383.40 | 2024-04-08T03:10:47Z |
+| front    | 2.65 |   8 |   427.17 | 2024-06-03T19:26:07Z |
 :END:
 
 Blue chip stock

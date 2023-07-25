@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@chinGetGoodGoMetagame2020]
 :ID:       4f9769a8-94c3-461c-b4be-933b522aab15
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/4f9769a8-94c3-461c-b4be-933b522aab15
-:LAST_MODIFIED: [2023-02-16 Thu 19:44]
+:LAST_MODIFIED: [2023-05-12 Fri 06:29]
 :END:
 #+title: Cedric Chin | To Get Good, Go After The Metagame
 #+hugo_custom_front_matter: :slug "4f9769a8-94c3-461c-b4be-933b522aab15"
@@ -61,7 +61,7 @@ If you can't master a particular skill, drop back down to its component elements
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Describe :fc:
+** Summarize :suspended:fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 16:23]
 :FC_CREATED: 2022-11-23T00:24:40Z

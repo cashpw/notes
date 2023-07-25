@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       61de6a28-e681-45bd-a086-fff5b924354e
-:LAST_MODIFIED: [2023-02-26 Sun 07:49]
+:LAST_MODIFIED: [2023-04-30 Sun 11:52]
 :ROAM_REFS: [cite:@Integral2023]
 :ROAM_ALIASES: "Definite integral" Integration Integral
 :END:
@@ -29,8 +29,8 @@ The integrals enumerated here are those termed definite integrals, which can be 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    41.35 | 2023-03-30T12:01:14Z |
-| back     | 2.95 |   5 |    51.29 | 2023-04-18T22:48:05Z |
+| front    | 3.10 |   6 |   135.43 | 2023-08-14T02:23:59Z |
+| back     | 2.95 |   6 |   153.40 | 2023-10-01T04:23:16Z |
 :END:
 
 $\int$

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f68f9024-150b-404f-9c9c-54fe8b720e53
-:LAST_MODIFIED: [2023-03-18 Sat 06:31]
+:LAST_MODIFIED: [2023-06-19 Mon 13:46]
 :END:
 #+title: Linear map
 #+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
@@ -19,7 +19,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.85 |   7 |    86.82 | 2023-05-26T00:21:15Z |
+| back     | 1.85 |   8 |   146.05 | 2023-10-19T15:38:12Z |
 | front    | 2.65 |   8 |   314.14 | 2024-01-21T18:29:29Z |
 :END:
 
@@ -42,7 +42,7 @@ A mapping, $V \to W$, between two modules (eg: vector spaces) which preserve the
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |  10 |   140.50 | 2023-03-26T04:55:40Z |
+|        0 | 2.65 |  11 |   375.03 | 2024-04-04T14:24:25Z |
 |        1 | 2.50 |  10 |   287.02 | 2023-11-03T17:31:54Z |
 |        2 | 2.35 |   8 |   282.56 | 2023-12-21T04:26:57Z |
 :END:
@@ -85,7 +85,7 @@ $M_{n \times m}$ describes $f: \mathbb{R}^m \to \mathbb{R}^n$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   8 |   160.15 | 2023-04-28T20:01:30Z |
+|        0 | 2.20 |   9 |   363.65 | 2024-04-26T14:20:40Z |
 :END:
 
 *** Extra
@@ -93,23 +93,20 @@ $M_{n \times m}$ describes $f: \mathbb{R}^m \to \mathbb{R}^n$
 
 *** Source
 [cite:@LinearMap2022]
-** Definition (Linear Algebra) :fc:
+** Nullity :fc:
 :PROPERTIES:
 :ID:       7a7e2d78-f8e5-470c-9616-84ec2e0020c6
 :ANKI_NOTE_ID: 1640627863023
 :FC_CREATED: 2021-12-27T17:57:43Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   5 |    41.65 | 2023-04-29T05:02:18Z |
-| front    | 2.65 |   8 |   153.85 | 2023-03-23T22:05:57Z |
+| front    | 2.65 |   9 |   409.19 | 2024-05-06T21:33:25Z |
+| back     | 2.50 |   6 |    99.40 | 2023-08-09T09:14:06Z |
 :END:
 
-Nullity
-
-*** Back
 The dimension of the null space of a linear map.
 
 *** Source
@@ -125,7 +122,7 @@ The dimension of the null space of a linear map.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   8 |   295.35 | 2023-10-31T23:12:04Z |
-| front    | 2.65 |   8 |   157.03 | 2023-05-06T17:32:39Z |
+| front    | 2.65 |   9 |   394.21 | 2024-06-07T20:58:50Z |
 :END:
 
 The kernel of a linear map
@@ -152,7 +149,7 @@ $ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   310.04 | 2023-12-01T18:01:14Z |
-|        1 | 2.05 |   3 |     6.00 | 2023-03-19T14:31:49Z |
+|        1 | 2.05 |   7 |    88.20 | 2023-09-16T01:33:54Z |
 :END:
 
 - {{Kernel of a linear map}@0}

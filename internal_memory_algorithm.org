@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc
-:LAST_MODIFIED: [2023-01-25 Wed 08:44]
+:LAST_MODIFIED: [2023-06-30 Fri 18:43]
 :END:
 #+title: Internal memory algorithm
 #+hugo_custom_front_matter: :slug "8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc"
@@ -12,9 +12,6 @@ Internal memory algorithms are designed to process data that fits into a single 
 
 See [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       a7617f3a-cb5c-417e-9606-4374c9d07c79
@@ -25,8 +22,8 @@ See [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   6 |   127.54 | 2023-04-18T08:25:30Z |
-| front    | 3.10 |   6 |   158.32 | 2023-06-18T22:11:03Z |
+| back     | 2.20 |   6 |    71.96 | 2023-09-11T00:47:19Z |
+| front    | 3.10 |   7 |   514.10 | 2024-11-14T23:04:47Z |
 :END:
 [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
 *** Back
@@ -43,7 +40,7 @@ Algorithms designed to process data that can fit into a single computer's main m
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   193.16 | 2023-06-27T00:37:04Z |
+| front    | 2.50 |   8 |   467.12 | 2024-10-06T17:53:39Z |
 | back     | 2.50 |   7 |   228.44 | 2023-09-11T03:18:45Z |
 :END:
 [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]

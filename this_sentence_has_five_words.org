@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3e310bff-729b-429b-9e10-769422c75561
 :DIR:      /home/cashweaver/proj/roam/attachments/3e310bff-729b-429b-9e10-769422c75561
-:LAST_MODIFIED: [2023-03-09 Thu 19:15]
+:LAST_MODIFIED: [2023-06-01 Thu 18:27]
 :END:
 #+title: This sentence has five words
 #+hugo_custom_front_matter: :slug "3e310bff-729b-429b-9e10-769422c75561"
@@ -32,7 +32,7 @@ So write with a combination of short, medium, and long sentences. Create a sound
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   6 |   185.74 | 2023-09-11T20:58:56Z |
-| back     | 2.35 |   6 |    93.14 | 2023-06-01T18:26:22Z |
+| back     | 2.35 |   7 |   200.36 | 2023-12-19T09:59:10Z |
 :END:
 
 [[id:3e310bff-729b-429b-9e10-769422c75561][This sentence has five words]]

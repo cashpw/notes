@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d3309005-8d35-4421-8f3d-60ab14e1f2eb
-:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:LAST_MODIFIED: [2023-07-23 Sun 13:14]
 :END:
 #+title: Dijkstra's algorithm implementation in Python
 #+hugo_custom_front_matter: :slug "d3309005-8d35-4421-8f3d-60ab14e1f2eb"
@@ -11,56 +11,85 @@
 An [[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
 
 #+begin_src python :results output
+from queue import PriorityQueue
 import math
-from typing ipmort List, TypeVar, Generic
+from typing import TypeVar, Generic, Optional, Any
 from dataclasses import dataclass, field
 from itertools import count
+from collections.abc import Mapping
 
 T = TypeVar('T')
+VertexId = int
+EdgeWeight = float
+
+@dataclass(order=True)
+class PrioritizedItem:
+    priority: float
+    item: Any = field(compare = False)
 
 @dataclass
-class Node(Generic[T]):
+class Vertex(Generic[T]):
     value: T
-    # [<node id>, <edge weight>]
-    neighbors: List[Tuple[Node, int]]
-    id: int = field(default_factory=count().__next__)
+    id: VertexId = field(default_factory=count().__next__)
+AdjacencyList = Mapping[VertexId, Mapping[VertexId, EdgeWeight]]
 
-def dijkstra(nodes: Mapping[int, Node], edge_weights: Mapping[str, int], source_node: Node, target_node = None) -> Tuple[Mapping[int, int], Mapping[int, Node]]:
-    """Find the shortest path from SOURCE_NODE to all other nodes in NODES by Dijkstra's.
+def dijkstra_single_pair_shortest_path(source_id: VertexId, target_id: VertexId, graph: AdjacencyList) -> Optional[list[VertexId]]:
+    """Return shortest path between SOURCE_ID and TARGET_ID within GRAPH using Dijkstra's."""
 
-    Note that EDGE_WEIGHTS is in the form of:
-      { "<node1.id>-<node2.id>": <weight>, ... }
-
-    Return:
-      1. Map of node ids to their overall distance
-      2. Map of node ids to their previous nodes
-    """
-
-    distances = {}
     previouses = {}
+    distances = {}
     visited = set()
-    min_queue = FibonacciHeap()
+    min_queue = PriorityQueue()
+    min_queue.add(PrioritizedItem(priority=0, item=source_id))
 
-    for _, node in nodes:
-        distances[node.id] = math.inf
-        previouses[node.id] = None
-        min_queue.add(node, distances[node.id])
-    distances[source_node.id] = 0
-    min_queue.update_priority(source_node.id, 0)
+    while not min_queue.empty():
+        edge_weight, parent_id = min_queue.get()
 
-    while min_queue:
-        current_node = nodes[min_queue.pop()]
-        visited.add(current_node.id)
+        if parent_id == target_id:
+            break
 
-        for neighbor_id, edge_weight in [neighbor_id, edge_weight in current_node.neighbors if neighbor_id not in visited]:
-            distance = distances[current_node.id] + edge_weight
-            if distance < distances[neighbor_id]:
-                distances[neighbor_id] = distance
-                previouses[neighbor_id] = current_node.id
-                min_queue.update_priority(neighbor_id, distance)
+        for child_id, edge_weight in [(child_id, graph[parent_id][child_id]) for child_id in graph[parent_id] if child_id not in visited]:
+            if to_id not in distances:
+                distances[to_id] = math.inf
+                #min_queue.put((math.inf, (source_id, child_id)))
+            distance_through_parent = distances[parent_id] + edge_weight
+            if distance_through_parent < distance[child_id]:
+                distances[child_id] = distance_through_parent
+                previouses[child_id] = parent_id
+                min_queue.
 
-    return distances, previouses
+    if target_id not in previouses:
+        return None
+
+    # TODO: Refactor as function?
+    shortest_path = []
+    current_id = target_id
+    while current_id != source_id:
+        shortest_path.append(current_id)
+        current_id = previouses[current_id]
+    shortest_path.append(source_id)
+    return reversed(shortest_path)
+
+a = Vertex(value='a')
+b = Vertex(value='b')
+c = Vertex(value='c')
+d = Vertex(value='d')
+e = Vertex(value='e')
+f = Vertex(value='f')
+adjacency_list = {
+    a.id: {b.id: 3, c.id: 5},
+    b.id: {c.id: 1},
+    c.id: {d.id: 2, e.id: 5},
+    d.id: {f.id: 10},
+    e.id: {f.id: 1},
+}
+print(dijkstra_single_pair_shortest_path(a.id, f.id, adjacency_list), 'should be [0, 1, 2, 4, 5]')
+print(dijkstra_single_pair_shortest_path(b.id, a.id, adjacency_list), 'should be None')
 #+end_src
+
+#+RESULTS:
+: None should be [0, 1, 2, 4, 5]
+: None should be None
 
 * Flashcards
 ** Implement :fc:implement:
@@ -73,7 +102,7 @@ def dijkstra(nodes: Mapping[int, Node], edge_weights: Mapping[str, int], source_
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   4 |    15.82 | 2023-02-05T12:20:12Z |
+| front    | 2.50 |   2 |     2.00 | 2023-07-01T16:57:27Z |
 :END:
 
 Implement [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] to solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]
@@ -91,7 +120,7 @@ Implement [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] in [
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   4 |    17.05 | 2023-02-17T15:27:42Z |
+| front    | 2.65 |   6 |   114.79 | 2023-10-08T08:42:01Z |
 :END:
 
 Implement [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] to solve the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]

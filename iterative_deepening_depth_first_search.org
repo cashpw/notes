@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ad51c11-995b-4437-a218-82df11697f7a
-:LAST_MODIFIED: [2023-03-07 Tue 15:49]
+:LAST_MODIFIED: [2023-07-14 Fri 06:16]
 :END:
 #+title: Iterative deepening depth-first-search
 #+hugo_custom_front_matter: :slug "0ad51c11-995b-4437-a218-82df11697f7a"
@@ -40,8 +40,8 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   177.79 | 2023-06-14T13:42:02Z |
-|        1 | 2.50 |   7 |   139.09 | 2023-05-03T22:43:48Z |
+|        0 | 2.35 |   8 |   427.55 | 2024-08-16T02:32:47Z |
+|        1 | 2.20 |   6 |    63.45 | 2023-09-16T00:03:39Z |
 :END:
 *** Extra
 *** Source
@@ -62,7 +62,7 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 |----------+------+-----+----------+----------------------|
 |        2 | 2.65 |   7 |   287.40 | 2023-12-11T01:58:01Z |
 |        1 | 2.50 |   7 |   228.28 | 2023-08-23T21:55:51Z |
-|        0 | 2.50 |   7 |   154.67 | 2023-06-03T08:48:16Z |
+|        0 | 2.65 |   8 |   371.74 | 2024-06-12T08:20:15Z |
 :END:
 *** Extra
 *** Source
@@ -80,7 +80,7 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   259.99 | 2023-10-13T14:30:19Z |
-| back     | 2.65 |   6 |    96.78 | 2023-03-27T11:15:02Z |
+| back     | 2.65 |   7 |   252.48 | 2023-12-05T03:47:35Z |
 :END:
 [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
 *** Back
@@ -98,7 +98,7 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   0 |     0.00 | 2023-02-17T14:50:29Z |
+| front    | 1.90 |   1 |     1.00 | 2023-07-02T14:15:50Z |
 :END:
 Implement [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
 *** Back

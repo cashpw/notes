@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6890c22d-7dc3-4ce9-ae3a-a9d7d288fa14
+:ROAM_REFS: [cite:@LogicProgramming2023]
+:LAST_MODIFIED: [2023-05-04 Thu 16:01]
+:END:
+#+title: Logic programming
+#+hugo_custom_front_matter: :slug "6890c22d-7dc3-4ce9-ae3a-a9d7d288fa14"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-01 Mon 17:53]
+#+filetags: :has_todo:concept:
+* TODO [#3]
+* TODO [#3] Flashcards
+#+print_bibliography:

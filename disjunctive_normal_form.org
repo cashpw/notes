@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       ed008224-2505-48a1-a322-7a410fbf7168
+:LAST_MODIFIED: [2023-06-25 Sun 10:46]
+:ROAM_REFS: [cite:@DisjunctiveNormalForm2023]
+:END:
+#+title: Disjunctive normal form
+#+hugo_custom_front_matter: :slug "ed008224-2505-48a1-a322-7a410fbf7168"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-22 Mon 09:28]
+#+filetags: :concept:
+
+#+begin_quote
+In boolean logic, a disjunctive normal form (DNF) is a canonical normal form of a logical formula consisting of a disjunction of conjunctions; it can also be described as an OR of ANDs, [...]
+
+[cite:@DisjunctiveNormalForm2023]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-22 Mon 09:30]
+:FC_CREATED: 2023-05-22T16:30:51Z
+:FC_TYPE:  cloze
+:ID:       37ee9b7d-0a62-478e-829d-b03672eacd15
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   5 |    30.64 | 2023-07-26T09:11:44Z |
+:END:
+
+One can also describe [[id:ed008224-2505-48a1-a322-7a410fbf7168][Disjunctive normal form]] as {{an OR of ANDs}@0}.
+
+*** Source
+[cite:@DisjunctiveNormalForm2023]
+#+print_bibliography:

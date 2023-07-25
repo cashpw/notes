@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       68b68eba-1b4b-4fe2-9d8d-334fdbf0802f
-:LAST_MODIFIED: [2023-02-26 Sun 08:00]
+:LAST_MODIFIED: [2023-06-09 Fri 08:36]
 :END:
 #+title: Heatwork
 #+hugo_custom_front_matter: :slug "68b68eba-1b4b-4fe2-9d8d-334fdbf0802f"
@@ -25,8 +25,8 @@ Heatwork is the combined effect of temperature and time.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    79.59 | 2023-04-22T07:28:18Z |
-| back     | 2.80 |   6 |   102.00 | 2023-06-08T15:56:51Z |
+| front    | 2.35 |   7 |   201.89 | 2023-11-24T14:53:20Z |
+| back     | 2.80 |   7 |   313.14 | 2024-04-17T18:57:37Z |
 :END:
 
 [[id:68b68eba-1b4b-4fe2-9d8d-334fdbf0802f][Heatwork]]

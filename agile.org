@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5664432e-6bb3-4670-9669-08ee70b5ca6d
 :ROAM_REFS: [cite:@AgileSoftwareDevelopment2022]
-:LAST_MODIFIED: [2023-01-21 Sat 06:18]
+:LAST_MODIFIED: [2023-06-30 Fri 18:33]
 :END:
 #+title: Agile (Software development)
 #+hugo_custom_front_matter: :slug "5664432e-6bb3-4670-9669-08ee70b5ca6d"
@@ -59,8 +59,8 @@ The Manifesto for Agile Software Development is based on twelve principles:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    86.42 | 2023-04-18T00:26:32Z |
-| back     | 2.50 |   6 |    79.22 | 2023-04-27T05:07:18Z |
+| front    | 2.20 |   6 |    66.48 | 2023-09-05T13:08:49Z |
+| back     | 2.50 |   7 |   213.79 | 2023-12-10T11:04:54Z |
 :END:
 
 [[id:5664432e-6bb3-4670-9669-08ee70b5ca6d][Agile (Software development)]]

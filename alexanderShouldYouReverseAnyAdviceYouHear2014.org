@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderShouldYouReverseAnyAdviceYouHear2014]
 :ID:       de6d0d9e-3ce1-4e18-b747-c59cd50ceebf
-:LAST_MODIFIED: [2023-01-29 Sun 18:20]
+:LAST_MODIFIED: [2023-04-11 Tue 09:28]
 :END:
 #+title: Scott Alexander | Should You Reverse Any Advice You Hear?
 #+hugo_custom_front_matter: :slug "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
@@ -63,7 +63,7 @@ The checklist could be something like:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    69.60 | 2023-04-09T16:46:21Z |
+| front    | 2.20 |   7 |   167.52 | 2023-09-26T04:51:01Z |
 :END:
 
 [[id:de6d0d9e-3ce1-4e18-b747-c59cd50ceebf][Scott Alexander | Should You Reverse Any Advice You Hear?]]

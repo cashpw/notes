@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c42b21e4-6ddb-452f-acb4-5cf9ab122e2e
 :ROAM_ALIASES: "International radiotelephony spelling alphabet"
-:LAST_MODIFIED: [2023-03-18 Sat 06:37]
+:LAST_MODIFIED: [2023-07-19 Wed 06:44]
 :END:
 #+title: NATO phonetic alphabet
 #+hugo_custom_front_matter: :slug "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
@@ -87,7 +87,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   106.15 | 2023-05-14T20:26:44Z |
+|        0 | 2.50 |   7 |   285.04 | 2024-03-01T13:52:34Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) D : {{Delta}@0} :fc:
 :PROPERTIES:
@@ -129,7 +129,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    98.38 | 2023-05-05T00:06:42Z |
+|        0 | 1.90 |   6 |    50.41 | 2023-08-30T22:57:34Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) G: {{Golf}@0} :fc:
 :PROPERTIES:
@@ -157,7 +157,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    78.81 | 2023-04-15T10:10:09Z |
+|        0 | 2.20 |   7 |   180.29 | 2023-11-07T22:04:00Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) I: {{India}@0} :fc:
 :PROPERTIES:
@@ -171,7 +171,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   9 |   110.46 | 2023-04-05T07:40:36Z |
+|        0 | 2.50 |  10 |   296.47 | 2024-01-27T03:54:13Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) J: {{Juliett}@0} :fc:
 :PROPERTIES:
@@ -185,7 +185,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |    87.51 | 2023-06-10T03:33:59Z |
+|        0 | 1.90 |   6 |    35.27 | 2023-08-23T20:16:06Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) K: {{Kilo}@0} :fc:
 :PROPERTIES:
@@ -199,7 +199,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.70 |   4 |     9.61 | 2023-03-21T15:11:39Z |
+|        0 | 1.55 |   7 |    34.61 | 2023-08-16T03:24:54Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) L: {{Lima}@0} :fc:
 :PROPERTIES:
@@ -227,7 +227,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.85 |   7 |    61.83 | 2023-04-09T17:34:57Z |
+|        0 | 1.85 |   8 |   118.89 | 2023-08-08T13:51:20Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) N: {{November}@0} :fc:
 :PROPERTIES:
@@ -241,7 +241,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   7 |   135.52 | 2023-03-30T04:04:23Z |
+|        0 | 2.80 |   8 |   356.10 | 2024-03-23T00:03:13Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) O: {{Oscar}@0} :fc:
 :PROPERTIES:
@@ -269,7 +269,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    99.44 | 2023-04-20T02:44:44Z |
+|        0 | 1.90 |   6 |    46.93 | 2023-08-26T13:51:23Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Q: {{Quebec}@0} :fc:
 :PROPERTIES:
@@ -283,7 +283,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   125.40 | 2023-05-25T01:41:16Z |
+|        0 | 2.65 |   7 |   342.46 | 2024-05-02T01:08:29Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) R: {{Romeo}@0} :fc:
 :PROPERTIES:
@@ -297,7 +297,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   6 |    12.73 | 2023-03-31T07:01:47Z |
+|        0 | 1.30 |  10 |    31.77 | 2023-07-26T07:47:30Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) S: {{Sierra}@0} :fc:
 :PROPERTIES:
@@ -311,7 +311,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   148.88 | 2023-06-16T12:26:45Z |
+|        0 | 2.65 |   7 |   414.47 | 2024-08-04T01:23:21Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) T: {{Tango}@0} :fc:
 :PROPERTIES:
@@ -325,7 +325,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   7 |    43.46 | 2023-03-26T11:14:35Z |
+|        0 | 1.75 |   9 |   136.86 | 2023-10-26T13:53:45Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) U: {{Uniform}@0} :fc:
 :PROPERTIES:
@@ -339,7 +339,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   7 |    54.16 | 2023-04-28T21:23:51Z |
+|        0 | 1.45 |   9 |   111.33 | 2023-11-04T21:51:10Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) V: {{Victor}@0} :fc:
 :PROPERTIES:
@@ -367,7 +367,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |   7 |    23.93 | 2023-03-26T14:21:18Z |
+|        0 | 1.30 |   8 |    20.07 | 2023-08-03T02:26:43Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) X: {{X-ray}@0} :fc:
 :PROPERTIES:
@@ -381,7 +381,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   4 |    10.51 | 2023-03-22T12:45:25Z |
+|        0 | 1.75 |   8 |    73.56 | 2023-09-07T07:00:36Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Y: {{Yankee}@0} :fc:
 :PROPERTIES:
@@ -395,7 +395,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   8 |   158.90 | 2023-07-07T23:53:45Z |
+|        0 | 2.50 |   9 |   414.72 | 2024-08-25T17:35:17Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Z: {{Zulu}@0} :fc:
 :PROPERTIES:
@@ -409,6 +409,6 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    37.86 | 2023-04-25T10:17:53Z |
+|        0 | 2.65 |   6 |   103.35 | 2023-08-20T01:34:52Z |
 :END:
 #+print_bibliography:

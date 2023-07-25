@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80c7fef7-aa9e-439f-a02f-be3edb85d8f5
-:LAST_MODIFIED: [2023-03-04 Sat 07:17]
+:LAST_MODIFIED: [2023-07-17 Mon 06:52]
 :END:
 #+title: Leibniz's notation
 #+hugo_custom_front_matter: :slug "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
@@ -33,8 +33,8 @@ was, according to Leibniz, the quotient of an infinitesimal increment of y by an
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    31.81 | 2023-03-24T16:42:49Z |
-| back     | 2.65 |   5 |    39.22 | 2023-04-12T20:22:24Z |
+| front    | 2.35 |   7 |   168.03 | 2023-11-17T15:01:45Z |
+| back     | 2.65 |   6 |   107.42 | 2023-08-22T03:58:39Z |
 :END:
 
 $d$
@@ -55,8 +55,8 @@ infinitesimally small increments
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    39.58 | 2023-03-28T17:29:17Z |
-|        1 | 2.80 |   5 |    47.18 | 2023-04-12T08:13:59Z |
+|        0 | 2.80 |   7 |   304.57 | 2024-05-17T03:32:07Z |
+|        1 | 2.80 |   6 |   130.44 | 2023-09-12T03:26:41Z |
 :END:
 
 {{[[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]}{notation}@0} uses {{$d$}{symbol}@1}
@@ -73,8 +73,8 @@ infinitesimally small increments
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    42.98 | 2023-04-10T15:34:41Z |
-| back     | 2.65 |   5 |    43.62 | 2023-04-17T06:13:20Z |
+| front    | 2.35 |   6 |    84.67 | 2023-09-25T17:07:52Z |
+| back     | 2.50 |   6 |   119.17 | 2023-09-05T20:48:12Z |
 :END:
 
 The $n\text{-th}$ [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] of $y$ with respect to $x$ in [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]
@@ -93,7 +93,7 @@ $\frac{d^ny}{dx^n}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    46.17 | 2023-04-17T20:01:32Z |
+| front    | 2.95 |   6 |   148.93 | 2023-09-27T21:17:54Z |
 :END:
 
 [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]] for the third derivative of $y$ with respect to $x$

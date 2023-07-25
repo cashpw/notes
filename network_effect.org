@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       877f3321-faac-463a-8619-787467251655
-:LAST_MODIFIED: [2023-03-09 Thu 18:50]
+:LAST_MODIFIED: [2023-07-23 Sun 20:59]
 :END:
 #+title: Network effect
 #+hugo_custom_front_matter: :slug "877f3321-faac-463a-8619-787467251655"
@@ -24,8 +24,8 @@ In economics, a network effect (also called network externality or demand-side e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   123.01 | 2023-06-27T03:56:29Z |
-| back     | 2.80 |   6 |   130.92 | 2023-07-19T00:50:59Z |
+| front    | 2.65 |   7 |   347.71 | 2024-06-09T08:15:45Z |
+| back     | 2.50 |   2 |     2.00 | 2023-07-26T03:59:20Z |
 :END:
 
 [[id:877f3321-faac-463a-8619-787467251655][Network effect]]
@@ -44,8 +44,8 @@ Situation in which the value or utility which a user derives from a good or serv
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   102.30 | 2023-05-26T00:42:45Z |
-| back     | 2.80 |   6 |   122.27 | 2023-07-04T21:50:55Z |
+| front    | 2.80 |   7 |   289.01 | 2024-03-10T14:51:29Z |
+| back     | 2.65 |   7 |   297.37 | 2024-04-28T13:01:26Z |
 :END:
 
 [[id:877f3321-faac-463a-8619-787467251655][Network effect]]

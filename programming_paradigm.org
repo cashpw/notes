@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       96f5c67c-bfb2-4089-b80e-7fd70e194778
+:LAST_MODIFIED: [2023-05-03 Wed 15:15]
+:ROAM_REFS: [cite:@ProgrammingParadigm2023]
+:END:
+#+title: Programming paradigm
+#+hugo_custom_front_matter: :slug "96f5c67c-bfb2-4089-b80e-7fd70e194778"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-01 Mon 17:47]
+#+filetags: :concept:
+
+#+begin_quote
+Programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms.
+
+[...]
+
+Some common programming paradigms are,
+
+- imperative [[[id:fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a][Imperative programming]]] in which the programmer instructs the machine how to change its state,
+  - procedural [[[id:0cb90a5e-ec03-4a0f-bd0a-2eaeeaacc2d5][Procedural programming]]] which groups instructions into procedures,
+  - object-oriented [[[id:b20d2dcc-5fed-48e6-ad9f-0ce0a2867a71][Object-oriented programming]]] which groups instructions with the part of the state they operate on,
+- declarative [[[id:f234a51d-23e4-4050-bf2c-60895a99ee12][Declarative programming]]] in which the programmer merely declares properties of the desired result, but not how to compute it
+  - functional [[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]] in which the desired result is declared as the value of a series of function applications,
+  - logic [[[id:6890c22d-7dc3-4ce9-ae3a-a9d7d288fa14][Logic programming]]] in which the desired result is declared as the answer to a question about a system of facts and rules,
+  - mathematical [[[id:a4e065dd-3bcc-41e8-a26f-09e6fdf929d7][Mathematical programming]]] in which the desired result is declared as the solution of an optimization problem
+  - reactive [[[id:f75ac439-6ecc-427c-ad1c-3d3428bc430a][Reactive programming]]] in which the desired result is declared with data streams and the propagation of change
+
+[cite:@ProgrammingParadigm2023]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:
+#+print_bibliography:

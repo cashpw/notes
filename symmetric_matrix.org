@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       30dd1299-0411-4b80-945b-0740cc8b5348
 :ROAM_ALIASES: "Symmetric matrices"
-:LAST_MODIFIED: [2022-12-01 Thu 08:40]
+:LAST_MODIFIED: [2023-07-13 Thu 17:56]
 :END:
 #+title: Symmetric matrix
 #+hugo_custom_front_matter: :slug "30dd1299-0411-4b80-945b-0740cc8b5348"
@@ -30,8 +30,8 @@ In linear algebra, a symmetric matrix is a [[id:09208dbb-8043-4ef2-ac56-be944afb
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   183.36 | 2023-05-28T00:03:08Z |
-| front    | 2.65 |  10 |   223.46 | 2023-07-13T03:44:16Z |
+| back     | 2.50 |   9 |   471.32 | 2024-09-12T23:54:43Z |
+| front    | 2.65 |  11 |   549.62 | 2025-01-13T15:47:08Z |
 :END:
 [[id:30dd1299-0411-4b80-945b-0740cc8b5348][Symmetric matrix]]
 *** Back

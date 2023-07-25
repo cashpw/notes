@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d343c872-212b-4aa8-900c-da9e23cb4f0c
+:ROAM_REFS: [cite:@Topology2023]
+:LAST_MODIFIED: [2023-06-21 Wed 09:56]
+:END:
+#+title: Topology (Math)
+#+hugo_custom_front_matter: :slug "d343c872-212b-4aa8-900c-da9e23cb4f0c"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-21 Wed 09:55]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+In mathematics, topology is concerned with the properties of a geometric [[[id:e67fa9ff-5bb3-47cd-8559-0c3a25300f0d][Geometry]]] object that are preserved under continuous deformations, such as stretching, twisting, crumpling, and bending; that is, without closing holes, opening holes, tearing, gluing, or passing through itself.
+
+[cite:@Topology2023]
+#+end_quote
+
+* TODO [#2] Flashcards
+#+print_bibliography:

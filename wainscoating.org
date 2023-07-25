@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0a6024cd-4c95-4335-bda1-cbcadae8f40e
-:LAST_MODIFIED: [2023-01-03 Tue 08:44]
+:LAST_MODIFIED: [2023-05-10 Wed 09:05]
 :END:
 #+title: Wainscoating
 #+hugo_custom_front_matter: :slug "0a6024cd-4c95-4335-bda1-cbcadae8f40e"
@@ -18,8 +18,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   120.23 | 2023-03-27T23:52:17Z |
-| back     | 2.20 |   7 |   126.24 | 2023-05-09T22:30:51Z |
+| front    | 2.80 |   8 |   347.41 | 2024-03-10T13:15:18Z |
+| back     | 2.05 |   8 |   234.43 | 2023-12-31T02:28:00Z |
 :END:
 
 [[id:0a6024cd-4c95-4335-bda1-cbcadae8f40e][Wainscoating]]

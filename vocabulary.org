@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-03-18 Sat 06:39]
+:LAST_MODIFIED: [2023-07-23 Sun 20:52]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -82,9 +82,9 @@ The quality of wishing to do ones work or duty well and thoroughly.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   406.12 | 2024-04-20T08:06:34Z |
-| front    | 2.65 |   7 |   157.86 | 2023-03-25T11:44:27Z |
+| front    | 2.65 |   8 |   415.16 | 2024-05-13T23:09:51Z |
 :END:
-A word or sound repeated to aid in concentration in meditation. A statement or slogal repeated frequently.
+A word or sound repeated to aid in concentration in meditation. A statement or slogan repeated frequently.
 *** Source
 ** Misanthropy :fc:
 :PROPERTIES:
@@ -127,7 +127,7 @@ A dislike of humankind.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   4 |    12.60 | 2023-03-28T05:27:58Z |
+| back     | 1.90 |   5 |    22.73 | 2023-07-30T17:37:53Z |
 | front    | 2.60 |  11 |   168.47 | 2023-06-20T02:34:47Z |
 :END:
 1. Forming a small remnant of something that was once much larger or more noticeable
@@ -144,7 +144,7 @@ A dislike of humankind.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |  11 |   389.63 | 2024-03-14T08:31:51Z |
-| front    | 2.50 |   6 |    81.47 | 2023-03-29T01:48:18Z |
+| front    | 2.50 |   7 |   223.04 | 2023-11-19T16:09:23Z |
 :END:
 An event or period marking a turning point in a course of action or state of affairs.
 *** Source
@@ -158,7 +158,7 @@ An event or period marking a turning point in a course of action or state of aff
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   130.06 | 2023-04-29T17:49:20Z |
+| back     | 1.90 |   5 |    22.52 | 2023-07-28T16:27:13Z |
 | front    | 2.65 |   7 |   267.64 | 2023-11-21T07:09:09Z |
 :END:
 (of a product) made or used as a substitute, typically an inferior one, for something else
@@ -188,8 +188,8 @@ Extreme greed for wealth or material gain
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.30 |  13 |   187.90 | 2023-06-24T16:24:39Z |
-| front    | 2.35 |   8 |   158.53 | 2023-04-19T15:48:04Z |
+| back     | 2.30 |  14 |   449.59 | 2024-09-18T06:20:15Z |
+| front    | 2.20 |   9 |   372.18 | 2024-07-04T21:40:20Z |
 :END:
 Restrict (something) within limits
 *** Source
@@ -203,7 +203,7 @@ Restrict (something) within limits
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    72.31 | 2023-03-30T21:47:22Z |
+| back     | 2.20 |   7 |   148.73 | 2023-09-01T09:59:52Z |
 | front    | 2.50 |   9 |   292.64 | 2023-12-23T08:48:48Z |
 :END:
 In agreement or harmony
@@ -233,7 +233,7 @@ Providing moral or intellectual instruction
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.60 |  26 |   158.88 | 2023-05-13T14:53:36Z |
+| back     | 2.60 |  27 |   385.44 | 2024-06-19T02:23:25Z |
 | front    | 1.30 |   8 |    30.67 | 2023-03-31T07:12:51Z |
 :END:
 1. erase (a mark) from a surface
@@ -264,7 +264,7 @@ Having an end or a limit.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   7 |    64.97 | 2023-05-14T02:42:31Z |
+| back     | 1.75 |   8 |   111.26 | 2023-09-04T20:54:55Z |
 | front    | 2.20 |   8 |   161.80 | 2023-08-23T10:17:58Z |
 :END:
 The action of stopping someone from being angry; placation
@@ -279,8 +279,8 @@ The action of stopping someone from being angry; placation
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    81.93 | 2023-05-26T15:45:35Z |
-| back     | 2.95 |   5 |    44.22 | 2023-03-27T20:55:18Z |
+| front    | 2.20 |   5 |    30.31 | 2023-08-17T21:07:44Z |
+| back     | 2.95 |   6 |   131.49 | 2023-12-02T15:37:22Z |
 :END:
 Exaggerated, dramatic, behavior designed to attract attention.
 *** Source
@@ -294,7 +294,7 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   107.53 | 2023-06-11T16:36:51Z |
+| front    | 2.80 |   7 |   292.07 | 2024-04-03T15:30:57Z |
 | back     | 2.50 |   6 |    74.59 | 2023-05-16T04:17:01Z |
 :END:
 - A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
@@ -309,8 +309,8 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   105.98 | 2023-06-24T02:45:31Z |
-| back     | 2.20 |   6 |    53.92 | 2023-04-21T14:02:49Z |
+| front    | 2.80 |   7 |   309.40 | 2024-04-28T23:01:49Z |
+| back     | 1.90 |   1 |     1.00 | 2023-06-26T17:48:29Z |
 :END:
 - worshiping idols
 - treating someone or something as an idol
@@ -325,10 +325,10 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   4 |    12.36 | 2023-03-21T02:08:31Z |
-| back     | 2.95 |   5 |    50.11 | 2023-03-19T19:11:17Z |
+| front    | 1.90 |   6 |    38.21 | 2023-08-18T18:01:18Z |
+| back     | 2.95 |   6 |   139.60 | 2023-08-07T06:42:15Z |
 :END:
-- Not likely to provoke dissent or offense; inoffensive, often deliberately so
+Not likely to provoke dissent or offense; inoffensive, often deliberately so
 *** Source
 ** Apocrypha :fc:
 :PROPERTIES:
@@ -340,8 +340,8 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    54.61 | 2023-04-11T06:42:03Z |
-| back     | 1.90 |   6 |    51.75 | 2023-04-16T21:59:14Z |
+| front    | 2.05 |   7 |   118.21 | 2023-08-13T20:59:32Z |
+| back     | 1.90 |   7 |   106.89 | 2023-10-28T22:03:26Z |
 :END:
 - Works, usually written, of unknown authorship or of doubtful origin
 *** Source
@@ -355,8 +355,8 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   6 |    61.13 | 2023-05-02T19:19:01Z |
-| back     | 2.95 |   5 |    43.25 | 2023-03-26T06:05:34Z |
+| front    | 1.90 |   7 |   116.53 | 2023-09-06T04:46:49Z |
+| back     | 2.95 |   6 |   135.07 | 2023-08-19T22:19:10Z |
 :END:
 A person after whom a discovery, invention, place, etc., is named or thought to be named
 *** Source
@@ -370,8 +370,8 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    62.50 | 2023-05-03T16:17:32Z |
-| back     | 1.75 |   4 |    10.23 | 2023-03-18T23:00:25Z |
+| front    | 2.20 |   7 |   147.77 | 2023-10-10T11:37:27Z |
+| back     | 1.75 |   5 |    18.17 | 2023-04-06T21:54:04Z |
 :END:
 - Characterized by, or suggesting, the practice of severe self-discipline and abstention from all forms of indulgence, typically for religious reasons
 *** Source
@@ -385,7 +385,7 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |   100.37 | 2023-06-11T01:10:48Z |
+| front    | 1.90 |   3 |     6.00 | 2023-07-10T01:33:50Z |
 | back     | 2.35 |   5 |    32.35 | 2023-04-14T23:11:01Z |
 :END:
 A conclusion arrived at through deductive reasoning based on two propositions which are either asserted or assumed to be true.
@@ -401,8 +401,8 @@ A conclusion arrived at through deductive reasoning based on two propositions wh
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   191.47 | 2023-05-24T02:47:27Z |
-| back     | 2.80 |   6 |   138.59 | 2023-05-11T04:13:13Z |
+| front    | 2.65 |   9 |   550.36 | 2024-11-26T23:06:13Z |
+| back     | 2.95 |   7 |   393.79 | 2024-08-17T10:16:08Z |
 :END:
 Good stress; stress which is beneficial for the individual experiencing it.
 ** Distress :fc:
@@ -415,7 +415,7 @@ Good stress; stress which is beneficial for the individual experiencing it.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   227.60 | 2023-07-16T08:15:06Z |
+| back     | 2.65 |   9 |   642.24 | 2025-04-19T19:34:38Z |
 | front    | 2.65 |   8 |   322.36 | 2024-01-22T02:02:23Z |
 :END:
 Bad stress; stress which is detrimental for the individual experiencing it.
@@ -429,8 +429,8 @@ Bad stress; stress which is detrimental for the individual experiencing it.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.55 |  14 |   158.61 | 2023-06-09T18:18:08Z |
-| front    | 2.65 |   7 |   148.43 | 2023-03-30T02:13:25Z |
+| back     | 2.70 |  15 |   393.19 | 2024-07-10T04:28:16Z |
+| front    | 2.65 |   8 |   425.72 | 2024-09-06T08:14:24Z |
 :END:
 A Shakespearean expression meaning a youthful time, accompanied by the inexperience, enthusiasm, idealism, innocence, or indiscretion associated with youth.
 
@@ -447,7 +447,7 @@ A Shakespearean expression meaning a youthful time, accompanied by the inexperie
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   389.78 | 2024-03-29T12:12:12Z |
-| front    | 2.65 |   8 |   210.13 | 2023-06-10T17:14:30Z |
+| front    | 2.65 |   9 |   557.92 | 2025-01-22T11:15:17Z |
 :END:
 A young person who is impatient to bring about radical change; someone who has revolutionary, new ideas and is impatient to implement them.
 
@@ -463,7 +463,7 @@ A young person who is impatient to bring about radical change; someone who has r
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   170.94 | 2023-04-21T15:06:36Z |
+| back     | 2.65 |   9 |   487.21 | 2024-09-02T02:37:30Z |
 | front    | 2.80 |   8 |   360.78 | 2024-02-22T10:40:27Z |
 :END:
 An event that comes as a surprise, has a major effect, and is often inappropriately rationalized after the fact with the benefit of hindsight.
@@ -480,8 +480,8 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |    97.74 | 2023-06-16T23:07:38Z |
-| back     | 2.95 |   5 |    48.00 | 2023-03-31T15:35:46Z |
+| front    | 2.50 |   7 |   230.45 | 2024-02-07T02:23:54Z |
+| back     | 2.80 |   6 |   124.73 | 2023-08-04T15:06:05Z |
 :END:
 - (of a person) giving their name to something
 - (of a thing) named after a particular person
@@ -496,7 +496,7 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    42.37 | 2023-03-26T00:26:12Z |
+| front    | 2.35 |   7 |   258.51 | 2024-04-06T16:00:21Z |
 | back     | 2.65 |   5 |    45.85 | 2023-03-30T13:51:57Z |
 :END:
 - Involving, caused by, or the nature of a physical or mental disease
@@ -512,8 +512,8 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    54.41 | 2023-04-06T09:50:39Z |
-| back     | 2.65 |   5 |    42.93 | 2023-03-28T19:42:41Z |
+| front    | 2.95 |   6 |   174.32 | 2023-10-04T20:19:50Z |
+| back     | 2.65 |   6 |   112.84 | 2023-07-24T12:52:18Z |
 :END:
 - Generosity in bestowing money or gifts upon others
 - Money or gifts given generously
@@ -528,8 +528,8 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    55.63 | 2023-04-08T06:33:49Z |
-| back     | 2.65 |   5 |    35.89 | 2023-03-20T15:09:10Z |
+| front    | 2.95 |   6 |   158.54 | 2023-09-15T04:40:24Z |
+| back     | 2.50 |   6 |    93.95 | 2023-06-23T16:18:09Z |
 :END:
 - A word which blends the sounds and combines the meanings of two others; e.g motel from "motor" and "hotel", brunch from "breakfast" and "lunch"
 *** Source
@@ -543,8 +543,8 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    55.54 | 2023-04-07T12:28:31Z |
-| back     | 2.20 |   6 |    72.77 | 2023-05-29T07:47:57Z |
+| front    | 2.95 |   6 |   169.10 | 2023-10-03T18:17:25Z |
+| back     | 2.05 |   7 |   153.19 | 2023-11-09T20:10:51Z |
 :END:
 - (of a mental state) to lose the ability to maintain one's state of mental health, typically due to some kind of stress
 - To deteriorate in function due to an inability to invoke normal defensive mechanisms which  for ailments and other stresses
@@ -555,16 +555,18 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :PROPERTIES:
 :CREATED: [2023-01-10 Tue 07:42]
 :FC_CREATED: 2023-01-10T15:43:10Z
-:FC_TYPE:  vocab
+:FC_TYPE: double
 :ID:       bcd12828-18af-4185-b877-88a415b6e874
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    37.41 | 2023-03-20T02:01:42Z |
-| back     | 2.65 |   5 |    43.44 | 2023-03-29T07:54:07Z |
+| front    | 2.50 |   7 |   272.51 | 2024-03-31T13:32:53Z |
+| back     | 2.65 |   6 |   113.68 | 2023-09-27T07:10:01Z |
 :END:
+
 Portmanteau
+
 *** Back
 - Motel
 - Brunch
@@ -579,7 +581,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    44.30 | 2023-03-29T00:58:05Z |
+| front    | 2.65 |   6 |   107.76 | 2023-07-30T07:32:43Z |
 | back     | 2.95 |   5 |    50.65 | 2023-04-05T12:53:20Z |
 :END:
 - A sign of what will happen in the future; an omen
@@ -595,8 +597,8 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    36.78 | 2023-03-19T18:48:41Z |
-| back     | 2.65 |   5 |    41.45 | 2023-03-26T04:21:31Z |
+| front    | 2.50 |   7 |   226.04 | 2024-02-12T14:57:20Z |
+| back     | 2.65 |   6 |   116.55 | 2023-07-24T03:56:30Z |
 :END:
 - lack of imagination, foresight, or intellectual insight
 - nearsightedness
@@ -611,8 +613,8 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    41.50 | 2023-03-24T12:16:19Z |
-| back     | 2.35 |   5 |    32.60 | 2023-03-18T11:38:22Z |
+| front    | 2.65 |   6 |   120.13 | 2023-07-22T21:08:18Z |
+| back     | 2.35 |   6 |    72.27 | 2023-05-31T00:31:41Z |
 :END:
 - Conducive to success; favorable
 *** Source
@@ -627,7 +629,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    74.36 | 2023-05-26T23:37:55Z |
+| front    | 1.75 |   4 |    11.37 | 2023-07-30T22:31:50Z |
 | back     | 1.75 |   5 |    19.05 | 2023-03-29T04:07:28Z |
 :END:
 - unwilling to spend money or use resources; stingy or frugal
@@ -642,7 +644,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    40.67 | 2023-03-26T06:01:07Z |
+| front    | 2.20 |   2 |     2.00 | 2023-07-16T13:08:42Z |
 | back     | 2.80 |   5 |    43.07 | 2023-04-12T16:36:33Z |
 :END:
 Having a harmful effect, especially in a gradual or subtle way
@@ -657,8 +659,8 @@ Having a harmful effect, especially in a gradual or subtle way
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    35.21 | 2023-04-06T21:06:29Z |
-| back     | 2.65 |   4 |    15.73 | 2023-03-19T07:15:13Z |
+| front    | 2.50 |   7 |   207.22 | 2024-01-29T19:56:17Z |
+| back     | 2.65 |   6 |   104.72 | 2023-09-19T07:47:57Z |
 :END:
 Movement away from the body's midline.
 *** Source
@@ -673,8 +675,8 @@ Movement away from the body's midline.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    43.78 | 2023-04-12T23:35:47Z |
-| back     | 2.80 |   5 |    50.92 | 2023-04-30T01:12:15Z |
+| front    | 2.65 |   6 |   121.85 | 2023-08-28T18:58:13Z |
+| back     | 2.80 |   6 |   149.97 | 2023-10-17T23:51:52Z |
 :END:
 Movement toward the body's midline
 *** Source
@@ -689,7 +691,7 @@ Movement toward the body's midline
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    42.48 | 2023-04-10T03:19:27Z |
+| front    | 2.65 |   7 |   275.27 | 2024-04-23T10:08:22Z |
 | back     | 2.50 |   5 |    39.36 | 2023-04-17T03:05:58Z |
 :END:
 Grimly mocking or cynical
@@ -705,8 +707,8 @@ Grimly mocking or cynical
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    34.88 | 2023-04-05T01:21:47Z |
-| back     | 2.65 |   5 |    41.13 | 2023-04-22T03:31:55Z |
+| front    | 2.35 |   6 |    77.64 | 2023-07-18T15:00:32Z |
+| back     | 2.65 |   6 |   115.97 | 2023-09-24T14:42:36Z |
 :END:
 - (of a person, speech, style of writing) using very few words
 - "A ... is a concise or terse statement, especially a blunt and elliptical rejoinder."
@@ -723,7 +725,7 @@ Grimly mocking or cynical
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    54.79 | 2023-05-02T12:31:05Z |
+| front    | 2.20 |   4 |    12.95 | 2023-07-28T12:59:10Z |
 | back     | 2.80 |   5 |    55.17 | 2023-05-11T17:59:45Z |
 :END:
 #+begin_quote
@@ -741,8 +743,8 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    52.74 | 2023-04-22T21:51:41Z |
-| back     | 2.95 |   5 |    47.46 | 2023-04-16T15:41:50Z |
+| front    | 2.65 |   6 |   127.01 | 2023-09-13T16:55:39Z |
+| back     | 2.95 |   6 |   138.58 | 2023-11-18T14:55:23Z |
 :END:
 - At right angles; perpendicular
 - Independent; able to be treated separately
@@ -758,7 +760,7 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    35.75 | 2023-04-19T09:08:53Z |
+| front    | 2.35 |   6 |    92.28 | 2023-07-30T21:05:59Z |
 | back     | 2.35 |   4 |    15.45 | 2023-03-24T04:14:39Z |
 :END:
 
@@ -769,4 +771,63 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 *** Source
 [cite:@Dilettante2023]
 
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 09:49]
+:FC_CREATED: 2023-05-04T16:50:15Z
+:FC_TYPE:  cloze
+:ID:       962318c1-554b-4bf7-8be7-0d2cb2453618
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   5 |    38.20 | 2023-07-26T08:44:51Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-06-05T04:16:09Z |
+:END:
+
+{{Aphorisms}@0} are expressions of {{a general truth or principle}@1}.
+
+*** Source
+[cite:@Aphorism2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 09:50]
+:FC_CREATED: 2023-05-04T16:50:56Z
+:FC_TYPE:  cloze
+:ID:       5d334f97-dafc-4f1f-8b01-87efb57d5194
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   5 |    36.50 | 2023-07-26T08:07:17Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-06-28T15:06:13Z |
+:END:
+
+{{Aphorisms}@0} are often {{handed down by tradition from generation to generation}@1}.
+
+*** Source
+[cite:@Aphorism2023]
+** Obsequious :fc:
+:PROPERTIES:
+:CREATED: [2023-07-20 Thu 11:50]
+:FC_CREATED: 2023-07-20T18:50:45Z
+:FC_TYPE:  vocab
+:ID:       9fd8e0bf-483f-444b-bcdb-fc8152f34754
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-07-20T18:50:45Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:45Z |
+:END:
+
+1. Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile.
+2. (archaic) Obedient; compliant with someone else's orders or wishes.
+
+*** Source
+[cite:@Obsequious2023]
 #+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7a43b0c7-b933-4e37-81b8-e5ecf9a83956
 :ROAM_REFS: [cite:@MatrixMathematics2022]
-:LAST_MODIFIED: [2023-03-11 Sat 16:22]
+:LAST_MODIFIED: [2023-07-10 Mon 08:37]
 :END:
 #+title: Matrix
 #+hugo_custom_front_matter: :slug "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
@@ -35,7 +35,7 @@ is a matrix with two rows and three columns. This is often referred to as a "two
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   105.71 | 2023-05-23T20:50:29Z |
+| front    | 2.80 |   7 |   288.75 | 2024-03-08T14:23:45Z |
 | back     | 3.10 |   6 |   172.58 | 2023-08-22T05:58:26Z |
 :END:
 
@@ -55,8 +55,8 @@ A rectangular array of numbers/symbols/expressions arranged in rows and columns 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    13.07 | 2023-03-23T04:39:27Z |
-| back     | 2.65 |   7 |   159.81 | 2023-03-23T22:40:28Z |
+| front    | 2.20 |   7 |   158.33 | 2023-12-15T23:34:52Z |
+| back     | 2.80 |   8 |   436.40 | 2024-06-03T02:42:56Z |
 :END:
 Matrix equivalence
 *** Back
@@ -83,7 +83,7 @@ $P_{n \times n}B_{n \times n}Q_{n \times n}$ is the generalized form of applying
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   4 |    14.70 | 2023-03-25T22:11:36Z |
+|        0 | 2.80 |   6 |    98.70 | 2023-08-11T09:50:12Z |
 :END:
 
 Two matrices which are matrix equivalent {{have the same rank}{rank}@0}.
@@ -102,7 +102,7 @@ Two matrices which are matrix equivalent {{have the same rank}{rank}@0}.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   4 |    13.82 | 2023-03-25T20:04:56Z |
+|        0 | 2.05 |   6 |    43.50 | 2023-08-07T01:20:12Z |
 :END:
 
 Two matrices which are matrix equivalent {{$A_{n \times n} = P_{n \times n}B_{n \times n}Q_{n \times n}$ $|$ $P_{n \times n}$ and $Q_{n \times n}$ are nonsingular}{operations}@0}.

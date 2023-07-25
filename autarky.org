@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5d946894-c987-4bf3-9709-290fad48044c
-:LAST_MODIFIED: [2023-02-16 Thu 18:00]
+:LAST_MODIFIED: [2023-05-23 Tue 13:12]
 :END:
 #+title: Autarky
 #+hugo_custom_front_matter: :slug "5d946894-c987-4bf3-9709-290fad48044c"
@@ -14,23 +14,20 @@ Autarky is the characteristic of self-sufficiency, usually applied to societies,
 [cite:@Autarky2022]
 #+end_quote
 * Flashcards
-** Definition :fc:
+** [[id:5d946894-c987-4bf3-9709-290fad48044c][Autarky]] :fc:
 :PROPERTIES:
 :CREATED: [2022-10-28 Fri 13:44]
 :FC_CREATED: 2022-10-28T20:44:40Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :ID:       488c88d5-4954-4552-a034-eb4e80e5d6ff
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   104.49 | 2023-05-23T06:05:21Z |
-| back     | 2.50 |   6 |    83.71 | 2023-05-11T19:09:01Z |
+| front    | 2.50 |   7 |   285.10 | 2024-03-03T22:35:25Z |
+| back     | 2.50 |   7 |   206.66 | 2023-12-05T07:57:12Z |
 :END:
 
-[[id:5d946894-c987-4bf3-9709-290fad48044c][Autarky]]
-
-*** Back
 The characteristic of self-sufficiency, usually applied to societies, communities, states, and their economic systems.
 *** Source
 [cite:@Autarky2022]

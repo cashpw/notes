@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ff1c07f-e015-4929-b119-8890ebbc312c
-:LAST_MODIFIED: [2023-03-13 Mon 07:28]
+:LAST_MODIFIED: [2023-07-15 Sat 07:15]
 :END:
 #+title: Chain rule
 #+hugo_custom_front_matter: :slug "0ff1c07f-e015-4929-b119-8890ebbc312c"
@@ -29,8 +29,8 @@ $h'=(f\circ g)'=(f'\circ g)\cdot g'$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    40.14 | 2023-04-13T18:27:09Z |
-| back     | 2.80 |   5 |    51.01 | 2023-05-03T14:50:15Z |
+| front    | 2.50 |   6 |    91.08 | 2023-08-02T17:32:29Z |
+| back     | 2.65 |   6 |   148.20 | 2023-10-04T21:32:33Z |
 :END:
 
 [[id:0ff1c07f-e015-4929-b119-8890ebbc312c][Chain rule]] in [[id:b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13][Lagrange's notation]]
@@ -56,7 +56,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    48.64 | 2023-04-17T20:18:48Z |
+|        0 | 2.95 |   6 |   134.15 | 2023-09-10T17:58:37Z |
 :END:
 
 $h(x) = f(g(x)) = (f\circ g)(x)$
@@ -75,8 +75,8 @@ $h'(x)=$ {{$f'(g(x))g'(x)$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    37.97 | 2023-04-09T03:28:31Z |
-| back     | 2.80 |   5 |    43.56 | 2023-04-22T16:29:06Z |
+| front    | 2.20 |   7 |   219.61 | 2024-02-20T04:52:33Z |
+| back     | 2.80 |   6 |   118.22 | 2023-09-01T23:00:54Z |
 :END:
 
 [[id:0ff1c07f-e015-4929-b119-8890ebbc312c][Chain rule]] in [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]

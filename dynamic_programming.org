@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       48e26e71-a0e3-4086-99f2-53e2fa6f7fc8
 :ROAM_REFS: [cite:@DynamicProgramming2022]
-:LAST_MODIFIED: [2023-03-11 Sat 16:30]
+:LAST_MODIFIED: [2023-06-29 Thu 13:39]
 :END:
 #+title: Dynamic programming
 #+hugo_custom_front_matter: :slug "48e26e71-a0e3-4086-99f2-53e2fa6f7fc8"
@@ -20,7 +20,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   109.45 | 2023-06-29T11:18:19Z |
+| front    | 2.65 |   7 |   285.22 | 2024-04-10T02:01:23Z |
 :END:
 
 [[id:48e26e71-a0e3-4086-99f2-53e2fa6f7fc8][Dynamic programming]]

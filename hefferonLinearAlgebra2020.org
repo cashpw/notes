@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@hefferonLinearAlgebra2020]
 :ID:       f62d92d7-7151-46f1-a3e8-bb06cc72f02b
-:LAST_MODIFIED: [2023-01-28 Sat 08:45]
+:LAST_MODIFIED: [2023-06-17 Sat 21:04]
 :END:
 #+title: Jim Hefferon | Linear Algebra
 #+hugo_custom_front_matter: :slug "f62d92d7-7151-46f1-a3e8-bb06cc72f02b"
@@ -26,7 +26,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   139.29 | 2023-06-16T23:44:47Z |
+| front    | 2.95 |   7 |   420.58 | 2024-08-11T17:56:20Z |
 :END:
 
 [[id:f62d92d7-7151-46f1-a3e8-bb06cc72f02b][Linear Algebra]] (book)

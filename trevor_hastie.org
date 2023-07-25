@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b2981e3a-4e5b-41b2-a040-2fb58a7735a5
-:LAST_MODIFIED: [2022-12-24 Sat 09:40]
+:LAST_MODIFIED: [2023-05-01 Mon 16:33]
 :END:
 #+title: Trevor Hastie
 #+hugo_custom_front_matter: :slug "b2981e3a-4e5b-41b2-a040-2fb58a7735a5"
@@ -18,7 +18,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   175.28 | 2023-05-01T04:44:25Z |
+| front    | 2.50 |   9 |   401.01 | 2024-06-05T23:42:33Z |
 :END:
 [[id:b2981e3a-4e5b-41b2-a040-2fb58a7735a5][Trevor Hastie]]
 *** Back

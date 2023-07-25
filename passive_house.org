@@ -1,8 +1,9 @@
 :PROPERTIES:
 :ID:       846cdec4-5f6c-4dd9-99a4-d30ea0b61180
 :ROAM_REFS: [cite:@PassiveHouse2022]
+:LAST_MODIFIED: [2023-07-23 Sun 20:59]
 :END:
-#+title: Passive House
+#+title: Passive house
 #+hugo_custom_front_matter: :slug "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
 #+filetags: :has_todo:concept:
 #+author: Cash Prokop-Weaver
@@ -15,12 +16,27 @@
 /[cite:@PassiveHouse2022]/
 #+end_quote
 
-* TODO [#2] Expand :noexport:
+* TODO [#4] Expand :noexport:
 
-* TODO [#2] Flashcards
+* Flashcards
+** Describe :fc:
 :PROPERTIES:
-:ANKI_DECK: Default
+:CREATED: [2023-06-24 Sat 20:03]
+:FC_CREATED: 2023-06-25T03:03:29Z
+:FC_TYPE:  double
+:ID:       104e8e07-a63f-4022-88e7-e8bb9f945952
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    32.50 | 2023-08-22T03:23:00Z |
+| back     | 2.35 |   5 |    32.57 | 2023-08-25T17:42:38Z |
 :END:
 
+[[id:846cdec4-5f6c-4dd9-99a4-d30ea0b61180][Passive house]]
 
+*** Back
+A building standard which emphasizes energy efficiency via super-insulation, passive solar, air-tightness, and advanced window technology.
+*** Source
+[cite:@PassiveHouse2022]
 #+print_bibliography:

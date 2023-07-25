@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       05cb0686-d54a-46c6-90d3-8679156b4139
-:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:LAST_MODIFIED: [2023-07-03 Mon 18:38]
 :END:
 #+title: Ontology
 #+hugo_custom_front_matter: :slug "05cb0686-d54a-46c6-90d3-8679156b4139"
@@ -26,8 +26,8 @@ Ontology addresses questions of how entities are grouped into categories and whi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   6 |    56.36 | 2023-04-10T22:57:16Z |
-| back     | 2.35 |   6 |    92.21 | 2023-06-04T20:17:07Z |
+| front    | 1.75 |   7 |    43.60 | 2023-08-16T16:04:10Z |
+| back     | 2.20 |   7 |   210.50 | 2024-01-01T12:06:36Z |
 :END:
 
 [[id:05cb0686-d54a-46c6-90d3-8679156b4139][Ontology]]

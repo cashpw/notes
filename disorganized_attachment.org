@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80396b6d-d572-4437-ab2d-698c62a3038b
-:LAST_MODIFIED: [2023-02-10 Fri 15:57]
+:LAST_MODIFIED: [2023-05-12 Fri 09:08]
 :END:
 #+title: Disorganized attachment
 #+hugo_custom_front_matter: :slug "80396b6d-d572-4437-ab2d-698c62a3038b"
@@ -33,7 +33,7 @@ This creates a kind of emotional chaos, where you can't predict when you will be
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   8 |   225.56 | 2023-09-24T13:19:25Z |
-| back     | 2.35 |   6 |   102.19 | 2023-05-12T07:27:36Z |
+| back     | 2.35 |   7 |   223.08 | 2023-12-21T18:05:52Z |
 :END:
 [[id:80396b6d-d572-4437-ab2d-698c62a3038b][Disorganized attachment]]
 *** Back

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@riconThisReviewNotReviewingElephantBrain]
 :ID:       796ad559-ee93-4896-9101-a3395c7dd2d4
-:LAST_MODIFIED: [2023-02-17 Fri 06:58]
+:LAST_MODIFIED: [2023-04-08 Sat 08:08]
 :END:
 #+title: Jose Luis Ricon | This Review Is Not about Reviewing The Elephant in the Brain
 #+hugo_custom_front_matter: :slug "796ad559-ee93-4896-9101-a3395c7dd2d4"
@@ -85,7 +85,7 @@ Similarly, for selfishness, take the case of a parent who does X for her child o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    49.30 | 2023-04-07T22:09:08Z |
+| front    | 3.10 |   6 |   165.72 | 2023-09-21T08:30:52Z |
 :END:
 
 How the aristocratic and religious origin of education may have influenced subject matter

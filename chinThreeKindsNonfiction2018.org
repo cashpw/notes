@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@chinThreeKindsNonfictionBooks2018]
 :ID:       ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
 :DIR:      /home/cashweaver/proj/roam/attachments/ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
-:LAST_MODIFIED: [2023-03-10 Fri 21:17]
+:LAST_MODIFIED: [2023-06-21 Wed 08:47]
 :END:
 #+title: Cedric Chin | The Three Kinds of Non-Fiction Books
 #+hugo_custom_front_matter: :slug "ee7ed2c5-dd15-42aa-8cfe-8149ce58473e"
@@ -35,8 +35,8 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        2 | 2.80 |   9 |   450.96 | 2024-06-04T04:22:42Z |
-|        1 | 2.65 |   7 |   159.12 | 2023-04-03T18:32:47Z |
-|        3 | 2.65 |   8 |   202.05 | 2023-06-20T17:21:25Z |
+|        1 | 2.80 |   8 |   467.48 | 2024-07-16T04:03:19Z |
+|        3 | 2.50 |   9 |   463.26 | 2024-09-26T22:00:16Z |
 |        0 | 2.80 |  10 |   344.57 | 2024-01-23T05:57:50Z |
 :END:
 *** Extra

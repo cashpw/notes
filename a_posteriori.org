@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5650a370-5c7a-4412-a38e-d9889bf23d0f
-:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:LAST_MODIFIED: [2023-07-12 Wed 05:51]
 :END:
 #+title: A posteriori
 #+hugo_custom_front_matter: :slug "5650a370-5c7a-4412-a38e-d9889bf23d0f"
@@ -26,8 +26,8 @@ Also see [[id:d794df81-0af5-41a2-a437-d02f5859b0ae][A priori]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    84.36 | 2023-05-26T00:54:29Z |
-| back     | 2.95 |   5 |    49.71 | 2023-03-21T09:32:56Z |
+| front    | 2.35 |   7 |   206.18 | 2023-12-18T18:55:05Z |
+| back     | 2.95 |   6 |   152.26 | 2023-08-20T23:48:50Z |
 :END:
 
 [[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]]
@@ -48,7 +48,7 @@ Knowledge which depends on empirical evidence.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    89.14 | 2023-05-26T19:12:13Z |
+|        0 | 2.50 |   7 |   239.23 | 2024-01-24T21:40:42Z |
 |        1 | 2.80 |   6 |   141.38 | 2023-08-06T22:55:55Z |
 :END:
 
@@ -66,8 +66,8 @@ Knowledge which depends on empirical evidence.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    60.02 | 2023-04-16T16:42:07Z |
-| back     | 2.20 |   6 |    79.77 | 2023-05-24T11:47:46Z |
+| front    | 2.20 |   7 |   121.43 | 2023-09-02T08:01:24Z |
+| back     | 1.75 |   6 |    38.09 | 2023-08-19T15:03:13Z |
 :END:
 
 [[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]]

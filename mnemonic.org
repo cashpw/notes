@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f38ffe48-0117-4338-8bd5-e0b05101e64f
 :ROAM_REFS: [cite:@Mnemonic2022]
-:LAST_MODIFIED: [2023-02-17 Fri 07:01]
+:LAST_MODIFIED: [2023-06-04 Sun 17:02]
 :END:
 #+title: Mnemonic
 #+hugo_custom_front_matter: :slug "f38ffe48-0117-4338-8bd5-e0b05101e64f"
@@ -29,8 +29,8 @@ Commonly encountered mnemonics are often used for lists and in auditory form, su
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   107.47 | 2023-06-04T14:54:15Z |
-| back     | 2.65 |   6 |    95.60 | 2023-05-24T05:21:12Z |
+| front    | 2.80 |   7 |   326.69 | 2024-04-26T16:31:32Z |
+| back     | 2.65 |   7 |   233.50 | 2024-01-13T08:30:22Z |
 :END:
 
 [[id:f38ffe48-0117-4338-8bd5-e0b05101e64f][Mnemonic]]

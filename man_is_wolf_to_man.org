@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2537ad51-d76b-4fa1-8d43-7b0be9dd7bb1
 :ROAM_ALIASES: "Homo homini lupus"
-:LAST_MODIFIED: [2023-03-04 Sat 07:17]
+:LAST_MODIFIED: [2023-05-21 Sun 06:10]
 :END:
 #+title: Man is wolf to man
 #+hugo_custom_front_matter: :slug "2537ad51-d76b-4fa1-8d43-7b0be9dd7bb1"
@@ -30,8 +30,8 @@ Homo homini lupus, or in its unabridged form Homo homini lupus est, is a [[id:c2
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   6 |    60.71 | 2023-04-01T09:18:11Z |
-|        1 | 2.35 |   6 |    76.80 | 2023-05-20T10:28:59Z |
+|        0 | 1.90 |   7 |   122.38 | 2023-08-02T06:42:57Z |
+|        1 | 2.20 |   7 |   156.79 | 2023-10-25T08:13:59Z |
 :END:
 
 *** Source

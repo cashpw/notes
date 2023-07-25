@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       77af446a-bdc3-4800-b72e-240b66e69154
+:LAST_MODIFIED: [2023-07-17 Mon 06:54]
+:END:
+#+title: C++ struct
+#+hugo_custom_front_matter: :slug "77af446a-bdc3-4800-b72e-240b66e69154"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-11 Thu 10:04]
+#+filetags: :concept:
+
+A =struct= in C++ colloquially represents a "pure" [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in that it is only a composite data type.
+
+* Flashcards
+** Compare and contrast (C++) :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:45]
+:FC_CREATED: 2023-05-11T16:46:20Z
+:FC_TYPE:  normal
+:ID:       a2a35350-0d5a-4036-9112-aa88e10d98ec
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.16 | 2023-07-21T04:32:05Z |
+:END:
+
+=struct= and =class=
+
+*** Back
+- Default member access:
+  - =struct=: Members are *public* by default
+  - =class=: Members are *private* by default
+- Usage
+  - =struct=: Typically used for "simple" or "pure" data structures
+  - =classes=: Everything else; [[id:b20d2dcc-5fed-48e6-ad9f-0ce0a2867a71][Object-oriented programming]]
+*** Source
+[cite:@stroustrupTour2022] and ChatGPT
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:46]
+:FC_CREATED: 2023-05-11T16:47:21Z
+:FC_TYPE:  cloze
+:ID:       072be089-35b7-4c68-8e80-a03373af9597
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |    92.37 | 2023-10-17T22:40:26Z |
+|        1 | 2.80 |   5 |    44.37 | 2023-08-01T13:02:57Z |
+:END:
+
+(C++) {{=struct=}@0} members are {{public}{visibility}@1} by default.
+
+*** Source
+[cite:@stroustrupTour2022]
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0e7c2358-2a89-4123-99a6-e55161ff8828
-:LAST_MODIFIED: [2023-02-22 Wed 06:57]
+:LAST_MODIFIED: [2023-07-01 Sat 07:18]
 :END:
 #+title: Ship of Theseus (argument)
 #+hugo_custom_front_matter: :slug "0e7c2358-2a89-4123-99a6-e55161ff8828"
@@ -11,9 +11,6 @@ Lying without lying. An argument constructed from, while at best technically tru
 
 See [[id:309082e8-abb5-4fdf-9944-fc63d8a8197e][Ian Danskin | The Ship of Theseus]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       b66989cc-0a19-4db5-997a-ecd8f31deec3
@@ -24,7 +21,7 @@ See [[id:309082e8-abb5-4fdf-9944-fc63d8a8197e][Ian Danskin | The Ship of Theseus
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   5 |    27.54 | 2023-03-22T03:56:54Z |
+| front    | 1.90 |   7 |    95.67 | 2023-08-19T07:50:30Z |
 | back     | 2.50 |   7 |   195.79 | 2023-08-15T09:24:29Z |
 :END:
 [[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]
@@ -44,8 +41,8 @@ How many words can you change in an argument before it's not the same argument a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   134.04 | 2023-06-09T15:53:00Z |
-| back     | 1.90 |   6 |    51.56 | 2023-03-27T04:59:56Z |
+| front    | 2.80 |   7 |   388.08 | 2024-07-02T17:59:25Z |
+| back     | 1.90 |   8 |   200.01 | 2024-01-17T14:37:05Z |
 :END:
 [[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]
 *** Back

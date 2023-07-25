@@ -1,0 +1,476 @@
+:PROPERTIES:
+:ID:       41a0db19-6156-4242-8078-673cbd1e550e
+:LAST_MODIFIED: [2023-07-23 Sun 21:06]
+:END:
+#+title: Customizable route planning
+#+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-23 Fri 08:39]
+#+filetags: :concept:
+
+Customizable route planning is a shortest-path algorithm designed for use on road networks which is capable of handling:
+
+- real-world dynamic costs (e.g. increased edge cost due to traffic jam)
+- varied, custom, cost functions (i.e. more than just distance or time) which we *don't* need to prescribe at pre-processing time
+
+* Terms
+- [[id:80204036-f6a9-4c5e-a02d-0112f517e9a3][Topology (Road networks)]]
+- [[id:b349f179-9181-40e6-a6e9-b1f065ba6abe][Metric (Customizable route planning)]]
+- Cell: A group of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]
+- Boundary vertices: [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] with at least one incident edge to a different cell (e.g. $B$ and $C$, bold, below)
+- Boundary arcs: Arcs ([[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]) between boundary vertices in different cells (e.g. $(B, C)$ and $(C, B)$, bold, below)
+
+#+begin_src dot :file crp-terms-example.png :cmdline -Kdot -Tpng
+digraph D {
+  rankdir = LR
+  edge[arrowhead="none"]
+
+  subgraph cluster_1 {
+    label = "Cell 1"
+
+    A
+    B [style=bold]
+  }
+
+  subgraph cluster_2 {
+    label = "Cell 2"
+    graph[style=solid]
+
+    C [style=bold]
+    D
+  }
+
+  A -> B
+  B -> C [style=bold]
+  C -> D
+}
+
+#+end_src
+
+#+RESULTS:
+[[file:crp-terms-example.png]]
+
+* Algorithm
+
+#+begin_src dot :file crp-algorithm-0-base.png :cmdline -Kdot -Tpng
+digraph D {
+  rankdir = LR
+  edge[dir="both"; labeldistance=2.2; labelangle=0; minlen=2.0]
+
+  V1 -> V2 [headlabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V1 -> V3 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>6</td></tr></table>>]
+  V2 -> V3 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+  V2 -> V4 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>]
+  V4 -> V1 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>]
+  V5 -> V4 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>]
+  V5 -> V6 [headlabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>7</td></tr></table>>]
+  V6 -> V7 [headlabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V6 -> V8 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V7 -> V9 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V8 -> V15 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>]
+  V9 -> V10 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>]
+  V9 -> V12 [headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>]
+  V10 -> V11 [headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V11 -> V13 [headlabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V12 -> V14 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>]
+  V14 -> V13 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+}
+
+#+end_src
+
+#+RESULTS:
+[[file:crp-algorithm-0-base.png]]
+
+** Metric-independent pre-processing
+
+#+begin_quote
+Our metric-independent preprocessing stage partitions the graph into connected cells [[[id:d3439626-492b-4165-836e-efd890096225][Connected components]]] with at most $U$ (an input parameter) vertices each, with as few boundary arcs (arcs with endpoints in different cells) as possible.
+
+[...]
+
+Our first improvement over HiTi [cite:@jungEfficientPathComputationModelHierarchicallyStructuredTopographicalRoadMaps2002] and similar algorithms is to use [Partitioning Using Natural Cut Heuristics] PUNCH [cite:@dellingGraphPartitioningNaturalCuts2011] to partition the graph. Recently developed to deal with road networks, it routinely finds solutions with half as many boundary edges (or fewer), compared to the general-purpose partitioners (such as METIS [20]) commonly used by previous algorithms.
+
+[cite:@dellingCustomizableRoutePlanning2011]
+#+end_quote
+
+An example, with $U=3$:
+
+#+begin_src dot :file crp-algorithm-1-pre-processed.png :cmdline -Kdot -Tpng
+digraph D {
+  rankdir = LR
+  edge[dir="both"; labeldistance=2.2; labelangle=0; minlen=2.0]
+
+  subgraph cluster_1 {
+    label = "Cell 1"
+    rank = sink
+
+    V1; V2; V3; V4;
+  }
+
+  subgraph cluster_2 {
+    label = "Cell 2"
+    graph[style=solid]
+
+    V5; V6; V7; V8;
+  }
+
+  subgraph cluster_3 {
+    label = "Cell 3"
+    graph[style=solid]
+
+    V9; V10; V11; V12;
+  }
+
+  subgraph cluster_4 {
+    label = "Cell 4"
+    graph[style=solid]
+
+    V13; V14; V15;
+  }
+
+  V1 -> V2 [headlabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V1 -> V3 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>6</td></tr></table>>]
+  V2 -> V3 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+  V2 -> V4 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>]
+  V4 -> V1 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>]
+  V5 -> V4 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>]
+  V5 -> V6 [headlabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>7</td></tr></table>>]
+  V6 -> V7 [headlabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V6 -> V8 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V7 -> V9 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V8 -> V15 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>]
+  V9 -> V10 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>]
+  V9 -> V12 [headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>]
+  V10 -> V11 [headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V11 -> V13 [headlabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V12 -> V14 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>]
+  V14 -> V13 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+}
+#+end_src
+
+#+RESULTS:
+[[file:crp-algorithm-1-pre-processed.png]]
+
+** Metric customization
+
+#+begin_quote
+The metric customization stage builds a graph $H$ containing all boundary vertices (those with at least one neighbor in another cell) and boundary arcs of $G$. It also contains a clique for each cell $C$: for every pair $(v, w)$ of boundary vertices in $C$, we create an arc $(v, w)$ whose cost is the same as the shortest path (restricted to $C$) between $v$ and $w$ (or infinite if $w$ is not reachable from $v$). We do so by running Dijkstra [[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]] from each boundary vertex. Note that $H$ is an overlay [24]: the distance between any two vertices in $H$ is the same as in $G$.
+
+[cite:@dellingCustomizableRoutePlanning2011]
+#+end_quote
+
+Nodes in $H$ are *bold* and clique edges are red.
+
+#+begin_src dot :file crp-algorithm-2-metric-customization.png :cmdline -Kdot -Tpng
+digraph D {
+  rankdir = LR
+  edge[dir="both"; labeldistance=2.2; labelangle=0; minlen=2.0]
+
+  subgraph cluster_1 {
+    label = "Cell 1"
+    rank = sink
+    color="black"
+
+    V1; V2; V3;
+    V4 [style="bold"]
+   }
+
+  subgraph cluster_2 {
+    label = "Cell 2"
+    graph[style=solid]
+    color="black"
+
+    V5 [style="bold"]
+    V6
+    V7 [style="bold"]
+    V8 [style="bold"]
+  }
+
+  subgraph cluster_3 {
+    label = "Cell 3"
+    graph[style=solid]
+    color="black"
+
+    V9 [style="bold"]
+    V10
+    V11 [style="bold"]
+    V12 [style="bold"]
+  }
+
+  subgraph cluster_4 {
+    label = "Cell 4"
+    graph[style=solid]
+    color="black"
+
+    V13 [style="bold"]
+    V14 [style="bold"]
+    V15 [style="bold"]
+  }
+
+  V1 -> V2 [headlabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V1 -> V3 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>6</td></tr></table>>]
+  V2 -> V3 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+  V2 -> V4 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>]
+  V4 -> V1 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>]
+  V5 -> V4 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>]
+  V5 -> V6 [headlabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>7</td></tr></table>>]
+  V6 -> V7 [headlabel=<<table bgcolor='white' border='0'><tr><td>2</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V6 -> V8 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V7 -> V9 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V8 -> V15 [headlabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>]
+  V9 -> V10 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>]
+  V9 -> V12 [headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>]
+  V10 -> V11 [headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>]
+  V11 -> V13 [headlabel=<<table bgcolor='white' border='0'><tr><td>5</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>3</td></tr></table>>]
+  V12 -> V14 [headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>]
+  V14 -> V13 [headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+
+  // clique
+  V5 -> V8 [color="red"; style="bold"; headlabel=<<table bgcolor='white' border='0'><tr><td>6</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>15</td></tr></table>>]
+  V5 -> V7 [color="red"; style="bold"; headlabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>10</td></tr></table>>]
+  V9 -> V12 [color="red"; style="bold"; headlabel=<<table bgcolor='white' border='0'><tr><td>8</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>4</td></tr></table>>; labeldistance=4]
+  V9 -> V11 [color="red"; style="bold"; headlabel=<<table bgcolor='white' border='0'><tr><td>12</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>13</td></tr></table>>]
+  V11 -> V12 [color="red"; style="bold"; headlabel=<<table bgcolor='white' border='0'><tr><td>21</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>16</td></tr></table>>]
+  V14 -> V13 [color="red"; style="bold"; headlabel=<<table bgcolor='white' border='0'><tr><td>1</td></tr></table>>; taillabel=<<table bgcolor='white' border='0'><tr><td>9</td></tr></table>>]
+  V14 -> V15 [color="red"; label="∞"; style="bold"]
+  V15 -> V13 [color="red"; label="∞"; style="bold"]
+}
+#+end_src
+
+*** Sparsification
+
+#+begin_quote
+Using full cliques in the overlay graph may seem wasteful, particularly for well-behaved metrics. At the cost of making its topology metric-dependent, we consider various techniques to reduce the overlay graph.
+
+The first approach is edge reduction [24], which eliminates clique arcs that are not shortest paths. After computing all cliques, we run Dijkstra from each vertex $v$ in $H$, stopping as soon as all neighbors of $v$ (in $H$) are scanned. Note that these searches are usually quick, since they only visit the overlay.
+
+[cite:@dellingCustomizableRoutePlanning2011]
+#+end_quote
+
+** Query
+
+#+begin_quote
+[...] to perform a query between $s$ and $t$, we run a bidirectional version of Dijkstra's algorithm [[[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]] on the graph consisting of the union of $H$, $C_s$ , and $C_t$ . (Here $C_v$ denotes the subgraph of $G$ induced by the vertices in the cell containing $v$.)
+
+[cite:@dellingCustomizableRoutePlanning2011]
+#+end_quote
+
+*** Reduce query latency
+**** Nested partitions
+
+#+begin_quote
+To accelerate queries, we can use multiple levels of overlay graphs, a common technique for partition-based approaches, including HiTi [cite:@jungEfficientPathComputationModelHierarchicallyStructuredTopographicalRoadMaps2002]. We need nested partitions of $G$, in which every boundary edge at level $i$ is also a boundary edge at level $i − 1$, for $i > 1$. The level-0 partition is the original graph, with each vertex as a cell. For the $i\text{-th}$ level partition, we create a graph $H_i$ as before: it includes all boundary arcs, plus an overlay linking the boundary vertices within a cell. Note that $H_i$ can be computed using only $H_{i−1}$. We use PUNCH [ [cite:@dellingGraphPartitioningNaturalCuts2011] ] to create multilevel partitions, in top-down fashion. An $s \arrow t$ query runs bidirectional Dijkstra on a restricted graph $G_{st}$. An arc $(v, w)$ from $H_i$ will be in $G_{st}$ if both $v$ and $w$ are in the same cell as $s$ or $t$ at level $i + 1$. Goal-direction can still be used on the top level.
+
+[cite:@dellingCustomizableRoutePlanning2011]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-26 Mon 07:28]
+:FC_CREATED: 2023-06-26T14:29:28Z
+:FC_TYPE:  double
+:ID:       37c4581c-8475-41bb-846e-50bf7f40b8ae
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    13.00 | 2023-08-05T03:22:21Z |
+| back     | 2.50 |   1 |     1.00 | 2023-07-18T13:53:54Z |
+:END:
+
+Stages of [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]
+
+*** Back
+1. Metric-independent pre-processing
+2. Metric customization
+3. Query
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Describe ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-26 Mon 07:29]
+:FC_CREATED: 2023-06-26T14:31:53Z
+:FC_TYPE:  double
+:ID:       61d43e73-a166-40ae-a372-325a3fd6f389
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   3 |     6.00 | 2023-07-20T00:47:03Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-26T14:31:53Z |
+:END:
+
+Metric-independent pre-processing
+
+*** Back
+Partitions the graph into [[id:d3439626-492b-4165-836e-efd890096225][Connected components]] (cells) with at most $U$ vertices, minimizing boundary edges.
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Describe ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-26 Mon 07:31]
+:FC_CREATED: 2023-06-26T14:33:08Z
+:FC_TYPE:  double
+:ID:       79dbbc95-92ce-4cab-8192-5606686706a1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   1 |     1.00 | 2023-07-25T04:06:38Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-26T14:33:08Z |
+:END:
+
+Metric customization
+
+*** Back
+- Build an "overlay" graph, $H$, containing (1) all boundary vertices and (2) edges between boundary vertices (i.e. shortcuts)
+- Compute length of shortcuts as [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path]] between each pair of $(\text{entry}, \text{exit})$ nodes
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Describe ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-27 Tue 15:03]
+:FC_CREATED: 2023-06-27T22:05:00Z
+:FC_TYPE:  double
+:ID:       631add5a-f7d8-4bb1-abf8-78505ee9bfc3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-07-21T15:27:50Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-27T22:05:00Z |
+:END:
+
+Query
+
+*** Back
+- Perform a bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] on the union of $H$, $C_s$, and $C_t$.
+  - Optionally over the hierarchy of $H$ instances if you're using nested partitions
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-27 Tue 15:09]
+:FC_CREATED: 2023-06-27T22:22:22Z
+:FC_TYPE:  normal
+:ID:       fea96413-e9d4-4f43-9ebf-f2e586dd2a58
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-07-07T04:04:13Z |
+:END:
+
+Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]] handle changing edge weights (due to traffic, etc) better than [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]?
+
+*** Back
+- [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]'s pre-processing depends on both [[id:80204036-f6a9-4c5e-a02d-0112f517e9a3][Topology (Road networks)]] and [[id:b349f179-9181-40e6-a6e9-b1f065ba6abe][Metric (Customizable route planning)]] data; the pre-processing is *metric-dependent*
+- Part of [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]'s pre-processing is *metric-independend* and need not be re-computed when metrics change
+*** Source
+[cite:@ContractionHierarchies2023]
+** Describe ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-06-27 Tue 16:14]
+:FC_CREATED: 2023-06-27T23:16:26Z
+:FC_TYPE:  double
+:ID:       549cd998-94dd-45b8-8331-6d02eb832ddc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-22T13:58:22Z |
+| back     |  2.5 |  -1 |        0 | 2023-06-27T23:16:26Z |
+:END:
+
+Nested partitions
+
+*** Back
+A technique for reducing query latency by building a hierarchical view of the graph. The shortest path algorithm can take shortcuts upward and downward through the hierarchy to skip large swaths of intermediate vertices and edges.
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-06-27 Tue 17:11]
+:FC_CREATED: 2023-06-28T00:14:04Z
+:FC_TYPE:  normal
+:ID:       2931e684-fbcc-4cdd-a11a-b4274470642e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-29T03:40:27Z |
+:END:
+
+[[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]] and [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]] for road network graphs
+
+*** Back
+- [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]
+  - Lower query latency
+- [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]
+  - Greater pre-processing parallelization
+  - Supports dynamic weights (e.g. traffic jams) without re-building the whole graph
+*** Source
+- [cite:@ContractionHierarchies2023]
+- [cite:@dellingCustomizableRoutePlanning2011]
+** Cloze ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-07-02 Sun 18:05]
+:FC_CREATED: 2023-07-03T01:06:24Z
+:FC_TYPE:  cloze
+:ID:       426dbfdc-5ae2-49d6-b589-389f33918a52
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   3 |     6.00 | 2023-07-25T13:39:54Z |
+|        1 |  2.5 |  -1 |        0 | 2023-07-10T01:06:24Z |
+:END:
+
+A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}@0} on {{the union of $H$, $C_s$, and $C_t$}@1}.
+
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Denotes ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-07-20 Thu 08:26]
+:FC_CREATED: 2023-07-20T15:27:33Z
+:FC_TYPE:  double
+:ID:       5467a9d9-652c-4f24-9802-eef4fabdc044
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-07-20T15:27:34Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-27T15:27:34Z |
+:END:
+
+$C_s$ and $C_t$
+
+*** Back
+- Cells containing the starting and target vertices
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+** Denotes ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-07-20 Thu 08:28]
+:FC_CREATED: 2023-07-20T15:28:59Z
+:FC_TYPE:  double
+:ID:       0e0542e4-3bb8-4536-9652-847fbed99b84
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-07-20T15:28:59Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-27T15:28:59Z |
+:END:
+
+$H$
+
+*** Back
+An "overlay" graph which contains (1) all boundary vertices and (2) edges between boundary vertices (i.e. shortcuts)
+*** Source
+[cite:@dellingCustomizableRoutePlanning2011]
+#+print_bibliography:

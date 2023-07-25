@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       e8e588ca-1ce4-4c89-b050-44fc595310e7
+:LAST_MODIFIED: [2023-07-24 Mon 11:45]
+:ROAM_REFS: [cite:@Cenotaph2023]
+:END:
+#+title: Cenotaph
+#+hugo_custom_front_matter: :slug "e8e588ca-1ce4-4c89-b050-44fc595310e7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-07-24 Mon 10:45]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+A cenotaph is an empty tomb or a monument erected in honour of a person or group of people whose remains are elsewhere. It can also be the initial tomb for a person who has since been reinterred elsewhere. Although the vast majority of cenotaphs honour individuals, many noted cenotaphs are instead dedicated to the memories of groups of individuals, such as the lost soldiers of a country or of an empire.
+
+[cite:@Cenotaph2023]
+#+end_quote
+
+* TODO [#2] Flashcards
+** [[id:e8e588ca-1ce4-4c89-b050-44fc595310e7][Cenotaph]] :fc:
+:PROPERTIES:
+:CREATED: [2023-07-24 Mon 11:04]
+:FC_CREATED: 2023-07-24T18:04:47Z
+:FC_TYPE:  vocab
+:ID:       f4d0074b-21e0-4a34-aab5-6d58edb34114
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-07-25T18:05:48Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-22T18:04:47Z |
+:END:
+
+#+begin_quote
+A [...] is an empty tomb or a monument erected in honour of a person or group of people whose remains are elsewhere. It can also be the initial tomb for a person who has since been reinterred elsewhere. Although the vast majority of [...] honour individuals, many noted [...] are instead dedicated to the memories of groups of individuals, such as the lost soldiers of a country or of an empire.
+#+end_quote
+
+*** Source
+[cite:@Cenotaph2023]
+#+print_bibliography:

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       83f20553-5f34-46d6-b260-decfd8b51e99
+:LAST_MODIFIED: [2023-06-23 Fri 09:20]
+:END:
+#+title: DOT in Emacs
+#+hugo_custom_front_matter: :slug "83f20553-5f34-46d6-b260-decfd8b51e99"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-23 Fri 09:14]
+#+filetags: :concept:
+
+#+begin_src dot :file dot-example.png :cmdline -Kdot -Tpng
+digraph {
+  A -> B
+  B -> C
+  C -> A
+}
+#+end_src
+
+#+RESULTS:
+[[file:dot-example.png]]
+
+* Flashcards

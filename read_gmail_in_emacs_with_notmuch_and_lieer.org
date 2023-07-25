@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       ada68d10-cec8-4af1-903d-29dfa71d2343
+:LAST_MODIFIED: [2023-07-24 Mon 14:34]
 :END:
 #+title: Read Gmail in Emacs with notmuch and lieer
 #+hugo_custom_front_matter: :slug "ada68d10-cec8-4af1-903d-29dfa71d2343"

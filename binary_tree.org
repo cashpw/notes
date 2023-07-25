@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       323bf406-41e6-4e5f-9be6-689e1055b118
 :ROAM_ALIASES: "Binary trees"
-:LAST_MODIFIED: [2023-03-05 Sun 08:55]
+:LAST_MODIFIED: [2023-06-25 Sun 10:16]
 :END:
 #+title: Binary tree
 #+hugo_custom_front_matter: :slug "323bf406-41e6-4e5f-9be6-689e1055b118"
@@ -48,7 +48,7 @@ Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   6 |    57.09 | 2023-03-28T04:43:12Z |
+| back     | 2.05 |   7 |   120.55 | 2023-07-27T16:19:57Z |
 | front    | 2.35 |   7 |   167.49 | 2023-08-20T04:37:00Z |
 :END:
 \(\operatorname{parent}(i)\) \(\forall\) child indexes, \(i\)
@@ -84,8 +84,8 @@ Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   177.37 | 2023-06-25T03:30:35Z |
-| front    | 2.80 |   7 |   151.62 | 2023-04-19T07:02:06Z |
+| back     | 2.80 |   8 |   449.99 | 2024-09-17T17:00:12Z |
+| front    | 2.80 |   8 |   417.49 | 2024-06-24T09:50:24Z |
 :END:
 [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
 *** Back

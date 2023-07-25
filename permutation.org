@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cf4068b9-bda6-49c1-812a-0314945c4425
 :ROAM_REFS: [cite:@Permutation2022]
-:LAST_MODIFIED: [2023-03-18 Sat 06:36]
+:LAST_MODIFIED: [2023-07-18 Tue 06:48]
 :END:
 #+title: Permutation
 #+hugo_custom_front_matter: :slug "cf4068b9-bda6-49c1-812a-0314945c4425"
@@ -34,7 +34,7 @@ Also see: [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-03-19T14:05:41Z |
+| front    | 2.20 |   7 |   163.24 | 2023-12-28T19:36:02Z |
 :END:
 
 [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]] and [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
@@ -55,8 +55,8 @@ Also see: [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-03-24T13:36:38Z |
-| back     | 2.50 |   1 |     1.00 | 2023-03-18T14:09:03Z |
+| front    | 2.50 |   6 |   105.55 | 2023-09-02T05:31:10Z |
+| back     | 2.65 |   6 |   108.74 | 2023-09-06T18:26:33Z |
 :END:
 
 [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
@@ -77,7 +77,7 @@ An ordering of a set of elements.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   3 |     6.00 | 2023-03-23T14:12:25Z |
+|        0 | 2.50 |   6 |    94.47 | 2023-08-25T01:05:50Z |
 :END:
 
 There are {{$n!$}@0} permutations for a set of size $n$.

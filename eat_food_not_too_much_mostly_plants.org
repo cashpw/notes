@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f029d4ec-6c14-4dbc-9782-3aa92783ae91
-:LAST_MODIFIED: [2023-02-15 Wed 08:08]
+:LAST_MODIFIED: [2023-05-23 Tue 13:26]
 :END:
 #+title: Eat food. Not too much. Mostly plants.
 #+hugo_custom_front_matter: :slug "f029d4ec-6c14-4dbc-9782-3aa92783ae91"
@@ -27,7 +27,7 @@ Eat food. Not too much. Mostly plants.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    96.17 | 2023-05-22T20:07:10Z |
+|        0 | 2.50 |   7 |   222.96 | 2024-01-01T19:31:38Z |
 :END:
 
 *** Source

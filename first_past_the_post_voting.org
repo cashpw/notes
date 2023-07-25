@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5842347b-87fb-4454-a1f9-e92c46a92a6d
 :ROAM_ALIASES: "Choose-one voting" "Single-member plurality voting" SMP FPP FPTP
-:LAST_MODIFIED: [2023-02-16 Thu 19:39]
+:LAST_MODIFIED: [2023-07-23 Sun 21:05]
 :END:
 #+title: First-past-the-post voting
 #+hugo_custom_front_matter: :slug "5842347b-87fb-4454-a1f9-e92c46a92a6d"
@@ -28,8 +28,8 @@ As a winner-take-all method, FPTP often produces disproportional results (when e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    40.58 | 2023-03-25T06:31:28Z |
-| back     | 2.65 |   5 |    42.53 | 2023-03-31T16:21:25Z |
+| front    | 2.95 |   7 |   346.57 | 2024-07-03T17:02:16Z |
+| back     | 2.80 |   7 |   300.43 | 2024-05-19T14:19:36Z |
 :END:
 
 [[id:5842347b-87fb-4454-a1f9-e92c46a92a6d][First-past-the-post voting]]

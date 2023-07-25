@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d1a8dddc-9e5c-4e4f-ac74-a2079025130c
-:LAST_MODIFIED: [2023-02-28 Tue 06:59]
+:LAST_MODIFIED: [2023-06-21 Wed 08:46]
 :ROAM_REFS: [cite:@Piecewise2022]
 :ROAM_ALIASES: "Definition by cases" "Hybrid function"
 :END:
@@ -27,8 +27,8 @@ In mathematics, a piecewise-defined function (also called a piecewise function, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   144.47 | 2023-03-23T03:47:27Z |
-| front    | 2.65 |   8 |   161.78 | 2023-04-17T16:48:10Z |
+| back     | 2.65 |   8 |   364.65 | 2024-03-22T07:32:21Z |
+| front    | 2.65 |   9 |   423.16 | 2024-06-30T01:37:30Z |
 :END:
 
 Piecewise function
@@ -55,8 +55,8 @@ $f(x)= \begin{cases}-3-x & \text{if}\;  x \leq -3 \\ x+3&\text{if}\;-3\leq x\leq
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |  10 |   217.24 | 2023-07-27T21:17:03Z |
-|        1 | 1.75 |   7 |    46.61 | 2023-03-25T14:47:43Z |
-|        2 | 1.30 |   6 |    17.96 | 2023-03-18T14:00:19Z |
+|        1 | 1.60 |   9 |   143.24 | 2023-11-11T21:33:40Z |
+|        2 | 1.30 |  10 |    47.64 | 2023-08-06T12:07:05Z |
 :END:
 
 - {{Piecewise function}@0}

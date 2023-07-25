@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       6f9becc1-280b-4129-bed2-50d905cd3e27
+:LAST_MODIFIED: [2023-06-16 Fri 07:02]
+:END:
+#+title: Diagonal matrix
+#+hugo_custom_front_matter: :slug "6f9becc1-280b-4129-bed2-50d905cd3e27"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-16 Fri 07:01]
+#+filetags: :concept:
+
+A diagonal [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]], $A$, has zeros in all positions except for $\{A_{i,j} \; \forall \; i = j\}$.
+
+* Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:ID:       6d918ce4-d7c4-45b5-b2f2-0a9343ca4447
+:ANKI_NOTE_ID: 1640628567627
+:FC_CREATED: 2021-12-27T18:09:27Z
+:FC_TYPE:  cloze
+:FC_CLOZE_MAX: 2
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.80 |   8 |   332.37 | 2023-12-09T23:50:07Z |
+|        1 | 2.65 |   8 |   382.70 | 2024-05-18T16:10:29Z |
+:END:
+
+- {{$\operatorname{diag}(\vec{x})$}@0}
+
+{{$D_{n \times n}$, the diagonal matrix, where $D_{i, i} = \vec{x}_i$.}@1}
+
+*** Source
+[cite:@b0rk4AnswerStandardNotationDiagonalMatrices2016]
+** Definition :fc:
+:PROPERTIES:
+:ID:       c9b96366-6e5c-4229-b0d7-53c5ebedbda0
+:ANKI_NOTE_ID: 1640627861796
+:FC_CREATED: 2021-12-27T17:57:41Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.35 |   8 |   253.97 | 2024-02-25T13:15:47Z |
+| front    | 2.80 |   8 |   321.63 | 2023-12-21T07:08:14Z |
+:END:
+
+Diagonal matrix
+
+*** Back
+A matrix, $A$, with zeros in all positions except for $\{A_{i,j} \; \forall \; i = j\}$
+
+*** Source
+[cite:@DiagonalMatrix2022]
+#+print_bibliography:

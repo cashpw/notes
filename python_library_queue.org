@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       37b4cf4e-b716-4e46-a27f-dfb5fce06bc7
 :ROAM_ALIASES: "Python PriorityQueue"
-:LAST_MODIFIED: [2023-03-17 Fri 06:54]
+:LAST_MODIFIED: [2023-07-23 Sun 13:20]
 :ROAM_REFS: [cite:@QueueSynchronizedQueueClass]
 :END:
 #+title: Python library: queue
@@ -142,11 +142,45 @@ print('max_queue:', max_queue.get(), 'is (1, (a, b))')
 print('max_queue:', max_queue.get(), 'is (-10, (c, d))')
 #+end_src
 
+** With updatable priorities
+:PROPERTIES:
+:ID:       b00f27e6-b07a-406f-8b2b-ab205229a8e8
+:END:
+
+Python's built-in =PriorityQueue= doesn't support updating existing priorities.
+
+#+begin_src python :results output
+import heapq
+
+from queue import PriorityQueue
+
+class UpdatablePriorityQueue(PriorityQueue):
+    """PriorityQueue with updatable priorities."""
+
+    def update(self, new_priority, item):
+        """Update an item in the queue in O(n) time."""
+        for i, it in enumerate(self.queue):
+            if it[1] == item:
+                self.queue[i] = (new_priority, item)
+                heapq.heapify(self.queue)
+                break
+
+    def peek(self):
+        return self.queue[0] if len(self.queue) > 0 else None
+
+min_queue = UpdatablePriorityQueue()
+min_queue.put((4, 'a'))
+min_queue.put((3, 'b'))
+print(min_queue.peek(), 'should be (3, b)')
+min_queue.update(5, 'b')
+print(min_queue.get(), 'should be (4, a)')
+print(min_queue.get(), 'should be (5, b)')
+#+end_src
+
 #+RESULTS:
-: max_queue: (3, ('e', 'f')) is (3, (e, f))
-: max_queue: (2, ('g', 'h')) is (2, (g, h))
-: max_queue: (1, ('a', 'b')) is (1, (a, b))
-: max_queue: (-10, ('c', 'd')) is (-10, (c, d))
+: (3, 'b') should be (3, b)
+: (4, 'a') should be (4, a)
+: (5, 'b') should be (5, b)
 
 * Flashcards
 ** Cloze :fc:
@@ -161,7 +195,7 @@ print('max_queue:', max_queue.get(), 'is (-10, (c, d))')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   5 |    46.50 | 2023-04-27T12:16:43Z |
+|        0 | 2.80 |   6 |   141.73 | 2023-09-22T09:12:26Z |
 :END:
 
 [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]'s =PriorityQueue= uses a {{[[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap property]]}{[[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]}@0}.
@@ -178,8 +212,8 @@ print('max_queue:', max_queue.get(), 'is (-10, (c, d))')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    47.46 | 2023-04-30T01:55:57Z |
-| back     | 2.80 |   5 |    44.81 | 2023-05-01T09:19:19Z |
+| front    | 2.80 |   6 |   120.40 | 2023-08-29T04:27:16Z |
+| back     | 2.80 |   6 |   118.05 | 2023-09-06T16:17:01Z |
 :END:
 
 How to get [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]'s =PriorityQueue= to employ a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]].
@@ -198,7 +232,7 @@ Flip the sign of the =priority= either (1) manually or (2) by subclassing =Prior
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-02-15T16:07:19Z |
+| front    | 2.80 |   6 |   107.07 | 2023-11-07T21:55:12Z |
 :END:
 
 =PriorityQueue= with a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]].
@@ -208,4 +242,22 @@ Flip the sign of the =priority= either (1) manually or (2) by subclassing =Prior
 *** Source
 [[id:8f35fd30-8502-413f-b3c9-c085423ae745][For max-heap]]
 
+** Cloze :fc:
+:PROPERTIES:
+:CREATED:  [2023-03-19 Sun 10:34]
+:FC_CREATED: 2023-03-19T17:35:45Z
+:FC_TYPE:  cloze
+:ID:       f17cbb98-55ab-4cbf-928d-2285500387f4
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |   107.42 | 2023-09-28T10:14:06Z |
+:END:
+
+A [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]] =PriorityQueue= implementation via subclassing required overriding the following methods of =PriorityQueue=: {{=put= and =get=}@0}.
+
+*** Source
 #+print_bibliography:

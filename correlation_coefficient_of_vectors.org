@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d9f04c73-1238-4e6b-a370-8a23ac755610
-:LAST_MODIFIED: [2023-03-09 Thu 19:20]
+:LAST_MODIFIED: [2023-07-18 Tue 06:46]
 :END:
 #+title: Correlation coefficient of vectors
 #+hugo_custom_front_matter: :slug "d9f04c73-1238-4e6b-a370-8a23ac755610"
@@ -17,9 +17,6 @@
 See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** {{$\rho_{\vec{a}, \vec{b} }$}@0} \(=\) {{$\frac{\tilde{a} \cdot \tilde{b} }{\|\tilde{a}\|\|\tilde{b}\|}$}@1} :fc:
 :PROPERTIES:
@@ -33,7 +30,7 @@ See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    60.38 | 2023-04-25T13:04:24Z |
+|        0 | 2.20 |   7 |   136.86 | 2023-09-12T19:16:35Z |
 |        1 | 2.35 |   7 |   250.55 | 2023-11-02T17:01:14Z |
 :END:
 *** Source
@@ -51,7 +48,7 @@ See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   7 |   145.76 | 2023-07-27T08:09:56Z |
-|        1 | 1.60 |   4 |     8.79 | 2023-03-18T22:15:43Z |
+|        1 | 1.45 |   7 |    21.03 | 2023-08-08T14:33:23Z |
 :END:
 - {{$\rho_{\vec{a}, \vec{b}}$}@0}
 

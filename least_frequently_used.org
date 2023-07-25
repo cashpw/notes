@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID:       2c7820cc-7523-447e-924b-3f9340c3c29b
+:LAST_MODIFIED: [2023-07-12 Wed 05:52]
+:ROAM_ALIASES: LFU
+:ROAM_REFS: [cite:@LeastFrequentlyUsed2022]
+:END:
+#+title: Least frequently used
+#+hugo_custom_front_matter: :slug "2c7820cc-7523-447e-924b-3f9340c3c29b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-22 Wed 09:25]
+#+filetags: :concept:
+
+A [[id:f1a77c99-0bb1-4972-a462-7ac47735faa8][Cache replacement policy]] which:
+
+#+begin_quote
+Counts how often an item is needed. Those that are used least often are discarded first. This works very similar to LRU [[[id:682e1968-6d7c-4689-a627-5a9903323194][LRU]]] except that instead of storing the value of how recently a block was accessed, we store the value of how many times it was accessed. So of course while running an access sequence we will replace a block which was used fewest times from our cache. E.g., if A was used (accessed) 5 times and B was used 3 times and others C and D were used 10 times each, we will replace B.
+
+[cite:@CacheReplacementPolicies2023]
+#+end_quote
+
+* Problems
+#+begin_quote
+While the LFU method may seem like an intuitive approach to memory management it is not without faults. Consider an item in memory which is referenced repeatedly for a short period of time and is not accessed again for an extended period of time. Due to how rapidly it was just accessed its counter has increased drastically even though it will not be used again for a decent amount of time. [...]
+
+Moreover, new items that just entered the cache are subject to being removed very soon again, because they start with a low counter, even though they might be used very frequently after that. Due to major issues like these, an explicit LFU system is fairly uncommon; instead, there are hybrids that utilize LFU concepts.
+
+[cite:@LeastFrequentlyUsed2022]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 09:26]
+:FC_CREATED: 2023-03-22T16:27:38Z
+:FC_TYPE:  double
+:ID:       77b954d3-b968-43ae-87f2-3c776a3688b0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    75.55 | 2023-08-27T13:29:07Z |
+| back     | 2.35 |   6 |    75.95 | 2023-09-24T14:33:25Z |
+:END:
+
+[[id:2c7820cc-7523-447e-924b-3f9340c3c29b][Least frequently used]]
+
+*** Back
+A [[id:f1a77c99-0bb1-4972-a462-7ac47735faa8][Cache replacement policy]] which discards items in the [[id:0bd96e38-6a09-4053-b5e8-cf707b03a3e5][Cache]] in ascending order of how many times they've been accessed.
+*** Source
+[cite:@CacheReplacementPolicies2023]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 09:27]
+:FC_CREATED: 2023-03-22T16:28:05Z
+:FC_TYPE:  cloze
+:ID:       d8763015-e9ef-418f-8809-601f48cb0bfd
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   100.62 | 2023-09-20T08:02:51Z |
+|        1 | 2.80 |   6 |   102.02 | 2023-10-21T13:33:18Z |
+:END:
+
+- {{[[id:2c7820cc-7523-447e-924b-3f9340c3c29b][Least frequently used]]}@0}
+- {{[[id:2c7820cc-7523-447e-924b-3f9340c3c29b][LFU]]}@1}
+
+*** Source
+[cite:@CacheReplacementPolicies2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 09:29]
+:FC_CREATED: 2023-03-22T16:32:09Z
+:FC_TYPE:  double
+:ID:       08c2cf28-e46e-42c6-91b8-23bba98e8027
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    91.00 | 2023-09-26T15:12:14Z |
+| back     | 2.65 |   6 |    99.32 | 2023-10-19T20:38:48Z |
+:END:
+
+Problems with [[id:2c7820cc-7523-447e-924b-3f9340c3c29b][Least frequently used]]
+
+*** Back
+- Items may be accessed many times over a short period of time, then not again for a long time. These items may not fall out of the cache as soon as we'd like.
+- New items entering the cache, even though they may be accessed frequently, are subject to removal as they initially have a low access count
+*** Source
+[cite:@LeastFrequentlyUsed2022]
+#+print_bibliography:

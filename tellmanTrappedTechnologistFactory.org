@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@tellmanTrappedTechnologistFactory]
 :ID:       1182a8b4-b808-47e2-92e3-f69bb9e57981
 :DIR:      /home/cashweaver/proj/roam/attachments/1182a8b4-b808-47e2-92e3-f69bb9e57981
-:LAST_MODIFIED: [2023-02-03 Fri 08:32]
+:LAST_MODIFIED: [2023-06-06 Tue 07:39]
 :END:
 #+title: Zach Tellman | Trapped in the Technologist Factory
 #+hugo_custom_front_matter: :slug "1182a8b4-b808-47e2-92e3-f69bb9e57981"
@@ -56,7 +56,7 @@ By introducing abstraction into every problem we solve, we distance ourselves fr
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Describe :fc:
+** Summarize :fc:
 :PROPERTIES:
 :CREATED: [2022-11-10 Thu 16:50]
 :FC_CREATED: 2022-11-11T00:50:55Z
@@ -67,7 +67,7 @@ By introducing abstraction into every problem we solve, we distance ourselves fr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   6 |    40.66 | 2023-03-19T19:38:39Z |
+| front    | 1.75 |   8 |   147.91 | 2023-11-01T12:25:47Z |
 :END:
 
 [[id:1182a8b4-b808-47e2-92e3-f69bb9e57981][Zach Tellman | Trapped in the Technologist Factory]]
@@ -84,7 +84,7 @@ By introducing abstraction into every problem we solve, we distance ourselves fr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    78.81 | 2023-04-23T12:04:16Z |
+| front    | 2.35 |   7 |   190.53 | 2023-11-10T04:29:16Z |
 :END:
 
 - [[id:783f58f7-4b80-42a0-863f-2d8d1367c30b][It's a feature, not a bug]]

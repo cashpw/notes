@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       36a89fad-7e34-47eb-b8ec-555c2832abbf
-:LAST_MODIFIED: [2023-03-04 Sat 07:20]
+:LAST_MODIFIED: [2023-06-28 Wed 10:21]
 :END:
 #+title: Pyrometric cone
 #+hugo_custom_front_matter: :slug "36a89fad-7e34-47eb-b8ec-555c2832abbf"
@@ -28,8 +28,8 @@ Pyrometric cones are pyrometric devices that are used to gauge [[id:68b68eba-1b4
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |    87.69 | 2023-05-14T08:27:14Z |
-|        1 | 2.65 |   6 |   115.17 | 2023-06-27T19:18:43Z |
+|        0 | 2.65 |   7 |   242.81 | 2024-01-12T10:16:14Z |
+|        1 | 2.80 |   7 |   320.14 | 2024-05-13T20:42:32Z |
 :END:
 
 *** Source

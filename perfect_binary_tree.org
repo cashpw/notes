@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       de6bcd91-4a80-4ea9-b939-eb7f57077f63
-:LAST_MODIFIED: [2023-03-09 Thu 19:15]
+:LAST_MODIFIED: [2023-06-30 Fri 18:41]
 :END:
 #+title: Perfect binary tree
 #+hugo_custom_front_matter: :slug "de6bcd91-4a80-4ea9-b939-eb7f57077f63"
@@ -31,8 +31,8 @@ A perfect binary tree is a binary tree in which all interior nodes have two chil
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   187.08 | 2023-06-30T17:14:27Z |
-| front    | 2.50 |   7 |   167.28 | 2023-06-22T21:34:28Z |
+| back     | 2.35 |   8 |   426.78 | 2024-08-30T20:19:06Z |
+| front    | 2.65 |   8 |   438.44 | 2024-09-03T12:19:56Z |
 :END:
 
 [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]

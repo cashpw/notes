@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f331c0a1-39b2-4752-84a9-f9656d1750c5
-:LAST_MODIFIED: [2023-03-15 Wed 08:11]
+:LAST_MODIFIED: [2023-07-11 Tue 06:04]
 :END:
 #+title: Never play defense
 #+hugo_custom_front_matter: :slug "f331c0a1-39b2-4752-84a9-f9656d1750c5"
@@ -27,7 +27,7 @@ See [[id:faa69627-9b11-4e11-ae1a-bcefb66fdedb][Ian Danskin | Never Play Defense]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.30 |  14 |   181.62 | 2023-09-02T05:57:21Z |
-| back     | 2.35 |   6 |    74.72 | 2023-04-19T09:53:14Z |
+| back     | 2.35 |   7 |   191.95 | 2023-11-18T14:37:38Z |
 :END:
 
 [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]
@@ -46,8 +46,8 @@ A method for winning arguments where you seek to convince the audience you won o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |  19 |   102.25 | 2023-06-25T21:17:01Z |
-| back     | 1.90 |   7 |    75.05 | 2023-05-17T15:19:44Z |
+| front    | 1.60 |  20 |   162.81 | 2023-12-06T11:45:07Z |
+| back     | 2.05 |   8 |   165.16 | 2023-10-30T19:14:23Z |
 :END:
 [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]
 *** Back
@@ -89,8 +89,8 @@ A method for winning arguments where you seek to convince the audience you won o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    41.17 | 2023-04-18T21:38:23Z |
-|        1 | 2.50 |   5 |    43.47 | 2023-04-28T02:30:13Z |
+|        0 | 2.50 |   6 |    87.24 | 2023-10-06T18:52:47Z |
+|        1 | 2.50 |   6 |   113.25 | 2023-08-30T22:53:14Z |
 :END:
 
 {{[[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]}{argument}@0} relies on {{[[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]}@1}.

@@ -1,0 +1,104 @@
+:PROPERTIES:
+:ID:       f690a8ad-4069-4e96-a707-2a57f638c493
+:LAST_MODIFIED: [2023-07-23 Sun 20:56]
+:ROAM_REFS: [cite:@FunctionalProgramming2023]
+:END:
+#+title: Functional programming
+#+hugo_custom_front_matter: :slug "f690a8ad-4069-4e96-a707-2a57f638c493"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-01 Mon 17:50]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.
+
+In functional programming, functions are treated as first-class citizens, meaning that they can be bound to names (including local identifiers), passed as arguments, and returned from other functions, just as any other data type can. This allows programs to be written in a declarative and composable style, where small functions are combined in a modular manner.
+
+[...]
+
+Functional programming has its roots in academia, evolving from the lambda calculus [], a formal system of computation based only on functions.
+
+[cite:@FunctionalProgramming2023]
+#+end_quote
+
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-03 Wed 15:27]
+:FC_CREATED: 2023-05-03T22:28:12Z
+:FC_TYPE:  cloze
+:ID:       12ec771c-9581-409f-b855-bc6b207bd2dd
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |   107.25 | 2023-11-07T09:45:32Z |
+:END:
+
+[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]] has a {{[[id:f234a51d-23e4-4050-bf2c-60895a99ee12][Declarative programming]]}@0} style.
+
+*** Source
+[cite:@FunctionalProgramming2023]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-03 Wed 15:29]
+:FC_CREATED: 2023-05-03T22:30:12Z
+:FC_TYPE:  cloze
+:ID:       3fa94c20-19ad-4061-b174-1d08c8c50df7
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   6 |    75.44 | 2023-10-07T14:35:12Z |
+|        1 | 2.50 |   5 |    35.37 | 2023-08-03T02:06:37Z |
+:END:
+
+{{[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]}@0} evolved from {{[[id:a81fbc80-350e-4c7a-8332-09861e34b5bf][Lambda calculus]]}@1}.
+
+*** Source
+[cite:@FunctionalProgramming2023]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:01]
+:FC_CREATED: 2023-05-04T23:06:30Z
+:FC_TYPE:  double
+:ID:       e13654e4-0175-4c2d-96b0-d1d558962609
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   6 |    88.19 | 2023-10-12T18:30:42Z |
+| back     | 2.50 |   5 |    44.38 | 2023-08-13T05:52:38Z |
+:END:
+
+[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]
+
+*** Back
+A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] which models computation as the evaluation of expressions.
+*** Source
+[cite:@FunctionalProgrammingHaskellWiki]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:08]
+:FC_CREATED: 2023-05-04T23:09:20Z
+:FC_TYPE:  cloze
+:ID:       8ed88405-9676-44dd-b0a3-08593d09a564
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   6 |    87.91 | 2023-10-13T11:44:28Z |
+|        1 | 2.35 |   5 |    34.43 | 2023-07-25T01:22:42Z |
+:END:
+
+The fundamental operation in {{[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]}@0} is {{a reduction}@1}.
+
+*** Source
+[cite:@ThereAreExactlyThreeParadigms]
+#+print_bibliography:

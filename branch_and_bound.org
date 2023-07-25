@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d1f735d6-a30b-494f-a536-7042b6fd0329
-:LAST_MODIFIED: [2023-03-11 Sat 16:33]
+:LAST_MODIFIED: [2023-06-30 Fri 18:38]
 :END:
 #+title: Branch and bound
 #+hugo_custom_front_matter: :slug "d1f735d6-a30b-494f-a536-7042b6fd0329"
@@ -27,8 +27,8 @@ The algorithm depends on efficient estimation of the lower and upper bounds of r
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    38.09 | 2023-03-28T20:45:12Z |
-| back     | 2.95 |   5 |    47.31 | 2023-04-11T09:47:25Z |
+| front    | 2.50 |   7 |   244.25 | 2024-03-01T07:37:02Z |
+| back     | 2.80 |   6 |   134.80 | 2023-08-24T11:47:01Z |
 :END:
 
 [[id:d1f735d6-a30b-494f-a536-7042b6fd0329][Branch and bound]]
@@ -47,8 +47,8 @@ An algorithm design paradigm which explores the [[id:1a068ad5-3e16-4ec4-b238-6fd
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    43.01 | 2023-03-30T16:23:24Z |
-| back     | 2.50 |   4 |    14.99 | 2023-03-27T00:13:38Z |
+| front    | 2.65 |   6 |   123.47 | 2023-08-02T03:00:05Z |
+| back     | 2.35 |   6 |    85.36 | 2023-07-31T02:17:37Z |
 :END:
 
 [[id:d1f735d6-a30b-494f-a536-7042b6fd0329][Branch and bound]]

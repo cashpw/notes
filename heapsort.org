@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cf64c166-6ad5-4dd7-88c6-155a320a7ea3
 :ROAM_REFS: [cite:@Heapsort2022]
-:LAST_MODIFIED: [2023-01-25 Wed 08:41]
+:LAST_MODIFIED: [2023-07-10 Mon 08:31]
 :END:
 #+title: Heapsort
 #+hugo_custom_front_matter: :slug "cf64c166-6ad5-4dd7-88c6-155a320a7ea3"
@@ -44,7 +44,7 @@ In computer science, heapsort is a comparison-based sorting algorithm. Heapsort 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |    98.47 | 2023-05-04T04:02:06Z |
+| front    | 2.50 |   6 |    81.72 | 2023-09-30T08:45:50Z |
 :END:
 
 [[id:cf64c166-6ad5-4dd7-88c6-155a320a7ea3][Heapsort]]

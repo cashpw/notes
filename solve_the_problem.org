@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       b00a62dd-b06c-4943-81d7-140b11e15c8b
 :DIR:      /home/cashweaver/proj/roam/attachments/b00a62dd-b06c-4943-81d7-140b11e15c8b
+:LAST_MODIFIED: [2023-06-05 Mon 20:19]
 :END:
 #+title: Solve the problem
 #+hugo_custom_front_matter: :slug "b00a62dd-b06c-4943-81d7-140b11e15c8b"
@@ -14,6 +15,12 @@ See:
 
 - [cite:@tabacuYouReNotWritingCodeYouReSolvingProblems2020]
 - [cite:@navarroDonJustWriteCodeSolveProblems2021]
+
+#+begin_quote
+Remember that your goal is to solve the problem, not necessarily to write code to solve it. Take the time to understand what already exists—inside and outside your organization—before building something new.
+
+[cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+#+end_quote
 
 [[id:4dc60214-2e6b-45de-bed5-6e2fec793385][Stages of problem solving]]
 

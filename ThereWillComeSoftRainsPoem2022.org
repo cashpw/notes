@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ThereWillComeSoftRains2022]
 :ID:       afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1
-:LAST_MODIFIED: [2023-03-18 Sat 06:44]
+:LAST_MODIFIED: [2023-07-20 Thu 08:20]
 :END:
 #+title: There will come soft rains
 #+hugo_custom_front_matter: :slug "afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1"
@@ -34,10 +34,6 @@ Would scarcely know that we were gone.
 [[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]], [cite:@ThereWillComeSoftRains2022]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Poem :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-09-16T03:10:12Z
@@ -49,16 +45,16 @@ Would scarcely know that we were gone.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    49.73 | 2023-03-28T15:21:04Z |
-|        1 | 2.20 |   6 |    75.20 | 2023-05-14T19:49:09Z |
-|        2 | 1.75 |   5 |    19.37 | 2023-04-01T23:59:39Z |
-|        3 | 1.90 |   5 |    24.68 | 2023-04-11T05:32:37Z |
-|        4 | 2.35 |   4 |    12.98 | 2023-03-24T04:52:09Z |
-|        5 | 2.50 |   3 |     6.00 | 2023-03-20T15:13:15Z |
-|        6 | 2.50 |   3 |     6.00 | 2023-03-21T15:14:10Z |
-|        7 | 2.50 |   1 |     1.00 | 2023-03-19T13:44:24Z |
-|        8 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
-|        9 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+|        0 | 2.20 |   8 |   238.57 | 2024-03-02T13:46:06Z |
+|        1 | 2.20 |   6 |    50.35 | 2023-08-27T23:31:50Z |
+|        2 | 1.45 |   8 |    71.27 | 2023-09-09T02:58:01Z |
+|        3 | 1.75 |   7 |    67.12 | 2023-07-31T17:01:57Z |
+|        4 | 2.05 |   6 |    52.49 | 2023-09-01T03:24:32Z |
+|        5 | 2.50 |   6 |   109.09 | 2023-09-09T22:32:54Z |
+|        6 | 1.45 |   4 |     7.85 | 2023-07-28T11:45:58Z |
+|        7 | 2.20 |   6 |    63.20 | 2023-09-18T18:45:13Z |
+|        8 | 2.20 |   4 |    12.94 | 2023-07-10T14:00:05Z |
+|        9 | 2.50 |   2 |     2.00 | 2023-04-12T15:08:33Z |
 |       10 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
 |       11 |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
 :END:
@@ -96,7 +92,7 @@ Would scarcely know that we were gone.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |  -1 |     0.00 | 2022-11-06T16:50:32Z |
+| front    | 2.50 |   0 |     0.00 | 2023-04-28T22:37:45Z |
 :END:
 
 [[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There will come soft rains]]
@@ -133,7 +129,7 @@ Would scarcely know that we were gone.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    54.49 | 2023-04-20T15:27:41Z |
+| front    | 2.20 |   7 |   128.40 | 2023-09-05T00:16:54Z |
 :END:
 [[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There Will Come Soft Rains (poem)]]
 *** Back

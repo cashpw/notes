@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       efd422ba-2509-48c9-b267-265f3c369462
-:LAST_MODIFIED: [2023-02-07 Tue 14:46]
+:LAST_MODIFIED: [2023-04-13 Thu 06:11]
 :END:
 #+title: Associative array
 #+hugo_custom_front_matter: :slug "efd422ba-2509-48c9-b267-265f3c369462"
@@ -18,10 +18,6 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       cf74b86e-c849-4727-b7d5-2121266275cd
@@ -33,7 +29,7 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   8 |   232.83 | 2023-09-24T12:35:22Z |
-| front    | 2.05 |   6 |    61.20 | 2023-04-10T03:31:23Z |
+| front    | 2.05 |   7 |   113.68 | 2023-08-05T05:26:17Z |
 :END:
 
 [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]

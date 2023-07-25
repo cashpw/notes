@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
 :ID:       7dc661e4-ea71-4280-b6bc-20a32da8b49e
 :ROAM_ALIASES: VMLS "Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"
-:LAST_MODIFIED: [2023-03-14 Tue 07:36]
+:LAST_MODIFIED: [2023-07-20 Thu 08:19]
 :END:
 #+title: Stephen P. Boyd, Lieven Vandenberghe | Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
 #+hugo_custom_front_matter: :slug "7dc661e4-ea71-4280-b6bc-20a32da8b49e"
@@ -24,8 +24,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   5 |    24.28 | 2023-04-06T21:31:46Z |
-| back     | 2.35 |   6 |    81.61 | 2023-05-23T06:24:18Z |
+| front    | 1.30 |   7 |    26.35 | 2023-08-15T23:47:34Z |
+| back     | 2.35 |   7 |   209.89 | 2023-12-20T17:44:43Z |
 :END:
 
 - Stephen Boyd
@@ -47,7 +47,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   9 |   329.66 | 2024-02-07T06:23:32Z |
-|        1 | 2.50 |   8 |   214.15 | 2023-07-17T22:22:21Z |
+|        1 | 2.35 |   9 |   463.77 | 2024-10-24T08:13:12Z |
 :END:
 
 - {{Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares}@0}

@@ -1,0 +1,497 @@
+:PROPERTIES:
+:ID:       06278a18-c5ee-48fb-80af-422c748c610d
+:LAST_MODIFIED: [2023-07-23 Sun 21:06]
+:ROAM_REFS: [cite:@Operators2023]
+:END:
+#+title: Operators in C++
+#+hugo_custom_front_matter: :slug "06278a18-c5ee-48fb-80af-422c748c610d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-04 Thu 16:20]
+#+filetags: :has_todo:concept:
+* =>>= and =<<=
+:PROPERTIES:
+:ID:       3eb13661-f8fc-4e19-9736-f5569efdf854
+:ROAM_ALIASES: "Put-to operator" "Get-from operator" "Stream insertion operator" "Stream extraction operator"
+:END:
+These double angle-brackets are either:
+
+1. Iostreams: "Put-to" (=<<=) or "get-from" (=>>=)
+2. Numbers: Bit-wise left shift (=<<=) and right shift (=>>=)
+
+* Indirection operator
+:PROPERTIES:
+:ID:       f9237075-e0c0-4edc-88ca-efcd846e6f5f
+:ROAM_ALIASES: "Dereference operator"
+:END:
+
+The indirection, or dereference, operator is the asterisk (=*=).
+
+#+begin_src C++
+#include<iostream>
+
+int foo() {
+  int a = 5;
+  int* b = &a;
+
+  return *b;
+}
+
+int main() {
+  std::cout << foo();
+}
+
+#+end_src
+
+#+RESULTS:
+: 5
+
+* Address-of operator
+:PROPERTIES:
+:ID:       12bb4a4e-1d5d-41c7-b790-e135b3715a76
+:END:
+
+The address-of operator is ampersand (=&=).
+
+#+begin_src C++
+#include<iostream>
+
+int foo() {
+  int a = 5;
+  int* b = &a;
+
+  return *b;
+}
+
+int main() {
+  std::cout << foo();
+}
+
+#+end_src
+
+* Scope resolution operator
+:PROPERTIES:
+:ID:       858e4265-986f-402c-b6a0-c7194b19e12f
+:END:
+
+The scope resolution operator is =::=.
+
+* Structured binding
+:PROPERTIES:
+:ID:       986d71fd-c44f-4cd8-899f-9701f75d6c06
+:END:
+
+Structured binding uses =auto= and =[]=:
+
+#+begin_src C++
+struct Cat {
+  int weight_in_lbs;
+  int age;
+};
+
+Cat Foo() { ... }
+
+auto [weight, age] = Foo();
+#+end_src
+
+* TODO [#2] Flashcards
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:24]
+:FC_CREATED: 2023-05-04T23:26:53Z
+:FC_TYPE:  double
+:ID:       cb4ba523-083f-449e-a1fc-df9c6c72007a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    34.28 | 2023-07-19T20:08:02Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-04T23:26:53Z |
+:END:
+
+Bitwise left shift operator (C++)
+
+*** Back
+=<<= in the following:
+
+#+begin_src C++
+int foo(int bar) {
+  return bar << 1;
+}
+#+end_src
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:26]
+:FC_CREATED: 2023-05-04T23:28:36Z
+:FC_TYPE:  double
+:ID:       fb52daac-5cb5-49d8-ae9f-1a9f8b228781
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 1.90 |   1 |     1.00 | 2023-07-25T04:06:11Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-04T23:28:36Z |
+:END:
+
+[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Put-to operator]] (C++)
+
+*** Back
+=<<= in the following:
+
+#+begin_src C++
+import std;
+
+int main() {
+  std::cout << "Foo";
+}
+#+end_src
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:26]
+:FC_CREATED: 2023-05-04T23:28:36Z
+:FC_TYPE:  double
+:ID:       9210ce46-daf8-4a47-b429-73f362ba4c74
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    12.98 | 2023-07-28T13:47:53Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-04T23:28:36Z |
+:END:
+
+[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Get-from operator]]
+
+*** Back
+=>>= in the following:
+
+#+begin_src C++
+import std;
+
+int main() {
+  int foo;
+  std::cin >> foo;
+
+  return foo;
+}
+#+end_src
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:31]
+:FC_CREATED: 2023-05-04T23:31:57Z
+:FC_TYPE:  cloze
+:ID:       20402a02-cecb-48a4-9c3d-b26a2743e5f8
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   5 |    33.30 | 2023-08-25T10:50:51Z |
+|        1 |  2.5 |  -1 |        0 | 2023-05-04T23:31:57Z |
+:END:
+
+- {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Get-from operator]]}@0}
+- {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Stream extraction operator]]}@1}
+
+*** Source
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-05-04 Thu 16:31]
+:FC_CREATED: 2023-05-04T23:34:22Z
+:FC_TYPE:  cloze
+:ID:       54c0c095-8a43-4443-a270-14f2c2ef5aca
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   4 |    14.24 | 2023-07-25T18:51:58Z |
+|        1 |  2.5 |  -1 |        0 | 2023-05-04T23:34:22Z |
+:END:
+
+- {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Put-to operator]]}@0}
+- {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Stream insertion operator]]}@1}
+
+*** Source
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-05 Fri 08:12]
+:FC_CREATED: 2023-05-05T15:14:12Z
+:FC_TYPE:  double
+:ID:       b5011993-0762-4a10-a7ab-a4520301f224
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   5 |    26.37 | 2023-08-12T22:45:52Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-05T15:14:13Z |
+:END:
+
+[[id:f9237075-e0c0-4edc-88ca-efcd846e6f5f][Indirection operator]] (C++)
+
+*** Back
+=*= in the following:
+
+#+begin_src C++
+int main() {
+  int a = 4;
+  int* b;
+  b = &a;
+
+  return *b;
+}
+#+end_src
+
+#+RESULTS:
+
+*** Source
+[cite:@Operators2023]
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-05-05 Fri 08:14]
+:FC_CREATED: 2023-05-05T15:14:31Z
+:FC_TYPE:  cloze
+:ID:       a125b3c6-cab8-4041-9ff8-11daf0402fa5
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   0 |     0.00 | 2023-07-23T03:34:54Z |
+|        1 |  2.5 |  -1 |        0 | 2023-05-05T15:14:31Z |
+:END:
+
+- {{[[id:f9237075-e0c0-4edc-88ca-efcd846e6f5f][Indirection operator]]}@0}
+- {{[[id:f9237075-e0c0-4edc-88ca-efcd846e6f5f][Dereference operator]]}@1}
+
+*** Source
+[cite:@Operators2023]
+** Denotes
+:PROPERTIES:
+:CREATED: [2023-05-05 Fri 08:20]
+:END:
+
+[[id:12bb4a4e-1d5d-41c7-b790-e135b3715a76][Address-of operator]]
+
+*** Back
+=&= in the following:
+
+#+begin_src C++
+int main() {
+  int a = 4;
+  int* b;
+  b = &a;
+
+  return *b;
+}
+#+end_src
+*** Source
+[cite:@Operators2023]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:35]
+:FC_CREATED: 2023-05-11T15:36:27Z
+:FC_TYPE:  double
+:ID:       ff0aa609-343b-4fee-af43-a93629c03451
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    35.69 | 2023-08-19T05:52:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-11T15:36:27Z |
+:END:
+
+=[]= in the following:
+
+#+begin_src C++
+char v[6];
+#+end_src
+
+*** Back
+(C++) Array of
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:36]
+:FC_CREATED: 2023-05-11T15:37:08Z
+:FC_TYPE:  double
+:ID:       fc20419b-8b93-4144-801e-28df22ab76ed
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-22T13:57:49Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-11T15:37:08Z |
+:END:
+
+=*= in:
+
+#+begin_src C++
+char* p;
+#+end_src
+
+*** Back
+(C++) pointer to
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:38]
+:FC_CREATED: 2023-05-11T15:38:30Z
+:FC_TYPE:  double
+:ID:       14383d36-ec7b-4453-92db-21c1a9866434
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    13.68 | 2023-07-28T05:33:11Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-11T15:38:30Z |
+:END:
+
+=*= in:
+
+#+begin_src C++
+char x = *p;
+#+end_src
+
+*** Back
+(C++) contents of
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:40]
+:FC_CREATED: 2023-05-11T15:40:41Z
+:FC_TYPE:  double
+:ID:       cad0a770-f921-4f0f-98d0-2dabd6d35048
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    14.67 | 2023-07-22T16:12:42Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-11T15:40:41Z |
+:END:
+
+=&= in:
+
+#+begin_src C++
+char* p = &v[1];
+#+end_src
+
+*** Back
+(C++) Address of
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:42]
+:FC_CREATED: 2023-05-11T15:44:24Z
+:FC_TYPE:  double
+:ID:       3ed8b3a6-75df-4fe6-835b-5c4eb37f2331
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.20 |   3 |     6.00 | 2023-07-20T13:03:47Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-11T15:44:24Z |
+:END:
+
+=&= in:
+
+#+begin_src C++
+char& p = v[5];
+#+end_src
+
+*** Back
+(C++) Reference to
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:45]
+:FC_CREATED: 2023-05-11T15:47:50Z
+:FC_TYPE:  double
+:ID:       2cb86cc4-318e-46c7-8575-7942401d9e1a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-07-21T13:40:15Z |
+| back     | 2.50 |   1 |     1.00 | 2023-07-21T15:17:24Z |
+:END:
+
+Function definition with an argument which isn't copied, but also isn't modified.
+
+*** Back
+#+begin_src C++
+void sort(const std::vector<double>& numbers);
+#+end_src
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:51]
+:FC_CREATED: 2023-05-11T16:51:29Z
+:FC_TYPE:  double
+:ID:       4bb06d73-67ab-4f28-a3e2-667619a0ebf3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    31.05 | 2023-08-18T14:48:25Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-11T16:51:29Z |
+:END:
+
+[[id:858e4265-986f-402c-b6a0-c7194b19e12f][Scope resolution operator]]
+
+*** Back
+=::=
+*** Source
+[cite:@stroustrupTour2022]
+** Denotes :fc:
+:PROPERTIES:
+:CREATED: [2023-05-12 Fri 12:14]
+:FC_CREATED: 2023-05-12T19:14:53Z
+:FC_TYPE:  double
+:ID:       71bbaaf1-6262-4f4a-821e-f92e9baaf6da
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   4 |    16.30 | 2023-07-24T22:07:44Z |
+| back     |  2.5 |  -1 |        0 | 2023-05-12T19:14:53Z |
+:END:
+
+[[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]]
+
+*** Back
+=auto [var1, var2, ...]=
+*** Source
+[cite:@StructuredBindingDeclaration17]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-05-12 Fri 12:15]
+:FC_CREATED: 2023-05-12T19:16:18Z
+:FC_TYPE:  normal
+:ID:       a120eb4d-a16c-481a-974c-b8d87aeb3544
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   3 |     6.00 | 2023-07-09T01:16:39Z |
+:END:
+
+- [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]] (C++)
+- Destructured binding (Javascript)
+
+*** Back
+- [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]]: highlights the concept of binding or associating variables with structured data types, such as tuples, pairs, or user-defined types.
+- Destructured binding: emphasizes the idea of breaking down or deconstructing complex data structures, such as arrays or objects, into individual variables.
+*** Source
+ChatGPT
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       650501e5-3253-46a2-8795-cf09c86edf16
-:LAST_MODIFIED: [2023-03-14 Tue 08:08]
+:LAST_MODIFIED: [2023-05-26 Fri 07:34]
 :END:
 #+title: Boring fundamentals
 #+hugo_custom_front_matter: :slug "650501e5-3253-46a2-8795-cf09c86edf16"
@@ -28,7 +28,7 @@ For any endeavor, there are a set of basic skills needed to build a strong found
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   101.79 | 2023-05-25T12:37:40Z |
+| front    | 2.80 |   7 |   310.32 | 2024-03-31T22:12:29Z |
 | back     | 2.95 |   6 |   169.69 | 2023-08-31T07:42:47Z |
 :END:
 
@@ -48,8 +48,8 @@ The set of basic habits, routines, practices, etc, one needs to build a strong f
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    81.96 | 2023-04-26T15:27:48Z |
-| back     | 2.50 |   6 |    75.70 | 2023-05-09T07:38:35Z |
+| front    | 2.50 |   7 |   200.57 | 2023-11-17T08:35:58Z |
+| back     | 2.50 |   7 |   172.55 | 2023-10-30T05:21:07Z |
 :END:
 
 [[id:650501e5-3253-46a2-8795-cf09c86edf16][Boring fundamentals]]

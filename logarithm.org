@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       68df1a7c-9c9f-42f1-b270-56ab4b51e214
 :ROAM_REFS: [cite:@Logarithm2022]
-:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:LAST_MODIFIED: [2023-07-11 Tue 06:07]
 :END:
 #+title: Logarithm
 #+hugo_custom_front_matter: :slug "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
@@ -55,7 +55,7 @@ $f(x) = \log_b(x)$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   9 |   277.47 | 2023-11-11T08:43:44Z |
-|        1 | 2.65 |   7 |   140.78 | 2023-03-27T16:45:40Z |
+|        1 | 2.65 |   8 |   360.04 | 2024-03-23T04:09:31Z |
 :END:
 
 - {{$\operatorname{ln}(x)$}@0}
@@ -75,7 +75,7 @@ $f(x) = \log_b(x)$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   9 |   324.42 | 2024-02-03T01:20:01Z |
-| front    | 2.35 |   7 |   134.64 | 2023-03-22T06:18:35Z |
+| front    | 2.35 |   8 |   318.47 | 2024-02-04T01:06:21Z |
 :END:
 
 Logarithm
@@ -99,7 +99,7 @@ $f(x) = y \;|\; b^y = x$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |  10 |   288.10 | 2023-12-18T19:50:58Z |
-| front    | 2.65 |   8 |   193.51 | 2023-06-14T10:18:13Z |
+| front    | 2.50 |   5 |    39.07 | 2023-08-19T14:50:36Z |
 :END:
 
 Logarithm change of basis
@@ -109,24 +109,23 @@ $\operatorname{log}_b(a) =$ $\frac{\operatorname{log}_c(a)}{\operatorname{log}_c
 
 *** Source
 [cite:@Logarithm2022]
-** Denotes :fc:
+** Equivalence :fc:
 :PROPERTIES:
 :CREATED: [2023-02-07 Tue 09:50]
 :FC_CREATED: 2023-02-07T17:51:02Z
-:FC_TYPE:  double
+:FC_TYPE:  cloze
 :ID:       1ef2b733-7305-46d5-8410-b8a78e296c8c
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    50.14 | 2023-04-30T08:35:52Z |
-| back     | 2.65 |   5 |    41.17 | 2023-04-22T04:21:49Z |
+|        0 | 2.95 |   6 |   146.30 | 2023-09-30T00:48:27Z |
+|        1 | 2.65 |   6 |    98.28 | 2023-08-15T23:28:45Z |
 :END:
 
-$\log^cn$
+{{$\log^cn$}@0} $=$ {{$(\log n)^c$}@1}
 
-*** Back
-$(\log n)^c$
 *** Source
-
 #+print_bibliography:

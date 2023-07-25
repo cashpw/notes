@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       548362c8-b5a6-4d50-b459-543d321e49b6
 :ROAM_REFS: [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
-:LAST_MODIFIED: [2023-02-22 Wed 06:56]
+:LAST_MODIFIED: [2023-06-18 Sun 07:15]
 :END:
 #+title: Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee
 #+hugo_custom_front_matter: :slug "548362c8-b5a6-4d50-b459-543d321e49b6"
@@ -165,8 +165,8 @@ Your strategy for picking a place to work is similar to an exec's. You either ne
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    51.93 | 2023-03-23T01:13:57Z |
-| back     | 2.95 |   5 |    52.59 | 2023-03-26T06:35:28Z |
+| front    | 2.80 |   6 |   145.93 | 2023-08-17T16:25:12Z |
+| back     | 3.10 |   6 |   159.85 | 2023-09-02T09:58:15Z |
 :END:
 
 The three career paths in the tech industry as defined by Michael Seibel
@@ -188,7 +188,7 @@ The three career paths in the tech industry as defined by Michael Seibel
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    74.55 | 2023-04-28T06:53:58Z |
+| front    | 2.50 |   7 |   178.84 | 2023-10-27T19:42:55Z |
 :END:
 
 [[id:d9db2f68-9973-472e-800d-a995192a140d][Founder (Tech career pathway)]]
@@ -207,7 +207,7 @@ Create a new product/business/etc
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   110.39 | 2023-06-07T12:34:41Z |
+| front    | 2.80 |   7 |   278.97 | 2024-03-12T14:16:47Z |
 :END:
 
 [[id:a8fc0ec0-b94d-43e5-a63b-3db551f169cf][Executive (Tech career pathway)]]
@@ -226,13 +226,13 @@ Drive one or many, but not all, aspect(s) of an existing product/business/etc
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   115.08 | 2023-06-17T16:53:13Z |
+| front    | 2.80 |   7 |   315.03 | 2024-04-28T14:58:50Z |
 :END:
 
 [[id:8e8097dd-4312-45ed-b3f7-5e1dfea2007b][Employee (Tech career pathway)]]
 
 *** Back
-Work on an aspect of an existing product/business/etc under the direction of an Executive
+Work on an aspect of an existing product/business/etc under the direction of an [[id:a8fc0ec0-b94d-43e5-a63b-3db551f169cf][Executive (Tech career pathway)]].
 *** Source
 [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
 #+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       976fb83d-ae8c-427d-b47e-f0089b4d9ce1
 :ROAM_ALIASES: "Symbolic expressions" S-expression Sexp
-:LAST_MODIFIED: [2023-02-08 Wed 10:47]
+:LAST_MODIFIED: [2023-05-08 Mon 10:13]
 :END:
 #+title: Symbolic expression
 #+hugo_custom_front_matter: :slug "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
@@ -45,9 +45,9 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   126.05 | 2023-05-08T05:24:13Z |
-|        1 | 2.50 |   6 |    98.32 | 2023-04-26T23:13:48Z |
-|        2 | 2.50 |   6 |    75.97 | 2023-04-25T17:58:21Z |
+|        0 | 2.95 |   7 |   408.82 | 2024-06-20T12:49:28Z |
+|        1 | 2.50 |   7 |   243.38 | 2023-12-30T03:52:01Z |
+|        2 | 2.50 |   7 |   185.99 | 2023-11-05T21:26:59Z |
 :END:
 
 - {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expression]]}@0}
@@ -68,7 +68,7 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   6 |    84.45 | 2023-04-11T12:53:57Z |
+| back     | 2.35 |   7 |   181.31 | 2023-10-09T23:43:07Z |
 | front    | 2.20 |   7 |   223.47 | 2023-09-02T01:38:18Z |
 :END:
 

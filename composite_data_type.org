@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       0eac6e8a-c3d2-4de0-940a-b88479180e72
+:LAST_MODIFIED: [2023-07-11 Tue 06:08]
+:ROAM_REFS: [cite:@CompositeDataType2023]
+:END:
+#+title: Composite data type
+#+hugo_custom_front_matter: :slug "0eac6e8a-c3d2-4de0-940a-b88479180e72"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-11 Thu 10:07]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a composite data type or compound data type is any data type which can be constructed in a program using the programming language's primitive data types and other composite types.
+
+[cite:@CompositeDataType2023]
+#+end_quote
+
+#+begin_quote
+A struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] is C's and C++'s notion of a composite type, a datatype that composes a fixed set of labeled fields or members. It is so called because of the struct keyword used in declaring them, which is short for structure or, more precisely, user-defined data structure.
+
+[cite:@CompositeDataType2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 10:10]
+:FC_CREATED: 2023-05-11T17:11:37Z
+:FC_TYPE:  double
+:ID:       1db4d161-9eb0-4af8-8636-730e7e342b2f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    76.69 | 2023-09-25T08:11:10Z |
+| back     | 2.20 |   6 |    72.22 | 2023-09-21T18:23:01Z |
+:END:
+
+[[id:0eac6e8a-c3d2-4de0-940a-b88479180e72][Composite data type]]
+
+*** Back
+A data type composed of the programming language's primitive data types, and other [...].
+*** Source
+[cite:@CompositeDataType2023]
+#+print_bibliography:

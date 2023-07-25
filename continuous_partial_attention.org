@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ae7e202d-cab1-4ccf-8041-e76d39f7f698
 :ROAM_REFS: [cite:@ContinuousPartialAttention2022]
-:LAST_MODIFIED: [2023-02-18 Sat 08:59]
+:LAST_MODIFIED: [2023-05-22 Mon 06:47]
 :END:
 #+title: Continuous partial attention
 #+hugo_custom_front_matter: :slug "ae7e202d-cab1-4ccf-8041-e76d39f7f698"
@@ -26,7 +26,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    92.04 | 2023-05-21T17:54:04Z |
+| front    | 2.50 |   7 |   229.81 | 2024-01-07T09:17:17Z |
 :END:
 
 Multi-tasking and [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]

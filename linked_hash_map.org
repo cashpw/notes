@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       16e87858-5bed-40b3-830b-b2596f4d20b4
-:LAST_MODIFIED: [2023-01-22 Sun 08:58]
+:LAST_MODIFIED: [2023-06-30 Fri 18:32]
 :END:
 #+title: Linked hash map
 #+hugo_custom_front_matter: :slug "16e87858-5bed-40b3-830b-b2596f4d20b4"
@@ -23,8 +23,8 @@ A [[id:16e87858-5bed-40b3-830b-b2596f4d20b4][Linked hash map]] is a [[id:b8f1337
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 3.10 |   6 |   144.54 | 2023-06-01T04:16:13Z |
-|        1 | 2.20 |   6 |    65.66 | 2023-03-29T08:44:41Z |
+|        0 | 2.80 |   5 |    46.34 | 2023-08-16T09:44:44Z |
+|        1 | 2.20 |   7 |   142.55 | 2023-08-19T04:13:54Z |
 :END:
 
 - {{[[id:16e87858-5bed-40b3-830b-b2596f4d20b4][Linked hash map]]}@0}

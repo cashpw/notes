@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ec797dab-adc7-4a83-bc31-7daeab0d4ffc
 :ROAM_REFS: [cite:@PerfectInformation2022]
-:LAST_MODIFIED: [2023-03-13 Mon 07:54]
+:LAST_MODIFIED: [2023-06-17 Sat 21:08]
 :END:
 #+title: Perfect information
 #+hugo_custom_front_matter: :slug "ec797dab-adc7-4a83-bc31-7daeab0d4ffc"
@@ -32,7 +32,7 @@ Also see [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], [[id:f9c7b1f9
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   126.20 | 2023-06-17T04:34:36Z |
+| front    | 2.80 |   7 |   368.69 | 2024-06-20T20:42:27Z |
 | back     | 2.95 |   6 |   177.75 | 2023-09-07T08:49:33Z |
 :END:
 
@@ -53,8 +53,8 @@ Also see [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], [[id:f9c7b1f9
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    94.21 | 2023-04-17T21:25:26Z |
-| back     | 2.50 |   6 |    88.29 | 2023-05-07T01:32:46Z |
+| front    | 2.50 |   7 |   217.07 | 2023-12-02T16:18:15Z |
+| back     | 2.35 |   7 |   192.32 | 2023-11-18T00:30:00Z |
 :END:
 
 [[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]
@@ -73,7 +73,7 @@ A game in which each player is informed of all the events which have previously 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   129.41 | 2023-06-09T02:09:43Z |
+| front    | 2.80 |   7 |   371.13 | 2024-06-14T18:38:13Z |
 :END:
 
 - [[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]

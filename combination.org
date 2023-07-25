@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       39eb3ed8-8d95-4f99-9595-de8683301288
 :ROAM_REFS: [cite:@Combination2023]
-:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:LAST_MODIFIED: [2023-06-29 Thu 13:39]
 :END:
 #+title: Combination
 #+hugo_custom_front_matter: :slug "39eb3ed8-8d95-4f99-9595-de8683301288"
@@ -30,8 +30,8 @@ Also see: [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-03-16T15:02:49Z |
-| back     | 2.50 |   1 |     1.00 | 2023-03-16T15:14:33Z |
+| front    | 2.65 |   6 |   118.80 | 2023-09-26T11:29:13Z |
+| back     | 1.90 |   6 |    40.79 | 2023-08-09T15:40:33Z |
 :END:
 
 [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]

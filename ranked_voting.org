@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7f753c5a-aba6-4128-9434-b27d5e960145
-:LAST_MODIFIED: [2023-03-15 Wed 08:13]
+:LAST_MODIFIED: [2023-06-02 Fri 07:23]
 :ROAM_ALIASES: "Ranked choice voting" "Preferential voting"
 :END:
 #+title: Ranked voting
@@ -25,8 +25,8 @@ The term ranked voting, also known as preferential voting or ranked choice votin
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    43.89 | 2023-03-24T15:40:57Z |
-| back     | 2.35 |   6 |    78.49 | 2023-06-02T03:04:50Z |
+| front    | 2.65 |   6 |   123.96 | 2023-07-26T16:49:06Z |
+| back     | 2.35 |   7 |   166.67 | 2023-11-16T06:31:41Z |
 :END:
 
 [[id:7f753c5a-aba6-4128-9434-b27d5e960145][Ranked voting]]

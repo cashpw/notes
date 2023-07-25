@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       734b5d37-a342-4dbe-9e6a-e63df297433a
-:LAST_MODIFIED: [2023-03-03 Fri 05:49]
+:LAST_MODIFIED: [2023-07-10 Mon 08:46]
 :END:
 #+title: Second place
 #+hugo_custom_front_matter: :slug "734b5d37-a342-4dbe-9e6a-e63df297433a"
@@ -26,8 +26,8 @@ The "second place" is the workplace—where people may actually spend most of th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    77.35 | 2023-04-29T23:55:39Z |
-| back     | 2.65 |   6 |   101.25 | 2023-06-12T19:44:13Z |
+| front    | 2.50 |   7 |   180.14 | 2023-10-27T21:59:17Z |
+| back     | 2.35 |   5 |    34.26 | 2023-08-13T21:59:00Z |
 :END:
 
 [[id:734b5d37-a342-4dbe-9e6a-e63df297433a][Second place]]

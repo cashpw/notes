@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8e50c265-f020-4b20-bf7f-f7a3ce818bba
 :ROAM_ALIASES: Ems
-:LAST_MODIFIED: [2023-03-17 Fri 07:08]
+:LAST_MODIFIED: [2023-06-12 Mon 17:16]
 :END:
 #+title: Em
 #+hugo_custom_front_matter: :slug "8e50c265-f020-4b20-bf7f-f7a3ce818bba"
@@ -15,7 +15,7 @@ Ems are copies of human minds which exist on computers in [[id:6d55a204-cace-464
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Definition :fc:
+** Definition :fc:suspended:
 :PROPERTIES:
 :CREATED: [2022-09-28 Wed 07:34]
 :FC_CREATED: 2022-09-28T14:35:10Z
@@ -26,7 +26,7 @@ Ems are copies of human minds which exist on computers in [[id:6d55a204-cace-464
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   162.93 | 2023-08-27T12:26:50Z |
-| back     | 2.80 |   6 |   121.94 | 2023-06-12T22:28:14Z |
+| back     | 2.65 |   7 |   310.66 | 2024-04-18T16:03:21Z |
 :END:
 
 [[id:8e50c265-f020-4b20-bf7f-f7a3ce818bba][Em]]

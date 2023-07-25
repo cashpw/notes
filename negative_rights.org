@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310
 :ROAM_ALIASES: "Negative right"
-:LAST_MODIFIED: [2023-03-09 Thu 19:20]
+:LAST_MODIFIED: [2023-07-13 Thu 17:57]
 :END:
 #+title: Negative rights
 #+hugo_custom_front_matter: :slug "7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310"
@@ -27,7 +27,7 @@ Also see [[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]].
 :ANKI_DECK: Default
 :END:
 
-** Definition :fc:
+** [[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative right]] :fc:
 :PROPERTIES:
 :ID:       2f017ed5-50ca-4c4a-a209-1615b70bb19a
 :ANKI_NOTE_ID: 1658594948131
@@ -38,12 +38,8 @@ Also see [[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   8 |   294.83 | 2023-12-29T23:16:41Z |
-| front    | 2.50 |   7 |   194.83 | 2023-07-13T10:15:45Z |
+| front    | 2.35 |   8 |   426.40 | 2024-09-12T10:39:36Z |
 :END:
-
-[[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative right]]
-
-*** Back
 A right that obliges inaction.
 
 *** Extra
@@ -62,7 +58,7 @@ Example: Freedom of speech
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    90.31 | 2023-04-08T23:01:33Z |
+| front    | 2.50 |   7 |   212.92 | 2023-11-08T13:38:23Z |
 | back     | 2.80 |   7 |   246.43 | 2023-08-29T01:35:44Z |
 :END:
 

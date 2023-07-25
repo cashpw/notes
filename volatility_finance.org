@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6e33b36-3854-48be-9d20-a3ce8b42ebe6
-:LAST_MODIFIED: [2023-03-05 Sun 08:56]
+:LAST_MODIFIED: [2023-07-07 Fri 17:19]
 :END:
 #+title: Volatility (finance)
 #+hugo_custom_front_matter: :slug "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
@@ -27,15 +27,15 @@ Historic volatility measures a time series of past market prices. [[id:7b2744d7-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   7 |    66.67 | 2023-05-06T20:21:59Z |
-| back     | 2.65 |   6 |   124.06 | 2023-07-07T18:18:33Z |
+| front    | 1.75 |   8 |   108.04 | 2023-08-25T17:46:18Z |
+| back     | 2.65 |   7 |   327.52 | 2024-05-30T12:44:42Z |
 :END:
 
 $\sigma$
 
 *** Back
 
-- [[id:c6e33b36-3854-48be-9d20-a3ce8b42ebe6][Volatility (finance)]]
+[[id:c6e33b36-3854-48be-9d20-a3ce8b42ebe6][Volatility (finance)]]
 *** Source
 [cite:@VolatilityFinance2022]
 ** Describe :fc:
@@ -48,8 +48,8 @@ $\sigma$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   7 |    54.15 | 2023-04-12T05:16:13Z |
-| back     | 2.65 |   6 |   101.94 | 2023-06-12T14:35:20Z |
+| front    | 1.90 |   8 |   104.65 | 2023-07-27T04:50:31Z |
+| back     | 2.65 |   7 |   258.48 | 2024-02-26T11:42:26Z |
 :END:
 
 [[id:c6e33b36-3854-48be-9d20-a3ce8b42ebe6][Volatility (finance)]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5a824b91-5b0e-4e8e-9946-c7bd0d17d202
-:LAST_MODIFIED: [2023-02-20 Mon 13:18]
+:LAST_MODIFIED: [2023-06-26 Mon 09:22]
 :END:
 #+title: Learned blankness
 #+hugo_custom_front_matter: :slug "5a824b91-5b0e-4e8e-9946-c7bd0d17d202"
@@ -29,8 +29,8 @@ Related: [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   124.48 | 2023-06-20T03:36:20Z |
-| back     | 2.20 |   6 |    78.80 | 2023-05-10T16:25:18Z |
+| front    | 2.80 |   7 |   375.35 | 2024-06-29T23:40:00Z |
+| back     | 1.75 |   6 |    27.54 | 2023-07-24T05:18:02Z |
 :END:
 
 [[id:5a824b91-5b0e-4e8e-9946-c7bd0d17d202][Learned blankness]]

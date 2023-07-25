@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       966f6682-54bf-4958-816c-fcd7482ccf79
 :DIR:      /home/cashweaver/proj/roam/attachments/966f6682-54bf-4958-816c-fcd7482ccf79
-:LAST_MODIFIED: [2023-02-13 Mon 06:13]
+:LAST_MODIFIED: [2023-05-24 Wed 13:18]
 :END:
 #+title: The periphery is where the future reveals itself
 #+hugo_custom_front_matter: :slug "966f6682-54bf-4958-816c-fcd7482ccf79"
@@ -16,9 +16,6 @@ The periphery is where the future reveals itself.
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** The {{periphery}@0} {{is where the future reveals itself}@1} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-16 Wed 09:46]
@@ -31,6 +28,6 @@ The periphery is where the future reveals itself.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   106.02 | 2023-05-24T18:48:34Z |
-|        1 | 2.50 |   6 |    81.84 | 2023-05-06T10:21:46Z |
+|        0 | 2.50 |   7 |   282.26 | 2024-03-02T02:26:19Z |
+|        1 | 2.50 |   7 |   210.10 | 2023-12-05T19:19:39Z |
 :END:

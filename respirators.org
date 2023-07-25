@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       abfd840c-6815-4565-91bd-4b58661b9b62
-:LAST_MODIFIED: [2023-03-15 Wed 08:14]
+:LAST_MODIFIED: [2023-07-05 Wed 21:11]
 :END:
 #+title: Respirators
 #+hugo_custom_front_matter: :slug "abfd840c-6815-4565-91bd-4b58661b9b62"
@@ -90,8 +90,8 @@ See [[id:7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f][Use the right respirator]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    34.45 | 2023-04-06T02:36:06Z |
-|        1 | 2.65 |   5 |    42.94 | 2023-04-26T13:41:10Z |
+|        0 | 2.35 |   7 |   205.42 | 2024-01-27T14:19:23Z |
+|        1 | 2.65 |   6 |   105.50 | 2023-08-20T05:45:07Z |
 :END:
 
 ([[id:abfd840c-6815-4565-91bd-4b58661b9b62][Respirators]]) {{N}@0} stands for {{not resistant to oil}@1}
@@ -110,8 +110,8 @@ See [[id:7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f][Use the right respirator]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    47.36 | 2023-04-22T01:50:43Z |
-|        1 | 2.65 |   5 |    44.21 | 2023-04-21T23:31:37Z |
+|        0 | 2.65 |   6 |   114.56 | 2023-08-23T08:01:13Z |
+|        1 | 2.65 |   6 |   109.79 | 2023-08-27T11:45:29Z |
 :END:
 
 ([[id:abfd840c-6815-4565-91bd-4b58661b9b62][Respirators]]) {{R}@0} stands for {{resistant to oil}@1}
@@ -130,8 +130,8 @@ See [[id:7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f][Use the right respirator]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    51.62 | 2023-04-30T17:51:03Z |
-|        1 | 2.80 |   5 |    47.06 | 2023-05-01T16:45:19Z |
+|        0 | 2.80 |   6 |   149.78 | 2023-09-28T18:13:01Z |
+|        1 | 2.65 |   6 |   120.28 | 2023-09-07T22:34:08Z |
 :END:
 
 ([[id:abfd840c-6815-4565-91bd-4b58661b9b62][Respirators]]) {{P}@0} stands for {{oil proof}@1}

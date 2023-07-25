@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cd489e76-6e0a-45f7-a8d0-e197989fb436
 :ROAM_REFS: [cite:@Velocity2022]
-:LAST_MODIFIED: [2023-03-11 Sat 16:25]
+:LAST_MODIFIED: [2023-05-09 Tue 09:51]
 :END:
 #+title: Velocity
 #+hugo_custom_front_matter: :slug "cd489e76-6e0a-45f7-a8d0-e197989fb436"
@@ -41,8 +41,8 @@ See [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    46.04 | 2023-04-25T03:53:04Z |
-| back     | 2.50 |   5 |    38.94 | 2023-04-19T22:53:56Z |
+| front    | 2.80 |   6 |   126.16 | 2023-09-02T18:26:13Z |
+| back     | 2.50 |   6 |    96.19 | 2023-08-13T21:27:48Z |
 :END:
 
 [[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]]
@@ -64,7 +64,7 @@ See [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    47.62 | 2023-04-25T09:21:37Z |
+|        0 | 2.80 |   6 |   124.80 | 2023-08-31T17:47:53Z |
 :END:
 
 {{Speed and direction}@0} define velocity.
@@ -83,8 +83,8 @@ See [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    38.50 | 2023-04-03T15:59:38Z |
-|        1 | 2.80 |   5 |    41.32 | 2023-04-16T01:06:32Z |
+|        0 | 2.80 |   6 |   111.70 | 2023-07-26T09:17:03Z |
+|        1 | 2.80 |   6 |   115.76 | 2023-08-30T11:51:58Z |
 :END:
 
 {{[[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]] ($v$)}@0} $=$ {{$\lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}$}@1}

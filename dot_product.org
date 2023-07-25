@@ -2,7 +2,7 @@
 :ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
 :ROAM_ALIASES: "Scalar product"
 :ROAM_REFS: [cite:@DotProduct2022]
-:LAST_MODIFIED: [2023-03-17 Fri 06:54]
+:LAST_MODIFIED: [2023-07-24 Mon 11:54]
 :END:
 #+title: Dot product
 #+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
@@ -30,8 +30,8 @@ The dot product of two vectors defines the lengths of, and angle between, the tw
 
 $\vec{a} \cdot \vec{b} = \|a\|\|b\|\cos \theta$
 
-- Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
-- Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+- Vector length: $\lVert\vec{x}\rVert$ $=$ $\sqrt{\vec{x} \cdot \vec{x}}$
+- Angles (where $\theta$ is the angle between $\vec{x}$ and $\vec{y}$): $\cos(\theta) = \frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}$
 
 * Flashcards
 :PROPERTIES:
@@ -49,7 +49,7 @@ $\vec{a} \cdot \vec{b} = \|a\|\|b\|\cos \theta$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |  13 |   187.87 | 2023-06-14T13:38:31Z |
+|        0 | 2.50 |  14 |   471.87 | 2024-09-28T21:37:17Z |
 |        1 | 2.20 |   9 |   286.75 | 2023-12-12T22:13:04Z |
 :END:
 - {{[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]}@0}
@@ -90,7 +90,7 @@ $\vec{a} \cdot \vec{b} = \|a\|\|b\|\cos \theta$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    43.87 | 2023-04-30T10:46:30Z |
+| front    | 2.65 |   6 |   117.15 | 2023-08-27T03:12:41Z |
 | back     | 2.50 |   8 |   245.82 | 2023-09-29T10:00:39Z |
 :END:
 
@@ -101,17 +101,17 @@ The sum of the products of the corresponding entries of the two sequences of num
 
 We can express it:
 
-- Algebraic: \(\vec{a} \cdot \vec{b} = (a * c) + (b * d)\)
-- Geometric: \(\vec{a} \cdot \vec{b} = \lVert\vec{a}\rVert \lVert\vec{b}\rVert \cos(\theta)\)
+- Algebraic: $\vec{a} \cdot \vec{b} = (a * c) + (b * d)$
+- Geometric: $\vec{a} \cdot \vec{b} = \lVert\vec{a}\rVert \lVert\vec{b}\rVert \cos(\theta)$
 
 It defines:
 
-- Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
-- Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+- Vector length: $\lVert\vec{x}\rVert = \sqrt{\vec{x} \cdot \vec{x}}$
+- Angles (where $\theta$ is the angle between $\vec{x}$ and $\vec{y}$): $\cos(\theta) = \frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}$
 *** Source
 [cite:@DotProduct2022]
 
-** {{$\(\lVert\vec{x}\rVert$}@0} \(=\) {{$\(\sqrt{\vec{x} \cdot \vec{x}}$}{no summation}@1} :fc:
+** {{$\lVert\vec{x}\rVert$}@0} $=$ {{$\sqrt{\vec{x} \cdot \vec{x}}$}{no summation}@1} :fc:
 :PROPERTIES:
 :ID:       9e4d93e2-a60a-4531-8c22-9f22daab0e1f
 :ANKI_NOTE_ID: 1658688224763
@@ -124,13 +124,13 @@ It defines:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   226.14 | 2023-08-20T17:58:57Z |
-|        1 | 2.50 |   7 |   177.86 | 2023-06-26T13:30:14Z |
+|        1 | 2.50 |   8 |   472.05 | 2024-10-10T17:28:53Z |
 :END:
 
 *** Source
 [cite:@DotProduct2022]
 
-** {{$\cos(\theta_{\vec{x}, \vec{y}})$}@0} \(\) {{$\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}$}@1}
+** {{$\cos(\theta_{\vec{x}, \vec{y}})$}@0} $=$ {{$\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}$}@1} :fc:
 :PROPERTIES:
 :ID:       155ee769-0937-4acf-af6a-f4a6b0c2c6e6
 :ANKI_NOTE_ID: 1658688176014
@@ -146,7 +146,7 @@ It defines:
 |        1 |  2.5 |   5 |       42 | 2022-10-11T13:00:00Z |
 :END:
 
-\(\theta_{\vec{x}, \vec{y}}\) is the angle between \(\vec{x}\) and \(\vec{y}\)
+\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
 
 *** Source
 [cite:@DotProduct2022]
@@ -163,13 +163,13 @@ It defines:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   169.23 | 2023-06-17T19:43:22Z |
+|        0 | 2.50 |   8 |   437.12 | 2024-08-28T17:08:28Z |
 |        2 | 2.65 |   7 |   202.21 | 2023-08-20T21:31:45Z |
 |        1 | 2.80 |   7 |   186.51 | 2023-07-21T04:42:20Z |
 :END:
 *** Extra
-- Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
-- Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+- Vector length: $\lVert\vec{x}\rVert$ $=$ $\sqrt{\vec{x} \cdot \vec{x}}$
+- Angles (where $\theta$ is the angle between $\vec{x}$ and $\vec{y}$): $\cos(\theta)$ $=$ $\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}$
 
 *** Source
 [cite:@DotProduct2022]

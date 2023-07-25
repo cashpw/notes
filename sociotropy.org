@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       f1b60c4c-6161-435f-ae53-271f01264d7e
+:LAST_MODIFIED: [2023-07-23 Sun 21:07]
+:ROAM_REFS: [cite:@Sociotropy2023]
+:END:
+#+title: Sociotropy
+#+hugo_custom_front_matter: :slug "f1b60c4c-6161-435f-ae53-271f01264d7e"
+#+author: Cash Prokop-Weaver
+#+date: [2023-07-20 Thu 10:36]
+#+filetags: :concept:
+
+#+begin_quote
+Sociotropy is a personality trait characterized by excessive investment in interpersonal relationships and usually studied in the field of social psychology.
+
+People with sociotropy tend to have a strong need for social acceptance, which causes them to be overly nurturant towards people who they do not have close relationships with. Sociotropy can be seen as the opposite of autonomy, because those with sociotropy are concerned with interpersonal relationships, whereas those with autonomy are more concerned with independence and do not care so much for others. Sociotropy has been correlated with feminine sex-role orientation in many research experiments.
+
+[cite:@Sociotropy2023]
+#+end_quote
+
+* Flashcards
+** [[id:f1b60c4c-6161-435f-ae53-271f01264d7e][Sociotropy]] :fc:
+:PROPERTIES:
+:CREATED: [2023-07-20 Thu 11:34]
+:FC_CREATED: 2023-07-20T18:35:56Z
+:FC_TYPE:  vocab
+:ID:       870d0d19-67aa-4a3a-9b65-19b9c0eed49d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-07-25T04:07:24Z |
+| back     |  2.5 |  -1 |        0 | 2023-07-27T18:35:56Z |
+:END:
+
+#+begin_quote
+[...] is a personality trait characterized by excessive investment in interpersonal relationships [...]
+
+People with [...] tend to have a strong need for social acceptance, which causes them to be overly nurturant towards people who they do not have close relationships with.
+#+end_quote
+
+*** Source
+[cite:@Sociotropy2023]
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f6380c56-884c-475d-9a44-d000f2e813d2
-:LAST_MODIFIED: [2023-01-29 Sun 11:24]
+:LAST_MODIFIED: [2023-07-17 Mon 06:57]
 :ROAM_REFS: [cite:@AdditiveMap2022]
 :END:
 #+title: Additivity
@@ -29,7 +29,7 @@ for every pair of elements $x$ and $y$ in the domain of $f$.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   9 |   276.76 | 2023-11-02T13:43:42Z |
-| front    | 2.65 |   8 |   227.42 | 2023-07-17T03:08:46Z |
+| front    | 2.50 |   9 |   574.25 | 2025-02-10T19:50:06Z |
 :END:
 Property of [[id:f6380c56-884c-475d-9a44-d000f2e813d2][Additivity]]
 

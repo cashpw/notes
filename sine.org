@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eba86939-f427-419c-a5d9-8115ed6f0e65
-:LAST_MODIFIED: [2023-02-13 Mon 06:11]
+:LAST_MODIFIED: [2023-07-13 Thu 17:58]
 :END:
 #+title: Sine
 #+hugo_custom_front_matter: :slug "eba86939-f427-419c-a5d9-8115ed6f0e65"
@@ -36,14 +36,14 @@ Also see [[id:8f39b616-dc89-4597-b689-c65aecde4a05][Cosine]] and [[id:44aea0ad-0
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   313.21 | 2023-12-23T19:12:13Z |
-| back     | 2.65 |   7 |   108.82 | 2023-01-10T11:59:08Z |
+| back     | 2.65 |   8 |   286.11 | 2024-02-14T00:22:55Z |
 :END:
 Graph \(f(x) = \sin(x)\)
 *** Back
 [[file:sin.png]]
 *** Source
 [cite:@SineCosine2022]
-** {{$\sin(\theta)$}@0} \(=\) {{$\frac{\text{adjacent}}{\text{hypotenuse}}$}{sides}@1} :fc:
+** {{$\sin(\theta)$}@0} \(=\) {{$\frac{\text{opposite}}{\text{hypotenuse}}$}{sides}@1} :fc:
 :PROPERTIES:
 :ANKI_NOTE_ID: 1662496497453
 :FC_CREATED: 2022-09-06T20:34:57Z
@@ -55,24 +55,25 @@ Graph \(f(x) = \sin(x)\)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   120.87 | 2023-04-06T10:41:54Z |
-|        1 | 2.50 |   4 |    16.11 | 2022-12-05T18:34:23Z |
+|        0 | 2.65 |   7 |   300.01 | 2024-02-05T16:36:48Z |
+|        1 | 2.35 |   6 |    99.67 | 2023-09-18T08:09:22Z |
 :END:
 *** Source
 [cite:@SineCosine2022]
-** {{$\cos(\theta)$}@0} \(=\) {{$\frac{\sin(\theta)}{\tan(\theta)}$}{function}@1} :fc:
+** {{$\sin(\theta)$}@0} \(=\) {{$\frac{\cos(\theta)}{\tan(\theta)}$}{function}@1} :fc:
 :PROPERTIES:
 :ANKI_NOTE_ID: 1662496497453
 :FC_CREATED: 2022-09-06T20:34:57Z
 :FC_TYPE:  cloze
 :FC_CLOZE_MAX: 2
 :FC_CLOZE_TYPE: deletion
+:ID:       aaf18d9c-1659-4bcb-a0a1-ecd50ba6d4cc
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   4 |    12.64 | 2022-11-28T05:43:50Z |
-|        1 | 2.50 |   2 |     2.00 | 2022-11-18T13:51:24Z |
+|        0 | 2.05 |   7 |   107.11 | 2023-10-27T15:29:22Z |
+|        1 | 2.50 |   6 |   100.62 | 2023-10-22T15:55:06Z |
 :END:
 *** Source
 [cite:@SineCosine2022]

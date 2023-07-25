@@ -1,0 +1,1061 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@stroustrupTour2022]
+:ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
+:LAST_MODIFIED: [2023-07-23 Sun 20:59]
+:END:
+#+title: Bjarne Stroustrup | A Tour of C++
+#+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
+#+author: Cash Weaver
+#+date: [2023-04-25 Tue 11:58]
+#+filetags: :has_todo:reference:
+
+[[id:123f89cf-96cf-4ab2-bb84-9ae005a4ee5f][Bjarne Stroustrup]], [cite:@stroustrupTour2022]
+
+* TODO Summary
+* TODO Thoughts
+* INPROGRESS Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/29/c58f6a-4c43-45f2-8cf3-86a53cb36978/tour-of-cpp-third-edition.pdf
+:NOTER_PAGE: 132
+:END:
+** Skeleton
+*** Cover
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+*** Half Title
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+*** Title Page
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+*** Copyright Page
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+*** Contents
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+*** Preface
+:PROPERTIES:
+:NOTER_PAGE: 12
+:END:
+*** 1 The Basics
+:PROPERTIES:
+:NOTER_PAGE: 14
+:END:
+**** 1.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 14
+:END:
+
+[[id:0cb90a5e-ec03-4a0f-bd0a-2eaeeaacc2d5][Procedural programming]]
+**** 1.2 Programs
+:PROPERTIES:
+:NOTER_PAGE: 15
+:END:
+**** 1.3 Functions
+:PROPERTIES:
+:NOTER_PAGE: 17
+:END:
+**** 1.4 Types, Variables, and Arithmetic
+:PROPERTIES:
+:NOTER_PAGE: 18
+:END:
+**** 1.5 Scope and Lifetime
+:PROPERTIES:
+:NOTER_PAGE: 22
+:END:
+**** 1.6 Constants
+:PROPERTIES:
+:NOTER_PAGE: 23
+:END:
+**** 1.7 Pointers, Arrays, and References
+:PROPERTIES:
+:NOTER_PAGE: 24
+:END:
+**** 1.8 Tests
+:PROPERTIES:
+:NOTER_PAGE: 27
+:END:
+**** 1.9 Mapping to Hardware
+:PROPERTIES:
+:NOTER_PAGE: 29
+:END:
+**** 1.10 Advice
+:PROPERTIES:
+:NOTER_PAGE: 32
+:END:
+*** 2 User-Defined Types
+:PROPERTIES:
+:NOTER_PAGE: 34
+:END:
+**** 2.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 34
+:END:
+**** 2.2 Structures
+:PROPERTIES:
+:NOTER_PAGE: 35
+:END:
+[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]
+**** 2.3 Classes
+:PROPERTIES:
+:NOTER_PAGE: 36
+:END:
+[[id:b3c25e15-f426-41d3-ae97-925da325ed73][C++ class]]
+**** 2.4 Enumerations
+:PROPERTIES:
+:NOTER_PAGE: 38
+:END:
+**** 2.5 Unions
+:PROPERTIES:
+:NOTER_PAGE: 40
+:END:
+- [[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]
+- [[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]
+
+**** 2.6 Advice
+:PROPERTIES:
+:NOTER_PAGE: 41
+:END:
+*** 3 Modularity
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+**** 3.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 42
+:END:
+**** 3.2 Separate Compilation
+:PROPERTIES:
+:NOTER_PAGE: 43
+:END:
+**** 3.3 Namespaces
+:PROPERTIES:
+:NOTER_PAGE: 48
+:END:
+**** 3.4 Function Arguments and Return Values
+:PROPERTIES:
+:NOTER_PAGE: 50
+:END:
+[[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]]
+**** 3.5 Advice
+:PROPERTIES:
+:NOTER_PAGE: 55
+:END:
+*** 4 Error Handling
+:PROPERTIES:
+:NOTER_PAGE: 56
+:END:
+**** 4.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 56
+:END:
+**** 4.2 Exceptions
+:PROPERTIES:
+:NOTER_PAGE: 57
+:END:
+**** 4.3 Invariants
+:PROPERTIES:
+:NOTER_PAGE: 58
+:END:
+**** 4.4 Error-Handling Alternatives
+:PROPERTIES:
+:NOTER_PAGE: 60
+:END:
+**** 4.5 Assertions
+:PROPERTIES:
+:NOTER_PAGE: 61
+:END:
+**** 4.6 Advice
+:PROPERTIES:
+:NOTER_PAGE: 64
+:END:
+*** 5 Classes
+:PROPERTIES:
+:NOTER_PAGE: 66
+:END:
+**** 5.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 66
+:END:
+**** 5.2 Concrete Types
+:PROPERTIES:
+:NOTER_PAGE: 67
+:END:
+- [[id:79986637-4396-4179-b1da-17268fb34306][Concrete class]]
+- [[id:a707abfd-b17d-40d0-a1c2-1caa14e2de47][std::initializer_list]]
+**** 5.3 Abstract Types
+:PROPERTIES:
+:NOTER_PAGE: 73
+:END:
+[[id:1434196d-1ed2-44dd-bbf8-a3e57f0eff28][Abstract class]]
+
+**** 5.4 Virtual Functions
+:PROPERTIES:
+:NOTER_PAGE: 75
+:END:
+- [[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]
+**** 5.5 Class Hierarchies
+:PROPERTIES:
+:NOTER_PAGE: 76
+:END:
+**** 5.6 Advice
+:PROPERTIES:
+:NOTER_PAGE: 82
+:END:
+*** 6 Essential Operations
+:PROPERTIES:
+:NOTER_PAGE: 84
+:END:
+**** 6.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 84
+:END:
+**** 6.2 Copy and Move
+:PROPERTIES:
+:NOTER_PAGE: 87
+:END:
+- [[id:9256ca69-2a7c-48a8-9c44-3a078e187e20][r-value]]
+- [[id:3364928b-f762-4f3d-8b22-d2b540374426][l-value]]
+**** 6.3 Resource Management
+:PROPERTIES:
+:NOTER_PAGE: 91
+:END:
+**** 6.4 Operator Overloading
+:PROPERTIES:
+:NOTER_PAGE: 93
+:END:
+**** 6.5 Conventional Operations
+:PROPERTIES:
+:NOTER_PAGE: 94
+:END:
+**** 6.6 User-Defined Literals
+:PROPERTIES:
+:NOTER_PAGE: 97
+:END:
+**** 6.7 Advice
+:PROPERTIES:
+:NOTER_PAGE: 98
+:END:
+*** 7 Templates
+:PROPERTIES:
+:NOTER_PAGE: 100
+:END:
+**** 7.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 100
+:END:
+**** 7.2 Parameterized Types
+:PROPERTIES:
+:NOTER_PAGE: 101
+:END:
+**** 7.3 Parameterized Operations
+:PROPERTIES:
+:NOTER_PAGE: 106
+:END:
+**** 7.4 Template Mechanisms
+:PROPERTIES:
+:NOTER_PAGE: 112
+:END:
+**** 7.5 Advice
+:PROPERTIES:
+:NOTER_PAGE: 115
+:END:
+*** 8 Concepts and Generic Programming
+:PROPERTIES:
+:NOTER_PAGE: 116
+:END:
+**** 8.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 116
+:END:
+**** 8.2 Concepts
+:PROPERTIES:
+:NOTER_PAGE: 117
+:END:
+**** 8.3 Generic Programming
+:PROPERTIES:
+:NOTER_PAGE: 125
+:END:
+**** 8.4 Variadic Templates
+:PROPERTIES:
+:NOTER_PAGE: 127
+:END:
+**** 8.5 Template Compilation Model
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+**** 8.6 Advice
+:PROPERTIES:
+:NOTER_PAGE: 130
+:END:
+*** 9 Library Overview
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+**** 9.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 132
+:END:
+**** 9.2 Standard-Library Components
+:PROPERTIES:
+:NOTER_PAGE: 133
+:END:
+**** 9.3 Standard-Library Organization
+:PROPERTIES:
+:NOTER_PAGE: 134
+:END:
+**** 9.4 Advice
+:PROPERTIES:
+:NOTER_PAGE: 137
+:END:
+*** 10 Strings and Regular Expressions
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+**** 10.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+**** 10.2 Strings
+:PROPERTIES:
+:NOTER_PAGE: 138
+:END:
+**** 10.3 String Views
+:PROPERTIES:
+:NOTER_PAGE: 141
+:END:
+**** 10.4 Regular Expressions
+:PROPERTIES:
+:NOTER_PAGE: 143
+:END:
+**** 10.5 Advice
+:PROPERTIES:
+:NOTER_PAGE: 149
+:END:
+*** 11 Input and Output
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+**** 11.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 150
+:END:
+**** 11.2 Output
+:PROPERTIES:
+:NOTER_PAGE: 151
+:END:
+**** 11.3 Input
+:PROPERTIES:
+:NOTER_PAGE: 152
+:END:
+**** 11.4 I/O State
+:PROPERTIES:
+:NOTER_PAGE: 154
+:END:
+**** 11.5 I/O of User-Defined Types
+:PROPERTIES:
+:NOTER_PAGE: 154
+:END:
+**** 11.6 Output Formatting
+:PROPERTIES:
+:NOTER_PAGE: 156
+:END:
+**** 11.7 Streams
+:PROPERTIES:
+:NOTER_PAGE: 159
+:END:
+**** 11.8 C-style I/O
+:PROPERTIES:
+:NOTER_PAGE: 162
+:END:
+**** 11.9 File System
+:PROPERTIES:
+:NOTER_PAGE: 163
+:END:
+**** 11.10 Advice
+:PROPERTIES:
+:NOTER_PAGE: 167
+:END:
+*** 12 Containers
+:PROPERTIES:
+:NOTER_PAGE: 170
+:END:
+**** 12.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 170
+:END:
+**** 12.2 vector
+:PROPERTIES:
+:NOTER_PAGE: 171
+:END:
+**** 12.3 list
+:PROPERTIES:
+:NOTER_PAGE: 175
+:END:
+**** 12.4 forward_list
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+**** 12.5 map
+:PROPERTIES:
+:NOTER_PAGE: 177
+:END:
+**** 12.6 unordered_map
+:PROPERTIES:
+:NOTER_PAGE: 178
+:END:
+**** 12.7 Allocators
+:PROPERTIES:
+:NOTER_PAGE: 180
+:END:
+**** 12.8 Container Overview
+:PROPERTIES:
+:NOTER_PAGE: 181
+:END:
+**** 12.9 Advice
+:PROPERTIES:
+:NOTER_PAGE: 183
+:END:
+*** 13 Algorithms
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+**** 13.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 186
+:END:
+**** 13.2 Use of Iterators
+:PROPERTIES:
+:NOTER_PAGE: 188
+:END:
+**** 13.3 Iterator Types
+:PROPERTIES:
+:NOTER_PAGE: 191
+:END:
+**** 13.4 Use of Predicates
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+**** 13.5 Algorithm Overview
+:PROPERTIES:
+:NOTER_PAGE: 194
+:END:
+**** 13.6 Parallel Algorithms
+:PROPERTIES:
+:NOTER_PAGE: 196
+:END:
+**** 13.7 Advice
+:PROPERTIES:
+:NOTER_PAGE: 196
+:END:
+*** 14 Ranges
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+**** 14.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 198
+:END:
+**** 14.2 Views
+:PROPERTIES:
+:NOTER_PAGE: 199
+:END:
+**** 14.3 Generators
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** 14.4 Pipelines
+:PROPERTIES:
+:NOTER_PAGE: 201
+:END:
+**** 14.5 Concepts Overview
+:PROPERTIES:
+:NOTER_PAGE: 203
+:END:
+**** 14.6 Advice
+:PROPERTIES:
+:NOTER_PAGE: 207
+:END:
+*** 15 Pointers and Containers
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** 15.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 208
+:END:
+**** 15.2 Pointers
+:PROPERTIES:
+:NOTER_PAGE: 209
+:END:
+[[id:442a1e1b-97dd-4c64-b2ae-696c750ad288][std::unique_ptr]]
+**** 15.3 Containers
+:PROPERTIES:
+:NOTER_PAGE: 214
+:END:
+**** 15.4 Alternatives
+:PROPERTIES:
+:NOTER_PAGE: 221
+:END:
+**** 15.5 Advice
+:PROPERTIES:
+:NOTER_PAGE: 225
+:END:
+*** 16 Utilities
+:PROPERTIES:
+:NOTER_PAGE: 226
+:END:
+**** 16.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 226
+:END:
+**** 16.2 Time
+:PROPERTIES:
+:NOTER_PAGE: 227
+:END:
+**** 16.3 Function Adaption
+:PROPERTIES:
+:NOTER_PAGE: 229
+:END:
+**** 16.4 Type Functions
+:PROPERTIES:
+:NOTER_PAGE: 230
+:END:
+**** 16.5 source_location
+:PROPERTIES:
+:NOTER_PAGE: 235
+:END:
+**** 16.6 move() and forward()
+:PROPERTIES:
+:NOTER_PAGE: 236
+:END:
+**** 16.7 Bit Manipulation
+:PROPERTIES:
+:NOTER_PAGE: 237
+:END:
+**** 16.8 Exiting a Program
+:PROPERTIES:
+:NOTER_PAGE: 238
+:END:
+**** 16.9 Advice
+:PROPERTIES:
+:NOTER_PAGE: 238
+:END:
+*** 17 Numerics
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+**** 17.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 240
+:END:
+**** 17.2 Mathematical Functions
+:PROPERTIES:
+:NOTER_PAGE: 241
+:END:
+**** 17.3 Numerical Algorithms
+:PROPERTIES:
+:NOTER_PAGE: 242
+:END:
+**** 17.4 Complex Numbers
+:PROPERTIES:
+:NOTER_PAGE: 243
+:END:
+**** 17.5 Random Numbers
+:PROPERTIES:
+:NOTER_PAGE: 244
+:END:
+**** 17.6 Vector Arithmetic
+:PROPERTIES:
+:NOTER_PAGE: 246
+:END:
+**** 17.7 Numeric Limits
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+**** 17.8 Type Aliases
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+**** 17.9 Mathematical Constants
+:PROPERTIES:
+:NOTER_PAGE: 247
+:END:
+**** 17.10 Advice
+:PROPERTIES:
+:NOTER_PAGE: 248
+:END:
+*** 18 Concurrency
+:PROPERTIES:
+:NOTER_PAGE: 250
+:END:
+**** 18.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 250
+:END:
+**** 18.2 Tasks and threads
+:PROPERTIES:
+:NOTER_PAGE: 251
+:END:
+**** 18.3 Sharing Data
+:PROPERTIES:
+:NOTER_PAGE: 254
+:END:
+**** 18.4 Waiting for Events
+:PROPERTIES:
+:NOTER_PAGE: 256
+:END:
+**** 18.5 Communicating Tasks
+:PROPERTIES:
+:NOTER_PAGE: 258
+:END:
+**** 18.6 Coroutines
+:PROPERTIES:
+:NOTER_PAGE: 263
+:END:
+**** 18.7 Advice
+:PROPERTIES:
+:NOTER_PAGE: 266
+:END:
+*** 19 History and Compatibility
+:PROPERTIES:
+:NOTER_PAGE: 268
+:END:
+**** 19.1 History
+:PROPERTIES:
+:NOTER_PAGE: 268
+:END:
+**** 19.2 C++ Feature Evolution
+:PROPERTIES:
+:NOTER_PAGE: 276
+:END:
+**** 19.3 C/C++ Compatibility
+:PROPERTIES:
+:NOTER_PAGE: 281
+:END:
+**** 19.4 Bibliography
+:PROPERTIES:
+:NOTER_PAGE: 284
+:END:
+**** 19.5 Advice
+:PROPERTIES:
+:NOTER_PAGE: 287
+:END:
+*** Module std
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+**** A.1 Introduction
+:PROPERTIES:
+:NOTER_PAGE: 290
+:END:
+**** A.2 Use What Your Implementation Offers
+:PROPERTIES:
+:NOTER_PAGE: 291
+:END:
+**** A.3 Use Headers
+:PROPERTIES:
+:NOTER_PAGE: 291
+:END:
+**** A.4 Make Your Own module std
+:PROPERTIES:
+:NOTER_PAGE: 291
+:END:
+**** A.5 Advice
+:PROPERTIES:
+:NOTER_PAGE: 292
+:END:
+*** Index
+:PROPERTIES:
+:NOTER_PAGE: 294
+:END:
+**** A
+:PROPERTIES:
+:NOTER_PAGE: 295
+:END:
+**** B
+:PROPERTIES:
+:NOTER_PAGE: 296
+:END:
+**** C
+:PROPERTIES:
+:NOTER_PAGE: 297
+:END:
+**** D
+:PROPERTIES:
+:NOTER_PAGE: 299
+:END:
+**** E
+:PROPERTIES:
+:NOTER_PAGE: 300
+:END:
+**** F
+:PROPERTIES:
+:NOTER_PAGE: 301
+:END:
+**** G
+:PROPERTIES:
+:NOTER_PAGE: 302
+:END:
+**** H
+:PROPERTIES:
+:NOTER_PAGE: 302
+:END:
+**** I
+:PROPERTIES:
+:NOTER_PAGE: 302
+:END:
+**** J
+:PROPERTIES:
+:NOTER_PAGE: 303
+:END:
+**** K
+:PROPERTIES:
+:NOTER_PAGE: 304
+:END:
+**** L
+:PROPERTIES:
+:NOTER_PAGE: 304
+:END:
+**** M
+:PROPERTIES:
+:NOTER_PAGE: 304
+:END:
+**** N
+:PROPERTIES:
+:NOTER_PAGE: 305
+:END:
+**** O
+:PROPERTIES:
+:NOTER_PAGE: 306
+:END:
+**** P
+:PROPERTIES:
+:NOTER_PAGE: 306
+:END:
+**** Q
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+**** R
+:PROPERTIES:
+:NOTER_PAGE: 307
+:END:
+**** S
+:PROPERTIES:
+:NOTER_PAGE: 308
+:END:
+**** T
+:PROPERTIES:
+:NOTER_PAGE: 310
+:END:
+**** U
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+**** V
+:PROPERTIES:
+:NOTER_PAGE: 311
+:END:
+**** W
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+**** X
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+**** Y
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+**** Z
+:PROPERTIES:
+:NOTER_PAGE: 312
+:END:
+
+* TODO [#2] Flashcards
+** Describe (C++) :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:23]
+:FC_CREATED: 2023-05-11T15:24:06Z
+:FC_TYPE:  double
+:ID:       cf1b28bf-b001-43dd-a60f-3e96ebb39872
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   5 |    43.41 | 2023-08-20T10:03:00Z |
+| back     | 2.50 |   4 |    14.76 | 2023-08-02T08:06:38Z |
+:END:
+
+=const=
+
+*** Back
+Roughly, "I promise not to change this value".
+*** Source
+[cite:@stroustrupTour2022]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:24]
+:FC_CREATED: 2023-05-11T15:24:46Z
+:FC_TYPE:  double
+:ID:       3da634c1-13b5-484e-9589-72006706ab87
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    35.77 | 2023-08-03T11:34:44Z |
+| back     | 2.50 |   2 |     2.00 | 2023-07-21T13:40:01Z |
+:END:
+
+=constexpr= (C++)
+
+*** Back
+Roughly, "To be evaluated at compile time"
+*** Source
+[cite:@stroustrupTour2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:26]
+:FC_CREATED: 2023-05-11T15:26:53Z
+:FC_TYPE:  cloze
+:ID:       f5707386-a22a-454c-be03-3023c03a99b7
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   4 |    12.82 | 2023-07-25T08:35:51Z |
+|        1 | 2.20 |   4 |    13.20 | 2023-08-06T08:54:26Z |
+:END:
+
+{{=consteval= and =constexpr=}@0} denote {{C++'s notion of [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]]}{functions}@1}
+
+*** Source
+[cite:@stroustrupTour2022]
+** Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:29]
+:FC_CREATED: 2023-05-11T15:31:07Z
+:FC_TYPE:  normal
+:ID:       efc22796-b2b5-4875-898e-0edaf4b651f3
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    34.04 | 2023-08-04T02:32:40Z |
+:END:
+
+=constexpr= and =consteval= (C++ functions)
+
+*** Back
+- Functions defined as =constexpr= can accept =constexpr= arguments *and* non-=constexpr= arguments
+- Functions defined as =consteval= can *only* accept =constexpr= arguments
+*** Source
+[cite:@stroustrupTour2022]
+** TODO [#2] Compare and contrast :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 08:53]
+:FC_CREATED: 2023-05-11T15:58:37Z
+:FC_TYPE:  normal
+:ID:       44ebd042-cb2b-4399-a6cc-02a08222cee2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   4 |    13.89 | 2023-07-28T10:43:08Z |
+:END:
+
+#+begin_src C++
+int x = 2;
+int y = 3;
+
+int& rx = x;
+int& ry = y;
+
+rx = ry
+
+// x == ?
+// y == ?
+// rx == ?
+// ry == ?
+#+end_src
+
+and
+
+#+begin_src C++
+int x = 2;
+int y = 3;
+
+int* px = &x;
+int* py = &y;
+
+px = py;
+
+// x == ?
+// y == ?
+// px == ?
+// py == ?
+#+end_src
+
+*** Back
+In the first, by reference:
+
+#+begin_src C++
+x == 2;
+y == 2;
+
+rx != ry;
+
+rx == &x;
+ry == &y;
+#+end_src
+
+And in the second, by pointer:
+
+#+begin_src C++
+x == 2;
+y == 3;
+
+px == &y;
+py == &y;
+
+*px == 3;
+*py == 3;
+#+end_src
+*** Source
+[cite:@stroustrupTour2022]
+** Built-in types :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:17]
+:FC_CREATED: 2023-05-11T16:18:14Z
+:FC_TYPE:  vocab
+:ID:       f11682b6-a13d-4df7-96c5-9a4dda09fe34
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    83.48 | 2023-10-14T15:10:44Z |
+| back     | 2.50 |   4 |    13.91 | 2023-07-25T10:53:46Z |
+:END:
+
+Types composed of fundamental types (e.g. =bool=), the =const= modifier, and declarator operators.
+
+*** Source
+[cite:@stroustrupTour2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:19]
+:FC_CREATED: 2023-05-11T16:20:13Z
+:FC_TYPE:  cloze
+:ID:       4b953f69-de84-4eec-adb2-730ee43b4cd1
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.35 |   5 |    33.63 | 2023-08-18T05:21:46Z |
+:END:
+
+(C++) A declaration specifies {{a type (e.g. =int=) name (e.g. =count=)}@0}.
+
+*** Source
+[cite:@stroustrupTour2022]
+** Example(s) :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:20]
+:FC_CREATED: 2023-05-11T16:21:09Z
+:FC_TYPE:  double
+:ID:       a4f63a00-ee5e-4c00-9090-561bc5e37f0a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   5 |    31.97 | 2023-08-02T13:40:43Z |
+| back     | 2.05 |   3 |     6.00 | 2023-07-29T03:43:49Z |
+:END:
+
+(C++) Declarations
+
+*** Back
+#+begin_src C++
+int count;
+char v[7];
+void foo(int a);
+#+end_src
+*** Source
+[cite:@stroustrupTour2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:21]
+:FC_CREATED: 2023-05-11T16:21:55Z
+:FC_TYPE:  cloze
+:ID:       60f76399-e462-4d0f-9048-9bfdc7924db4
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.65 |   5 |    46.07 | 2023-08-29T14:54:16Z |
+:END:
+
+C++'s built-in types reflect {{the capabilities of conventional computer hardware}@0}.
+
+*** Source
+[cite:@stroustrupTour2022]
+** Definition (C++) :fc:
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 09:22]
+:FC_CREATED: 2023-05-11T16:23:07Z
+:FC_TYPE:  double
+:ID:       d995d37c-11b0-4606-b5cb-77f02f1155f8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.87 | 2023-07-26T17:13:04Z |
+| back     | 2.50 |   3 |     6.00 | 2023-07-20T00:51:36Z |
+:END:
+
+User-defined types
+
+*** Back
+Types built from built-in types and other [...].
+*** Source
+[cite:@stroustrupTour2022]
+** Normal
+:PROPERTIES:
+:CREATED: [2023-05-11 Thu 10:00]
+:END:
+
+What is the value of =a=?
+
+#+begin_src C++
+int foo(int i) {
+  return i += 1;
+}
+
+int main() {
+  int a = foo(14);
+  return a;
+}
+#+end_src
+
+#+RESULTS:
+
+*** Back
+~a == 15~
+
+*** Source
+[cite:@stroustrupTour2022]
+#+print_bibliography:

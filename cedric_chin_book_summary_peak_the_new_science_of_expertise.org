@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chinBookSummaryPeakNewScienceExpertise2019]
+:ID:       8b2342f4-1514-4a61-9115-235b8572c8fd
+:LAST_MODIFIED: [2023-06-30 Fri 16:57]
+:END:
+#+title: Cedric Chin | Book Summary: Peak, the New Science of Expertise
+#+hugo_custom_front_matter: :slug "8b2342f4-1514-4a61-9115-235b8572c8fd"
+#+author: Cash Weaver
+#+date: [2023-06-30 Fri 16:54]
+#+filetags: :reference:
+
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinBookSummaryPeakNewScienceExpertise2019]
+
+* Summary
+A [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]] discussing [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]], [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]], and [[id:05730e41-9875-4ad5-aa5e-e497ed1f7af0][Naive practice]].
+
+* Thoughts
+* Notes
+#+begin_quote
+Overall, I think Ericsson has done an ok job of introducing the layman to the field of deliberate practice. To recap: practice works because the human brain is adaptable, and because performance is determined by the quality of our mental representations. Naive practice is bad; don't do it. Purposeful practice is all we have if we are to work in a field with no developed training methods. Deliberate practice exists where fields are well developed, and require a teacher to execute well. Creating deliberate-practice-inspired training programs are extraordinarily difficult, and you should expect such efforts to be doable only with extended trial and error.
+
+But what Peak fails to do is to provide a complete guide on how to put deliberate practice into … well, practice.
+#+end_quote
+* Flashcards
+#+print_bibliography:

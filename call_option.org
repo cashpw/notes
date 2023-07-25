@@ -2,7 +2,7 @@
 :ID:       15f1b0b2-6f51-40de-93c9-77980744a483
 :ROAM_ALIASES: "Call options"
 :ROAM_REFS: [cite:@CallOption2022]
-:LAST_MODIFIED: [2023-01-23 Mon 06:18]
+:LAST_MODIFIED: [2023-07-16 Sun 07:03]
 :END:
 #+title: Call option
 #+hugo_custom_front_matter: :slug "15f1b0b2-6f51-40de-93c9-77980744a483"
@@ -27,8 +27,8 @@ In finance, a call option, often simply labeled a "call", is a contract between 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   182.32 | 2023-05-29T01:54:59Z |
-| front    | 2.35 |   8 |   217.81 | 2023-07-16T11:28:20Z |
+| back     | 2.35 |   9 |   413.65 | 2024-07-17T07:46:38Z |
+| front    | 2.35 |   9 |   475.30 | 2024-11-02T21:15:59Z |
 :END:
 
 [[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call option]]
@@ -38,7 +38,6 @@ A contract which allows the holder to buy a specific asset at a stated price wit
 
 *** Source
 [cite:@CallOption2022]
-#+print_bibliography:
 ** Definition (Finance) :fc:
 :PROPERTIES:
 :ID:       c26f0316-1291-499a-80d5-8967b238dec0

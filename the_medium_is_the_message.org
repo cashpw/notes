@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       91fe1528-88d1-4168-91f1-cf10b175db49
 :ROAM_REFS: [cite:@MediumMessage2022]
-:LAST_MODIFIED: [2023-02-18 Sat 09:25]
+:LAST_MODIFIED: [2023-06-29 Thu 13:37]
 :END:
 #+title: The medium is the message
 #+hugo_custom_front_matter: :slug "91fe1528-88d1-4168-91f1-cf10b175db49"
@@ -25,9 +25,6 @@ For McLuhan, it was the medium itself that shaped and controlled "the scale and 
 A message must "fit" its medium. That is, a message must conform to the rules of the medium it passes through. As an example: A written, printed, book cannot contain an audio. A medium controls which types of messages are possible.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-17 Thu 20:16]
@@ -38,8 +35,8 @@ A message must "fit" its medium. That is, a message must conform to the rules of
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   121.92 | 2023-06-09T01:47:12Z |
-| back     | 3.10 |   6 |   130.30 | 2023-06-29T00:35:46Z |
+| front    | 2.80 |   7 |   320.91 | 2024-04-25T13:24:16Z |
+| back     | 3.25 |   7 |   386.17 | 2024-07-20T00:45:40Z |
 :END:
 
 [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]]

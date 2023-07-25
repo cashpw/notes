@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID: 8b9abae7-27f1-40b0-8334-d54f86c71542
-:LAST_MODIFIED: [2023-02-28 Tue 20:14]
+:LAST_MODIFIED: [2023-06-08 Thu 09:19]
 :ROAM_REFS: [cite:@GreedyAlgorithm2022]
 :END:
 #+title: Greedy algorithm
@@ -27,7 +27,7 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   341.22 | 2024-02-05T09:34:46Z |
-| front    | 2.65 |   8 |   194.58 | 2023-06-08T04:41:39Z |
+| front    | 2.65 |   9 |   544.78 | 2024-12-04T11:08:39Z |
 :END:
 
 [[id:8b9abae7-27f1-40b0-8334-d54f86c71542][Greedy algorithm]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9f52c68a-3302-47bc-a4a4-3a4ff20d41be
-:LAST_MODIFIED: [2023-02-17 Fri 07:04]
+:LAST_MODIFIED: [2023-07-10 Mon 08:43]
 :END:
 #+title: Non-zero-sum game
 #+hugo_custom_front_matter: :slug "9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
@@ -29,8 +29,8 @@ The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   147.93 | 2023-06-26T17:38:58Z |
-| back     | 1.75 |   6 |    40.78 | 2023-03-30T09:45:28Z |
+| front    | 2.65 |   7 |   428.67 | 2024-08-29T07:13:05Z |
+| back     | 1.30 |   6 |    14.51 | 2023-07-25T04:02:32Z |
 :END:
 [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
 *** Back
@@ -49,8 +49,8 @@ Payoffs
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   6 |   103.32 | 2023-04-05T21:57:55Z |
-| front    | 3.10 |   6 |   157.56 | 2023-06-12T04:18:44Z |
+| back     | 2.50 |   7 |   237.39 | 2023-11-30T07:53:49Z |
+| front    | 3.10 |   7 |   454.23 | 2024-09-09T05:51:55Z |
 :END:
 [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
 *** Back

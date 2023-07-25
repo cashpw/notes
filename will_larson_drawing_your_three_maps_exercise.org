@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@larsonDrawingYourThreeMapsExercise2022]
+:ID:       45eae752-81ef-468b-96e2-e686c38a3736
+:LAST_MODIFIED: [2023-06-06 Tue 09:02]
+:END:
+#+title: Will Larson | 'Drawing Your Three Maps' Exercise
+#+hugo_custom_front_matter: :slug "45eae752-81ef-468b-96e2-e686c38a3736"
+#+author: Cash Weaver
+#+date: [2023-06-06 Tue 08:06]
+#+filetags: :has_todo:reference:
+
+[[id:2c536d79-3ebe-4b38-9193-78ec80ed3772][Will Larson]], [cite:@larsonDrawingYourThreeMapsExercise2022]
+
+* Summary
+An exercise in which participants create a three-layered map:
+
+1. [[id:1b17b268-7192-4117-9d4f-1b67dcc091ee][Locator map (Staff Engineer's Path)]]
+2. [[id:49d0c976-126c-4612-82ad-bebd079dd200][Topographical map (Staff Engineer's Path)]]
+3. [[id:f3ca255f-a05d-4410-8a11-4fc48db1afe7][Treasure map (Staff Engineer's Path)]]
+
+* Thoughts
+The exercise, as written, doesn't capture the full depth of each of the three maps. As an example, drawing the locator map in this way -- as a literal map -- limits the nested nature (i.e. you within your team, your team/org within your company, your company within your users' needs, your company within the space of current and future competition).
+
+Then again, the author notes the need for additional time and perhaps the exercise is most effective in a simpler form. That is, maybe it's better /not/ to go into such detail for each of the three maps. The presenter and participant's have limited time. Planting a seed of "oh, maybe I could think about X in a different way" is still a great outcome ([[id:3f33e96a-915a-4561-be68-4cef17b84792][Iterative development]]).
+* Notes
+#+begin_quote
+The second chapter [of [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][Tanya Reilly | The Staff Engineer's Path]]] is focused on the idea of creating three maps to better understand your engineering organization: a locator map (where are you?), a topographical map (how hard is it to go nearby places?), and a treasure map (where are the places that are really worth going?). I thought this would be an interesting exercise to run as a group, with each of us taking ten minutes to create our own three maps, then sharing them out.
+
+The instructions we followed were:
+
+1. Using one color, create your locator map, describing the key teams (e.g. Data Engineering, Quality Assurance, Customer Success, etc) and platforms (e.g. Content API, CI/CD, user authentication, analytics, etc) that you work with
+2. Using a second color, add topographical details to your locator map: draw in mountains where there is friction or little communication, add rivers where there's a fast path to collaboration
+3. Using a third color, add treasures: where are the very high potential projects, capabilities, initiatives and relationships that could unlock something special? (Some folks also added hazards to their map, which are sort of anti-treasures. Generally any hazard can be converted into a treasure with a bit of creativity, so I think they are legitimate treasure candidates.)
+4. Explain your map!
+
+Generally, this was a fun exercise, and the shareout was exceptionally interesting. That said, if I were to try this again I would probably try it in three phases, along the lines of: first session, draft your locator map, finalize it for the second session; second session, draft your topographical map, and so on.
+
+One of the powerful things about maps is they contain so much data (this is one of the reasons what [[https://felt.com/][Felt]] is doing is so interesting to me), but I also found that trying to work through both the nouns and their physical relationship to each other was too much to get right in one pass. You really need time to iterate before the map gels. For most folks it was obvious within a few minutes that their map was wrong somehow, and doing the exercise within one session didn't provide enough time to fix. Conversely, maybe that's part of the value: sometimes an exercise that makes it abundantly clear that you can't do a good job is a powerful way to break through uncertainty.
+#+end_quote
+
+* TODO [#2] Flashcards
+#+print_bibliography:

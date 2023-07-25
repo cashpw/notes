@@ -2,7 +2,7 @@
 :ID:       6981e213-aaad-4356-8968-abc1766bfb39
 :DIR:      /home/cashweaver/proj/roam/attachments/6981e213-aaad-4356-8968-abc1766bfb39
 :ROAM_ALIASES: "If it kills you, it kills you" "A man must constantly exceed his level"
-:LAST_MODIFIED: [2023-03-04 Sat 07:19]
+:LAST_MODIFIED: [2023-05-31 Wed 08:34]
 :END:
 #+title: Exceed your Level
 #+hugo_custom_front_matter: :slug "6981e213-aaad-4356-8968-abc1766bfb39"
@@ -35,7 +35,7 @@ Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    84.22 | 2023-05-27T20:33:30Z |
+|        0 | 2.35 |   7 |   204.73 | 2023-12-22T09:00:31Z |
 :END:
 
 *** Source
@@ -52,7 +52,7 @@ Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    68.03 | 2023-04-15T22:21:10Z |
+|        0 | 2.20 |   7 |   163.57 | 2023-09-28T05:39:22Z |
 :END:
 
 *** Source
@@ -69,7 +69,7 @@ Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    78.42 | 2023-05-08T04:48:11Z |
+|        0 | 2.35 |   7 |   202.37 | 2023-11-28T01:41:20Z |
 :END:
 
 *** Source

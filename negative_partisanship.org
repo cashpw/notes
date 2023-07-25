@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ac618a25-545b-48af-90dd-c777fce9cbed
-:LAST_MODIFIED: [2023-02-13 Mon 06:15]
+:LAST_MODIFIED: [2023-07-23 Sun 20:56]
 :END:
 #+title: Negative partisanship
 #+hugo_custom_front_matter: :slug "ac618a25-545b-48af-90dd-c777fce9cbed"
@@ -22,8 +22,8 @@ Negative partisanship is the tendency of some voters to form their political opi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    43.07 | 2023-03-26T01:28:18Z |
-| back     | 2.65 |   5 |    42.23 | 2023-03-27T19:49:31Z |
+| front    | 2.95 |   6 |   119.62 | 2023-07-24T04:24:07Z |
+| back     | 2.20 |   3 |     6.00 | 2023-07-30T03:56:54Z |
 :END:
 
 [[id:ac618a25-545b-48af-90dd-c777fce9cbed][Negative partisanship]]

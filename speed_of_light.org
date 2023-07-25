@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e20ac0c6-f1ba-420d-9afb-c9f031264a2b
 :ROAM_REFS: [cite:@SpeedLight2023]
-:LAST_MODIFIED: [2023-03-18 Sat 06:34]
+:LAST_MODIFIED: [2023-07-17 Mon 06:54]
 :END:
 #+title: Speed of light
 #+hugo_custom_front_matter: :slug "e20ac0c6-f1ba-420d-9afb-c9f031264a2b"
@@ -28,7 +28,7 @@ The speed of light in vacuum, commonly denoted $c$, is a universal physical cons
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   1 |     1.00 | 2023-03-19T13:32:59Z |
+|        0 | 2.80 |   6 |   130.51 | 2023-10-08T04:35:43Z |
 :END:
 
 The speed of light in a vacuum is approximately {{300,000}@0} kilometers per second.
@@ -47,7 +47,7 @@ The speed of light in a vacuum is approximately {{300,000}@0} kilometers per sec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 |  2.5 |  -1 |        0 | 2023-03-18T13:34:57Z |
+|        0 | 2.65 |   6 |   120.96 | 2023-11-15T12:56:26Z |
 :END:
 
 The speed of light in a vacuum is approximately {{186,000}@0} miles per second.

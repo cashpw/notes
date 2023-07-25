@@ -2,7 +2,7 @@
 :ID:       1a499a31-7ecb-4f80-95a5-22d748a0c634
 :ROAM_REFS: [cite:@NCComplexity2022]
 :ROAM_ALIASES: "NC (Complexity)"
-:LAST_MODIFIED: [2023-03-18 Sat 06:43]
+:LAST_MODIFIED: [2023-07-10 Mon 08:33]
 :END:
 #+title: Nick's class
 #+hugo_custom_front_matter: :slug "1a499a31-7ecb-4f80-95a5-22d748a0c634"
@@ -29,14 +29,14 @@ Just as the class P [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    51.45 | 2023-05-05T01:23:51Z |
-| back     | 2.50 |   5 |    34.20 | 2023-04-18T19:49:13Z |
+| front    | 2.80 |   6 |   139.22 | 2023-09-22T22:47:09Z |
+| back     | 2.50 |   6 |    86.80 | 2023-07-26T14:12:04Z |
 :END:
 
 [[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]] (informal)
 
 *** Back
-A complexity class of problems which can be solve in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]] on a parallel computer.
+A complexity class of problems which can be solved in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]] on a parallel computer.
 *** Source
 [cite:@NCComplexity2022]
 ** Definition :fc:
@@ -49,8 +49,8 @@ A complexity class of problems which can be solve in [[id:9abc3978-c42a-42ad-a30
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    45.62 | 2023-05-02T05:05:15Z |
-| back     | 2.80 |   5 |    48.53 | 2023-05-06T02:32:47Z |
+| front    | 2.35 |   6 |    78.29 | 2023-09-26T22:24:08Z |
+| back     | 2.65 |   6 |   121.88 | 2023-09-09T13:09:55Z |
 :END:
 
 [[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]] (formal)
@@ -71,8 +71,8 @@ The set of problems with input size $n$ which can be solved in $\bigo{\log^cn}$ 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   5 |    45.08 | 2023-04-24T04:43:06Z |
-|        1 | 2.65 |   5 |    45.07 | 2023-04-28T16:55:23Z |
+|        0 | 2.65 |   6 |   114.92 | 2023-08-24T21:15:41Z |
+|        1 | 2.65 |   6 |   107.93 | 2023-08-27T13:44:16Z |
 :END:
 
 {{[[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]]}@0} stands for {{[[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][Nick's class]]}@1}.

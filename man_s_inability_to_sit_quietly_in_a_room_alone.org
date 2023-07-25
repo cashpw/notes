@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       68e208ad-a4d6-403e-aae3-2ef207499d99
-:LAST_MODIFIED: [2023-02-07 Tue 14:40]
+:LAST_MODIFIED: [2023-05-03 Wed 15:04]
 :END:
 #+title: Man's Inability to Sit Quietly in a Room Alone
 #+hugo_custom_front_matter: :slug "68e208ad-a4d6-403e-aae3-2ef207499d99"
@@ -29,7 +29,7 @@ All of humanity's problems stem from man's inability to sit quietly in a room al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    68.67 | 2023-04-17T14:51:00Z |
+|        0 | 2.20 |   7 |   158.07 | 2023-10-08T23:52:06Z |
 :END:
 
 *** Source

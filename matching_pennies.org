@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24c39c95-3f91-4e42-81e6-7eb87eb24546
-:LAST_MODIFIED: [2023-02-17 Fri 06:52]
+:LAST_MODIFIED: [2023-07-14 Fri 06:17]
 :ROAM_REFS: [cite:@MatchingPennies2022]
 :END:
 #+title: Matching pennies
@@ -25,8 +25,8 @@ Matching pennies is the name for a simple game used in game theory [[[id:e157ee7
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    46.37 | 2023-04-04T10:36:21Z |
-| back     | 2.50 |   5 |    38.92 | 2023-03-28T12:57:18Z |
+| front    | 2.95 |   6 |   136.99 | 2023-08-20T16:24:59Z |
+| back     | 2.35 |   4 |    15.49 | 2023-07-30T01:07:43Z |
 :END:
 
 [[id:24c39c95-3f91-4e42-81e6-7eb87eb24546][Matching pennies]]
@@ -45,8 +45,8 @@ A [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][game]] in which two players each ha
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    37.50 | 2023-03-20T12:15:01Z |
-| back     | 2.65 |   5 |    38.28 | 2023-03-25T22:45:00Z |
+| front    | 2.65 |   7 |   283.90 | 2024-04-15T01:53:38Z |
+| back     | 2.65 |   7 |   306.01 | 2024-05-15T01:01:16Z |
 :END:
 
 ([[id:24c39c95-3f91-4e42-81e6-7eb87eb24546][Matching pennies]]) Being predictable

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f25031de-9b51-4f1c-9166-f155b2d3250c
 :ROAM_REFS: [cite:@Multiset2023]
-:LAST_MODIFIED: [2023-03-10 Fri 21:25]
+:LAST_MODIFIED: [2023-07-02 Sun 18:10]
 :END:
 #+title: Multiset
 #+hugo_custom_front_matter: :slug "f25031de-9b51-4f1c-9166-f155b2d3250c"
@@ -34,8 +34,8 @@ The cardinality of a multiset is the sum of the multiplicities of all its elemen
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    49.63 | 2023-04-27T08:29:22Z |
-| back     | 2.80 |   5 |    49.34 | 2023-04-29T13:40:52Z |
+| front    | 2.80 |   6 |   134.48 | 2023-09-13T11:13:34Z |
+| back     | 2.65 |   6 |   124.52 | 2023-09-12T04:42:02Z |
 :END:
 
 [[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]]
@@ -54,8 +54,8 @@ A [[id:9790bcbd-1414-4044-a4ff-3e9326c39e8f][Set]] which allows for duplicate va
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    39.31 | 2023-04-11T21:20:01Z |
-| back     | 2.50 |   5 |    31.91 | 2023-04-03T12:02:33Z |
+| front    | 2.50 |   6 |   104.13 | 2023-07-26T16:01:38Z |
+| back     | 2.65 |   7 |   236.98 | 2024-02-25T00:39:20Z |
 :END:
 
 Multiplicity ([[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]])
@@ -74,8 +74,8 @@ The count of instances of a particular value within a [[id:f25031de-9b51-4f1c-91
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    49.43 | 2023-04-27T04:52:10Z |
-| back     | 2.80 |   5 |    48.43 | 2023-04-27T13:15:29Z |
+| front    | 2.65 |   6 |   142.05 | 2023-09-18T15:32:06Z |
+| back     | 2.80 |   6 |   148.10 | 2023-10-01T20:05:14Z |
 :END:
 
 Cardinality ([[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]])

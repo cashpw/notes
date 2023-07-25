@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       12de8109-6022-476c-ac21-9381115a0bc4
+:LAST_MODIFIED: [2023-07-22 Sat 20:40]
+:END:
+#+title: Vertex-connectivity
+#+hugo_custom_front_matter: :slug "12de8109-6022-476c-ac21-9381115a0bc4"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-24 Sat 20:29]
+#+filetags: :concept:
+
+#+begin_quote
+The vertex-connectivity, or just connectivity, of a graph is the largest k for which the graph is k-vertex-connected [[[id:78c49f16-1956-4ffb-9207-f72f79025d5b][k-vertex-connected graph]]].
+
+[cite:@KvertexconnectedGraph2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-06-24 Sat 20:29]
+:FC_CREATED: 2023-06-25T03:29:59Z
+:FC_TYPE:  double
+:ID:       d117a65c-e871-4d01-af06-5b32878730d6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.05 |   0 |     0.00 | 2023-07-23T03:40:41Z |
+| back     | 2.20 |   4 |    12.46 | 2023-07-23T02:55:08Z |
+:END:
+
+[[id:12de8109-6022-476c-ac21-9381115a0bc4][Vertex-connectivity]]
+
+*** Back
+The largest $k$ for which a graph is [[id:78c49f16-1956-4ffb-9207-f72f79025d5b][k-vertex-connected]].
+*** Source
+[cite:@KvertexconnectedGraph2023]
+#+print_bibliography:

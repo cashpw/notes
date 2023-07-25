@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b17c08ec-80de-45e5-8a8e-529b0f31142c
-:LAST_MODIFIED: [2023-03-14 Tue 08:11]
+:LAST_MODIFIED: [2023-07-10 Mon 08:37]
 :END:
 #+title: Proximate cause
 #+hugo_custom_front_matter: :slug "b17c08ec-80de-45e5-8a8e-529b0f31142c"
@@ -26,8 +26,8 @@ A proximate cause is an event which is closest to, or immediately responsible fo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    41.16 | 2023-03-25T21:35:53Z |
-| back     | 2.50 |   5 |    33.27 | 2023-03-22T21:15:16Z |
+| front    | 2.65 |   7 |   274.91 | 2024-04-10T13:28:51Z |
+| back     | 2.50 |   7 |   208.60 | 2024-01-11T05:58:20Z |
 :END:
 
 [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]
@@ -46,7 +46,7 @@ A cause for an event which is closest to, or immediately responsible for, some o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    75.67 | 2023-05-29T07:20:22Z |
+| front    | 2.35 |   7 |   184.48 | 2023-12-01T03:56:31Z |
 :END:
 
 [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]] and [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]
@@ -61,14 +61,13 @@ A cause for an event which is closest to, or immediately responsible for, some o
 :PROPERTIES:
 :CREATED: [2023-01-12 Thu 11:45]
 :FC_CREATED: 2023-01-12T19:51:49Z
-:FC_TYPE:  double
+:FC_TYPE:  normal
 :ID:       87af1d7d-1f75-4f58-ac30-5cb14a6afc5a
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   5 |    53.43 | 2023-04-06T02:02:56Z |
-| back     | 2.80 |   5 |    39.91 | 2023-03-24T15:33:59Z |
+| front    | 2.95 |   6 |   148.27 | 2023-09-02T05:07:56Z |
 :END:
 
 [[https://en.wikipedia.org/wiki/Costa_Concordia][Costa Concordia]] in terms of [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]] and [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]

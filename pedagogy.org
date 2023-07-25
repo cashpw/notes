@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       85cfa8c4-9c7b-47d9-a593-8548385027f7
-:LAST_MODIFIED: [2023-02-24 Fri 20:05]
+:LAST_MODIFIED: [2023-05-09 Tue 09:44]
 :END:
 #+title: Pedagogy
 #+hugo_custom_front_matter: :slug "85cfa8c4-9c7b-47d9-a593-8548385027f7"
@@ -22,24 +22,19 @@ Pedagogy, most commonly understood as the approach to teaching, is the theory an
 
 * TODO [#2] Expand
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-** Definition :fc:
+** [[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]] :fc:
 :PROPERTIES:
 :ID:       333dcd14-375f-4412-b24f-6bedda5dd0c5
 :ANKI_NOTE_ID: 1658195446075
 :FC_CREATED: 2022-07-19T01:50:46Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   6 |    93.42 | 2023-04-21T00:23:39Z |
-| front    | 2.20 |   6 |    66.12 | 2023-05-02T07:01:43Z |
+| back     | 2.35 |   7 |   240.50 | 2023-12-27T06:50:27Z |
+| front    | 2.05 |   7 |   146.97 | 2023-10-03T16:04:14Z |
 :END:
-[[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]]
-*** Back
 The theory and practice of learning
 *** Extra
 The theory and practice of learning, and how this process influences and is influenced by the development of learners.

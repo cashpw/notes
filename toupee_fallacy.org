@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3cbf088c-94f9-44ac-b9f7-d99ed88e2f50
-:LAST_MODIFIED: [2023-03-13 Mon 07:55]
+:LAST_MODIFIED: [2023-05-06 Sat 10:49]
 :END:
 #+title: Toupee fallacy
 #+hugo_custom_front_matter: :slug "3cbf088c-94f9-44ac-b9f7-d99ed88e2f50"
@@ -32,8 +32,8 @@ A form of selection bias [[[id:513126d1-6d47-4b87-84a4-5bf10afce897][Selection b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    45.82 | 2023-04-17T11:40:53Z |
-| back     | 2.80 |   5 |    46.55 | 2023-04-29T04:13:17Z |
+| front    | 2.65 |   6 |   121.08 | 2023-08-16T17:42:58Z |
+| back     | 2.80 |   6 |   129.00 | 2023-09-12T17:45:50Z |
 :END:
 
 [[id:3cbf088c-94f9-44ac-b9f7-d99ed88e2f50][Toupee fallacy]]

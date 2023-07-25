@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       fe0a27cf-4e5d-4f3f-a291-6b886524b002
+:ROAM_ALIASES: "Global service load balancing" "Global server load balancing" GSLB "Global server load balancer"
+:ROAM_REFS: [cite:@WhatGlobalServerLoadBalancingGSLB]
+:LAST_MODIFIED: [2023-06-12 Mon 17:17]
+:END:
+#+title: Global service load balancer
+#+hugo_custom_front_matter: :slug "fe0a27cf-4e5d-4f3f-a291-6b886524b002"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-22 Wed 08:34]
+#+filetags: :concept:
+
+#+begin_quote
+Global server load balancing (GSLB) is a method of distributing Internet traffic to a network of servers across the globe, creating a faster and more reliable user experience.
+
+[cite:@WhatGlobalServerLoadBalancingGSLB]
+#+end_quote
+
+Also see [[id:44890929-fa24-4a69-b261-04107a005903][Load balancing]].
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-03-22 Wed 08:37]
+:FC_CREATED: 2023-03-22T15:38:09Z
+:FC_TYPE:  double
+:ID:       ca08aa12-1f93-4821-a3ed-bb8e3e09ec66
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    86.18 | 2023-08-27T18:35:40Z |
+| back     | 2.50 |   6 |    90.21 | 2023-09-11T05:25:51Z |
+:END:
+
+[[id:fe0a27cf-4e5d-4f3f-a291-6b886524b002][Global service load balancing]]
+
+*** Back
+The method of distributing Internet traffic to a network of servers around the globe.
+*** Source
+[cite:@WhatGlobalServerLoadBalancingGSLB]
+#+print_bibliography:

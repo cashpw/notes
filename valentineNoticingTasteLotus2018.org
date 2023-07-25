@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@valentineNoticingTasteLotus2018]
 :ID:       83ed5740-7670-4308-b82b-4bb788978e54
 :DIR:      /home/cashweaver/proj/roam/attachments/83ed5740-7670-4308-b82b-4bb788978e54
-:LAST_MODIFIED: [2023-02-16 Thu 19:28]
+:LAST_MODIFIED: [2023-06-11 Sun 10:21]
 :END:
 #+title: Notice the taste of lotus
 #+hugo_custom_front_matter: :slug "83ed5740-7670-4308-b82b-4bb788978e54"
@@ -50,8 +50,8 @@ Related: [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your default
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   114.18 | 2023-06-11T07:46:12Z |
-| back     | 2.50 |   6 |    97.93 | 2023-05-21T16:01:15Z |
+| front    | 2.80 |   7 |   300.74 | 2024-04-07T11:13:44Z |
+| back     | 2.50 |   7 |   268.98 | 2024-02-15T13:20:58Z |
 :END:
 
 [[id:83ed5740-7670-4308-b82b-4bb788978e54][Notice the taste of lotus]]

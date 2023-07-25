@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7b600674-2c87-4532-b676-a6e025fca18e
-:LAST_MODIFIED: [2023-02-28 Tue 06:59]
+:LAST_MODIFIED: [2023-06-03 Sat 21:29]
 :END:
 #+title: Rent-seeking
 #+hugo_custom_front_matter: :slug "7b600674-2c87-4532-b676-a6e025fca18e"
@@ -26,8 +26,8 @@ Rent-seeking is the act of growing one's existing wealth without creating new we
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    91.47 | 2023-05-29T03:26:17Z |
-| back     | 2.80 |   6 |    94.29 | 2023-06-02T21:57:31Z |
+| front    | 2.50 |   7 |   232.97 | 2024-01-18T15:41:40Z |
+| back     | 2.80 |   7 |   285.37 | 2024-03-15T13:27:44Z |
 :END:
 
 [[id:7b600674-2c87-4532-b676-a6e025fca18e][Rent-seeking]]

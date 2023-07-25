@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DrugWarConfessional]
 :ID:       a0010be4-80dd-447b-a35f-528e5d484499
-:LAST_MODIFIED: [2023-03-17 Fri 07:01]
+:LAST_MODIFIED: [2023-05-14 Sun 07:50]
 :END:
 #+title: John Ehrlichman | You want to know what this was really all about?
 #+hugo_custom_front_matter: :slug "a0010be4-80dd-447b-a35f-528e5d484499"
@@ -33,8 +33,8 @@ Did we know we were lying about the drugs? Of course we did.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-03-19T14:36:28Z |
-| back     | 2.50 |   3 |     6.00 | 2023-03-23T14:01:59Z |
+| front    | 2.50 |   6 |    83.23 | 2023-07-30T22:42:30Z |
+| back     | 2.50 |   6 |    89.44 | 2023-08-12T01:23:23Z |
 :END:
 
 [[id:67e4a0c7-322e-4804-928e-856c5e0c4468][John Ehrlichman]] on the real reason for the war on drugs

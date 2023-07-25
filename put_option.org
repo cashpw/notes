@@ -2,7 +2,7 @@
 :ID:       7b7185c2-db8c-4e53-b9a1-795cc36ab508
 :ROAM_ALIASES: "Put options"
 :ROAM_REFS: [cite:@PutOption2022]
-:LAST_MODIFIED: [2023-02-15 Wed 08:07]
+:LAST_MODIFIED: [2023-06-09 Fri 08:30]
 :END:
 #+title: Put option
 #+hugo_custom_front_matter: :slug "7b7185c2-db8c-4e53-b9a1-795cc36ab508"
@@ -26,8 +26,8 @@ In finance, a put or put option is a [[id:7edbf731-5e0c-4eda-9803-1b1a88468f71][
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   113.96 | 2023-06-09T15:05:10Z |
-| back     | 2.95 |   5 |    53.68 | 2023-03-21T07:27:23Z |
+| front    | 2.95 |   7 |   332.01 | 2024-05-06T15:38:05Z |
+| back     | 2.95 |   6 |   144.86 | 2023-08-13T14:11:28Z |
 :END:
 
 [[id:7b7185c2-db8c-4e53-b9a1-795cc36ab508][Put option]]

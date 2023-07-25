@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@tellmanSeniorEngineersReduceRisk]
 :ID:       e7753777-506e-490e-b79e-59dede5dce2e
 :DIR:      /home/cashweaver/proj/roam/attachments/e7753777-506e-490e-b79e-59dede5dce2e
-:LAST_MODIFIED: [2022-12-25 Sun 07:20]
+:LAST_MODIFIED: [2023-06-26 Mon 09:24]
 :END:
 #+title: Zach Tellman | Senior Engineers Reduce Risk
 #+hugo_custom_front_matter: :slug "e7753777-506e-490e-b79e-59dede5dce2e"
@@ -13,9 +13,6 @@
 [[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]], [cite:@tellmanSeniorEngineersReduceRisk]
 
 * Notes
-:PROPERTIES:
-:ID:       ed55c6ed-9a81-4b02-837f-efbf075966c8
-:END:
 #+begin_quote
 If you read articles on career development in software, you'll already know there are many things a senior engineer is not. They are not, for instance, just someone with ten years of experience. They are not just someone who maintains a popular open source project. They are not just someone who wrote the initial prototype for their company's flagship product.
 
@@ -54,7 +51,7 @@ Every company has different risks, and so every company expects something differ
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   112.55 | 2023-05-30T11:12:25Z |
+|        0 | 2.80 |   5 |    40.36 | 2023-08-06T01:06:45Z |
 :END:
 *** Source
 [cite:@tellmanSeniorEngineersReduceRisk]

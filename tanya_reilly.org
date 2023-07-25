@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1
+:LAST_MODIFIED: [2023-06-09 Fri 08:36]
+:END:
+#+title: Tanya Reilly
+#+hugo_custom_front_matter: :slug "ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1"
+#+author: Cash Prokop-Weaver
+#+date: [2023-03-18 Sat 13:26]
+#+filetags: :person:
+* Flashcards
+** Author :fc:
+:PROPERTIES:
+:CREATED: [2023-03-19 Sun 12:29]
+:FC_CREATED: 2023-03-19T19:29:53Z
+:FC_TYPE:  normal
+:ID:       a58d3bdb-f076-4543-9b8d-3b46965b7be6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.65 |   6 |    97.16 | 2023-09-14T19:21:17Z |
+:END:
+
+[[id:ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1][Tanya Reilly]]
+
+*** Back
+- [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][The Staff Engineer's Path]].
+*** Source

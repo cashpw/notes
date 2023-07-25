@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d6d36741-18ca-48fe-bb2e-85bc849ddd93
-:LAST_MODIFIED: [2023-02-14 Tue 20:41]
+:LAST_MODIFIED: [2023-07-20 Thu 08:19]
 :END:
 #+title: Tragedy of the commons
 #+hugo_custom_front_matter: :slug "d6d36741-18ca-48fe-bb2e-85bc849ddd93"
@@ -30,8 +30,8 @@ Related: [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   6 |    66.26 | 2023-03-19T20:50:05Z |
-| front    | 2.80 |   6 |   116.64 | 2023-06-11T19:58:01Z |
+| back     | 2.50 |   7 |   164.24 | 2023-08-31T22:07:22Z |
+| front    | 2.80 |   7 |   337.98 | 2024-05-15T23:44:16Z |
 :END:
 [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]
 *** Back
@@ -48,13 +48,12 @@ A situation in which individuals who have access to a shared resource, acting in
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   186.92 | 2023-07-19T15:00:21Z |
-| back     | 2.50 |   7 |   167.93 | 2023-06-28T13:13:45Z |
+| front    | 2.50 |   8 |   497.31 | 2024-11-28T22:52:39Z |
+| back     | 2.50 |   8 |   460.07 | 2024-09-30T18:57:46Z |
 :END:
 [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the commons]]
 *** Back
 - Overfishing; see [[id:314c1b9f-bc99-4536-8b9f-f4d24a41dc36][Fish farming story]]
 - The Earth's climate; see climate change
 - Everything; see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
-[cite:@TragedyCommons2022]
 #+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       89f17c46-04dc-42ba-bda2-7ac14c5cbae0
-:LAST_MODIFIED: [2023-03-10 Fri 21:23]
+:LAST_MODIFIED: [2023-07-05 Wed 21:14]
 :END:
 #+title: The left has no place it wants to go
 #+hugo_custom_front_matter: :slug "89f17c46-04dc-42ba-bda2-7ac14c5cbae0"
@@ -30,8 +30,8 @@ This is in part (in the context of politics in the US) because those on the left
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   105.07 | 2023-06-09T05:21:20Z |
-| back     | 2.35 |   6 |    76.90 | 2023-05-27T02:58:08Z |
+| front    | 2.80 |   7 |   305.64 | 2024-04-10T06:47:56Z |
+| back     | 2.35 |   7 |   170.18 | 2023-11-17T20:02:31Z |
 :END:
 
 [[id:89f17c46-04dc-42ba-bda2-7ac14c5cbae0][The left has no place it wants to go]]
@@ -52,7 +52,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    66.40 | 2023-04-28T06:53:15Z |
+|        0 | 2.20 |   7 |   133.16 | 2023-09-09T18:08:57Z |
 :END:
 
 *** Source
@@ -70,7 +70,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   5 |    21.07 | 2023-03-23T05:55:31Z |
+|        0 | 1.30 |   9 |    31.62 | 2023-08-06T19:08:26Z |
 :END:
 
 *** Source
@@ -87,7 +87,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    60.51 | 2023-04-18T13:56:44Z |
+|        0 | 2.20 |   7 |   126.69 | 2023-09-03T07:12:48Z |
 :END:
 
 *** Source

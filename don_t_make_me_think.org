@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       335314f6-0958-4d7e-a0bd-76b83bee3044
+:LAST_MODIFIED: [2023-07-04 Tue 12:25]
+:ROAM_REFS: [cite:@DonMakeMeThink2023]
+:END:
+#+title: Don't make me think
+#+hugo_custom_front_matter: :slug "335314f6-0958-4d7e-a0bd-76b83bee3044"
+#+author: Cash Prokop-Weaver
+#+date: [2023-06-06 Tue 08:44]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a good software program or web site should let users accomplish their intended tasks as easily and directly as possible. Krug points out that people are good at satisficing, or taking the first available solution to their problem, so design should take advantage of this.
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-06-06 Tue 08:45]
+:FC_CREATED: 2023-06-06T15:46:03Z
+:FC_TYPE:  double
+:ID:       4cda7ac7-070a-4cca-88e1-6efec7f589ca
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   5 |    36.95 | 2023-08-08T23:49:54Z |
+| back     | 2.50 |   5 |    42.83 | 2023-08-16T15:15:05Z |
+:END:
+
+[[id:335314f6-0958-4d7e-a0bd-76b83bee3044][Don't make me think]]
+
+*** Back
+A product, service, solution, etc, should allow its users to accomplish their intended tasks as easily and directly as possible.
+
+You should set up the correct way to do X to also be the most obvious, simplest, way to do X.
+*** Source
+[cite:@DonMakeMeThink2023]
+#+print_bibliography:

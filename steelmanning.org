@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       057b0009-21be-4e62-9a0b-1166c8002d07
-:LAST_MODIFIED: [2023-03-14 Tue 08:15]
+:LAST_MODIFIED: [2023-07-20 Thu 08:23]
 :ROAM_ALIASES: "Steel man"
 :END:
 #+title: Steelmanning
@@ -30,23 +30,20 @@ If I were an ungenerous person, I'd say that "steelmanning" was about gamesmansh
 #+end_quote
 
 * Flashcards
-** Definition :fc:
+** [[id:057b0009-21be-4e62-9a0b-1166c8002d07][Steelmanning]] :fc:
 :PROPERTIES:
 :CREATED: [2023-01-29 Sun 19:19]
 :FC_CREATED: 2023-01-30T03:20:58Z
-:FC_TYPE:  double
+:FC_TYPE:  vocab
 :ID:       13d4ef0a-dc1f-468c-8103-e0c28ed2d8f4
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    50.11 | 2023-04-29T05:37:45Z |
-| back     | 2.80 |   5 |    49.33 | 2023-05-02T23:12:56Z |
+| front    | 2.80 |   6 |   142.91 | 2023-09-20T16:41:41Z |
+| back     | 2.35 |   3 |     6.00 | 2023-07-26T15:23:31Z |
 :END:
 
-[[id:057b0009-21be-4e62-9a0b-1166c8002d07][Steelmanning]]
-
-*** Back
 #+begin_quote
 ... is the practice of addressing the strongest form of "the other person's argument, even if it's not the one they presented".
 #+end_quote

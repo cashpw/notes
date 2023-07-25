@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       166a96a1-466f-43dd-a9f6-ec18d2ba9b36
+:LAST_MODIFIED: [2023-07-14 Fri 06:21]
+:ROAM_REFS: [cite:@rosieFeynmanLearningTechnique2021] [cite:@streetFeynmanTechniqueBestWayLearnAnything2012]
+:END:
+#+title: Feynman technique
+#+hugo_custom_front_matter: :slug "166a96a1-466f-43dd-a9f6-ec18d2ba9b36"
+#+author: Cash Prokop-Weaver
+#+date: [2023-05-13 Sat 06:34]
+#+filetags: :concept:
+
+#+begin_quote
+[...] jargon, vague words, and complexity reveal a lack of understanding.
+
+There are four key steps to the Feynman Technique:
+
+1. Choose a concept you want to learn about
+2. Explain it to a 12 year old
+3. Reflect, Refine, and Simplify
+4. Organize and Review
+
+[cite:@streetFeynmanTechniqueBestWayLearnAnything2012]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-05-13 Sat 06:39]
+:FC_CREATED: 2023-05-13T13:39:49Z
+:FC_TYPE:  double
+:ID:       b605ddf8-dc79-4ba3-9acc-07cd78fd3d5b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   6 |    82.39 | 2023-10-04T22:40:14Z |
+| back     | 2.50 |   5 |    41.64 | 2023-07-30T05:49:07Z |
+:END:
+
+[[id:166a96a1-466f-43dd-a9f6-ec18d2ba9b36][Feynman technique]]
+
+*** Back
+1. Choose a concept you want to learn about
+2. Explain it to a 12 year old
+3. Reflect, Refine, and Simplify
+4. Organize and Review
+*** Source
+[cite:@streetFeynmanTechniqueBestWayLearnAnything2012]
+#+print_bibliography:

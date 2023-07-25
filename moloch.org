@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3aea1e2f-dd21-4c21-a8c9-7efd610424c4
-:LAST_MODIFIED: [2022-12-25 Sun 07:24]
+:LAST_MODIFIED: [2023-07-23 Sun 20:58]
 :END:
 #+title: Moloch
 #+hugo_custom_front_matter: :slug "3aea1e2f-dd21-4c21-a8c9-7efd610424c4"
@@ -8,13 +8,13 @@
 #+date: [2022-03-13 Sun 20:24]
 #+filetags: :concept:
 
-
 * Carthaginian demon
 
 #+begin_quote
 Since the medieval period, Moloch has often been portrayed as a bull-headed idol with outstretched hands over a fire; this depiction takes the brief mentions of Moloch in the Bible and combines them with various sources, including ancient accounts of Carthaginian child sacrifice and the legend of the Minotaur.
 
 "Moloch" has been figuratively used in reference to a person or a thing which demands or requires a very costly sacrifice
+
 [cite:@Moloch2022]
 #+end_quote
 
@@ -66,8 +66,8 @@ Related:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   7 |   135.70 | 2023-03-20T17:10:14Z |
-| front    | 2.50 |   7 |   150.73 | 2023-05-25T09:01:53Z |
+| back     | 2.80 |   8 |   369.87 | 2024-03-25T14:20:37Z |
+| front    | 2.50 |   8 |   366.86 | 2024-05-26T10:54:06Z |
 :END:
 
 [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
@@ -88,7 +88,7 @@ Systems which compel the individuals within them to race to the bottom; to choos
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   214.32 | 2023-07-23T22:59:28Z |
+| front    | 2.65 |   8 |   533.78 | 2025-01-07T22:42:25Z |
 :END:
 
 [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] and [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the Commons]]

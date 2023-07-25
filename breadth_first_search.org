@@ -2,13 +2,13 @@
 :ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
 :ROAM_REFS: [cite:@BreadthfirstSearch2022]
 :ROAM_ALIASES: BFS
-:LAST_MODIFIED: [2023-03-14 Tue 08:13]
+:LAST_MODIFIED: [2023-07-19 Wed 06:38]
 :END:
 #+title: Breadth-first search
 #+hugo_custom_front_matter: :slug "cff4f06c-6179-423d-aa1d-ba54d85615e2"
 #+author: Cash Prokop-Weaver
 #+date: [2022-06-29 Wed 17:20]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 #+begin_quote
 Breadth-first search (BFS) is an algorithm for searching a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [or [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]], is needed to keep track of the child nodes that were encountered but not yet explored.
@@ -75,7 +75,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   100.75 | 2023-04-17T08:21:46Z |
+| front    | 2.50 |   7 |   257.53 | 2024-01-11T11:34:23Z |
 :END:
 
 *** Context
@@ -121,7 +121,7 @@ Computer science
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   107.36 | 2023-03-25T00:19:18Z |
+|        0 | 2.80 |   7 |   314.91 | 2024-02-03T17:04:29Z |
 |        1 | 2.50 |   7 |   207.69 | 2023-09-26T08:17:16Z |
 :END:
 *** Extra
@@ -141,7 +141,7 @@ Computer science
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   4 |    11.57 | 2023-03-21T16:26:56Z |
+|        0 | 1.90 |   7 |    73.64 | 2023-08-04T05:13:45Z |
 :END:
 *** Extra
 *** Source
@@ -160,14 +160,14 @@ Computer science
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   162.03 | 2023-06-07T17:09:36Z |
+|        0 | 2.50 |   8 |   442.15 | 2024-08-24T19:08:09Z |
 :END:
 *** Extra
 *** Source
 [cite:@BreadthfirstSearch2022]
 
 
-** TODO [#1] Implement [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] :fc:suspended:
+** Implement [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] :fc:implement:
 :PROPERTIES:
 :ID:       0dc09732-5e53-4254-9998-2f0f304a6fab
 :ANKI_NOTE_ID: 1662498105869
@@ -177,6 +177,7 @@ Computer science
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        front |  2.5 |  -1 |        0 | 2022-01-01T13:00:00Z |
+| front    | 2.50 |   2 |     2.00 | 2023-07-21T13:38:55Z |
 :END:
+[[id:50d70056-c314-40bd-b9d2-64e254fe3f50][Breadth-first search in python]]
 #+print_bibliography:

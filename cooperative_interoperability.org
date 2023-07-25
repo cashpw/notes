@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d
-:LAST_MODIFIED: [2023-01-29 Sun 11:00]
+:LAST_MODIFIED: [2023-06-25 Sun 10:46]
 :END:
 #+title: Cooperative interoperability
 #+hugo_custom_front_matter: :slug "22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d"
@@ -26,8 +26,8 @@ One of the easiest ways to do this is to adopt a standard: [...] any phone manuf
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |    91.21 | 2023-04-14T21:37:12Z |
-| back     | 2.50 |   6 |   121.28 | 2023-05-31T01:48:03Z |
+| front    | 2.80 |   7 |   280.65 | 2024-02-06T15:09:27Z |
+| back     | 2.50 |   7 |   308.16 | 2024-04-03T19:18:09Z |
 :END:
 
 [[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]
@@ -46,8 +46,8 @@ One of the easiest ways to do this is to adopt a standard: [...] any phone manuf
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   125.09 | 2023-05-22T04:25:39Z |
-| back     | 3.10 |   6 |   138.21 | 2023-06-25T08:50:51Z |
+| front    | 3.10 |   7 |   388.75 | 2024-06-14T07:49:43Z |
+| back     | 3.10 |   7 |   392.80 | 2024-07-22T12:54:38Z |
 :END:
 
 [[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]
@@ -69,8 +69,8 @@ One of the easiest ways to do this is to adopt a standard: [...] any phone manuf
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    77.98 | 2023-03-26T14:34:40Z |
-|        1 | 2.50 |   6 |    79.60 | 2023-04-15T07:24:27Z |
+|        0 | 2.50 |   7 |   210.24 | 2023-10-23T22:07:59Z |
+|        1 | 2.50 |   7 |   196.90 | 2023-11-22T14:17:28Z |
 :END:
 *** Source
 [cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]

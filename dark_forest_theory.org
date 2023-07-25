@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       53a94f95-9ee7-4f8a-92bf-9501d5768a1f
 :ROAM_REFS: [cite:@liuDarkForest2015]
-:LAST_MODIFIED: [2023-02-24 Fri 19:51]
+:LAST_MODIFIED: [2023-06-03 Sat 21:32]
 :END:
 #+title: Dark forest theory
 #+hugo_custom_front_matter: :slug "53a94f95-9ee7-4f8a-92bf-9501d5768a1f"
@@ -43,8 +43,8 @@ Related: [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    88.08 | 2023-05-10T01:53:20Z |
-| back     | 2.50 |   6 |    98.56 | 2023-06-03T17:25:14Z |
+| front    | 2.50 |   7 |   232.00 | 2023-12-28T16:07:37Z |
+| back     | 2.50 |   7 |   245.11 | 2024-02-04T07:15:52Z |
 :END:
 
 [[id:53a94f95-9ee7-4f8a-92bf-9501d5768a1f][Dark forest theory]]

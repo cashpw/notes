@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       31a42b11-aca6-41e8-a41a-5fb97006ddc2
 :ROAM_REFS: [cite:@CooperativeGameTheory2022]
-:LAST_MODIFIED: [2023-02-01 Wed 09:14]
+:LAST_MODIFIED: [2023-06-11 Sun 10:16]
 :END:
 #+title: Cooperative game
 #+hugo_custom_front_matter: :slug "31a42b11-aca6-41e8-a41a-5fb97006ddc2"
@@ -26,14 +26,14 @@ In [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], a [[id:31a42b11-aca
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   140.88 | 2023-06-08T12:29:55Z |
-| back     | 2.80 |   6 |   115.42 | 2023-05-22T00:57:38Z |
+| front    | 2.80 |   7 |   358.82 | 2024-06-01T11:30:22Z |
+| back     | 2.80 |   7 |   339.82 | 2024-04-26T09:34:38Z |
 :END:
 
 [[id:31a42b11-aca6-41e8-a41a-5fb97006ddc2][Cooperative game]]
 
 *** Back
-A game in which there is external authority which enforces aggreements (e.g. a government to enforce contract law).
+A game in which there is external authority which enforces agreements (e.g. a government to enforce contract law).
 *** Source
 [cite:@CooperativeGameTheory2022]
 ** Compare/Contrast :fc:
@@ -46,7 +46,7 @@ A game in which there is external authority which enforces aggreements (e.g. a g
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   129.71 | 2023-06-11T10:16:19Z |
+| front    | 2.80 |   7 |   331.60 | 2024-05-08T07:40:00Z |
 :END:
 
 [[id:31a42b11-aca6-41e8-a41a-5fb97006ddc2][Cooperative game]] and [[id:e826003f-a13e-4cce-9b80-30f8bd802374][Non-cooperative game]]

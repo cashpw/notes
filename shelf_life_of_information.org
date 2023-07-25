@@ -2,7 +2,7 @@
 :ID:       0b20dbe0-1576-4c38-baa4-32522b42f798
 :ROAM_ALIASES: "Half-life of information"
 :ROAM_REFS: [cite:@streetHalfLifeDecayKnowledgeWhatIt2018]
-:LAST_MODIFIED: [2023-02-12 Sun 09:36]
+:LAST_MODIFIED: [2023-07-11 Tue 06:04]
 :END:
 #+title: Shelf-life of information
 #+hugo_custom_front_matter: :slug "0b20dbe0-1576-4c38-baa4-32522b42f798"
@@ -30,8 +30,8 @@ Another way to think of this is to answer "How much will X matter to people 100 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   149.88 | 2023-07-10T21:06:17Z |
-| back     | 2.80 |   6 |   112.53 | 2023-06-05T06:25:48Z |
+| front    | 3.10 |   7 |   484.87 | 2024-11-07T09:59:16Z |
+| back     | 2.95 |   7 |   350.14 | 2024-05-20T18:18:26Z |
 :END:
 
 [[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Shelf-life of information]]
@@ -51,8 +51,8 @@ The length of time for which a piece of information is useful.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   133.06 | 2023-06-08T16:29:53Z |
-|        1 | 2.50 |   6 |   116.10 | 2023-05-26T18:46:27Z |
+|        0 | 2.80 |   7 |   383.86 | 2024-06-27T12:10:31Z |
+|        1 | 2.50 |   7 |   267.24 | 2024-02-22T21:27:35Z |
 :END:
 
 - {{[[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Half-life of information]]}@0}
@@ -68,8 +68,8 @@ The length of time for which a piece of information is useful.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    75.60 | 2023-03-31T08:41:41Z |
-| back     | 2.50 |   6 |    89.74 | 2023-05-11T09:55:33Z |
+| front    | 2.20 |   7 |   167.01 | 2023-09-14T16:02:50Z |
+| back     | 2.50 |   7 |   217.81 | 2023-12-15T10:39:16Z |
 :END:
 
 [[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Shelf-life of information]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7e950603-75ef-4f19-9536-1410fccdd210
 :ROAM_ALIASES: MSL
-:LAST_MODIFIED: [2023-03-09 Thu 18:58]
+:LAST_MODIFIED: [2023-05-12 Fri 09:03]
 :ROAM_REFS: [cite:@SeaLevel2023]
 :END:
 #+title: Mean sea level
@@ -29,8 +29,8 @@ Mean sea level (MSL, often shortened to sea level) is an average surface level o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   4 |    17.08 | 2023-03-25T19:13:55Z |
-|        1 | 2.65 |   4 |    16.20 | 2023-03-26T07:47:55Z |
+|        0 | 2.80 |   6 |   127.01 | 2023-09-16T16:22:11Z |
+|        1 | 2.65 |   6 |   125.78 | 2023-09-13T10:33:19Z |
 :END:
 
 - {{[[id:7e950603-75ef-4f19-9536-1410fccdd210][MSL]]}@0}

@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID:       7b23cb95-12d8-44e3-8caf-5ad91e596e1c
-:LAST_MODIFIED: [2022-12-31 Sat 12:00]
+:LAST_MODIFIED: [2023-06-24 Sat 20:11]
 :END:
 #+title: How to pour plaster
 #+hugo_custom_front_matter: :slug "7b23cb95-12d8-44e3-8caf-5ad91e596e1c"
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-28 Wed 12:20]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
+
+Plaster is useful in [[id:eefb478b-2083-4445-884d-755005a26f2f][Ceramics]] for drying overly-wet plastic (reclaim) clay.
 
 * Bubbles
 
@@ -30,5 +32,5 @@ A tip that I picked up from TimSee, is to spritz the plaster with alcohol.  This
 - Wear gloves
 - Work in a well ventilated area
 
-* TODO [#2] Flashcards
+* Flashcards
 #+print_bibliography:

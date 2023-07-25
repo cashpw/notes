@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76
 :DIR:      /home/cashweaver/proj/roam/attachments/d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76
-:LAST_MODIFIED: [2023-02-12 Sun 09:27]
+:LAST_MODIFIED: [2023-06-12 Mon 17:13]
 :END:
 #+title: Plans within plans within plans
 #+hugo_custom_front_matter: :slug "d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76"
@@ -30,7 +30,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   119.18 | 2023-06-11T21:52:54Z |
+|        0 | 2.80 |   7 |   312.27 | 2024-04-20T06:47:16Z |
 :END:
 
 *** Source
