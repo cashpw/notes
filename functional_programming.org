@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f690a8ad-4069-4e96-a707-2a57f638c493
-:LAST_MODIFIED: [2023-07-23 Sun 20:56]
+:LAST_MODIFIED: [2023-07-26 Wed 08:10]
 :ROAM_REFS: [cite:@FunctionalProgramming2023]
 :END:
 #+title: Functional programming
@@ -94,7 +94,7 @@ A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] which models
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   6 |    87.91 | 2023-10-13T11:44:28Z |
-|        1 | 2.35 |   5 |    34.43 | 2023-07-25T01:22:42Z |
+|        1 | 2.20 |   6 |    68.21 | 2023-10-02T20:15:58Z |
 :END:
 
 The fundamental operation in {{[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]}@0} is {{a reduction}@1}.

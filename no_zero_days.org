@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a
 :DIR:      /home/cashweaver/proj/roam/attachments/a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a
-:LAST_MODIFIED: [2023-06-07 Wed 08:00]
+:LAST_MODIFIED: [2023-07-26 Wed 08:01]
 :END:
 #+title: No zero days
 #+hugo_custom_front_matter: :slug "a3105a8b-c9b7-4e6e-b3af-b9573bd2f70a"
@@ -25,7 +25,7 @@ Make at least a little bit of [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][growth]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   149.77 | 2023-07-26T10:32:19Z |
+| front    | 3.10 |   7 |   425.91 | 2024-09-24T12:50:58Z |
 | back     | 2.65 |   7 |   240.75 | 2024-02-03T09:01:40Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       47d756da-f670-4377-83ae-3ea0fc25bc1b
-:LAST_MODIFIED: [2023-05-30 Tue 09:16]
+:LAST_MODIFIED: [2023-07-26 Wed 07:59]
 :END:
 #+title: Object level
 #+hugo_custom_front_matter: :slug "47d756da-f670-4377-83ae-3ea0fc25bc1b"
@@ -25,7 +25,7 @@ Object level vs Meta level [[[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta leve
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   116.80 | 2023-07-23T22:22:13Z |
+| front    | 2.80 |   7 |   301.59 | 2024-05-23T05:06:48Z |
 | back     | 2.35 |   7 |   166.86 | 2023-11-07T17:04:52Z |
 :END:
 

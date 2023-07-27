@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a41fccc0-fe85-462b-b8e9-5758fd6327b3
 :ROAM_ALIASES: Interoperable
-:LAST_MODIFIED: [2023-05-22 Mon 06:57]
+:LAST_MODIFIED: [2023-07-26 Wed 08:02]
 :END:
 #+title: Interoperability
 #+hugo_custom_front_matter: :slug "a41fccc0-fe85-462b-b8e9-5758fd6327b3"
@@ -34,7 +34,7 @@ Interoperability is a characteristic of a product or system to work with other p
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   277.37 | 2024-02-23T22:46:47Z |
-| back     | 2.95 |   6 |   135.81 | 2023-07-25T00:59:37Z |
+| back     | 2.95 |   7 |   375.58 | 2024-08-05T04:55:03Z |
 :END:
 
 [[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Interoperability]]

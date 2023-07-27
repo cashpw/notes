@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       054a9fb8-f19c-4bd6-8445-c5f8c3f30a25
-:LAST_MODIFIED: [2023-05-22 Mon 06:56]
+:LAST_MODIFIED: [2023-07-25 Tue 19:56]
 :END:
 #+title: Projection (Linear algebra)
 #+hugo_custom_front_matter: :slug "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
@@ -37,7 +37,7 @@ Create notes for each of the links in the above quote. I think I have flashcards
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.20 |   7 |   113.38 | 2023-07-24T06:40:32Z |
+|        1 | 2.20 |   8 |   230.04 | 2024-03-12T03:49:34Z |
 |        0 | 2.50 |   7 |   218.22 | 2023-12-08T22:06:28Z |
 :END:
 

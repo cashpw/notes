@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-07-23 Sun 20:53]
+:LAST_MODIFIED: [2023-07-26 Wed 07:54]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -468,7 +468,7 @@ A series of data points indexed in time-order.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |   9 |   319.67 | 2024-02-03T08:24:41Z |
-| front    | 2.65 |   7 |   141.48 | 2023-04-05T03:52:01Z |
+| front    | 2.65 |   8 |   350.33 | 2024-07-10T10:51:55Z |
 :END:
 
 Base rate
@@ -1697,7 +1697,7 @@ The difference between an estimator's expected value and the true value of the p
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.60 |   7 |    50.25 | 2023-09-05T19:49:30Z |
-| front    | 2.35 |   6 |    75.13 | 2023-04-23T00:36:10Z |
+| front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
 :END:
 
 Correlation

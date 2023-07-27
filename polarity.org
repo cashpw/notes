@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       621bc458-5d22-462d-89df-e3f8e13d6dc4
-:LAST_MODIFIED: [2023-06-13 Tue 07:48]
+:LAST_MODIFIED: [2023-07-25 Tue 19:56]
 :END:
 #+title: Polarity
 #+hugo_custom_front_matter: :slug "621bc458-5d22-462d-89df-e3f8e13d6dc4"
@@ -59,7 +59,7 @@ Multipolarity is a distribution of power in which more than two nation-states ha
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   214.44 | 2023-07-25T02:25:42Z |
+| back     | 2.35 |   8 |   465.94 | 2024-11-03T01:37:06Z |
 | front    | 2.35 |   8 |   415.16 | 2024-08-01T18:43:52Z |
 :END:
 [[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]

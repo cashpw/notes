@@ -2,7 +2,7 @@
 :ID:       5185ffd0-b643-484a-a69d-85b7579eb38d
 :ROAM_ALIASES: "Inferential gap"
 :ROAM_REFS: [cite:@InferentialDistance]
-:LAST_MODIFIED: [2023-03-27 Mon 10:13]
+:LAST_MODIFIED: [2023-07-25 Tue 20:01]
 :END:
 #+title: Inferential distance
 #+hugo_custom_front_matter: :slug "5185ffd0-b643-484a-a69d-85b7579eb38d"
@@ -62,7 +62,7 @@ The set of prerequisite knowledge required to understand a new concept lacked by
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   198.21 | 2023-07-25T20:30:37Z |
+| front    | 2.65 |   8 |   512.04 | 2024-12-19T04:02:08Z |
 | back     | 2.20 |   7 |   168.58 | 2023-09-12T07:13:22Z |
 :END:
 

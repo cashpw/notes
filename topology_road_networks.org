@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       80204036-f6a9-4c5e-a02d-0112f517e9a3
-:LAST_MODIFIED: [2023-07-24 Mon 12:11]
+:LAST_MODIFIED: [2023-07-25 Tue 12:45]
 :END:
 #+title: Topology (Road networks)
 #+hugo_custom_front_matter: :slug "80204036-f6a9-4c5e-a02d-0112f517e9a3"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-23 Fri 07:57]
-#+filetags: :concept:
+#+filetags: :has_todo:concept:
 
 #+begin_quote
 The topology is a set of static properties of each road segment or turn, such as physical length, road category, speed limits, and turn types.

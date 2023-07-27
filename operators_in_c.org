@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-07-23 Sun 21:06]
+:LAST_MODIFIED: [2023-07-26 Wed 07:59]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -157,7 +157,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   4 |    12.98 | 2023-07-28T13:47:53Z |
-| back     |  2.5 |  -1 |        0 | 2023-05-04T23:28:36Z |
+| back     | 2.50 |   0 |     0.00 | 2023-07-26T02:55:14Z |
 :END:
 
 [[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Get-from operator]]
@@ -373,7 +373,7 @@ char x = *p;
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.67 | 2023-07-22T16:12:42Z |
+| front    | 2.50 |   5 |    39.69 | 2023-09-04T07:30:12Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-11T15:40:41Z |
 :END:
 

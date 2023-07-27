@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       2158d636-d703-44fc-bf67-c0f6ee7c56b1
 :ROAM_REFS: [cite:@kingIfYouCanFlyThenRun]
-:LAST_MODIFIED: [2023-07-24 Mon 11:59]
+:LAST_MODIFIED: [2023-07-25 Tue 11:38]
 :END:
 #+title: If you can't fly then run
 #+hugo_custom_front_matter: :slug "2158d636-d703-44fc-bf67-c0f6ee7c56b1"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-06 Tue 08:52]
-#+filetags: :quote:
+#+filetags: :has_todo:quote:
 
 #+begin_quote
 If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3a203296-7538-4986-a360-0db64356c9f5
-:LAST_MODIFIED: [2023-05-24 Wed 13:22]
+:LAST_MODIFIED: [2023-07-26 Wed 08:09]
 :END:
 #+title: Fixed mindset
 #+hugo_custom_front_matter: :slug "3a203296-7538-4986-a360-0db64356c9f5"
@@ -32,7 +32,7 @@ According to [[id:e1dbf248-511f-4518-aba6-8eeb1c6bbeb3][Carol Dweck]], individua
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   426.54 | 2024-07-24T09:18:47Z |
-| back     | 3.10 |   6 |   150.38 | 2023-07-24T12:56:15Z |
+| back     | 3.25 |   7 |   471.58 | 2024-11-09T05:07:56Z |
 :END:
 
 [[id:3a203296-7538-4986-a360-0db64356c9f5][Fixed mindset]]

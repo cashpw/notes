@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       458de7df-08ff-40dc-9a7b-18f2d14520ee
 :ROAM_ALIASES: "I must not fear"
-:LAST_MODIFIED: [2023-07-19 Wed 06:42]
+:LAST_MODIFIED: [2023-07-26 Wed 08:05]
 :END:
 #+title: Litany against fear
 #+hugo_custom_front_matter: :slug "458de7df-08ff-40dc-9a7b-18f2d14520ee"
@@ -45,7 +45,7 @@ Bene Gesserit, [cite:@herbertDune1999]
 |        3 | 2.35 |   7 |   200.98 | 2023-11-26T16:15:52Z |
 |        4 | 2.80 |   7 |   362.58 | 2024-07-16T03:32:19Z |
 |        5 | 2.35 |   7 |   165.36 | 2023-11-02T21:49:32Z |
-|        6 | 2.80 |   6 |   115.26 | 2023-07-24T22:27:26Z |
+|        6 | 2.80 |   7 |   318.17 | 2024-06-08T19:08:03Z |
 |        7 | 3.10 |   6 |   178.60 | 2023-10-09T03:47:16Z |
 :END:
 

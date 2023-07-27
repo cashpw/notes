@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@FestinaLente2022]
 :ID:       ff009594-d69f-4d33-b0c2-65ed62eaf0b2
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ff009594-d69f-4d33-b0c2-65ed62eaf0b2
-:LAST_MODIFIED: [2023-04-02 Sun 10:00]
+:LAST_MODIFIED: [2023-07-26 Wed 08:05]
 :END:
 #+title: Festina lente
 #+hugo_custom_front_matter: :slug "ff009594-d69f-4d33-b0c2-65ed62eaf0b2"
@@ -35,7 +35,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 3.10 |   6 |   168.52 | 2023-07-31T05:58:34Z |
-|        1 | 2.20 |   7 |   114.84 | 2023-07-26T13:16:47Z |
+|        1 | 2.20 |   8 |   277.04 | 2024-04-28T16:01:35Z |
 :END:
 
 *** Source

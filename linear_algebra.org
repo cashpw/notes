@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-07-24 Mon 11:57]
+:LAST_MODIFIED: [2023-07-26 Wed 07:53]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -318,7 +318,7 @@ A collection of linear equations which share the same set of variables.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   129.84 | 2023-02-21T11:11:36Z |
+| back     | 2.65 |   9 |   370.96 | 2024-07-31T01:58:03Z |
 | front    | 2.35 |   8 |   208.39 | 2023-07-13T03:06:07Z |
 :END:
 
@@ -850,7 +850,7 @@ Converting a given vector, $\vec{v}$, to a unit vector in the direction of $\vec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   6 |    81.73 | 2023-07-25T10:16:25Z |
+| back     | 2.50 |   7 |   218.31 | 2024-02-29T22:24:01Z |
 | front    | 2.65 |   9 |   438.65 | 2024-06-13T13:06:14Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-07-20 Thu 08:23]
+:LAST_MODIFIED: [2023-07-25 Tue 20:01]
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -87,7 +87,7 @@ Movement to or toward; in addition to
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |    98.79 | 2023-07-25T10:52:54Z |
+| front    | 2.65 |   7 |   243.77 | 2024-03-25T21:27:14Z |
 | back     | 2.80 |   6 |   127.67 | 2023-09-08T07:51:43Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8ff15f08-a2b1-432c-b093-c774ab951f2c
-:LAST_MODIFIED: [2023-06-01 Thu 18:17]
+:LAST_MODIFIED: [2023-07-25 Tue 12:30]
 :END:
 #+title: Sponsors face outward
 #+hugo_custom_front_matter: :slug "8ff15f08-a2b1-432c-b093-c774ab951f2c"
@@ -32,4 +32,5 @@
 
 *** Back
 Sponsors advocate for the sponsored in their absence -- often in conversations in which the sponsored isn't present
-** [[id:b1ddf039-8c77-4e7b-a0d7-4ae1e77259f7][Compare and contrast]]
+** Compare and contrast
+See [[id:40d6bbef-ec19-45e2-9fe2-bf6de3c8aded][Mentors face inward]]

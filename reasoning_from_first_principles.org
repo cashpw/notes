@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0b13cdf1-2678-420e-b919-4a349d4ef81a
 :ROAM_ALIASES: "First principles thinking"
-:LAST_MODIFIED: [2023-06-24 Sat 06:26]
+:LAST_MODIFIED: [2023-07-25 Tue 12:23]
 :END:
 #+title: Reasoning from first principles
 #+hugo_custom_front_matter: :slug "0b13cdf1-2678-420e-b919-4a349d4ef81a"
@@ -17,10 +17,6 @@ First principles thinking consists of deriving things to their fundamental prove
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Describe :fc:
 :PROPERTIES:
 :ID:       a18aed12-e2fa-4d78-9826-2dae61105089
@@ -60,5 +56,6 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 - (1) All men are mortal, (2) Socrates is a man, \(\therefore\) Socrates is mortal
 - Developing an original play in American football
 - Reviewing the financial fundamentals of a company rather than listening to pundits
-** [[id:cf0460b7-46c5-4107-9044-5e04d147bdd4][Compare and contrast]]
+** Compare and contrast
+See [[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][Reasoning from analogies]]
 #+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       575409bd-1bb2-45c0-84a3-63abaa4b899b
-:LAST_MODIFIED: [2023-06-27 Tue 08:17]
+:LAST_MODIFIED: [2023-07-26 Wed 07:58]
 :END:
 #+title: Jarnik's algorithm implementation in Python
 #+hugo_custom_front_matter: :slug "575409bd-1bb2-45c0-84a3-63abaa4b899b"
@@ -21,8 +21,6 @@ T = TypeVar('T')
 VertexId = int
 EdgeWeight = int
 WeightedEdges = Mapping[VertexId, Mapping[VertexId, EdgeWeight]]
-UnweightedEdges = Mapping[VertexId, List[VertexId]]
-WeightedAdjacencyList = List[Tuple[VertexId, VertexId, EdgeWeight]]
 AdjacencyList = List[Tuple[VertexId, VertexId]]
 
 @dataclass
@@ -114,7 +112,7 @@ print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   2 |     2.00 | 2023-06-29T15:17:08Z |
+| front    | 1.90 |   0 |     0.00 | 2023-07-26T14:58:50Z |
 :END:
 
 Implement [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]

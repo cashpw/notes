@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       442a1e1b-97dd-4c64-b2ae-696c750ad288
 :ROAM_REFS: [cite:@StdUniquePtr]
-:LAST_MODIFIED: [2023-06-25 Sun 10:45]
+:LAST_MODIFIED: [2023-07-26 Wed 07:59]
 :END:
 #+title: std::unique_ptr
 #+hugo_custom_front_matter: :slug "442a1e1b-97dd-4c64-b2ae-696c750ad288"
@@ -28,7 +28,7 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    38.87 | 2023-07-25T12:19:33Z |
+| front    | 2.50 |   6 |   105.51 | 2023-11-09T03:12:10Z |
 | back     | 2.65 |   5 |    38.68 | 2023-08-03T10:08:52Z |
 :END:
 

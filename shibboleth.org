@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       1b04799b-4cd4-4cce-b67f-46e449bc0581
+:LAST_MODIFIED: [2023-07-26 Wed 16:56]
+:ROAM_REFS: [cite:@Shibboleth2023]
+:END:
+#+title: Shibboleth
+#+hugo_custom_front_matter: :slug "1b04799b-4cd4-4cce-b67f-46e449bc0581"
+#+author: Cash Prokop-Weaver
+#+date: [2023-07-26 Wed 16:49]
+#+filetags: :concept:
+
+#+begin_quote
+A shibboleth is any custom or tradition, usually a choice of phrasing or even a single word, that distinguishes one group of people from another. Shibboleths have been used throughout history in many societies as passwords, simple ways of self-identification, signaling loyalty and affinity, maintaining traditional segregation, or protecting from real or perceived threats.
+
+[cite:@Shibboleth2023]
+#+end_quote
+
+* Flashcards
+** [[id:1b04799b-4cd4-4cce-b67f-46e449bc0581][Shibboleth]] :fc:
+:PROPERTIES:
+:CREATED: [2023-07-26 Wed 16:55]
+:FC_CREATED: 2023-07-26T23:56:00Z
+:FC_TYPE:  vocab
+:ID:       3bed4f6c-c2e6-41eb-befa-34b7ab0be2e1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-07-26T23:56:00Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-02T23:56:00Z |
+:END:
+
+#+begin_quote
+A [...] is any custom or tradition, usually a choice of phrasing or even a single word, that distinguishes one group of people from another.
+#+end_quote
+
+*** Source
+[cite:@Shibboleth2023]
+#+print_bibliography:

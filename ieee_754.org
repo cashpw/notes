@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
 :ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
-:LAST_MODIFIED: [2023-06-30 Fri 18:37]
+:LAST_MODIFIED: [2023-07-26 Wed 07:39]
 :END:
 #+title: IEEE 754
 #+hugo_custom_front_matter: :slug "23e97230-9b73-4232-a76e-a1223b9bb70e"
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-24 Sun 10:52]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 [[id:8659234c-fc9e-4d57-9e09-c8f7a81924d9][Institute of electrical and electronics engineers]]'s standard for floating-point arithmetic defines, among other things:
 
@@ -62,7 +62,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   227.34 | 2023-07-24T04:20:25Z |
+|        0 | 2.65 |   9 |   637.52 | 2025-04-23T15:34:12Z |
 :END:
 
 *** Extra

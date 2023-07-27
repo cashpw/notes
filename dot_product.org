@@ -2,7 +2,7 @@
 :ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
 :ROAM_ALIASES: "Scalar product"
 :ROAM_REFS: [cite:@DotProduct2022]
-:LAST_MODIFIED: [2023-07-24 Mon 11:54]
+:LAST_MODIFIED: [2023-07-26 Wed 07:53]
 :END:
 #+title: Dot product
 #+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
@@ -142,11 +142,12 @@ It defines:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 |  2.5 |   7 |       56 | 2022-11-05T13:00:00Z |
+|        0 | 2.20 |   1 |     1.00 | 2023-07-27T14:53:10Z |
 |        1 |  2.5 |   5 |       42 | 2022-10-11T13:00:00Z |
 :END:
 
-\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
+*** Extra
+$\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
 
 *** Source
 [cite:@DotProduct2022]

@@ -1,0 +1,78 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@rosenauBoulleeVisionaryArchitecture1976]
+:ID:       cc620b2e-2070-49b0-8d4c-a5892731faa6
+:LAST_MODIFIED: [2023-07-26 Wed 08:02]
+:END:
+#+title: Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture
+#+hugo_custom_front_matter: :slug "cc620b2e-2070-49b0-8d4c-a5892731faa6"
+#+author: Cash Weaver
+#+date: [2023-07-25 Tue 16:00]
+#+filetags: :has_todo:reference:
+
+[[id:4323fec3-9196-479f-a4de-b5686ede0bc4][Helen Rosenau]], [cite:@rosenauBoulleeVisionaryArchitecture1976]
+
+* Summary
+On the subject of [[id:0b177377-113b-43c9-83aa-319703d38fb8][Visionary architecture]] and containing the illustrations of [[id:7c1ddba6-a0ad-4ea0-8ec1-ba9099f8b2cf][Étienne-Louis Boullée]].
+* Thoughts
+* Notes
+** TODO [#2] Architecture, Essay on Art :ATTACH:
+:PROPERTIES:
+:ID:       775fb4cb-6985-4fad-bf24-9a7e6f8a439e
+:NOTER_DOCUMENT: attachments/77/5fb4cb-6985-4fad-bf24-9a7e6f8a439e/Boullee_Etienne-Louis_Architecture_Essay_on_Art.pdf
+:END:
+
+*** Introduction
+*** Consideration
+*** Programmes intended to establish that the Study of Nature is necessary to architecture
+*** Character
+*** Basilicas
+
+#+begin_quote
+To be reduced to what is called necessity when designing a temple is to forget one's subject.
+#+end_quote
+
+By [[id:7c1ddba6-a0ad-4ea0-8ec1-ba9099f8b2cf][Étienne-Louis Boullée]]
+*** Theatre
+*** The Palace of the Soverign
+*** The Palace of Justice
+*** The National Palace
+*** Municipal Palace
+*** Coliseum
+*** Public Library
+*** Memorandum
+*** Funary Monuments or Cenotaphs
+*** To Newton
+*** Military Architecture
+*** City Entrance
+*** Inside the City
+*** Gates of Fortified Cities
+*** Fort
+*** Bridges
+*** Reflections on Architecture in Particular
+*** Recapitulation
+*** Notes
+*** Memorandum concerning the Restoration of the Château of Versailles
+*** Summary Reflections on the Art of Teaching Architecture
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-07-25 Tue 16:16]
+:FC_CREATED: 2023-07-25T23:17:47Z
+:FC_TYPE:  cloze
+:ID:       9f8ab2f1-7b34-4008-b45c-95413c50de15
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-07-27T15:02:09Z |
+:END:
+
+#+begin_quote
+{{To be reduced to what is called necessity when designing a temple is to forget one's subject.}{Full quote: [[id:7c1ddba6-a0ad-4ea0-8ec1-ba9099f8b2cf][Étienne-Louis Boullée]] on temples}@0}
+#+end_quote
+
+*** Source
+[cite:@rosenauBoulleeVisionaryArchitecture1976]
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-07-20 Thu 08:23]
+:LAST_MODIFIED: [2023-07-25 Tue 19:56]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -429,7 +429,7 @@ Infinity in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   128.94 | 2023-07-25T12:20:53Z |
+|        0 | 2.80 |   7 |   357.04 | 2024-07-17T03:58:05Z |
 |        1 | 2.20 |   7 |   163.68 | 2023-11-11T07:50:39Z |
 :END:
 

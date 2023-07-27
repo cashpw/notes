@@ -1,17 +1,19 @@
 :PROPERTIES:
 :ID:       47e96222-94d6-4aa5-bb44-3a350c1a7023
 :ROAM_ALIASES: "Nice girl syndrome" "Good girl syndrome"
+:LAST_MODIFIED: [2023-07-26 Wed 08:00]
 :END:
 #+title: People pleaser
+#+hugo_custom_front_matter: :slug "47e96222-94d6-4aa5-bb44-3a350c1a7023"
 #+author: Cash Prokop-Weaver
 #+date: [2023-07-20 Thu 11:37]
 #+filetags: :concept:
 
-People pleasing is a personality or behavioral trait: "An obsequious, subservient person, especially in a workplace" [cite:@PeoplePleaser2023]. Related: [[roam:Sociotropy]].
+People pleasing is a personality or behavioral trait: "An obsequious, subservient person, especially in a workplace" [cite:@PeoplePleaser2023]. Related: [[id:f1b60c4c-6161-435f-ae53-271f01264d7e][Sociotropy]].
 
 * In women
 
-[[roam:Nice girl syndrome]], or [[roam:Good girl syndrome]], refer to a gendered version of [[roam:People pleaser]] tendencies.
+[[id:47e96222-94d6-4aa5-bb44-3a350c1a7023][Nice girl syndrome]], or [[id:47e96222-94d6-4aa5-bb44-3a350c1a7023][Good girl syndrome]], refer to a gendered version of [[id:47e96222-94d6-4aa5-bb44-3a350c1a7023][People pleaser]] tendencies.
 
 #+begin_quote
 Nice Girl Syndrome: Nice girls suffer from "the disease to please" - they put their needs behind everyone else's.
@@ -20,9 +22,9 @@ Nice Girl Syndrome: Nice girls suffer from "the disease to please" - they put th
 #+end_quote
 
 #+begin_quote
-"[...] the manifestation of traits that are valued or praised in girls. It has a lot to do with how caregivers (including people outside the family, like teachers) interact with girls and how those interactions shape and mold their behavior.”
+"[...] the manifestation of traits that are valued or praised in girls. It has a lot to do with how caregivers (including people outside the family, like teachers) interact with girls and how those interactions shape and mold their behavior."
 
-Think about the term “good girl” itself: It conjures images of quiet, compliant, pretty girls who take care of others and don't cause trouble.
+Think about the term "good girl" itself: It conjures images of quiet, compliant, pretty girls who take care of others and don't cause trouble.
 
 [cite:@SignsYouHaveGoodGirlSyndrome2023]
 #+end_quote
@@ -44,7 +46,7 @@ The messages you received from your family or your childhood experiences may hav
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-07-25T04:06:07Z |
+| front    | 2.50 |   0 |     0.00 | 2023-07-26T03:02:57Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:00Z |
 :END:
 
@@ -62,7 +64,7 @@ An obsequious, subservient person, especially in a workplace
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-07-24T03:46:27Z |
+| front    | 2.50 |   2 |     2.00 | 2023-07-28T15:00:47Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:53:25Z |
 :END:
 
@@ -75,3 +77,4 @@ A collection of behavioral and personality traits generally socialized into wome
 - Obsequious, subservient, tendencies
 *** Source
 [cite:@engelNiceGirlSyndromeStopBeingManipulatedAbusedStartStandingYourself2008]
+#+print_bibliography:

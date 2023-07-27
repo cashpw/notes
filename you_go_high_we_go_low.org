@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       740ee074-bbfc-4b26-9909-376c9725b57d
-:LAST_MODIFIED: [2023-07-23 Sun 20:56]
+:LAST_MODIFIED: [2023-07-26 Wed 08:10]
 :END:
 #+title: You go high, we go low
 #+hugo_custom_front_matter: :slug "740ee074-bbfc-4b26-9909-376c9725b57d"
@@ -44,7 +44,7 @@ A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.45 |  10 |   283.00 | 2023-12-25T14:13:00Z |
-| back     | 2.50 |   2 |     2.00 | 2023-07-26T03:56:35Z |
+| back     | 2.50 |   3 |     6.00 | 2023-08-01T15:10:07Z |
 :END:
 [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
 *** Back
