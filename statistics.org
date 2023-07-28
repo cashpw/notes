@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-07-26 Wed 07:54]
+:LAST_MODIFIED: [2023-07-27 Thu 07:14]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -309,7 +309,7 @@ Follow these steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   4 |    14.00 | 2023-07-17T00:54:44Z |
+|        0 | 2.20 |   5 |    33.77 | 2023-08-30T08:45:04Z |
 :END:
 
 Clusters are represented by {{representative vectors}@0}.
@@ -1359,7 +1359,7 @@ A finite-dimensional model whose parameters encode all the information about its
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  14 |   524.13 | 2024-10-29T23:27:23Z |
-| front    | 2.50 |   6 |   116.17 | 2023-05-11T20:26:33Z |
+| front    | 2.35 |   7 |   284.37 | 2024-05-06T22:59:26Z |
 :END:
 
 Probability distribution

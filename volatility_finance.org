@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6e33b36-3854-48be-9d20-a3ce8b42ebe6
-:LAST_MODIFIED: [2023-07-07 Fri 17:19]
+:LAST_MODIFIED: [2023-07-27 Thu 07:06]
 :END:
 #+title: Volatility (finance)
 #+hugo_custom_front_matter: :slug "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
@@ -48,7 +48,7 @@ $\sigma$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   8 |   104.65 | 2023-07-27T04:50:31Z |
+| front    | 1.90 |   9 |   197.52 | 2024-02-10T02:30:56Z |
 | back     | 2.65 |   7 |   258.48 | 2024-02-26T11:42:26Z |
 :END:
 

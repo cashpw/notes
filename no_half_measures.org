@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d
-:LAST_MODIFIED: [2023-07-26 Wed 08:08]
+:LAST_MODIFIED: [2023-07-27 Thu 08:47]
 :END:
 #+title: No half measures
 #+hugo_custom_front_matter: :slug "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
@@ -8,10 +8,11 @@
 #+date: [2023-07-21 Fri 08:24]
 #+filetags: :has_todo:concept:
 
-* INPROGRESS [#2]
+* INPROGRESS
 
-- Go all-in. It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
-- [cite:@salamonCorrectResponseUncertaintyNotHalfspeed]
+Go all-in. It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
+
+However, [[id:af0b4a55-1142-4894-ad74-ee3b2926284d][Keep your eye on the prize]] and do [[id:3dd67ed4-d1d5-47f4-982d-164f55c8a4ff][Good enough]] work whenever possible. Focus your effort on high-impact, high-priority, [[id:56bf2582-14f9-47dd-beeb-dd7342c910dd][Leverage points]].
 
 #+begin_quote
 In my AP Art class, there was a girl who was just starting to experiment with mixed media. At this point she was still playing around, trying to decide what direction she wanted to go with her portfolio. So one critique day, she brought in an abstract canvas with some rhinestone highlights and painted and real peacock feathers. She loved sparkles and peacock feathers so she thought she'd try introducing them a *little*. And after everyone had given some input, the teacher gave her his advice, VERY roughly paraphrased here:
@@ -24,6 +25,8 @@ Her portfolio was chock full of neon colors and glitter and rhinestones and spla
 
 [cite:@switchelsweetsMyAPArtClass]
 #+end_quote
+
+** TODO https://mindingourway.com/half-assing-it-with-everything-youve-got/
 
 * Flashcards
 ** Describe :fc:

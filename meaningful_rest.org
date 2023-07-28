@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ef6148e5-0f53-4535-89fa-1f67b3c557b7
 :ROAM_REFS: [cite:@nandaMeaningfulRest]
-:LAST_MODIFIED: [2023-05-24 Wed 13:08]
+:LAST_MODIFIED: [2023-07-27 Thu 07:17]
 :END:
 #+title: Meaningful rest
 #+hugo_custom_front_matter: :slug "ef6148e5-0f53-4535-89fa-1f67b3c557b7"
@@ -48,7 +48,7 @@ The term is from [[id:43e87bd7-89df-40b8-9c47-dc357c05fa63][Neel Nanda | Post 29
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   322.49 | 2024-04-11T07:56:25Z |
-| back     | 3.10 |   6 |   164.21 | 2023-07-26T22:42:26Z |
+| back     | 3.10 |   7 |   511.95 | 2024-12-20T13:03:50Z |
 :END:
 
 [[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]]

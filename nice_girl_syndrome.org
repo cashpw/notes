@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       47e96222-94d6-4aa5-bb44-3a350c1a7023
 :ROAM_ALIASES: "Nice girl syndrome" "Good girl syndrome"
-:LAST_MODIFIED: [2023-07-26 Wed 08:00]
+:LAST_MODIFIED: [2023-07-27 Thu 07:09]
 :END:
 #+title: People pleaser
 #+hugo_custom_front_matter: :slug "47e96222-94d6-4aa5-bb44-3a350c1a7023"
@@ -46,7 +46,7 @@ The messages you received from your family or your childhood experiences may hav
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-07-26T03:02:57Z |
+| front    | 2.50 |   1 |     1.00 | 2023-07-28T14:09:09Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:00Z |
 :END:
 

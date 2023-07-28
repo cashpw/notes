@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-07-26 Wed 08:01]
+:LAST_MODIFIED: [2023-07-27 Thu 07:17]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -1023,8 +1023,8 @@ C++'s built-in types reflect {{the capabilities of conventional computer hardwar
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    36.87 | 2023-07-26T17:13:04Z |
-| back     | 2.50 |   3 |     6.00 | 2023-07-20T00:51:36Z |
+| front    | 2.50 |   6 |    98.43 | 2023-11-03T00:25:06Z |
+| back     | 2.35 |   4 |    13.22 | 2023-08-09T19:36:34Z |
 :END:
 
 User-defined types

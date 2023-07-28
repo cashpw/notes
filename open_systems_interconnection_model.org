@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-07-26 Wed 07:54]
+:LAST_MODIFIED: [2023-07-27 Thu 07:11]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -242,7 +242,7 @@ This layer provides functional and procedural means of transferring packets from
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    36.16 | 2023-07-24T07:53:27Z |
+| front    | 2.35 |   6 |    84.13 | 2023-10-19T17:22:50Z |
 :END:
 
 Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 :ID:       bc1937f1-31ce-41cc-ba0b-dedaac9334b5
-:LAST_MODIFIED: [2023-07-16 Sun 06:58]
+:LAST_MODIFIED: [2023-07-27 Thu 07:10]
 :END:
 #+title: Tanya Reilly | The Staff Engineer's Path
 #+hugo_custom_front_matter: :slug "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
@@ -2344,7 +2344,7 @@ Pillars of staff engineering, according to [[id:ea15f0fd-d3b6-44a7-be0a-ac0cf825
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   5 |    25.68 | 2023-07-26T18:07:09Z |
+|        0 | 1.90 |   6 |    49.48 | 2023-09-15T01:41:35Z |
 :END:
 
 {{[[id:ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1][Tanya Reilly]]}@0} wrote [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][The Staff Engineer's Path]].

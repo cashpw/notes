@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       644adb16-7921-4499-aaf9-6ff29819ed6d
-:LAST_MODIFIED: [2023-07-20 Thu 08:20]
+:LAST_MODIFIED: [2023-07-27 Thu 07:15]
 :END:
 #+title: Connected relationship
 #+hugo_custom_front_matter: :slug "644adb16-7921-4499-aaf9-6ff29819ed6d"
@@ -41,7 +41,7 @@ $xRy \quad \text{or} \quad yRx$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   6 |    22.11 | 2023-07-26T22:05:54Z |
+| front    | 1.30 |   7 |    27.67 | 2023-08-24T06:25:26Z |
 | back     | 1.30 |   3 |     6.00 | 2023-07-26T15:20:21Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-07-26 Wed 07:54]
+:LAST_MODIFIED: [2023-07-27 Thu 07:18]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1193,7 +1193,7 @@ Addition, subtraction, multiplication, and division
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |  10 |   303.54 | 2023-11-15T05:25:38Z |
-|        1 | 2.20 |   8 |   187.34 | 2023-07-04T00:34:39Z |
+|        1 | 1.90 |   1 |     1.00 | 2023-07-28T14:18:24Z |
 |        2 | 2.35 |   8 |   284.60 | 2023-12-21T14:44:33Z |
 :END:
 
@@ -1709,7 +1709,7 @@ A calculation over a series of data points creating a series of averages of diff
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   7 |   125.62 | 2023-07-19T06:05:44Z |
+| back     | 2.05 |   8 |   249.47 | 2024-04-02T01:20:31Z |
 | front    | 2.65 |   7 |   279.63 | 2024-02-28T11:24:46Z |
 :END:
 

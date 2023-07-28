@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0c397989-6d1f-430c-97a9-1d088a0270b8
 :ROAM_REFS: [cite:@SectionSign2022]
-:LAST_MODIFIED: [2023-07-25 Tue 19:56]
+:LAST_MODIFIED: [2023-07-27 Thu 07:10]
 :END:
 #+title: Section sign
 #+hugo_custom_front_matter: :slug "0c397989-6d1f-430c-97a9-1d088a0270b8"
@@ -29,7 +29,7 @@ The section sign, §, is a typographical character for referencing individually 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   428.18 | 2024-09-26T07:14:56Z |
-|        1 | 2.95 |   6 |   138.52 | 2023-07-26T15:26:38Z |
+|        1 | 2.80 |   7 |   388.27 | 2024-08-18T20:35:06Z |
 :END:
 
 {{[[id:0c397989-6d1f-430c-97a9-1d088a0270b8][Section sign]]}@0}

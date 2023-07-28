@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-07-25 Tue 19:56]
+:LAST_MODIFIED: [2023-07-27 Thu 07:18]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -204,7 +204,7 @@ The programming language
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.65 |   6 |   123.43 | 2023-07-27T05:37:36Z |
+|        1 | 2.65 |   7 |   324.65 | 2024-06-16T05:21:25Z |
 |        2 | 2.35 |   7 |   252.19 | 2024-03-01T06:09:52Z |
 |        0 | 1.30 |   7 |    24.19 | 2023-08-01T19:45:30Z |
 :END:
@@ -515,7 +515,7 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   181.16 | 2023-12-13T17:35:10Z |
-|        1 | 2.35 |   3 |     6.00 | 2023-07-26T15:23:56Z |
+|        1 | 2.35 |   4 |    13.35 | 2023-08-09T22:46:05Z |
 :END:
 
 {{=random.randint(a, b)=}{[[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]}@0} returns a random integer in the range {{$[a, b]$}@1}

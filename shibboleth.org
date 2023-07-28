@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1b04799b-4cd4-4cce-b67f-46e449bc0581
-:LAST_MODIFIED: [2023-07-26 Wed 16:56]
+:LAST_MODIFIED: [2023-07-27 Thu 07:14]
 :ROAM_REFS: [cite:@Shibboleth2023]
 :END:
 #+title: Shibboleth
@@ -26,7 +26,7 @@ A shibboleth is any custom or tradition, usually a choice of phrasing or even a 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-07-26T23:56:00Z |
+| front    | 2.50 |   1 |     1.00 | 2023-07-28T14:14:21Z |
 | back     |  2.5 |  -1 |        0 | 2023-08-02T23:56:00Z |
 :END:
 
