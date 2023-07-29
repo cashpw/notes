@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       39f7e92f-c7df-4d0d-94cd-ef7f39437ec1
-:LAST_MODIFIED: [2023-07-23 Sun 20:59]
+:LAST_MODIFIED: [2023-07-28 Fri 08:14]
 :ROAM_REFS: [cite:@ImperativeMood2023]
 :END:
 #+title: Imperative mood
@@ -36,7 +36,7 @@ An example of a verb used in the imperative mood is the English phrase "Go."
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    93.24 | 2023-10-09T20:34:25Z |
-| back     | 2.50 |   5 |    41.62 | 2023-07-28T06:25:31Z |
+| back     | 2.35 |   6 |    92.87 | 2023-10-29T12:07:10Z |
 :END:
 
 [[id:39f7e92f-c7df-4d0d-94cd-ef7f39437ec1][Imperative mood]]

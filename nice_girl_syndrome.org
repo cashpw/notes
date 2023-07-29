@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       47e96222-94d6-4aa5-bb44-3a350c1a7023
 :ROAM_ALIASES: "Nice girl syndrome" "Good girl syndrome"
-:LAST_MODIFIED: [2023-07-27 Thu 07:09]
+:LAST_MODIFIED: [2023-07-28 Fri 08:05]
 :END:
 #+title: People pleaser
 #+hugo_custom_front_matter: :slug "47e96222-94d6-4aa5-bb44-3a350c1a7023"
@@ -46,7 +46,7 @@ The messages you received from your family or your childhood experiences may hav
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-07-28T14:09:09Z |
+| front    | 2.50 |   2 |     2.00 | 2023-07-30T15:02:07Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:00Z |
 :END:
 
@@ -64,17 +64,17 @@ An obsequious, subservient person, especially in a workplace
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-07-28T15:00:47Z |
+| front    | 2.50 |   3 |     6.00 | 2023-08-03T15:05:38Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:53:25Z |
 :END:
 
 [[id:47e96222-94d6-4aa5-bb44-3a350c1a7023][Nice girl syndrome]]
 
-*** Back
+**** Back
 A collection of behavioral and personality traits generally socialized into women which emphasize:
 
 - Putting the needs of others before your own and minimizing the importance of your own desires
 - Obsequious, subservient, tendencies
-*** Source
+**** Source
 [cite:@engelNiceGirlSyndromeStopBeingManipulatedAbusedStartStandingYourself2008]
 #+print_bibliography:

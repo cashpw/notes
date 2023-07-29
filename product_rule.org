@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d57fdb71-8ae6-4307-a255-bfeaeb50a5a9
-:LAST_MODIFIED: [2023-06-27 Tue 08:32]
+:LAST_MODIFIED: [2023-07-28 Fri 08:06]
 :END:
 #+title: Product rule
 #+hugo_custom_front_matter: :slug "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
@@ -35,7 +35,7 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    88.11 | 2023-07-27T21:15:07Z |
+| front    | 2.20 |   7 |   198.39 | 2024-02-12T00:26:13Z |
 | back     | 2.50 |   6 |    90.73 | 2023-08-05T11:23:27Z |
 :END:
 

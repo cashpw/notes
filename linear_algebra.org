@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-07-27 Thu 06:44]
+:LAST_MODIFIED: [2023-07-28 Fri 08:06]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1475,7 +1475,7 @@ $B_{n \times m}$ is a row-swapped $A_{n \times m}$ based on $P_{n \times n}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   2 |     2.00 | 2023-07-26T03:53:34Z |
+| back     | 1.90 |   3 |     6.00 | 2023-08-03T15:06:24Z |
 | front    | 2.65 |   8 |   386.50 | 2024-04-18T15:07:38Z |
 :END:
 

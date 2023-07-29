@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a586a0e-eddc-4903-9c90-7e3a91e3204c
-:LAST_MODIFIED: [2023-06-23 Fri 07:55]
+:LAST_MODIFIED: [2023-07-28 Fri 06:50]
 :END:
 #+title: Favorites
 #+hugo_custom_front_matter: :slug "2a586a0e-eddc-4903-9c90-7e3a91e3204c"
@@ -27,5 +27,8 @@ Some of my favorite things.
 
 * Quotes
 - [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The first lesson]]
+
+* Manga
+- [[id:f63223ab-fdd7-493b-8d80-2efc34d60edd][Tsutomu Nihei, Melissa Tanaka | Blame!]]
 
 * Flashcards

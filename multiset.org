@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f25031de-9b51-4f1c-9166-f155b2d3250c
 :ROAM_REFS: [cite:@Multiset2023]
-:LAST_MODIFIED: [2023-07-27 Thu 07:15]
+:LAST_MODIFIED: [2023-07-28 Fri 08:11]
 :END:
 #+title: Multiset
 #+hugo_custom_front_matter: :slug "f25031de-9b51-4f1c-9166-f155b2d3250c"
@@ -54,7 +54,7 @@ A [[id:9790bcbd-1414-4044-a4ff-3e9326c39e8f][Set]] which allows for duplicate va
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   1 |     1.00 | 2023-07-28T14:15:25Z |
+| front    | 2.20 |   2 |     2.00 | 2023-07-30T15:11:28Z |
 | back     | 2.65 |   7 |   236.98 | 2024-02-25T00:39:20Z |
 :END:
 

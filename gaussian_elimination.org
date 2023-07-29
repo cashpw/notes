@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b59377a2-c3af-4647-b74b-2c38bd4f8c7a
 :ROAM_REFS: [cite:@GaussianElimination2022]
-:LAST_MODIFIED: [2023-07-26 Wed 07:59]
+:LAST_MODIFIED: [2023-07-28 Fri 08:12]
 :END:
 #+title: Gaussian elimination
 #+hugo_custom_front_matter: :slug "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"
@@ -57,7 +57,7 @@ It reduces a given matrix to [[id:2b33e0aa-52e7-404b-90f0-34f6468389c0][Row eche
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |   9 |   484.44 | 2024-11-22T01:38:52Z |
-| front    | 2.65 |   8 |   196.84 | 2023-06-01T09:58:05Z |
+| front    | 2.50 |   9 |   482.82 | 2024-11-22T10:56:01Z |
 :END:
 Reduced row echelon form
 *** Back

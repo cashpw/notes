@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@malkielRandomWalkWallStreetTimetestedStrategySuccessfulInvesting2007]
 :ID:       d5216a1b-5838-4518-aab4-f0521ae6fc21
-:LAST_MODIFIED: [2023-02-15 Wed 15:21]
+:LAST_MODIFIED: [2023-07-28 Fri 08:12]
 :ROAM_ALIASES: "A Random Walk Down Wall Street"
 :END:
 #+title: Burton Gordon Malkiel | A Random Walk down Wall Street: The Time-Tested Strategy for Successful Investing
@@ -26,7 +26,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   9 |   221.24 | 2023-07-28T00:30:49Z |
+| front    | 2.20 |  10 |   504.45 | 2024-12-14T02:05:28Z |
 :END:
 
 [[id:d5216a1b-5838-4518-aab4-f0521ae6fc21][A Random Walk Down Wall Street]]

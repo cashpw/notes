@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-07-27 Thu 07:18]
+:LAST_MODIFIED: [2023-07-28 Fri 08:06]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1920,7 +1920,7 @@ $f\colon \mathbb{R} \to X$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.45 |  12 |   393.72 | 2024-06-18T06:15:59Z |
-| front    | 2.80 |   6 |   136.72 | 2023-07-10T21:10:38Z |
+| front    | 2.65 |   7 |   342.01 | 2024-07-04T15:18:38Z |
 :END:
 
 Rectangular function
