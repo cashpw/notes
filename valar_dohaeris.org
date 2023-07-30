@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8991f579-2d7a-4c2a-8207-f360145cd587
 :ROAM_ALIASES: "All men must serve"
-:LAST_MODIFIED: [2023-03-13 Mon 08:04]
+:LAST_MODIFIED: [2023-07-29 Sat 07:59]
 :END:
 #+title: Valar dohaeris
 #+hugo_custom_front_matter: :slug "8991f579-2d7a-4c2a-8207-f360145cd587"
@@ -13,9 +13,6 @@
 
 Related: [[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][Valar morghulis]]
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** {{[[id:8991f579-2d7a-4c2a-8207-f360145cd587][Valar dohaeris]]}{Valyrian}@0}: {{[[id:8991f579-2d7a-4c2a-8207-f360145cd587][All men must serve]]}{English}@1} :fc:
 :PROPERTIES:
 :ID:       6f003eab-0f2c-4040-9e07-dab824907258
@@ -28,6 +25,6 @@ Related: [[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][Valar morghulis]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   186.07 | 2023-07-28T16:02:37Z |
+|        0 | 2.65 |   8 |   527.83 | 2025-01-07T10:53:53Z |
 |        1 | 2.50 |   7 |   248.81 | 2023-11-17T10:26:41Z |
 :END:

@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-07-23 Sun 21:01]
+:LAST_MODIFIED: [2023-07-29 Sat 07:56]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -221,7 +221,7 @@ A collision resolution algorithm which uses a probing sequence (i.e. linear, qua
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   4 |    12.02 | 2023-07-29T14:23:36Z |
+|        0 | 2.05 |   5 |    26.94 | 2023-08-25T13:28:22Z |
 :END:
 *** Source
 [cite:@HashTable2022]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b3c25e15-f426-41d3-ae97-925da325ed73
-:LAST_MODIFIED: [2023-07-23 Sun 20:54]
+:LAST_MODIFIED: [2023-07-29 Sat 08:00]
 :END:
 #+title: C++ class
 #+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
@@ -111,7 +111,7 @@ A class which behaves just like built-in types. It has no abstract methods.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    37.16 | 2023-07-28T19:35:24Z |
+| front    | 2.50 |   6 |    90.70 | 2023-10-28T07:42:49Z |
 | back     | 2.50 |   5 |    37.09 | 2023-08-07T16:26:44Z |
 :END:
 

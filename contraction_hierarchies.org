@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-07-28 Fri 08:04]
+:LAST_MODIFIED: [2023-07-29 Sat 07:56]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -502,7 +502,7 @@ Perform a local [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-07-28T14:13:14Z |
+| front    | 2.50 |   2 |     2.00 | 2023-07-31T14:56:16Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:05:25Z |
 :END:
 

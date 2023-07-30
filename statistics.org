@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-07-28 Fri 08:03]
+:LAST_MODIFIED: [2023-07-29 Sat 08:02]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -710,7 +710,7 @@ Parametric model
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   8 |   168.20 | 2023-11-05T17:45:08Z |
-|        1 | 2.20 |   7 |   101.58 | 2023-05-10T06:44:26Z |
+|        1 | 1.90 |   1 |     1.00 | 2023-07-30T15:02:05Z |
 :END:
 
 *** Source

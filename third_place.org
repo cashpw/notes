@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       34fb63b5-5a47-436f-b123-a1d6ffbf4fab
 :ROAM_REFS: [cite:@ThirdPlace2022]
-:LAST_MODIFIED: [2023-07-22 Sat 20:49]
+:LAST_MODIFIED: [2023-07-29 Sat 07:59]
 :END:
 #+title: Third place
 #+hugo_custom_front_matter: :slug "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
@@ -60,7 +60,7 @@ Other scholars have summarized Oldenburg's view of a third place with eight char
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   314.05 | 2024-04-11T02:19:55Z |
-| back     | 2.65 |   3 |     6.00 | 2023-07-29T03:49:03Z |
+| back     | 2.80 |   4 |    18.06 | 2023-08-16T16:33:04Z |
 :END:
 
 [[id:34fb63b5-5a47-436f-b123-a1d6ffbf4fab][Third place]]

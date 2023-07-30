@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e5db0b54-03b5-417a-a4c8-93001958c410
 :ROAM_REFS: [cite:@Presupposition2021]
-:LAST_MODIFIED: [2023-05-24 Wed 13:30]
+:LAST_MODIFIED: [2023-07-29 Sat 07:58]
 :END:
 #+title: Presupposition
 #+hugo_custom_front_matter: :slug "e5db0b54-03b5-417a-a4c8-93001958c410"
@@ -34,7 +34,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   7 |   128.12 | 2023-07-28T16:46:31Z |
+| back     | 2.05 |   8 |   268.68 | 2024-04-23T07:18:25Z |
 | front    | 2.50 |   7 |   301.03 | 2024-03-20T21:08:17Z |
 :END:
 An implicit assumption relating to a statement/question/etc whose truth is taken for granted in discourse.

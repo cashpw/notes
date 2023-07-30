@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0a3904f5-1484-4c12-8abb-005c707401e1
-:LAST_MODIFIED: [2023-05-26 Fri 07:35]
+:LAST_MODIFIED: [2023-07-29 Sat 08:00]
 :ROAM_ALIASES: Signal
 :END:
 #+title: Signaling
@@ -40,7 +40,7 @@ The third rule, therefore, is don't get caught.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   167.15 | 2023-11-09T18:11:41Z |
-| back     | 2.95 |   6 |   122.34 | 2023-07-29T11:24:03Z |
+| back     | 2.80 |   7 |   308.95 | 2024-06-02T13:44:41Z |
 :END:
 
 [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]]

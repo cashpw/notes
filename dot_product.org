@@ -2,7 +2,7 @@
 :ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
 :ROAM_ALIASES: "Scalar product"
 :ROAM_REFS: [cite:@DotProduct2022]
-:LAST_MODIFIED: [2023-07-28 Fri 08:02]
+:LAST_MODIFIED: [2023-07-29 Sat 08:01]
 :END:
 #+title: Dot product
 #+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
@@ -143,7 +143,7 @@ It defines:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   2 |     2.00 | 2023-07-30T15:02:29Z |
-|        1 |  2.5 |   5 |       42 | 2022-10-11T13:00:00Z |
+|        1 | 2.35 |   6 |    90.53 | 2023-10-28T03:39:04Z |
 :END:
 
 *** Extra

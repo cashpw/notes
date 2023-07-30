@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       99e14785-13bb-420c-b0b5-b14bad1bd163
-:LAST_MODIFIED: [2023-07-26 Wed 08:07]
+:LAST_MODIFIED: [2023-07-29 Sat 08:01]
 :END:
 #+title: Freddish
 #+hugo_custom_front_matter: :slug "99e14785-13bb-420c-b0b5-b14bad1bd163"
@@ -40,9 +40,6 @@ Per the pamphlet, there were nine steps for translating into Freddish:
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** {{[[id:99e14785-13bb-420c-b0b5-b14bad1bd163][Freddish]]}@0} is the language {{[[id:f95aa4a2-494d-49e9-aa6f-6bcd0e3e759f][Fred Rogers]]}@1} would use when speaking with children :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-10-17T16:11:54Z
@@ -55,7 +52,7 @@ Per the pamphlet, there were nine steps for translating into Freddish:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   255.06 | 2023-12-09T04:37:49Z |
-|        1 | 3.10 |   6 |   152.36 | 2023-07-29T00:45:22Z |
+|        1 | 3.10 |   7 |   440.64 | 2024-10-12T06:25:50Z |
 :END:
 
 *** Source

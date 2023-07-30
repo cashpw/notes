@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-07-28 Fri 08:05]
+:LAST_MODIFIED: [2023-07-29 Sat 07:38]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -317,7 +317,7 @@ Partitions the graph into [[id:d3439626-492b-4165-836e-efd890096225][Connected c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   1 |     1.00 | 2023-07-25T04:06:38Z |
+| front    | 2.20 |   2 |     2.00 | 2023-07-31T14:38:53Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-26T14:33:08Z |
 :END:
 
