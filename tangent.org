@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44aea0ad-06fe-4c46-83c3-53b6a78591c3
-:LAST_MODIFIED: [2023-07-27 Thu 07:10]
+:LAST_MODIFIED: [2023-07-30 Sun 16:53]
 :END:
 #+title: Tangent (Trigonometry)
 #+hugo_custom_front_matter: :slug "44aea0ad-06fe-4c46-83c3-53b6a78591c3"
@@ -24,10 +24,6 @@ The tangent of a function is the [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Inst
 [[file:tan.png]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Image :fc:
 :PROPERTIES:
 :ID:       469cf9cf-462a-4b25-9046-ff0738ea1ae4
@@ -61,7 +57,7 @@ Graph \(f(x) = \tan(x)\)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   197.45 | 2023-10-01T00:05:24Z |
-|        1 | 1.90 |   7 |   119.10 | 2023-07-30T19:31:44Z |
+|        1 | 1.90 |   8 |   227.98 | 2024-03-14T23:20:10Z |
 :END:
 {{$\tan(\theta)$}{function}@0} \(=\) {{$\frac{\text{opposite}}{\text{adjacent}}$}{sides}@1}
 

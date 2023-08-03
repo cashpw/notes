@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff
-:LAST_MODIFIED: [2023-05-09 Tue 09:49]
+:LAST_MODIFIED: [2023-07-30 Sun 16:52]
 :END:
 #+title: Dog whistle
 #+hugo_custom_front_matter: :slug "fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
@@ -15,9 +15,6 @@
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       3766a5c0-e021-4977-9564-21513092b0ed
@@ -28,7 +25,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   7 |   206.54 | 2023-07-30T06:50:09Z |
+| back     | 2.80 |   8 |   537.92 | 2025-01-18T21:59:22Z |
 | front    | 2.20 |   8 |   224.43 | 2023-11-16T02:49:15Z |
 :END:
 [[id:fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff][Dog whistle]]

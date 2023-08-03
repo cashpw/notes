@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinCopyingBetterHowAcquireTacitKnowledgeExperts2020]
 :ID:       5a1426bf-c14f-411b-af3e-e21ee56fa8e5
-:LAST_MODIFIED: [2023-06-30 Fri 19:48]
+:LAST_MODIFIED: [2023-07-30 Sun 08:17]
 :END:
 #+title: Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts
 #+hugo_custom_front_matter: :slug "5a1426bf-c14f-411b-af3e-e21ee56fa8e5"
@@ -53,8 +53,24 @@ It's a common misconception to look at this and think: "oh, when you can make ta
 #+end_quote
 ** The [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision making model]]
 
-See [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision making model]]
+See [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]].
+** How do we use [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][RPD]]?
 
+See [[id:ba1c4d11-bcfa-4844-b65e-2c59fe7a9422][How to improve at Recognition-primed decision making?]]
+** INPROGRESS [#0] How do we know this model is accurate?
 
+#+begin_quote
+One question that you might reasonably ask is: how do we know that the RPD model is true? I've described NDM's methods to you, and you might have caught on to the fact that none of what I've described is experimental. NDM researchers do not use hypothesis testing; there is no concept of falsifiability in their work. Klein himself readily admits that NDM is "nearer to anthropology than psychology."
+
+[...]
+
+In the two decades since /Sources of Power/ was first published, NDM has only become more established as a field of research. More militaries around the world are using NDM methods to extract tacit models of expertise from their best operators, in order to turn that knowledge into training programs; Nasdaq [[https://twitter.com/ejames_c/status/1266412975767740416?s=20][uses]] NDM researchers to design user interfaces to augment the expertise of experienced fraud investigators on their staff. Klein himself wrote a [[https://www.fs.usda.gov/rmrs/sites/default/files/Kahneman2009_ConditionsforIntuitiveExpertise_AFailureToDisagree.pdf][famous paper]] [[[id:7ac554b7-d1b7-4348-8865-8742415b06d0][Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree]]] with Daniel Kahneman on the situations where expert intuition was valid, and where it might not be valid. Most interestingly, Robert Hoffman, an NDM pioneer and one of the co-authors of the /[[https://www.cambridge.org/my/academic/subjects/psychology/cognition/cambridge-handbook-expertise-and-expert-performance-2nd-edition?format=HB&isbn=9781316502617][Cambridge Handbook of Expertise and Expert Performance]],/ [[[id:600cf4b0-d40a-4b94-b454-a362870c9562][K. Anders Ericsson, Robert Hoffman, Aaron Kozbelt, A. Mark Williams | The Cambridge Handbook of Expertise and Expert Performance]]] has spent a good part of the last decade [[https://overcast.fm/+aGDtY2OvU/18:29][working on an epistemology]] [[[id:53c7bf0c-e3b4-4fc2-b9f9-cf5afbd63426][Naturalistic Decision Making | Robert Hoffman]]] for the entire field.
+
+These are all signs, I think, that NDM captures something true about the world. But be that as it may, I believe that this shouldn't be of much consideration to you, if you simply want to use this for your career.
+
+I have argued elsewhere that if you are primarily a practitioner, your [[https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/][epistemology should be different than if you were a scientist]] [[[id:0a379fad-61c8-4e9a-96ea-62ecae152892][Cedric Chin | A Personal Epistemology of Practice]]] If you are a scientist, you will want to know what is true by the standards of scientific truth --- this typically means successful replication over a number of years, culminating in meta-analyses of multiple randomised controlled trials with sufficient statistical power. But if you are a practitioner, what you want to do is to learn what can be useful to you today, in the pursuit of your goals. Your evaluation of an idea should be structured around whether the idea /works for you/ --- which is a different bar for truth compared to that of the scientist's.
+
+NDM lies at the highest level in my [[https://commoncog.com/the-hierarchy-of-practical-evidence/][hierarchy of practical evidence]] [[[id:a54b896a-9969-4d44-95cc-a9baf8ef3dde][Cedric Chin | The Hierarchy of Practical Evidence]]]: I have tried their methods and their ideas in my life, and /nearly every one of them have led to improvements./
+#+end_quote
 * TODO [#2] Flashcards
 #+print_bibliography:

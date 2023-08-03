@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       166a96a1-466f-43dd-a9f6-ec18d2ba9b36
-:LAST_MODIFIED: [2023-07-14 Fri 06:21]
+:LAST_MODIFIED: [2023-07-30 Sun 17:00]
 :ROAM_REFS: [cite:@rosieFeynmanLearningTechnique2021] [cite:@streetFeynmanTechniqueBestWayLearnAnything2012]
 :END:
 #+title: Feynman technique
@@ -34,7 +34,7 @@ There are four key steps to the Feynman Technique:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    82.39 | 2023-10-04T22:40:14Z |
-| back     | 2.50 |   5 |    41.64 | 2023-07-30T05:49:07Z |
+| back     | 2.65 |   6 |   114.68 | 2023-11-22T16:18:48Z |
 :END:
 
 [[id:166a96a1-466f-43dd-a9f6-ec18d2ba9b36][Feynman technique]]

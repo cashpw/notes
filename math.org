@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-07-29 Sat 07:56]
+:LAST_MODIFIED: [2023-08-01 Tue 08:05]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1259,7 +1259,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   9 |   224.50 | 2023-07-27T05:27:14Z |
+|        0 | 2.35 |  10 |   525.41 | 2025-01-08T00:55:53Z |
 |        1 | 2.50 |   8 |   263.99 | 2023-10-28T21:13:48Z |
 :END:
 
@@ -1689,7 +1689,7 @@ A structure-preserving map from one mathematical structure to another of the sam
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |   9 |   308.27 | 2024-01-12T09:32:53Z |
-| front    | 3.10 |   6 |   132.00 | 2023-05-15T16:28:21Z |
+| front    | 3.10 |   7 |   372.33 | 2024-08-07T22:49:07Z |
 :END:
 
 Moving average
@@ -2562,7 +2562,7 @@ A function that maps from events to real numbers which represent the "cost" asso
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 |  2.5 |   5 |       23 | 2022-09-27T13:00:00Z |
+|        0 | 2.50 |   6 |    57.53 | 2023-09-26T12:33:30Z |
 |        1 |  2.5 |   5 |       23 | 2022-10-02T13:00:00Z |
 :END:
 ** {{$(x-y)^2$}@0} $=$ {{$x^2 - 2xy + y^2$}@1} :fc:
@@ -3013,7 +3013,7 @@ $n \geq 0$, $\alpha_i \in \mathbb{R} \; \forall \; i$, $A_i$ are intervals, and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   1 |     1.00 | 2023-07-19T13:50:02Z |
+| back     | 2.35 |   2 |     2.00 | 2023-08-03T01:20:39Z |
 | front    | 2.20 |   6 |    75.15 | 2023-04-04T19:58:25Z |
 :END:
 

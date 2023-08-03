@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-07-27 Thu 07:17]
+:LAST_MODIFIED: [2023-07-31 Mon 18:28]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -812,7 +812,7 @@ Roughly, "I promise not to change this value".
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   5 |    35.77 | 2023-08-03T11:34:44Z |
-| back     | 2.50 |   2 |     2.00 | 2023-07-21T13:40:01Z |
+| back     | 2.20 |   1 |     1.00 | 2023-08-02T01:28:02Z |
 :END:
 
 =constexpr= (C++)
@@ -981,7 +981,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   5 |    31.97 | 2023-08-02T13:40:43Z |
-| back     | 2.05 |   3 |     6.00 | 2023-07-29T03:43:49Z |
+| back     | 2.05 |   4 |    13.31 | 2023-08-13T07:23:16Z |
 :END:
 
 (C++) Declarations

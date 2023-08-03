@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24c39c95-3f91-4e42-81e6-7eb87eb24546
-:LAST_MODIFIED: [2023-07-14 Fri 06:17]
+:LAST_MODIFIED: [2023-07-30 Sun 17:00]
 :ROAM_REFS: [cite:@MatchingPennies2022]
 :END:
 #+title: Matching pennies
@@ -26,7 +26,7 @@ Matching pennies is the name for a simple game used in game theory [[[id:e157ee7
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   6 |   136.99 | 2023-08-20T16:24:59Z |
-| back     | 2.35 |   4 |    15.49 | 2023-07-30T01:07:43Z |
+| back     | 2.20 |   5 |    33.80 | 2023-09-02T19:09:36Z |
 :END:
 
 [[id:24c39c95-3f91-4e42-81e6-7eb87eb24546][Matching pennies]]

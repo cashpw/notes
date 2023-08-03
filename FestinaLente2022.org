@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@FestinaLente2022]
 :ID:       ff009594-d69f-4d33-b0c2-65ed62eaf0b2
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ff009594-d69f-4d33-b0c2-65ed62eaf0b2
-:LAST_MODIFIED: [2023-07-26 Wed 08:05]
+:LAST_MODIFIED: [2023-07-31 Mon 18:25]
 :END:
 #+title: Festina lente
 #+hugo_custom_front_matter: :slug "ff009594-d69f-4d33-b0c2-65ed62eaf0b2"
@@ -19,9 +19,6 @@
 [[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** {{[[id:ff009594-d69f-4d33-b0c2-65ed62eaf0b2][Festina lente]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Make haste slowly}{English}@1} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-08 Tue 08:22]
@@ -34,7 +31,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 3.10 |   6 |   168.52 | 2023-07-31T05:58:34Z |
+|        0 | 3.25 |   7 |   585.35 | 2025-03-08T09:52:34Z |
 |        1 | 2.20 |   8 |   277.04 | 2024-04-28T16:01:35Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DrugWarConfessional]
 :ID:       a0010be4-80dd-447b-a35f-528e5d484499
-:LAST_MODIFIED: [2023-05-14 Sun 07:50]
+:LAST_MODIFIED: [2023-07-30 Sun 16:57]
 :END:
 #+title: John Ehrlichman | You want to know what this was really all about?
 #+hugo_custom_front_matter: :slug "a0010be4-80dd-447b-a35f-528e5d484499"
@@ -33,7 +33,7 @@ Did we know we were lying about the drugs? Of course we did.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    83.23 | 2023-07-30T22:42:30Z |
+| front    | 2.50 |   7 |   198.19 | 2024-02-14T04:31:08Z |
 | back     | 2.50 |   6 |    89.44 | 2023-08-12T01:23:23Z |
 :END:
 

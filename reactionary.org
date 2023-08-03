@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       735e2c4a-52b9-455d-9872-cb897cc0bd54
-:LAST_MODIFIED: [2023-07-11 Tue 06:04]
+:LAST_MODIFIED: [2023-07-30 Sun 16:59]
 :END:
 #+title: Reactionary
 #+hugo_custom_front_matter: :slug "735e2c4a-52b9-455d-9872-cb897cc0bd54"
@@ -78,7 +78,7 @@ A person who holds political views which favor a return to the [[id:4021fd2b-7bd
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   120.45 | 2023-07-30T02:20:40Z |
+| front    | 2.20 |   8 |   277.65 | 2024-05-03T15:39:13Z |
 :END:
 
 [[id:735e2c4a-52b9-455d-9872-cb897cc0bd54][Reactionary]] politics with Conservative politics

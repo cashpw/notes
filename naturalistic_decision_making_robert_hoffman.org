@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@naturalisticdecisionmakingRobertHoffman]
+:ID:       53c7bf0c-e3b4-4fc2-b9f9-cf5afbd63426
+:LAST_MODIFIED: [2023-07-30 Sun 08:13]
+:END:
+#+title:  Naturalistic Decision Making | Robert Hoffman
+#+hugo_custom_front_matter: :slug "53c7bf0c-e3b4-4fc2-b9f9-cf5afbd63426"
+#+author: Cash Weaver
+#+date: [2023-07-30 Sun 07:42]
+#+filetags: :has_todo:reference:
+
+TODO_AUTHOR, [cite:@naturalisticdecisionmakingRobertHoffman]
+
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
+* TODO [#4] Flashcards
+#+print_bibliography:

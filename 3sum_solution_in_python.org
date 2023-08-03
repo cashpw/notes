@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8940a6c3-151a-4bbd-8264-fc4cecd7ba5a
-:LAST_MODIFIED: [2023-06-30 Fri 18:32]
+:LAST_MODIFIED: [2023-07-30 Sun 16:43]
 :END:
 #+title: 3sum solution in Python
 #+hugo_custom_front_matter: :slug "8940a6c3-151a-4bbd-8264-fc4cecd7ba5a"
@@ -69,7 +69,7 @@ print(three_sum([2,3,4,5,2], 6), 'should be None')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    15.39 | 2023-07-16T10:57:53Z |
+| front    | 2.35 |   5 |    36.24 | 2023-09-05T05:26:01Z |
 :END:
 
 Given a list of real numbers, =nums=, and a target value, =target=: return a list of three elements in =nums= which sum to =target=.

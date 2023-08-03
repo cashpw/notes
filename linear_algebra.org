@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-07-29 Sat 07:39]
+:LAST_MODIFIED: [2023-08-01 Tue 08:05]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -402,7 +402,7 @@ Using elementary row operations to convert a matrix into reduced row echelon for
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   9 |   226.80 | 2023-07-27T21:16:15Z |
+| back     | 2.35 |  10 |   578.53 | 2025-03-02T03:42:13Z |
 | front    | 2.35 |   8 |   220.24 | 2023-07-27T00:36:44Z |
 :END:
 
@@ -561,7 +561,7 @@ $f: V \to W$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   6 |   104.42 | 2023-11-08T23:51:38Z |
-|        1 |  2.5 |   5 |       32 | 2022-09-27T13:00:00Z |
+|        1 | 2.35 |   6 |    76.20 | 2023-10-15T04:43:02Z |
 |        2 |  2.5 |   5 |       23 | 2022-09-22T13:00:00Z |
 |        3 |  2.5 |   5 |       35 | 2022-10-16T13:00:00Z |
 |       10 |  2.5 |   4 |       16 | 2022-09-16T13:00:00Z |
@@ -580,7 +580,7 @@ $f: V \to W$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   6 |    56.04 | 2023-09-23T15:29:28Z |
-|        1 |  2.5 |   5 |       35 | 2022-10-16T13:00:00Z |
+|        1 | 2.50 |   6 |    84.52 | 2023-10-25T03:41:28Z |
 :END:
 ** Denotes :fc:
 :PROPERTIES:
@@ -1257,7 +1257,7 @@ How to find the row space of a matrix
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   5 |    31.43 | 2023-07-16T23:34:41Z |
+| front    | 2.35 |   6 |    79.08 | 2023-10-19T03:11:48Z |
 | back     | 2.80 |  11 |   237.47 | 2023-10-12T13:18:33Z |
 :END:
 How to parameterize the solution set for a system of linear equations

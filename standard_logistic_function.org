@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
 :ROAM_REFS: [cite:@LogisticFunction2022]
-:LAST_MODIFIED: [2023-07-23 Sun 20:56]
+:LAST_MODIFIED: [2023-07-30 Sun 16:55]
 :END:
 #+title: Logistic function
 #+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
@@ -130,7 +130,7 @@ $\operatorname{logistic}(x)$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   445.19 | 2024-08-02T21:56:40Z |
-|        1 | 1.90 |   3 |     6.00 | 2023-07-30T03:56:44Z |
+|        1 | 1.75 |   4 |    11.27 | 2023-08-11T06:27:44Z |
 :END:
 {{$\operatorname{logistic}(x)$}{function}@0} $=$ {{$\displaystyle \frac{e^x}{e^x + 1}$}{fraction}@1}
 

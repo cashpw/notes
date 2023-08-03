@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       738c2ba7-a272-417d-9b6d-b6952d765280
 :ROAM_ALIASES: "Concrete data type" "Data structure"
-:LAST_MODIFIED: [2023-07-12 Wed 05:53]
+:LAST_MODIFIED: [2023-07-31 Mon 18:26]
 :END:
 #+title: Data structures
 #+hugo_custom_front_matter: :slug "738c2ba7-a272-417d-9b6d-b6952d765280"
@@ -20,9 +20,6 @@ In computer science, a data structure is a data organization, management, and st
 - [[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]: \(Z+o(Z)\) (see [[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]])
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** AKA (Computer science) :fc:
 :PROPERTIES:
 :ID:       b95d22e9-5034-488a-83a2-ef7617600482
@@ -36,7 +33,7 @@ In computer science, a data structure is a data organization, management, and st
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   289.15 | 2024-01-31T19:33:07Z |
-|        1 | 1.45 |   6 |    19.28 | 2023-07-31T19:34:01Z |
+|        1 | 1.30 |   7 |    26.78 | 2023-08-27T20:14:58Z |
 :END:
 - {{[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]}@0}
 - {{[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Concrete data type]]}@1}

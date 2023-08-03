@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       47e96222-94d6-4aa5-bb44-3a350c1a7023
 :ROAM_ALIASES: "Nice girl syndrome" "Good girl syndrome"
-:LAST_MODIFIED: [2023-07-29 Sat 07:58]
+:LAST_MODIFIED: [2023-08-01 Tue 07:59]
 :END:
 #+title: People pleaser
 #+hugo_custom_front_matter: :slug "47e96222-94d6-4aa5-bb44-3a350c1a7023"
@@ -46,8 +46,8 @@ The messages you received from your family or your childhood experiences may hav
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-07-30T15:02:07Z |
-| back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:00Z |
+| front    | 2.35 |   3 |     6.00 | 2023-08-05T23:37:21Z |
+| back     | 2.50 |   1 |     1.00 | 2023-08-02T01:27:41Z |
 :END:
 
 An obsequious, subservient person, especially in a workplace
@@ -65,7 +65,7 @@ An obsequious, subservient person, especially in a workplace
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   3 |     6.00 | 2023-08-03T15:05:38Z |
-| back     |  2.5 |  -1 |        0 | 2023-07-27T18:53:25Z |
+| back     | 2.50 |   2 |     2.00 | 2023-08-03T14:59:30Z |
 :END:
 
 [[id:47e96222-94d6-4aa5-bb44-3a350c1a7023][Nice girl syndrome]]

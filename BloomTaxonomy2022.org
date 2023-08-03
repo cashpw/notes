@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-07-29 Sat 07:56]
+:LAST_MODIFIED: [2023-07-30 Sun 17:01]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -293,7 +293,7 @@ Learning objective concerned with using acquired knowledge to solve problems in 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.45 |   6 |    20.28 | 2023-08-16T20:51:44Z |
-| back     | 2.80 |   6 |   129.48 | 2023-07-25T01:47:35Z |
+| back     | 2.65 |   7 |   369.65 | 2024-08-03T15:33:13Z |
 :END:
 
 [[id:4aea47e5-059e-4ae2-86d3-6c359ad3ce66][Analyze (Bloom's Taxonomy)]]

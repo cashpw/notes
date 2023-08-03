@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2fe284fb-7fbc-4956-9857-db90b66e504e
 :ROAM_REFS: [cite:@BellmanFordAlgorithm2022]
-:LAST_MODIFIED: [2023-07-25 Tue 19:57]
+:LAST_MODIFIED: [2023-07-30 Sun 16:58]
 :END:
 #+title: Bellman-Ford algorithm
 #+hugo_custom_front_matter: :slug "2fe284fb-7fbc-4956-9857-db90b66e504e"
@@ -108,7 +108,7 @@ Since the longest possible path without a cycle can be $|V| - 1$ edges, the edge
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   133.28 | 2023-07-29T20:12:26Z |
+|        0 | 2.65 |   7 |   349.26 | 2024-07-14T06:16:22Z |
 |        1 | 2.65 |   7 |   269.55 | 2024-03-20T02:35:03Z |
 :END:
 

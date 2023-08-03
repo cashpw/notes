@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cc4d2c6f-a577-4845-ac1f-1c5b34745cec
-:LAST_MODIFIED: [2023-07-29 Sat 08:01]
+:LAST_MODIFIED: [2023-07-31 Mon 18:25]
 :END:
 #+title: Monument to the Supreme Being
 #+hugo_custom_front_matter: :slug "cc4d2c6f-a577-4845-ac1f-1c5b34745cec"
@@ -30,7 +30,7 @@ https://catalogue.bnf.fr/ark:/12148/cb451663643
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   2 |     2.00 | 2023-07-31T15:01:02Z |
+|        0 | 2.35 |   3 |     6.00 | 2023-08-07T01:25:45Z |
 :END:
 
 {{[[id:7c1ddba6-a0ad-4ea0-8ec1-ba9099f8b2cf][Étienne-Louis Boullée]]}@0} created [[id:cc4d2c6f-a577-4845-ac1f-1c5b34745cec][Monument to the Supreme Being]]
@@ -46,7 +46,7 @@ https://catalogue.bnf.fr/ark:/12148/cb451663643
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-07-30T15:07:29Z |
+| front    | 2.50 |   3 |     6.00 | 2023-08-05T23:55:34Z |
 | back     |  2.5 |  -1 |        0 | 2023-08-01T23:28:23Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       87b4549f-d8f7-44ec-b11e-4fa14166f157
-:LAST_MODIFIED: [2023-07-29 Sat 08:01]
+:LAST_MODIFIED: [2023-07-31 Mon 18:24]
 :END:
 #+title: Centering matrix
 #+hugo_custom_front_matter: :slug "87b4549f-d8f7-44ec-b11e-4fa14166f157"
@@ -119,8 +119,8 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   2 |     2.00 | 2023-07-30T15:07:42Z |
-|        1 | 2.50 |   2 |     2.00 | 2023-07-31T15:01:48Z |
+|        0 | 2.35 |   3 |     6.00 | 2023-08-05T23:51:13Z |
+|        1 | 2.50 |   3 |     6.00 | 2023-08-07T01:24:04Z |
 :END:
 *** Source
 [cite:@CenteringMatrix2021]
