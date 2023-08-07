@@ -2,7 +2,7 @@
 :ID:       4a246de2-16ae-4fa6-abaa-7cfb533eccdb
 :ROAM_ALIASES: "Sliding window"
 :ROAM_REFS: [cite:@Convolution2022]
-:LAST_MODIFIED: [2023-07-30 Sun 17:00]
+:LAST_MODIFIED: [2023-08-06 Sun 07:47]
 :END:
 #+title: Convolution
 #+hugo_custom_front_matter: :slug "4a246de2-16ae-4fa6-abaa-7cfb533eccdb"
@@ -68,7 +68,7 @@ An operation on two functions, \(f_1\) and \(f_2\), which produces a third funct
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |  13 |   388.16 | 2024-04-05T19:03:33Z |
-|        1 | 2.05 |   3 |     6.00 | 2023-08-06T00:00:34Z |
+|        1 | 2.05 |   4 |    12.83 | 2023-08-19T10:45:22Z |
 :END:
 
 *** Source

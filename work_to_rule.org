@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       83d72898-e7df-48d7-9cbc-6c0f99096b2f
-:LAST_MODIFIED: [2023-07-23 Sun 21:04]
+:LAST_MODIFIED: [2023-08-04 Fri 08:21]
 :END:
 #+title: Work-to-rule
 #+hugo_custom_front_matter: :slug "83d72898-e7df-48d7-9cbc-6c0f99096b2f"
@@ -24,7 +24,7 @@ Work-to-rule is a job action in which employees do no more than the minimum requ
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   130.99 | 2023-08-04T13:22:23Z |
+| front    | 2.80 |   7 |   378.36 | 2024-08-16T23:59:43Z |
 | back     | 2.65 |   7 |   309.60 | 2024-05-28T18:23:46Z |
 :END:
 

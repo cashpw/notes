@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6bd79f38-1c84-45f0-9840-738f712fdf40
-:LAST_MODIFIED: [2023-07-11 Tue 06:04]
+:LAST_MODIFIED: [2023-08-04 Fri 08:10]
 :ROAM_REFS: [cite:@SpanningTree2022]
 :END:
 #+title: Spanning tree
@@ -24,7 +24,7 @@ In the mathematical field of graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   125.80 | 2023-08-04T11:17:17Z |
+| front    | 2.95 |   7 |   368.19 | 2024-08-06T19:44:23Z |
 | back     | 2.65 |   7 |   250.14 | 2024-03-17T16:30:22Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8e50c265-f020-4b20-bf7f-f7a3ce818bba
 :ROAM_ALIASES: Ems
-:LAST_MODIFIED: [2023-08-02 Wed 06:57]
+:LAST_MODIFIED: [2023-08-04 Fri 08:03]
 :END:
 #+title: Em
 #+hugo_custom_front_matter: :slug "8e50c265-f020-4b20-bf7f-f7a3ce818bba"
@@ -10,7 +10,6 @@
 #+filetags: :concept:
 
 Ems are copies of human minds which exist on computers in [[id:6d55a204-cace-464c-b771-66bd9af50ed0][Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]].
-
 * Flashcards
 ** Definition :fc:suspended:
 :PROPERTIES:

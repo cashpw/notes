@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       019be402-8bef-48f3-afbf-6441010dd8cf
 :ROAM_REFS: [cite:@RedblackTree2022]
-:LAST_MODIFIED: [2023-07-26 Wed 08:08]
+:LAST_MODIFIED: [2023-08-05 Sat 08:36]
 :END:
 #+title: Red-black tree
 #+hugo_custom_front_matter: :slug "019be402-8bef-48f3-afbf-6441010dd8cf"
@@ -233,19 +233,20 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 
 *** Source
 [cite:@RedblackTree2022]
-** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) Red nodes {{cannot}{can/can't}@0} have red children :fc:
+** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) {{Red}@1} nodes {{cannot}{can/can't}@0} have red children :fc:
 :PROPERTIES:
 :CREATED: [2022-11-11 Fri 07:50]
 :FC_CREATED: 2022-11-11T15:51:17Z
 :FC_TYPE:  cloze
 :ID:       4e3440f5-ce7a-43e3-ba81-046d16d0f3ae
-:FC_CLOZE_MAX: 0
+:FC_CLOZE_MAX: 1
 :FC_CLOZE_TYPE: deletion
 :END:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 3.10 |   6 |   171.16 | 2023-08-02T21:23:27Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-08-06T15:33:13Z |
+|        0 | 3.10 |   7 |   554.82 | 2025-02-09T10:50:07Z |
 :END:
 
 *** Source
@@ -264,6 +265,26 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   300.16 | 2024-03-06T18:59:55Z |
 :END:
+
+*** Source
+[cite:@RedblackTree2022]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-08-04 Fri 08:16]
+:FC_CREATED: 2023-08-04T15:17:14Z
+:FC_TYPE:  cloze
+:ID:       0d169b28-a31c-4ed9-b5fb-b0b496712e93
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-08-06T15:36:48Z |
+|        1 |  2.5 |  -1 |        0 | 2023-08-11T15:17:14Z |
+:END:
+
+{{Black}@0} nodes {{can}{can/can't}@1} have red children.
 
 *** Source
 [cite:@RedblackTree2022]

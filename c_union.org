@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6f967c9a-b981-43f8-86cb-0f096639bdfb
-:LAST_MODIFIED: [2023-07-20 Thu 08:23]
+:LAST_MODIFIED: [2023-08-04 Fri 08:12]
 :END:
 #+title: C++ union
 #+hugo_custom_front_matter: :slug "6f967c9a-b981-43f8-86cb-0f096639bdfb"
@@ -25,7 +25,7 @@ A union is a struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] in
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    97.98 | 2023-10-22T13:23:30Z |
-| back     | 2.65 |   5 |    40.87 | 2023-08-03T10:54:40Z |
+| back     | 2.65 |   6 |   102.05 | 2023-11-14T16:18:54Z |
 :END:
 
 [[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]

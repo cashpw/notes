@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb
+:LAST_MODIFIED: [2023-08-05 Sat 08:36]
+:ROAM_REFS: [cite:@tiezeCollectorFallacy0100]
+:END:
+#+title: Collector's fallacy
+#+hugo_custom_front_matter: :slug "ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-04 Fri 17:28]
+#+filetags: :concept:
+
+The collector's fallacy is the focus collection of knowledge without internalizing or understanding the knowledge. Examples include:
+
+- a bookshelf of books you haven't read
+- accumulating links to thinkpieces, articles, blog posts, etc, that "you'll definitely read some day" (see [[id:c93c0308-2ea5-47d1-b808-b0291b092527][Unread]])
+
+See [[id:b23ffea4-e780-4d89-84ad-c0bd4f25816f][Christian Tieze | The Collector's Fallacy]]
+
+Related: [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowing the name of something and knowing something]].
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-08-04 Fri 17:30]
+:FC_CREATED: 2023-08-05T00:31:27Z
+:FC_TYPE:  double
+:ID:       9b782ca5-bd0d-4368-95c8-02cb409b9b99
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-08-06T15:36:42Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-12T00:31:27Z |
+:END:
+
+[[id:ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb][Collector's fallacy]]
+
+*** Back
+The practice of collecting knowledge, or references to knowledge (links, books, articles, etc), without internalizing said knowledge.
+*** Source
+[cite:@tiezeCollectorFallacy0100]
+#+print_bibliography:

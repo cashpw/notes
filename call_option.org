@@ -2,7 +2,7 @@
 :ID:       15f1b0b2-6f51-40de-93c9-77980744a483
 :ROAM_ALIASES: "Call options"
 :ROAM_REFS: [cite:@CallOption2022]
-:LAST_MODIFIED: [2023-07-16 Sun 07:03]
+:LAST_MODIFIED: [2023-08-06 Sun 07:48]
 :END:
 #+title: Call option
 #+hugo_custom_front_matter: :slug "15f1b0b2-6f51-40de-93c9-77980744a483"
@@ -49,7 +49,7 @@ A contract which allows the holder to buy a specific asset at a stated price wit
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   362.33 | 2024-01-20T22:15:53Z |
-| front    | 2.65 |   8 |   240.12 | 2023-08-05T20:47:49Z |
+| front    | 2.50 |   9 |   609.10 | 2025-04-06T17:08:36Z |
 :END:
 Covered call
 *** Back

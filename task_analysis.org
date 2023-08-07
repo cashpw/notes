@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       6f26873c-19de-47e1-a395-88f75438e202
+:LAST_MODIFIED: [2023-08-05 Sat 08:46]
+:END:
+#+title: Task analysis
+#+hugo_custom_front_matter: :slug "6f26873c-19de-47e1-a395-88f75438e202"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-04 Fri 21:52]
+#+filetags: :concept:
+
+#+begin_quote
+[Task analysis] entails analyzing how a task is accomplished, including a detailed description of both manual and mental activities, task and element durations, task frequency, task allocation, task complexity, environmental conditions, necessary clothing and equipment, and any other unique factors involved in or required for one or more people to perform a given task
+
+[cite:@TaskAnalysis2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-08-04 Fri 21:53]
+:FC_CREATED: 2023-08-05T04:55:13Z
+:FC_TYPE:  double
+:ID:       53dd5ccd-f290-41f9-ba40-afe063ee0c88
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-08-06T15:46:52Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-12T04:55:13Z |
+:END:
+
+[[id:6f26873c-19de-47e1-a395-88f75438e202][Task analysis]]
+
+*** Back
+The process of breaking down the internal and external details of how one accomplishes a piece of work.
+*** Source
+[cite:@TaskAnalysis2023]
+#+print_bibliography:

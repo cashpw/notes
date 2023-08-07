@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@matuschakDecidingRememberSomethingSpacedRepetitionSystemAspirationallyLightweightGesture]
+:ID:       369aafeb-965f-42c7-8b8a-c5963dcc647c
+:LAST_MODIFIED: [2023-08-04 Fri 18:13]
+:END:
+#+title: Andy Matuschak | Deciding to Remember Something with a Spaced Repetition System Is (Aspirationally) a Lightweight Gesture
+#+hugo_custom_front_matter: :slug "369aafeb-965f-42c7-8b8a-c5963dcc647c"
+#+author: Cash Weaver
+#+date: [2023-08-04 Fri 18:11]
+#+filetags: :reference:
+
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakDecidingRememberSomethingSpacedRepetitionSystemAspirationallyLightweightGesture]
+
+* Summary
+Using a [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition system]] to remember something should, ideally, be lightweight. That is, the system makes it easy for you to remember the thing.
+* Thoughts
+* Notes
+#+begin_quote
+People who haven't actually used a [[https://notes.andymatuschak.org/z2D1qPwddPktBjpNuwYFVva][Spaced repetition memory system]] often think of it as a tool you might apply "when you want to memorize something." But this is an awful way to understand how to use an efficient memory system. Without augmentation, explicitly memorizing information is quite onerous, so it's not something people often do. It's reserved for extremely important details, details which are worthy of memorization's high costs.
+
+But [[https://notes.andymatuschak.org/z64yjxVfMvJTSAjWFpyEtnA][Spaced repetition memory systems are extremely efficient]]. Deciding to remember something is not a high-stakes decision; it's a decision that'll cost a fraction of a minute over the next couple years. These systems wouldn't be very interesting if you only used them to memorize the kinds of material you already memorize, because most people don't explicitly memorize very much. Not only do [[https://notes.andymatuschak.org/zSTqsQ4ATXB61k3Z43TforN][Spaced repetition memory systems make memory a choice]], but they make it an /almost costless/ choice. Emotionally, it's closer to choosing what to highlight or write marginalia next to on a book page. And practically speaking, when a once-expensive resource becomes nearly costless, surprising things can happen (e.g. electricity).
+
+The way I add material to memory systems feels like a /gesture/. It's something I do habitually, often almost unconsciously. It's usually not explicitly purposeful---more like a way of mentally "underlining" information. It's much like how I use the Twitter "like" button. It's not a bookmark; it's not a vote; it's not costly; liking a tweet is a habitual, unconscious way I indicate interest.
+#+end_quote
+* Flashcards
+#+print_bibliography:

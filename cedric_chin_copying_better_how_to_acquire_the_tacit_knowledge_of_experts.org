@@ -1,19 +1,20 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinCopyingBetterHowAcquireTacitKnowledgeExperts2020]
 :ID:       5a1426bf-c14f-411b-af3e-e21ee56fa8e5
-:LAST_MODIFIED: [2023-07-30 Sun 08:17]
+:LAST_MODIFIED: [2023-08-04 Fri 21:49]
 :END:
 #+title: Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts
 #+hugo_custom_front_matter: :slug "5a1426bf-c14f-411b-af3e-e21ee56fa8e5"
 #+author: Cash Weaver
 #+date: [2023-06-30 Fri 19:33]
-#+filetags: :has_todo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinCopyingBetterHowAcquireTacitKnowledgeExperts2020]
 
-* INPROGRESS Summary
-* TODO Thoughts
-* INPROGRESS Notes
+* Summary
+We can acquire the [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] of experts through [[id:6eb374ad-69aa-476d-b1d8-02714ffc094f][Naturalistic decision making]]: [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]] and [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]].
+* Thoughts
+* Notes
 #+begin_quote
 Let's say that you believe tacit knowledge exists. Let's also say that you agree that tacit knowledge is mostly learnt through emulation, apprenticeship and osmosis.
 
@@ -57,7 +58,7 @@ See [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]].
 ** How do we use [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][RPD]]?
 
 See [[id:ba1c4d11-bcfa-4844-b65e-2c59fe7a9422][How to improve at Recognition-primed decision making?]]
-** INPROGRESS [#0] How do we know this model is accurate?
+** How do we know this model is accurate?
 
 #+begin_quote
 One question that you might reasonably ask is: how do we know that the RPD model is true? I've described NDM's methods to you, and you might have caught on to the fact that none of what I've described is experimental. NDM researchers do not use hypothesis testing; there is no concept of falsifiability in their work. Klein himself readily admits that NDM is "nearer to anthropology than psychology."
@@ -72,5 +73,5 @@ I have argued elsewhere that if you are primarily a practitioner, your [[https:/
 
 NDM lies at the highest level in my [[https://commoncog.com/the-hierarchy-of-practical-evidence/][hierarchy of practical evidence]] [[[id:a54b896a-9969-4d44-95cc-a9baf8ef3dde][Cedric Chin | The Hierarchy of Practical Evidence]]]: I have tried their methods and their ideas in my life, and /nearly every one of them have led to improvements./
 #+end_quote
-* TODO [#2] Flashcards
+* Flashcards
 #+print_bibliography:

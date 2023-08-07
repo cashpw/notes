@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6
-:LAST_MODIFIED: [2023-05-11 Thu 08:06]
+:LAST_MODIFIED: [2023-08-04 Fri 08:10]
 :ROAM_ALIASES: "Asterisk in Python function invocations"
 :END:
 #+title: Asterisk in Python function arguments
@@ -134,7 +134,7 @@ Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function ar
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    94.13 | 2023-08-04T02:36:45Z |
+| front    | 2.50 |   7 |   214.04 | 2024-03-05T16:12:22Z |
 | back     | 2.80 |   6 |   117.64 | 2023-08-29T07:10:20Z |
 :END:
 

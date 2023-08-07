@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       462b9154-2519-45e9-a4f5-35e7c32128c7
 :ROAM_REFS: [cite:@Metagaming2022]
-:LAST_MODIFIED: [2023-07-18 Tue 06:41]
+:LAST_MODIFIED: [2023-08-04 Fri 08:11]
 :END:
 #+title: Metagame
 #+hugo_custom_front_matter: :slug "462b9154-2519-45e9-a4f5-35e7c32128c7"
@@ -32,13 +32,13 @@ Metagaming might also refer to a game which functions to create or modify the ru
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   422.79 | 2024-09-13T08:32:39Z |
-| back     | 3.10 |   6 |   149.69 | 2023-08-02T09:25:22Z |
+| back     | 3.10 |   7 |   454.96 | 2024-11-01T14:21:21Z |
 :END:
 
 [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]
 
 *** Back
-- The game about the game
+The game about the game
 *** Source
 [cite:@Metagaming2022]
 #+print_bibliography:

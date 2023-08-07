@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1a0a03b-2d39-4119-bbec-e32ed8e6852e
-:LAST_MODIFIED: [2023-07-30 Sun 17:00]
+:LAST_MODIFIED: [2023-08-06 Sun 07:41]
 :ROAM_REFS: [cite:@SecantLine2022]
 :END:
 #+title: Secant line
@@ -34,7 +34,7 @@ The tangent line at point P is a secant line of the curve.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   3 |     6.00 | 2023-08-06T00:00:10Z |
+| front    | 2.65 |   4 |    15.83 | 2023-08-22T10:32:56Z |
 | back     | 2.80 |   6 |   127.35 | 2023-09-15T00:28:15Z |
 :END:
 

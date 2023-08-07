@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-08-01 Tue 08:05]
+:LAST_MODIFIED: [2023-08-06 Sun 07:43]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -289,7 +289,7 @@ Denoted $x^{-1}$ or $\frac{1}{x}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   4 |    11.17 | 2023-07-28T17:50:09Z |
+| back     | 2.05 |   5 |    23.66 | 2023-08-29T07:27:37Z |
 | front    | 2.65 |   8 |   493.62 | 2024-10-10T14:55:52Z |
 :END:
 
@@ -405,7 +405,7 @@ A finite combination of symbols that is well-formed according to the rules (whic
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   231.58 | 2023-08-04T10:38:16Z |
+| back     | 2.50 |  10 |   555.80 | 2025-02-10T10:13:57Z |
 | front    | 2.65 |   8 |   274.28 | 2023-09-21T22:12:16Z |
 :END:
 
@@ -785,7 +785,7 @@ $\operatorname{boxcar}(x) = \begin{cases} 0 & \text{if}\; x < a \\ c & \text{if}
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |  13 |   282.31 | 2023-10-27T22:47:17Z |
-| front    | 1.75 |   2 |     2.00 | 2023-06-30T17:13:48Z |
+| front    | 1.75 |   3 |     6.00 | 2023-08-12T14:43:23Z |
 :END:
 
 Centroid
@@ -1392,7 +1392,7 @@ $\operatorname{f}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ \text{various} & \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   3 |     6.00 | 2023-08-04T14:56:09Z |
+| back     | 2.20 |   4 |    14.07 | 2023-08-19T17:09:21Z |
 | front    | 2.50 |   8 |   282.96 | 2023-11-16T22:45:49Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       91be2f5b-d873-4cd0-b7fb-d077329380ad
-:LAST_MODIFIED: [2023-07-23 Sun 21:04]
+:LAST_MODIFIED: [2023-08-04 Fri 08:22]
 :END:
 #+title: Walk (Graph theory)
 #+hugo_custom_front_matter: :slug "91be2f5b-d873-4cd0-b7fb-d077329380ad"
@@ -26,7 +26,7 @@ A walk is a finite, or infinite, sequence of edges [[[id:7211246e-d3da-491e-a493
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.45 |   8 |    33.24 | 2023-08-26T09:43:54Z |
-| back     | 2.80 |   6 |   133.06 | 2023-08-01T18:55:16Z |
+| back     | 2.80 |   7 |   374.90 | 2024-08-13T12:53:34Z |
 :END:
 
 [[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]]

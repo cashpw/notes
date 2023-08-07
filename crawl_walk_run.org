@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3f33e96a-915a-4561-be68-4cef17b84792
 :ROAM_ALIASES: "Iterative development"
-:LAST_MODIFIED: [2023-07-04 Tue 12:25]
+:LAST_MODIFIED: [2023-08-05 Sat 08:53]
 :END:
 #+title: Crawl, walk, run
 #+hugo_custom_front_matter: :slug "3f33e96a-915a-4561-be68-4cef17b84792"
@@ -38,7 +38,7 @@ Answering these follow-up questions ensures you and your team don't burn time so
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   5 |    43.09 | 2023-08-16T03:56:00Z |
-| back     | 2.35 |   5 |    31.61 | 2023-08-05T10:07:07Z |
+| back     | 2.35 |   6 |    75.40 | 2023-10-20T01:30:24Z |
 :END:
 
 [[id:3f33e96a-915a-4561-be68-4cef17b84792][Crawl, walk, run]]

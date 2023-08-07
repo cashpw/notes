@@ -1,12 +1,13 @@
 :PROPERTIES:
 :ID:       58146c27-37cf-4270-bb24-ab1f6bed8e9f
-:LAST_MODIFIED: [2023-07-30 Sun 16:53]
+:LAST_MODIFIED: [2023-08-06 Sun 07:48]
 :END:
 #+title: Greatness is a transitory experience
 #+hugo_custom_front_matter: :slug "58146c27-37cf-4270-bb24-ab1f6bed8e9f"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-15 Tue 09:44]
 #+filetags: :has_todo:quote:
+
 #+begin_quote
 Greatness is a transitory experience. It is never consistent. It depends in part upon the myth-making imagination of humankind. The person who experiences greatness must have a feeling for the myth he is in. He must reflect what is projected upon him. And he must have a strong sense of the sardonic. This is what uncouples him from belief in his own pretensions. The sardonic is all that permits him to move within himself. Without this quality, even occasional greatness will destroy a man.
 
@@ -64,7 +65,7 @@ The person who experiences greatness must {{have a feeling for the myth they are
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   3 |     6.00 | 2023-08-05T23:53:13Z |
+|        0 | 1.60 |   4 |     9.99 | 2023-08-16T14:35:57Z |
 :END:
 
 {{The person who experiences greatness must have a feeling for the myth they are in. They must reflect what is projected upon them. And they must have a strong sense of the sardonic}{greatness (full); Dune}@0}.

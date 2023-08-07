@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       875bfbf2-61ad-4f0a-9833-245dc5adc561
 :ROAM_REFS: [cite:@AntisymmetricRelation2022]
-:LAST_MODIFIED: [2023-07-25 Tue 20:04]
+:LAST_MODIFIED: [2023-08-04 Fri 08:04]
 :END:
 #+title: Antisymmetric relation
 #+hugo_custom_front_matter: :slug "875bfbf2-61ad-4f0a-9833-245dc5adc561"
@@ -32,7 +32,7 @@ $\text{if }\,aRb\,\text{ and }\,bRa\,\text{ then }\,a=b$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   4 |     7.45 | 2023-08-02T13:47:48Z |
+| front    | 1.30 |   5 |    10.44 | 2023-08-15T01:34:04Z |
 | back     | 2.20 |   7 |   158.46 | 2023-11-06T02:35:11Z |
 :END:
 

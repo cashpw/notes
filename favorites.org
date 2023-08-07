@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a586a0e-eddc-4903-9c90-7e3a91e3204c
-:LAST_MODIFIED: [2023-07-28 Fri 06:50]
+:LAST_MODIFIED: [2023-08-03 Thu 08:33]
 :END:
 #+title: Favorites
 #+hugo_custom_front_matter: :slug "2a586a0e-eddc-4903-9c90-7e3a91e3204c"
@@ -18,17 +18,25 @@ Some of my favorite things.
 - [[id:4625d068-26fe-47d7-93b3-da12b0151ca1][Ben Kuhn | Attention Is Your Scarcest Resource]]
 
 * Concepts
+- [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
 - [[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][Attention capital theory]]
 - [[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]]
-- [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
+- [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]]
+- [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]
 
 * Tools
 - [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]], [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]], [[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]]
 
 * Quotes
+- [[id:58146c27-37cf-4270-bb24-ab1f6bed8e9f][Greatness is a transitory experience]]
 - [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The first lesson]]
 
 * Manga
 - [[id:f63223ab-fdd7-493b-8d80-2efc34d60edd][Tsutomu Nihei, Melissa Tanaka | Blame!]]
+
+* Poems
+- [[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][Who built the seven gates of Thebes?]]
+- [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
+- [[id:de31b59e-2fed-49c0-82ff-22d6f86fc48d][Howl (Poem)]]
 
 * Flashcards

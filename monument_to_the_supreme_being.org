@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cc4d2c6f-a577-4845-ac1f-1c5b34745cec
-:LAST_MODIFIED: [2023-07-31 Mon 18:25]
+:LAST_MODIFIED: [2023-08-06 Sun 07:46]
 :END:
 #+title: Monument to the Supreme Being
 #+hugo_custom_front_matter: :slug "cc4d2c6f-a577-4845-ac1f-1c5b34745cec"
@@ -46,8 +46,8 @@ https://catalogue.bnf.fr/ark:/12148/cb451663643
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-08-05T23:55:34Z |
-| back     |  2.5 |  -1 |        0 | 2023-08-01T23:28:23Z |
+| front    | 2.50 |   4 |    14.83 | 2023-08-21T10:43:17Z |
+| back     | 2.50 |   2 |     2.00 | 2023-08-07T15:50:51Z |
 :END:
 
 [[id:cc4d2c6f-a577-4845-ac1f-1c5b34745cec][Monument to the Supreme Being]]

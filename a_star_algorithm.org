@@ -2,7 +2,7 @@
 :ID:       4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087
 :ROAM_REFS: [cite:@SearchAlgorithm2022]
 :ROAM_ALIASES: "A* search algorithm" A*
-:LAST_MODIFIED: [2023-07-29 Sat 07:58]
+:LAST_MODIFIED: [2023-08-06 Sun 07:45]
 :END:
 #+title: A-star search algorithm
 #+hugo_custom_front_matter: :slug "4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087"
@@ -223,7 +223,7 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   137.54 | 2023-08-06T06:16:48Z |
+| front    | 2.65 |   7 |   398.67 | 2024-09-08T06:46:21Z |
 :END:
 
 [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]

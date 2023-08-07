@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderMeditationsMoloch2014]
 :ID:       1bba449a-48eb-479a-be4d-a4d7f8095b6a
-:LAST_MODIFIED: [2023-07-30 Sun 16:54]
+:LAST_MODIFIED: [2023-08-06 Sun 07:45]
 :END:
 #+title: Scott Alexander | Meditations On Moloch
 #+hugo_custom_front_matter: :slug "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
@@ -275,7 +275,7 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   3 |     6.00 | 2023-08-05T23:54:20Z |
+| front    | 1.30 |   4 |     7.29 | 2023-08-13T21:45:07Z |
 :END:
 
 *** Back
@@ -330,7 +330,7 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   303.27 | 2024-03-31T07:30:08Z |
-| back     | 1.60 |   4 |    10.52 | 2023-08-02T16:23:05Z |
+| back     | 1.60 |   5 |    16.35 | 2023-08-20T23:39:45Z |
 :END:
 [[id:ee4dffcd-da64-4404-b765-4f6cb30e918b][Utility maximization (Moloch)]]
 *** Back

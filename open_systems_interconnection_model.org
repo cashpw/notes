@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-08-01 Tue 07:59]
+:LAST_MODIFIED: [2023-08-06 Sun 07:41]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -269,8 +269,8 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
 
 *** Back
-- [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]: Provides a *reliable* connection between two hosts; also flow and congestion control
 - [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]: Provides /a/ connection between two hosts
+- [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]: Provides a *reliable* connection between two hosts; also flow and congestion control
 *** Source
 [cite:@OSIModel2023] and [[id:a45ed3de-c710-40c8-86c4-3beab753cf41][Bard]]
 ** Describe :fc:

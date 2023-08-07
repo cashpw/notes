@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d1a8dddc-9e5c-4e4f-ac74-a2079025130c
-:LAST_MODIFIED: [2023-07-28 Fri 08:05]
+:LAST_MODIFIED: [2023-08-06 Sun 07:47]
 :ROAM_REFS: [cite:@Piecewise2022]
 :ROAM_ALIASES: "Definition by cases" "Hybrid function"
 :END:
@@ -56,7 +56,7 @@ $f(x)= \begin{cases}-3-x & \text{if}\;  x \leq -3 \\ x+3&\text{if}\;-3\leq x\leq
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |  11 |   470.76 | 2024-11-10T09:20:40Z |
 |        1 | 1.60 |   9 |   143.24 | 2023-11-11T21:33:40Z |
-|        2 | 1.30 |  10 |    47.64 | 2023-08-06T12:07:05Z |
+|        2 | 1.30 |  11 |    64.08 | 2023-10-09T16:42:31Z |
 :END:
 
 - {{Piecewise function}@0}

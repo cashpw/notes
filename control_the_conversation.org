@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24cb7271-441f-447e-9150-b4f44fc6d947
-:LAST_MODIFIED: [2023-07-31 Mon 18:25]
+:LAST_MODIFIED: [2023-08-05 Sat 08:51]
 :END:
 #+title: Control the conversation
 #+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
@@ -59,7 +59,7 @@ Treat your opponent as if they've already agreed to your position and make the n
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   6 |    38.08 | 2023-09-08T03:18:03Z |
-| back     | 2.30 |  10 |   159.29 | 2023-08-02T10:56:46Z |
+| back     | 2.00 |   2 |     2.00 | 2023-08-07T15:50:59Z |
 :END:
 [[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]]
 *** Back

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97
-:LAST_MODIFIED: [2023-07-13 Thu 17:52]
+:LAST_MODIFIED: [2023-08-04 Fri 08:10]
 :END:
 #+title: Heap property
 #+hugo_custom_front_matter: :slug "4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97"
@@ -70,7 +70,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   7 |   160.55 | 2023-08-03T16:58:04Z |
+| back     | 2.35 |   8 |   384.13 | 2024-08-22T18:16:13Z |
 | front    | 3.10 |   7 |   494.93 | 2024-11-03T13:51:25Z |
 :END:
 

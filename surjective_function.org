@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       69b3ebf4-c54d-424b-9479-e06e7c905433
 :ROAM_REFS: [cite:@SurjectiveFunction2022]
-:LAST_MODIFIED: [2023-07-07 Fri 17:16]
+:LAST_MODIFIED: [2023-08-06 Sun 07:41]
 :END:
 #+title: Surjective function
 #+hugo_custom_front_matter: :slug "69b3ebf4-c54d-424b-9479-e06e7c905433"
@@ -71,7 +71,7 @@ In mathematics, a surjective function (also known as surjection, or onto functio
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   9 |    29.40 | 2023-08-06T09:52:43Z |
+| back     | 1.30 |  10 |    40.52 | 2023-09-16T03:13:48Z |
 | front    | 2.05 |   6 |    57.55 | 2023-08-26T10:00:39Z |
 :END:
 

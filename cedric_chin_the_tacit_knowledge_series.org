@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinTacitKnowledgeSeries2020]
 :ID:       96c1f65b-0c31-4478-8717-8c33743a9e94
-:LAST_MODIFIED: [2023-06-30 Fri 16:53]
+:LAST_MODIFIED: [2023-08-04 Fri 22:02]
 :END:
 #+title: Cedric Chin | The Tacit Knowledge Series
 #+hugo_custom_front_matter: :slug "96c1f65b-0c31-4478-8717-8c33743a9e94"
@@ -11,13 +11,14 @@
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinTacitKnowledgeSeries2020]
 
-1. [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
-2. [cite:@chinCopyingBetterHowAcquireTacitKnowledgeExperts2020]
-3. [cite:@chinThreeKindsTacitKnowledge2020]
-4. [cite:@chinHowUseYouTubeLearnTacitKnowledge2020]
-5. [cite:@chinEasierMethodExtractingTacitKnowledge2021]
-6. [cite:@chinTrickyThingCreatingTrainingPrograms2021]
-7. [cite:@chinTacitMentalModelBusinessExpertise2021]
+* INPROGRESS
+1. [[id:bcba3e46-9cde-4555-accb-ec73e4f0fc4c][Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]]
+2. [[id:5a1426bf-c14f-411b-af3e-e21ee56fa8e5][Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]]
+3. [[id:6e417a2d-0c14-4057-b022-c89d787e7fd3][Cedric Chin | The Three Kinds of Tacit Knowledge]]
+4. [[id:03073c64-f73f-41cf-a961-052d0648740e][Cedric Chin | How to Use YouTube to Learn Tacit Knowledge]]
+5. [[id:112cd568-012c-4eea-b902-53f44907b098][Cedric Chin | An Easier Method for Extracting Tacit Knowledge]]
+6. [[id:ae72b55b-09aa-4a94-b437-6a746845200d][Cedric Chin | The Tricky Thing About Creating Training Programs]]
+7. [[id:731b4023-79ea-4671-9de9-2079008f14df][Cedric Chin | An Extracted Tacit Mental Model of Business Expertise]]
 
 Related:
 
@@ -25,6 +26,7 @@ Related:
 - [cite:@chinBookSummaryPeakNewScienceExpertise2019]
 - [cite:@chinJohnCutlerProductOrgExpertise2021]
 - [cite:@chinProblemsDeliberatePractice2019]
+
 
 * Flashcards
 #+print_bibliography:

@@ -3,6 +3,7 @@
 :SERVINGS: 8
 :STARS:    5
 :COOK_MINUTES: 45
+:LAST_MODIFIED: [2023-08-03 Thu 08:35]
 :END:
 #+title: Creamy vegan mushroom lasagna
 #+hugo_custom_front_matter: :cook_time "45m" :total_time "45m" :servings "8" :slug "0905eaa4-16e9-4abb-b78c-0b00f855e60d" :stars "5"

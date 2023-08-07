@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       575409bd-1bb2-45c0-84a3-63abaa4b899b
-:LAST_MODIFIED: [2023-08-01 Tue 08:00]
+:LAST_MODIFIED: [2023-08-06 Sun 07:41]
 :END:
 #+title: Jarnik's algorithm implementation in Python
 #+hugo_custom_front_matter: :slug "575409bd-1bb2-45c0-84a3-63abaa4b899b"
@@ -112,7 +112,7 @@ print(sorted(jarniks_minimum_spanning_tree(edges)), 'should be [(a,b), (a,e), (a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   2 |     2.00 | 2023-08-03T15:00:10Z |
+| front    | 1.90 |   3 |     6.00 | 2023-08-12T14:41:44Z |
 :END:
 
 Implement [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]

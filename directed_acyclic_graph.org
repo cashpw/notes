@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ee7fcae8-6322-4b71-91b0-704b7c21ae3a
 :ROAM_ALIASES: DAG
-:LAST_MODIFIED: [2023-07-17 Mon 06:52]
+:LAST_MODIFIED: [2023-08-06 Sun 07:41]
 :ROAM_REFS: [cite:@DirectedAcyclicGraph2022]
 :END:
 #+title: Directed acyclic graph
@@ -57,7 +57,7 @@ A directed graph which can be topologically sorted.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   145.90 | 2023-08-06T12:06:42Z |
+|        0 | 2.95 |   7 |   400.24 | 2024-09-09T20:21:30Z |
 |        1 | 2.95 |   6 |   153.54 | 2023-08-21T05:26:23Z |
 :END:
 

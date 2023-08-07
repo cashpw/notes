@@ -1,11 +1,32 @@
 :PROPERTIES:
 :ID:       bd9daffc-f556-4bdc-975e-e35c3c98ebee
-:LAST_MODIFIED: [2023-06-30 Fri 16:41]
+:LAST_MODIFIED: [2023-08-04 Fri 22:14]
 :END:
 #+title: Cognitive task analysis
 #+hugo_custom_front_matter: :slug "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-30 Fri 16:40]
 #+filetags: :has_todo:concept:
+
 * INPROGRESS
+#+begin_quote
+Cognitive task analysis is [[[id:6f26873c-19de-47e1-a395-88f75438e202][Task analysis]]] applied to modern work environments such as supervisory control where little physical work occurs, but the tasks are more related to situation assessment, decision making, and response planning and execution.
+
+[cite:@TaskAnalysis2023]
+#+end_quote
+
+#+begin_quote
+Cognitive task analysis has been used to examine:
+
+- Performance differences between novices and experts
+- Mental workload associated with complex controls and displays
+- Decision-making of experts
+- The development and evolution of mental models.
+- Information requirements for command and control systems
+- Troubleshooting, fault isolation, and diagnostic procedures
+
+[cite:@CognitiveTaskAnalysisUsabilityBodyKnowledge]
+#+end_quote
+
 * TODO [#2] Flashcards
+#+print_bibliography:

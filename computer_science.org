@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
-:LAST_MODIFIED: [2023-07-15 Sat 07:15]
+:LAST_MODIFIED: [2023-08-04 Fri 08:14]
 :END:
 #+title: Computer science
 #+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
@@ -136,7 +136,7 @@ Floating and fixed point number representations
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
-| front    | 1.30 |  10 |    63.91 | 2023-08-03T13:24:21Z |
+| front    | 1.30 |  11 |    79.26 | 2023-10-22T21:29:16Z |
 :END:
 
 IMAP

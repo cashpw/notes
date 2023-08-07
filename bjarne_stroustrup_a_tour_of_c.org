@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-07-31 Mon 18:28]
+:LAST_MODIFIED: [2023-08-06 Sun 07:43]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -811,7 +811,7 @@ Roughly, "I promise not to change this value".
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    35.77 | 2023-08-03T11:34:44Z |
+| front    | 2.50 |   6 |    83.31 | 2023-10-26T22:40:53Z |
 | back     | 2.20 |   1 |     1.00 | 2023-08-02T01:28:02Z |
 :END:
 
@@ -871,7 +871,7 @@ Roughly, "To be evaluated at compile time"
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    13.89 | 2023-07-28T10:43:08Z |
+| front    | 2.35 |   5 |    33.61 | 2023-09-09T05:16:50Z |
 :END:
 
 #+begin_src C++
@@ -980,7 +980,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    31.97 | 2023-08-02T13:40:43Z |
+| front    | 2.35 |   6 |    78.70 | 2023-10-23T08:16:27Z |
 | back     | 2.05 |   4 |    13.31 | 2023-08-13T07:23:16Z |
 :END:
 

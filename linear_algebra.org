@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-08-01 Tue 08:05]
+:LAST_MODIFIED: [2023-08-06 Sun 07:44]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -656,7 +656,7 @@ A vector/matrix in which most of the values are non-zero.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.60 |   5 |    16.83 | 2023-07-20T21:38:07Z |
+| back     | 1.60 |   6 |    26.84 | 2023-08-31T11:13:38Z |
 | front    | 2.65 |   8 |   287.85 | 2023-12-27T11:30:22Z |
 :END:
 
@@ -987,7 +987,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   4 |    10.06 | 2023-08-02T05:11:26Z |
+|        0 | 1.60 |   5 |    15.03 | 2023-08-20T16:13:55Z |
 |        1 | 2.80 |  11 |   331.63 | 2023-12-10T06:06:10Z |
 :END:
 
@@ -1475,7 +1475,7 @@ $B_{n \times m}$ is a row-swapped $A_{n \times m}$ based on $P_{n \times n}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.90 |   3 |     6.00 | 2023-08-03T15:06:24Z |
+| back     | 1.75 |   4 |     9.61 | 2023-08-16T05:28:41Z |
 | front    | 2.65 |   8 |   386.50 | 2024-04-18T15:07:38Z |
 :END:
 

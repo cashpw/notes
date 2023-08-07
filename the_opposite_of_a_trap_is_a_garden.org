@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d263a9a2-ed45-438b-a390-7f205f383d54
-:LAST_MODIFIED: [2023-07-02 Sun 17:54]
+:LAST_MODIFIED: [2023-08-04 Fri 08:08]
 :END:
 #+title: The opposite of a trap is a garden
 #+hugo_custom_front_matter: :slug "d263a9a2-ed45-438b-a390-7f205f383d54"
@@ -27,7 +27,7 @@ The opposite of a trap is a garden. The only way to avoid having all human value
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.35 |   7 |   152.89 | 2023-08-03T11:14:34Z |
+|        1 | 2.35 |   8 |   376.47 | 2024-08-15T02:23:11Z |
 |        0 | 2.65 |   7 |   292.41 | 2024-03-02T00:38:51Z |
 :END:
 

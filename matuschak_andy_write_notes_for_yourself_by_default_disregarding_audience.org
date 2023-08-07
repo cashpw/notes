@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@matuschakWriteNotesYourselfDefaultDisregardingAudience]
+:ID:       2c8acd36-620a-47a7-8d3a-63594fd2065c
+:LAST_MODIFIED: [2023-08-04 Fri 18:01]
+:END:
+#+title: Andy Matuschak | Write Notes for Yourself by Default, Disregarding Audience
+#+hugo_custom_front_matter: :slug "2c8acd36-620a-47a7-8d3a-63594fd2065c"
+#+author: Cash Weaver
+#+date: [2023-08-03 Thu 08:07]
+#+filetags: :reference:
+
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakWriteNotesYourselfDefaultDisregardingAudience]
+
+* Notes
+#+begin_quote
+Because [[https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX][Evergreen notes]] [[[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]]] can be used as part of a strategy for writing public work ([[https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs][Executable strategy for writing]]), it's tempting to "save time" by writing notes in publishable form. That might mean providing all the necessary background to understand some (boring to you) idea, or self-censoring, or adding lots of qualifiers, or spending lots of effort on clarity. Many of these practices can be somewhat useful as part of your own thinking process---for instance, clearer writing usually involves clearer thinking. But I find it substantially increases the overhead and effort in writing, often to the point of producing blockage.
+
+More concretely, this manifests as a common failure mode for me when I'm writing notes as part of explicit preparation for some public writing. I'll often try to do both jobs at once. That is, I might be writing atomic-style notes ([[https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU][Evergreen notes should be atomic]]) but I try to write them /as if/ they're sections in a larger essay or work. Or even just: I try to write things with all the context and clear prose needed for an outsider to understand what I'm talking about. Then I often find that I can't write anything at all! Better to write at a level where I can produce something, then use that to lever myself upward. ([[https://notes.andymatuschak.org/zNqLdKMiTo9EHA9EWYGXs7b][Evergreen notes permit smooth incremental progress in writing ("incremental writing")]] [[[id:2186c8f0-1b18-484f-8e22-9e0cd328b498][Andy Matuschak | Evergreen Notes Permit Smooth Incremental Progress in Writing ("Incremental Writing")]]])
+
+When it's a topic I understand well, I can write notes for both myself and an audience simultaneously. But that sometimes produces the false impression that I can pull this off all the time! To avoid that false impression, I'll write notes for myself "by default," and only "opt into" writing notes for an audience explicitly.
+
+A. What bad habit do I often fall into when writing evergreen notes in preparation for public writing?\\
+B. I'll try to do my public writing as part of my first pass on the notes.
+
+C. Why do I often find myself stuck when I try to write evergreen notes as publishable prose for an audience?\\
+D. When a topic is hard enough to distill on its own, the extra cognitive load of considering a reader overwhelms me.
+#+end_quote
+* Flashcards
+#+print_bibliography:
