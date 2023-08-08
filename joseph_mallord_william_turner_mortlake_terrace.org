@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@turnerMortlakeTerrace1827]
+:ID:       32d70cac-3020-45a5-9ebf-53f9b2f7ebf4
+:LAST_MODIFIED: [2023-08-07 Mon 18:27]
+:END:
+#+title: Joseph Mallord William Turner | Mortlake Terrace
+#+hugo_custom_front_matter: :slug "32d70cac-3020-45a5-9ebf-53f9b2f7ebf4"
+#+author: Cash Weaver
+#+date: [2023-08-07 Mon 18:24]
+#+filetags: :reference:
+
+[[id:519d7c33-8c9a-4405-a15a-c2d19eb98659][Joseph Mallord William Turner]], [cite:@turnerMortlakeTerrace1827]
+
+* Summary
+* Thoughts
+* Notes
+[[file:mortlake_terrace_1937.1.109.jpg]]
+* Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-07 Mon 18:26]
+:FC_CREATED: 2023-08-08T01:27:41Z
+:FC_TYPE:  double
+:ID:       0e3b0c2b-b4c1-4bbf-9d97-bd58e6f04a78
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-08T01:27:41Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-15T01:27:41Z |
+:END:
+
+[[id:32d70cac-3020-45a5-9ebf-53f9b2f7ebf4][Joseph Mallord William Turner | Mortlake Terrace]]
+
+*** Back
+[[file:mortlake_terrace_1937.1.109.jpg]]
+*** Source
+[cite:@turnerMortlakeTerrace1827]
+#+print_bibliography:

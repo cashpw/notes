@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
 :DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
-:LAST_MODIFIED: [2023-07-12 Wed 20:45]
+:LAST_MODIFIED: [2023-08-07 Mon 12:50]
 :END:
 #+title: Todos
 #+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
@@ -1371,5 +1371,13 @@ Fahrenheit to Celsius and back
 * TODO [#2] [cite:@larsonIrrationalExuberance2023]
 :PROPERTIES:
 :CREATED: [2023-07-12 Wed 20:45]
+:END:
+* TODO [#2] [cite:@dassowStudioMathPotters]
+:PROPERTIES:
+:CREATED: [2023-08-07 Mon 12:48]
+:END:
+* TODO [#2] [cite:@dassowStudioMathPottersPartVolume]
+:PROPERTIES:
+:CREATED: [2023-08-07 Mon 12:49]
 :END:
 #+print_bibliography:

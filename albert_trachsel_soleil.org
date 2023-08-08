@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@trachselSoleil1909]
+:ID:       1232ac57-5cc7-4497-888a-303163de2420
+:LAST_MODIFIED: [2023-08-07 Mon 18:44]
+:END:
+#+title: Albert Trachsel | Soleil
+#+hugo_custom_front_matter: :slug "1232ac57-5cc7-4497-888a-303163de2420"
+#+author: Cash Weaver
+#+date: [2023-08-07 Mon 18:42]
+#+filetags: :reference:
+
+[[id:0f2a0128-2869-4206-a893-8e1a787f15e6][Albert Trachsel]], [cite:@trachselSoleil1909]
+
+* Summary
+* Thoughts
+* Notes
+
+#+DOWNLOADED: https://www.museum-barberini.de/images/122_trachsel.jpg?w=6709 @ 2023-08-07 18:43:26
+[[file:2023-08-07_18-43-26_122_trachsel.jpg.jpeg]]
+
+* Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-07 Mon 18:43]
+:FC_CREATED: 2023-08-08T01:44:04Z
+:FC_TYPE:  double
+:ID:       c7365573-c307-4f2e-b709-fd6dda81533a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-08T01:44:04Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-15T01:44:04Z |
+:END:
+
+[[id:1232ac57-5cc7-4497-888a-303163de2420][Albert Trachsel | Soleil]]
+
+*** Back
+#+DOWNLOADED: https://www.museum-barberini.de/images/122_trachsel.jpg?w=6709 @ 2023-08-07 18:43:26
+[[file:2023-08-07_18-43-26_122_trachsel.jpg.jpeg]]
+*** Source
+[cite:@trachselSoleil1909]
+#+print_bibliography:
