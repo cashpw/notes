@@ -1,0 +1,37 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/cashweaver/proj/roam/correlation_coefficient_of_vectors.org
+
+
+* Flashcards
+:PROPERTIES:
+:ANKI_DECK: Default
+:ARCHIVE_TIME: 2022-08-17 Wed 09:53
+:ARCHIVE_FILE: ~/proj/roam/correlation_coefficient_of_vectors.org
+:ARCHIVE_CATEGORY: correlation_coefficient_of_vectors
+:ARCHIVE_ITAGS: concept
+:END:
+
+** \(\rho_{\vec{a}, \vec{b}}\)
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Equivalence
+:ANKI_NOTE_ID: 1660755183023
+:END:
+*** Label1
+*** Expression2
+\(\frac{\tilde{a} \cdot \tilde{b}}{\|\tilde{a}\|\|\tilde{b}\|}\)
+*** Label2
+*** Expression3
+*** Label3
+*** Expression4
+*** Label4
+*** Expression5
+*** Label5
+*** Expression6
+*** Label6
+*** Context
+*** Source
+[cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018 page 60]
+#+print_bibliography:
