@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e3f73b89-f752-4c4a-aa8c-8931a5752406
-:LAST_MODIFIED: [2023-08-05 Sat 08:53]
+:LAST_MODIFIED: [2023-08-08 Tue 08:16]
 :END:
 #+title: Heuristics and biases
 #+hugo_custom_front_matter: :slug "e3f73b89-f752-4c4a-aa8c-8931a5752406"
@@ -25,7 +25,7 @@ In sharp contrast to NDM, the HB approach favors a skeptical attitude toward exp
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-08-06T15:53:20Z |
+| front    | 2.50 |   2 |     2.00 | 2023-08-10T15:16:03Z |
 :END:
 
 [[id:6eb374ad-69aa-476d-b1d8-02714ffc094f][Naturalistic decision making]] and [[id:e3f73b89-f752-4c4a-aa8c-8931a5752406][Heuristics and biases]]

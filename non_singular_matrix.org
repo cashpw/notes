@@ -2,7 +2,7 @@
 :ID:       d0894b60-0827-4644-9d21-f6ae9c9e5041
 :ROAM_ALIASES: "Invertible matrix" "Non-degenerate matrix"
 :ROAM_REFS: [cite:@InvertibleMatrix2022]
-:LAST_MODIFIED: [2023-04-29 Sat 07:27]
+:LAST_MODIFIED: [2023-08-08 Tue 08:18]
 :END:
 #+title: Non-singular matrix
 #+hugo_custom_front_matter: :slug "d0894b60-0827-4644-9d21-f6ae9c9e5041"
@@ -48,7 +48,7 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   154.06 | 2023-09-30T15:54:30Z |
-| back     | 2.20 |   7 |   123.21 | 2023-08-06T21:26:04Z |
+| back     | 2.05 |   8 |   248.78 | 2024-04-13T10:05:02Z |
 :END:
 
 [[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Non-singular matrix]]

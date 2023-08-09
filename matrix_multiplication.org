@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
-:LAST_MODIFIED: [2023-08-06 Sun 07:49]
+:LAST_MODIFIED: [2023-08-08 Tue 08:12]
 :ROAM_REFS: [cite:@MatrixMultiplication2023]
 :END:
 #+title: Matrix multiplication
@@ -249,7 +249,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   2 |     2.00 | 2023-08-07T15:48:38Z |
+| front    | 2.05 |   3 |     6.00 | 2023-08-14T15:12:06Z |
 | back     | 2.50 |   6 |    89.01 | 2023-08-07T16:23:31Z |
 :END:
 

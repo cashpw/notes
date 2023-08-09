@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b1a664cb-c661-4c44-bf55-fc407c528ad1
 :DIR:      /home/cashweaver/proj/roam/attachments/b1a664cb-c661-4c44-bf55-fc407c528ad1
-:LAST_MODIFIED: [2023-05-24 Wed 13:21]
+:LAST_MODIFIED: [2023-08-08 Tue 07:55]
 :END:
 #+title: Wizard's first rule
 #+hugo_custom_front_matter: :slug "b1a664cb-c661-4c44-bf55-fc407c528ad1"
@@ -52,7 +52,7 @@ Related:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   140.99 | 2023-08-07T17:37:43Z |
+|        0 | 2.20 |   8 |   286.23 | 2024-05-20T20:30:04Z |
 :END:
 
 *** Source

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-08-06 Sun 07:41]
+:LAST_MODIFIED: [2023-08-08 Tue 08:13]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -317,7 +317,7 @@ Partitions the graph into [[id:d3439626-492b-4165-836e-efd890096225][Connected c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   3 |     6.00 | 2023-08-07T14:58:30Z |
+| front    | 2.20 |   4 |    14.28 | 2023-08-22T21:41:11Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-26T14:33:08Z |
 :END:
 
@@ -338,7 +338,7 @@ Metric customization
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-08-07T01:19:46Z |
+| front    | 2.50 |   4 |    15.56 | 2023-08-24T04:41:27Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-27T22:05:00Z |
 :END:
 
@@ -443,7 +443,7 @@ A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][D
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-08-08T14:41:55Z |
+| front    | 2.50 |   3 |     6.00 | 2023-08-14T15:06:50Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T15:27:34Z |
 :END:
 

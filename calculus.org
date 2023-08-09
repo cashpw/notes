@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7
 :ROAM_REFS: [cite:@Calculus2023]
-:LAST_MODIFIED: [2023-07-17 Mon 06:54]
+:LAST_MODIFIED: [2023-08-08 Tue 08:16]
 :END:
 #+title: Calculus
 #+hugo_custom_front_matter: :slug "9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7"
@@ -50,7 +50,7 @@ Two major branches of [[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   6 |   125.38 | 2023-11-19T22:57:56Z |
-| back     | 2.95 |   6 |   120.62 | 2023-08-07T05:58:00Z |
+| back     | 3.10 |   7 |   383.05 | 2024-08-25T16:24:48Z |
 :END:
 
 [[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]

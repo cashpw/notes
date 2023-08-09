@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-08-06 Sun 07:44]
+:LAST_MODIFIED: [2023-08-08 Tue 08:13]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -694,7 +694,7 @@ Parametric model
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   187.77 | 2023-08-07T08:54:20Z |
+|        0 | 2.20 |   8 |   417.24 | 2024-09-28T20:58:26Z |
 |        1 | 2.35 |   7 |   239.25 | 2023-11-04T09:19:33Z |
 :END:
 ** {{$\operatorname{rms}(\vec{x})$}{function}@0} $=$ {{$\operatorname{avg}(\vec{x})$ $+$ $\operatorname{stddev}(\vec{x})$}{functions}@1} :fc:
@@ -710,7 +710,7 @@ Parametric model
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   8 |   168.20 | 2023-11-05T17:45:08Z |
-|        1 | 1.90 |   1 |     1.00 | 2023-07-30T15:02:05Z |
+|        1 | 1.90 |   2 |     2.00 | 2023-08-10T14:58:44Z |
 :END:
 
 *** Source
@@ -860,7 +860,7 @@ $\hat{Y} = \hat{f}(x) = \hat{\beta_0} + \hat{\beta_1}x$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  16 |   247.18 | 2023-10-05T18:55:53Z |
-| front    | 1.90 |   1 |     1.00 | 2023-07-17T13:58:06Z |
+| front    | 1.90 |   2 |     2.00 | 2023-08-10T15:06:23Z |
 :END:
 
 Standard error

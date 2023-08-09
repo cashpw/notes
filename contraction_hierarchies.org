@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-08-06 Sun 07:40]
+:LAST_MODIFIED: [2023-08-08 Tue 08:05]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -364,7 +364,7 @@ So an additional term to consider is the number of contracted neighbors each nod
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    41.24 | 2023-07-29T09:53:25Z |
+|        0 | 2.50 |   6 |   100.09 | 2023-11-16T17:18:03Z |
 :END:
 
 [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]] speed up {{finding the shortest-path in a graph}@0}.

@@ -4,8 +4,9 @@
 *.log
 tmp/
 
-// Org roam
+// org-mode
 org-roam.db
+*.org_archive
 
 // Syncthing
 .trashed-*

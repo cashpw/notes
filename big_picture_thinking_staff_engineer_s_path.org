@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e
-:LAST_MODIFIED: [2023-07-18 Tue 06:49]
+:LAST_MODIFIED: [2023-08-08 Tue 08:04]
 :END:
 #+title: Big-picture thinking (Staff Engineer's Path)
 #+hugo_custom_front_matter: :slug "69721a7b-23c8-4d00-8a1c-0e2dba6a1c4e"
@@ -28,7 +28,7 @@ Big-picture thinking means being able to step back and take a broader view. It m
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    32.67 | 2023-08-07T20:19:42Z |
+| front    | 2.35 |   6 |    83.72 | 2023-10-31T08:25:32Z |
 | back     | 2.65 |   5 |    45.23 | 2023-09-01T19:17:30Z |
 :END:
 

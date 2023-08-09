@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@turnerMortlakeTerrace1827]
 :ID:       32d70cac-3020-45a5-9ebf-53f9b2f7ebf4
-:LAST_MODIFIED: [2023-08-07 Mon 18:27]
+:LAST_MODIFIED: [2023-08-08 Tue 08:21]
 :END:
 #+title: Joseph Mallord William Turner | Mortlake Terrace
 #+hugo_custom_front_matter: :slug "32d70cac-3020-45a5-9ebf-53f9b2f7ebf4"
@@ -26,7 +26,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-08T01:27:41Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-09T15:21:30Z |
 | back     |  2.5 |  -1 |        0 | 2023-08-15T01:27:41Z |
 :END:
 

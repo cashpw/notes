@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9d646383-d4a9-4f9d-ab12-74d45b82d58a
 :ROAM_REFS: [cite:@QuadraticFormula2023]
-:LAST_MODIFIED: [2023-07-10 Mon 08:35]
+:LAST_MODIFIED: [2023-08-08 Tue 08:14]
 :END:
 #+title: Quadratic formula
 #+hugo_custom_front_matter: :slug "9d646383-d4a9-4f9d-ab12-74d45b82d58a"
@@ -58,7 +58,7 @@ $x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   117.60 | 2023-08-07T06:40:57Z |
+| front    | 2.80 |   7 |   301.37 | 2024-06-05T00:05:35Z |
 :END:
 
 How to solve $3x^2 + 6x + 4$ for $x$

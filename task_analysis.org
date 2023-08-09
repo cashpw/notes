@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6f26873c-19de-47e1-a395-88f75438e202
-:LAST_MODIFIED: [2023-08-05 Sat 08:46]
+:LAST_MODIFIED: [2023-08-08 Tue 08:03]
 :END:
 #+title: Task analysis
 #+hugo_custom_front_matter: :slug "6f26873c-19de-47e1-a395-88f75438e202"
@@ -25,7 +25,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-08-06T15:46:52Z |
+| front    | 2.50 |   2 |     2.00 | 2023-08-10T15:03:55Z |
 | back     |  2.5 |  -1 |        0 | 2023-08-12T04:55:13Z |
 :END:
 

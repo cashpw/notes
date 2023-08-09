@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-08-06 Sun 07:44]
+:LAST_MODIFIED: [2023-08-08 Tue 08:21]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -21,7 +21,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |  13 |   326.88 | 2024-02-27T17:43:07Z |
-|        1 | 1.60 |   5 |    13.91 | 2023-04-09T11:15:51Z |
+|        1 | 1.30 |   1 |     1.00 | 2023-08-09T15:21:21Z |
 :END:
 
 - {{Expansion of $\vec{v}$ in the basis $\beta$}@0}
@@ -1496,7 +1496,7 @@ A morphism from a mathematical object to itself.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.35 |   7 |    18.99 | 2023-08-06T13:16:39Z |
+| front    | 1.30 |   8 |    26.12 | 2023-09-03T17:59:42Z |
 | back     | 2.35 |   4 |    14.75 | 2023-07-06T09:41:57Z |
 :END:
 

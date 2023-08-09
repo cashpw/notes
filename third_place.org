@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       34fb63b5-5a47-436f-b123-a1d6ffbf4fab
 :ROAM_REFS: [cite:@ThirdPlace2022]
-:LAST_MODIFIED: [2023-07-29 Sat 07:59]
+:LAST_MODIFIED: [2023-08-08 Tue 08:15]
 :END:
 #+title: Third place
 #+hugo_custom_front_matter: :slug "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
@@ -80,7 +80,7 @@ A place for people to gather which is distinct from home and the workplace.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   319.93 | 2024-05-10T15:43:21Z |
-| back     | 2.95 |   6 |   151.48 | 2023-08-07T06:08:26Z |
+| back     | 2.80 |   7 |   400.85 | 2024-09-12T11:46:21Z |
 :END:
 
 [[id:34fb63b5-5a47-436f-b123-a1d6ffbf4fab][Third place]]

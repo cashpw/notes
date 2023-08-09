@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9d43bd11-f7b0-42b3-8621-3f47ce7e08cd
-:LAST_MODIFIED: [2023-07-10 Mon 08:32]
+:LAST_MODIFIED: [2023-08-08 Tue 08:06]
 :END:
 #+title: Central route processing
 #+hugo_custom_front_matter: :slug "9d43bd11-f7b0-42b3-8621-3f47ce7e08cd"
@@ -29,7 +29,7 @@ A way of processing an argument that involves weighing the facts. Requires that 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   5 |    28.69 | 2023-08-08T08:05:46Z |
+| back     | 2.20 |   6 |    68.71 | 2023-10-16T08:01:53Z |
 | front    | 2.80 |   7 |   332.85 | 2024-01-17T13:46:17Z |
 :END:
 [[id:9d43bd11-f7b0-42b3-8621-3f47ce7e08cd][Central route processing]]

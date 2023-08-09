@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-07-29 Sat 07:56]
+:LAST_MODIFIED: [2023-08-08 Tue 08:17]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -181,7 +181,7 @@ A collision resolution algorithm in which each bucket in the [[id:b8f1337e-8231-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   425.15 | 2024-08-16T07:41:38Z |
-| back     | 2.35 |   6 |    88.81 | 2023-08-08T10:40:27Z |
+| back     | 2.20 |   7 |   181.05 | 2024-02-05T16:27:08Z |
 :END:
 
 [[id:a167cfc8-7b7c-4155-b093-6e4d3b83bb83][Open addressing]]

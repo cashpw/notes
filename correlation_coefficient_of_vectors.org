@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d9f04c73-1238-4e6b-a370-8a23ac755610
-:LAST_MODIFIED: [2023-07-27 Thu 07:14]
+:LAST_MODIFIED: [2023-08-08 Tue 08:04]
 :END:
 #+title: Correlation coefficient of vectors
 #+hugo_custom_front_matter: :slug "d9f04c73-1238-4e6b-a370-8a23ac755610"
@@ -48,7 +48,7 @@ See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   8 |   321.64 | 2024-06-13T05:36:25Z |
-|        1 | 1.45 |   7 |    21.03 | 2023-08-08T14:33:23Z |
+|        1 | 1.45 |   8 |    32.43 | 2023-09-10T01:23:12Z |
 :END:
 - {{$\rho_{\vec{a}, \vec{b}}$}@0}
 

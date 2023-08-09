@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-08-06 Sun 07:43]
+:LAST_MODIFIED: [2023-08-08 Tue 08:13]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -605,7 +605,7 @@ Informally: A transformation between two vector spaces consisting of a linear tr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.15 |  14 |   191.08 | 2023-09-03T05:39:17Z |
-|        1 | 2.20 |   7 |   149.87 | 2023-08-02T14:23:57Z |
+|        1 | 2.05 |   8 |   306.44 | 2024-06-10T01:44:48Z |
 |        2 | 2.80 |   7 |   388.46 | 2024-08-17T14:00:37Z |
 :END:
 
@@ -3013,7 +3013,7 @@ $n \geq 0$, $\alpha_i \in \mathbb{R} \; \forall \; i$, $A_i$ are intervals, and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   2 |     2.00 | 2023-08-03T01:20:39Z |
+| back     | 2.20 |   3 |     6.00 | 2023-08-14T15:06:59Z |
 | front    | 2.20 |   6 |    75.15 | 2023-04-04T19:58:25Z |
 :END:
 
@@ -3104,7 +3104,7 @@ The set of all possible outputs of a function.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   315.35 | 2024-01-08T00:31:15Z |
-| front    | 2.65 |   8 |   202.53 | 2023-06-06T03:43:17Z |
+| front    | 2.65 |   9 |   547.53 | 2025-02-06T03:43:20Z |
 :END:
 
 Unary function

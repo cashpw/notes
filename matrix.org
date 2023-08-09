@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7a43b0c7-b933-4e37-81b8-e5ecf9a83956
 :ROAM_REFS: [cite:@MatrixMathematics2022]
-:LAST_MODIFIED: [2023-07-10 Mon 08:37]
+:LAST_MODIFIED: [2023-08-08 Tue 08:20]
 :END:
 #+title: Matrix
 #+hugo_custom_front_matter: :slug "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
@@ -102,7 +102,7 @@ Two matrices which are matrix equivalent {{have the same rank}{rank}@0}.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   6 |    43.50 | 2023-08-07T01:20:12Z |
+|        0 | 1.90 |   7 |    83.63 | 2023-10-31T06:21:02Z |
 :END:
 
 Two matrices which are matrix equivalent {{$A_{n \times n} = P_{n \times n}B_{n \times n}Q_{n \times n}$ $|$ $P_{n \times n}$ and $Q_{n \times n}$ are nonsingular}{operations}@0}.

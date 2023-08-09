@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       fccbc741-2373-47c3-9d41-a04fb0ce9b66
 :ROAM_REFS: [cite:@NotaBene2022]
-:LAST_MODIFIED: [2023-04-11 Tue 09:14]
+:LAST_MODIFIED: [2023-08-08 Tue 08:21]
 :END:
 #+title: Nota bene
 #+hugo_custom_front_matter: :slug "fccbc741-2373-47c3-9d41-a04fb0ce9b66"
@@ -49,7 +49,7 @@ n.b.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   6 |   153.21 | 2023-09-11T21:24:07Z |
-|        1 | 2.80 |   6 |   120.90 | 2023-08-08T13:12:09Z |
+|        1 | 2.95 |   7 |   327.34 | 2024-06-30T23:33:14Z |
 :END:
 
 {{[[id:fccbc741-2373-47c3-9d41-a04fb0ce9b66][Nota bene]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{Note well}{English}@1}

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       20ff7657-2f1f-459e-be7e-c59be0b042f0
 :ROAM_ALIASES: Legibility
-:LAST_MODIFIED: [2023-07-13 Thu 17:52]
+:LAST_MODIFIED: [2023-08-08 Tue 08:17]
 :END:
 #+title: Legible
 #+hugo_custom_front_matter: :slug "20ff7657-2f1f-459e-be7e-c59be0b042f0"
@@ -68,7 +68,7 @@ A coercive abstraction imposed on people and resources; treating different peopl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   134.04 | 2023-08-06T20:16:17Z |
+| front    | 2.65 |   7 |   367.56 | 2024-08-10T04:35:22Z |
 | back     | 2.50 |   7 |   253.38 | 2024-03-12T10:18:51Z |
 :END:
 
@@ -113,7 +113,7 @@ A way of seeing, offered by or within a complex environment, to its inhabitants 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   235.93 | 2024-03-05T23:15:43Z |
-| back     | 2.50 |   6 |    88.39 | 2023-08-08T00:36:06Z |
+| back     | 2.50 |   7 |   200.63 | 2024-02-25T06:27:45Z |
 :END:
 
 [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (from the inside)
