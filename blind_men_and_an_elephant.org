@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9948ab6c-23b4-4950-ba95-ee4a27fa2992
-:LAST_MODIFIED: [2023-06-26 Mon 09:21]
+:LAST_MODIFIED: [2023-08-09 Wed 17:41]
 :END:
 #+title: Blind men and an elephant
 #+hugo_custom_front_matter: :slug "9948ab6c-23b4-4950-ba95-ee4a27fa2992"
@@ -25,6 +25,8 @@ The parable has been used to illustrate a range of truths and fallacies; broadly
 
 [cite:@BlindMenElephant2022]
 #+end_quote
+
+Related: [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]
 
 * Flashcards
 ** Describe :fc:
@@ -60,7 +62,7 @@ Humans tend to:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   144.24 | 2023-08-09T19:19:15Z |
+| front    | 2.65 |   7 |   379.02 | 2024-08-23T01:14:21Z |
 :END:
 
 Tell the parable of the [[id:9948ab6c-23b4-4950-ba95-ee4a27fa2992][Blind men and an elephant]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-08-08 Tue 08:13]
+:LAST_MODIFIED: [2023-08-09 Wed 17:43]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -150,7 +150,7 @@ The mean of a large number of independent realizations of a random variable.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   8 |   233.32 | 2023-08-07T01:23:06Z |
+| front    | 2.20 |   9 |   506.04 | 2024-12-28T01:40:28Z |
 | back     | 2.50 |   8 |   250.69 | 2023-10-09T07:11:20Z |
 :END:
 
@@ -1400,7 +1400,7 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |  10 |    36.70 | 2023-08-08T18:02:41Z |
+| back     | 1.30 |  11 |    45.82 | 2023-09-24T20:14:31Z |
 | front    | 2.65 |   7 |   360.53 | 2024-08-01T03:29:13Z |
 :END:
 

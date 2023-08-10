@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       03fd05a7-149e-49a8-be25-ca715b695add
-:LAST_MODIFIED: [2023-06-26 Mon 09:17]
+:LAST_MODIFIED: [2023-08-09 Wed 17:42]
 :END:
 #+title: Undirected graph
 #+hugo_custom_front_matter: :slug "03fd05a7-149e-49a8-be25-ca715b695add"
@@ -54,7 +54,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a [[id:30dd1299-0411-4
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   384.72 | 2024-06-20T18:30:29Z |
-| back     | 2.80 |   7 |   204.71 | 2023-08-09T19:13:40Z |
+| back     | 2.95 |   8 |   588.52 | 2025-03-20T13:05:57Z |
 :END:
 
 [[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]

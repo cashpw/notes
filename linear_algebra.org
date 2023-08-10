@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-08-08 Tue 08:21]
+:LAST_MODIFIED: [2023-08-09 Wed 17:49]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -895,7 +895,7 @@ $\vec{a} \otimes \vec{b}$ $=$ $\begin{bmatrix} \vec{a}_1 \vec{b}_1 & \vec{a}_1 \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   4 |    16.25 | 2023-08-04T19:39:36Z |
+| back     | 2.20 |   1 |     1.00 | 2023-08-11T00:49:15Z |
 | front    | 2.65 |   8 |   376.45 | 2024-03-20T13:47:30Z |
 :END:
 
@@ -1497,7 +1497,7 @@ A morphism from a mathematical object to itself.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.30 |   8 |    26.12 | 2023-09-03T17:59:42Z |
-| back     | 2.35 |   4 |    14.75 | 2023-07-06T09:41:57Z |
+| back     | 2.35 |   4 |    14.75 | 2023-11-06T09:41:57Z |
 :END:
 
 Axioms of a vector space, $V$, over a field, $F$
