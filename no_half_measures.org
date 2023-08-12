@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d
-:LAST_MODIFIED: [2023-08-05 Sat 08:51]
+:LAST_MODIFIED: [2023-08-11 Fri 16:10]
 :END:
 #+title: No half measures
 #+hugo_custom_front_matter: :slug "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
@@ -40,7 +40,7 @@ Her portfolio was chock full of neon colors and glitter and rhinestones and spla
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   4 |    13.91 | 2023-08-18T12:57:15Z |
-| back     | 2.35 |   3 |     6.00 | 2023-08-11T15:51:03Z |
+| back     | 2.50 |   4 |    15.76 | 2023-08-27T17:22:31Z |
 :END:
 
 [[id:b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d][No half measures]]

@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@gellerStaringSun2023]
 :ID:       a95e0ad1-0b53-4a6e-8502-b54519849fa6
-:LAST_MODIFIED: [2023-08-07 Mon 18:23]
+:LAST_MODIFIED: [2023-08-10 Thu 09:11]
 :END:
 #+title: Jacob Geller | Staring into the Sun
 #+hugo_custom_front_matter: :slug "a95e0ad1-0b53-4a6e-8502-b54519849fa6"
 #+author: Cash Weaver
 #+date: [2023-08-07 Mon 17:25]
-#+filetags: :has_todo:reference:
+#+filetags: :reference:
 
 [[id:12539a56-a816-4406-950b-9e6d594d7303][Jacob Geller]], [cite:@gellerStaringSun2023]
 
@@ -16,9 +16,9 @@
 I think [[id:dba35e67-34a9-48df-991a-7cd98deafbc2][Museum Barberini | The Sun]] was an inspiration for this video essay. Geller's essay has considerable overlaps with regard to structure, concepts, references, and artists. Discovering the museum's piece feels like a peak behind the curtain; a fourth-wall break. The image of the creative, Geller in this case, as the sole progenitor of an idea or presentation of some idea is [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]. They do create something unique but, not to their detriment, their ideas are not wholly new (related: [[id:57c20449-b327-4e27-879b-14575e6056fd][Dune and The Sabres of Paradise]]). They stand on shoulders, as do we all.
 
 I'm grateful for Geller for writing his essay and putting it out into the world as it led me to [[id:dba35e67-34a9-48df-991a-7cd98deafbc2][Museum Barberini | The Sun]] and further toward thoughtful art appreciation.
-* INPROGRESS Notes
+* Notes
 #+begin_quote
-[[[id:519d7c33-8c9a-4405-a15a-c2d19eb98659][Joseph Mallord William Turner]]] piece "Regulus" references the story of a Roman general captured by Carthaginians and tortured by having his eyelids sewn open and forced to stare into the sun. Turner's painting doesn't depict this series of events, however; instead we, the viewer, are put in the position of Regulus himself, the light at the center of the frame pouring out in a deluge that saturates every other aspect of the piece.
+[[[id:519d7c33-8c9a-4405-a15a-c2d19eb98659][Joseph Mallord William Turner]]] piece "Regulus" [[[id:157d2935-27bd-473c-9669-554a4644a199][Joseph Mallord William Turner | Regulus]]] references the story of a Roman general captured by Carthaginians and tortured by having his eyelids sewn open and forced to stare into the sun. Turner's painting doesn't depict this series of events, however; instead we, the viewer, are put in the position of Regulus himself, the light at the center of the frame pouring out in a deluge that saturates every other aspect of the piece.
 
 And by all accounts, Regulus was barely the same painting before varnishing day.
 
@@ -27,10 +27,6 @@ The artist John Gilbert watched Turner work, and wrote breathlessly that he "did
 Even more entertaining, a closer inspection of Regulus shows that the canvas is significantly torn right at the point of sun's greatest impact and stitched back together by Turner himself, as if the intensity of the light couldn't be contained on such a fragile material.
 
 Turner's suns were met with a mix of praise, scorn, and general bemusement from critics; my favorite writing about him sounds like warnings to the public; a newspaper in 1837 recommended the paintings be viewed from a safe distance. They said, with an unclear level of humor, that his paintings couldn't be looked at directly without risking eye injury.
-
-[...]
-
-Straying from scientific observation into subjectivity can instead produce marvels like Trachsel's "Sun," a piece so explosive it makes Turner look like a minimalist.
 #+end_quote
 * Flashcards
 #+print_bibliography:

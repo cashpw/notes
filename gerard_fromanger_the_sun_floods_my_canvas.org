@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@fromangerSunFloodsMyCanvas1966]
 :ID:       9c9d6fc6-3e75-416e-b5aa-ae6362c0ba9b
-:LAST_MODIFIED: [2023-08-07 Mon 19:26]
+:LAST_MODIFIED: [2023-08-11 Fri 15:38]
 :END:
 #+title: Gérard Fromanger | The Sun Floods My Canvas
 #+hugo_custom_front_matter: :slug "9c9d6fc6-3e75-416e-b5aa-ae6362c0ba9b"
@@ -15,4 +15,24 @@
 [[file:2023-08-07_19-25-52_052_paris_deleuze.jpg.jpeg]]
 
 * Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-10 Thu 09:11]
+:FC_CREATED: 2023-08-10T16:12:06Z
+:FC_TYPE:  double
+:ID:       ddd8026a-e17d-4852-bf8d-4c30a8814818
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-08-12T22:38:04Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-17T16:12:06Z |
+:END:
+
+[[id:9c9d6fc6-3e75-416e-b5aa-ae6362c0ba9b][Gérard Fromanger | The Sun Floods My Canvas]]
+
+*** Back
+[[file:2023-08-07_19-25-52_052_paris_deleuze.jpg.jpeg]]
+*** Source
+[cite:@fromangerSunFloodsMyCanvas1966]
 #+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SerenityPrayer2021]
 :ID:       749f3b30-7a42-4262-9175-f9b2046557ec
-:LAST_MODIFIED: [2023-07-22 Sat 20:38]
+:LAST_MODIFIED: [2023-08-11 Fri 16:12]
 :END:
 #+title: Serenity prayer
 #+hugo_custom_front_matter: :slug "749f3b30-7a42-4262-9175-f9b2046557ec"
@@ -67,7 +67,7 @@ and wisdom to know the difference.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   5 |    31.01 | 2023-08-10T15:55:49Z |
+|        0 | 1.90 |   1 |     1.00 | 2023-08-12T23:12:55Z |
 :END:
 *** Source
 [cite:@SerenityPrayer2021]

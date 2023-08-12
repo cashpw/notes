@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@mollerSunset2019]
 :ID:       fd549df3-8f9c-4906-a50c-e85c596c5c47
-:LAST_MODIFIED: [2023-08-07 Mon 18:50]
+:LAST_MODIFIED: [2023-08-10 Thu 09:14]
 :END:
 #+title: Valdemar Schønheyder Møller | Sunset
 #+hugo_custom_front_matter: :slug "fd549df3-8f9c-4906-a50c-e85c596c5c47"
@@ -19,4 +19,24 @@
 [[file:2023-08-07_18-47-47_KMSKMS8079.tif.reconstructed.jpg]]
 
 * Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-10 Thu 09:13]
+:FC_CREATED: 2023-08-10T16:14:06Z
+:FC_TYPE:  double
+:ID:       f9f09e85-2a36-432c-9d9c-b87f37e84ec2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-10T16:14:06Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-17T16:14:06Z |
+:END:
+
+[[id:fd549df3-8f9c-4906-a50c-e85c596c5c47][Valdemar Schønheyder Møller | Sunset]]
+
+*** Back
+[[file:2023-08-07_18-47-47_KMSKMS8079.tif.reconstructed.jpg]]
+*** Source
+[cite:@mollerSunset2019]
 #+print_bibliography:

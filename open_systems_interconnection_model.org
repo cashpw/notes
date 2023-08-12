@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-08-09 Wed 17:46]
+:LAST_MODIFIED: [2023-08-11 Fri 15:40]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -150,7 +150,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    70.06 | 2023-08-11T15:38:34Z |
+|        0 | 2.20 |   7 |   142.95 | 2024-01-01T21:20:43Z |
 |        1 | 2.20 |   6 |    64.76 | 2023-09-11T09:13:37Z |
 |        2 | 2.50 |   5 |    36.46 | 2023-09-07T02:05:40Z |
 |        3 | 2.50 |   0 |     0.00 | 2023-07-19T13:40:56Z |
@@ -203,7 +203,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |   100.64 | 2023-11-17T06:21:18Z |
-| back     | 2.50 |   3 |     6.00 | 2023-07-24T13:40:58Z |
+| back     | 2.20 |   1 |     1.00 | 2023-08-11T14:37:59Z |
 :END:
 
 [[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]
@@ -263,7 +263,7 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   1 |     1.00 | 2023-08-01T00:01:40Z |
+| front    | 2.20 |   2 |     2.00 | 2023-08-13T22:40:22Z |
 :END:
 
 [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]

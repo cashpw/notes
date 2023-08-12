@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d03ccb7a-a338-4fc4-9669-f4ffc1572132
-:LAST_MODIFIED: [2023-07-28 Fri 08:10]
+:LAST_MODIFIED: [2023-08-11 Fri 16:08]
 :ROAM_REFS: [cite:@PlanarGraph2023]
 :END:
 #+title: Planar graph
@@ -26,7 +26,7 @@ In graph theory, a planar graph is a graph that can be embedded in the plane, i.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    90.67 | 2023-08-11T08:15:01Z |
+| front    | 2.35 |   7 |   199.33 | 2024-02-27T07:05:59Z |
 | back     | 2.20 |   7 |   170.33 | 2024-01-14T23:01:08Z |
 :END:
 

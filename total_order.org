@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       131299ef-557c-4421-b021-eebba79aaa59
-:LAST_MODIFIED: [2023-07-23 Sun 21:05]
+:LAST_MODIFIED: [2023-08-11 Fri 15:40]
 :END:
 #+title: Total order
 #+hugo_custom_front_matter: :slug "131299ef-557c-4421-b021-eebba79aaa59"
@@ -27,7 +27,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   7 |    18.85 | 2023-08-10T23:57:16Z |
+| front    | 1.30 |   8 |    22.73 | 2023-09-03T16:06:10Z |
 | back     | 2.65 |   7 |   326.10 | 2024-06-14T06:23:36Z |
 :END:
 

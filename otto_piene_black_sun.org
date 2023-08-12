@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@pieneBlackSun1969]
 :ID:       c9f6c9b1-2e47-44e4-96f9-22e1f5643299
-:LAST_MODIFIED: [2023-08-07 Mon 18:58]
+:LAST_MODIFIED: [2023-08-10 Thu 09:13]
 :END:
 #+title: Otto Piene | Black Sun
 #+hugo_custom_front_matter: :slug "c9f6c9b1-2e47-44e4-96f9-22e1f5643299"
@@ -18,6 +18,25 @@
 #+DOWNLOADED: https://www.museum-barberini.de/images/095_Ulm_Piene.jpg?w=1600 @ 2023-08-07 18:58:01
 [[file:2023-08-07_18-58-01_095_Ulm_Piene.jpg.jpeg]]
 
-#+print_bibliography:
 * Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-10 Thu 09:13]
+:FC_CREATED: 2023-08-10T16:13:42Z
+:FC_TYPE:  double
+:ID:       becbc624-e477-4721-b0e3-baa83654c945
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-10T16:13:42Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-17T16:13:42Z |
+:END:
+
+[[id:c9f6c9b1-2e47-44e4-96f9-22e1f5643299][Otto Piene | Black Sun]]
+
+*** Back
+[[file:2023-08-07_18-58-01_095_Ulm_Piene.jpg.jpeg]]
+*** Source
+[cite:@pieneBlackSun1969]
 #+print_bibliography:

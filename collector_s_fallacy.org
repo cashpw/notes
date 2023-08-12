@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb
-:LAST_MODIFIED: [2023-08-08 Tue 08:06]
+:LAST_MODIFIED: [2023-08-11 Fri 16:07]
 :ROAM_REFS: [cite:@tiezeCollectorFallacy0100]
 :END:
 #+title: Collector's fallacy
@@ -29,7 +29,7 @@ Related: [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-08-10T15:06:00Z |
+| front    | 2.50 |   3 |     6.00 | 2023-08-17T23:07:27Z |
 | back     |  2.5 |  -1 |        0 | 2023-08-12T00:31:27Z |
 :END:
 

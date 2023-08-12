@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
 :ROAM_REFS: [cite:@LogisticFunction2022]
-:LAST_MODIFIED: [2023-07-30 Sun 16:55]
+:LAST_MODIFIED: [2023-08-11 Fri 16:09]
 :END:
 #+title: Logistic function
 #+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
@@ -41,7 +41,7 @@ $\operatorname{logistic}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\disp
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  11 |   359.88 | 2024-03-12T10:51:51Z |
-| front    | 1.90 |   6 |    44.88 | 2023-08-10T13:28:16Z |
+| front    | 1.90 |   7 |    86.35 | 2023-11-04T23:04:04Z |
 :END:
 
 [[id:671b7c10-9757-4b62-9d05-069dca439f92][Standard logistic function]]
@@ -130,7 +130,7 @@ $\operatorname{logistic}(x)$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   445.19 | 2024-08-02T21:56:40Z |
-|        1 | 1.75 |   4 |    11.27 | 2023-08-11T06:27:44Z |
+|        1 | 1.60 |   5 |    16.68 | 2023-08-28T15:30:06Z |
 :END:
 {{$\operatorname{logistic}(x)$}{function}@0} $=$ {{$\displaystyle \frac{e^x}{e^x + 1}$}{fraction}@1}
 

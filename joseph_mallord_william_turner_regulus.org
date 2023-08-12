@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       157d2935-27bd-473c-9669-554a4644a199
+:LAST_MODIFIED: [2023-08-11 Fri 15:35]
+:ROAM_REFS: [cite:@turnerRegulus1828]
+:END:
+#+title: Joseph Mallord William Turner | Regulus
+#+hugo_custom_front_matter: :slug "157d2935-27bd-473c-9669-554a4644a199"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-10 Thu 09:08]
+#+filetags: :reference:
+
+[[id:519d7c33-8c9a-4405-a15a-c2d19eb98659][Joseph Mallord William Turner]], [cite:@turnerRegulus1828]
+
+#+DOWNLOADED: https://media.tate.org.uk/art/images/work/N/N00/N00519_10.jpg @ 2023-08-10 09:08:57
+[[file:2023-08-10_09-08-57_N00519_10.jpg]]
+
+* Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-10 Thu 09:10]
+:FC_CREATED: 2023-08-10T16:10:31Z
+:FC_TYPE:  double
+:ID:       a9bf4340-a0f1-4ae6-9347-80704c494b44
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-08-12T22:35:08Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-17T16:10:32Z |
+:END:
+
+[[id:157d2935-27bd-473c-9669-554a4644a199][Joseph Mallord William Turner | Regulus]]
+
+*** Back
+[[file:2023-08-10_09-08-57_N00519_10.jpg]]
+*** Source
+[cite:@turnerRegulus1828]
+#+print_bibliography:

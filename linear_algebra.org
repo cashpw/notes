@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-08-09 Wed 17:49]
+:LAST_MODIFIED: [2023-08-11 Fri 16:12]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -403,7 +403,7 @@ Using elementary row operations to convert a matrix into reduced row echelon for
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |  10 |   578.53 | 2025-03-02T03:42:13Z |
-| front    | 2.35 |   8 |   220.24 | 2023-07-27T00:36:44Z |
+| front    | 2.35 |   9 |   520.29 | 2025-01-11T21:32:41Z |
 :END:
 
 Interreducible Matrices
@@ -424,7 +424,7 @@ Matrices which are equal given appropriate elementary row and column operations.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  13 |   459.23 | 2024-09-21T01:51:19Z |
-| front    | 1.75 |   5 |    20.64 | 2023-08-01T04:29:52Z |
+| front    | 1.75 |   6 |    37.78 | 2023-09-18T17:15:12Z |
 :END:
 
 Linear combination
@@ -515,7 +515,7 @@ Space conversions underlying $A_{3 \times 4} B_{4 \times 2} \vec{x}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   5 |    21.06 | 2023-08-10T16:45:27Z |
+| front    | 1.60 |   1 |     1.00 | 2023-08-12T23:12:36Z |
 | back     | 2.65 |  11 |   322.66 | 2024-02-08T05:49:33Z |
 :END:
 

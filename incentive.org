@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       deb3b467-3bb1-4000-9665-3a7347909ad6
-:LAST_MODIFIED: [2023-06-14 Wed 17:39]
+:LAST_MODIFIED: [2023-08-11 Fri 16:08]
 :ROAM_ALIASES: Incentives
 :END:
 #+title: Incentive
@@ -47,7 +47,7 @@ Anything that persuades a person to alter their behavior.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   6 |   159.17 | 2023-09-17T20:23:25Z |
-| back     | 2.95 |   6 |   130.28 | 2023-08-10T23:52:00Z |
+| back     | 2.95 |   7 |   420.93 | 2024-10-05T21:33:00Z |
 :END:
 
 [[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]]

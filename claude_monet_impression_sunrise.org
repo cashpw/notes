@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       46a63d5c-0abb-426e-9424-ceec586e66bb
+:LAST_MODIFIED: [2023-08-11 Fri 16:07]
+:END:
+#+title: Claude Monet | Impression, Sunrise
+#+hugo_custom_front_matter: :slug "46a63d5c-0abb-426e-9424-ceec586e66bb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-10 Thu 17:16]
+#+filetags: :reference:
+
+#+DOWNLOADED: https://www.museum-barberini.de/images/087_paris_marmottan_2.jpg?w=2880 @ 2023-08-10 17:17:11
+[[file:2023-08-10_17-17-11_087_paris_marmottan_2.jpg.jpeg]]
+
+
+#+begin_quote
+Impression, Sunrise is an 1872 painting by Claude Monet first shown at what would become known as the "Exhibition of the Impressionists" in Paris in April, 1874. The painting is credited with inspiring the name of the Impressionist movement.
+
+Impression, Sunrise depicts the port of Le Havre, Monet's hometown. It is now displayed at the Musée Marmottan Monet in Paris.
+
+[cite:@ImpressionSunrise2023]
+#+end_quote
+
+* Flashcards
+** Image :fc:
+:PROPERTIES:
+:CREATED: [2023-08-10 Thu 17:17]
+:FC_CREATED: 2023-08-11T00:18:04Z
+:FC_TYPE:  double
+:ID:       e6b52abb-a626-43d6-8963-38851b7d6284
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-11T00:18:04Z |
+| back     |  2.5 |  -1 |        0 | 2023-08-18T00:18:04Z |
+:END:
+
+[[id:46a63d5c-0abb-426e-9424-ceec586e66bb][Claude Monet | Impression, Sunrise]]
+
+*** Back
+[[file:2023-08-10_17-17-11_087_paris_marmottan_2.jpg.jpeg]]
+*** Source
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-08-10 Thu 17:18]
+:FC_CREATED: 2023-08-11T00:19:35Z
+:FC_TYPE:  cloze
+:ID:       963245ee-98e6-438b-b280-66f14370f0de
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2023-08-12T23:07:01Z |
+|        1 |  2.5 |  -1 |        0 | 2023-08-18T00:19:35Z |
+:END:
+
+The {{[[id:b99808a9-ef9a-45fe-b39f-a69141d1bfab][Impressionism]] movement}{Art style}@0} derives its name from {{[[id:46a63d5c-0abb-426e-9424-ceec586e66bb][Impression, Sunrise by Claude Monet]]}@1}.
+
+*** Source
+[cite:@ImpressionSunrise2023]
+#+print_bibliography:

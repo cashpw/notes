@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0d2abc68-9f65-4676-9f62-37b07cb1b86b
-:LAST_MODIFIED: [2023-07-03 Mon 18:38]
+:LAST_MODIFIED: [2023-08-10 Thu 07:30]
 :END:
 #+title: 2sum linear time solution in Python
 #+hugo_custom_front_matter: :slug "0d2abc68-9f65-4676-9f62-37b07cb1b86b"
@@ -42,7 +42,7 @@ print(two_sum([2,4,5], 2), 'should be None')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    34.71 | 2023-08-07T18:44:09Z |
+| front    | 2.80 |   6 |    93.48 | 2023-11-12T02:08:03Z |
 :END:
 
 #+begin_quote
