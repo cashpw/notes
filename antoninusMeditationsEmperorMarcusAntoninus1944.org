@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@antoninusMeditationsEmperorMarcusAntoninus1944]
 :ID:       84e0e30f-a362-4aae-b540-4541e00af0a8
 :DIR:      /home/cashweaver/proj/roam/attachments/84e0e30f-a362-4aae-b540-4541e00af0a8
-:LAST_MODIFIED: [2022-12-14 Wed 13:50]
+:LAST_MODIFIED: [2023-08-15 Tue 09:23]
 :END:
 #+title: Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus
 #+hugo_custom_front_matter: :slug "84e0e30f-a362-4aae-b540-4541e00af0a8"
@@ -17,7 +17,7 @@
 * Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/84e0e30f-a362-4aae-b540-4541e00af0a8/The_Meditations_of_the_Emperor_Marcus_Antoninus.pdf
-:NOTER_PAGE: 348
+:NOTER_PAGE: 139
 :END:
 ** Title page
 :PROPERTIES:

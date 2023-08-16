@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f3970b88-9d58-44fa-ade2-fee34f20a610
+:ROAM_REFS: [cite:@DigitalNomad2023]
+:LAST_MODIFIED: [2023-08-14 Mon 05:42]
+:END:
+#+title: Digital nomad
+#+hugo_custom_front_matter: :slug "f3970b88-9d58-44fa-ade2-fee34f20a610"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-14 Mon 05:41]
+#+filetags: :concept:
+
+#+begin_quote
+Digital nomads are people who travel freely while working remotely using technology and the internet. Such people generally have minimal material possessions and work remotely in temporary housing, hotels, cafes, public libraries, co-working spaces, or recreational vehicles, using Wi-Fi, smartphones or mobile hotspots to access the Internet. The majority of digital nomads describe themselves as programmers, content creators, designers, or developers. Some digital nomads are perpetual travelers, while others only maintain the lifestyle for a short period of time.
+#+end_quote
+
+* Flashcards
+#+print_bibliography:
