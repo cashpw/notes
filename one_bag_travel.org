@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b2910eeb-51c9-44da-99fa-b852ef70e7e6
-:LAST_MODIFIED: [2023-08-16 Wed 06:13]
+:LAST_MODIFIED: [2023-08-18 Fri 10:12]
 :END:
 #+title: One-bag travel
 #+hugo_custom_front_matter: :slug "b2910eeb-51c9-44da-99fa-b852ef70e7e6"
@@ -10,9 +10,7 @@
 
 * INPROGRESS
 
-- [[http://reddit.com/r/onebag][r/onebag]]
 - [[id:ed7f1712-4b41-4199-ad3b-34b51e769952][Italy 2023]]
-- [cite:@malufIndefiniteBackpackTravel]
 
 The culture associated with one-bag travel, at least as I've seen it online, is adjacent to [[id:f3970b88-9d58-44fa-ade2-fee34f20a610][Digital nomad]] and [[id:aa610825-4313-4028-8972-8f25919a73d2][Barefoot]].
 
@@ -72,6 +70,11 @@ See [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]].
 - Resistance band: Bodyweight [[id:ede98d80-26a5-4b11-8427-9b6fec550c3e][Exercise program]]
 - [[amazon:B071DG9VX4][Yoga band]]: Stretch and general rope/tying utility
 ** Misc
+
+** Changelog
+
+- 1.0.0: Based on extensive reading on [[http://reddit.com/r/onebag][r/onebag]] and linked sites including [cite:@malufIndefiniteBackpackTravel]
+
 
 * TODO [#2] Flashcards
 * Footnotes
