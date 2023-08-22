@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       42be7ce6-d83b-4717-86a0-0766565b2049
-:LAST_MODIFIED: [2023-06-16 Fri 07:05]
+:LAST_MODIFIED: [2023-08-21 Mon 06:19]
 :ROAM_REFS: [cite:@SessionComputerScience2023]
 :END:
 #+title: Session
@@ -28,7 +28,7 @@ Communication Transport may be implemented as part of protocols and services at 
 #+end_quote
 
 * Flashcards
-** Definition :fc:
+** Definition (Computers) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-18 Sat 08:35]
 :FC_CREATED: 2023-03-18T15:37:15Z
@@ -38,7 +38,7 @@ Communication Transport may be implemented as part of protocols and services at 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    79.63 | 2023-08-20T16:18:07Z |
+| front    | 2.35 |   7 |   170.53 | 2024-02-08T01:56:09Z |
 | back     | 2.95 |   6 |   129.91 | 2023-10-24T11:52:42Z |
 :END:
 

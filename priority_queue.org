@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6f787120-13bb-405a-bfca-060df6d80b14
 :ROAM_ALIASES: "Priority queues"
-:LAST_MODIFIED: [2023-04-01 Sat 14:38]
+:LAST_MODIFIED: [2023-08-21 Mon 06:23]
 :END:
 #+title: Priority queue
 #+hugo_custom_front_matter: :slug "6f787120-13bb-405a-bfca-060df6d80b14"
@@ -33,7 +33,7 @@ To improve performance, priority queues are typically based on a heap [[[id:70cb
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   210.83 | 2023-08-20T10:13:31Z |
+| back     | 2.50 |   8 |   500.50 | 2025-01-03T01:23:29Z |
 | front    | 3.10 |   7 |   427.43 | 2024-06-02T08:00:21Z |
 :END:
 [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]

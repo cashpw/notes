@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       548362c8-b5a6-4d50-b459-543d321e49b6
 :ROAM_REFS: [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
-:LAST_MODIFIED: [2023-06-18 Sun 07:15]
+:LAST_MODIFIED: [2023-08-19 Sat 16:32]
 :END:
 #+title: Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee
 #+hugo_custom_front_matter: :slug "548362c8-b5a6-4d50-b459-543d321e49b6"
@@ -165,7 +165,7 @@ Your strategy for picking a place to work is similar to an exec's. You either ne
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   145.93 | 2023-08-17T16:25:12Z |
+| front    | 2.65 |   7 |   389.95 | 2024-09-12T22:25:43Z |
 | back     | 3.10 |   6 |   159.85 | 2023-09-02T09:58:15Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderMeditationsMoloch2014]
 :ID:       1bba449a-48eb-479a-be4d-a4d7f8095b6a
-:LAST_MODIFIED: [2023-08-06 Sun 07:45]
+:LAST_MODIFIED: [2023-08-20 Sun 08:54]
 :END:
 #+title: Scott Alexander | Meditations On Moloch
 #+hugo_custom_front_matter: :slug "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
@@ -312,7 +312,7 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   163.69 | 2023-08-13T08:29:08Z |
+| front    | 2.95 |   7 |   446.50 | 2024-11-09T03:55:53Z |
 | back     | 2.50 |   7 |   285.41 | 2024-04-14T11:29:29Z |
 :END:
 [[id:22c8bf78-a57d-422f-abe7-def548c3ecd2][Physical limitations (Moloch)]]

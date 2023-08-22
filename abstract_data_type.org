@@ -2,7 +2,7 @@
 :ID:       2eae74ba-4003-45cf-8425-7291aaa7a537
 :ROAM_ALIASES: "Abstract data types" ADT
 :ROAM_REFS: [cite:@AbstractDataType2022]
-:LAST_MODIFIED: [2023-08-04 Fri 08:13]
+:LAST_MODIFIED: [2023-08-20 Sun 09:03]
 :END:
 #+title: Abstract data type
 #+hugo_custom_front_matter: :slug "2eae74ba-4003-45cf-8425-7291aaa7a537"
@@ -47,7 +47,7 @@ A mathematical model for data types which is defined by its behavior from the po
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   222.36 | 2023-08-17T23:51:04Z |
+| front    | 2.80 |   8 |   597.96 | 2025-04-09T15:10:14Z |
 :END:
 [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] and [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]
 *** Back

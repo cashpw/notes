@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 :ID:       bc1937f1-31ce-41cc-ba0b-dedaac9334b5
-:LAST_MODIFIED: [2023-08-15 Tue 14:56]
+:LAST_MODIFIED: [2023-08-19 Sat 16:29]
 :END:
 #+title: Tanya Reilly | The Staff Engineer's Path
 #+hugo_custom_front_matter: :slug "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
@@ -2277,7 +2277,7 @@ See [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   6 |    50.58 | 2023-08-12T15:37:45Z |
+| front    | 2.05 |   7 |    99.56 | 2023-11-27T12:51:54Z |
 :END:
 
 An engineer's relationship with management at the junior, senior, and staff+ levels.

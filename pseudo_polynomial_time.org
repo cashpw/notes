@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       890be1a5-820c-484e-acfa-16a6115c64c0
-:LAST_MODIFIED: [2023-05-10 Wed 09:07]
+:LAST_MODIFIED: [2023-08-21 Mon 06:23]
 :ROAM_REFS: [cite:@PseudopolynomialTime2022]
 :END:
 #+title: Pseudo-polynomial time
@@ -54,7 +54,7 @@ A running time which is polynomial in terms of the numeric value of the input. T
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   110.15 | 2023-08-18T22:25:43Z |
+| front    | 2.35 |   7 |   248.46 | 2024-04-26T00:19:21Z |
 :END:
 
 [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]] and [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]]

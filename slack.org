@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e6c3a056-5061-4152-8b12-41f001f637a5
-:LAST_MODIFIED: [2023-07-15 Sat 07:11]
+:LAST_MODIFIED: [2023-08-21 Mon 05:48]
 :ROAM_REFS: [cite:@zviSlack]
 :END:
 #+title: Slack
@@ -45,7 +45,7 @@ Slack presents things as they are without concern for how things look or what ot
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   230.56 | 2024-03-02T03:37:23Z |
-| back     | 2.80 |   6 |   106.21 | 2023-08-13T19:43:33Z |
+| back     | 2.65 |   7 |   261.76 | 2024-05-09T07:03:54Z |
 :END:
 
 [[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]

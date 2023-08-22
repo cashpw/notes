@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-08-11 Fri 15:39]
+:LAST_MODIFIED: [2023-08-21 Mon 06:25]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -62,7 +62,7 @@ Amount of time the packet is waiting in the queue until it can be processed.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    78.23 | 2023-08-21T09:53:30Z |
+| front    | 2.20 |   7 |   171.24 | 2024-02-08T19:12:22Z |
 | back     | 2.35 |   6 |    81.48 | 2023-09-22T12:52:39Z |
 :END:
 

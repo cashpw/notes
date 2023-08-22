@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       62420d13-e41f-46c0-a3b2-345fc4d8d4c1
 :ROAM_REFS: [cite:@DynamicalSystem2022]
-:LAST_MODIFIED: [2023-07-23 Sun 21:01]
+:LAST_MODIFIED: [2023-08-21 Mon 06:19]
 :END:
 #+title: Dynamical system
 #+hugo_custom_front_matter: :slug "62420d13-e41f-46c0-a3b2-345fc4d8d4c1"
@@ -26,7 +26,7 @@ In mathematics, a dynamical system is a system in which a function describes the
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   253.30 | 2023-08-16T07:46:44Z |
+| back     | 2.65 |  10 |   679.00 | 2025-06-30T13:23:03Z |
 | front    | 2.20 |   8 |   291.76 | 2024-05-10T22:19:11Z |
 :END:
 

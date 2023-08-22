@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       555a96ec-560f-4087-939f-5985f0ad0cb6
-:LAST_MODIFIED: [2023-08-04 Fri 08:17]
+:LAST_MODIFIED: [2023-08-21 Mon 06:27]
 :ROAM_ALIASES: "Instantaneous rate of change"
 :END:
 #+title: Derivative (math)
@@ -155,7 +155,7 @@ The slope of the tangent line to the graph of the function at a particular point
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   265.48 | 2024-04-26T02:44:03Z |
-|        1 | 2.50 |   6 |   100.10 | 2023-08-18T18:31:29Z |
+|        1 | 2.35 |   7 |   250.95 | 2024-04-28T12:12:22Z |
 :END:
 
 For $f(x)$, {{the [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]]}@0} is {{a function whose output is the slope of the tangent line at $x$}{[[id:e67fa9ff-5bb3-47cd-8559-0c3a25300f0d][Geometry]]}@1}.

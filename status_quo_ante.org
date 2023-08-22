@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4
 :ROAM_REFS: [cite:@StatusQuoAnte2022]
-:LAST_MODIFIED: [2023-07-27 Thu 07:12]
+:LAST_MODIFIED: [2023-08-19 Sat 16:27]
 :END:
 #+title: Status quo ante
 #+hugo_custom_front_matter: :slug "4021fd2b-7bd4-4b4e-915f-2c1aefe6e6f4"
@@ -27,7 +27,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   7 |    16.92 | 2023-08-13T12:10:12Z |
+|        0 | 1.30 |   8 |    19.99 | 2023-09-08T23:17:01Z |
 |        1 | 2.95 |   6 |   144.13 | 2023-10-01T19:09:02Z |
 :END:
 

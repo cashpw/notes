@@ -2,7 +2,7 @@
 :ID:       9a804f64-5cb5-4ead-911f-f3c87eedb369
 :ROAM_ALIASES: "Non-invertible matrix" "Degenerate matrix"
 :ROAM_REFS: [cite:@InvertibleMatrix2022]
-:LAST_MODIFIED: [2023-08-09 Wed 17:48]
+:LAST_MODIFIED: [2023-08-21 Mon 06:27]
 :END:
 #+title: Singular matrix
 #+hugo_custom_front_matter: :slug "9a804f64-5cb5-4ead-911f-f3c87eedb369"
@@ -47,7 +47,7 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is n
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   7 |   125.33 | 2023-08-20T23:43:51Z |
+| front    | 1.75 |   8 |   224.66 | 2024-04-02T05:11:52Z |
 | back     | 2.65 |   7 |   323.63 | 2024-05-21T16:16:16Z |
 :END:
 

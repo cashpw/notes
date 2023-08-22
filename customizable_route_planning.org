@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-08-11 Fri 15:37]
+:LAST_MODIFIED: [2023-08-20 Sun 07:56]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -379,7 +379,7 @@ Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    13.57 | 2023-08-13T13:16:52Z |
+| front    | 2.50 |   5 |    33.09 | 2023-09-22T17:00:17Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-27T23:16:26Z |
 :END:
 
@@ -443,7 +443,7 @@ A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][D
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-08-14T15:06:50Z |
+| front    | 2.35 |   4 |    14.66 | 2023-09-03T15:12:06Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T15:27:34Z |
 :END:
 

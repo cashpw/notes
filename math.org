@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-08-11 Fri 15:38]
+:LAST_MODIFIED: [2023-08-21 Mon 06:20]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -2007,7 +2007,7 @@ $f(x) = \begin{cases} 0 & \text{if}\; \lvert x \rvert > \frac{1}{2} \\ \frac{1}{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    79.15 | 2023-08-20T04:51:45Z |
+| front    | 2.35 |   7 |   171.56 | 2024-02-09T02:08:13Z |
 | back     | 2.80 |   8 |   297.17 | 2023-12-19T21:36:30Z |
 :END:
 
@@ -2328,7 +2328,7 @@ Unit ramp function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   7 |   195.55 | 2023-08-01T03:45:47Z |
+|        0 | 2.95 |   8 |   543.62 | 2025-02-13T14:24:20Z |
 |        1 | 2.95 |   7 |   279.43 | 2023-11-15T04:39:00Z |
 :END:
 ** {{$\operatorname{boxcar}(x)$}{function}@0} $=$ {{$c(\operatorname{H}(x - a) - \operatorname{H}(x - b))$}{functions}@1} :fc:
@@ -2358,7 +2358,7 @@ Unit ramp function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   198.26 | 2023-08-16T22:35:50Z |
+|        0 | 2.50 |   8 |   483.58 | 2024-12-17T03:21:20Z |
 |        1 | 2.65 |   7 |   172.89 | 2023-06-05T15:58:24Z |
 :END:
 ** {{$\operatorname{max}(a, b)$}@0} $=$ {{$\displaystyle \frac{a + b + \lvert a - b \rvert}{2}$}@1} :fc:
@@ -2936,7 +2936,7 @@ A method of approximating some function, one that cannot be expressed only with 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   9 |   234.03 | 2023-08-20T19:11:35Z |
-| front    | 3.10 |   6 |   179.98 | 2023-07-05T14:13:42Z |
+| front    | 3.10 |   7 |   594.72 | 2025-04-06T09:03:36Z |
 :END:
 
 Significand

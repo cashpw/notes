@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       668f5429-a1b1-46f3-8df7-758e63cc04b6
 :ROAM_ALIASES: "Through hardships to the stars"
-:LAST_MODIFIED: [2023-08-06 Sun 07:45]
+:LAST_MODIFIED: [2023-08-21 Mon 06:16]
 :END:
 #+title: Per aspera ad astra
 #+hugo_custom_front_matter: :slug "668f5429-a1b1-46f3-8df7-758e63cc04b6"
@@ -27,7 +27,7 @@ Per aspera ad astra (or, less commonly, ad astra per aspera) is a [[id:c2d1f99b-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   4 |    12.05 | 2023-08-18T15:57:38Z |
+|        0 | 1.75 |   5 |    19.40 | 2023-09-09T22:57:56Z |
 |        1 | 2.35 |   9 |    61.93 | 2023-09-27T12:30:48Z |
 :END:
 *** Source

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       555129b5-299e-4605-a2cd-9f77ebcede3d
-:LAST_MODIFIED: [2023-08-11 Fri 15:39]
+:LAST_MODIFIED: [2023-08-19 Sat 16:29]
 :ROAM_ALIASES: "Shortest path problem"
 :END:
 #+title: Shortest path algorithm
@@ -35,7 +35,7 @@ In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], the
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   142.51 | 2023-08-12T02:05:35Z |
+| front    | 2.80 |   7 |   376.17 | 2024-08-30T03:38:15Z |
 | back     | 2.50 |   7 |   345.65 | 2024-07-22T14:09:40Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c27e7511-da0f-4a63-91d5-902078d0add5
 :ROAM_REFS: [cite:@HigherorderFunction2022]
-:LAST_MODIFIED: [2023-07-23 Sun 21:00]
+:LAST_MODIFIED: [2023-08-21 Mon 05:48]
 :END:
 #+title: Higher-order function
 #+hugo_custom_front_matter: :slug "c27e7511-da0f-4a63-91d5-902078d0add5"
@@ -31,7 +31,7 @@ All other functions are first-order functions. In mathematics higher-order funct
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   269.02 | 2024-04-11T14:23:17Z |
-| back     | 2.80 |   6 |   128.85 | 2023-08-20T09:45:05Z |
+| back     | 2.65 |   7 |   321.11 | 2024-07-07T15:21:52Z |
 :END:
 
 [[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order function]]

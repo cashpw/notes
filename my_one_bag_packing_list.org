@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       545708ae-0765-4454-bb7b-11da616f0711
+:LAST_MODIFIED: [2023-08-20 Sun 08:50]
+:END:
+#+title: My one-bag packing list
+#+hugo_custom_front_matter: :slug "545708ae-0765-4454-bb7b-11da616f0711"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-20 Sun 08:21]
+#+filetags: :has_todo:concept:
+
+This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] packing list. The guiding concepts are:
+
+1. Think in [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutations]]
+
+   Two tops and two bottoms makes four looks!
+
+   Example: [[file:2023-08-20_08-33-51_9d8tx43oba3b1.jpg][Travel clothing permutations]]
+2. Prefer solids to liquids
+
+   The USA's Transportation Security Administration (TSA) requires that "[e]ach passenger may carry liquids, gels and aerosols in travel-size containers that are 3.4 ounces or 100 milliliters. Each passenger is limited to one quart-size bag of liquids, gels and aerosols" [cite:@transportationsecurityadministrationWhat311LiquidsRule].
+
+   Example: Bar soap rather than liquid soap
+3. Multi-purpose
+
+   Example: A [[amazon:B009VU2TQI][gaiter]] serves as a [[file:2023-08-20_08-46-26_71DjeJf2umS._AC_UX679_.jpg][scarf, face covering, headband, balaclava, sleep mask, and more!]]
+
+* Clothing
+
+
+** Tops
+
+- Two [[id:2e82b9c2-6553-4ca0-ab8d-cef9153d5ecc][Wool and Prince 210gsm button-down shirt]] (Burgandy and Blue Oxford)
+- Two cotton blend t-shirts from Goodwill (Black)
+- Jacket/windbreaker from Goodwill (Black)
+
+** Bottoms
+
+- Two [[id:c3fef5ca-8ea0-4d8e-a8f3-f4b609ac3379][Western Rise Diversion pant]] (Navy and Dune)
+- New balance 5-inch inseam running shorts (Black)
+
+  Dual-purpose: Exercise and swim
+
+** INPROGRESS Accessories
+
+- [[amazon:B009VU2TQI][Lightweight merino wool Buff]]
+- [[amazon:B006WWFWLM][Sunday Afternoons Sun Tripper Cap]]: Folds down and is UPF 50+
+- Brown [[https://www.narragansettleathers.com/][Narragansett Leathers]] belt
+
+** INPROGRESS Footwear
+
+*** Shoes
+
+*** Socks
+
+** INPROGRESS Underwear
+
+* INPROGRESS Food
+
+- Protein [[https://us.myprotein.com/sports-nutrition/pea-protein-isolate/10852589.html][powder]] and [[https://us.misfits.health/collections/protein-bars][bars]] to total 200g protein per day: It's difficult to source sufficient macro-aligned vegan protein while travelling.
+- Protein shaker
+* INPROGRESS Toiletries
+* INPROGRESS Storage / Backpack
+* INPROGRESS Medication
+* INPROGRESS Sleep
+* INPROGRESS Documentation
+* INPROGRESS Technology
+- Laptop: Essential for how I [[id:dc6d6e17-e4d3-4390-b988-8e09d451e9b0][read]] ([[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][example]]), [[id:4be26817-4ffd-4975-97aa-deda536235a5][study]], and [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][write these notes]]
+- [[amazon:B09P13D2H1][MINIX Multi-USB travel adapter]]: Can charge everything I bring with at once and I can plug it in everywhere[fn:1] I go
+- Two [[amazon:B08PVPTNZL][USB-C to USB-C cables]]
+- Two [[amazon:B01CU1EC6Y][Anker PowerCore 5000]]
+- USB-A to USB-micro-B cable
+- [[amazon:B0BDSGHVMW][Google Pixel Watch]] and USB-C charging cable
+
+* Exercise
+
+- [[amazon:B079PVQNT3][Lacrosse ball]]: Roll out my tight muscles
+- Resistance band: Bodyweight [[id:ede98d80-26a5-4b11-8427-9b6fec550c3e][Exercise program]]
+- [[amazon:B071DG9VX4][Yoga band]]: Stretch and general rope/tying utility
+
+* Misc
+
+* Changelog
+
+- 1.0.0: Based on extensive reading on [[http://reddit.com/r/onebag][r/onebag]] and linked sites including [cite:@malufIndefiniteBackpackTravel]
+
+* Footnotes
+
+[fn:1] The adapter includes types A, C, G, and I plugs which work with most of the world's plugs.
+* Flashcards
+#+print_bibliography:

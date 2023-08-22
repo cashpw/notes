@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2023-07-23 Sun 20:55]
+:LAST_MODIFIED: [2023-08-21 Mon 05:58]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -133,7 +133,7 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   150.53 | 2023-08-21T04:51:39Z |
+|        0 | 2.05 |   8 |   332.01 | 2024-07-18T13:19:04Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= conditionally swaps elements at ={{i and j}@0}=
 *** Source

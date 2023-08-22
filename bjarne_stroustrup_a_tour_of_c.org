@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-08-11 Fri 16:11]
+:LAST_MODIFIED: [2023-08-21 Mon 06:27]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -791,7 +791,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    43.41 | 2023-08-20T10:03:00Z |
+| front    | 2.50 |   6 |   118.31 | 2023-12-17T20:17:42Z |
 | back     | 2.35 |   5 |    34.32 | 2023-09-13T22:07:30Z |
 :END:
 
@@ -963,7 +963,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   5 |    33.63 | 2023-08-18T05:21:46Z |
+|        0 | 2.20 |   6 |    77.12 | 2023-11-06T16:18:58Z |
 :END:
 
 (C++) A declaration specifies {{a type (e.g. =int=) name (e.g. =count=)}@0}.

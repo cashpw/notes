@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cf234015-e1ce-4689-97c8-e3848e435742
-:LAST_MODIFIED: [2023-08-08 Tue 08:16]
+:LAST_MODIFIED: [2023-08-21 Mon 05:59]
 :END:
 #+title: Season a cast iron skillet
 #+hugo_custom_front_matter: :slug "cf234015-e1ce-4689-97c8-e3848e435742"
@@ -82,7 +82,7 @@ How to [[id:cf234015-e1ce-4689-97c8-e3848e435742][Season a cast iron skillet]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   309.11 | 2024-04-27T04:12:42Z |
-|        1 | 2.20 |   3 |     6.00 | 2023-08-14T15:16:21Z |
+|        1 | 2.05 |   4 |    11.84 | 2023-09-02T09:14:45Z |
 :END:
 
 ([[id:cf234015-e1ce-4689-97c8-e3848e435742][Season a cast iron skillet]]) Bake the skillet at {{500°}{degrees}@0} for {{1 hour}{time}@1}

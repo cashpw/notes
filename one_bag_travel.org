@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b2910eeb-51c9-44da-99fa-b852ef70e7e6
-:LAST_MODIFIED: [2023-08-18 Fri 10:12]
+:LAST_MODIFIED: [2023-08-20 Sun 08:35]
 :END:
 #+title: One-bag travel
 #+hugo_custom_front_matter: :slug "b2910eeb-51c9-44da-99fa-b852ef70e7e6"
@@ -8,77 +8,21 @@
 #+date: [2023-08-14 Mon 05:39]
 #+filetags: :has_todo:concept:
 
-* INPROGRESS
+One-bag traveling is just that --- traveling with only a single bag. Everything you bring with, aside from what you wear on your person, should fit within that one bag. The bag is usually a backpack in the 20--40 liter range, though there are some who use much smaller bags (e.g. Jeremy Maluf who, as of 2023, [[https://jeremymaluf.com/onebag/][uses a 9 liter backpack]]). It's [[id:6c52974d-5e46-46fd-bbdf-ec3d842a7860][Minimalism]] applied to the things you bring with you on a trip.
 
-- [[id:ed7f1712-4b41-4199-ad3b-34b51e769952][Italy 2023]]
+The culture associated with one-bag travel, at least as I've seen it online, overlaps with [[id:f3970b88-9d58-44fa-ade2-fee34f20a610][Digital nomadism]] and (recently) [[id:aa610825-4313-4028-8972-8f25919a73d2][Minimalist shoes]].
 
-The culture associated with one-bag travel, at least as I've seen it online, is adjacent to [[id:f3970b88-9d58-44fa-ade2-fee34f20a610][Digital nomad]] and [[id:aa610825-4313-4028-8972-8f25919a73d2][Barefoot]].
+* Why?
 
-* INPROGRESS Packing list
+#+begin_quote
+Onebag travel is the best way to travel since it removes most of the pain points involved. No rushing to the airport early to check bags, no searching for an overhead compartment, no bag fees or worrying about stuff getting lost, and no adjusting plans to drop off luggage before an adventure
 
-See [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]].
+[cite:@malufIndefiniteBackpackTravel]
+#+end_quote
+* Packing lists
 
-** Clothing
-
-*** Tops
-
-- Two [[id:2e82b9c2-6553-4ca0-ab8d-cef9153d5ecc][Wool and Prince 210gsm button-down shirt]] (Burgandy and Blue Oxford)
-- Two cotton blend t-shirts from Goodwill (Black)
-- Jacket/windbreaker from Goodwill (Black)
-
-*** Bottoms
-
-- Two [[id:c3fef5ca-8ea0-4d8e-a8f3-f4b609ac3379][Western Rise Diversion pant]] (Navy and Dune)
-- New balance 5-inch inseam running shorts (Black)
-
-  Dual-purpose: Exercise and swim
-
-*** INPROGRESS Accessories
-
-- [[amazon:B009VU2TQI][Lightweight merino wool Buff]]
-- [[amazon:B006WWFWLM][Sunday Afternoons Sun Tripper Cap]]: Folds down and is UPF 50+
-- Brown [[https://www.narragansettleathers.com/][Narragansett Leathers]] belt
-
-*** INPROGRESS Footwear
-
-**** Shoes
-
-**** Socks
-
-*** INPROGRESS Underwear
-
-** INPROGRESS Food
-
-- Protein [[https://us.myprotein.com/sports-nutrition/pea-protein-isolate/10852589.html][powder]] and [[https://us.misfits.health/collections/protein-bars][bars]] to total 200g protein per day: It's difficult to source sufficient macro-aligned vegan protein while travelling.
-- Protein shaker
-** INPROGRESS Toiletries
-** INPROGRESS Storage / Backpack
-** INPROGRESS Medication
-** INPROGRESS Sleep
-** INPROGRESS Documentation
-** INPROGRESS Technology
-- Laptop (corp-issued Thinkpad): Essential for how I [[id:dc6d6e17-e4d3-4390-b988-8e09d451e9b0][read]] ([[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][example]]), [[id:4be26817-4ffd-4975-97aa-deda536235a5][study]], and [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][write these notes]]
-- [[amazon:B09P13D2H1][MINIX Multi-USB travel adapter]]: Can charge everything I bring with at once and I can plug it in (almost[fn:1]) everywhere I go.
-- Two [[amazon:B08PVPTNZL][USB-C to USB-C cables]]
-- Two [[amazon:B01CU1EC6Y][Anker PowerCore 5000]]
-- USB-A to USB-micro-B cable
-- [[amazon:B0BDSGHVMW][Google Pixel Watch]] and USB-C charging cable
-
-** Exercise
-
-- [[amazon:B079PVQNT3][Lacrosse ball]]: Roll out my tight muscles
-- Resistance band: Bodyweight [[id:ede98d80-26a5-4b11-8427-9b6fec550c3e][Exercise program]]
-- [[amazon:B071DG9VX4][Yoga band]]: Stretch and general rope/tying utility
-** Misc
-
-** Changelog
-
-- 1.0.0: Based on extensive reading on [[http://reddit.com/r/onebag][r/onebag]] and linked sites including [cite:@malufIndefiniteBackpackTravel]
-
+- [[id:545708ae-0765-4454-bb7b-11da616f0711][My one-bag packing list]]
 
 * TODO [#2] Flashcards
-* Footnotes
-
-[fn:1] The adapter includes types A, C, G, and I plugs.
 
 #+print_bibliography:

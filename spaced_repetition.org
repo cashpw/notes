@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-07-16 Sun 07:02]
+:LAST_MODIFIED: [2023-08-20 Sun 08:59]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -240,7 +240,7 @@ Hacker News discussion: [[https://www.gwern.net/docs/www/news.ycombinator.com/d9
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   8 |   178.13 | 2023-12-18T17:22:55Z |
-| back     | 2.95 |   6 |   144.66 | 2023-08-13T09:16:21Z |
+| back     | 2.95 |   7 |   409.96 | 2024-10-03T14:57:31Z |
 :END:
 
 [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4e9a8cb2-e817-430b-a63c-0e492022ab79
 :ROAM_ALIASES: "Linked lists"
-:LAST_MODIFIED: [2023-05-25 Thu 07:10]
+:LAST_MODIFIED: [2023-08-20 Sun 08:58]
 :END:
 #+title: Linked list
 #+hugo_custom_front_matter: :slug "4e9a8cb2-e817-430b-a63c-0e492022ab79"
@@ -54,7 +54,7 @@ A sequential collection of nodes composed of data and one or more references to 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   7 |   238.93 | 2023-08-20T14:25:06Z |
+|        1 | 2.80 |   8 |   620.25 | 2025-05-01T22:05:13Z |
 |        0 | 2.35 |   7 |   400.67 | 2024-06-29T06:11:15Z |
 :END:
 

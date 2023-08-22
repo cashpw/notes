@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-08-11 Fri 15:39]
+:LAST_MODIFIED: [2023-08-21 Mon 06:26]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -216,7 +216,7 @@ The difference between $f$ and $\hat{f}$.
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |  12 |   464.02 | 2024-08-28T14:15:32Z |
 |        1 | 2.65 |   9 |   530.05 | 2024-11-19T17:10:03Z |
-|        2 | 2.35 |   1 |     1.00 | 2023-07-16T14:19:16Z |
+|        2 | 2.35 |   2 |     2.00 | 2023-08-23T12:51:35Z |
 |        3 | 2.35 |   8 |   232.40 | 2023-08-07T13:14:23Z |
 |        4 | 2.65 |   9 |   292.31 | 2023-12-20T21:22:44Z |
 :END:
@@ -582,7 +582,7 @@ Probability function: $f(\text{event}) = \operatorname{card}(\text{event}) / 6$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   281.14 | 2023-11-05T19:43:48Z |
-| back     | 2.35 |   6 |    71.78 | 2023-08-01T07:37:35Z |
+| back     | 2.35 |   7 |   160.11 | 2024-01-27T18:43:32Z |
 :END:
 
 Why Bessel's correction is used
@@ -1204,7 +1204,7 @@ A measure of difference between the observed value of a variable and some other 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |   9 |   554.21 | 2025-01-27T08:36:45Z |
-| front    | 2.35 |   5 |    31.29 | 2023-04-03T20:45:56Z |
+| front    | 2.20 |   6 |    75.36 | 2023-11-04T22:06:35Z |
 :END:
 
 Event space of a probability space
