@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be
-:LAST_MODIFIED: [2023-06-13 Tue 07:46]
+:LAST_MODIFIED: [2023-08-23 Wed 09:46]
 :END:
 #+title: Clay firing stages
 #+hugo_custom_front_matter: :slug "dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be"
@@ -30,7 +30,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   376.27 | 2024-06-23T21:21:38Z |
-| back     | 3.10 |   6 |   175.46 | 2023-08-22T15:49:13Z |
+| back     | 3.10 |   7 |   522.19 | 2025-01-26T21:26:39Z |
 :END:
 
 [[id:dff0f5e8-e2e5-41dc-a43d-6fd7c39b14be][Clay firing stages]]

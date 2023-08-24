@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fd458921-d050-44ca-b2fa-d6edc962ef30
-:LAST_MODIFIED: [2023-07-22 Sat 20:45]
+:LAST_MODIFIED: [2023-08-23 Wed 09:39]
 :END:
 #+title: Acceleration
 #+hugo_custom_front_matter: :slug "fd458921-d050-44ca-b2fa-d6edc962ef30"
@@ -53,7 +53,7 @@ In mechanics, acceleration is the rate of change [[[id:555a96ec-560f-4087-939f-5
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   122.44 | 2023-08-12T02:51:52Z |
+|        0 | 2.95 |   7 |   327.55 | 2024-07-16T05:45:16Z |
 |        1 | 2.80 |   6 |   119.48 | 2023-09-07T03:24:16Z |
 :END:
 

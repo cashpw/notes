@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10fb7c4a-8922-4d5f-aa1b-1251e34804e9
-:LAST_MODIFIED: [2023-08-04 Fri 08:20]
+:LAST_MODIFIED: [2023-08-23 Wed 09:45]
 :ROAM_REFS: [cite:@Sushi2022]
 :END:
 #+title: Sushi
@@ -81,7 +81,7 @@ Slice of fish, etc, over chunk of rice.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   7 |   326.35 | 2024-06-25T23:48:15Z |
-| front    | 2.65 |   8 |   249.92 | 2023-08-17T15:25:29Z |
+| front    | 2.50 |   9 |   635.27 | 2025-05-19T23:16:30Z |
 :END:
 
 [[id:6f4bd5b9-fc39-4cf5-8070-c50bb317cbd0][Sashimi]]

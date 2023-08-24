@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7211246e-d3da-491e-a493-e84ba820e63f
 :ROAM_ALIASES: Edges
-:LAST_MODIFIED: [2023-04-10 Mon 14:23]
+:LAST_MODIFIED: [2023-08-23 Wed 09:46]
 :END:
 #+title: Edge
 #+hugo_custom_front_matter: :slug "7211246e-d3da-491e-a493-e84ba820e63f"
@@ -27,7 +27,7 @@ An edge is a connection between two or more [[id:1b2526af-676d-4c0f-aa85-1ba05b8
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   7 |   280.19 | 2023-11-29T19:29:24Z |
-| front    | 2.80 |   7 |   229.72 | 2023-08-19T20:56:42Z |
+| front    | 2.80 |   8 |   588.25 | 2025-04-02T22:39:33Z |
 :END:
 
 [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edge]]

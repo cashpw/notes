@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f54153f5-fc44-41ce-b4dd-4274c95fbcec
-:LAST_MODIFIED: [2023-08-08 Tue 08:04]
+:LAST_MODIFIED: [2023-08-23 Wed 09:36]
 :END:
 #+title: Vega (finance)
 #+hugo_custom_front_matter: :slug "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
@@ -79,7 +79,7 @@ $\mathcal{V} = \frac{\partial V}{\partial\sigma}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   148.13 | 2023-08-16T20:35:53Z |
+|        0 | 2.05 |   8 |   323.13 | 2024-07-11T19:39:20Z |
 :END:
 [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]] value and volatility are {{positively}{+/-}@0} correlated
 

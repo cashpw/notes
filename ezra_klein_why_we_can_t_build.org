@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kleinWhyWeCanBuild2020]
 :ID:       2ff2cbd5-43a3-4c54-bb11-d7e4f34a0bfc
-:LAST_MODIFIED: [2023-03-27 Mon 10:09]
+:LAST_MODIFIED: [2023-08-23 Wed 09:38]
 :END:
 #+title: Ezra Klein | Why We Can't Build
 #+hugo_custom_front_matter: :slug "2ff2cbd5-43a3-4c54-bb11-d7e4f34a0bfc"
@@ -96,7 +96,7 @@ I'll let others make granular recommendations at the state, local, and market le
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   140.97 | 2023-08-15T16:31:10Z |
+|        0 | 2.65 |   7 |   406.98 | 2024-10-03T16:10:11Z |
 :END:
 
 [[id:eb439673-53b5-4e7b-b31e-e0adebaf2d40][Ezra Klein]] proposes that we don't [[id:c0cb9a04-2e57-4da8-b221-03d84508e801][build]] because {{key American systems bias toward inaction}@0}.

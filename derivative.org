@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       555a96ec-560f-4087-939f-5985f0ad0cb6
-:LAST_MODIFIED: [2023-08-21 Mon 06:27]
+:LAST_MODIFIED: [2023-08-23 Wed 09:45]
 :ROAM_ALIASES: "Instantaneous rate of change"
 :END:
 #+title: Derivative (math)
@@ -133,7 +133,7 @@ The slope of the tangent line to the graph of the function at a particular point
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   129.25 | 2023-08-20T18:50:58Z |
+|        0 | 2.80 |   7 |   385.07 | 2024-09-11T18:24:33Z |
 |        1 | 1.90 |   6 |    52.97 | 2023-09-19T14:17:57Z |
 :END:
 

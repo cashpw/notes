@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-08-21 Mon 06:26]
+:LAST_MODIFIED: [2023-08-23 Wed 09:37]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1162,7 +1162,7 @@ Population variance
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   262.72 | 2023-09-22T08:41:47Z |
-| back     | 2.35 |   7 |   116.78 | 2023-06-25T22:54:08Z |
+| back     | 2.20 |   8 |   275.88 | 2024-05-25T13:39:44Z |
 :END:
 
 Bias-variance tradeoff

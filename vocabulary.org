@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-08-21 Mon 06:18]
+:LAST_MODIFIED: [2023-08-23 Wed 09:35]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -325,7 +325,7 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   6 |    38.21 | 2023-08-18T18:01:18Z |
+| front    | 1.75 |   7 |    62.28 | 2023-10-24T23:16:01Z |
 | back     | 2.95 |   6 |   139.60 | 2023-08-07T06:42:15Z |
 :END:
 Not likely to provoke dissent or offense; inoffensive, often deliberately so
