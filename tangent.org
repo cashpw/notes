@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44aea0ad-06fe-4c46-83c3-53b6a78591c3
-:LAST_MODIFIED: [2023-08-21 Mon 06:22]
+:LAST_MODIFIED: [2023-08-26 Sat 07:41]
 :END:
 #+title: Tangent (Trigonometry)
 #+hugo_custom_front_matter: :slug "44aea0ad-06fe-4c46-83c3-53b6a78591c3"
@@ -94,7 +94,7 @@ Graph \(f(x) = \tan(x)\)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   326.87 | 2024-07-13T10:16:50Z |
-| back     | 2.65 |   6 |   112.25 | 2023-08-24T04:05:31Z |
+| back     | 2.50 |   7 |   282.71 | 2024-06-04T07:46:27Z |
 :END:
 
 [[id:44aea0ad-06fe-4c46-83c3-53b6a78591c3][Tangent (Trigonometry)]]

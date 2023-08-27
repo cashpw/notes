@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cf4068b9-bda6-49c1-812a-0314945c4425
 :ROAM_REFS: [cite:@Permutation2022]
-:LAST_MODIFIED: [2023-07-18 Tue 06:48]
+:LAST_MODIFIED: [2023-08-26 Sat 07:55]
 :END:
 #+title: Permutation
 #+hugo_custom_front_matter: :slug "cf4068b9-bda6-49c1-812a-0314945c4425"
@@ -77,7 +77,7 @@ An ordering of a set of elements.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    94.47 | 2023-08-25T01:05:50Z |
+|        0 | 2.35 |   7 |   211.76 | 2024-03-25T09:16:05Z |
 :END:
 
 There are {{$n!$}@0} permutations for a set of size $n$.

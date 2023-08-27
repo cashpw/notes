@@ -1,0 +1,641 @@
+:PROPERTIES:
+:ID:       768e1b87-efef-4024-a356-e399d27cc98f
+:LAST_MODIFIED: [2023-08-26 Sat 17:49]
+:END:
+#+title: Italian
+#+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-26 Sat 12:59]
+#+filetags: :concept:
+
+The Italian language. I use [[https://soundoftext.com/][Sound of Text]] for pronunciation audio files.
+
+* Flashcards
+** Buon giorno :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:15]
+:FC_CREATED: 2023-08-26T20:16:15Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: buon-giorno.mp3
+:ID:       d186c112-2b5d-4f8f-9171-924da90c48f9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:16:15Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:16:15Z |
+:END:
+
+Hello / Good morning
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Arrivederci :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:23]
+:FC_CREATED: 2023-08-26T20:23:37Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: arrivederci.mp3
+:ID:       ed6c8890-99ef-4de4-9d76-167789f61133
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:23:37Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:23:37Z |
+:END:
+
+Goodbye
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Bene, grazie :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:24]
+:FC_CREATED: 2023-08-26T20:24:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: bene-grazie.mp3
+:ID:       0a1cc548-5b6b-4d81-82d9-86f7bb26f7cd
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:24:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:24:21Z |
+:END:
+
+Fine, thank you
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Grazie :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:28]
+:FC_CREATED: 2023-08-26T20:28:59Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: grazie.mp3
+:ID:       2e9b457d-665f-4ba6-b22f-4713415e68ca
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:28:59Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:28:59Z |
+:END:
+
+Thank you
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Per favore :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:29]
+:FC_CREATED: 2023-08-26T20:29:19Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: per-favore.mp3
+:ID:       5b78c1b2-3f43-451f-9150-07cce4e4121f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:29:19Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:29:19Z |
+:END:
+
+Please
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Sì :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:29]
+:FC_CREATED: 2023-08-26T20:29:48Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: sì.mp3
+:ID:       c476ca19-648c-4adc-8e6f-39aa611d274a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:29:48Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:29:48Z |
+:END:
+
+Yes
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** No :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:29]
+:FC_CREATED: 2023-08-26T20:29:59Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: no.mp3
+:ID:       2f9296f6-680c-4292-873f-6d316d485403
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:29:59Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:29:59Z |
+:END:
+
+No
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Scusa :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:30]
+:FC_CREATED: 2023-08-26T20:30:15Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: scusa.mp3
+:ID:       d00566db-ede6-488d-8ccc-4a0e58ef6465
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:30:15Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:30:15Z |
+:END:
+
+Excuse me (informal)
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Mi chaimo _ :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:30]
+:FC_CREATED: 2023-08-26T20:30:36Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: mi-chaimo.mp3
+:ID:       ae07cf43-379d-416e-b9e5-3e65bea906d7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:30:36Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:30:36Z |
+:END:
+
+My name is _.
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Uno :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: uno.mp3
+:ID:       12f71568-fcbc-4291-9392-b0e6c0b01ee5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+One
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Due :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: due.mp3
+:ID:       63bd4acb-0f5b-4864-bb53-bc6706e54985
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Two
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Tre :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: tre.mp3
+:ID:       dd63e775-6c49-4567-8c2c-772931867f79
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Three
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Quattro :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: quattro.mp3
+:ID:       15aff087-978e-43ab-95ec-1078f879530b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Four
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Cinque :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: cinque.mp3
+:ID:       72170b95-d3e3-4b95-824c-d524d83e4e86
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Five
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Sei :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: Sei.mp3
+:ID:       7ec0a293-c7dd-43aa-a666-e0787c3a6003
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Six
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Sette :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: sette.mp3
+:ID:       f4dc9123-f8b4-48f2-89c2-9b62fd90692c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Seven
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Otto :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: otto.mp3
+:ID:       4c8c9a44-fbd2-4e35-92d1-2a6dc4dafd47
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Eight
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Nove :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: nove.mp3
+:ID:       c5dfa89a-874b-402d-b75f-0e4ca2f60fb4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Nine
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Dieci :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: dieci.mp3
+:ID:       68e0e789-57a3-461b-8232-86ac8c705b8e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Ten
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Undici :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: undici.mp3
+:ID:       52f3aec9-d002-49ac-acc7-8420b6241d07
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Eleven
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Dodici :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: dodici.mp3
+:ID:       129d8c8d-1999-453e-973f-b3af36d60c02
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Twelve
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Lunedì :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: lunedì.mp3
+:ID:       9c9377a0-fecc-497b-a246-762d9a5a22f2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Monday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Martedì :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: martedì.mp3
+:ID:       b8b28b6d-29d6-42c2-adfc-4f92fa795e05
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Tuesday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Mercoledì :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: mercoledì.mp3
+:ID:       5dcd5f5b-e045-4c80-8702-94d71bbeadcc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Wednesday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Giovedì :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: giovedì.mp3
+:ID:       6fbca64d-f252-41ca-8470-e9532d500c77
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Thursday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Venerdì :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: venerdì.mp3
+:ID:       e46a4074-252c-4362-8850-67c4ae27bdd1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Friday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Sabato :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: sabato.mp3
+:ID:       9569cddd-ca48-4368-9782-6c9fe2995089
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Saturday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Domenica :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: domenica.mp3
+:ID:       04acac48-6abd-46ca-8ae8-26933d23914f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Sunday
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Vegano :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: vegano.mp3
+:ID:       51924b2c-6247-427b-afe4-3625a6f995de
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Vegan
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Vegetariano :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: vegetariano.mp3
+:ID:       01de4913-08b8-496e-ac65-66bd0a8e1ac0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Vegetarian
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Sono vegano :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: sono-vegano.mp3
+:ID:       8da67c4c-2cc2-45b6-98b4-16e633dd5a4b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+I am vegan
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Sono vegetariano :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: sono-vegetariano.mp3
+:ID:       a19e5f0f-a307-4145-9eae-e1757bbf7072
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+I am vegetarian
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Carne :fc:
+:PROPERTIES:
+:CREATED: [2023-08-26 Sat 13:37]
+:FC_CREATED: 2023-08-26T20:37:21Z
+:FC_TYPE:  vocab
+:FC_VOCAB_AUDIO: carne.mp3
+:ID:       8fdb31d7-d5bd-4062-a434-403d7af86667
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
+:END:
+
+Meat
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+#+print_bibliography:

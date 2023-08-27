@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       735e2c4a-52b9-455d-9872-cb897cc0bd54
-:LAST_MODIFIED: [2023-07-30 Sun 16:59]
+:LAST_MODIFIED: [2023-08-26 Sat 07:43]
 :END:
 #+title: Reactionary
 #+hugo_custom_front_matter: :slug "735e2c4a-52b9-455d-9872-cb897cc0bd54"
@@ -27,7 +27,7 @@ In ideology, reactionism is a tradition in right-wing politics; the reactionary 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    65.49 | 2023-08-26T03:39:39Z |
+| front    | 2.20 |   7 |   139.23 | 2024-01-12T20:16:31Z |
 | back     | 2.35 |   7 |   188.68 | 2023-11-08T14:16:00Z |
 :END:
 

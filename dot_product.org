@@ -2,7 +2,7 @@
 :ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
 :ROAM_ALIASES: "Scalar product"
 :ROAM_REFS: [cite:@DotProduct2022]
-:LAST_MODIFIED: [2023-08-21 Mon 05:49]
+:LAST_MODIFIED: [2023-08-25 Fri 08:15]
 :END:
 #+title: Dot product
 #+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
@@ -165,7 +165,7 @@ $\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   437.12 | 2024-08-28T17:08:28Z |
-|        2 | 2.65 |   7 |   202.21 | 2023-08-20T21:31:45Z |
+|        2 | 2.65 |   8 |   515.28 | 2025-01-21T21:57:44Z |
 |        1 | 2.95 |   8 |   545.96 | 2025-01-23T13:19:53Z |
 :END:
 *** Extra

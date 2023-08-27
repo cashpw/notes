@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-08-23 Wed 09:34]
+:LAST_MODIFIED: [2023-08-26 Sat 07:41]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -3013,7 +3013,7 @@ $n \geq 0$, $\alpha_i \in \mathbb{R} \; \forall \; i$, $A_i$ are intervals, and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   3 |     6.00 | 2023-08-14T15:06:59Z |
+| back     | 2.35 |   4 |    15.09 | 2023-09-09T17:14:02Z |
 | front    | 2.20 |   6 |    75.15 | 2023-04-04T19:58:25Z |
 :END:
 
@@ -3152,7 +3152,7 @@ $\operatorname{R}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ x & \text{if}\; x 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   254.01 | 2023-08-16T18:13:52Z |
+| back     | 2.65 |   9 |   681.32 | 2025-07-07T22:14:45Z |
 | front    | 2.50 |   8 |   345.36 | 2024-02-04T12:13:49Z |
 :END:
 

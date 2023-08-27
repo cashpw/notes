@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       335314f6-0958-4d7e-a0bd-76b83bee3044
-:LAST_MODIFIED: [2023-08-09 Wed 17:40]
+:LAST_MODIFIED: [2023-08-25 Fri 08:14]
 :ROAM_REFS: [cite:@DonMakeMeThink2023]
 :END:
 #+title: Don't make me think
@@ -25,7 +25,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    85.04 | 2023-11-03T01:35:43Z |
-| back     | 2.50 |   5 |    42.83 | 2023-08-16T15:15:05Z |
+| back     | 2.35 |   6 |    92.78 | 2023-11-26T09:55:52Z |
 :END:
 
 [[id:335314f6-0958-4d7e-a0bd-76b83bee3044][Don't make me think]]

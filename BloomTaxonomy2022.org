@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-08-23 Wed 09:37]
+:LAST_MODIFIED: [2023-08-26 Sat 07:44]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -318,7 +318,7 @@ Learning objective concerned with:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   0 |     0.00 | 2023-08-21T12:49:14Z |
+| front    | 1.30 |   1 |     1.00 | 2023-08-27T14:44:46Z |
 | back     | 2.50 |   7 |   207.68 | 2023-11-30T10:00:23Z |
 :END:
 
@@ -343,7 +343,7 @@ Learning objective concerned with:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   341.43 | 2024-07-30T02:59:13Z |
-| back     | 2.80 |   4 |    16.33 | 2023-08-13T23:04:47Z |
+| back     | 2.65 |   5 |    41.79 | 2023-10-06T10:09:39Z |
 :END:
 
 [[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create (Bloom's Taxonomy)]]

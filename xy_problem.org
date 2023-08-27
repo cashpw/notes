@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3403366f-af9a-42f8-9352-f4a7097be1f5
-:LAST_MODIFIED: [2023-08-11 Fri 15:38]
+:LAST_MODIFIED: [2023-08-26 Sat 07:45]
 :ROAM_REFS: [cite:@perlmonksXYProblem] [cite:@gregswikiXyProblem] [cite:@AnswerWhatXYProblem2010] [cite:@XYProblem2023]
 :END:
 #+title: XY problem
@@ -57,7 +57,7 @@ That is, you are trying to solve problem /X/, and you think solution /Y/ would w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.41 | 2023-08-26T08:27:56Z |
+| front    | 2.35 |   5 |    36.31 | 2023-10-01T22:06:30Z |
 | back     | 2.50 |   2 |     2.00 | 2023-08-10T15:15:36Z |
 :END:
 

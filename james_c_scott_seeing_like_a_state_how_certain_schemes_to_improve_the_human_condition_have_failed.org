@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]
 :ID:       893aff24-4682-45e6-8d50-e4d55f0aa0cf
-:LAST_MODIFIED: [2023-07-19 Wed 06:43]
+:LAST_MODIFIED: [2023-08-25 Fri 08:16]
 :END:
 #+title: James C. Scott | Seeing like a State
 #+hugo_custom_front_matter: :slug "893aff24-4682-45e6-8d50-e4d55f0aa0cf"
@@ -56,7 +56,7 @@ Also see [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]], [[id:94f5d6dd-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   243.52 | 2024-03-13T13:21:54Z |
-| back     | 2.95 |   6 |   140.11 | 2023-08-23T19:01:13Z |
+| back     | 2.95 |   7 |   416.26 | 2024-10-14T21:33:16Z |
 :END:
 
 [[id:893aff24-4682-45e6-8d50-e4d55f0aa0cf][James C. Scott | Seeing like a State]]

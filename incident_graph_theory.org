@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7ef48ed-6671-4bd2-a83b-816535c38f5e
-:LAST_MODIFIED: [2023-08-23 Wed 09:38]
+:LAST_MODIFIED: [2023-08-26 Sat 07:53]
 :END:
 #+title: Incident (Graph theory)
 #+hugo_custom_front_matter: :slug "a7ef48ed-6671-4bd2-a83b-816535c38f5e"
@@ -26,7 +26,7 @@ Two edges are called incident, if they share a vertex. Also, a vertex and an edg
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    78.03 | 2023-11-09T17:16:16Z |
-| back     | 2.35 |   5 |    33.05 | 2023-08-17T15:28:41Z |
+| back     | 2.35 |   6 |    76.36 | 2023-11-10T23:25:21Z |
 :END:
 
 [[id:a7ef48ed-6671-4bd2-a83b-816535c38f5e][Incident (Graph theory)]]

@@ -2,7 +2,7 @@
 :ID:       9ce77447-dc1d-4623-b469-b4bd636e7453
 :ROAM_ALIASES: "Two sum"
 :ROAM_REFS: [cite:@leetcodeTwoSum]
-:LAST_MODIFIED: [2023-05-03 Wed 08:37]
+:LAST_MODIFIED: [2023-08-25 Fri 08:09]
 :END:
 #+title: 2sum
 #+hugo_custom_front_matter: :slug "9ce77447-dc1d-4623-b469-b4bd636e7453"
@@ -63,7 +63,7 @@ The trick is using a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   116.31 | 2023-08-23T21:42:34Z |
+|        0 | 2.65 |   7 |   337.82 | 2024-07-28T10:43:27Z |
 :END:
 
 [[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]] can be solved in {{$\bigo{n}$, linear}@0} time.

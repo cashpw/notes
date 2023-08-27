@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
 :ROAM_REFS: [cite:@Determinant2022]
-:LAST_MODIFIED: [2023-07-29 Sat 07:56]
+:LAST_MODIFIED: [2023-08-25 Fri 08:17]
 :END:
 #+title: Determinant
 #+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
@@ -196,7 +196,7 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.05 |   8 |   260.48 | 2024-04-15T02:21:43Z |
-|        0 | 2.65 |   5 |    43.44 | 2023-08-13T12:14:18Z |
+|        0 | 2.50 |   6 |   102.80 | 2023-12-06T10:22:54Z |
 :END:
 
 *** Source

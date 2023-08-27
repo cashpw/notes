@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a01a221-0aa9-493b-b690-c15c11f16831
-:LAST_MODIFIED: [2023-08-20 Sun 08:56]
+:LAST_MODIFIED: [2023-08-26 Sat 07:45]
 :ROAM_REFS: [cite:@SuffixTree2022]
 :END:
 #+title: Suffix tree
@@ -57,7 +57,7 @@ The construction of such a tree for the string $S$ takes time and space linear i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   4 |     9.91 | 2023-08-21T20:58:24Z |
+| front    | 1.60 |   5 |    16.48 | 2023-09-11T02:36:26Z |
 | back     | 2.50 |   7 |   216.29 | 2023-12-15T23:29:58Z |
 :END:
 
@@ -114,7 +114,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   145.07 | 2023-08-25T18:37:46Z |
+|        0 | 2.05 |   8 |   286.48 | 2024-06-08T02:15:30Z |
 :END:
 
 *** Source

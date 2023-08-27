@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       858c6cb1-52a9-446a-b11f-b35229b528e0
 :ROAM_REFS: [cite:@TestingEffect2022]
-:LAST_MODIFIED: [2023-08-05 Sat 08:47]
+:LAST_MODIFIED: [2023-08-25 Fri 08:05]
 :ROAM_ALIASES: "Active recall"
 :END:
 #+title: Testing effect
@@ -57,7 +57,7 @@ Long term memory is increased when some of the learning period is devoted to ret
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   6 |    18.20 | 2023-08-22T20:05:28Z |
+|        0 | 1.30 |   7 |    21.68 | 2023-09-16T07:21:04Z |
 |        1 | 3.10 |   7 |   422.36 | 2024-10-01T00:24:50Z |
 :END:
 

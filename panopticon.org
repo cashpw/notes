@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bd91ce7a-9b16-4c0c-9b42-0fac236a1364
 :ROAM_REFS: [cite:@Panopticon2022]
-:LAST_MODIFIED: [2023-05-18 Thu 08:25]
+:LAST_MODIFIED: [2023-08-25 Fri 08:17]
 :END:
 #+title: Panopticon
 #+hugo_custom_front_matter: :slug "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
@@ -28,7 +28,7 @@ Although it is physically impossible for the single guard to observe all the inm
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   7 |   143.10 | 2023-09-07T18:15:11Z |
-| back     | 2.95 |   6 |   164.82 | 2023-08-25T10:08:03Z |
+| back     | 2.80 |   7 |   495.94 | 2025-01-02T13:46:29Z |
 :END:
 
 [[id:bd91ce7a-9b16-4c0c-9b42-0fac236a1364][Panopticon]]

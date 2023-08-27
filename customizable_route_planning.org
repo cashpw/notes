@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-08-23 Wed 09:39]
+:LAST_MODIFIED: [2023-08-26 Sat 07:42]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -317,7 +317,7 @@ Partitions the graph into [[id:d3439626-492b-4165-836e-efd890096225][Connected c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   4 |    14.28 | 2023-08-22T21:41:11Z |
+| front    | 2.05 |   5 |    30.73 | 2023-09-26T08:14:07Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-26T14:33:08Z |
 :END:
 
@@ -399,7 +399,7 @@ A technique for reducing query latency by building a hierarchical view of the gr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    15.50 | 2023-08-20T03:02:02Z |
+| front    | 2.50 |   5 |    38.82 | 2023-10-03T10:49:50Z |
 :END:
 
 [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]] and [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]] for road network graphs

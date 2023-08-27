@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-08-23 Wed 09:37]
+:LAST_MODIFIED: [2023-08-26 Sat 07:50]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -106,7 +106,7 @@ Where
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   364.32 | 2024-03-12T22:11:26Z |
-| front    | 2.05 |   1 |     1.00 | 2023-06-30T20:52:40Z |
+| front    | 2.05 |   2 |     2.00 | 2023-08-28T14:50:16Z |
 :END:
 
 Expected value
@@ -811,7 +811,7 @@ The set of all possible outcomes.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.00 |   6 |    45.41 | 2023-08-22T10:09:29Z |
+| back     | 2.00 |   7 |    96.03 | 2023-11-29T15:37:13Z |
 | front    | 2.00 |   7 |   120.28 | 2023-09-14T19:10:16Z |
 :END:
 

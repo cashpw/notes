@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4d1a0eba-1f0f-4634-b574-6d66b7afa9b8
-:LAST_MODIFIED: [2023-08-21 Mon 05:52]
+:LAST_MODIFIED: [2023-08-25 Fri 08:17]
 :END:
 #+title: This is the dreamtime
 #+hugo_custom_front_matter: :slug "4d1a0eba-1f0f-4634-b574-6d66b7afa9b8"
@@ -22,7 +22,7 @@ The current era is one of relative abundance [[[id:e6c3a056-5061-4152-8b12-41f00
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   8 |   217.05 | 2024-03-25T14:03:07Z |
-| back     | 2.95 |   6 |   136.08 | 2023-08-17T17:19:58Z |
+| back     | 2.95 |   7 |   432.36 | 2024-10-30T23:50:15Z |
 :END:
 
 [[id:4d1a0eba-1f0f-4634-b574-6d66b7afa9b8][This is the dreamtime]]

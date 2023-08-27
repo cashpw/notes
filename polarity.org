@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       621bc458-5d22-462d-89df-e3f8e13d6dc4
-:LAST_MODIFIED: [2023-08-04 Fri 08:11]
+:LAST_MODIFIED: [2023-08-25 Fri 08:04]
 :END:
 #+title: Polarity
 #+hugo_custom_front_matter: :slug "621bc458-5d22-462d-89df-e3f8e13d6dc4"
@@ -167,7 +167,7 @@ A condition in which more than two states have a preponderance of power.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   181.27 | 2023-08-25T10:22:41Z |
+| front    | 2.20 |   8 |   426.26 | 2024-10-24T21:16:41Z |
 | back     | 2.35 |   8 |   274.74 | 2024-03-06T08:49:14Z |
 :END:
 [[id:79e18826-8ece-4b40-8bd3-8c42c760ff94][Unipolarity]]

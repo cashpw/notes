@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       440b6c99-7394-44d1-8e62-61a15673dd95
-:LAST_MODIFIED: [2023-05-25 Thu 07:10]
+:LAST_MODIFIED: [2023-08-26 Sat 07:54]
 :END:
 #+title: Red Queen's race
 #+hugo_custom_front_matter: :slug "440b6c99-7394-44d1-8e62-61a15673dd95"
@@ -28,7 +28,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   289.54 | 2024-03-10T03:11:35Z |
-| back     | 3.10 |   6 |   153.15 | 2023-08-12T03:57:12Z |
+| back     | 3.10 |   7 |   444.02 | 2024-11-12T15:24:49Z |
 :END:
 
 [[id:440b6c99-7394-44d1-8e62-61a15673dd95][Red Queen's race]]

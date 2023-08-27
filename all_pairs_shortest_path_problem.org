@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cd02a339-815c-4ada-b9f9-f0008db4684a
-:LAST_MODIFIED: [2023-07-26 Wed 08:02]
+:LAST_MODIFIED: [2023-08-26 Sat 07:56]
 :END:
 #+title: All-pairs shortest path problem
 #+hugo_custom_front_matter: :slug "cd02a339-815c-4ada-b9f9-f0008db4684a"
@@ -22,7 +22,7 @@ Find the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][shortest path]] between all 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   225.94 | 2024-03-08T13:33:30Z |
-| back     | 2.20 |   7 |   107.29 | 2023-08-22T00:38:51Z |
+| back     | 2.05 |   8 |   219.35 | 2024-04-01T23:25:12Z |
 :END:
 
 [[id:cd02a339-815c-4ada-b9f9-f0008db4684a][All-pairs shortest path problem]]

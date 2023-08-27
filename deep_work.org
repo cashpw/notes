@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       82d1d3b6-dd55-43bf-828e-b34508ac136c
 :DIR:      /home/cashweaver/proj/roam/attachments/82d1d3b6-dd55-43bf-828e-b34508ac136c
-:LAST_MODIFIED: [2023-05-06 Sat 10:44]
+:LAST_MODIFIED: [2023-08-25 Fri 08:13]
 :END:
 #+title: Deep work
 #+hugo_custom_front_matter: :slug "82d1d3b6-dd55-43bf-828e-b34508ac136c"
@@ -24,7 +24,7 @@ The ability, proposed by [[id:b89cc482-a774-43af-a690-14ed0270480c][Cal Newport]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   210.39 | 2023-12-03T03:05:44Z |
-| back     | 2.95 |   6 |   154.40 | 2023-08-13T10:03:43Z |
+| back     | 2.80 |   7 |   408.22 | 2024-10-06T20:25:34Z |
 :END:
 
 [[id:82d1d3b6-dd55-43bf-828e-b34508ac136c][Deep work]]

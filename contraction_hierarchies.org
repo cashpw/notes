@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-08-23 Wed 09:36]
+:LAST_MODIFIED: [2023-08-26 Sat 07:39]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -371,7 +371,7 @@ So an additional term to consider is the number of contracted neighbors each nod
 
 *** Source
 [cite:@ContractionHierarchies2023]
-** Describe :fc:
+* Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 12:02]
 :FC_CREATED: 2023-05-18T19:03:52Z
@@ -544,7 +544,7 @@ Heuristics for choosing the order to contract vertices.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-08-13T22:37:20Z |
+| front    | 2.50 |   3 |     6.00 | 2023-08-31T14:50:14Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:22:44Z |
 :END:
 

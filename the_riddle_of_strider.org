@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f89236e3-90bc-413f-a5da-173b2f71a17d
-:LAST_MODIFIED: [2023-08-11 Fri 16:08]
+:LAST_MODIFIED: [2023-08-26 Sat 07:40]
 :ROAM_ALIASES: "Not all those who wander are lost"
 :END:
 #+title: The Riddle of Strider
@@ -39,7 +39,7 @@ The crownless again shall be king.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |   7 |    30.68 | 2023-08-25T19:19:56Z |
+|        0 | 1.45 |   8 |    45.68 | 2023-10-11T07:06:12Z |
 |        1 | 2.65 |   7 |   305.21 | 2024-04-07T20:03:50Z |
 |        2 | 2.50 |   7 |   225.45 | 2024-03-19T01:37:49Z |
 |        3 | 2.95 |   7 |   302.44 | 2024-05-08T02:17:07Z |

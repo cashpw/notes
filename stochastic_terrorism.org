@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       774196ec-f2f7-48d1-b3f9-e7c253378746
-:LAST_MODIFIED: [2023-06-03 Sat 21:29]
+:LAST_MODIFIED: [2023-08-26 Sat 07:54]
 :END:
 #+title: Stochastic terrorism
 #+hugo_custom_front_matter: :slug "774196ec-f2f7-48d1-b3f9-e7c253378746"
@@ -51,7 +51,7 @@ See [[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbul
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   7 |   331.26 | 2024-04-26T21:53:11Z |
-| front    | 2.05 |   7 |   143.35 | 2023-08-19T11:32:00Z |
+| front    | 2.05 |   8 |   286.70 | 2024-06-08T07:37:07Z |
 :END:
 
 [[id:774196ec-f2f7-48d1-b3f9-e7c253378746][Stochastic terrorism]]

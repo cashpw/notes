@@ -2,7 +2,7 @@
 :ID:       7ecdf7fa-6b7e-43f9-8268-484b9007ea87
 :ROAM_ALIASES: Powergaming
 :ROAM_REFS: [cite:@Powergaming2022]
-:LAST_MODIFIED: [2023-07-23 Sun 20:57]
+:LAST_MODIFIED: [2023-08-25 Fri 08:02]
 :END:
 #+title: Min-maxing
 #+hugo_custom_front_matter: :slug "7ecdf7fa-6b7e-43f9-8268-484b9007ea87"
@@ -29,7 +29,7 @@ A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] technique.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   135.02 | 2023-08-24T16:43:43Z |
+| front    | 2.05 |   8 |   250.85 | 2024-05-02T11:29:00Z |
 | back     | 2.95 |   7 |   427.90 | 2024-09-24T01:36:35Z |
 :END:
 

@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-08-10 Thu 07:31]
+:LAST_MODIFIED: [2023-08-25 Fri 08:05]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -123,7 +123,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.65 |   5 |    44.53 | 2023-08-25T01:53:30Z |
+|        1 | 2.50 |   6 |   115.91 | 2023-12-19T12:59:23Z |
 |        0 | 3.25 |   7 |   609.92 | 2025-03-13T11:02:13Z |
 :END:
 
