@@ -2,7 +2,7 @@
 :ID:       19124270-bb87-450d-8726-fe6aae18716f
 :ROAM_REFS: [cite:@ExplicitKnowledge2022]
 :ROAM_ALIASES: "Expressive knowledge"
-:LAST_MODIFIED: [2023-08-26 Sat 07:50]
+:LAST_MODIFIED: [2023-08-27 Sun 06:46]
 :END:
 #+title: Explicit knowledge
 #+hugo_custom_front_matter: :slug "19124270-bb87-450d-8726-fe6aae18716f"
@@ -34,7 +34,7 @@ For example, knowing that London is in the United Kingdom is a piece of explicit
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   313.78 | 2024-03-30T07:49:50Z |
-| back     | 2.95 |   6 |   164.92 | 2023-08-15T11:52:36Z |
+| back     | 2.80 |   7 |   502.18 | 2025-01-10T18:06:32Z |
 :END:
 
 [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       25f5faeb-aeeb-4ae6-998c-08940cb60c3f
-:LAST_MODIFIED: [2023-07-01 Sat 07:17]
+:LAST_MODIFIED: [2023-08-27 Sun 06:42]
 :END:
 #+title: Socratic grilling
 #+hugo_custom_front_matter: :slug "25f5faeb-aeeb-4ae6-998c-08940cb60c3f"
@@ -28,7 +28,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    56.88 | 2023-08-27T11:30:31Z |
+| back     | 2.20 |   7 |   120.91 | 2023-12-26T11:29:17Z |
 | front    | 2.80 |   7 |   286.57 | 2024-03-19T04:15:48Z |
 :END:
 [[id:25f5faeb-aeeb-4ae6-998c-08940cb60c3f][Socratic grilling]]

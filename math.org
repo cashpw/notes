@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-08-26 Sat 07:41]
+:LAST_MODIFIED: [2023-08-27 Sun 06:14]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -2935,7 +2935,7 @@ A method of approximating some function, one that cannot be expressed only with 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   9 |   234.03 | 2023-08-20T19:11:35Z |
+| back     | 2.50 |  10 |   600.46 | 2025-04-19T00:21:46Z |
 | front    | 3.10 |   7 |   594.72 | 2025-04-06T09:03:36Z |
 :END:
 

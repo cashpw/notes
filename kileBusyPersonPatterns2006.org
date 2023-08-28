@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-08-04 Fri 08:18]
+:LAST_MODIFIED: [2023-08-27 Sun 06:49]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -702,7 +702,7 @@ Ensure you have the requisite information to start the task. This doesn't mean y
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   353.45 | 2024-05-25T01:21:02Z |
-| back     | 1.90 |   7 |   136.02 | 2023-08-14T16:15:52Z |
+| back     | 1.75 |   8 |   228.02 | 2024-04-11T14:24:46Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]

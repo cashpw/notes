@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-08-26 Sat 07:41]
+:LAST_MODIFIED: [2023-08-27 Sun 06:38]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -129,7 +129,7 @@ int foo(int bar) {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   3 |     6.00 | 2023-08-10T15:05:24Z |
+| front    | 1.90 |   4 |    10.58 | 2023-09-07T03:34:40Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-04T23:28:36Z |
 :END:
 

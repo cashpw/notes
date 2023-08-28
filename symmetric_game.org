@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       50751f5a-e3b9-48cb-9745-26b79a3d3fe9
 :ROAM_REFS: [cite:@SymmetricGame2022]
-:LAST_MODIFIED: [2023-07-30 Sun 16:59]
+:LAST_MODIFIED: [2023-08-27 Sun 06:48]
 :END:
 #+title: Symmetric game
 #+hugo_custom_front_matter: :slug "50751f5a-e3b9-48cb-9745-26b79a3d3fe9"
@@ -60,7 +60,7 @@ A game where the payoffs are independent of the person playing them -- the strat
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   254.88 | 2024-01-08T19:46:01Z |
-| back     | 2.05 |   7 |   134.94 | 2023-08-26T11:58:00Z |
+| back     | 1.90 |   8 |   240.98 | 2024-04-24T13:22:53Z |
 :END:
 
 [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][Symmetric game]]

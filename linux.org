@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       74bd9a47-f3c9-463b-a547-4ae67a88af97
-:LAST_MODIFIED: [2023-08-26 Sat 07:52]
+:LAST_MODIFIED: [2023-08-27 Sun 06:49]
 :END:
 #+title: Linux
 #+hugo_custom_front_matter: :slug "74bd9a47-f3c9-463b-a547-4ae67a88af97"
@@ -53,7 +53,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   426.91 | 2024-10-21T11:04:09Z |
-|        1 | 2.05 |   6 |    48.05 | 2023-08-18T15:26:27Z |
+|        1 | 2.05 |   7 |   100.54 | 2023-12-06T02:45:49Z |
 :END:
 
 - {{APT or Apt}@0}

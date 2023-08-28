@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0e7c2358-2a89-4123-99a6-e55161ff8828
-:LAST_MODIFIED: [2023-08-19 Sat 16:31]
+:LAST_MODIFIED: [2023-08-27 Sun 06:37]
 :END:
 #+title: Ship of Theseus (argument)
 #+hugo_custom_front_matter: :slug "0e7c2358-2a89-4123-99a6-e55161ff8828"
@@ -22,7 +22,7 @@ See [[id:309082e8-abb5-4fdf-9944-fc63d8a8197e][Ian Danskin | The Ship of Theseus
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.75 |   8 |   176.87 | 2024-02-12T20:29:02Z |
-| back     | 2.50 |   7 |   195.79 | 2023-08-15T09:24:29Z |
+| back     | 2.50 |   8 |   472.06 | 2024-12-11T15:01:05Z |
 :END:
 [[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]
 *** Back

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       248e3cc9-0511-4e71-afd6-19320d3fd61d
 :DIR:      /home/cashweaver/proj/roam/attachments/248e3cc9-0511-4e71-afd6-19320d3fd61d
-:LAST_MODIFIED: [2023-08-21 Mon 05:52]
+:LAST_MODIFIED: [2023-08-27 Sun 06:45]
 :END:
 #+title: Julian Shapiro | Writing Well Handbook
 #+hugo_custom_front_matter: :slug "248e3cc9-0511-4e71-afd6-19320d3fd61d"
@@ -496,7 +496,7 @@ I find that writers who post frequently (say, twice weekly) are rarely worth rea
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   362.68 | 2024-06-10T07:08:36Z |
-|        1 | 1.30 |   3 |     6.00 | 2023-08-27T12:52:54Z |
+|        1 | 1.30 |   4 |     7.04 | 2023-09-03T14:47:06Z |
 :END:
 
 *** Source

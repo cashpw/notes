@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       68df1a7c-9c9f-42f1-b270-56ab4b51e214
 :ROAM_REFS: [cite:@Logarithm2022]
-:LAST_MODIFIED: [2023-07-11 Tue 06:07]
+:LAST_MODIFIED: [2023-08-27 Sun 06:49]
 :END:
 #+title: Logarithm
 #+hugo_custom_front_matter: :slug "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
@@ -122,7 +122,7 @@ $\operatorname{log}_b(a) =$ $\frac{\operatorname{log}_c(a)}{\operatorname{log}_c
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   6 |   146.30 | 2023-09-30T00:48:27Z |
-|        1 | 2.65 |   6 |    98.28 | 2023-08-15T23:28:45Z |
+|        1 | 2.65 |   7 |   260.86 | 2024-05-14T10:27:31Z |
 :END:
 
 {{$\log^cn$}@0} $=$ {{$(\log n)^c$}@1}

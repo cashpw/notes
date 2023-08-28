@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-08-26 Sat 07:40]
+:LAST_MODIFIED: [2023-08-27 Sun 06:24]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1375,7 +1375,7 @@ Permutation matrix
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |   102.57 | 2023-08-22T04:50:03Z |
+|        0 | 1.90 |   8 |   179.53 | 2024-02-23T02:14:25Z |
 |        1 | 2.20 |   7 |   183.14 | 2023-08-01T19:46:12Z |
 :END:
 ** {{$\operatorname{stddev}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{\sqrt{n}} \| \mathbf{C}\vec{x} \|$}{norm}@1} :suspended:fc:

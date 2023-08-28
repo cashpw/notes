@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-08-26 Sat 07:43]
+:LAST_MODIFIED: [2023-08-27 Sun 06:24]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -305,7 +305,7 @@ This layer handles setup, teardown, and controls the connections between two or 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.75 |   6 |    37.31 | 2023-09-01T10:21:59Z |
-| back     | 2.50 |   1 |     1.00 | 2023-07-16T14:14:57Z |
+| back     | 2.50 |   0 |     0.00 | 2023-08-27T13:24:50Z |
 :END:
 
 [[id:134da303-601d-40f9-929e-67cc4f35761d][Presentation layer (OSI model)]]

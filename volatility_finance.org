@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6e33b36-3854-48be-9d20-a3ce8b42ebe6
-:LAST_MODIFIED: [2023-07-27 Thu 07:06]
+:LAST_MODIFIED: [2023-08-27 Sun 06:40]
 :END:
 #+title: Volatility (finance)
 #+hugo_custom_front_matter: :slug "c6e33b36-3854-48be-9d20-a3ce8b42ebe6"
@@ -27,7 +27,7 @@ Historic volatility measures a time series of past market prices. [[id:7b2744d7-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   8 |   108.04 | 2023-08-25T17:46:18Z |
+| front    | 1.75 |   9 |   199.06 | 2024-03-13T15:02:08Z |
 | back     | 2.65 |   7 |   327.52 | 2024-05-30T12:44:42Z |
 :END:
 

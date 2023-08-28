@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0141c9e2-e1b7-4b2f-8655-f977a9f41569
 :ROAM_REFS: [cite:@MagicalThinking2022]
-:LAST_MODIFIED: [2023-07-18 Tue 06:41]
+:LAST_MODIFIED: [2023-08-27 Sun 06:40]
 :END:
 #+title: Magical thinking
 #+hugo_custom_front_matter: :slug "0141c9e2-e1b7-4b2f-8655-f977a9f41569"
@@ -33,7 +33,7 @@ Maybe little Amy gets mad at Brayden and shouts "I HATE HIM" to her mother. The 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   275.76 | 2024-04-06T22:18:59Z |
-| back     | 2.95 |   6 |   132.15 | 2023-08-23T17:05:06Z |
+| back     | 2.95 |   7 |   411.15 | 2024-10-11T17:14:17Z |
 :END:
 
 [[id:0141c9e2-e1b7-4b2f-8655-f977a9f41569][Magical thinking]]
