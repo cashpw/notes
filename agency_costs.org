@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0cb1f49e-83a7-43ce-a32f-7ba772e7686c
-:LAST_MODIFIED: [2023-08-26 Sat 07:56]
+:LAST_MODIFIED: [2023-08-28 Mon 05:53]
 :ROAM_REFS: [cite:@AgencyCost2022]
 :END:
 #+title: Agency costs
@@ -74,7 +74,7 @@ Why [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]] exist
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   210.56 | 2024-01-23T05:48:19Z |
-| back     | 2.35 |   1 |     1.00 | 2023-08-27T14:56:34Z |
+| back     | 2.35 |   2 |     2.00 | 2023-08-30T12:53:24Z |
 :END:
 
 Types of [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]

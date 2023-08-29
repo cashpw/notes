@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9d301c65-05c3-44f8-9660-90e0e963e6aa
-:LAST_MODIFIED: [2023-08-25 Fri 08:12]
+:LAST_MODIFIED: [2023-08-28 Mon 05:47]
 :END:
 #+title: Single-source shortest path problem
 #+hugo_custom_front_matter: :slug "9d301c65-05c3-44f8-9660-90e0e963e6aa"
@@ -41,7 +41,7 @@ For a given [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and a source [[id
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   2 |     2.00 | 2023-08-27T15:12:42Z |
+| front    | 2.05 |   3 |     6.00 | 2023-09-03T12:47:55Z |
 | back     | 2.35 |   7 |   169.11 | 2023-11-08T23:00:10Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       740ce42a-3a80-4ecb-9438-fedff074443b
-:LAST_MODIFIED: [2023-06-01 Thu 18:05]
+:LAST_MODIFIED: [2023-08-28 Mon 05:49]
 :END:
 #+title: Stable sorting algorithm
 #+hugo_custom_front_matter: :slug "740ce42a-3a80-4ecb-9438-fedff074443b"
@@ -33,7 +33,7 @@ Stable sort algorithms sort equal elements in the same order that they appear in
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   8 |    87.02 | 2023-08-28T01:32:05Z |
+| back     | 1.60 |   9 |   151.60 | 2024-01-27T03:20:00Z |
 | front    | 2.65 |   7 |   330.75 | 2024-02-13T11:32:04Z |
 :END:
 [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]

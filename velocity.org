@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cd489e76-6e0a-45f7-a8d0-e197989fb436
 :ROAM_REFS: [cite:@Velocity2022]
-:LAST_MODIFIED: [2023-07-26 Wed 07:52]
+:LAST_MODIFIED: [2023-08-28 Mon 05:51]
 :END:
 #+title: Velocity
 #+hugo_custom_front_matter: :slug "cd489e76-6e0a-45f7-a8d0-e197989fb436"
@@ -42,7 +42,7 @@ See [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   6 |   126.16 | 2023-09-02T18:26:13Z |
-| back     | 2.50 |   6 |    96.19 | 2023-08-13T21:27:48Z |
+| back     | 2.50 |   7 |   240.72 | 2024-04-25T06:04:44Z |
 :END:
 
 [[id:cd489e76-6e0a-45f7-a8d0-e197989fb436][Velocity]]

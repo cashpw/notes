@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-08-23 Wed 09:41]
+:LAST_MODIFIED: [2023-08-28 Mon 05:49]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -37,7 +37,7 @@ A period of generally rising prices in a market.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.90 |   5 |    22.07 | 2023-08-26T16:46:50Z |
+| back     | 1.75 |   6 |    40.44 | 2023-10-07T23:28:14Z |
 | front    | 2.30 |   7 |   240.07 | 2024-04-06T16:13:35Z |
 :END:
 

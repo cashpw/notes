@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-08-26 Sat 07:39]
+:LAST_MODIFIED: [2023-08-28 Mon 05:47]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -566,7 +566,7 @@ Edge difference
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    15.24 | 2023-08-12T20:39:46Z |
+| front    | 2.20 |   5 |    33.78 | 2023-10-01T07:33:09Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:23:36Z |
 :END:
 
