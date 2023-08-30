@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
 :ROAM_REFS: [cite:@LogisticFunction2022]
-:LAST_MODIFIED: [2023-08-27 Sun 06:39]
+:LAST_MODIFIED: [2023-08-29 Tue 08:11]
 :END:
 #+title: Logistic function
 #+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
@@ -88,7 +88,7 @@ $f(x; L, k, x_0) = \displaystyle \frac{L}{1 + e^{-k(x + x_0)}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    61.61 | 2023-08-29T07:56:53Z |
+| front    | 2.20 |   7 |   132.76 | 2024-01-09T09:28:12Z |
 | back     | 2.65 |  11 |   429.87 | 2024-07-13T13:01:58Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       545708ae-0765-4454-bb7b-11da616f0711
-:LAST_MODIFIED: [2023-08-20 Sun 08:50]
+:LAST_MODIFIED: [2023-08-29 Tue 06:52]
 :END:
 #+title: My one-bag packing list
 #+hugo_custom_front_matter: :slug "545708ae-0765-4454-bb7b-11da616f0711"
@@ -15,27 +15,29 @@ This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] p
    Two tops and two bottoms makes four looks!
 
    Example: [[file:2023-08-20_08-33-51_9d8tx43oba3b1.jpg][Travel clothing permutations]]
+
 2. Prefer solids to liquids
 
    The USA's Transportation Security Administration (TSA) requires that "[e]ach passenger may carry liquids, gels and aerosols in travel-size containers that are 3.4 ounces or 100 milliliters. Each passenger is limited to one quart-size bag of liquids, gels and aerosols" [cite:@transportationsecurityadministrationWhat311LiquidsRule].
 
    Example: Bar soap rather than liquid soap
+
 3. Multi-purpose
 
    Example: A [[amazon:B009VU2TQI][gaiter]] serves as a [[file:2023-08-20_08-46-26_71DjeJf2umS._AC_UX679_.jpg][scarf, face covering, headband, balaclava, sleep mask, and more!]]
 
 * Clothing
 
-
 ** Tops
 
 - Two [[id:2e82b9c2-6553-4ca0-ab8d-cef9153d5ecc][Wool and Prince 210gsm button-down shirt]] (Burgandy and Blue Oxford)
+  I had to get the arms tailored as they didn't fit off the rack ($25 per shirt).
 - Two cotton blend t-shirts from Goodwill (Black)
 - Jacket/windbreaker from Goodwill (Black)
 
 ** Bottoms
 
-- Two [[id:c3fef5ca-8ea0-4d8e-a8f3-f4b609ac3379][Western Rise Diversion pant]] (Navy and Dune)
+- Two [[https://www.costco.com/greg-norman-men%E2%80%99s-5-pocket-travel-pant-.product.100645822.html][Greg Norman Men's 5 Pocket Travel Pants]] (Navy and Beige)
 - New balance 5-inch inseam running shorts (Black)
 
   Dual-purpose: Exercise and swim
@@ -80,6 +82,12 @@ This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] p
 * Misc
 
 * Changelog
+
+See [[id:54aeab12-48bb-4624-a110-e0a5d50087f4][Semantic versioning]].
+
+- 1.0.1: Replace [[id:c3fef5ca-8ea0-4d8e-a8f3-f4b609ac3379][Western Rise Diversion pant]] with [[https://www.costco.com/greg-norman-men%E2%80%99s-5-pocket-travel-pant-.product.100645822.html][Greg Norman Men's 5 Pocket Travel Pants]]
+
+  The Western Rise pants were good quality. However, they didn't look flattering on me. I switched them out for pants I found at Costco which felt similar (textile and weight) and were much cheaper (~$15 vs ~$160).
 
 - 1.0.0: Based on extensive reading on [[http://reddit.com/r/onebag][r/onebag]] and linked sites including [cite:@malufIndefiniteBackpackTravel]
 

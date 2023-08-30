@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       99d73aa1-ba7a-4906-a9c8-05b4933c0861
-:LAST_MODIFIED: [2023-07-26 Wed 08:10]
+:LAST_MODIFIED: [2023-08-29 Tue 08:12]
 :ROAM_REFS: [cite:@BiconnectedGraph2022]
 :END:
 #+title: Biconnected graph
@@ -29,7 +29,7 @@ The property of being 2-connected [[[id:78c49f16-1956-4ffb-9207-f72f79025d5b][k-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   5 |    40.89 | 2023-09-03T01:23:19Z |
-| back     | 2.35 |   5 |    30.76 | 2023-08-26T09:28:08Z |
+| back     | 2.20 |   6 |    67.45 | 2023-11-05T01:57:54Z |
 :END:
 
 [[id:99d73aa1-ba7a-4906-a9c8-05b4933c0861][Biconnected graph]]

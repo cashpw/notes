@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7a43b0c7-b933-4e37-81b8-e5ecf9a83956
 :ROAM_REFS: [cite:@MatrixMathematics2022]
-:LAST_MODIFIED: [2023-08-11 Fri 16:07]
+:LAST_MODIFIED: [2023-08-29 Tue 08:12]
 :END:
 #+title: Matrix
 #+hugo_custom_front_matter: :slug "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
@@ -36,7 +36,7 @@ is a matrix with two rows and three columns. This is often referred to as a "two
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   288.75 | 2024-03-08T14:23:45Z |
-| back     | 3.10 |   6 |   172.58 | 2023-08-22T05:58:26Z |
+| back     | 3.25 |   7 |   563.30 | 2025-03-14T22:29:17Z |
 :END:
 
 [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] (Math)

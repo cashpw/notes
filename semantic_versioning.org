@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       54aeab12-48bb-4624-a110-e0a5d50087f4
+:ROAM_REFS: [cite:@preston-wernerSemanticVersioning]
+:LAST_MODIFIED: [2023-08-29 Tue 06:43]
+:END:
+#+title: Semantic versioning
+#+hugo_custom_front_matter: :slug "54aeab12-48bb-4624-a110-e0a5d50087f4"
+#+author: Cash Prokop-Weaver
+#+date: [2023-08-29 Tue 06:42]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+Given a version number MAJOR.MINOR.PATCH, increment the:
+
+1. MAJOR version when you make incompatible API changes
+2. MINOR version when you add functionality in a backward compatible manner
+3. PATCH version when you make backward compatible bug fixes
+
+Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+
+[cite:@preston-wernerSemanticVersioning]
+#+end_quote
+#+print_bibliography:
+* TODO [#2] Flashcards

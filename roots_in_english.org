@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-08-28 Mon 05:50]
+:LAST_MODIFIED: [2023-08-29 Tue 08:09]
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -129,7 +129,7 @@ Exo-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   112.59 | 2023-09-21T05:45:38Z |
-| back     | 2.50 |   6 |    93.60 | 2023-08-22T15:05:00Z |
+| back     | 2.20 |   0 |     0.00 | 2023-08-29T15:09:59Z |
 :END:
 
 Epi-

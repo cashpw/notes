@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-08-26 Sat 07:51]
+:LAST_MODIFIED: [2023-08-29 Tue 08:13]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -232,7 +232,7 @@ class Foo:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   316.43 | 2024-05-22T23:20:41Z |
-|        1 | 2.95 |   6 |   160.27 | 2023-08-27T22:51:05Z |
+|        1 | 2.95 |   7 |   503.49 | 2025-01-14T03:00:48Z |
 :END:
 
 #+begin_src python

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       37b4cf4e-b716-4e46-a27f-dfb5fce06bc7
 :ROAM_ALIASES: "Python PriorityQueue"
-:LAST_MODIFIED: [2023-07-23 Sun 13:20]
+:LAST_MODIFIED: [2023-08-29 Tue 08:10]
 :ROAM_REFS: [cite:@QueueSynchronizedQueueClass]
 :END:
 #+title: Python library: queue
@@ -212,7 +212,7 @@ print(min_queue.get(), 'should be (5, b)')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   120.40 | 2023-08-29T04:27:16Z |
+| front    | 2.80 |   7 |   315.75 | 2024-07-10T09:05:38Z |
 | back     | 2.80 |   6 |   118.05 | 2023-09-06T16:17:01Z |
 :END:
 

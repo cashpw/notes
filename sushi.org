@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10fb7c4a-8922-4d5f-aa1b-1251e34804e9
-:LAST_MODIFIED: [2023-08-23 Wed 09:45]
+:LAST_MODIFIED: [2023-08-29 Tue 08:11]
 :ROAM_REFS: [cite:@Sushi2022]
 :END:
 #+title: Sushi
@@ -39,7 +39,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   399.56 | 2024-03-20T18:19:20Z |
-| front    | 2.05 |   5 |    21.52 | 2023-08-14T16:37:03Z |
+| front    | 2.05 |   6 |    44.78 | 2023-10-13T09:54:32Z |
 :END:
 
 [[id:36088370-5640-48b7-b42f-0b8d083068c8][Maki]]

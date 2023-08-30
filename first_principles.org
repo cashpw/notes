@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f5abcf4-ac0d-40d7-a62b-62daeac65485
 :ROAM_ALIASES: "First principle"
-:LAST_MODIFIED: [2023-01-31 Tue 06:10]
+:LAST_MODIFIED: [2023-08-29 Tue 08:05]
 :END:
 #+title: First principles
 #+hugo_custom_front_matter: :slug "0f5abcf4-ac0d-40d7-a62b-62daeac65485"
@@ -17,9 +17,6 @@ A first principle is a basic proposition or assumption that cannot be deduced fr
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** Definition :fc:
 :PROPERTIES:
@@ -32,7 +29,7 @@ A first principle is a basic proposition or assumption that cannot be deduced fr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   7 |   245.68 | 2023-10-04T06:27:22Z |
-| front    | 2.80 |   7 |   223.10 | 2023-08-26T18:44:36Z |
+| front    | 2.80 |   8 |   660.81 | 2025-06-20T10:33:43Z |
 :END:
 
 [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principle]]

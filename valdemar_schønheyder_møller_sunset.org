@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@mollerSunset2019]
 :ID:       fd549df3-8f9c-4906-a50c-e85c596c5c47
-:LAST_MODIFIED: [2023-08-26 Sat 07:39]
+:LAST_MODIFIED: [2023-08-29 Tue 08:04]
 :END:
 #+title: Valdemar Schønheyder Møller | Sunset
 #+hugo_custom_front_matter: :slug "fd549df3-8f9c-4906-a50c-e85c596c5c47"
@@ -29,7 +29,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-08-28T14:39:54Z |
+| front    | 2.50 |   3 |     6.00 | 2023-09-04T15:04:01Z |
 | back     |  2.5 |  -1 |        0 | 2023-08-17T16:14:06Z |
 :END:
 

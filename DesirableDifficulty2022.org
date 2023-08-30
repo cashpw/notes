@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-06-08 Thu 09:27]
+:LAST_MODIFIED: [2023-08-29 Tue 08:12]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -70,7 +70,7 @@ The requisite effort improves long-term performance.
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   301.43 | 2023-12-16T01:17:38Z |
 |        1 | 2.20 |   9 |   263.52 | 2024-01-22T10:19:32Z |
-|        2 | 2.50 |   7 |   202.38 | 2023-08-21T01:23:58Z |
+|        2 | 2.50 |   8 |   532.85 | 2025-02-12T11:42:26Z |
 :END:
 
 For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]: the processing at {{encoding}@0} time should be the same as the processing at {{retrieval}@1} and {{during practice}@2}.

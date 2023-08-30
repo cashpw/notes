@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       740ce42a-3a80-4ecb-9438-fedff074443b
-:LAST_MODIFIED: [2023-08-28 Mon 05:49]
+:LAST_MODIFIED: [2023-08-29 Tue 08:06]
 :END:
 #+title: Stable sorting algorithm
 #+hugo_custom_front_matter: :slug "740ce42a-3a80-4ecb-9438-fedff074443b"
@@ -52,7 +52,7 @@ A type of algorithm which sorts equal elements in the same order that they appea
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   301.55 | 2024-01-20T06:50:39Z |
-| back     | 2.65 |   7 |   183.31 | 2023-08-19T21:49:56Z |
+| back     | 2.50 |   8 |   482.93 | 2024-12-24T13:28:18Z |
 :END:
 [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
 *** Back
