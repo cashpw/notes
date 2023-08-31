@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-08-29 Tue 08:02]
+:LAST_MODIFIED: [2023-08-30 Wed 05:40]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -2053,7 +2053,7 @@ $f(x) = b^x$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   246.87 | 2023-08-22T00:33:46Z |
+| front    | 2.50 |   9 |   647.82 | 2025-06-08T08:15:45Z |
 | back     | 2.80 |  10 |   351.40 | 2024-02-10T13:31:45Z |
 :END:
 

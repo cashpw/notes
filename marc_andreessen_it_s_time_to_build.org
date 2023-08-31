@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@andreessenItTimeBuild2020]
 :ID:       c0cb9a04-2e57-4da8-b221-03d84508e801
-:LAST_MODIFIED: [2023-08-29 Tue 08:13]
+:LAST_MODIFIED: [2023-08-30 Wed 06:03]
 :END:
 #+title: Marc Andreessen | It's Time to Build
 #+hugo_custom_front_matter: :slug "c0cb9a04-2e57-4da8-b221-03d84508e801"
@@ -165,7 +165,7 @@ A sustained and concerted movement that cares about institutional reform. But pe
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   306.46 | 2024-05-22T02:15:33Z |
-| back     | 2.65 |   0 |     0.00 | 2023-08-29T15:13:54Z |
+| back     | 2.65 |   1 |     1.00 | 2023-08-31T13:03:54Z |
 :END:
 
 ([[id:c0cb9a04-2e57-4da8-b221-03d84508e801][Marc Andreessen | It's Time to Build]]) Why is it difficult to build?

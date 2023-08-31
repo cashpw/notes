@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e3806f4b-94b7-443e-8e7e-278fe8a2781c
-:LAST_MODIFIED: [2023-08-27 Sun 06:49]
+:LAST_MODIFIED: [2023-08-30 Wed 05:40]
 :END:
 #+title: Binomial theorem
 #+hugo_custom_front_matter: :slug "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
@@ -43,7 +43,7 @@ $$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   304.24 | 2024-06-09T06:28:48Z |
-|        1 | 1.45 |   1 |     1.00 | 2023-08-28T13:49:15Z |
+|        1 | 1.45 |   2 |     2.00 | 2023-09-01T12:40:56Z |
 :END:
 
 {{$(x+y)^{n}$}@0} $=$ {{$\sum _{k=0}^{n}{n \choose k}x^{k}y^{n-k}$}{summation}@1}

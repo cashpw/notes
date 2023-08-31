@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-08-29 Tue 08:09]
+:LAST_MODIFIED: [2023-08-30 Wed 05:44]
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -155,7 +155,7 @@ Epi-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   339.29 | 2024-08-01T19:49:37Z |
-|        1 | 2.50 |   6 |   107.96 | 2023-08-29T15:25:58Z |
+|        1 | 2.50 |   7 |   294.20 | 2024-06-19T17:34:49Z |
 :END:
 
 {{Endo-}@0}'s opposite is {{Exo-}@1}

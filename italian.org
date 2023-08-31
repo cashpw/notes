@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768e1b87-efef-4024-a356-e399d27cc98f
-:LAST_MODIFIED: [2023-08-29 Tue 08:01]
+:LAST_MODIFIED: [2023-08-30 Wed 06:04]
 :END:
 #+title: Italian
 #+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
@@ -136,7 +136,7 @@ Yes
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:29:59Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:36:44Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:29:59Z |
 :END:
 
@@ -174,7 +174,7 @@ Excuse me (informal)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:30:36Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:36:59Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:30:36Z |
 :END:
 
@@ -193,7 +193,7 @@ My name is _.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:36:46Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -212,7 +212,7 @@ One
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:36:49Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -288,7 +288,7 @@ Five
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-08-29T15:00:01Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:37:03Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -307,7 +307,7 @@ Six
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:35:25Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -345,7 +345,7 @@ Eight
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:36:32Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -364,7 +364,7 @@ Nine
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:56:05Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -383,7 +383,7 @@ Ten
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:36:41Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -440,7 +440,7 @@ Monday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-08-29T15:01:08Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:55:57Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -478,7 +478,7 @@ Wednesday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T12:56:09Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -497,7 +497,7 @@ Thursday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-08-26T20:37:21Z |
+| front    | 2.50 |   1 |     1.00 | 2023-08-31T13:04:44Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-02T20:37:21Z |
 :END:
 
@@ -638,4 +638,46 @@ Meat
 
 *** Source
 [cite:@ItalianPhrasebookWikitravel]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-08-30 Wed 05:56]
+:FC_CREATED: 2023-08-30T12:58:40Z
+:FC_TYPE:  cloze
+:ID:       0133837f-6ef5-4abc-9523-7a622ccb1a18
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:FC_BLOCKED_BY: 9c9377a0-fecc-497b-a246-762d9a5a22f2,b8b28b6d-29d6-42c2-adfc-4f92fa795e05,5dcd5f5b-e045-4c80-8702-94d71bbeadcc,6fbca64d-f252-41ca-8470-e9532d500c77,e46a4074-252c-4362-8850-67c4ae27bdd1,9569cddd-ca48-4368-9782-6c9fe2995089,04acac48-6abd-46ca-8ae8-26933d23914f,
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-08-30T12:58:40Z |
+:END:
+
+Days of the week: {{Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato, Domenica}{Italian}@0}
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-08-30 Wed 05:58]
+:FC_CREATED: 2023-08-30T12:59:47Z
+:FC_TYPE:  cloze
+:ID:       a90d82cd-e349-452d-a18b-f1661e7edde8
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:FC_BLOCKED_BY: 12f71568-fcbc-4291-9392-b0e6c0b01ee5,63bd4acb-0f5b-4864-bb53-bc6706e54985, dd63e775-6c49-4567-8c2c-772931867f79,15aff087-978e-43ab-95ec-1078f879530b,72170b95-d3e3-4b95-824c-d524d83e4e86,7ec0a293-c7dd-43aa-a666-e0787c3a6003,f4dc9123-f8b4-48f2-89c2-9b62fd90692c,4c8c9a44-fbd2-4e35-92d1-2a6dc4dafd47,c5dfa89a-874b-402d-b75f-0e4ca2f60fb4,68e0e789-57a3-461b-8232-86ac8c705b8e,52f3aec9-d002-49ac-acc7-8420b6241d07,129d8c8d-1999-453e-973f-b3af36d60c02
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-08-30T12:59:47Z |
+:END:
+
+Numbers 1-12: {{uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci, undici, dodici}{Italian}@0}
+
+*** Source
+[cite:@ItalianPhrasebookWikitravel]
+
+
 #+print_bibliography:

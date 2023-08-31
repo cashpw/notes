@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-08-29 Tue 08:08]
+:LAST_MODIFIED: [2023-08-30 Wed 05:42]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -1006,7 +1006,7 @@ void foo(int a);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    46.07 | 2023-08-29T14:54:16Z |
+|        0 | 2.50 |   6 |   109.88 | 2023-12-18T09:50:02Z |
 :END:
 
 C++'s built-in types reflect {{the capabilities of conventional computer hardware}@0}.

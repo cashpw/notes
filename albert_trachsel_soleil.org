@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@trachselSoleil1909]
 :ID:       1232ac57-5cc7-4497-888a-303163de2420
-:LAST_MODIFIED: [2023-08-29 Tue 08:13]
+:LAST_MODIFIED: [2023-08-30 Wed 06:03]
 :END:
 #+title: Albert Trachsel | Soleil
 #+hugo_custom_front_matter: :slug "1232ac57-5cc7-4497-888a-303163de2420"
@@ -31,7 +31,7 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   3 |     6.00 | 2023-09-04T15:13:23Z |
-| back     | 2.50 |   0 |     0.00 | 2023-08-27T13:43:50Z |
+| back     | 2.50 |   1 |     1.00 | 2023-08-31T13:03:15Z |
 :END:
 
 [[id:1232ac57-5cc7-4497-888a-303163de2420][Albert Trachsel | Soleil]]

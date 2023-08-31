@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6eb6bfde-37f3-4555-bbe2-1bd639b518ec
 :ROAM_REFS: [cite:@BloomSigmaProblem2022]
-:LAST_MODIFIED: [2023-08-21 Mon 05:43]
+:LAST_MODIFIED: [2023-08-30 Wed 05:43]
 :END:
 #+title: Bloom's 2 sigma problem
 #+hugo_custom_front_matter: :slug "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"
@@ -48,7 +48,7 @@ The average student who receives 1-on-1 tutoring, using [[id:162d37be-0ce1-4ba1-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   113.83 | 2023-08-28T13:45:30Z |
+|        0 | 2.65 |   7 |   295.40 | 2024-06-20T22:23:20Z |
 :END:
 
 {{[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]}@0} developed [[id:6eb6bfde-37f3-4555-bbe2-1bd639b518ec][Bloom's 2 sigma problem]]

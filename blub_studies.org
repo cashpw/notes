@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ca6fd965-8c9c-470c-b020-8fe0765ceb20
-:LAST_MODIFIED: [2023-08-04 Fri 08:16]
+:LAST_MODIFIED: [2023-08-30 Wed 05:51]
 :END:
 #+title: Blub studies
 #+hugo_custom_front_matter: :slug "ca6fd965-8c9c-470c-b020-8fe0765ceb20"
@@ -30,7 +30,7 @@ Related:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   249.71 | 2024-01-13T10:13:01Z |
-| back     | 2.20 |   7 |   156.62 | 2023-08-30T04:26:03Z |
+| back     | 2.20 |   8 |   349.99 | 2024-08-14T12:43:13Z |
 :END:
 
 [[id:ca6fd965-8c9c-470c-b020-8fe0765ceb20][Blub studies]]

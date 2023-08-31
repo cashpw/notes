@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderEpistemicLearnedHelplessness2019]
 :ID:       71aa6edb-f5a1-4e8b-88b9-5e5e807edceb
-:LAST_MODIFIED: [2023-08-11 Fri 16:11]
+:LAST_MODIFIED: [2023-08-30 Wed 05:53]
 :ROAM_ALIASES: "Arguments? You can prove anything with arguments."
 :END:
 #+title: Scott Alexander | Epistemic Learned Helplessness
@@ -62,7 +62,7 @@ Responsible doctors are at the other end of the spectrum from terrorists here. I
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   308.07 | 2024-05-26T05:29:15Z |
-| back     | 1.75 |   5 |    17.68 | 2023-08-29T15:34:42Z |
+| back     | 1.75 |   6 |    30.83 | 2023-09-30T08:43:43Z |
 :END:
 
 Epistemic [[id:06b5c658-5513-4c18-a24d-9ed3fb4ad23b][Learned helplessness]]

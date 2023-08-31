@@ -2,7 +2,7 @@
 :ID:       753a3fe1-3576-4549-8a5d-a8c901f6a708
 :ROAM_REFS: [cite:@ContinuousFunction2023]
 :ROAM_ALIASES: "Discontinuous function"
-:LAST_MODIFIED: [2023-07-23 Sun 20:58]
+:LAST_MODIFIED: [2023-08-30 Wed 05:53]
 :END:
 #+title: Continuous function
 #+hugo_custom_front_matter: :slug "753a3fe1-3576-4549-8a5d-a8c901f6a708"
@@ -28,7 +28,7 @@ In mathematics, a continuous function is a function such that a continuous varia
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   315.46 | 2024-06-03T14:59:05Z |
-| back     | 2.65 |   6 |   118.31 | 2023-08-30T05:19:20Z |
+| back     | 2.65 |   7 |   334.71 | 2024-07-30T05:59:38Z |
 :END:
 
 [[id:753a3fe1-3576-4549-8a5d-a8c901f6a708][Continuous function]]

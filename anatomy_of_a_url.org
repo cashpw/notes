@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       56aebaa3-d4d6-4a06-98a2-186ed655d11e
-:LAST_MODIFIED: [2023-08-26 Sat 07:52]
+:LAST_MODIFIED: [2023-08-30 Wed 05:41]
 :END:
 #+title: Anatomy of a URL
 #+hugo_custom_front_matter: :slug "56aebaa3-d4d6-4a06-98a2-186ed655d11e"
@@ -166,7 +166,7 @@ Using =http://www.a.com:8080/b/c?d=e&f=g#h= as an example:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   165.41 | 2023-08-29T23:51:09Z |
+|        0 | 2.20 |   8 |   370.81 | 2024-09-04T08:05:27Z |
 |        1 | 2.35 |   7 |   234.25 | 2023-12-31T21:00:26Z |
 :END:
 *** Extra

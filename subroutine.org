@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3823c17c-f4f2-454e-ad97-52de55d239e9
-:LAST_MODIFIED: [2023-06-13 Tue 07:47]
+:LAST_MODIFIED: [2023-08-30 Wed 05:47]
 :ROAM_REFS: [cite:@FunctionComputerProgramming2023]
 :END:
 #+title: Subroutine
@@ -27,7 +27,7 @@ In computer programming, a function or subroutine is a sequence of program instr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |   119.82 | 2023-10-10T19:50:26Z |
-| back     | 2.35 |   6 |    77.74 | 2023-08-30T08:26:34Z |
+| back     | 2.35 |   7 |   195.31 | 2024-03-12T20:13:19Z |
 :END:
 
 In computer programming, a ... is a sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.

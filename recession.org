@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6be77fc0-00f0-4b41-b14a-380968182a0c
-:LAST_MODIFIED: [2023-08-29 Tue 08:05]
+:LAST_MODIFIED: [2023-08-30 Wed 05:47]
 :ROAM_REFS: [cite:@RecessionWhatItWhatCausesIt]
 :END:
 #+title: Recession
@@ -47,7 +47,7 @@ A ... is a significant, widespread, and prolonged downturn in economic activity.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    97.29 | 2023-08-30T03:20:43Z |
+|        0 | 2.50 |   7 |   260.53 | 2024-05-17T01:36:26Z |
 |        1 | 2.50 |   6 |    97.39 | 2023-09-15T01:03:36Z |
 :END:
 
