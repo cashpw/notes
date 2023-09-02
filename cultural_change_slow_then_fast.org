@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       00570dba-4371-445c-b5fd-d100828c79b0
 :ROAM_ALIASES: "Culture wars are long wars"
-:LAST_MODIFIED: [2023-05-01 Mon 16:26]
+:LAST_MODIFIED: [2023-08-31 Thu 11:34]
 :END:
 #+title: Cultural change; slow, then fast
 #+hugo_custom_front_matter: :slug "00570dba-4371-445c-b5fd-d100828c79b0"
@@ -30,7 +30,7 @@ Cultural changes are population and generational changes. People don't change th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   152.46 | 2023-08-31T03:06:14Z |
+| front    | 3.10 |   7 |   441.07 | 2024-11-14T20:12:55Z |
 | back     | 2.95 |   6 |   166.74 | 2023-10-15T17:08:48Z |
 :END:
 

@@ -2,7 +2,7 @@
 :ID:       5d0c9c41-219f-4330-b2e6-0ae5daaa5355
 :ROAM_REFS: [cite:@Composability2021]
 :ROAM_ALIASES: Composable
-:LAST_MODIFIED: [2023-08-21 Mon 05:54]
+:LAST_MODIFIED: [2023-08-31 Thu 11:31]
 :END:
 #+title: Composability
 #+hugo_custom_front_matter: :slug "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
@@ -55,7 +55,7 @@ A design principle relating to distinct, independent, units which can be assembl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   139.78 | 2023-08-31T07:33:04Z |
+|        0 | 2.35 |   8 |   311.08 | 2024-07-07T20:21:31Z |
 |        1 | 1.90 |   7 |    70.48 | 2023-10-07T02:45:15Z |
 :END:
 

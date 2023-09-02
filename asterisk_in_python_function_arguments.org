@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6
-:LAST_MODIFIED: [2023-08-30 Wed 05:44]
+:LAST_MODIFIED: [2023-09-01 Fri 07:29]
 :ROAM_ALIASES: "Asterisk in Python function invocations"
 :END:
 #+title: Asterisk in Python function arguments
@@ -114,7 +114,7 @@ print(foo(10, **kwargs))
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |   142.60 | 2023-10-01T05:36:50Z |
-| back     | 2.65 |   6 |   113.84 | 2023-08-25T18:09:40Z |
+| back     | 2.65 |   7 |   308.71 | 2024-07-06T07:26:02Z |
 :END:
 
 Single [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]]

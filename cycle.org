@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8775762c-d5aa-434d-9e89-0488841eb1ea
 :ROAM_REFS: [cite:@CycleGraphTheory2022]
-:LAST_MODIFIED: [2023-08-25 Fri 08:05]
+:LAST_MODIFIED: [2023-08-31 Thu 11:35]
 :END:
 #+title: Cycle (Graph theory)
 #+hugo_custom_front_matter: :slug "8775762c-d5aa-434d-9e89-0488841eb1ea"
@@ -60,7 +60,7 @@ A [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]] whose edges 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   184.61 | 2023-11-25T11:03:14Z |
-| back     | 2.80 |   6 |   151.22 | 2023-08-31T02:52:02Z |
+| back     | 2.65 |   7 |   385.99 | 2024-09-20T18:26:50Z |
 :END:
 
 [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]]

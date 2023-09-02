@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       772a02cc-f238-4f25-bc41-a584ac13c301
-:LAST_MODIFIED: [2023-08-30 Wed 05:48]
+:LAST_MODIFIED: [2023-09-01 Fri 07:27]
 :END:
 #+title: Permastore
 #+hugo_custom_front_matter: :slug "772a02cc-f238-4f25-bc41-a584ac13c301"
@@ -31,7 +31,7 @@ Bahrick posited the concept in [[doi:10.1037/0096-3445.113.1.1][Fifty years of m
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   306.97 | 2024-04-16T23:54:27Z |
-| back     | 2.65 |   2 |     2.00 | 2023-09-01T12:48:21Z |
+| back     | 2.65 |   3 |     6.00 | 2023-09-07T14:27:39Z |
 :END:
 
 [[id:772a02cc-f238-4f25-bc41-a584ac13c301][Permastore]]

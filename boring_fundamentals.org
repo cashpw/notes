@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       650501e5-3253-46a2-8795-cf09c86edf16
-:LAST_MODIFIED: [2023-05-26 Fri 07:34]
+:LAST_MODIFIED: [2023-09-01 Fri 07:21]
 :END:
 #+title: Boring fundamentals
 #+hugo_custom_front_matter: :slug "650501e5-3253-46a2-8795-cf09c86edf16"
@@ -17,6 +17,7 @@ For any endeavor, there are a set of basic skills needed to build a strong found
 
 [cite:@stuberMasterBoringFundamentals01BoringFun]
 #+end_quote
+
 * Flashcards
 ** Describe :fc:
 :PROPERTIES:
@@ -29,7 +30,7 @@ For any endeavor, there are a set of basic skills needed to build a strong found
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   310.32 | 2024-03-31T22:12:29Z |
-| back     | 2.95 |   6 |   169.69 | 2023-08-31T07:42:47Z |
+| back     | 2.95 |   7 |   530.44 | 2025-02-13T00:55:21Z |
 :END:
 
 [[id:650501e5-3253-46a2-8795-cf09c86edf16][Boring fundamentals]]

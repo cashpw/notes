@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ff1c07f-e015-4929-b119-8890ebbc312c
-:LAST_MODIFIED: [2023-08-19 Sat 16:32]
+:LAST_MODIFIED: [2023-09-01 Fri 07:19]
 :END:
 #+title: Chain rule
 #+hugo_custom_front_matter: :slug "0ff1c07f-e015-4929-b119-8890ebbc312c"
@@ -29,7 +29,7 @@ $h'=(f\circ g)'=(f'\circ g)\cdot g'$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   4 |    12.48 | 2023-09-01T10:57:35Z |
+| front    | 2.05 |   5 |    27.67 | 2023-09-29T06:25:54Z |
 | back     | 2.65 |   6 |   148.20 | 2023-10-04T21:32:33Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-08-30 Wed 05:42]
+:LAST_MODIFIED: [2023-09-01 Fri 07:21]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -105,7 +105,7 @@ auto [weight, age] = Foo();
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   4 |    12.25 | 2023-09-11T18:42:05Z |
-| back     |  2.5 |  -1 |        0 | 2023-05-04T23:26:53Z |
+| back     | 2.50 |   1 |     1.00 | 2023-09-02T14:21:57Z |
 :END:
 
 Bitwise left shift operator (C++)
@@ -157,7 +157,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   5 |    27.95 | 2023-09-03T13:29:09Z |
-| back     | 2.50 |   2 |     2.00 | 2023-08-30T12:49:32Z |
+| back     | 2.35 |   3 |     6.00 | 2023-09-06T18:32:46Z |
 :END:
 
 [[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Get-from operator]]

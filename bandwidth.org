@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d8a227fc-1de2-4dc8-bfc1-236ac1531f69
-:LAST_MODIFIED: [2023-08-05 Sat 08:43]
+:LAST_MODIFIED: [2023-09-01 Fri 07:23]
 :END:
 #+title: Bandwidth
 #+hugo_custom_front_matter: :slug "d8a227fc-1de2-4dc8-bfc1-236ac1531f69"
@@ -25,7 +25,7 @@ Maximum throughput of a logical or physical communication path.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   217.32 | 2024-03-09T23:25:48Z |
-| back     | 2.50 |   6 |    84.32 | 2023-09-01T00:09:10Z |
+| back     | 2.50 |   7 |   221.69 | 2024-04-10T06:53:05Z |
 :END:
 
 [[id:d8a227fc-1de2-4dc8-bfc1-236ac1531f69][Bandwidth]]

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       d199a4a8-c7cc-481e-9ccc-39bbe6fda8ee
+:LAST_MODIFIED: [2023-09-01 Fri 14:56]
+:ROAM_REFS: [cite:@BigFivePersonalityTraits2022]
+:END:
+#+title: Big five personality traits
+#+hugo_custom_front_matter: :slug "d199a4a8-c7cc-481e-9ccc-39bbe6fda8ee"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-01 Fri 14:55]
+#+filetags: :has_todo:concept:
+
+#+begin_quote
+The Big Five personality traits is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onward in psychological trait theory.
+
+Starting in the 1990s, the theory identified five factors by labels, for the US English population, typically referred to as:
+
+1. openness to experience (inventive/curious vs. consistent/cautious)
+1. conscientiousness (efficient/organized vs. extravagant/careless)
+1. extraversion (outgoing/energetic vs. solitary/reserved)
+1. agreeableness (friendly/compassionate vs. critical/rational)
+1. neuroticism (sensitive/nervous vs. resilient/confident)
+
+[cite:@BigFivePersonalityTraits2022]
+#+end_quote
+
+* TODO [#2] Flashcards
+#+print_bibliography:
