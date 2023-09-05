@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9ee639e1-b92d-4bdb-8d13-9c53e22bf945
 :ROAM_REFS: [cite:@ConnectivityGraphTheory2022]
-:LAST_MODIFIED: [2023-06-27 Tue 08:32]
+:LAST_MODIFIED: [2023-09-04 Mon 06:33]
 :END:
 #+title: Connectivity (Graph theory)
 #+hugo_custom_front_matter: :slug "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
@@ -81,7 +81,7 @@ A directed graph [[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] i
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   6 |   134.98 | 2023-09-13T23:12:01Z |
-|        1 | 2.80 |   6 |   116.44 | 2023-09-02T03:46:52Z |
+|        1 | 2.80 |   7 |   322.50 | 2024-07-23T01:31:24Z |
 :END:
 
 Two vertices, $u$ and $v$, in a graph, $G$, are {{connected}@0} when {{there exists a [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]] between $u$ and $v$}@1}.

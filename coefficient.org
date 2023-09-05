@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8163639a-02be-4d0e-9aad-b2f4c676f125
-:LAST_MODIFIED: [2023-04-06 Thu 15:34]
+:LAST_MODIFIED: [2023-09-04 Mon 06:27]
 :ROAM_REFS: [cite:@Coefficient2022]
 :END:
 #+title: Coefficient
@@ -29,7 +29,7 @@ For example, the polynomial $2x^{2}-x+3$ has coefficients 2, −1, and 3, and th
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |  11 |   253.24 | 2023-10-26T21:53:21Z |
-| front    | 2.05 |   7 |   148.06 | 2023-09-02T00:05:23Z |
+| front    | 2.05 |   8 |   289.81 | 2024-06-20T08:59:45Z |
 :END:
 
 Coefficient

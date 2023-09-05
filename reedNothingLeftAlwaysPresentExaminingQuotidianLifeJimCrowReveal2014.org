@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c7e3550b-e4a6-47a0-977d-ead533a97961
+:ROAM_REFS: @reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014
+:LAST_MODIFIED: [2023-09-04 Mon 06:35]
+:END:
+#+title: Notes on ,
+#+hugo_custom_front_matter: roam_refs '("@reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014")
+#+filetags: :has_todo:
+
+
+
+#+print_bibliography:
+* TODO [#2] Flashcards

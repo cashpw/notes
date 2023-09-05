@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3
 :ROAM_REFS: [cite:@SubsetSumProblem2023]
-:LAST_MODIFIED: [2023-08-09 Wed 17:40]
+:LAST_MODIFIED: [2023-09-04 Mon 06:34]
 :END:
 #+title: Subset sum problem
 #+hugo_custom_front_matter: :slug "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"
@@ -58,7 +58,7 @@ Starting from the initial state $(0, 0)$, it is possible to use any graph search
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   6 |   144.04 | 2023-09-20T15:35:53Z |
-| back     | 2.65 |   6 |   118.38 | 2023-09-04T02:20:50Z |
+| back     | 2.50 |   7 |   319.76 | 2024-07-20T07:43:54Z |
 :END:
 
 [[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum problem]]

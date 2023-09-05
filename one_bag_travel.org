@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       b2910eeb-51c9-44da-99fa-b852ef70e7e6
-:LAST_MODIFIED: [2023-08-29 Tue 07:42]
+:LAST_MODIFIED: [2023-09-04 Mon 16:41]
 :END:
 #+title: One-bag travel
 #+hugo_custom_front_matter: :slug "b2910eeb-51c9-44da-99fa-b852ef70e7e6"
 #+author: Cash Prokop-Weaver
 #+date: [2023-08-14 Mon 05:39]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 One-bag traveling is just that --- traveling with only a single bag. Everything you bring with, aside from what you wear on your person, should fit within that one bag. The bag is usually a backpack in the 20--40 liter range, though there are some who use much smaller bags (e.g. Jeremy Maluf who, as of 2023, [[https://jeremymaluf.com/onebag/][uses a 9 liter backpack]]). It's [[id:6c52974d-5e46-46fd-bbdf-ec3d842a7860][Minimalism]] applied to the things you bring with you on a trip.
 
@@ -24,6 +24,5 @@ Onebag travel is the best way to travel since it removes most of the pain points
 - [[id:545708ae-0765-4454-bb7b-11da616f0711][My one-bag packing list]]
 - [[reddit:r/onebag][r/onebag]]
 
-* TODO [#2] Flashcards
-
+* Flashcards
 #+print_bibliography:

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]
+:ID:       909fee0f-39cb-4c5b-871b-1193f4f20dc6
+:LAST_MODIFIED: [2023-09-04 Mon 17:22]
+:END:
+#+title: Robin M. Hogarth and Tomás Lejarraga and Emre Soyer | The Two Settings of Kind and Wicked Learning Environments
+#+hugo_custom_front_matter: :slug "909fee0f-39cb-4c5b-871b-1193f4f20dc6"
+#+author: Cash Weaver
+#+date: [2023-09-04 Mon 17:14]
+#+filetags: :reference:
+
+[[id:5bfe548f-860c-4fdd-aa3b-e8fb1dea9195][Robin Hogarth]], [cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]
+
+* Summary
+- [[id:da636d9e-c77c-41be-b109-b84a06c63713][Kind environemnt]]
+- [[id:27c588de-fa05-48cc-99c3-17c4e7689aad][Wicked environment]]
+* Thoughts
+* Notes
+** Abstract
+#+begin_quote
+Inference involves two settings: In the first, information is acquired (learning); in the second, it is applied (predictions or choices). Kind learning environments involve close matches between the informational elements in the two settings and are a necessary condition for accurate inferences. Wicked learning environments involve mismatches. This conceptual framework facilitates identifying sources of inferential errors and can be used, among other things, to suggest how to target corrective procedures. For example, structuring learning environments to be kind improves probabilistic judgments. Potentially, it could also enable economic agents to exhibit maximizing behavior.
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

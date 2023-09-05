@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@danskinAlwaysBiggerFish2019]
 :ID:       c0564758-b90d-42a6-be58-44d8985330ad
-:LAST_MODIFIED: [2023-09-01 Fri 07:27]
+:LAST_MODIFIED: [2023-09-04 Mon 10:56]
 :END:
 #+title: Ian Danskin | Always a Bigger Fish
 #+hugo_custom_front_matter: :slug "c0564758-b90d-42a6-be58-44d8985330ad"
@@ -165,7 +165,7 @@ Those at the top of the hierarchy have power over those lower in the hierarchy. 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   237.13 | 2024-02-17T20:28:45Z |
-| back     | 2.80 |   2 |     2.00 | 2023-09-03T14:27:14Z |
+| back     | 2.80 |   3 |     6.00 | 2023-09-10T17:56:21Z |
 :END:
 
 [[id:c0564758-b90d-42a6-be58-44d8985330ad][Ian Danskin | Always a Bigger Fish]]

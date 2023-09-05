@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9
-:LAST_MODIFIED: [2023-08-30 Wed 05:45]
+:LAST_MODIFIED: [2023-09-04 Mon 06:27]
 :END:
 #+title: Succinct data structure
 #+hugo_custom_front_matter: :slug "2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9"
@@ -28,7 +28,7 @@ In computer science, a succinct data structure is a data structure which uses an
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   3 |     6.00 | 2023-09-03T12:53:36Z |
+| back     | 1.30 |   4 |     7.87 | 2023-09-12T10:21:34Z |
 | front    | 1.30 |   7 |    20.02 | 2023-09-19T13:19:16Z |
 :END:
 [[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]

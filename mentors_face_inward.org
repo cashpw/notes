@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       40d6bbef-ec19-45e2-9fe2-bf6de3c8aded
 :DIR:      /home/cashweaver/proj/roam/attachments/40d6bbef-ec19-45e2-9fe2-bf6de3c8aded
-:LAST_MODIFIED: [2023-08-25 Fri 08:05]
+:LAST_MODIFIED: [2023-09-04 Mon 10:57]
 :END:
 #+title: Mentors face inward
 #+hugo_custom_front_matter: :slug "40d6bbef-ec19-45e2-9fe2-bf6de3c8aded"
@@ -45,7 +45,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   154.18 | 2023-09-18T20:06:53Z |
-| back     | 2.20 |   7 |   146.14 | 2023-09-02T19:03:48Z |
+| back     | 2.05 |   8 |   282.84 | 2024-06-13T14:03:58Z |
 :END:
 
 [[id:40d6bbef-ec19-45e2-9fe2-bf6de3c8aded][Mentors face inward]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       afffc2b8-0f87-4c45-814c-f0fc7b337339
 :ROAM_ALIASES: "NP (Complexity)" NP
-:LAST_MODIFIED: [2023-08-26 Sat 07:53]
+:LAST_MODIFIED: [2023-09-04 Mon 06:29]
 :ROAM_REFS: [cite:@NPComplexity2022]
 :END:
 #+title: Nondeterministic polynomial time
@@ -29,7 +29,7 @@ In computational complexity theory [[[id:235c1171-e8bd-4b52-820c-109f34a0bc80][C
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   142.98 | 2023-09-03T12:47:54Z |
+|        0 | 2.95 |   7 |   384.68 | 2024-09-23T05:47:23Z |
 |        1 | 2.05 |   7 |    95.98 | 2023-09-03T15:54:12Z |
 :END:
 

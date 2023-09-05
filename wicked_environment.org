@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       27c588de-fa05-48cc-99c3-17c4e7689aad
+:LAST_MODIFIED: [2023-09-04 Mon 17:22]
+:END:
+#+title: Wicked environment
+#+hugo_custom_front_matter: :slug "27c588de-fa05-48cc-99c3-17c4e7689aad"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-04 Mon 17:19]
+#+filetags: :concept:
+
+The lessons learned in a wicked environment *are not*, or at least not completely, useful for accurate application (predictions, choices, inferences, etc). Also see [[id:da636d9e-c77c-41be-b109-b84a06c63713][Kind environment]].
+
+#+begin_quote
+Inference involves two settings: In the first, information is acquired (learning); in the second, it is applied (predictions or choices). [...] Wicked learning environments involve mismatches.
+
+[cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-09-04 Mon 17:21]
+:FC_CREATED: 2023-09-05T00:22:13Z
+:FC_TYPE:  double
+:ID:       0d6b1799-2176-4c28-8002-f73d84d53026
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-05T00:22:13Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-12T00:22:13Z |
+:END:
+
+[[id:27c588de-fa05-48cc-99c3-17c4e7689aad][Wicked environment]]
+
+*** Back
+A learning environment in which lessons *don't* help in future applications.
+*** Source
+[cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]
+#+print_bibliography:

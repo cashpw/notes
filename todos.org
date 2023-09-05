@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
 :DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
-:LAST_MODIFIED: [2023-08-07 Mon 12:50]
+:LAST_MODIFIED: [2023-09-04 Mon 15:01]
 :END:
 #+title: Todos
 #+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
@@ -1380,4 +1380,14 @@ Fahrenheit to Celsius and back
 :PROPERTIES:
 :CREATED: [2023-08-07 Mon 12:49]
 :END:
+* TODO [#2] Digitize a crepe recipe
+:PROPERTIES:
+:CREATED: [2023-09-04 Mon 14:59]
+:END:
+* TODO [#2] Digitize kenji's red sauce recipe
+:PROPERTIES:
+:CREATED: [2023-09-04 Mon 14:59]
+:END:
+[cite:@lopez-altBestItalianAmericanTomatoSauceRecipe]
+
 #+print_bibliography:

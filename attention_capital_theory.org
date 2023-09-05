@@ -2,7 +2,7 @@
 :ID:       cd48945d-3cb1-46b1-a4ad-15fe89655d11
 :ROAM_ALIASES: "Attention capital theory"
 :ROAM_REFS: [cite:@AttentionEconomy2022]
-:LAST_MODIFIED: [2023-05-10 Wed 09:06]
+:LAST_MODIFIED: [2023-09-04 Mon 06:24]
 :END:
 #+title: Attention economy
 #+hugo_custom_front_matter: :slug "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
@@ -38,7 +38,7 @@ Related: [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   148.72 | 2023-09-04T07:34:15Z |
+| front    | 2.35 |   8 |   323.12 | 2024-07-23T16:12:37Z |
 | back     | 2.50 |   7 |   179.74 | 2023-11-06T09:50:57Z |
 :END:
 

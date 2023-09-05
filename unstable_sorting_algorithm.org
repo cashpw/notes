@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43
-:LAST_MODIFIED: [2023-08-23 Wed 09:44]
+:LAST_MODIFIED: [2023-09-04 Mon 06:25]
 :END:
 #+title: Unstable sorting algorithm
 #+hugo_custom_front_matter: :slug "3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43"
@@ -46,7 +46,7 @@ A type of algorithm which *doesn't* sort equal elements in the same order that t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   7 |   216.77 | 2023-09-02T11:17:15Z |
+| front    | 2.95 |   8 |   644.02 | 2025-06-09T13:52:08Z |
 | back     | 2.50 |   8 |   430.81 | 2024-10-27T12:10:09Z |
 :END:
 [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]

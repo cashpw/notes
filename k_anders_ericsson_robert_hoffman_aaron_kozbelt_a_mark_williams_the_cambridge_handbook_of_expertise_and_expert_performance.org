@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ericssonCambridgeHandbookExpertiseExpertPerformance2018]
 :ID:       600cf4b0-d40a-4b94-b454-a362870c9562
-:LAST_MODIFIED: [2023-07-30 Sun 08:12]
+:LAST_MODIFIED: [2023-09-04 Mon 16:56]
 :END:
 #+title: K. Anders Ericsson, Robert Hoffman, Aaron Kozbelt, A. Mark Williams | The Cambridge Handbook of Expertise and Expert Performance
 #+hugo_custom_front_matter: :slug "600cf4b0-d40a-4b94-b454-a362870c9562"
@@ -11,8 +11,8 @@
 
 TODO_AUTHOR, [cite:@ericssonCambridgeHandbookExpertiseExpertPerformance2018]
 
-* TODO [#2] Summary
-* TODO [#2] Thoughts
-* INPROGRESS Notes
-* TODO [#2] Flashcards
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
+* TODO [#4] Flashcards
 #+print_bibliography:

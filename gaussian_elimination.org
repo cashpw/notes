@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b59377a2-c3af-4647-b74b-2c38bd4f8c7a
 :ROAM_REFS: [cite:@GaussianElimination2022]
-:LAST_MODIFIED: [2023-08-21 Mon 05:58]
+:LAST_MODIFIED: [2023-09-04 Mon 10:58]
 :END:
 #+title: Gaussian elimination
 #+hugo_custom_front_matter: :slug "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"
@@ -33,7 +33,7 @@ To perform row reduction on a matrix, one uses a sequence of elementary row oper
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   9 |   626.12 | 2025-05-08T15:46:17Z |
-| back     | 2.50 |   8 |   240.92 | 2023-09-03T13:16:02Z |
+| back     | 2.35 |   9 |   588.19 | 2025-04-14T22:27:10Z |
 :END:
 
 [[id:b59377a2-c3af-4647-b74b-2c38bd4f8c7a][Gaussian elimination]]

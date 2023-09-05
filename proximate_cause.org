@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b17c08ec-80de-45e5-8a8e-529b0f31142c
-:LAST_MODIFIED: [2023-07-10 Mon 08:37]
+:LAST_MODIFIED: [2023-09-04 Mon 06:29]
 :END:
 #+title: Proximate cause
 #+hugo_custom_front_matter: :slug "b17c08ec-80de-45e5-8a8e-529b0f31142c"
@@ -67,7 +67,7 @@ A cause for an event which is closest to, or immediately responsible for, some o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   148.27 | 2023-09-02T05:07:56Z |
+| front    | 2.95 |   7 |   414.77 | 2024-10-23T08:00:46Z |
 :END:
 
 [[https://en.wikipedia.org/wiki/Costa_Concordia][Costa Concordia]] in terms of [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]] and [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]

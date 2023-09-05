@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44890929-fa24-4a69-b261-04107a005903
-:LAST_MODIFIED: [2023-08-20 Sun 08:57]
+:LAST_MODIFIED: [2023-09-04 Mon 06:29]
 :ROAM_REFS: [cite:@LoadBalancingComputing2023]
 :ROAM_ALIASES: "Load balancer"
 :END:
@@ -43,7 +43,7 @@ One basic solution to the session data issue is to send all requests in a user s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    87.44 | 2023-09-02T01:03:00Z |
+| front    | 2.50 |   7 |   216.71 | 2024-04-08T06:34:07Z |
 | back     | 1.90 |   7 |    79.18 | 2023-11-07T20:15:45Z |
 :END:
 

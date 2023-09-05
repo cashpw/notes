@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-08-31 Thu 11:44]
+:LAST_MODIFIED: [2023-09-04 Mon 09:43]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -82,7 +82,7 @@ Well-known probe sequences include:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.95 |   8 |   290.62 | 2023-12-04T18:26:24Z |
-| front    | 2.65 |   7 |   220.98 | 2023-09-03T16:16:21Z |
+| front    | 2.65 |   8 |   629.58 | 2025-05-26T06:36:16Z |
 :END:
 [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]
 *** Back

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-01 Fri 07:30]
+:LAST_MODIFIED: [2023-09-04 Mon 06:25]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -860,7 +860,7 @@ $\hat{Y} = \hat{f}(x) = \hat{\beta_0} + \hat{\beta_1}x$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  16 |   247.18 | 2023-10-05T18:55:53Z |
-| front    | 1.60 |   1 |     1.00 | 2023-09-02T14:30:38Z |
+| front    | 1.60 |   2 |     2.00 | 2023-09-06T13:25:12Z |
 :END:
 
 Standard error
