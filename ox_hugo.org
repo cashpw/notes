@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       5b40598c-308f-429d-8a0a-9c72bc1653f3
 :ROAM_REFS: [cite:@modiOxHugoCarefullyCraftedOrgExporterBackendHugo2022]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: ox-hugo
 #+hugo_custom_front_matter: :slug "5b40598c-308f-429d-8a0a-9c72bc1653f3"

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4c7bf5db-dc29-44a1-bb77-36d560b38688
-:LAST_MODIFIED: [2023-06-03 Sat 21:28]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Skewed binary tree
 #+hugo_custom_front_matter: :slug "4c7bf5db-dc29-44a1-bb77-36d560b38688"

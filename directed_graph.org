@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       129f1b92-49f6-44af-bae3-d8a171f66f04
-:LAST_MODIFIED: [2023-08-29 Tue 08:07]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Directed graph
 #+hugo_custom_front_matter: :slug "129f1b92-49f6-44af-bae3-d8a171f66f04"

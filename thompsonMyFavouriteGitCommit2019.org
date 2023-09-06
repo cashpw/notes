@@ -2,6 +2,7 @@
 :ROAM_REFS: [cite:@thompsonMyFavouriteGitCommit2019]
 :ID:       ffc0d2f1-9a41-4562-8625-a669a5110836
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ffc0d2f1-9a41-4562-8625-a669a5110836
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: David Thompson | My Favourite Git Commit
 #+hugo_custom_front_matter: :slug "ffc0d2f1-9a41-4562-8625-a669a5110836"

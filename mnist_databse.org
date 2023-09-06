@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       97aadd62-8fb1-4670-a675-c5d591bfe6a1
 :ROAM_REFS: [cite:@MNISTDatabase2022]
-:LAST_MODIFIED: [2023-03-26 Sun 06:29]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: MNIST databse
 #+hugo_custom_front_matter: :slug "97aadd62-8fb1-4670-a675-c5d591bfe6a1"

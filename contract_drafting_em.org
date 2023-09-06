@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       88994b1c-a571-44ba-a667-ad0c07011ba2
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Contract Drafting Em
 #+hugo_custom_front_matter: :slug "88994b1c-a571-44ba-a667-ad0c07011ba2"
@@ -71,5 +72,4 @@ To service my employers!
 :ANKI_DECK: Default
 :END:
 
-#+print_bibliography:
 #+print_bibliography:

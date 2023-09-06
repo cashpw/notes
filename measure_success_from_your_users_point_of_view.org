@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4636301f-4c54-4fb9-a475-87791566f56f
-:LAST_MODIFIED: [2023-06-05 Mon 20:17]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Measure success from your users' point of view
 #+hugo_custom_front_matter: :slug "4636301f-4c54-4fb9-a475-87791566f56f"
@@ -13,5 +13,5 @@ Mohit Suley, an engineering manager and former principal engineer at Microsoft, 
 
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 #+end_quote
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

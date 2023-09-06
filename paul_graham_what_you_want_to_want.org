@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@grahamWhatYouWantWant]
 :ID:       6e6aa331-8dbf-4751-a896-ca5fc6c7128b
-:LAST_MODIFIED: [2023-05-25 Thu 07:09]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Paul Graham | What You (Want to)* Want
 #+hugo_custom_front_matter: :slug "6e6aa331-8dbf-4751-a896-ca5fc6c7128b"
@@ -27,7 +27,6 @@ So we modify our initial statement: You can do what you want, but you can't want
 That's still not quite true. It's possible to change what you want to want. I can imagine someone saying "I decided to stop wanting to like classical music." But we're getting closer to the truth. It's rare for people to change what they want to want, and the more "want to"s we add, the rarer it gets.
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** Describe :fc:
 :PROPERTIES:

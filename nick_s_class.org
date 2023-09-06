@@ -2,7 +2,7 @@
 :ID:       1a499a31-7ecb-4f80-95a5-22d748a0c634
 :ROAM_REFS: [cite:@NCComplexity2022]
 :ROAM_ALIASES: "NC (Complexity)"
-:LAST_MODIFIED: [2023-08-29 Tue 08:13]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Nick's class
 #+hugo_custom_front_matter: :slug "1a499a31-7ecb-4f80-95a5-22d748a0c634"

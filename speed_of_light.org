@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e20ac0c6-f1ba-420d-9afb-c9f031264a2b
 :ROAM_REFS: [cite:@SpeedLight2023]
-:LAST_MODIFIED: [2023-07-17 Mon 06:54]
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :END:
 #+title: Speed of light
 #+hugo_custom_front_matter: :slug "e20ac0c6-f1ba-420d-9afb-c9f031264a2b"
@@ -14,7 +14,6 @@ The speed of light in vacuum, commonly denoted $c$, is a universal physical cons
 
 [cite:@SpeedLight2023]
 #+end_quote
-#+print_bibliography:
 * Flashcards
 ** Cloze :fc:
 :PROPERTIES:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       023c4857-9ecc-48a8-81b6-4738bab59a4c
 :ROAM_ALIASES: "HTTP Cookie"
-:LAST_MODIFIED: [2023-08-31 Thu 11:34]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: HTTP Cookies
 #+hugo_custom_front_matter: :slug "023c4857-9ecc-48a8-81b6-4738bab59a4c"

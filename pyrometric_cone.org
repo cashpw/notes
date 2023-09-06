@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       36a89fad-7e34-47eb-b8ec-555c2832abbf
-:LAST_MODIFIED: [2023-06-28 Wed 10:21]
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :END:
 #+title: Pyrometric cone
 #+hugo_custom_front_matter: :slug "36a89fad-7e34-47eb-b8ec-555c2832abbf"
@@ -14,7 +14,6 @@ Pyrometric cones are pyrometric devices that are used to gauge [[id:68b68eba-1b4
 [cite:@PyrometricCone2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** {{[[id:36a89fad-7e34-47eb-b8ec-555c2832abbf][Pyrometric cones]]}@0} gauge {{[[id:68b68eba-1b4b-4fe2-9d8d-334fdbf0802f][Heatwork]]}@1} during the firing of ceramic materials. :fc:
 :PROPERTIES:

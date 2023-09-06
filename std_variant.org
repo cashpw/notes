@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8
-:LAST_MODIFIED: [2023-07-31 Mon 18:25]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :ROAM_REFS: [cite:@StdVariant]
 :END:
 #+title: std::variant

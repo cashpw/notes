@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f85a49e5-6718-4da8-b325-22b23a44985f
 :ROAM_ALIASES: RPC
-:LAST_MODIFIED: [2023-06-14 Wed 17:40]
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :ROAM_REFS: [cite:@RemoteProcedureCall2023]
 :END:
 #+title: Remote procedure call

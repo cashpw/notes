@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bc7c3e81-4498-43dd-9f65-b2c0e0cbf521
 :ROAM_REFS: [cite:@SymmetricRelation2022]
-:LAST_MODIFIED: [2023-03-11 Sat 16:33]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Symmetric relation
 #+hugo_custom_front_matter: :slug "bc7c3e81-4498-43dd-9f65-b2c0e0cbf521"
@@ -27,7 +27,7 @@ Formally, a binary relation R over a set X is symmetric if: $\forall a,b \in X(a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   8 |   374.75 | 2024-03-19T23:23:47Z |
-| front    | 2.30 |   7 |   177.24 | 2023-09-05T06:14:15Z |
+| front    | 2.30 |   8 |   414.19 | 2024-10-23T19:58:48Z |
 :END:
 
 [[id:bc7c3e81-4498-43dd-9f65-b2c0e0cbf521][Symmetric relation]]

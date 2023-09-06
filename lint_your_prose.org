@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       6a5b1ddb-40c7-424a-9a57-68afbf45a9d5
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Lint your prose
 #+hugo_custom_front_matter: :slug "6a5b1ddb-40c7-424a-9a57-68afbf45a9d5"

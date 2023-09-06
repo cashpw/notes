@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       fccbc741-2373-47c3-9d41-a04fb0ce9b66
 :ROAM_REFS: [cite:@NotaBene2022]
-:LAST_MODIFIED: [2023-08-27 Sun 06:40]
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: Nota bene
 #+hugo_custom_front_matter: :slug "fccbc741-2373-47c3-9d41-a04fb0ce9b66"
@@ -27,7 +27,7 @@ Nota bene is a Latin [[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]] phrase
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   440.33 | 2024-11-09T21:33:55Z |
-| back     | 2.95 |   6 |   149.36 | 2023-09-04T23:38:11Z |
+| back     | 2.95 |   7 |   422.16 | 2024-10-31T19:17:03Z |
 :END:
 
 n.b.

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       983095a2-2f92-46a9-868b-c79fa11fbcbb
 :ROAM_REFS: [cite:@DoomEmacs2022]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Doom Emacs
 #+hugo_custom_front_matter: :slug "983095a2-2f92-46a9-868b-c79fa11fbcbb"

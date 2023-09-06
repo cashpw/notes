@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@jungEfficientPathComputationModelHierarchicallyStructuredTopographicalRoadMaps2002]
 :ID:       b84e42d0-8673-4fec-8eb1-3d1a820265cd
-:LAST_MODIFIED: [2023-06-27 Tue 15:46]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Sungwon Jung, S. Pramanik | An Efficient Path Computation Model for Hierarchically Structured Topographical Road Maps
 #+hugo_custom_front_matter: :slug "b84e42d0-8673-4fec-8eb1-3d1a820265cd"

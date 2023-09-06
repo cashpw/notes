@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
-:LAST_MODIFIED: [2023-08-21 Mon 05:43]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Complete binary tree
 #+hugo_custom_front_matter: :slug "cce89d10-ff69-4756-b9fa-9b713b4cb33b"

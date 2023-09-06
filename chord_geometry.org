@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a5084eae-a2c4-4b9a-b827-6ae594960035
-:LAST_MODIFIED: [2023-08-26 Sat 07:53]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :ROAM_REFS: [cite:@ChordGeometry2023]
 :END:
 #+title: Chord (Geometry)
@@ -35,7 +35,7 @@ The red segment BX is a chord (as is the diameter segment AB).
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   302.02 | 2024-06-23T15:26:52Z |
-| back     | 2.80 |   6 |   122.91 | 2023-09-04T14:55:05Z |
+| back     | 2.50 |   1 |     1.00 | 2023-09-06T15:31:22Z |
 :END:
 
 [[id:a5084eae-a2c4-4b9a-b827-6ae594960035][Chord (Geometry)]]

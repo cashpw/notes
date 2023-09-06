@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0d69fc06-1179-402b-8231-922986e486fc
-:LAST_MODIFIED: [2023-05-20 Sat 17:37]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Trigonometry
 #+hugo_custom_front_matter: :slug "0d69fc06-1179-402b-8231-922986e486fc"
@@ -14,7 +14,6 @@ Trigonometry (from Ancient Greek τρίγωνον (trígōnon) 'triangle', and �
 [cite:@Trigonometry2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** Definition :fc:
 :PROPERTIES:

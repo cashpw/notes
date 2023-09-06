@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@fournierIncompleteListSkillsSeniorEngineersNeedCoding2021]
 :ID:       9f7ed9dc-46f1-4f12-a87e-cd03005c06dd
-:LAST_MODIFIED: [2023-03-20 Mon 09:44]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Camille Fournier | An Incomplete List of Skills Senior Engineers Need, beyond Coding
 #+hugo_custom_front_matter: :slug "9f7ed9dc-46f1-4f12-a87e-cd03005c06dd"
@@ -42,6 +42,5 @@ For varying levels of seniority, from senior, to staff, and beyond.
 22. How to tell someone they're wrong without making them feel ashamed
 23. How to take negative feedback gracefully
 #+end_quote
-#+print_bibliography:
 * Flashcards
 #+print_bibliography:

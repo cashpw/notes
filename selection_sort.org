@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f8918bbe-8164-4105-8489-2f74fd10df6d
 :ROAM_REFS: [cite:@SelectionSort2022]
-:LAST_MODIFIED: [2023-07-06 Thu 07:39]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: Selection sort
 #+hugo_custom_front_matter: :slug "f8918bbe-8164-4105-8489-2f74fd10df6d"

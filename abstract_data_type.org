@@ -2,7 +2,7 @@
 :ID:       2eae74ba-4003-45cf-8425-7291aaa7a537
 :ROAM_ALIASES: "Abstract data types" ADT
 :ROAM_REFS: [cite:@AbstractDataType2022]
-:LAST_MODIFIED: [2023-09-04 Mon 10:56]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: Abstract data type
 #+hugo_custom_front_matter: :slug "2eae74ba-4003-45cf-8425-7291aaa7a537"

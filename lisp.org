@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f6e9082b-3589-448a-9877-b9a2b31d88ba
-:LAST_MODIFIED: [2023-05-24 Wed 13:29]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Lisp
 #+hugo_custom_front_matter: :slug "f6e9082b-3589-448a-9877-b9a2b31d88ba"

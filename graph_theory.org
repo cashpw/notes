@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       5bc61709-6612-4287-921f-3e2509bd2261
 :ROAM_REFS: [cite:@GraphTheory2022]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Graph theory
 #+hugo_custom_front_matter: :slug "5bc61709-6612-4287-921f-3e2509bd2261"

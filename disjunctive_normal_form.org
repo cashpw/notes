@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed008224-2505-48a1-a322-7a410fbf7168
-:LAST_MODIFIED: [2023-08-23 Wed 09:40]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :ROAM_REFS: [cite:@DisjunctiveNormalForm2023]
 :END:
 #+title: Disjunctive normal form
@@ -29,7 +29,7 @@ In boolean logic, a disjunctive normal form (DNF) is a canonical normal form of 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 1.60 |   5 |    15.62 | 2023-09-06T03:41:48Z |
-|        1 | 2.20 |   4 |    12.44 | 2023-09-05T03:19:24Z |
+|        1 | 2.20 |   5 |    29.31 | 2023-10-04T22:57:16Z |
 :END:
 
 {{[[id:ed008224-2505-48a1-a322-7a410fbf7168][Disjunctive normal form]]}@1}

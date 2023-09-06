@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       09208dbb-8043-4ef2-ac56-be944afb1dfa
 :ROAM_REFS: [cite:@SquareMatrix2021]
-:LAST_MODIFIED: [2023-06-04 Sun 17:05]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Square matrix
 #+hugo_custom_front_matter: :slug "09208dbb-8043-4ef2-ac56-be944afb1dfa"

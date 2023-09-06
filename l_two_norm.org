@@ -2,7 +2,7 @@
 :ID:       a5079f3d-9926-4de1-8b60-5d5e64396a01
 :ROAM_ALIASES: "Euclidian norm"
 :ROAM_REFS: [cite:@EuclideanSpace2022]
-:LAST_MODIFIED: [2023-08-29 Tue 08:06]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: L-two norm
 #+hugo_custom_front_matter: :slug "a5079f3d-9926-4de1-8b60-5d5e64396a01"

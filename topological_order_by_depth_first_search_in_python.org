@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2c232805-4cb3-47ba-8f89-d9090f29f740
-:LAST_MODIFIED: [2023-06-26 Mon 09:10]
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :END:
 #+title: Topological order by Depth-first search in Python
 #+hugo_custom_front_matter: :slug "2c232805-4cb3-47ba-8f89-d9090f29f740"

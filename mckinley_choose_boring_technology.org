@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ChooseBoringTechnology] [cite:@mckinleyChooseBoringTechnology]
 :ID:       ffc17a16-4fd4-436f-ba8a-fcb9db62f150
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: Dan McKinley | Choose Boring Technology
 #+hugo_custom_front_matter: :slug "ffc17a16-4fd4-436f-ba8a-fcb9db62f150"

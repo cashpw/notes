@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SpeculativeEvolution2022]
 :ID:       6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55
-:LAST_MODIFIED: [2023-06-09 Fri 08:33]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Speculative evolution
 #+hugo_custom_front_matter: :slug "6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55"
@@ -32,7 +32,7 @@ Related:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   350.22 | 2024-05-24T20:55:16Z |
-| back     | 2.35 |   7 |   150.75 | 2023-09-04T14:35:11Z |
+| back     | 2.35 |   8 |   387.34 | 2024-09-26T23:37:41Z |
 :END:
 
 [[id:6b97cba3-9e4f-4c00-9359-2d3c1f5b1d55][Speculative evolution]]

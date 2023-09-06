@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4ab64054-a7a8-432e-bd5b-da1d8a01ae16
 :ROAM_REFS: [cite:@UnixPhilosophy2022]
-:LAST_MODIFIED: [2023-05-24 Wed 13:29]
+:LAST_MODIFIED: [2023-09-05 Tue 20:22]
 :END:
 #+title: Unix philosophy
 #+hugo_custom_front_matter: :slug "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"

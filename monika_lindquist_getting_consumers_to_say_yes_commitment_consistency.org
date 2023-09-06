@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 :ID:       ffc578c6-bf15-4d7f-816a-175206fc9e42
-:LAST_MODIFIED: [2023-07-05 Wed 21:15]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Monika Lindquist | Getting Consumers To Say Yes: Commitment Consistency
 #+hugo_custom_front_matter: :slug "ffc578c6-bf15-4d7f-816a-175206fc9e42"
@@ -14,7 +14,6 @@ TODO_AUTHOR, [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 * TODO [#3] Summary
 * TODO [#3] Thoughts
 * TODO [#3] Notes
-#+print_bibliography:
 * TODO [#3] Flashcards
 ** Definition (Psychology) :fc:
 :PROPERTIES:

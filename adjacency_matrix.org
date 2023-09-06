@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       61ab086c-842c-4d34-8c96-99cb9b80293f
 :ROAM_REFS: [cite:@AdjacencyMatrix2022]
-:LAST_MODIFIED: [2023-06-11 Sun 10:17]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Adjacency matrix
 #+hugo_custom_front_matter: :slug "61ab086c-842c-4d34-8c96-99cb9b80293f"

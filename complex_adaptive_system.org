@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b9f6f0e9-09e2-4acc-968d-ecefa2cc6ca1
 :ROAM_REFS: [cite:@ComplexAdaptiveSystem2023]
-:LAST_MODIFIED: [2023-04-06 Thu 21:00]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Complex adaptive system
 #+hugo_custom_front_matter: :slug "b9f6f0e9-09e2-4acc-968d-ecefa2cc6ca1"
@@ -10,6 +10,6 @@
 #+filetags: :has_todo:concept:
 
 * TODO [#2] :noexport:
-#+print_bibliography:
 
 * TODO [#2] Flashcards
+#+print_bibliography:

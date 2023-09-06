@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       86c3b62f-4766-4c76-856b-bebe9fe6d125
-:LAST_MODIFIED: [2023-09-04 Mon 10:59]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Height-balanced binary tree
 #+hugo_custom_front_matter: :slug "86c3b62f-4766-4c76-856b-bebe9fe6d125"

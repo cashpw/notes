@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       8f61e9e6-4f19-4a64-b392-185062df45a0
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Email in emacs
 #+hugo_custom_front_matter: :slug "8f61e9e6-4f19-4a64-b392-185062df45a0"

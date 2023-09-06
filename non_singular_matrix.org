@@ -2,7 +2,7 @@
 :ID:       d0894b60-0827-4644-9d21-f6ae9c9e5041
 :ROAM_ALIASES: "Invertible matrix" "Non-degenerate matrix"
 :ROAM_REFS: [cite:@InvertibleMatrix2022]
-:LAST_MODIFIED: [2023-08-08 Tue 08:18]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Non-singular matrix
 #+hugo_custom_front_matter: :slug "d0894b60-0827-4644-9d21-f6ae9c9e5041"

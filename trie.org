@@ -2,7 +2,7 @@
 :ID:       5b235c79-d75b-4e4e-808a-b43f532b6226
 :ROAM_ALIASES: "Prefix trie" "Prefix tree"
 :ROAM_REFS: [cite:@Trie2022]
-:LAST_MODIFIED: [2023-08-29 Tue 08:06]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Trie
 #+hugo_custom_front_matter: :slug "5b235c79-d75b-4e4e-808a-b43f532b6226"

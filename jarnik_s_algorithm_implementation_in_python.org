@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       575409bd-1bb2-45c0-84a3-63abaa4b899b
-:LAST_MODIFIED: [2023-08-06 Sun 07:41]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Jarnik's algorithm implementation in Python
 #+hugo_custom_front_matter: :slug "575409bd-1bb2-45c0-84a3-63abaa4b899b"

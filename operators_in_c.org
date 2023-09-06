@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-09-04 Mon 10:59]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -8,6 +8,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2023-05-04 Thu 16:20]
 #+filetags: :has_todo:concept:
+
 * =>>= and =<<=
 :PROPERTIES:
 :ID:       3eb13661-f8fc-4e19-9736-f5569efdf854
@@ -483,7 +484,7 @@ void sort(const std::vector<double>& numbers);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.65 | 2023-08-20T07:19:39Z |
+| front    | 2.50 |   5 |    34.03 | 2023-10-09T16:00:24Z |
 :END:
 
 - [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]] (C++)

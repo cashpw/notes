@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0bd96e38-6a09-4053-b5e8-cf707b03a3e5
 :ROAM_REFS: [cite:@CacheComputing2023]
-:LAST_MODIFIED: [2023-09-04 Mon 10:56]
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :END:
 #+title: Cache
 #+hugo_custom_front_matter: :slug "0bd96e38-6a09-4053-b5e8-cf707b03a3e5"

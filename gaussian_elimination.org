@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b59377a2-c3af-4647-b74b-2c38bd4f8c7a
 :ROAM_REFS: [cite:@GaussianElimination2022]
-:LAST_MODIFIED: [2023-09-04 Mon 10:58]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Gaussian elimination
 #+hugo_custom_front_matter: :slug "b59377a2-c3af-4647-b74b-2c38bd4f8c7a"

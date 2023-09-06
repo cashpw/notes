@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d07feb80-ce1c-499b-9f5e-2ad364e79316
-:LAST_MODIFIED: [2023-02-16 Thu 19:50]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Y combinator
 #+hugo_custom_front_matter: :slug "d07feb80-ce1c-499b-9f5e-2ad364e79316"

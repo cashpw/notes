@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@hefferonLinearAlgebra2020]
 :ID:       f62d92d7-7151-46f1-a3e8-bb06cc72f02b
-:LAST_MODIFIED: [2023-06-17 Sat 21:04]
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: Jim Hefferon | Linear Algebra
 #+hugo_custom_front_matter: :slug "f62d92d7-7151-46f1-a3e8-bb06cc72f02b"

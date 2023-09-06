@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       96f5c67c-bfb2-4089-b80e-7fd70e194778
-:LAST_MODIFIED: [2023-05-03 Wed 15:15]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :ROAM_REFS: [cite:@ProgrammingParadigm2023]
 :END:
 #+title: Programming paradigm
@@ -29,5 +29,4 @@ Some common programming paradigms are,
 #+end_quote
 
 * Flashcards
-#+print_bibliography:
 #+print_bibliography:

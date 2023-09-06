@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@leungPythonLanguageCompanionIntroductionAppliedLinearAlgebraVectorsMatricesLeast2019]
 :ID:       2a445fab-e52e-4402-af16-3c67f29be582
-:LAST_MODIFIED: [2023-06-18 Sun 07:28]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Jessica Leung, Dmytro Matsypura | Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares
 #+hugo_custom_front_matter: :slug "2a445fab-e52e-4402-af16-3c67f29be582"

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d46b30b9-7aca-4b2b-8d08-bd22bdb63394
 :ROAM_REFS: [cite:@ConwayLaw2022]
-:LAST_MODIFIED: [2023-06-26 Mon 09:21]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Conway's law
 #+hugo_custom_front_matter: :slug "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"

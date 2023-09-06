@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
 :ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
-:LAST_MODIFIED: [2023-07-26 Wed 07:39]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: IEEE 754
 #+hugo_custom_front_matter: :slug "23e97230-9b73-4232-a76e-a1223b9bb70e"

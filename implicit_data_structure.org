@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       650f4577-c1ec-46c9-b7a6-af8d90756bcd
 :ROAM_ALIASES: "Space-efficient data structure"
-:LAST_MODIFIED: [2023-08-30 Wed 05:52]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Implicit data structure
 #+hugo_custom_front_matter: :slug "650f4577-c1ec-46c9-b7a6-af8d90756bcd"

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ffec0117-bbea-4197-865c-112e417c8f1d
-:LAST_MODIFIED: [2023-03-21 Tue 10:18]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Quickselect implementation in Python
 #+hugo_custom_front_matter: :slug "ffec0117-bbea-4197-865c-112e417c8f1d"

@@ -2,7 +2,7 @@
 :ID:       2e340461-20cb-4d63-afdb-cac74fbea013
 :ROAM_ALIASES: "DJP algorithm" "Prim's algorithm"
 :ROAM_REFS: [cite:@PrimAlgorithm2022]
-:LAST_MODIFIED: [2023-08-29 Tue 08:02]
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: Jarnik's algorithm
 #+hugo_custom_front_matter: :slug "2e340461-20cb-4d63-afdb-cac74fbea013"

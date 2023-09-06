@@ -2,7 +2,7 @@
 :ID:       4a246de2-16ae-4fa6-abaa-7cfb533eccdb
 :ROAM_ALIASES: "Sliding window"
 :ROAM_REFS: [cite:@Convolution2022]
-:LAST_MODIFIED: [2023-09-04 Mon 10:58]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Convolution
 #+hugo_custom_front_matter: :slug "4a246de2-16ae-4fa6-abaa-7cfb533eccdb"

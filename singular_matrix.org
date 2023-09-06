@@ -2,7 +2,7 @@
 :ID:       9a804f64-5cb5-4ead-911f-f3c87eedb369
 :ROAM_ALIASES: "Non-invertible matrix" "Degenerate matrix"
 :ROAM_REFS: [cite:@InvertibleMatrix2022]
-:LAST_MODIFIED: [2023-08-21 Mon 06:27]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Singular matrix
 #+hugo_custom_front_matter: :slug "9a804f64-5cb5-4ead-911f-f3c87eedb369"

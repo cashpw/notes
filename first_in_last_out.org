@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       21c0c229-16c5-4eb8-bd12-e1947c5c47f3
 :ROAM_ALIASES: LIFO "First in, last out" FILO
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: Last in, first out
 #+hugo_custom_front_matter: :slug "21c0c229-16c5-4eb8-bd12-e1947c5c47f3"

@@ -2,7 +2,7 @@
 :ID:       fe0a27cf-4e5d-4f3f-a291-6b886524b002
 :ROAM_ALIASES: "Global service load balancing" "Global server load balancing" GSLB "Global server load balancer"
 :ROAM_REFS: [cite:@WhatGlobalServerLoadBalancingGSLB]
-:LAST_MODIFIED: [2023-08-28 Mon 05:46]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Global service load balancer
 #+hugo_custom_front_matter: :slug "fe0a27cf-4e5d-4f3f-a291-6b886524b002"

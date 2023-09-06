@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6bc266e-1090-492f-bdba-f044e04db3ff
-:LAST_MODIFIED: [2023-07-23 Sun 21:00]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Bubble sort
 #+hugo_custom_front_matter: :slug "c6bc266e-1090-492f-bdba-f044e04db3ff"

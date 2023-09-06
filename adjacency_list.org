@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a95ec6df-303d-4a07-a9bd-ac6e4b807679
 :ROAM_REFS: [cite:@AdjacencyList2022]
-:LAST_MODIFIED: [2023-08-08 Tue 08:18]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: Adjacency list
 #+hugo_custom_front_matter: :slug "a95ec6df-303d-4a07-a9bd-ac6e4b807679"

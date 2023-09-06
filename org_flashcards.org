@@ -2,6 +2,7 @@
 :ID:       4be26817-4ffd-4975-97aa-deda536235a5
 :ROAM_ALIASES: org-fc
 :ROAM_REFS: [cite:@leonOrgFlashcards2022]
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :END:
 #+title: Org flashcards
 #+hugo_custom_front_matter: :slug "4be26817-4ffd-4975-97aa-deda536235a5"

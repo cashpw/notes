@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinHowUseYouTubeLearnTacitKnowledge2020]
 :ID:       03073c64-f73f-41cf-a961-052d0648740e
-:LAST_MODIFIED: [2023-08-04 Fri 21:59]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Cedric Chin | How to Use YouTube to Learn Tacit Knowledge
 #+hugo_custom_front_matter: :slug "03073c64-f73f-41cf-a961-052d0648740e"
@@ -14,5 +14,5 @@ TODO_AUTHOR, [cite:@chinHowUseYouTubeLearnTacitKnowledge2020]
 * TODO Summary
 * TODO Thoughts
 * TODO Notes
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

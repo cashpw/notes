@@ -2,7 +2,7 @@
 :ID:       ab1c1113-290b-4715-b2d7-94f2af485b2e
 :ROAM_ALIASES: "Black boxes"
 :ROAM_REFS: [cite:@BlackBox2022]
-:LAST_MODIFIED: [2023-07-27 Thu 07:10]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Black box
 #+hugo_custom_front_matter: :slug "ab1c1113-290b-4715-b2d7-94f2af485b2e"

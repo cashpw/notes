@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       81c88eaa-3ec9-486c-bcdf-457dd40b4eba
 :ROAM_ALIASES: DFS
-:LAST_MODIFIED: [2023-08-20 Sun 08:52]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Depth-first search
 #+hugo_custom_front_matter: :slug "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"

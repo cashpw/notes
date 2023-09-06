@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       65a0da36-2723-420c-bb3a-80c5fbffc225
 :ROAM_REFS: [cite:@BiconnectedComponent2022]
-:LAST_MODIFIED: [2022-12-14 Wed 13:18]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Biconnected component
 #+hugo_custom_front_matter: :slug "65a0da36-2723-420c-bb3a-80c5fbffc225"
@@ -9,5 +9,5 @@
 #+date: [2022-11-10 Thu 18:37]
 #+filetags: :has_todo:concept:
 * TODO [#3]
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

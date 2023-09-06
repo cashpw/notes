@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       001f6ae7-a549-4e90-a571-783d9a20fcc3
-:LAST_MODIFIED: [2023-06-24 Sat 20:22]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Avoid qualifying language
 #+hugo_custom_front_matter: :slug "001f6ae7-a549-4e90-a571-783d9a20fcc3"

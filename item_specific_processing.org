@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e860a606-84d0-47a0-8230-a702e86c363a
-:LAST_MODIFIED: [2023-08-08 Tue 08:19]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Item-specific processing
 #+hugo_custom_front_matter: :slug "e860a606-84d0-47a0-8230-a702e86c363a"

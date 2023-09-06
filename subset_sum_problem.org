@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3
 :ROAM_REFS: [cite:@SubsetSumProblem2023]
-:LAST_MODIFIED: [2023-09-04 Mon 06:34]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Subset sum problem
 #+hugo_custom_front_matter: :slug "1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3"

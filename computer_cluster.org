@@ -2,7 +2,7 @@
 :ID:       78cc7b2d-7eb9-4387-aa91-c7fe435b7c35
 :ROAM_ALIASES: Cluster
 :ROAM_REFS: [cite:@ComputerCluster2022]
-:LAST_MODIFIED: [2023-06-14 Wed 17:37]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Computer cluster
 #+hugo_custom_front_matter: :slug "78cc7b2d-7eb9-4387-aa91-c7fe435b7c35"

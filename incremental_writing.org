@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       b0b3e596-fec2-4f36-9020-243c6c96e0d5
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Incremental writing
 #+hugo_custom_front_matter: :slug "b0b3e596-fec2-4f36-9020-243c6c96e0d5"

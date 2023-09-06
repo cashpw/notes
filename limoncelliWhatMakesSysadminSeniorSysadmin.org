@@ -2,6 +2,7 @@
 :ROAM_REFS: [cite:@limoncelliWhatMakesSysadminSeniorSysadmin]
 :ID:       7af2ca45-ca0d-452d-83b3-a700057009d7
 :DIR:      /home/cashweaver/proj/roam/attachments/7af2ca45-ca0d-452d-83b3-a700057009d7
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?
 #+hugo_custom_front_matter: :slug "7af2ca45-ca0d-452d-83b3-a700057009d7"

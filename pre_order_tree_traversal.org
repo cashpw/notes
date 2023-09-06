@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9
-:LAST_MODIFIED: [2023-09-01 Fri 07:22]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Pre-order tree traversal
 #+hugo_custom_front_matter: :slug "2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9"

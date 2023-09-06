@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9790bcbd-1414-4044-a4ff-3e9326c39e8f
-:LAST_MODIFIED: [2023-01-31 Tue 07:36]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Set
 #+hugo_custom_front_matter: :slug "9790bcbd-1414-4044-a4ff-3e9326c39e8f"
@@ -14,5 +14,5 @@ A set is the mathematical model for a collection of different things; a set cont
 [cite:@SetMathematics2022]
 #+end_quote
 
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-04 Mon 06:25]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1807,7 +1807,7 @@ Covariance
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   329.96 | 2024-04-13T15:19:37Z |
-|        1 | 2.20 |   7 |   175.58 | 2023-07-24T16:15:29Z |
+|        1 | 1.90 |   1 |     1.00 | 2023-09-06T15:30:58Z |
 :END:
 
 *** Source

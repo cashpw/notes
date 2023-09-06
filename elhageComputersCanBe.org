@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@elhageComputersCanBeUnderstood]
 :ID:       19ba13d6-259f-4734-a1be-aaa5d51fcd16
-:LAST_MODIFIED: [2023-08-26 Sat 07:43]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Nelson Elhage | Computers Can Be Understood
 #+hugo_custom_front_matter: :slug "19ba13d6-259f-4734-a1be-aaa5d51fcd16"

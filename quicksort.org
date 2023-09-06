@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2023-09-04 Mon 06:26]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -151,7 +151,7 @@ procedure partition(lowIndex, highIndex, list) is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   164.28 | 2023-09-02T20:38:26Z |
+|        0 | 2.50 |   8 |   426.68 | 2024-11-05T07:45:35Z |
 :END:
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= compares elements at ={{j and pivot_index}@0}=
 *** Source

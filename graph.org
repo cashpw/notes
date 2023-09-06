@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       8bff4dfc-8073-4d45-ab89-7b3f97323327
 :ROAM_ALIASES: Graphs
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Graph
 #+hugo_custom_front_matter: :slug "8bff4dfc-8073-4d45-ab89-7b3f97323327"

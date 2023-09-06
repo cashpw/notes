@@ -2,7 +2,7 @@
 :ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
 :ROAM_REFS: [cite:@BreadthfirstSearch2022]
 :ROAM_ALIASES: BFS
-:LAST_MODIFIED: [2023-08-08 Tue 07:58]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Breadth-first search
 #+hugo_custom_front_matter: :slug "cff4f06c-6179-423d-aa1d-ba54d85615e2"

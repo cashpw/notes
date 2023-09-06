@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6f967c9a-b981-43f8-86cb-0f096639bdfb
-:LAST_MODIFIED: [2023-08-04 Fri 08:12]
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: C++ union
 #+hugo_custom_front_matter: :slug "6f967c9a-b981-43f8-86cb-0f096639bdfb"

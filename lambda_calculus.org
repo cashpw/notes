@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a81fbc80-350e-4c7a-8332-09861e34b5bf
-:LAST_MODIFIED: [2023-05-03 Wed 15:30]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Lambda calculus
 #+hugo_custom_front_matter: :slug "a81fbc80-350e-4c7a-8332-09861e34b5bf"

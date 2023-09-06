@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2fe284fb-7fbc-4956-9857-db90b66e504e
 :ROAM_REFS: [cite:@BellmanFordAlgorithm2022]
-:LAST_MODIFIED: [2023-09-04 Mon 06:24]
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Bellman-Ford algorithm
 #+hugo_custom_front_matter: :slug "2fe284fb-7fbc-4956-9857-db90b66e504e"
@@ -244,7 +244,7 @@ An exhaustive (try every combination) search for the optimal pathway.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   163.96 | 2023-09-02T12:59:09Z |
+|        0 | 2.95 |   7 |   498.04 | 2025-01-15T16:24:14Z |
 :END:
 
 [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] supports negative weights because {{it's an exhaustive search; it tries every pathway}@0}.

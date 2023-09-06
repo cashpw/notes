@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f9f02ed3-1796-4484-85ae-082664002d54
 :ROAM_REFS: [cite:@GeneralizedSuffixTree2022]
-:LAST_MODIFIED: [2023-08-09 Wed 17:48]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Generalized suffix tree
 #+hugo_custom_front_matter: :slug "f9f02ed3-1796-4484-85ae-082664002d54"

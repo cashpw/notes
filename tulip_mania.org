@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       41618912-5982-453e-adcb-0c4ba57448ae
 :ROAM_REFS: [cite:@TulipMania2022]
-:LAST_MODIFIED: [2023-09-04 Mon 10:56]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Tulip mania
 #+hugo_custom_front_matter: :slug "41618912-5982-453e-adcb-0c4ba57448ae"
@@ -15,7 +15,6 @@ Tulip mania (Dutch: tulpenmanie) was a period during the Dutch Golden Age when c
 [cite:@TulipMania2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** Describe :fc:
 :PROPERTIES:

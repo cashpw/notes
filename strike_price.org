@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a4a360b0-9898-4d9b-a0f0-c84a6ae07f42
 :ROAM_ALIASES: "Exercise price"
-:LAST_MODIFIED: [2023-07-23 Sun 21:04]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Strike price
 #+hugo_custom_front_matter: :slug "a4a360b0-9898-4d9b-a0f0-c84a6ae07f42"

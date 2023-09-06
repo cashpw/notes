@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       738c2ba7-a272-417d-9b6d-b6952d765280
 :ROAM_ALIASES: "Concrete data type" "Data structure"
-:LAST_MODIFIED: [2023-08-28 Mon 05:53]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Data structures
 #+hugo_custom_front_matter: :slug "738c2ba7-a272-417d-9b6d-b6952d765280"

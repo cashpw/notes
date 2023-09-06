@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ae7e202d-cab1-4ccf-8041-e76d39f7f698
 :ROAM_REFS: [cite:@ContinuousPartialAttention2022]
-:LAST_MODIFIED: [2023-05-22 Mon 06:47]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Continuous partial attention
 #+hugo_custom_front_matter: :slug "ae7e202d-cab1-4ccf-8041-e76d39f7f698"

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4c7744c9-e283-4a74-9b2f-40f39c6d262e
-:LAST_MODIFIED: [2022-12-11 Sun 12:00]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: First place
 #+hugo_custom_front_matter: :slug "4c7744c9-e283-4a74-9b2f-40f39c6d262e"
@@ -14,7 +14,6 @@ Oldenburg calls one's "first place" the home and the people the person lives wit
 [cite:@ThirdPlace2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** Describe
 :PROPERTIES:

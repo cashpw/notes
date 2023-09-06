@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6eb6bfde-37f3-4555-bbe2-1bd639b518ec
 :ROAM_REFS: [cite:@BloomSigmaProblem2022]
-:LAST_MODIFIED: [2023-08-30 Wed 05:43]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Bloom's 2 sigma problem
 #+hugo_custom_front_matter: :slug "6eb6bfde-37f3-4555-bbe2-1bd639b518ec"

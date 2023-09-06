@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@blitzsteinIntroductionProbability2019]
 :ID:       dcd814bd-4e7b-45e1-a53f-994dc334ff80
-:LAST_MODIFIED: [2023-01-28 Sat 13:49]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Joseph K. Blitzstein, Jessica Hwang | Introduction to Probability
 #+hugo_custom_front_matter: :slug "dcd814bd-4e7b-45e1-a53f-994dc334ff80"

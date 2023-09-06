@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fe9b846a-00fb-4311-8103-0ab31dd65275
-:LAST_MODIFIED: [2023-08-30 Wed 05:51]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Level-order tree traversal
 #+hugo_custom_front_matter: :slug "fe9b846a-00fb-4311-8103-0ab31dd65275"

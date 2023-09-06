@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9b054cbc-f7f4-4443-b28a-65d66eef4880
-:LAST_MODIFIED: [2023-07-05 Wed 21:15]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Lowercase-a accurate without being capital-T True
 #+hugo_custom_front_matter: :slug "9b054cbc-f7f4-4443-b28a-65d66eef4880"

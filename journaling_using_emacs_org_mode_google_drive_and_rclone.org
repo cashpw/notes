@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       ed8433c1-b829-4d49-86b3-c191def614d1
 :DIR:      /home/cashweaver/proj/roam/attachments/ed8433c1-b829-4d49-86b3-c191def614d1
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Journaling Using Emacs, org-mode, Google Drive, and rclone
 #+hugo_custom_front_matter: :slug "ed8433c1-b829-4d49-86b3-c191def614d1"

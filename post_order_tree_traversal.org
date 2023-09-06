@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       81611da6-3ea4-45d9-b2db-b96ed95d946d
-:LAST_MODIFIED: [2023-06-19 Mon 13:46]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Post-order tree traversal
 #+hugo_custom_front_matter: :slug "81611da6-3ea4-45d9-b2db-b96ed95d946d"

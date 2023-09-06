@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8ffd5a59-aecd-4482-879a-ecbf2a720043
 :ROAM_ALIASES: "Idempotent matrices"
-:LAST_MODIFIED: [2023-05-01 Mon 16:35]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Idempotent matrix
 #+hugo_custom_front_matter: :slug "8ffd5a59-aecd-4482-879a-ecbf2a720043"

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       40d2da04-01ce-49e3-9f51-781c04d5bf8d
-:LAST_MODIFIED: [2023-05-18 Thu 10:04]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Smart pointer
 #+hugo_custom_front_matter: :slug "40d2da04-01ce-49e3-9f51-781c04d5bf8d"
@@ -13,5 +13,5 @@ A smart pointer is a class that wraps a 'raw' (or 'bare') C++ pointer, to manage
 
 [cite:@lloydAnswerWhatSmartPointerWhenShouldUseOne2008]
 #+end_quote
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

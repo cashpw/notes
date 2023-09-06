@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       734b5d37-a342-4dbe-9e6a-e63df297433a
-:LAST_MODIFIED: [2023-08-31 Thu 11:43]
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: Second place
 #+hugo_custom_front_matter: :slug "734b5d37-a342-4dbe-9e6a-e63df297433a"
@@ -14,7 +14,6 @@ The "second place" is the workplace—where people may actually spend most of th
 [cite:@ThirdPlace2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** Describe :fc:
 :PROPERTIES:

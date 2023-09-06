@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ad51c11-995b-4437-a218-82df11697f7a
-:LAST_MODIFIED: [2023-08-26 Sat 07:52]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Iterative deepening depth-first-search
 #+hugo_custom_front_matter: :slug "0ad51c11-995b-4437-a218-82df11697f7a"

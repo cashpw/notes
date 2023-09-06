@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@grigorikHighPerformanceBrowserNetworking2013] [cite:@grigorikHighperformanceBrowserNetworking2013]
 :ID:       0b07906d-4880-4e86-ab7c-710b47104d82
-:LAST_MODIFIED: [2023-03-17 Fri 09:46]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Ilya Grigorik | High-Performance Browser Networking
 #+hugo_custom_front_matter: :slug "0b07906d-4880-4e86-ab7c-710b47104d82"

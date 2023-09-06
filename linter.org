@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       bb5a1f30-1733-41b5-9c34-bcac7f8cb701
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Linter
 #+hugo_custom_front_matter: :slug "bb5a1f30-1733-41b5-9c34-bcac7f8cb701"

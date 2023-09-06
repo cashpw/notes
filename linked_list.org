@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4e9a8cb2-e817-430b-a63c-0e492022ab79
 :ROAM_ALIASES: "Linked lists"
-:LAST_MODIFIED: [2023-08-20 Sun 08:58]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Linked list
 #+hugo_custom_front_matter: :slug "4e9a8cb2-e817-430b-a63c-0e492022ab79"

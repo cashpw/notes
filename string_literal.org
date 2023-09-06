@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@StringLiteral2022]
 :ID:       7cf9c5ed-29ac-4f1a-a88c-61253c72c5b8
-:LAST_MODIFIED: [2023-06-03 Sat 21:16]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: String literal
 #+hugo_custom_front_matter: :slug "7cf9c5ed-29ac-4f1a-a88c-61253c72c5b8"

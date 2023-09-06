@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       7667a3b3-727e-42e4-a2e6-a3d7c7169366
 :ROAM_REFS: [cite:@TypingSupportTypeHintsPython10Documentation]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Python typing
 #+hugo_custom_front_matter: :slug "7667a3b3-727e-42e4-a2e6-a3d7c7169366"

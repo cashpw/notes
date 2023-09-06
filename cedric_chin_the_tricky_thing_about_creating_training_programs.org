@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinTrickyThingCreatingTrainingPrograms2021]
 :ID:       ae72b55b-09aa-4a94-b437-6a746845200d
-:LAST_MODIFIED: [2023-08-04 Fri 21:59]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Cedric Chin | The Tricky Thing About Creating Training Programs
 #+hugo_custom_front_matter: :slug "ae72b55b-09aa-4a94-b437-6a746845200d"
@@ -14,5 +14,5 @@ TODO_AUTHOR, [cite:@chinTrickyThingCreatingTrainingPrograms2021]
 * TODO Summary
 * TODO Thoughts
 * TODO Notes
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

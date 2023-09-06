@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       abb1e1cc-12bb-42fe-9004-555145c8faaa
 :ROAM_REFS: [cite:@taylorGitGoogleDriveSimpleGitHost2021]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: Laura Taylor | Git + Google Drive = Simple Git Host
 #+hugo_custom_front_matter: :slug "abb1e1cc-12bb-42fe-9004-555145c8faaa"

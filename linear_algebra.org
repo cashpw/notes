@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-04 Mon 06:23]
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1492,7 +1492,7 @@ A morphism from a mathematical object to itself.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   8 |    26.12 | 2023-09-03T17:59:42Z |
+| front    | 1.30 |   9 |    31.83 | 2023-10-07T11:15:08Z |
 | back     | 2.35 |   4 |    14.75 | 2023-11-06T09:41:57Z |
 :END:
 

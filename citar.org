@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5fc743f6-f55a-4e98-985e-2e6cab8ec8c1
+:LAST_MODIFIED: [2023-09-05 Tue 20:21]
 :END:
 #+title: Citar
 #+hugo_custom_front_matter: :slug "5fc743f6-f55a-4e98-985e-2e6cab8ec8c1"
@@ -13,6 +14,5 @@ This package provides a completing-read front-end to browse and act on BibTeX, B
 [cite:@Citar2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 #+print_bibliography:

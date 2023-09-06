@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b17c08ec-80de-45e5-8a8e-529b0f31142c
-:LAST_MODIFIED: [2023-09-04 Mon 06:29]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Proximate cause
 #+hugo_custom_front_matter: :slug "b17c08ec-80de-45e5-8a8e-529b0f31142c"
@@ -14,7 +14,6 @@ A proximate cause is an event which is closest to, or immediately responsible fo
 [cite:@ProximateUltimateCausation2022]
 #+end_quote
 
-#+print_bibliography:
 * Flashcards
 ** Definition :fc:
 :PROPERTIES:

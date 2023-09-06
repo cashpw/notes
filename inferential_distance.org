@@ -2,7 +2,7 @@
 :ID:       5185ffd0-b643-484a-a69d-85b7579eb38d
 :ROAM_ALIASES: "Inferential gap"
 :ROAM_REFS: [cite:@InferentialDistance]
-:LAST_MODIFIED: [2023-09-04 Mon 06:36]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Inferential distance
 #+hugo_custom_front_matter: :slug "5185ffd0-b643-484a-a69d-85b7579eb38d"

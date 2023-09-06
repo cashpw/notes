@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b26b15e5-48c4-4968-a645-5743b571021e
 :ROAM_REFS: [cite:@EvidencebasedEducation2022]
-:LAST_MODIFIED: [2022-12-01 Thu 08:17]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Evidence-based education
 #+hugo_custom_front_matter: :slug "b26b15e5-48c4-4968-a645-5743b571021e"
@@ -11,6 +11,6 @@
 
 * TODO [#2] Expand :noexport:
 [cite:@EvidencebasedEducation2022]
-#+print_bibliography:
 
 * TODO [#2] Flashcards
+#+print_bibliography:

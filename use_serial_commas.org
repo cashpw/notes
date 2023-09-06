@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       5b18fea0-1aab-4ad3-91ef-781a2524f11d
+:LAST_MODIFIED: [2023-09-05 Tue 20:20]
 :END:
 #+title: Use serial commas
 #+hugo_custom_front_matter: :slug "5b18fea0-1aab-4ad3-91ef-781a2524f11d"

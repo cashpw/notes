@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8775762c-d5aa-434d-9e89-0488841eb1ea
 :ROAM_REFS: [cite:@CycleGraphTheory2022]
-:LAST_MODIFIED: [2023-08-31 Thu 11:35]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Cycle (Graph theory)
 #+hugo_custom_front_matter: :slug "8775762c-d5aa-434d-9e89-0488841eb1ea"

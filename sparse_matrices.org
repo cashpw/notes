@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2c005434-56e2-430d-a4b9-8ad05d052f49
 :ROAM_REFS: [cite:@SparseMatrix2022]
-:LAST_MODIFIED: [2023-04-05 Wed 09:33]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Sparse matrices
 #+hugo_custom_front_matter: :slug "2c005434-56e2-430d-a4b9-8ad05d052f49"

@@ -2,7 +2,7 @@
 :ID:       15f1b0b2-6f51-40de-93c9-77980744a483
 :ROAM_ALIASES: "Call options"
 :ROAM_REFS: [cite:@CallOption2022]
-:LAST_MODIFIED: [2023-08-06 Sun 07:48]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Call option
 #+hugo_custom_front_matter: :slug "15f1b0b2-6f51-40de-93c9-77980744a483"

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       426b6e66-710b-4d01-8ff0-f5311478260c
-:LAST_MODIFIED: [2023-05-20 Sat 17:35]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Pure functions
 #+hugo_custom_front_matter: :slug "426b6e66-710b-4d01-8ff0-f5311478260c"

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       54aeab12-48bb-4624-a110-e0a5d50087f4
 :ROAM_REFS: [cite:@preston-wernerSemanticVersioning]
-:LAST_MODIFIED: [2023-08-29 Tue 06:43]
+:LAST_MODIFIED: [2023-09-05 Tue 20:17]
 :END:
 #+title: Semantic versioning
 #+hugo_custom_front_matter: :slug "54aeab12-48bb-4624-a110-e0a5d50087f4"
@@ -20,5 +20,5 @@ Additional labels for pre-release and build metadata are available as extensions
 
 [cite:@preston-wernerSemanticVersioning]
 #+end_quote
-#+print_bibliography:
 * TODO [#2] Flashcards
+#+print_bibliography:

@@ -2,7 +2,7 @@
 :ID:       5d0c9c41-219f-4330-b2e6-0ae5daaa5355
 :ROAM_REFS: [cite:@Composability2021]
 :ROAM_ALIASES: Composable
-:LAST_MODIFIED: [2023-08-31 Thu 11:31]
+:LAST_MODIFIED: [2023-09-05 Tue 20:19]
 :END:
 #+title: Composability
 #+hugo_custom_front_matter: :slug "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"

@@ -2,7 +2,7 @@
 :ID:       753a3fe1-3576-4549-8a5d-a8c901f6a708
 :ROAM_REFS: [cite:@ContinuousFunction2023]
 :ROAM_ALIASES: "Discontinuous function"
-:LAST_MODIFIED: [2023-08-30 Wed 05:53]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Continuous function
 #+hugo_custom_front_matter: :slug "753a3fe1-3576-4549-8a5d-a8c901f6a708"

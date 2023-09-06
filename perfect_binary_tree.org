@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       de6bcd91-4a80-4ea9-b939-eb7f57077f63
-:LAST_MODIFIED: [2023-06-30 Fri 18:41]
+:LAST_MODIFIED: [2023-09-05 Tue 20:13]
 :END:
 #+title: Perfect binary tree
 #+hugo_custom_front_matter: :slug "de6bcd91-4a80-4ea9-b939-eb7f57077f63"

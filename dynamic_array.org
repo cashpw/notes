@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       546f4f56-6b59-4160-8d2e-6c5c2ba03ec7
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Dynamic array
 #+hugo_custom_front_matter: :slug "546f4f56-6b59-4160-8d2e-6c5c2ba03ec7"

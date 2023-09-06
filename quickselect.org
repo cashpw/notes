@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       df6876e1-5035-4432-9b8a-19898faa4fdd
-:LAST_MODIFIED: [2023-07-08 Sat 08:03]
+:LAST_MODIFIED: [2023-09-05 Tue 20:14]
 :END:
 #+title: Quickselect
 #+hugo_custom_front_matter: :slug "df6876e1-5035-4432-9b8a-19898faa4fdd"
@@ -60,9 +60,6 @@ procedure QuickSort(list, targetIndex) is
 - [[id:ffec0117-bbea-4197-865c-112e417c8f1d][Quickselect implementation in Python]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** Basic with Source :fc:implement:
 :PROPERTIES:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@gentleTribesProgramming2017]
 :ID:       2f62e8c7-6d64-4820-9b12-3949627c2386
-:LAST_MODIFIED: [2023-07-18 Tue 06:47]
+:LAST_MODIFIED: [2023-09-05 Tue 20:18]
 :END:
 #+title: Joseph Gentle | Three Tribes of Programming
 #+hugo_custom_front_matter: :slug "2f62e8c7-6d64-4820-9b12-3949627c2386"

@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       093fae33-1843-4271-b7cd-336553b9aac9
+:LAST_MODIFIED: [2023-09-05 Tue 20:15]
 :END:
 #+title: Sorting algorithm
 #+hugo_custom_front_matter: :slug "093fae33-1843-4271-b7cd-336553b9aac9"

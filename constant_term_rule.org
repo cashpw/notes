@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d37ecd9a-ade3-44f3-add3-5a124aad3fb2
 :ROAM_REFS: [cite:@DifferentiationRules2022]
-:LAST_MODIFIED: [2023-06-28 Wed 10:07]
+:LAST_MODIFIED: [2023-09-05 Tue 20:16]
 :END:
 #+title: Constant term rule
 #+hugo_custom_front_matter: :slug "d37ecd9a-ade3-44f3-add3-5a124aad3fb2"
