@@ -2,7 +2,7 @@
 :ID:       7b7185c2-db8c-4e53-b9a1-795cc36ab508
 :ROAM_ALIASES: "Put options"
 :ROAM_REFS: [cite:@PutOption2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:04]
 :END:
 #+title: Put option
 #+hugo_custom_front_matter: :slug "7b7185c2-db8c-4e53-b9a1-795cc36ab508"

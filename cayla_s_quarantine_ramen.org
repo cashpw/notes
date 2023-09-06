@@ -4,7 +4,7 @@
 :COOK_MINUTES: 15
 :SERVINGS: 4
 :STARS:   5
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:04]
 :END:
 #+title: Cayla's quarantine ramen
 #+hugo_custom_front_matter: :prep_time "15m" :cook_time "15m" :total_time "30m" :servings "4" :slug "9b56dca0-39e0-4dec-a269-dd7773257c2b" :stars "5"

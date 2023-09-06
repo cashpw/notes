@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9abc3978-c42a-42ad-a309-9f50c3698c0f
 :ROAM_ALIASES: "P (Complexity)" P
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:04]
 :ROAM_REFS: [cite:@Complexity2022]
 :END:
 #+title: Polynomial time

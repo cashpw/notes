@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kahnemanConditionsIntuitiveExpertiseFailureDisagree2009]
 :ID:       7ac554b7-d1b7-4348-8865-8742415b06d0
-:LAST_MODIFIED: [2023-09-05 Tue 20:55]
+:LAST_MODIFIED: [2023-09-06 Wed 11:02]
 :END:
 #+title: Daniel Kahneman, Gary Klein | Conditions for Intuitive Expertise: A Failure to Disagree
 #+hugo_custom_front_matter: :slug "7ac554b7-d1b7-4348-8865-8742415b06d0"
@@ -27,14 +27,14 @@ TODO_AUTHOR, [cite:@kahnemanConditionsIntuitiveExpertiseFailureDisagree2009]
 
 #+begin_src emacs-lisp
 (length (seq-uniq (org-roam-db-query [:select [nodes:file]
-                    :from tags
-                    :left-join nodes
-                    :on (= tags:node-id nodes:id)
-                    :where (like tag "has_todo")])))
+                                      :from tags
+                                      :left-join nodes
+                                      :on (= tags:node-id nodes:id)
+                                      :where (like tag "has_todo")])))
 #+end_src
 
 #+RESULTS:
-: 13
+: 312
 
 #+begin_src emacs-lisp
 (length (org-roam-db-query [:select * :from nodes]))
@@ -53,6 +53,24 @@ TODO_AUTHOR, [cite:@kahnemanConditionsIntuitiveExpertiseFailureDisagree2009]
 
 #+RESULTS:
 : 1487
+
+#+begin_src emacs-lisp
+(defun cashpw/bar ()
+  (interactive)
+  (org-roam-with-file "/home/cashweaver/proj/notes/variance.org" nil
+    (message (concat
+              (prin1-to-string (point))
+              " --- "
+              (prin1-to-string (vulpea-buffer-prop-get "filetags"))
+              " --- "
+              (prin1-to-string (vulpea-buffer-tags-get))
+              " --- "
+              (prin1-to-string (org-get-tags))
+              " --- "
+              (prin1-to-string (buffer-string))
+              ))))
+(cashpw/bar)
+#+end_src
 
 * TODO [#2] Summary
 * TODO [#2] Thoughts

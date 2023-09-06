@@ -2,7 +2,7 @@
 :ID:       29d30938-ecd0-4f44-a86b-5bd7f7734f08
 :ROAM_REFS: [cite:@PowerLaw2022]
 :ROAM_ALIASES: "Power law distribution"
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-06 Wed 08:05]
 :END:
 #+title: Power law
 #+hugo_custom_front_matter: :slug "29d30938-ecd0-4f44-a86b-5bd7f7734f08"

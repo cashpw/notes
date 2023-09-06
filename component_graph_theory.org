@@ -2,7 +2,7 @@
 :ID:       d3439626-492b-4165-836e-efd890096225
 :ROAM_ALIASES: "Connected components"
 :ROAM_REFS: [cite:@ComponentGraphTheory2023]
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-06 Wed 08:05]
 :END:
 #+title: Component (Graph theory)
 #+hugo_custom_front_matter: :slug "d3439626-492b-4165-836e-efd890096225"

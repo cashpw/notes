@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       77af446a-bdc3-4800-b72e-240b66e69154
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-06 Wed 08:05]
 :END:
 #+title: C++ struct
 #+hugo_custom_front_matter: :slug "77af446a-bdc3-4800-b72e-240b66e69154"

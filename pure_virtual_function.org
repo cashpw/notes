@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cbe60cda-fc7d-4188-9cb3-4715ae550b3d
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-06 Wed 08:05]
 :END:
 #+title: Pure virtual function
 #+hugo_custom_front_matter: :slug "cbe60cda-fc7d-4188-9cb3-4715ae550b3d"

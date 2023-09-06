@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5e8b11e4-9600-44b7-8cd4-1be85f359948
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-06 Wed 08:05]
 :END:
 #+title: Read Gmail in Emacs with mbsync and mu4e
 #+hugo_custom_front_matter: :slug "5e8b11e4-9600-44b7-8cd4-1be85f359948"

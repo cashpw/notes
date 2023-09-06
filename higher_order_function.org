@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c27e7511-da0f-4a63-91d5-902078d0add5
 :ROAM_REFS: [cite:@HigherorderFunction2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:12]
 :END:
 #+title: Higher-order function
 #+hugo_custom_front_matter: :slug "c27e7511-da0f-4a63-91d5-902078d0add5"

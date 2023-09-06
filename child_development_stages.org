@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "e4034c34-f894-48fb-b303-41d0596589c9"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-12 Thu 07:53]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 * TODO [#2] Expand and organize
 - [[id:10453cfb-8266-404d-93e6-768747d30b74][Theory of mind]]

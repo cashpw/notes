@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       1ca0d9f2-27ec-4297-95e4-395c8713618f
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 10:19]
 :END:
 #+title: The journey is what matters
 #+hugo_custom_front_matter: :slug "1ca0d9f2-27ec-4297-95e4-395c8713618f"
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-13 Sun 19:02]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 * TODO [#3]
 

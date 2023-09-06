@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       0a9fac5c-2919-4dc1-b75b-ccab89d31a52
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:04]
 :END:
 #+title: Reverse cargo cult
 #+hugo_custom_front_matter: :slug "0a9fac5c-2919-4dc1-b75b-ccab89d31a52"
 #+author: Cash Prokop-Weaver
 #+date: [2022-06-23 Thu 15:45]
-#+filetags: :has_todo:concept:
+#+filetags: :concept:
 
 #+begin_quote
 In a regular [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]] you have people who see an airstrip, and the cargo drops, so they build one out of straw, hoping for the same outcome. They don't know the difference between a straw airstrip and a real one, they just want the cargo.

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       be5ebd31-6655-4f99-9325-2c41becd4dab
 :ROAM_REFS: [cite:@BinomialCoefficient2023]
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:04]
 :END:
 #+title: Binomial coefficient
 #+hugo_custom_front_matter: :slug "be5ebd31-6655-4f99-9325-2c41becd4dab"

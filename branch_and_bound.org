@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d1f735d6-a30b-494f-a536-7042b6fd0329
-:LAST_MODIFIED: [2023-09-05 Tue 20:13]
+:LAST_MODIFIED: [2023-09-06 Wed 08:12]
 :END:
 #+title: Branch and bound
 #+hugo_custom_front_matter: :slug "d1f735d6-a30b-494f-a536-7042b6fd0329"

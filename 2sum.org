@@ -2,7 +2,7 @@
 :ID:       9ce77447-dc1d-4623-b469-b4bd636e7453
 :ROAM_ALIASES: "Two sum"
 :ROAM_REFS: [cite:@leetcodeTwoSum]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-06 Wed 07:08]
 :END:
 #+title: 2sum
 #+hugo_custom_front_matter: :slug "9ce77447-dc1d-4623-b469-b4bd636e7453"
