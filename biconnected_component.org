@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "65a0da36-2723-420c-bb3a-80c5fbffc225"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-10 Thu 18:37]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * TODO [#3]
 * TODO [#2] Flashcards
 #+print_bibliography:

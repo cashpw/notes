@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
 #+author: Cash Prokop-Weaver
 #+date: [2022-06-29 Wed 09:32]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In computer science, an implicit data structure or space-efficient data structure is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that stores very little information other than the main or required data: a data structure that requires low overhead. They are called "implicit" because the position of the elements carries meaning and relationship between elements; this is contrasted with the use of pointers to give an explicit relationship between elements. Definitions of "low overhead" vary, but generally means constant overhead; in big O notation, O(1) overhead.

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "74bd9a47-f3c9-463b-a547-4ae67a88af97"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-19 Thu 10:58]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#4] Split up
 

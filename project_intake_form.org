@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "ba1c8bfe-7353-4fac-9202-768763ba4692"
 #+author: Cash Prokop-Weaver
 #+date: [2022-10-27 Thu 10:06]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * TODO [#2]
 
 Intake form for new projects, or at least projects to which I'm new.

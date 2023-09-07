@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "e5987482-328e-40af-bcec-b69f27a49caa"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-18 Fri 17:26]
-#+filetags: :has_todo:
+#+filetags: :hastodo:
 
 A collection of work-in-progress posts. I will eventually extract these into individual nodes.
 

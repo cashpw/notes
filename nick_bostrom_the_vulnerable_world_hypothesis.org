@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "64ac5c62-753b-4fe2-b808-48f98010b544"
 #+author: Cash Weaver
 #+date: [2023-01-02 Mon 10:08]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:c4ab056e-de36-4ff5-8f41-e634b6b9431c][Nick Bostrom]], [cite:@bostromVulnerableWorldHypothesis2019]
 

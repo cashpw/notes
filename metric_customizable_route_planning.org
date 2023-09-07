@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "b349f179-9181-40e6-a6e9-b1f065ba6abe"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-23 Fri 08:37]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 The metric encodes the actual cost of traversing a road segment or taking a turn. It can often be described compactly, as a function that maps (in constant time) the properties of an edge/turn into a cost.

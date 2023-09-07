@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "d199a4a8-c7cc-481e-9ccc-39bbe6fda8ee"
 #+author: Cash Prokop-Weaver
 #+date: [2023-09-01 Fri 14:55]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 The Big Five personality traits is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onward in psychological trait theory.

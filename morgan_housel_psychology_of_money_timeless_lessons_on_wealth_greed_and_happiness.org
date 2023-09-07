@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "285207c7-cf14-4f37-abae-6509506734bc"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-06 Sun 19:01]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 TODO_AUTHOR, [cite:@houselPsychologyMoneyTimelessLessonsWealthGreedHappiness2020]
 

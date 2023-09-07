@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "9afd6912-da96-4ba5-adc4-b3081116cea8"
 #+author: Cash Prokop-Weaver
 #+date: [2022-10-28 Fri 15:36]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:3c2ba4ec-1daa-4ea4-a4fb-641493b4ac91][Farnam Street]], [cite:@streetCompoundingKnowledge2019]
 

@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "8e2352df-1aba-4a47-b912-f2425c4dddac"
 #+author: Cash Prokop-Weaver
 #+date: [2023-02-25 Sat 15:03]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#2] Expand :noexport:
 ** [[https://www.reddit.com/r/slatestarcodex/comments/x62y2k/is_there_a_name_for_this_motteandbaily_like/][is there a name for this motte-and-baily like doctrine?]]

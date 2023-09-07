@@ -9,7 +9,7 @@
 #+TAGS: [ type : book essay class discussion link_group ]
 #+TAGS: [ subject : math politics machine_learning_artificial_intelligence management emacs productivity physics learning computer_science health aging lisp parenting advice communication systems exercise cool history art writing economics software_engineering vim biology diet cooking research creativity career relationships philosophy housing climate_change mindfulness happiness attention culture self_improvement databases marketing anthropology design [[transhumanism]] travel finance interview passive_house business ceramics retrospective ]
 #+TAGS: [ when : someday ]
-#+filetags: :has_todo:
+#+filetags: :hastodo:
 
 #+begin_quote
 Relax, be kind to yourself.

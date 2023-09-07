@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "49d0c976-126c-4612-82ad-bebd079dd200"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-05 Mon 19:57]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 Your topographical map can help highlight the friction and gaps between teams and open up the paths of communication.

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "513126d1-6d47-4b87-84a4-5bf10afce897"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-31 Tue 14:38]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#2]
 

@@ -8,7 +8,7 @@
 #+hugo_custom_front_matter: :slug "3abdd6f0-2229-4f83-a0ac-078af4571f8c"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-11 Fri 20:02]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
  
 [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakKnowledgeWorkShouldAccrete]
 

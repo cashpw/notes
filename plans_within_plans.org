@@ -5,7 +5,7 @@
 :END:
 #+title: Plans within plans
 #+hugo_custom_front_matter: :slug "a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4"
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-08 Tue 10:44]
 

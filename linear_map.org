@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-23 Mon 09:45]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * TODO [#3]
 * Flashcards
 ** Definition :fc:

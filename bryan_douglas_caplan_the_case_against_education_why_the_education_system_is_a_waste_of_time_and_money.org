@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "8ecb934d-da88-40f4-851b-1fd5f2efd0ad"
 #+author: Cash Weaver
 #+date: [2023-01-12 Thu 10:18]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:d6819447-2213-4cc1-8b82-23a63cc1d995][Bryan Caplan]], [cite:@caplanCaseEducationWhyEducationSystemWasteTimeMoney2018]
 

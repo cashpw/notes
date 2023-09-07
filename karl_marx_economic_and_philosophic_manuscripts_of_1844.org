@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "49d3d652-6836-40b6-a661-3af45b84a9d1"
 #+author: Cash Weaver
 #+date: [2022-12-02 Fri 08:34]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:8cb834e6-864f-452b-ac9f-7a62d43e7edf][Karl Marx]] , [cite:@marxEconomicPhilosophicManuscripts18441959]
 

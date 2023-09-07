@@ -5,7 +5,7 @@
 :END:
 #+title: Passive house
 #+hugo_custom_front_matter: :slug "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 #+author: Cash Prokop-Weaver
 #+date: [2022-01-29 Sat 16:52]
 #+hugo_draft: t

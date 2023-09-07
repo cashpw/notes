@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "d707680f-f46c-459f-a822-11d8c2beca6c"
 #+author: Cash Weaver
 #+date: [2023-06-30 Fri 16:57]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinProblemsDeliberatePractice2019]
 

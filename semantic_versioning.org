@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "54aeab12-48bb-4624-a110-e0a5d50087f4"
 #+author: Cash Prokop-Weaver
 #+date: [2023-08-29 Tue 06:42]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 Given a version number MAJOR.MINOR.PATCH, increment the:

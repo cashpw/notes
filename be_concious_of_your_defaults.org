@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "f3ce6cfc-d119-4903-94db-9a2e2d4397e0"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-17 Thu 07:24]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#4] Expand
 Seek to be aware of your "defaults" and examine them; do you want to keep them?

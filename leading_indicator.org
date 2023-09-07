@@ -5,7 +5,7 @@
 :END:
 #+title: Leading indicator
 #+hugo_custom_front_matter: :slug "31eaa796-a578-43ae-a119-a1d8505cbe72"
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 #+author: Cash Prokop-Weaver
 #+date: [2022-01-28 Fri 08:18]
 

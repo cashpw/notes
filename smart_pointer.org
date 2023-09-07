@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "40d2da04-01ce-49e3-9f51-781c04d5bf8d"
 #+author: Cash Prokop-Weaver
 #+date: [2023-05-18 Thu 10:03]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 A smart pointer is a class that wraps a 'raw' (or 'bare') C++ pointer, to manage the lifetime of the object being pointed to. There is no single smart pointer type, but all of them try to abstract a raw pointer in a practical way.

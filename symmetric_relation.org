@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "bc7c3e81-4498-43dd-9f65-b2c0e0cbf521"
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-06 Tue 07:00]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 Formally, a binary relation R over a set X is symmetric if: $\forall a,b \in X(aRb \iff bRa)$.

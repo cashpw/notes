@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "2a01a221-0aa9-493b-b690-c15c11f16831"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-25 Fri 09:43]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In computer science, a suffix tree (also called PAT tree or, in an earlier form, position tree) is a compressed trie containing all the suffixes of the given text as their keys and positions in the text as their values. Suffix trees allow particularly fast implementations of many important string operations.

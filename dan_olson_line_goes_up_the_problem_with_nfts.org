@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "4198f962-c82a-41e5-8001-1b566d961143"
 #+author: Cash Weaver
 #+date: [2022-11-21 Mon 19:12]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:cfeb6969-326d-4804-a08c-d232cbd40369][Dan Olson]], [cite:@foldingideasLineGoesProblemNFTs2022]
 

@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "9e3242c4-62f4-4863-8368-8a4b160c1e76"
 #+author: Cash Prokop-Weaver
 #+date: [2022-06-25 Sat 19:12]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
  
 [[id:bfdb06f3-7e93-4ef6-b28d-939931edfcb4][Robert Altemeyer]], [cite:@altemeyerAuthoritarians]
 

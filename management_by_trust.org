@@ -7,7 +7,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-12 Sat 03:38]
 #+startup: overview
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 - [cite:@ardLittleTasksLittleTrust]
 * TODO [#2] Expand :noexport:

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "1b17b268-7192-4117-9d4f-1b67dcc091ee"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-05 Mon 19:47]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 The locator map is a metaphor for understanding how $X$ fits within a broader context. It's a concept from [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][Tanya Reilly | The Staff Engineer's Path]]. $X$ here includes, but isn't limited to:
 

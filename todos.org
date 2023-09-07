@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-07 Mon 16:30]
-#+filetags: :has_todo:
+#+filetags: :hastodo:
 
 * TODO [#2] Node idea: Specifics of my blog post authoring process with =emacs=, =org-mode=, =ox-hugo=, and =org-roam=.
 * TODO [#2] Node idea: Thoughts on productivity, guilt, and free time as an illusion.

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "2e981d20-0244-4ff1-ad21-4024fc24630f"
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-05 Tue 17:08]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#2] Expand :noexport:
 * Flashcards

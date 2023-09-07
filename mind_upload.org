@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "4c189b5c-9f16-45ea-9c3d-093e96c4d33e"
 #+author: Cash Prokop-Weaver
 #+date: [2023-03-02 Thu 19:01]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 See also: [[id:5f141520-dcbd-45e1-903b-9c2baa29cad5][Transhumanism]].
 * TODO [#3] Expand :noexport:

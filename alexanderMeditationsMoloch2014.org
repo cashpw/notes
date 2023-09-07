@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-13 Sun 20:30]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
  
 [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderMeditationsMoloch2014]
 

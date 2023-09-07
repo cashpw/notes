@@ -8,7 +8,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-23 Sat 16:54]
 #+options: prop:t
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In computer science, a red–black tree is a kind of [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]. Each [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] stores an extra bit representing "color" ("red" or "black"), used to ensure that the [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] remains balanced during insertions and deletions.

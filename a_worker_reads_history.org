@@ -8,7 +8,7 @@
 #+hugo_custom_front_matter: :slug "5ad7ef93-a1e3-4b69-85bc-b5c5c550df73"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-15 Tue 07:12]
-#+filetags: :has_todo:poem:
+#+filetags: :hastodo:poem:
 
 #+begin_verse
 Who built the seven gates of Thebes?

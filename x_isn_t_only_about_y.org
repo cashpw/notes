@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-09 Mon 08:10]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 People who do X say they do it because Y /also/ do it because Z.
 

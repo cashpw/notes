@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "263162f4-8b17-409b-9439-11a9ea7a372e"
 #+author: Cash Weaver
 #+date: [2022-11-22 Tue 16:12]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 TODO_AUTHOR, [cite:@spolskyStrategyLetter2002]
 

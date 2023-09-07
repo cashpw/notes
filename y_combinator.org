@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "d07feb80-ce1c-499b-9f5e-2ad364e79316"
 #+author: Cash Prokop-Weaver
 #+date: [2023-02-16 Thu 19:49]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 A [[id:1dea0d75-dc37-4792-85e3-fc65d0c9127a][Fixed-point combinator]].
 

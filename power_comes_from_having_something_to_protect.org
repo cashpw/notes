@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "e1705b21-a504-452f-b809-4d8cbf1ec3d8"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-12 Sat 17:35]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * TODO [#3]
 See [[id:ad3762f0-6d77-4289-baa7-4c3192b9c4b1][Eliezer Yudkowsky | Something to Protect]]
 * Flashcards

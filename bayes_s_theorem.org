@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "b07a1490-3847-4b65-80bb-17e3f4927cfb"
 #+author: Cash Prokop-Weaver
 #+date: [2022-04-01 Fri 18:45]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 

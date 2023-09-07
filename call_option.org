@@ -8,7 +8,7 @@
 #+hugo_custom_front_matter: :slug "15f1b0b2-6f51-40de-93c9-77980744a483"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-06 Sun 17:22]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In finance, a call option, often simply labeled a "call", is a contract between the buyer and the seller of the call option to exchange a security at a set price.

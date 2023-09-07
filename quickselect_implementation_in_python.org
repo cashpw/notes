@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "ffec0117-bbea-4197-865c-112e417c8f1d"
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-01 Fri 16:54]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 [[id:ef37e8fc-651f-4577-8a68-3bdb0c919928][Implementation]] of [[id:df6876e1-5035-4432-9b8a-19898faa4fdd][Quickselect]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
 

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "514db3f1-6eda-457d-bcc9-d882ac611f30"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-07 Mon 09:41]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * TODO [#3] Expand :noexport:
 - A way of reading which incorporates spaced repetition
   - Read a piece in (1) multiple passes or (2) bit by bit

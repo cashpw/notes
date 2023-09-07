@@ -5,7 +5,7 @@
 :END:
 #+title: Document your work
 #+hugo_custom_front_matter: :slug "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 #+author: Cash Prokop-Weaver
 #+date: [2022-01-29 Sat 14:37]
 

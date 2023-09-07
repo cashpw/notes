@@ -9,7 +9,7 @@
 #+startup: overview
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-01 Tue 09:20]
-#+filetags: :has_todo:
+#+filetags: :hastodo:
 
 * TODO [#3]
 

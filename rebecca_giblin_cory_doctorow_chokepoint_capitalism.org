@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "c62a967d-7f63-4c12-b19c-502fd09e1042"
 #+author: Cash Weaver
 #+date: [2023-06-20 Tue 14:14]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 TODO_AUTHOR, [cite:@giblinChokepointCapitalismHowBigTechBigContentCapturedCreativeLabor2022]
 

@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "24b10601-c88f-46fc-bbf9-3f7687c2d2ba"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-31 Tue 09:25]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 The knapsack problem is the following problem in combinatorial optimization:

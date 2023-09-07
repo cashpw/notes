@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-14 Wed 10:02]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 A *projection* on a vector space $V$ is a linear operator $P : V \rightarrow V$ such that $P^2 = P$.

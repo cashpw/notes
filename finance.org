@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-24 Sat 14:46]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * Flashcards
 ** TODO [#3] Organize flashcards
 ** Definition (Finance) :fc:

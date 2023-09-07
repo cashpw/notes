@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "a45ed3de-c710-40c8-86c4-3beab753cf41"
 #+author: Cash Prokop-Weaver
 #+date: [2023-03-18 Sat 08:14]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 A generative AI released by Google.
 * TODO [#2] Flashcards

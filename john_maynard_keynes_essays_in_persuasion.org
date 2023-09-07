@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "5098c183-28fd-4392-b9c0-a95a7cb6050d"
 #+author: Cash Weaver
 #+date: [2023-06-28 Wed 15:36]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:60113ecc-2128-43be-9209-6d4fdd2abb83][John Maynard Keynes]], [cite:@keynesEssaysPersuasion2010]
 

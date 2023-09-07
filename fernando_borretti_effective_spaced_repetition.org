@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "ec2a6f22-dad5-4615-a2a9-c5313229ff5d"
 #+author: Cash Weaver
 #+date: [2023-04-11 Tue 15:21]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:f30176d6-adc0-43be-bc31-d4ab25bfe772][Fernando Borretti]], [cite:@borrettiEffectiveSpacedRepetition2023]
 

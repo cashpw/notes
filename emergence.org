@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "a4d17d3b-f5a7-43fc-87f9-dae2a3cad391"
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-15 Thu 12:21]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In philosophy, systems theory, science, and art, emergence occurs when an entity is observed to have properties its parts do not have on their own, properties or behaviors that emerge only when the parts interact in a wider whole.

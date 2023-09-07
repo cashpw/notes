@@ -6,7 +6,7 @@
 :END:
 #+title: Tacit knowledge
 #+hugo_custom_front_matter: :slug "d636dfa7-428d-457c-8db6-15fa61e03bef"
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 #+author: Cash Prokop-Weaver
 #+date: [2022-01-30 Sun 13:17]
 

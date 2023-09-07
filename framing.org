@@ -8,7 +8,7 @@
 #+hugo_custom_front_matter: :slug "30cb897f-4ec4-4492-b23a-ac760ed49db2"
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-05 Mon 16:41]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In the social sciences, framing comprises a set of concepts and theoretical perspectives on how individuals, groups, and societies organize, perceive, and communicate about reality.

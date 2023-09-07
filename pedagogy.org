@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "85cfa8c4-9c7b-47d9-a593-8548385027f7"
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-18 Mon 18:48]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 Pedagogy, most commonly understood as the approach to teaching, is the theory and practice of learning, and how this process influences, and is influenced by, the social, political and psychological development of learners.

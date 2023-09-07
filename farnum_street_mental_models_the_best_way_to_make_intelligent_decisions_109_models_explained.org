@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "65892445-44c2-44f0-9c74-be466d88d3b3"
 #+author: Cash Weaver
 #+date: [2022-11-18 Fri 09:25]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:3c2ba4ec-1daa-4ea4-a4fb-641493b4ac91][Farnam Street]], [cite:@farnumstreetMentalModelsBestWayMakeIntelligentDecisions109ModelsExplained]
 

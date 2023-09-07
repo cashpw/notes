@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "c605b581-d3f9-4eed-a296-f7d72b580db3"
 #+author: Cash Weaver
 #+date: [2022-11-25 Fri 07:25]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:f35e4762-6191-405a-9903-d122b04e76f7][Ray Dalio]], [cite:@dalioPrinciples2017]
 

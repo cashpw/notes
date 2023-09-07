@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "52512c4c-d011-4cca-afd5-87db8442f9c3"
 #+author: Cash Weaver
 #+date: [2022-12-24 Sat 09:16]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:575a40fb-8d8e-4946-8f21-c3dcaafbfcc3][Mortimer J Adler]], [[id:3609e84d-7834-48dd-8a93-24d1cc653def][Charles van Doren]], [cite:@adlerHowReadBook1972]
 

@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       ada68d10-cec8-4af1-903d-29dfa71d2343
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-06 Wed 11:14]
 :END:
 #+title: Read Gmail in Emacs with notmuch and lieer
 #+hugo_custom_front_matter: :slug "ada68d10-cec8-4af1-903d-29dfa71d2343"
 #+author: Cash Prokop-Weaver
 #+date: [2021-12-27 Mon 19:56]
-#+filetags: :has_todo:
+#+filetags: :hastodo:
 
 This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] ([[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]]) using [[https://notmuchmail.org/][=notmuch=]] and [[https://github.com/gauteh/lieer][=lieer=]].
 

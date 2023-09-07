@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "e1b0e31a-4039-4b09-8dbd-8c3587562cca"
 #+author: Cash Weaver
 #+date: [2023-01-09 Mon 08:06]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderBookReviewSeeingState2017]
 

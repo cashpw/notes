@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "ed7f1712-4b41-4199-ad3b-34b51e769952"
 #+author: Cash Prokop-Weaver
 #+date: [2023-08-14 Mon 10:28]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 This is a [[id:37ed078d-dc48-48b5-abe3-20590ecbe41b][Trip]].
 

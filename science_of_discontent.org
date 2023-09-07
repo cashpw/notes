@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "1039c652-2f19-4c9f-b72d-04dea94e30ea"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-15 Tue 09:25]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 - [[id:92b87e35-87c9-4911-a95e-200ca365361d][There should be a science of discontent]]
 - [[id:5aec5577-e490-4624-b114-9bd68b4268df][A person needs new experiences]]

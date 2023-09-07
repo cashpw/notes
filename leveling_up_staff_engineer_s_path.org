@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "3910de4c-e0b0-4bad-93b9-334af4256906"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-05 Mon 09:34]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 #+begin_quote
 Every increase in seniority comes with more responsibility for raising the standards and skills of the engineers within your orbit, whether that's your local team, colleagues in your organization, or engineers across your whole company or industry. This responsibility will include intentional influence through teaching and mentoring, as well as the accidental influence that comes from being a role model.
 

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "3bbbacc5-9f55-4ded-abf5-d76ff0b5b8e2"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-10 Thu 17:34]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 - [[id:71422543-ab62-4166-8429-0cd631da8d38][Patrick Collison, Tyler Cowen | We Need a New Science of Progress]]
 

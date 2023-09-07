@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "c72f25c5-551c-40e7-a309-277333a7406c"
 #+author: Cash Weaver
 #+date: [2023-01-10 Tue 14:26]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:2ea6df4a-a690-48c6-a5b6-1ca6f4bf87cf][Kevin Simler]], [cite:@simlerSocialStatusRabbitHole]
 

@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "ffc17a16-4fd4-436f-ba8a-fcb9db62f150"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-10 Thu 17:13]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:19926ee0-23db-4536-83c1-3bf90fd9f5f4][Dan McKinley]], [cite:@mckinleyChooseBoringTechnology], [cite:@ChooseBoringTechnology]
 

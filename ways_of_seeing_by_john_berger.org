@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "528ab2f1-bdaf-4acd-9e77-9787bb9adef6"
 #+author: Cash Weaver
 #+date: [2023-01-02 Mon 10:20]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 TODO_AUTHOR, [cite:@WaysSeeingJohnBerger]
 

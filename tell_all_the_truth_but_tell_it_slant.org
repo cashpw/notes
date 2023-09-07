@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "af1ca7da-bebf-4161-8162-057cae4a0951"
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-22 Tue 07:44]
-#+filetags: :has_todo:poem:
+#+filetags: :hastodo:poem:
 
 #+begin_verse
 Tell all the truth but tell it slant —

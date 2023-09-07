@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "d923e2b9-8907-4cbb-9874-4b638f9f0aba"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-14 Sat 08:06]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#3] Expand
 - Alter your [[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentives]]

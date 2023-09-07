@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "e3f73b89-f752-4c4a-aa8c-8931a5752406"
 #+author: Cash Prokop-Weaver
 #+date: [2023-07-31 Mon 19:52]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In sharp contrast to NDM, the HB approach favors a skeptical attitude toward expertise and expert judgment. The origins of this attitude can be traced to a famous monograph published by Paul Meehl in 1954. Meehl (1954) reviewed approximately 20 studies that compared the accuracy of forecasts made by human judges (mostly clinical psychologists) and those predicted by simple statistical models. The criteria in the studies that Meehl (1954) discussed were diverse, with outcome measures ranging from academic success to patient recidivism and propensity for violence. Although the algorithms were based on a subset of the information available to the clinicians, statistical predictions were more accurate than human predictions in almost every case. Meehl (1954) believed that the inferiority of clinical judgment was due in part to systematic errors, such as the consistent neglect of the base rates of outcomes in discussion of individual cases. In a wellknown article, he later explained his reluctance to attend clinical conferences by citing his annoyance with the clinicians' uncritical reliance on their intuition and their failure to apply elementary statistical reasoning (Meehl, 1973).

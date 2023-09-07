@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "b00a62dd-b06c-4943-81d7-140b11e15c8b"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-07 Mon 16:37]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * TODO [#4] Your goal should be solving the problem first and foremost
 

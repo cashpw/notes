@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "4bb10022-d6c2-4ad5-9513-03be3d26a54c"
 #+author: Cash Prokop-Weaver
 #+date: [2023-03-22 Wed 20:08]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 Your first 100 days in a new role will set the precedence for all the subsequent days. It'll define how your team sees you and what they expect from you and see you as capable of. First impressions and all that. I'm approaching it from the angle of software engineering. However, some of the items are applicable to other roles.
 

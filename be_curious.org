@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "279afdb0-48ca-4542-94f1-d20add351cae"
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-21 Thu 16:39]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 Curiosity is key to expanding your understanding of the world.
 * TODO [#4] Expand :noexport:
 * Flashcards

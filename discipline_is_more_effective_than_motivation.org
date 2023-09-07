@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "b9b216c0-f2df-40a0-a148-b27ec93d6477"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-23 Wed 09:21]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 Discipline is more effective than motivation as a general means to achieving goals.
 

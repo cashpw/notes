@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "1e9fa224-0c4d-4b1b-aee5-4075fe9f900a"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-06 Tue 08:39]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 A one-click $X$ is something that one can perform by taking a single action. I've seen the phrase used most commonly in the context of one-click software deployments.
 * TODO [#2] Expand :noexport:

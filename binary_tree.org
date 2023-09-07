@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "323bf406-41e6-4e5f-9be6-689e1055b118"
 #+author: Cash Prokop-Weaver
 #+date: [2022-06-28 Tue 15:26]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In computer science, a binary tree is a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in which each node has at most two children, which are referred to as the left child and the right child.

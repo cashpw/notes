@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "f3ca255f-a05d-4410-8a11-4fc48db1afe7"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-05 Mon 19:58]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 Your treasure map can help you make sure everyone knows exactly what they're trying to achieve and why.

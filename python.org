@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
 #+author: Cash Prokop-Weaver
 #+date: [2022-07-01 Fri 11:47]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 The programming language
 
 * TODO [#4]

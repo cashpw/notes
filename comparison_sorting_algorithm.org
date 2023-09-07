@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "cedb0b84-030c-4de7-b4ae-0ce16f09fa19"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-18 Fri 14:47]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 A comparison sort is a type of [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] that only reads the list elements through a single abstract comparison operation (often a "less than or equal to" operator or a three-way comparison) that determines which of two elements should occur first in the final sorted list. The only requirement is that the operator forms a total preorder over the data, with:

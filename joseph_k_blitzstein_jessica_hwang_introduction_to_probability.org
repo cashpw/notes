@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "dcd814bd-4e7b-45e1-a53f-994dc334ff80"
 #+author: Cash Weaver
 #+date: [2023-01-18 Wed 06:19]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:5bd484ff-a525-429a-92cb-7b79894f4d61][Joseph Blitzstein]], [[id:3e857ca5-35ca-42ec-846e-4158b2c06e7c][Jessica Hwang]], [cite:@blitzsteinIntroductionProbability2019]
 

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "877374fa-15a1-40c9-a1ae-d28a0832ea75"
 #+author: Cash Prokop-Weaver
 #+date: [2022-10-28 Fri 15:57]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 Related:
 
 - [[id:92cf48f0-63a6-4d1d-9275-c80f6743ccb9][Do things that compound]]

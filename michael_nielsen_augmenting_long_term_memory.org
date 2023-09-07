@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "bd09aed1-7599-4bf2-8aea-dcb2e88f17a7"
 #+author: Cash Weaver
 #+date: [2023-04-11 Tue 16:52]
-#+filetags: :reference:has_todo:
+#+filetags: :reference:hastodo:
 
 [[id:fab44a9b-b97e-4e58-832e-7f73c9819f64][Michael Nielsen]], [cite:@nielsenAugmentingLongtermMemory2018]
 

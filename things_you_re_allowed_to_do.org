@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "204ab57d-e532-47ef-87ca-e22ddd08092d"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-12 Thu 10:52]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 * Education
 

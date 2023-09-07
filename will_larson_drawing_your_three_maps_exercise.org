@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "45eae752-81ef-468b-96e2-e686c38a3736"
 #+author: Cash Weaver
 #+date: [2023-06-06 Tue 08:06]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:2c536d79-3ebe-4b38-9193-78ec80ed3772][Will Larson]], [cite:@larsonDrawingYourThreeMapsExercise2022]
 

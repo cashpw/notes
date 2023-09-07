@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "0a3904f5-1484-4c12-8abb-005c707401e1"
 #+author: Cash Prokop-Weaver
 #+date: [2023-01-08 Sun 19:02]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 * TODO [#2] Expand :noexport:
 
 - "a method of conveying information among not-necessarily-trustworthy parties by performing an action which is more likely or less costly if the information is true than if it is not true" [cite:@lesswrongSignaling]

@@ -6,7 +6,7 @@
 #+hugo_custom_front_matter: :slug "7add4362-8a4e-4148-ac25-185213327b33"
 #+author: Cash Weaver
 #+date: [2022-11-16 Wed 08:54]
-#+filetags: :has_todo:concept:
+#+filetags: :hastodo:concept:
 
 I write these notes for myself and they model the way I've read and the way I think. I don't consider a post "readable" when it links off to a dozen other pages each of which links further and all of which must be read and understood to understand the initial post. [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]] are for note taking and thinking but not, at least primarily, for consuming. For that I want to create synthesis notes more akin to blog posts.
 

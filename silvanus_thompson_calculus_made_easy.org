@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
 #+author: Cash Weaver
 #+date: [2023-01-18 Wed 06:55]
-#+filetags: :has_todo:reference:
+#+filetags: :hastodo:reference:
 
 [[id:bf26a7f9-5582-4216-b6fa-8c476f741b8c][Silvanus Thompson]], [cite:@thompsonCalculusMadeEasy1914]
 
