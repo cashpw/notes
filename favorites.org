@@ -1,18 +1,16 @@
 :PROPERTIES:
 :ID:       2a586a0e-eddc-4903-9c90-7e3a91e3204c
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-07 Thu 07:56]
 :END:
 #+title: Favorites
 #+hugo_custom_front_matter: :slug "2a586a0e-eddc-4903-9c90-7e3a91e3204c"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-18 Fri 13:56]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
 Some of my favorite things.
 
 * Essays
-- [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
-- [[id:e02451fc-c9d5-4c02-849b-d9b7d4cc95a7][Derek Sivers | There's No Speed Limit]] ([[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]])
 - [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]]
 - [[id:617eec3a-89c3-4b9f-9074-47d4bf4e69fd][Ben Kuhn | To Listen Well, Get Curious]]
 - [[id:4625d068-26fe-47d7-93b3-da12b0151ca1][Ben Kuhn | Attention Is Your Scarcest Resource]]
@@ -38,5 +36,7 @@ Some of my favorite things.
 - [[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][Who built the seven gates of Thebes?]]
 - [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
 - [[id:de31b59e-2fed-49c0-82ff-22d6f86fc48d][Howl (Poem)]]
+
+* TODO [#1] Add a link to this node in each of the listed nodes :noexport:
 
 * Flashcards

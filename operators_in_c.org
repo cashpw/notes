@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-07 Thu 07:20]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -454,7 +454,7 @@ void sort(const std::vector<double>& numbers);
 =::=
 *** Source
 [cite:@stroustrupTour2022]
-** Denotes :fc:
+** Denotes (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-12 Fri 12:14]
 :FC_CREATED: 2023-05-12T19:14:53Z
@@ -464,7 +464,7 @@ void sort(const std::vector<double>& numbers);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    39.04 | 2023-09-04T14:42:53Z |
+| front    | 2.50 |   6 |   105.64 | 2023-12-22T05:38:16Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-12T19:14:53Z |
 :END:
 

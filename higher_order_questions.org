@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-07 Thu 07:57]
 :END:
 #+title: Higher order questions
 #+hugo_custom_front_matter: :slug "dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60"
@@ -26,7 +26,7 @@ Also see [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   127.89 | 2023-09-06T20:47:47Z |
+| front    | 2.05 |   8 |   279.20 | 2024-06-12T19:44:03Z |
 | back     | 2.65 |   7 |   244.66 | 2024-02-18T06:16:37Z |
 :END:
 

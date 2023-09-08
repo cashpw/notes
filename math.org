@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-07 Thu 07:21]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1392,7 +1392,7 @@ $\operatorname{f}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ \text{various} & \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   4 |    14.07 | 2023-08-19T17:09:21Z |
+| back     | 2.20 |   5 |    28.22 | 2023-10-05T19:38:01Z |
 | front    | 2.50 |   8 |   282.96 | 2023-11-16T22:45:49Z |
 :END:
 

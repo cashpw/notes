@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SmartGuyProductivityPitfalls]
 :ID:       9ed16182-a4a5-4bf6-a5c7-b6196c6eca97
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-09-07 Thu 07:55]
 :END:
 #+title: Smart Guy Productivity Pitfalls
 #+hugo_custom_front_matter: :slug "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
@@ -14,6 +14,9 @@ Unknown, [cite:@SmartGuyProductivityPitfalls]
 * Summary
 The simplicity of "Work smart, not hard" is deceptive. It's too easy to conclude that you don't need to work hard -- only smart. This is the pitfall.
 * Thoughts
+
+This is one of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
+
 I feel seen by this years-old blog post and it's unpleasant. Particularly:
 
 #+begin_quote
@@ -120,7 +123,7 @@ I disagree with the author's assessment that solutions such as "turning off the 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    88.83 | 2023-11-17T11:56:19Z |
-| back     | 2.20 |   1 |     1.00 | 2023-09-05T18:01:14Z |
+| back     | 2.20 |   2 |     2.00 | 2023-09-09T14:54:43Z |
 :END:
 
 [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-07 Thu 07:24]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -474,7 +474,7 @@ Infinity in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   127.42 | 2023-09-06T09:50:19Z |
+|        0 | 2.20 |   8 |   305.33 | 2024-07-08T22:19:40Z |
 :END:
 
 ([[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]) =range(x, y)= produces a list from {{$[x, y-1]$}@0}.

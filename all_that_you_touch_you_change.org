@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5a289064-2f24-4877-88a3-c9825dc2dbbe
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-07 Thu 08:00]
 :END:
 #+title: All that you touch You Change
 #+hugo_custom_front_matter: :slug "5a289064-2f24-4877-88a3-c9825dc2dbbe"
@@ -65,7 +65,7 @@ All that you Change {{Changes you.}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 3.10 |   6 |   157.74 | 2023-09-06T15:20:07Z |
+|        0 | 3.10 |   7 |   521.86 | 2025-02-10T11:32:30Z |
 :END:
 
 The only lasting truth {{is Change.}@0}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80c7fef7-aa9e-439f-a02f-be3edb85d8f5
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-07 Thu 07:29]
 :END:
 #+title: Leibniz's notation
 #+hugo_custom_front_matter: :slug "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
@@ -74,7 +74,7 @@ infinitesimally small increments
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    84.67 | 2023-09-25T17:07:52Z |
-| back     | 2.50 |   6 |   119.17 | 2023-09-05T20:48:12Z |
+| back     | 2.50 |   7 |   275.67 | 2024-06-09T06:36:34Z |
 :END:
 
 The $n\text{-th}$ [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] of $y$ with respect to $x$ in [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]

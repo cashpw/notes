@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c42b21e4-6ddb-452f-acb4-5cf9ab122e2e
 :ROAM_ALIASES: "International radiotelephony spelling alphabet"
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-07 Thu 07:31]
 :END:
 #+title: NATO phonetic alphabet
 #+hugo_custom_front_matter: :slug "c42b21e4-6ddb-452f-acb4-5cf9ab122e2e"
@@ -381,7 +381,7 @@ The International Radiotelephony Spelling Alphabet, commonly known as the NATO p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   8 |    73.56 | 2023-09-07T07:00:36Z |
+|        0 | 1.75 |   9 |   139.80 | 2024-01-25T09:46:49Z |
 :END:
 ** ([[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]) Y: {{Yankee}@0} :fc:
 :PROPERTIES:

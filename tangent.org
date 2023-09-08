@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44aea0ad-06fe-4c46-83c3-53b6a78591c3
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-07 Thu 08:00]
 :END:
 #+title: Tangent (Trigonometry)
 #+hugo_custom_front_matter: :slug "44aea0ad-06fe-4c46-83c3-53b6a78591c3"
@@ -34,7 +34,7 @@ The tangent of a function is the [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Inst
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.40 |   6 |    15.99 | 2023-09-05T15:45:26Z |
+| front    | 1.40 |   7 |    24.17 | 2023-10-01T18:59:11Z |
 | back     | 2.80 |   8 |   420.44 | 2024-04-24T14:39:50Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d31a0ca1-d390-4ac5-bada-3a97e769f725
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-07 Thu 07:59]
 :END:
 #+title: Ossify
 #+hugo_custom_front_matter: :slug "d31a0ca1-d390-4ac5-bada-3a97e769f725"
@@ -22,7 +22,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   283.23 | 2024-03-04T20:07:14Z |
-| back     | 2.50 |   7 |   149.49 | 2023-09-05T02:43:14Z |
+| back     | 2.35 |   8 |   368.31 | 2024-09-09T22:28:54Z |
 :END:
 
 *** Back

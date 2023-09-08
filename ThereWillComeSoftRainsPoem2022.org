@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ThereWillComeSoftRains2022]
 :ID:       afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-07 Thu 07:58]
 :END:
 #+title: There will come soft rains
 #+hugo_custom_front_matter: :slug "afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1"
@@ -129,7 +129,7 @@ Would scarcely know that we were gone.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   1 |     1.00 | 2023-09-06T15:31:15Z |
+| front    | 1.90 |   2 |     2.00 | 2023-09-09T14:58:23Z |
 :END:
 [[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There Will Come Soft Rains (poem)]]
 *** Back

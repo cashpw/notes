@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kuhnListenWellGetCurious]
 :ID:       617eec3a-89c3-4b9f-9074-47d4bf4e69fd
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-07 Thu 07:54]
 :END:
 #+title: Ben Kuhn | To Listen Well, Get Curious
 #+hugo_custom_front_matter: :slug "617eec3a-89c3-4b9f-9074-47d4bf4e69fd"
@@ -49,7 +49,7 @@ It often feels like I understand enough to be helpful without knowing all those 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    43.93 | 2023-09-06T02:16:59Z |
+|        0 | 2.50 |   6 |   120.25 | 2024-01-05T20:59:03Z |
 :END:
 
 *** Source

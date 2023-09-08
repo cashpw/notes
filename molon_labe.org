@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       51bbc6a1-382e-4827-97ea-75534856341f
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-07 Thu 07:58]
 :ROAM_REFS: [cite:@MolonLabe2023]
 :END:
 #+title: Molon labe
@@ -28,7 +28,7 @@ Molon labe, meaning 'come and take [them]', is a classical expression of defianc
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   239.78 | 2024-02-28T20:30:22Z |
-|        1 | 2.95 |   6 |   129.42 | 2023-09-07T04:55:59Z |
+|        1 | 2.95 |   7 |   358.91 | 2024-08-31T12:42:49Z |
 :END:
 
 {{[[id:51bbc6a1-382e-4827-97ea-75534856341f][Molon labe]]}{Ancient greek}@0} :: {{Come and take [them]}{English}@1}

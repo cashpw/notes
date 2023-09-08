@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       37b4cf4e-b716-4e46-a27f-dfb5fce06bc7
 :ROAM_ALIASES: "Python PriorityQueue"
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-07 Thu 07:28]
 :ROAM_REFS: [cite:@QueueSynchronizedQueueClass]
 :END:
 #+title: Python library: queue
@@ -213,7 +213,7 @@ print(min_queue.get(), 'should be (5, b)')
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   315.75 | 2024-07-10T09:05:38Z |
-| back     | 2.80 |   6 |   118.05 | 2023-09-06T16:17:01Z |
+| back     | 2.80 |   7 |   328.99 | 2024-08-01T14:13:05Z |
 :END:
 
 How to get [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]'s =PriorityQueue= to employ a [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]].

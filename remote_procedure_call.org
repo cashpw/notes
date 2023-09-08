@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f85a49e5-6718-4da8-b325-22b23a44985f
 :ROAM_ALIASES: RPC
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-09-07 Thu 07:57]
 :ROAM_REFS: [cite:@RemoteProcedureCall2023]
 :END:
 #+title: Remote procedure call
@@ -28,7 +28,7 @@ In distributed computing, a remote procedure call (RPC) is when a computer progr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    99.14 | 2023-09-16T18:51:10Z |
-| back     | 2.65 |   6 |    84.91 | 2023-09-05T22:08:00Z |
+| back     | 2.50 |   7 |   226.02 | 2024-04-20T15:20:18Z |
 :END:
 
 [[id:f85a49e5-6718-4da8-b325-22b23a44985f][Remote procedure call]]
