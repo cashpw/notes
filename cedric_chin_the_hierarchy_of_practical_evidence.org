@@ -1,18 +1,34 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinHierarchyPracticalEvidence2019]
 :ID:       a54b896a-9969-4d44-95cc-a9baf8ef3dde
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-08 Fri 16:17]
 :END:
 #+title: Cedric Chin | The Hierarchy of Practical Evidence
 #+hugo_custom_front_matter: :slug "a54b896a-9969-4d44-95cc-a9baf8ef3dde"
 #+author: Cash Weaver
 #+date: [2023-07-30 Sun 08:17]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
-TODO_AUTHOR, [cite:@chinHierarchyPracticalEvidence2019]
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinHierarchyPracticalEvidence2019]
 
-* TODO Summary
-* TODO Thoughts
-* INPROGRESS Notes
-* TODO [#2] Flashcards
+* Summary
+* Thoughts
+* Notes
+#+begin_quote
+1. *Tested against reality.* This is the highest level of practical evidence. You have tested the technique in your own life, and have found that it works.
+2. *Believable & exposed to negative outcomes*. The second level, below 'tested against reality'. The person giving you advice is believable ([[https://commoncog.com/believability/][definition here]]) and is exposed to negative outcomes in her field. Exposure to downside risk is also called 'skin in the game' by author Nassim Nicholas Taleb. Experts who have such exposure are more credible, because if they are wrong, they lose materially (in terms of money, career prospects, or significantly important life outcomes). This incentivises them to get their opinions /right/.
+3. *Believable*. One level below this are expert practitioners who are 'merely' believable. The definition of believability is 'has at least three successes in the relevant field, and has a credible approach when probed'. I've done a full-writeup of this technique [[https://commoncog.com/believability/][here]].
+4. *Put to practice in own life.* People who have applied the technique that they are giving you advice about is the next level of credibility in this hierarchy. This is because they have at least attempted to test the technique against reality. You may thus learn nuances of said technique from their experiences. Corollary: beware people who recommend techniques they've never tried, distrust advice from people who read but do not practice.
+5. *Compelling argument.* This is the lowest acceptable level of the hierarchy. Advice should be considered if the advice is internally consistent and constructed with no glaring logical flaws. This is the lowest possible level because it is easy to say things that are insightful --- and in today's attention economy, there are lots of people out there who have optimised for insight in the hopes of capturing attention. This does not make said thing effective or true.
+
+There are several second-order implications from this idea.
+
+1. Ad-hominem is legitimate when it comes to evaluating practical advice. This is covered more fully in my [[https://commoncog.com/putting-mental-models-to-practice-part-6-a-personal-epistemology-of-practice/#evaluating-anecdata][original piece]] (relevant section linked).
+2. There are situations where changing environments render credible advice from believable people mistaken. But in order to disregard such advice, you should have a credible argument for why you believe expertise can be discounted.
+3. Effective advice often sounds insightful, but advice that sounds insightful is not always effective. It is easy to conflate the two. It is easier still to do so when one is on Twitter.
+4. Due to confounding factors (such as genetics, privilege, luck, and external circumstances), believable advice may still be inapplicable. The practitioner's art is to investigate the essence of the technique while adapting it from the unique circumstances of its original application.
+
+There are likely more second-order implications. I encourage you to come up with them for yourself.
+#+end_quote
+* Flashcards
 #+print_bibliography:

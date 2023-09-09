@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e1661be1-5f0f-481c-9899-d5cb476096e5
 :ROAM_REFS: [cite:@BestfirstSearch2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-09-08 Fri 09:26]
 :END:
 #+title: Best-first search
 #+hugo_custom_front_matter: :slug "e1661be1-5f0f-481c-9899-d5cb476096e5"
@@ -27,7 +27,7 @@ Best-first search is a class of search algorithms, which explore a graph by expa
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   356.71 | 2024-08-14T09:40:22Z |
-| back     | 2.80 |   6 |   124.37 | 2023-09-08T02:43:56Z |
+| back     | 2.80 |   7 |   329.14 | 2024-08-02T19:41:18Z |
 :END:
 
 [[id:e1661be1-5f0f-481c-9899-d5cb476096e5][Best-first search]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       635d6c87-68fe-4fbf-9462-2d86b0ea7f58
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-08 Fri 09:25]
 :ROAM_ALIASES: "Maximum capacity path problem"
 :END:
 #+title: Widest path problem
@@ -32,7 +32,7 @@ In this graph, the widest path from Maldon to Feering has bandwidth 29, and pass
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   132.26 | 2023-09-08T04:54:09Z |
+| front    | 2.20 |   8 |   290.03 | 2024-06-24T17:05:55Z |
 | back     | 2.20 |   5 |    26.74 | 2023-09-22T08:37:21Z |
 :END:
 

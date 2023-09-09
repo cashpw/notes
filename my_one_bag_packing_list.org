@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       545708ae-0765-4454-bb7b-11da616f0711
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-09-08 Fri 07:54]
 :END:
 #+title: My one-bag packing list
 #+hugo_custom_front_matter: :slug "545708ae-0765-4454-bb7b-11da616f0711"
@@ -26,7 +26,7 @@ This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] p
 
    Example: A [[amazon:B009VU2TQI][gaiter]] serves as a [[file:2023-08-20_08-46-26_71DjeJf2umS._AC_UX679_.jpg][scarf, face covering, headband, balaclava, sleep mask, and more!]]
 
-* Clothing
+* TODO [#2] Clothing
 
 ** Tops
 
@@ -42,30 +42,30 @@ This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] p
 
   Dual-purpose: Exercise and swim
 
-** INPROGRESS Accessories
+** Accessories
 
 - [[amazon:B009VU2TQI][Lightweight merino wool Buff]]
 - [[amazon:B006WWFWLM][Sunday Afternoons Sun Tripper Cap]]: Folds down and is UPF 50+
 - Brown [[https://www.narragansettleathers.com/][Narragansett Leathers]] belt
 
-** INPROGRESS Footwear
+** Footwear
 
 *** Shoes
 
 *** Socks
 
-** INPROGRESS Underwear
+** Underwear
 
-* INPROGRESS Food
+* TODO [#2] Food
 
 - Protein [[https://us.myprotein.com/sports-nutrition/pea-protein-isolate/10852589.html][powder]] and [[https://us.misfits.health/collections/protein-bars][bars]] to total 200g protein per day: It's difficult to source sufficient macro-aligned vegan protein while travelling.
 - Protein shaker
-* INPROGRESS Toiletries
-* INPROGRESS Storage / Backpack
-* INPROGRESS Medication
-* INPROGRESS Sleep
-* INPROGRESS Documentation
-* INPROGRESS Technology
+* TODO [#2] Toiletries
+* TODO [#2] Storage / Backpack
+* TODO [#2] Medication
+* TODO [#2] Sleep
+* TODO [#2] Documentation
+* TODO [#2] Technology
 - Laptop: Essential for how I [[id:dc6d6e17-e4d3-4390-b988-8e09d451e9b0][read]] ([[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][example]]), [[id:4be26817-4ffd-4975-97aa-deda536235a5][study]], and [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][write these notes]]
 - [[amazon:B09P13D2H1][MINIX Multi-USB travel adapter]]: Can charge everything I bring with at once and I can plug it in everywhere[fn:1] I go
 - Two [[amazon:B08PVPTNZL][USB-C to USB-C cables]]
@@ -73,14 +73,13 @@ This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] p
 - USB-A to USB-micro-B cable
 - [[amazon:B0BDSGHVMW][Google Pixel Watch]] and USB-C charging cable
 
-* Exercise
+* TODO [#2] Exercise
 
 - [[amazon:B079PVQNT3][Lacrosse ball]]: Roll out my tight muscles
 - Resistance band: Bodyweight [[id:ede98d80-26a5-4b11-8427-9b6fec550c3e][Exercise program]]
 - [[amazon:B071DG9VX4][Yoga band]]: Stretch and general rope/tying utility
 
-* Misc
-
+* TODO [#2] Misc
 * Changelog
 
 See [[id:54aeab12-48bb-4624-a110-e0a5d50087f4][Semantic versioning]].
@@ -92,7 +91,6 @@ See [[id:54aeab12-48bb-4624-a110-e0a5d50087f4][Semantic versioning]].
 - 1.0.0: Based on extensive reading on [[http://reddit.com/r/onebag][r/onebag]] and linked sites including [cite:@malufIndefiniteBackpackTravel]
 
 * Footnotes
-
 [fn:1] The adapter includes types A, C, G, and I plugs which work with most of the world's plugs.
 * Flashcards
 #+print_bibliography:

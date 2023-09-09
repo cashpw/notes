@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-09-07 Thu 08:00]
+:LAST_MODIFIED: [2023-09-08 Fri 09:16]
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -88,7 +88,7 @@ Movement to or toward; in addition to
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   243.77 | 2024-03-25T21:27:14Z |
-| back     | 2.80 |   6 |   127.67 | 2023-09-08T07:51:43Z |
+| back     | 2.65 |   7 |   317.84 | 2024-07-22T12:22:06Z |
 :END:
 
 Endo-

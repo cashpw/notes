@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-09-07 Thu 08:00]
+:LAST_MODIFIED: [2023-09-08 Fri 16:11]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -11,9 +11,7 @@
 
 [[id:123f89cf-96cf-4ab2-bb84-9ae005a4ee5f][Bjarne Stroustrup]], [cite:@stroustrupTour2022]
 
-* TODO Summary
-* TODO Thoughts
-* INPROGRESS Notes :ATTACH:
+* TODO [#4] Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/29/c58f6a-4c43-45f2-8cf3-86a53cb36978/tour-of-cpp-third-edition.pdf
 :NOTER_PAGE: 132
@@ -780,7 +778,7 @@
 :NOTER_PAGE: 312
 :END:
 
-* TODO [#2] Flashcards
+* Flashcards
 ** Describe (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 08:23]

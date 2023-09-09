@@ -2,7 +2,7 @@
 :ID:       d3439626-492b-4165-836e-efd890096225
 :ROAM_ALIASES: "Connected components"
 :ROAM_REFS: [cite:@ComponentGraphTheory2023]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-08 Fri 09:23]
 :END:
 #+title: Component (Graph theory)
 #+hugo_custom_front_matter: :slug "d3439626-492b-4165-836e-efd890096225"
@@ -38,7 +38,7 @@ A graph with three components.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   387.46 | 2024-07-26T06:28:43Z |
-| back     | 2.65 |   6 |   120.91 | 2023-09-08T13:42:17Z |
+| back     | 2.65 |   7 |   295.96 | 2024-06-30T15:28:01Z |
 :END:
 
 [[id:d3439626-492b-4165-836e-efd890096225][Component (Graph theory)]]

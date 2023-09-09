@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b07a1490-3847-4b65-80bb-17e3f4927cfb
 :ROAM_REFS: [cite:@BayesTheorem2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-08 Fri 09:23]
 :END:
 #+title: Bayes's theorem
 #+hugo_custom_front_matter: :slug "b07a1490-3847-4b65-80bb-17e3f4927cfb"
@@ -16,9 +16,6 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 - [cite:@yudkowskyIntuitiveExplanationBayesTheorem]
 - [cite:@explainedIntuitiveShortExplanationBayesTheorem]
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** Definition :fc:
 :PROPERTIES:
@@ -55,7 +52,7 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   280.98 | 2023-11-14T16:57:30Z |
-|        1 | 1.60 |   4 |     8.85 | 2023-09-08T09:08:54Z |
+|        1 | 1.60 |   5 |    12.85 | 2023-09-21T12:42:09Z |
 :END:
 
 *** Source

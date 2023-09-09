@@ -1,22 +1,45 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinThreeKindsTacitKnowledge2020]
 :ID:       6e417a2d-0c14-4057-b022-c89d787e7fd3
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-08 Fri 12:43]
 :END:
 #+title: Cedric Chin | The Three Kinds of Tacit Knowledge
 #+hugo_custom_front_matter: :slug "6e417a2d-0c14-4057-b022-c89d787e7fd3"
 #+author: Cash Weaver
 #+date: [2023-08-04 Fri 21:58]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinThreeKindsTacitKnowledge2020]
 
-* TODO Summary
-* TODO Thoughts
-* INPROGRESS Notes
-1. [[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]]
-2. [[id:42fb5f3a-ce78-4d22-86e6-0ee2bcad8908][Somatic tacit knowledge]]
-3. [[id:c826a9e6-fcf5-4b94-81cb-0495f6aaa866][Collective tacit knowledge]]
+* Summary
+* Thoughts
+I'm not sure the distinction between [[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]] and [[id:c826a9e6-fcf5-4b94-81cb-0495f6aaa866][Collective tacit knowledge]] is important. They blur together in my mind. Perhaps "Somatic" and "Non-somatic" is sufficient.
+* Notes
+** [[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]]
+
+#+begin_quote
+Collins himself has written a fair amount about scientists who were attempting to build a new kind of laser --- the transversely excited atmospheric pressure carbon dioxide laser, or TEA laser. He notes, of that pursuit:
+
+#+begin_quote2
+  My study (...) showed that the scientists failed if they used only the information published in scientific papers. These papers included those which supplied details as intricate as the cross-section and machining instructions for the electrodes and even the manufacturers' part numbers for bought-in items. It showed, however, that only those who spent some time socially interacting with others who had already built a working model could succeed.
+#+end_quote2
+
+It seems that the act of building a working TEA laser involves all sorts of tiny details that the original creators did not think to explicate. And even if they did make an effort to do so, Collins is not sure that the results would have been any different --- some of these things were tiny tweaks that everyone in the lab group understood, but nobody had thought of as important knowledge.
+
+Here's Collins again, on a different group of scientists:
+
+#+begin_quote2
+  My 2001 study of scientists trying to measure the quality factor, or Q, of sapphire, backed up the earlier work by showing that measurements of the quality factor of small sapphire crystals were so hard that only one group of scientists in the world were able to achieve them until a member of the successful Russian group spent considerable time in the laboratory of a second group, in Glasgow, who finally managed it after a week or so of interaction.
+#+end_quote2
+
+Collins appears to enjoy using the laser example and the sapphire example because the scientists were working from detailed specifications published in peer-reviewed journals ... and they were working in physics and material science respectively --- both of them 'hard sciences'! Collins's point: if it is difficult to explicate knowledge in the 'hard sciences', then we should expect no less in other domains of human knowledge.
+
+[cite:@chinThreeKindsTacit2020]
+#+end_quote
+
+** [[id:42fb5f3a-ce78-4d22-86e6-0ee2bcad8908][Somatic tacit knowledge]]
+** [[id:c826a9e6-fcf5-4b94-81cb-0495f6aaa866][Collective tacit knowledge]]
+** Wrapping up
 
 #+begin_quote
 Collins makes two more observations that I thought were pretty interesting.
@@ -25,5 +48,5 @@ Collins makes two more observations that I thought were pretty interesting.
 2. When it comes to human behaviour, the ease with which we pick up the three forms of tacit knowledge is reversed! It is easiest for us to pick up collective tacit knowledge — we begin socialisation from birth; we don't even notice when we absorb social context from our surroundings. In comparison, it is slightly harder to pick up somatic tacit knowledge, and it is most difficult to pick up relational tacit knowledge, since this hangs on the nature of expertise, and it the depends on the ways with which we relate to each other.
 #+end_quote
 
-* TODO [#2] Flashcards
+* Flashcards
 #+print_bibliography:

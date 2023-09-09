@@ -1,14 +1,12 @@
 :PROPERTIES:
 :ID:       b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d
-:LAST_MODIFIED: [2023-09-06 Wed 07:29]
+:LAST_MODIFIED: [2023-09-08 Fri 11:42]
 :END:
 #+title: No half measures
 #+hugo_custom_front_matter: :slug "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
 #+author: Cash Prokop-Weaver
 #+date: [2023-07-21 Fri 08:24]
-#+filetags: :hastodo:concept:
-
-* INPROGRESS
+#+filetags: :concept:
 
 Go all-in. It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it didn't go far enough.
 
@@ -26,7 +24,7 @@ Her portfolio was chock full of neon colors and glitter and rhinestones and spla
 [cite:@switchelsweetsMyAPArtClass]
 #+end_quote
 
-** TODO https://mindingourway.com/half-assing-it-with-everything-youve-got/
+Related [[id:9e9ec4a3-93b8-4e7e-ba20-dbf557d989cb][Nate Soares | Half-Assing It with Everything You've Got]]
 
 * Flashcards
 ** Describe :fc:

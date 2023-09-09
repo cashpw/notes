@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       af0b4a55-1142-4894-ad74-ee3b2926284d
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-08 Fri 11:42]
 :END:
 #+title: Keep your eye on the prize
 #+hugo_custom_front_matter: :slug "af0b4a55-1142-4894-ad74-ee3b2926284d"
@@ -8,7 +8,7 @@
 #+date: [2023-07-27 Thu 08:44]
 #+filetags: :hastodo:concept:
 * TODO [#2]
-Rename the node? Consolidate with other notes?
+Rename the node? Consolidate with other notes like [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]]?
 
 Keep your focus on the actual goal and act in accordance with that "north star" goal. Stay focused; don't get sidetracked accomplishing tasks that don't get you closer to your goal.
 

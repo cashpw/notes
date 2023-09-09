@@ -2,7 +2,7 @@
 :ID:       4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087
 :ROAM_REFS: [cite:@SearchAlgorithm2022]
 :ROAM_ALIASES: "A* search algorithm" A*
-:LAST_MODIFIED: [2023-09-07 Thu 07:28]
+:LAST_MODIFIED: [2023-09-08 Fri 09:25]
 :END:
 #+title: A-star search algorithm
 #+hugo_custom_front_matter: :slug "4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087"
@@ -97,7 +97,7 @@ The time complexity of [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] {{depends
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   3 |     6.00 | 2023-09-13T14:28:13Z |
-|        1 | 2.95 |   6 |   159.38 | 2023-09-01T22:32:15Z |
+|        1 | 3.10 |   7 |   529.49 | 2025-02-19T04:16:21Z |
 :END:
 
 {{The =*=, for example in [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]],}@0} denotes {{optimal solutions}@1}

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       31152f53-1769-454c-be11-643a5405eb5d
+:LAST_MODIFIED: [2023-09-08 Fri 15:20]
+:END:
+#+title: Applied cognitive task analysis
+#+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-08 Fri 15:18]
+#+filetags: :hastodo:concept:
+* INPROGRESS
+
+#+begin_quote
+There are four techniques in ACTA, and all of them are pretty straightforward to put to practice:
+
+1. You start by creating a *task diagram*. A task diagram gives you a broad overview of the task in question and identifies the difficult cognitive elements. You'll want to do this at the beginning, because you'll want to know which parts of the task are worth focusing on.
+2. You do a *knowledge audit*. A knowledge audit is an interview that identifies all the ways in which expertise is used in a domain, and provides examples based on actual experience.
+3. You do a *simulation interview*. The simulation interview allows you to better understand an expert's cognitive processes within the context of an single incident (e.g. a firefighter arrives at the scene of a fire; a programmer is handed an initial specification). This allows you to extract cognitive processes that are difficult to get at using a knowledge audit, such as situational assessment, and how such changing events impacts subsequent courses of action.
+4. You create a *cognitive demands table*. After conducting ACTA interviews with /multiple/ experts, you create something called a 'cognitive demands table' which synthesises all that you've uncovered in the previous three steps. This becomes the primary output of the ACTA process, and the main artefact you'll use when you apply your findings to course design or to systems design.
+
+[cite:@chinEasierMethodExtractingTacitKnowledge2021]
+#+end_quote
+** Task diagram
+#+begin_quote
+The goal when creating a task diagram is to set up the knowledge audit and the simulation interview. You want a big-picture overview of the most cognitively demanding parts of the task, so that you may focus the majority of your time on those parts.
+
+You start out by asking the expert to decompose the task into steps or subtasks. You ask: "Think about what you do when you (task of interest). Can you break this task down into less than six, but more than three steps?" The goal is to get the expert to walk through the task in his or her mind, verbalising the major steps. The question purposely limits the expert to between three and six steps to ensure that they don't waste time diving into minute detail; you really want to prevent yourself from digging into their mental models at this stage.
+
+After the expert settles on a list of steps, ask: "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills."
+
+Circle those steps; you'll be focusing on them during the next two techniques.
+
+[cite:@chinEasierMethodExtractingTacitKnowledge2021]
+#+end_quote
+* TODO [#2] Flashcards
+#+print_bibliography:

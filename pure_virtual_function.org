@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cbe60cda-fc7d-4188-9cb3-4715ae550b3d
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-08 Fri 09:27]
 :END:
 #+title: Pure virtual function
 #+hugo_custom_front_matter: :slug "cbe60cda-fc7d-4188-9cb3-4715ae550b3d"
@@ -50,7 +50,7 @@ class Container {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |   115.50 | 2023-11-24T13:25:54Z |
-| back     | 1.75 |   5 |    17.84 | 2023-09-08T09:03:43Z |
+| back     | 1.90 |   6 |    36.44 | 2023-10-15T03:02:09Z |
 :END:
 
 [[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]

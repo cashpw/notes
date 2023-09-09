@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0141c9e2-e1b7-4b2f-8655-f977a9f41569
 :ROAM_REFS: [cite:@MagicalThinking2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-08 Fri 09:19]
 :END:
 #+title: Magical thinking
 #+hugo_custom_front_matter: :slug "0141c9e2-e1b7-4b2f-8655-f977a9f41569"
@@ -53,7 +53,7 @@ The belief that unrelated events are causally connected despite the absence of a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   261.32 | 2024-04-04T21:24:11Z |
-| back     | 2.80 |   6 |   126.83 | 2023-09-07T18:00:50Z |
+| back     | 2.80 |   7 |   376.66 | 2024-09-19T08:14:19Z |
 :END:
 
 [[id:0141c9e2-e1b7-4b2f-8655-f977a9f41569][Magical thinking]]

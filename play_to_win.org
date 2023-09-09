@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4398317e-6aa1-4dd4-b2a5-6334256ca2cc
 :DIR:      /home/cashweaver/proj/roam/attachments/4398317e-6aa1-4dd4-b2a5-6334256ca2cc
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-08 Fri 11:25]
 :END:
 #+title: Play to win
 #+hugo_custom_front_matter: :slug "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
@@ -10,6 +10,11 @@
 #+filetags: :hastodo:concept:
 
 
+- Involves understanding your goals and non-goals and playing the game accordingly
+  - Examples
+    - If your goal is to make money by selling clothing, then a non-goal could be "make the best quality clothing". You could, instead, focus on branding or marketing while producing low-quality clothing.
+    - If your goal is to pass a class, then a non-goal would be to write the best essay. You need only write a good-enough essay such that you pass the class.
+    - If your goal is getting promoted, then a non-goal would be doing each project to perfection. A better strategy may be to do a few things to 80% rather than one thing to 100%.
 - https://commoncog.com/blog/playing-to-play-playing-to-win/
 - https://news.ycombinator.com/item?id=28608436
 - https://www.sirlin.net/articles/playing-to-win

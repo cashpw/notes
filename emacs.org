@@ -1,14 +1,16 @@
 :PROPERTIES:
 :ID:       5ad4f07c-b06a-4dbf-afa5-176f25b0ded7
 :DIR:      /home/cashweaver/proj/roam/attachments/5ad4f07c-b06a-4dbf-afa5-176f25b0ded7
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-08 Fri 12:11]
 :END:
 #+title: Emacs
 #+hugo_custom_front_matter: :slug "5ad4f07c-b06a-4dbf-afa5-176f25b0ded7"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-06 Sun 09:04]
-* Flashcards
+* Capture selected
 :PROPERTIES:
-:ANKI_DECK: Default
+:ID:       082d0304-a69d-4121-9cd9-a221cd56b22c
 :END:
 
+A bookmarklet for capturing the selected text into Emacs. Requires the
+* Flashcards

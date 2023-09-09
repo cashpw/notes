@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f240189-7ede-4505-a900-21330b55f4c9
 :ROAM_REFS: [cite:@ExternalMemoryAlgorithm2021]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-08 Fri 09:18]
 :END:
 #+title: External memory algorithm
 #+hugo_custom_front_matter: :slug "0f240189-7ede-4505-a900-21330b55f4c9"
@@ -17,10 +17,7 @@ In computing, external memory algorithms or out-of-core algorithms are algorithm
 
 See [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]].
 
-* Flashcardscomputer_science:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
+* Flashcards
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       6396bdd0-28bc-4d49-8f6a-d859bd392290
@@ -49,7 +46,7 @@ Algorithms designed to process data that are too large to fit into a single comp
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   242.53 | 2023-09-08T04:09:35Z |
+| front    | 2.80 |   8 |   614.11 | 2025-05-14T18:52:15Z |
 | back     | 2.80 |   7 |   282.67 | 2023-11-26T17:48:07Z |
 :END:
 [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]

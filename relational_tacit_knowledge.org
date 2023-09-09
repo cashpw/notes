@@ -1,11 +1,94 @@
 :PROPERTIES:
 :ID:       146ab42b-21a9-4d5a-85fe-2eba12347ca5
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-08 Fri 12:38]
 :END:
 #+title: Relational tacit knowledge
 #+hugo_custom_front_matter: :slug "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
 #+author: Cash Prokop-Weaver
 #+date: [2023-08-04 Fri 22:20]
-#+filetags: :hastodo:concept:
-* TODO [#0]
-* TODO [#2] Flashcards
+#+filetags: :concept:
+
+#+begin_quote
+Knowledge that is tacit because of the way people relate to each other. Sometimes people do not make their knowledge explicit because they do not know how to do so, other times, they do not make their knowledge explicit because they do not want to do so.
+
+[cite:@chinThreeKindsTacit2020]
+#+end_quote
+
+#+begin_quote
+Relational tacit knowledge is [...] 'relational' in the sense that it has to do with the relationships between human beings; it is knowledge that is kept tacit because:
+
+1. People do not want it to be widespread. (e.g. it is transmitted only through selective apprenticeship, or kept within secret societies).
+2. It is incredibly time consuming or costly to explicate. [...]
+3. It is held by people who are not capable of explicating it, perhaps because they are bad at teaching. (Woe to the skill whose last practitioner happens to be a horrible teacher!)
+4. Or it could be that practitioners themselves are not aware that certain parts of their knowledge are absolutely critical to their success, and so are unable to articulate what it is that they /really/ do.
+
+In principle, /all/ relational tacit knowledge may be made explicit, with enough time and effort. The key clause in that sentence is '/enough time and effort/' --- for instance, it often takes Naturalistic Decision Making [[[id:6eb374ad-69aa-476d-b1d8-02714ffc094f][Naturalistic decision making]]] researchers weeks or months before they successfully explicate the nature of the expertise they are studying.
+
+Collins himself has written a fair amount about scientists who were attempting to build a new kind of laser --- the transversely excited atmospheric pressure carbon dioxide laser, or TEA laser. He notes, of that pursuit:
+
+#+begin_quote2
+  My study (...) showed that the scientists failed if they used only the information published in scientific papers. These papers included those which supplied details as intricate as the cross-section and machining instructions for the electrodes and even the manufacturers' part numbers for bought-in items. It showed, however, that only those who spent some time socially interacting with others who had already built a working model could succeed.
+#+end_quote2
+
+It seems that the act of building a working TEA laser involves all sorts of tiny details that the original creators did not think to explicate. And even if they did make an effort to do so, Collins is not sure that the results would have been any different --- some of these things were tiny tweaks that everyone in the lab group understood, but nobody had thought of as important knowledge.
+
+Here's Collins again, on a different group of scientists:
+
+#+begin_quote2
+  My 2001 study of scientists trying to measure the quality factor, or Q, of sapphire, backed up the earlier work by showing that measurements of the quality factor of small sapphire crystals were so hard that only one group of scientists in the world were able to achieve them until a member of the successful Russian group spent considerable time in the laboratory of a second group, in Glasgow, who finally managed it after a week or so of interaction.
+#+end_quote2
+
+Collins appears to enjoy using the laser example and the sapphire example because the scientists were working from detailed specifications published in peer-reviewed journals ... and they were working in physics and material science respectively --- both of them 'hard sciences'! Collins's point: if it is difficult to explicate knowledge in the 'hard sciences', then we should expect no less in other domains of human knowledge.
+
+[cite:@chinThreeKindsTacit2020]
+#+end_quote
+* Flashcards
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-09-08 Fri 12:32]
+:FC_CREATED: 2023-09-08T19:32:49Z
+:FC_TYPE:  cloze
+:ID:       5bf4dd0b-6758-4a83-90c4-59242c396d34
+:FC_CLOZE_MAX: 0
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-09-08T19:32:49Z |
+:END:
+
+In principle, one could make all {{[[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]]}@0} into [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]].
+
+*** Source
+[cite:@chinThreeKindsTacit2020]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-09-08 Fri 12:32]
+:FC_CREATED: 2023-09-08T19:34:11Z
+:FC_TYPE:  double
+:ID:       6a0781e8-95b1-4309-8bab-fd29f6856011
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-08T19:34:11Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-15T19:34:11Z |
+:END:
+
+[[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]]
+
+*** Back
+#+begin_quote
+... tacit knowledge is [...] '...' in the sense that it has to do with the [dynamics] between human beings; it is knowledge that is kept tacit because:
+
+1. People do not want it to be widespread. (e.g. it is transmitted only through selective apprenticeship, or kept within secret societies).
+2. It is incredibly time consuming or costly to explicate. [...]
+3. It is held by people who are not capable of explicating it, perhaps because they are bad at teaching. (Woe to the skill whose last practitioner happens to be a horrible teacher!)
+4. Or it could be that practitioners themselves are not aware that certain parts of their knowledge are absolutely critical to their success, and so are unable to articulate what it is that they /really/ do.
+
+In principle, /all/ ... tacit knowledge may be made explicit, with enough time and effort. The key clause in that sentence is '/enough time and effort/' --- for instance, it often takes Naturalistic Decision Making researchers weeks or months before they successfully explicate the nature of the expertise they are studying.
+#+end_quote
+*** Source
+[cite:@chinThreeKindsTacit2020]
+#+print_bibliography:

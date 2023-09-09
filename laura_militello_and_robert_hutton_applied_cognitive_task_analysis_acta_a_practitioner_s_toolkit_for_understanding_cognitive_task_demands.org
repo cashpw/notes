@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+:ID:       d8ab213e-9bd6-4669-a2b1-b931b56f5930
+:LAST_MODIFIED: [2023-09-08 Fri 15:21]
+:END:
+#+title: Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands
+#+hugo_custom_front_matter: :slug "d8ab213e-9bd6-4669-a2b1-b931b56f5930"
+#+author: Cash Weaver
+#+date: [2023-09-08 Fri 15:14]
+#+filetags: :hastodo:reference:
+
+TODO_AUTHOR, [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+* TODO [#0] Summary
+[[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
+* TODO [#0] Thoughts
+* TODO [#0] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/d8/ab213e-9bd6-4669-a2b1-b931b56f5930/Militello_Hutton_1998_Applied Cognitive Task Analysis (ACTA).pdf
+:NOTER_PAGE: 3
+:END:
+* TODO [#0] Flashcards
+#+print_bibliography:

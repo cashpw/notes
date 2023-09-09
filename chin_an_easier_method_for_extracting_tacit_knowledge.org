@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 :ID:       112cd568-012c-4eea-b902-53f44907b098
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-08 Fri 15:19]
 :END:
 #+title: Cedric Chin | An Easier Method for Extracting Tacit Knowledge
 #+hugo_custom_front_matter: :slug "112cd568-012c-4eea-b902-53f44907b098"
@@ -9,10 +9,26 @@
 #+date: [2023-08-04 Fri 21:59]
 #+filetags: :hastodo:reference:
 
-TODO_AUTHOR, [cite:@chinEasierMethodExtractingTacitKnowledge2021]
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 
 * TODO Summary
 * TODO Thoughts
-* TODO Notes
+* INPROGRESS Notes
+#+begin_quote
+While RPD describes what expert intuition is, it doesn't really help you extract that intuition for yourself. The researchers who came up with the RPD model developed a method for doing that, which they named the 'Critical Decision Method' (CDM), but the technique is incredibly difficult to learn and extremely time consuming to execute. All of which is well and good when you're a researcher, and your clients hire you to spend months designing training programs for them; less so if you're a practitioner, and you simply want to get at the skills that live in other peoples's heads.
+
+[...]
+
+In 1998, Laura Militello and Robert Hutton published a landmark paper titled Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands [[[id:d8ab213e-9bd6-4669-a2b1-b931b56f5930][Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]]]. The paper's contribution was a set of four techniques that are much easier to use than CDM (and other related methodologies), and yet powerful enough for instructional designers or interface designers to extract tacit mental models of expertise from the heads of subject matter experts for their use. The work was funded by the Navy Personnel Research and Development Centre and lasted two years; the authors tested the usability of these new methods by teaching them to two groups of graduate students, before letting them loose to interview two sets of experts: fireground commanders on one end, and naval electronic warfare specialists on the other. These graduate students were then asked to modify existing training programs for both domains, after which those modifications were evaluated by expert instructors in the field.
+
+Militello and Hutton's reasoning went something like this: if ACTA was easy enough for random graduate students to use, and if it resulted in significant improvements to the training programs in both domains, then the methods would be even more effective when put in the hands of domain-specific course creators and interface designers. The authors knew that ACTA wasn't as accurate or as powerful as earlier research methods (like CDM), but they thought that the simplicity of their technique was a worthwhile tradeoff.
+
+In the years since they first published the paper, they've largely been proven right.
+#+end_quote
+
+[[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
+
+** The four techniques of Applied Cognitive Task Analysis
+
 * TODO [#2] Flashcards
 #+print_bibliography:

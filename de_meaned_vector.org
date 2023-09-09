@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4c405ac3-8a98-4e14-a2fd-44867a785071
 :ROAM_ALIASES: "De-meaned vectors"
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-08 Fri 09:24]
 :END:
 #+title: De-meaned vector
 #+hugo_custom_front_matter: :slug "4c405ac3-8a98-4e14-a2fd-44867a785071"
@@ -30,7 +30,7 @@ Note that \(\mathbf{C}\) is the [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Cente
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   8 |   484.80 | 2024-12-02T10:51:20Z |
-|        1 | 1.85 |   4 |    11.78 | 2023-09-08T08:30:02Z |
+|        1 | 1.85 |   5 |    21.64 | 2023-09-30T07:49:58Z |
 :END:
 
 ** Denotes :fc:

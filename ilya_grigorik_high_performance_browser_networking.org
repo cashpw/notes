@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@grigorikHighPerformanceBrowserNetworking2013] [cite:@grigorikHighperformanceBrowserNetworking2013]
 :ID:       0b07906d-4880-4e86-ab7c-710b47104d82
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-08 Fri 16:12]
 :END:
 #+title: Ilya Grigorik | High-Performance Browser Networking
 #+hugo_custom_front_matter: :slug "0b07906d-4880-4e86-ab7c-710b47104d82"
@@ -11,9 +11,9 @@
 
 [[id:c9d1bb7a-c8a8-46f6-bbb9-1a64b74bf4cc][Ilya Grigorik]], [cite:@grigorikHighperformanceBrowserNetworking2013]
 
-* TODO Summary
-* TODO Thoughts
-* INPROGRESS [#1] Notes
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
 ** Networking 101
 *** Primer on Latency and Bandwidth
 

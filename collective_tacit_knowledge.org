@@ -1,11 +1,38 @@
 :PROPERTIES:
 :ID:       c826a9e6-fcf5-4b94-81cb-0495f6aaa866
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-08 Fri 12:40]
 :END:
 #+title: Collective tacit knowledge
 #+hugo_custom_front_matter: :slug "c826a9e6-fcf5-4b94-81cb-0495f6aaa866"
 #+author: Cash Prokop-Weaver
 #+date: [2023-08-04 Fri 22:20]
-#+filetags: :hastodo:concept:
-* TODO [#0]
-* TODO [#2] Flashcards
+#+filetags: :concept:
+
+#+begin_quote
+Collective tacit knowledge — Knowledge that is tacit because it is embedded in our social environment, and we do not know how to make it explicit in a way that doesn't involve socialising.
+
+[cite:@chinThreeKindsTacit2020]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-09-08 Fri 12:39]
+:FC_CREATED: 2023-09-08T19:40:02Z
+:FC_TYPE:  double
+:ID:       92a33aa4-935b-4eb2-8b3c-c710c6d90cea
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-08T19:40:02Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-15T19:40:02Z |
+:END:
+
+[[id:c826a9e6-fcf5-4b94-81cb-0495f6aaa866][Collective tacit knowledge]]
+
+*** Back
+Knowledge that is tacit because it's embedded in our social environment. We don't know how to make it explicit in a way that doesn't involve socializing.
+*** Source
+[cite:@chinThreeKindsTacit2020]
+#+print_bibliography:

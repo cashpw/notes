@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-09-07 Thu 07:28]
+:LAST_MODIFIED: [2023-09-08 Fri 09:28]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -465,7 +465,7 @@ Compare and contrast four ways of serving foods made with apples and examine whi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   323.02 | 2024-06-13T15:28:13Z |
-| back     | 2.35 |   3 |     6.00 | 2023-08-14T15:18:43Z |
+| back     | 2.05 |   1 |     1.00 | 2023-09-09T16:28:06Z |
 :END:
 
 [[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]] (Apples)

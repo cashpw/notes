@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4a42aa6f-413f-4144-86df-5c0f0b174777
 :ROAM_ALIASES: RPD
-:LAST_MODIFIED: [2023-09-07 Thu 07:58]
+:LAST_MODIFIED: [2023-09-08 Fri 12:07]
 :ROAM_REFS: [cite:@RecognitionprimedDecision2023]
 :END:
 #+title: Recognition-primed decision
@@ -16,7 +16,7 @@ Recognition-primed decision (RPD) is a model of how people make quick, effective
 [cite:@RecognitionprimedDecision2023]
 #+end_quote
 
-In general, it's a pattern-matching exercise: recognize the situation at hand and choose the right already-known course of action. This presupposes that you (1) can recognize the situation and (2) know the right course of action. If either supposition is false, then refer to the flow chart:
+In general, it's a pattern-matching exercise (see [[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]]): recognize the situation at hand and choose the best already-known course of action. This presupposes that you (1) can recognize the situation and (2) know the right course of action. If either supposition is false, then refer to the flow chart:
 
 #+begin_quote
 #+DOWNLOADED: https://commoncog.com/content/images/2019/01/Paper.Commonplace.41.png @ 2023-07-30 06:27:34

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6f787120-13bb-405a-bfca-060df6d80b14
 :ROAM_ALIASES: "Priority queues"
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-08 Fri 09:27]
 :END:
 #+title: Priority queue
 #+hugo_custom_front_matter: :slug "6f787120-13bb-405a-bfca-060df6d80b14"
@@ -20,9 +20,6 @@ To improve performance, priority queues are typically based on a heap [[[id:70cb
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       8d18d098-eac6-4060-92d2-b0da2a7bb73f
@@ -54,7 +51,7 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which maintai
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   9 |   505.72 | 2025-01-15T06:07:42Z |
-|        1 | 2.50 |   7 |   222.24 | 2023-09-06T19:23:58Z |
+|        1 | 2.50 |   8 |   563.24 | 2025-03-24T22:12:11Z |
 :END:
 *** Extra
 *** Source

@@ -1,14 +1,13 @@
 :PROPERTIES:
 :ID:       bd9daffc-f556-4bdc-975e-e35c3c98ebee
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-09-08 Fri 16:16]
 :END:
 #+title: Cognitive task analysis
 #+hugo_custom_front_matter: :slug "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-30 Fri 16:40]
-#+filetags: :hastodo:concept:
+#+filetags: :concept:
 
-* INPROGRESS
 #+begin_quote
 Cognitive task analysis is [[[id:6f26873c-19de-47e1-a395-88f75438e202][Task analysis]]] applied to modern work environments such as supervisory control where little physical work occurs, but the tasks are more related to situation assessment, decision making, and response planning and execution.
 
@@ -28,5 +27,25 @@ Cognitive task analysis has been used to examine:
 [cite:@CognitiveTaskAnalysisUsabilityBodyKnowledge]
 #+end_quote
 
-* TODO [#2] Flashcards
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-09-08 Fri 16:15]
+:FC_CREATED: 2023-09-08T23:16:01Z
+:FC_TYPE:  double
+:ID:       8ea76f75-8ce9-4c6a-a48b-7889ac2e3112
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-08T23:16:01Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-15T23:16:01Z |
+:END:
+
+[[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]
+
+*** Back
+[[id:6f26873c-19de-47e1-a395-88f75438e202][Task analysis]] applied to modern work environments such as supervisory control where little physical work occurs, but the tasks are more related to situation assessment, decision making, and response planning and execution.
+*** Source
+[cite:@TaskAnalysis2023]
 #+print_bibliography:

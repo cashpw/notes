@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-09-07 Thu 07:20]
+:LAST_MODIFIED: [2023-09-08 Fri 09:27]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -111,7 +111,7 @@ A dislike of humankind.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.30 |  17 |   224.26 | 2023-08-22T22:27:36Z |
+| back     | 2.00 |   1 |     1.00 | 2023-09-09T16:27:52Z |
 | front    | 2.05 |   7 |   110.24 | 2023-06-08T23:07:56Z |
 :END:
 - Not claiming attention for oneself

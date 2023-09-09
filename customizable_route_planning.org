@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-09-07 Thu 07:30]
+:LAST_MODIFIED: [2023-09-08 Fri 09:28]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -463,7 +463,7 @@ Cells containing the starting and target vertices
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   4 |    11.91 | 2023-09-08T11:04:11Z |
+| front    | 1.90 |   1 |     1.00 | 2023-09-09T16:28:00Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T15:28:59Z |
 :END:
 
