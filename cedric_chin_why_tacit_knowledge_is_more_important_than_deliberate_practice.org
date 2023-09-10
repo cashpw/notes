@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
 :ID:       bcba3e46-9cde-4555-accb-ec73e4f0fc4c
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-09 Sat 16:34]
 :END:
 #+title: Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice
 #+hugo_custom_front_matter: :slug "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
@@ -135,9 +135,9 @@ The answer, of course, is that the field of NDM is a lot more useful if you find
 
 If tacit knowledge exists --- and I believe it does --- then the most useful tools about skill acquisition will come out of the fields that study it. Late last year, the NDM community got together and published /[[https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198795872.001.0001/oxfordhb-9780198795872][The Oxford Handbook of Expertise]]./ It is the single most comprehensive overview of the field that we know today.
 #+end_quote
-*** TODO Add citation for peak
-*** TODO Cite Cambridge handbook for expertise and expert performance
-*** TODO Cite oxford handbook of expertise
+*** TODO [#2] Add citation for peak
+*** TODO [#2] Cite Cambridge handbook for expertise and expert performance
+*** TODO [#2] Cite oxford handbook of expertise
 
 * Flashcards
 ** Cloze :fc:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SmartGuyProductivityPitfalls]
 :ID:       9ed16182-a4a5-4bf6-a5c7-b6196c6eca97
-:LAST_MODIFIED: [2023-09-07 Thu 07:55]
+:LAST_MODIFIED: [2023-09-09 Sat 16:15]
 :END:
 #+title: Smart Guy Productivity Pitfalls
 #+hugo_custom_front_matter: :slug "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
@@ -123,7 +123,7 @@ I disagree with the author's assessment that solutions such as "turning off the 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    88.83 | 2023-11-17T11:56:19Z |
-| back     | 2.20 |   2 |     2.00 | 2023-09-09T14:54:43Z |
+| back     | 2.20 |   3 |     6.00 | 2023-09-15T23:15:13Z |
 :END:
 
 [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]

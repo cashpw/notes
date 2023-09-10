@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       adda1031-550c-4f65-9384-1ee018532adc
 :ROAM_REFS: [cite:@FundamentalTheoremCalculus2022]
-:LAST_MODIFIED: [2023-09-08 Fri 09:27]
+:LAST_MODIFIED: [2023-09-09 Sat 16:12]
 :END:
 #+title: Fundamental theorem of calculus
 #+hugo_custom_front_matter: :slug "adda1031-550c-4f65-9384-1ee018532adc"
@@ -180,7 +180,7 @@ $$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   7 |    89.71 | 2023-11-06T08:23:01Z |
-| back     | 2.35 |   1 |     1.00 | 2023-09-09T16:27:07Z |
+| back     | 2.35 |   2 |     2.00 | 2023-09-11T23:12:44Z |
 :END:
 
 [[id:c45039dd-ffe1-46e4-b2ae-42a8658601db][Second fundamental theorem of calculus]]

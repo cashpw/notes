@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       42fb5f3a-ce78-4d22-86e6-0ee2bcad8908
-:LAST_MODIFIED: [2023-09-08 Fri 12:38]
+:LAST_MODIFIED: [2023-09-09 Sat 16:46]
 :END:
 #+title: Somatic tacit knowledge
 #+hugo_custom_front_matter: :slug "42fb5f3a-ce78-4d22-86e6-0ee2bcad8908"
@@ -10,7 +10,7 @@
 #+begin_quote
 Somatic tacit knowledge — Knowledge that is tacit because it has to do with the human body. Think of executing a tennis backhand, playing a guitar, or riding a bicycle. This knowledge is tacit because it has to do with the embodied nature of the skill involved.
 
-[cite:@chinThreeKindsTacit2020]
+[cite:@chinThreeKindsTacitKnowledge2020]
 #+end_quote
 
 * Flashcards
@@ -33,5 +33,5 @@ Somatic tacit knowledge — Knowledge that is tacit because it has to do with th
 *** Back
 Knowledge about things we do with our bodies. It's ... because one can only really learn to, for example, ride a bike through physical practice.
 *** Source
-[cite:@chinThreeKindsTacit2020]
+[cite:@chinThreeKindsTacitKnowledge2020]
 #+print_bibliography:

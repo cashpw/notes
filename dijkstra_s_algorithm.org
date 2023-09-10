@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       668cbbcc-170b-42c8-b92b-75f6868a0138
-:LAST_MODIFIED: [2023-09-08 Fri 09:26]
+:LAST_MODIFIED: [2023-09-09 Sat 16:13]
 :ROAM_REFS: [cite:@DijkstraAlgorithm2022]
 :END:
 #+title: Dijkstra's algorithm
@@ -257,7 +257,7 @@ Why does [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] fail 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   128.55 | 2023-09-09T04:57:19Z |
+| front    | 2.80 |   7 |   372.89 | 2024-09-16T20:31:27Z |
 :END:
 
 Benefit(s) of only queuing a single item at the start of [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]].

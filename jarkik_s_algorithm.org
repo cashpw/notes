@@ -2,7 +2,7 @@
 :ID:       2e340461-20cb-4d63-afdb-cac74fbea013
 :ROAM_ALIASES: "DJP algorithm" "Prim's algorithm"
 :ROAM_REFS: [cite:@PrimAlgorithm2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-09 Sat 16:15]
 :END:
 #+title: Jarnik's algorithm
 #+hugo_custom_front_matter: :slug "2e340461-20cb-4d63-afdb-cac74fbea013"
@@ -85,7 +85,7 @@ Discovery of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   6 |    10.58 | 2023-09-09T04:52:38Z |
+| front    | 1.45 |   7 |    14.89 | 2023-09-24T20:33:40Z |
 | back     | 2.65 |   6 |   145.57 | 2023-10-02T06:35:44Z |
 :END:
 

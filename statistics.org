@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-08 Fri 09:18]
+:LAST_MODIFIED: [2023-09-09 Sat 16:11]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1250,7 +1250,7 @@ $\hat{f}(X) = \beta_0 + \beta_1X_1 + \cdots + \beta_nX_n$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.60 |   8 |    72.61 | 2023-09-04T04:38:12Z |
+| back     | 1.60 |   9 |   124.15 | 2024-01-12T02:52:35Z |
 | front    | 2.50 |   9 |   276.71 | 2023-10-15T07:30:05Z |
 :END:
 

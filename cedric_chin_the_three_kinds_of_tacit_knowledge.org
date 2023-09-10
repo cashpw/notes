@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinThreeKindsTacitKnowledge2020]
 :ID:       6e417a2d-0c14-4057-b022-c89d787e7fd3
-:LAST_MODIFIED: [2023-09-08 Fri 12:43]
+:LAST_MODIFIED: [2023-09-09 Sat 16:46]
 :END:
 #+title: Cedric Chin | The Three Kinds of Tacit Knowledge
 #+hugo_custom_front_matter: :slug "6e417a2d-0c14-4057-b022-c89d787e7fd3"
@@ -34,7 +34,7 @@ Here's Collins again, on a different group of scientists:
 
 Collins appears to enjoy using the laser example and the sapphire example because the scientists were working from detailed specifications published in peer-reviewed journals ... and they were working in physics and material science respectively --- both of them 'hard sciences'! Collins's point: if it is difficult to explicate knowledge in the 'hard sciences', then we should expect no less in other domains of human knowledge.
 
-[cite:@chinThreeKindsTacit2020]
+[cite:@chinThreeKindsTacitKnowledge2020]
 #+end_quote
 
 ** [[id:42fb5f3a-ce78-4d22-86e6-0ee2bcad8908][Somatic tacit knowledge]]

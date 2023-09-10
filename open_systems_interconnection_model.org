@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-09-08 Fri 09:18]
+:LAST_MODIFIED: [2023-09-09 Sat 16:10]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -326,7 +326,7 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |   7 |    41.09 | 2023-09-30T17:58:40Z |
-| back     | 2.20 |   4 |    14.43 | 2023-09-04T23:11:39Z |
+| back     | 2.05 |   5 |    29.48 | 2023-10-09T10:37:29Z |
 :END:
 
 [[id:28c1811a-bfe1-4910-8622-f1568dd7c388][Application layer (OSI model)]]

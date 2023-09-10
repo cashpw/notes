@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f240189-7ede-4505-a900-21330b55f4c9
 :ROAM_REFS: [cite:@ExternalMemoryAlgorithm2021]
-:LAST_MODIFIED: [2023-09-08 Fri 09:18]
+:LAST_MODIFIED: [2023-09-09 Sat 16:15]
 :END:
 #+title: External memory algorithm
 #+hugo_custom_front_matter: :slug "0f240189-7ede-4505-a900-21330b55f4c9"
@@ -29,7 +29,7 @@ See [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   7 |   290.55 | 2023-11-26T07:34:43Z |
-| front    | 2.50 |   7 |   224.91 | 2023-09-08T13:02:31Z |
+| front    | 2.35 |   8 |   566.73 | 2025-03-29T16:43:46Z |
 :END:
 [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
 *** Back

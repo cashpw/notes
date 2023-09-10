@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4184a50c-1ee2-492d-9960-fee45e334629
+:ROAM_REFS: @chinThreeKindsTacit2020
+:LAST_MODIFIED: [2023-09-09 Sat 16:47]
+:END:
+#+title: Notes on ,
+#+hugo_custom_front_matter: roam_refs '("@chinThreeKindsTacit2020")
+#+filetags: :hastodo:
+
+ bl
+
+#+print_bibliography:
+* TODO [#2] Flashcards

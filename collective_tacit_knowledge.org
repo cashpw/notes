@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c826a9e6-fcf5-4b94-81cb-0495f6aaa866
-:LAST_MODIFIED: [2023-09-08 Fri 12:40]
+:LAST_MODIFIED: [2023-09-09 Sat 16:46]
 :END:
 #+title: Collective tacit knowledge
 #+hugo_custom_front_matter: :slug "c826a9e6-fcf5-4b94-81cb-0495f6aaa866"
@@ -11,7 +11,7 @@
 #+begin_quote
 Collective tacit knowledge — Knowledge that is tacit because it is embedded in our social environment, and we do not know how to make it explicit in a way that doesn't involve socialising.
 
-[cite:@chinThreeKindsTacit2020]
+[cite:@chinThreeKindsTacitKnowledge2020]
 #+end_quote
 
 * Flashcards
@@ -34,5 +34,5 @@ Collective tacit knowledge — Knowledge that is tacit because it is embedded in
 *** Back
 Knowledge that is tacit because it's embedded in our social environment. We don't know how to make it explicit in a way that doesn't involve socializing.
 *** Source
-[cite:@chinThreeKindsTacit2020]
+[cite:@chinThreeKindsTacitKnowledge2020]
 #+print_bibliography:
