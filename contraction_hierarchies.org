@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-09-08 Fri 09:16]
+:LAST_MODIFIED: [2023-09-10 Sun 06:28]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -670,7 +670,7 @@ Query phase
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   1 |     1.00 | 2023-08-02T01:19:52Z |
+|        0 | 2.50 |   2 |     2.00 | 2023-09-12T13:28:53Z |
 |        1 |  2.5 |  -1 |        0 | 2023-06-20T15:38:35Z |
 :END:
 

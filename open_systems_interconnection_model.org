@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-09-09 Sat 16:10]
+:LAST_MODIFIED: [2023-09-10 Sun 06:37]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -110,7 +110,7 @@ The physical layer is responsible for the transmission and reception of unstruct
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |   112.50 | 2023-10-15T01:22:35Z |
-| back     | 2.20 |   4 |    13.30 | 2023-08-23T07:51:50Z |
+| back     | 2.20 |   5 |    31.72 | 2023-10-12T06:54:39Z |
 :END:
 
 [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]

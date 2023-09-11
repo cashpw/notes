@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f72c0d9-5638-4da7-92a9-796043efb670
 :ROAM_REFS: [cite:@QuotientRule2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-10 Sun 06:39]
 :END:
 #+title: Quotient rule
 #+hugo_custom_front_matter: :slug "0f72c0d9-5638-4da7-92a9-796043efb670"
@@ -33,7 +33,7 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    79.16 | 2023-09-13T20:02:01Z |
-| back     | 2.80 |   6 |   129.30 | 2023-09-10T05:09:06Z |
+| back     | 2.80 |   7 |   376.24 | 2024-09-20T19:21:33Z |
 :END:
 
 [[id:0f72c0d9-5638-4da7-92a9-796043efb670][Quotient rule]] ([[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]])

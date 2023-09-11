@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4ad76968-7e82-4d68-b8fa-ff6059f3c843
 :ROAM_REFS: [cite:@MergeSort2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-10 Sun 06:36]
 :END:
 #+title: Merge sort
 #+hugo_custom_front_matter: :slug "4ad76968-7e82-4d68-b8fa-ff6059f3c843"
@@ -188,7 +188,7 @@ A recursive [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    13.87 | 2023-08-19T12:30:38Z |
+| front    | 2.50 |   5 |    31.85 | 2023-10-12T10:03:27Z |
 :END:
 Implement [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
 *** Back

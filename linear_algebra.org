@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-09 Sat 16:09]
+:LAST_MODIFIED: [2023-09-10 Sun 06:29]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1339,7 +1339,7 @@ Permutation matrix
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   207.89 | 2023-09-07T12:53:45Z |
+|        0 | 2.65 |   8 |   510.41 | 2025-02-01T23:25:32Z |
 |        1 | 2.80 |   7 |   241.99 | 2023-10-15T15:58:08Z |
 :END:
 

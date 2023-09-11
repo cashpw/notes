@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-09-09 Sat 16:09]
+:LAST_MODIFIED: [2023-09-10 Sun 06:29]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -2177,7 +2177,7 @@ $f(x) = \frac{1}{x}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   9 |   441.64 | 2024-06-26T07:26:07Z |
-| back     | 2.35 |   6 |    81.48 | 2023-05-29T06:04:31Z |
+| back     | 2.20 |   7 |   196.20 | 2024-03-24T18:20:18Z |
 :END:
 
 Heaviside step function

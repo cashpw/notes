@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 :ID:       ffc578c6-bf15-4d7f-816a-175206fc9e42
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-10 Sun 06:39]
 :END:
 #+title: Monika Lindquist | Getting Consumers To Say Yes: Commitment Consistency
 #+hugo_custom_front_matter: :slug "ffc578c6-bf15-4d7f-816a-175206fc9e42"
@@ -47,7 +47,7 @@ A principle that people will do as much as possible to appear consistent in thei
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   9 |   435.27 | 2024-09-13T10:42:50Z |
-| back     | 2.05 |   7 |   102.88 | 2023-09-10T13:25:40Z |
+| back     | 2.05 |   8 |   196.20 | 2024-03-24T18:32:37Z |
 :END:
 
 Commitment and consistency

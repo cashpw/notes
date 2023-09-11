@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-09-09 Sat 17:19]
+:LAST_MODIFIED: [2023-09-10 Sun 08:48]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -9,9 +9,9 @@
 #+filetags: :hastodo:concept:
 * INPROGRESS
 
-#+begin_quote
-There are four techniques in ACTA, and all of them are pretty straightforward to put to practice:
+Applied cognitive task analysis is a technique for extracting expertise which is simpler than [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]. There are four steps:
 
+#+begin_quote
 1. You start by creating a *task diagram*. A task diagram gives you a broad overview of the task in question and identifies the difficult cognitive elements. You'll want to do this at the beginning, because you'll want to know which parts of the task are worth focusing on.
 2. You do a *knowledge audit*. A knowledge audit is an interview that identifies all the ways in which expertise is used in a domain, and provides examples based on actual experience.
 3. You do a *simulation interview*. The simulation interview allows you to better understand an expert's cognitive processes within the context of an single incident (e.g. a firefighter arrives at the scene of a fire; a programmer is handed an initial specification). This allows you to extract cognitive processes that are difficult to get at using a knowledge audit, such as situational assessment, and how such changing events impacts subsequent courses of action.
@@ -19,6 +19,7 @@ There are four techniques in ACTA, and all of them are pretty straightforward to
 
 [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 #+end_quote
+
 ** Task diagram
 #+begin_quote
 The goal when creating a task diagram is to set up the knowledge audit and the simulation interview. You want a big-picture overview of the most cognitively demanding parts of the task, so that you may focus the majority of your time on those parts.
@@ -31,5 +32,80 @@ Circle those steps; you'll be focusing on them during the next two techniques.
 
 [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 #+end_quote
+** Knowledge audit
+
+#+begin_quote
+The knowledge audit identifies ways in which expertise has been used in a domain, and surfaces examples based on the expert's real world experiences. The goal here is to capture the most important aspects of expertise.
+
+You start out with a list of basic probes. These probes are drawn from the knowledge categories that most commonly characterise expertise. After a handful of interviews, it should become clear to you which probes produce the most information for that specific subtask; you may then reduce the time you spend on less useful questions.
+[cite:@chinEasierMethodExtractingTacitKnowledge2021]
+#+end_quote
+
+#+BEGIN_QUOTE
+The knowledge audit identifies ways in which expertise is used in a domain and provides examples based on actual experience. [...]
+
+The knowledge audit employs a set of probes designed to describe types of domain knowledge or skill and elicit appropriate examples (figure 2). The goal is not simply to find out whether each component is present in the task, but to find out the nature of these skills, specific events where they were required, strategies that have been used, and so forth. The list of probes is the starting point for conducting this interview. Then, the interviewer asks for specifics about the example in terms of critical cues and strategies of decision making. This is followed by a discussion of potential errors that a novice, less-experienced person might have made in this situation.
+
+[...]
+
+Basic probes:
+
+- *Past & Future*
+
+  Experts can figure out how a situation developed, and they can think into the future to see where the situation is going. Amongst other things, this can allow experts to head off problems before they develop.
+
+  /Is there a time when you walked into the middle of a situation and knew exactly how things got there and where they were headed?/
+- *Big Picture*
+
+  Novices may only see bits and pieces. Experts are able to quickly build an understanding of the whole situation --- the Big Picture view. This allows the expert to think about how different elements fit together and affect each other.
+
+  /Can you give me an example of what is important about the Big Picture for this task? What are the major elements you have to know and keep track of?/
+- *Noticing*
+
+  Experts are able to detect cues and see meaningful patterns that less-experienced personnel may miss altogether.
+
+  /Have you had experiences where part of a situation just 'popped' out at you; where you noticed things going on that others didn't catch? What is an example?/
+- *Job Smarts*
+
+  Experts learn how to combine procedures and work the task in the most efficient way possible. They don't cut corners, but they don't waste time and resources either.
+
+  /When you do this task, are there ways of working smart or accomplishing more with less --- that you have found especially useful?/
+- *Opportunities/Improvising*
+
+  Experts are comfortable improvising --- seeing what will work in this particular situation; they are able to shift directions to take advantage of opportunities.
+
+  /Can you think of an example when you have improvised in this task or noticed an opportunity to do something better?/
+- *Self-Monitoring*
+
+  Experts are aware of their performance; they check how they are doing and make adjustments. Experts notice when their performance is not what it should be (this could be due to stress, fatigue, high workload, etc) and are able to adjust so that the job gets done.
+
+  /Can you think of a time when you realised that you would need to change the way you were performing in order to get the job done?/
+
+Optional Probes:
+
+- *Anomalies*
+
+  Novices don't know what is typical, so they have a hard time identifying what is atypical. Experts can quickly spot unusual events and detect deviations. And, they are able to notice when something that ought to happen, doesn't.
+
+  /Can you describe an instance when you spotted a deviation from the norm, or knew something was amiss?/
+- *Equipment Difficulties*
+
+  Equipment can sometimes mislead. Novices usually believe whatever the equipment tells them; they don't know when to be skeptical.
+
+  /Have there been times when the equipment pointed in one direction, but your own judgment told you to do something else? Or when you had to rely on experience to avoid being led astray by the equipment?/
+#+end_quote
+
+#+begin_quote
+Table 1. Example of a knowledge audit table.
+
+| Aspects of expertise                                                                                         | Cues and strategies                                                                                                                                                                               | Why difficult?                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Past and future; e.g. Explosions in office strip --- search the office areas rather than source of explosion | Material safety data sheets (MSDS) tells you that explosion in area of dangerous chemicals and information about chemicals. Start where most likely to find victims and own safety considerations | Novice would be trained to start at source and work out. May not look at MSDS, to find potential source of explosion, and account for where people are most likely to be. |
+| Big picture; includes source of hazard, potential location of victims, ingress/egress routes, other hazards  | Senses, communication with others, building owners, MSDS, building pre-plans                                                                                                                      | Novice get tunnel vision, focuses on one thing e.g . victims                                                                                                          |
+| Noticing; breathing sounds of victims                                                                        | Both you and your partner stop, hold your breath, and listen. Listen for crying, talking to themselves, victims knocking things over.                                                             | Noise from own breathing in apparatus, fire noises. Don't know what kinds of sounds to listen for.                                                                        |
+
+[formatting mine]
+#+end_quote
+** Simulation interview
 * TODO [#2] Flashcards
 #+print_bibliography:
