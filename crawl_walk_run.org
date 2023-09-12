@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3f33e96a-915a-4561-be68-4cef17b84792
 :ROAM_ALIASES: "Iterative development"
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-11 Mon 11:50]
 :END:
 #+title: Crawl, walk, run
 #+hugo_custom_front_matter: :slug "3f33e96a-915a-4561-be68-4cef17b84792"
@@ -10,6 +10,8 @@
 #+filetags: :concept:
 
 Crawl, walk, run emphasizes iterative development as way to progressively build a solution as opposed to building it all-at-once. The phrase originates, as far as I can tell, from child development stages though some directly cite [cite:@kingIfYouCanFlyThenRun].
+
+Related: [[id:36417ccc-d8cc-4116-baef-89dfb6b1924a][Shuhari]].
 
 * Example(s)
 

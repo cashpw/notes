@@ -2,7 +2,7 @@
 :ID:       7d4a4c55-b66f-447e-8b27-f64eeed59f26
 :ROAM_REFS: [cite:@Antebellum2022]
 :ROAM_ALIASES: Antebellum
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-11 Mon 05:44]
 :END:
 #+title: Ante bellum
 #+hugo_custom_front_matter: :slug "7d4a4c55-b66f-447e-8b27-f64eeed59f26"
@@ -24,7 +24,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   155.71 | 2023-09-11T08:03:04Z |
+|        0 | 2.20 |   8 |   353.16 | 2024-08-29T16:39:22Z |
 |        1 | 2.80 |   7 |   299.33 | 2024-04-09T08:32:50Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinTacitKnowledgeSeries2020]
 :ID:       96c1f65b-0c31-4478-8717-8c33743a9e94
-:LAST_MODIFIED: [2023-09-08 Fri 16:35]
+:LAST_MODIFIED: [2023-09-11 Mon 16:51]
 :END:
 #+title: Cedric Chin | The Tacit Knowledge Series
 #+hugo_custom_front_matter: :slug "96c1f65b-0c31-4478-8717-8c33743a9e94"
@@ -11,7 +11,7 @@
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinTacitKnowledgeSeries2020]
 
-* INPROGRESS Series
+* Series
 1. [[id:bcba3e46-9cde-4555-accb-ec73e4f0fc4c][Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]]
 2. [[id:5a1426bf-c14f-411b-af3e-e21ee56fa8e5][Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]]
 3. [[id:6e417a2d-0c14-4057-b022-c89d787e7fd3][Cedric Chin | The Three Kinds of Tacit Knowledge]]
@@ -26,8 +26,15 @@ Related:
 - [[id:8b2342f4-1514-4a61-9115-235b8572c8fd][Cedric Chin | Book Summary: Peak, the New Science of Expertise]]
 - [[id:f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb][Cedric Chin | Book Summary: Accelerated Expertise]]
 - [[id:f064b5ef-9576-4957-8882-30ebe383d23d][Cedric Chin | John Cutler's Product Org Expertise]]
+- [[id:6e21d350-e098-4a80-a6bf-ccc86c254f28][Cedric Chin | The Hard Thing About Learning From Experience]]
+- [[id:a8d74b9a-2871-4384-b1f0-f761e96f1bc4][Cedric Chin | Don't Read History for Lessons]]
+- [[id:32a61c32-7208-4f24-8eee-ed8466bde56e][Cedric Chin | Ability to See Expertise Is a Milestone Worth Aiming For]]
 
-* TODO [#0] Summary / Key points / Take-aways :noexport:
+* INPROGRESS [#0] Summary / Key points / Take-aways :noexport:
+
+* TODO [#0] Thoughts
+
+- The [[id:731b4023-79ea-4671-9de9-2079008f14df][final entry in the series]] is also the first in [[id:5e6ac16d-668c-455b-931a-15bc1a482603][another series]]. This is a clever way to lead readers along between sequences/series. The two series are distinct enough that they can stand alone but connected enough that someone who reads one is likely to also want to read the other.
 
 * Flashcards
 #+print_bibliography:

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@chincedricBusinessExpertiseSeries]
+:ID:       5e6ac16d-668c-455b-931a-15bc1a482603
+:LAST_MODIFIED: [2023-09-11 Mon 09:54]
+:END:
+#+title: Cedric Chin | The Business Expertise Series
+#+hugo_custom_front_matter: :slug "5e6ac16d-668c-455b-931a-15bc1a482603"
+#+author: Cash Weaver
+#+date: [2023-09-11 Mon 09:54]
+#+filetags: :hastodo:reference:
+
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chincedricBusinessExpertiseSeries]
+
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
+* TODO [#2] Flashcards
+#+print_bibliography:

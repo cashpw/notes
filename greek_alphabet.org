@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-09-09 Sat 16:14]
+:LAST_MODIFIED: [2023-09-11 Mon 05:46]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -229,7 +229,7 @@ Pronounced: /ehp-sil-on/
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.20 |   9 |   463.34 | 2024-09-23T12:10:46Z |
-|        0 | 1.90 |   8 |   114.07 | 2023-09-10T17:57:20Z |
+|        0 | 1.90 |   9 |   237.93 | 2024-05-06T11:08:09Z |
 :END:
 
 *** Extra

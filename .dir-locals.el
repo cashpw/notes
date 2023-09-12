@@ -17,6 +17,7 @@
                   org-roam-db-location (expand-file-name "org-roam.db"
                                         org-roam-directory)
                   org-hugo-auto-set-lastmod t
+                  org-directory org-roam-directory
                   cashpw/org-roam--file-path-exceptions-to-export-after-save `(,(format "%sunread.org"
                                                                                             org-roam-directory)
                                                                                    ,(format "%sunread.org_archive"

@@ -2,7 +2,7 @@
 :ID:       fe0a27cf-4e5d-4f3f-a291-6b886524b002
 :ROAM_ALIASES: "Global service load balancing" "Global server load balancing" GSLB "Global server load balancer"
 :ROAM_REFS: [cite:@WhatGlobalServerLoadBalancingGSLB]
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-11 Mon 05:51]
 :END:
 #+title: Global service load balancer
 #+hugo_custom_front_matter: :slug "fe0a27cf-4e5d-4f3f-a291-6b886524b002"
@@ -30,7 +30,7 @@ Also see [[id:44890929-fa24-4a69-b261-04107a005903][Load balancing]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   216.33 | 2024-03-31T20:38:59Z |
-| back     | 2.50 |   6 |    90.21 | 2023-09-11T05:25:51Z |
+| back     | 2.50 |   7 |   208.62 | 2024-04-07T03:46:02Z |
 :END:
 
 [[id:fe0a27cf-4e5d-4f3f-a291-6b886524b002][Global service load balancing]]

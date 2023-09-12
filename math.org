@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-09-10 Sun 06:29]
+:LAST_MODIFIED: [2023-09-11 Mon 05:41]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -582,7 +582,7 @@ Informally: A transformation between two vector spaces consisting of a linear tr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |   116.51 | 2023-08-12T04:04:16Z |
+|        0 | 2.05 |   8 |   251.72 | 2024-05-20T05:57:37Z |
 |        1 | 2.65 |   9 |   447.52 | 2024-08-13T08:47:19Z |
 :END:
 

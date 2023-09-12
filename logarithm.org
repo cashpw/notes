@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       68df1a7c-9c9f-42f1-b270-56ab4b51e214
 :ROAM_REFS: [cite:@Logarithm2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-11 Mon 05:45]
 :END:
 #+title: Logarithm
 #+hugo_custom_front_matter: :slug "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
@@ -99,7 +99,7 @@ $f(x) = y \;|\; b^y = x$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |  10 |   288.10 | 2023-12-18T19:50:58Z |
-| front    | 2.20 |   3 |     6.00 | 2023-09-10T13:27:58Z |
+| front    | 2.20 |   4 |    13.65 | 2023-09-25T04:22:07Z |
 :END:
 
 Logarithm change of basis

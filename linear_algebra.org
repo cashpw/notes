@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-10 Sun 06:29]
+:LAST_MODIFIED: [2023-09-11 Mon 05:42]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -381,7 +381,7 @@ Matrices which differ from the [[id:562ca40a-737f-43b5-9ff5-47c5996f9b5c][Identi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |  10 |    76.86 | 2023-09-03T10:53:03Z |
+| back     | 1.45 |  11 |   100.82 | 2023-12-21T08:23:03Z |
 | front    | 2.65 |   8 |   408.81 | 2024-06-26T10:19:26Z |
 :END:
 

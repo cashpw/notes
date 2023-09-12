@@ -1,38 +1,65 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-09-10 Sun 08:48]
+:LAST_MODIFIED: [2023-09-11 Mon 06:52]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
 #+author: Cash Prokop-Weaver
 #+date: [2023-09-08 Fri 15:18]
-#+filetags: :hastodo:concept:
-* INPROGRESS
+#+filetags: :concept:
+Applied cognitive task analysis, as outlined in [[id:d8ab213e-9bd6-4669-a2b1-b931b56f5930][Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]], is a technique for extracting expertise which is simpler than [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]. There are four steps:
 
-Applied cognitive task analysis is a technique for extracting expertise which is simpler than [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]. There are four steps:
+1. Create a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]]
 
-#+begin_quote
-1. You start by creating a *task diagram*. A task diagram gives you a broad overview of the task in question and identifies the difficult cognitive elements. You'll want to do this at the beginning, because you'll want to know which parts of the task are worth focusing on.
-2. You do a *knowledge audit*. A knowledge audit is an interview that identifies all the ways in which expertise is used in a domain, and provides examples based on actual experience.
-3. You do a *simulation interview*. The simulation interview allows you to better understand an expert's cognitive processes within the context of an single incident (e.g. a firefighter arrives at the scene of a fire; a programmer is handed an initial specification). This allows you to extract cognitive processes that are difficult to get at using a knowledge audit, such as situational assessment, and how such changing events impacts subsequent courses of action.
-4. You create a *cognitive demands table*. After conducting ACTA interviews with /multiple/ experts, you create something called a 'cognitive demands table' which synthesises all that you've uncovered in the previous three steps. This becomes the primary output of the ACTA process, and the main artefact you'll use when you apply your findings to course design or to systems design.
+   1. Ask the subject matter expert to decompose the task in to steps, or subtasks, into 3-6[fn:1] steps
 
-[cite:@chinEasierMethodExtractingTacitKnowledge2021]
-#+end_quote
+      "Think about what you do when you perform <task of interest>. Can you break this down into less than six, but more than three steps?" [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 
+   2. Ask the subject matter expert to identify the more complex or cognitively demanding steps
+
+      "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+   3. Circle those steps; you'll be focusing on them during the next two techniques.
+
+2. Perform [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audits]]
+
+   1. Converse with / Interview the subject matter expert using the [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]] as a guide for /what/ to ask about and the [[id:ff79588d-7075-4c37-a27b-6582ceed6f6c][probes]] as a guide for /how/ to ask
+
+   2. Aggregate the results of several such interviews into a knowledge audit table (see example below)
+
+3. Perform [[id:3450d61e-cb1e-43ae-9849-edbda7e4cb75][Simulation interviews]]
+
+   1. Present the subject matter expert with a challenging scenario ([[id:c8308617-539e-4933-adf1-9b6aab7cb714][Choosing good simulations]])
+
+      "As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+   2. Ask them to "identify major events, including judgements and decisions" [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998] and [[id:fccc970a-d08c-4a76-8be1-21fcded4a35a][probe]] each event for "situation assessment, actions, critical cues, and potential errors surrounding that event" [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+   3. Aggregate their answers into a simulation interview table. "Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+4. Construct a [[id:a95ee784-7e0d-438e-b702-b515cb07383f][Cognitive demands table]]
 ** Task diagram
+:PROPERTIES:
+:ID:       eea22cee-38bc-4163-becf-63853258f7ec
+:END:
+
 #+begin_quote
 The goal when creating a task diagram is to set up the knowledge audit and the simulation interview. You want a big-picture overview of the most cognitively demanding parts of the task, so that you may focus the majority of your time on those parts.
 
-You start out by asking the expert to decompose the task into steps or subtasks. You ask: "Think about what you do when you (task of interest). Can you break this task down into less than six, but more than three steps?" The goal is to get the expert to walk through the task in his or her mind, verbalising the major steps. The question purposely limits the expert to between three and six steps to ensure that they don't waste time diving into minute detail; you really want to prevent yourself from digging into their mental models at this stage.
-
-After the expert settles on a list of steps, ask: "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills."
-
-Circle those steps; you'll be focusing on them during the next two techniques.
-
-[cite:@chinEasierMethodExtractingTacitKnowledge2021]
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 #+end_quote
+*** Example: Task diagram
+
+#+begin_quote
+[[file:acta-figure-1.png]]
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
+
 ** Knowledge audit
+:PROPERTIES:
+:ID:       1c918801-74a4-46a6-8fe6-3d50730f3d88
+:END:
 
 #+begin_quote
 The knowledge audit identifies ways in which expertise has been used in a domain, and surfaces examples based on the expert's real world experiences. The goal here is to capture the most important aspects of expertise.
@@ -41,13 +68,21 @@ You start out with a list of basic probes. These probes are drawn from the knowl
 [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 #+end_quote
 
-#+BEGIN_QUOTE
+#+begin_quote
 The knowledge audit identifies ways in which expertise is used in a domain and provides examples based on actual experience. [...]
 
-The knowledge audit employs a set of probes designed to describe types of domain knowledge or skill and elicit appropriate examples (figure 2). The goal is not simply to find out whether each component is present in the task, but to find out the nature of these skills, specific events where they were required, strategies that have been used, and so forth. The list of probes is the starting point for conducting this interview. Then, the interviewer asks for specifics about the example in terms of critical cues and strategies of decision making. This is followed by a discussion of potential errors that a novice, less-experienced person might have made in this situation.
+The list of probes is the starting point for conducting this interview. Then, the interviewer asks for specifics about the example in terms of critical cues and strategies of decision making. This is followed by a discussion of potential errors that a novice, less-experienced person might have made in this situation.
 
-[...]
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
 
+
+*** Knowledge audit probes
+:PROPERTIES:
+:ID:       ff79588d-7075-4c37-a27b-6582ceed6f6c
+:END:
+
+#+begin_quote
 Basic probes:
 
 - *Past & Future*
@@ -93,11 +128,15 @@ Optional Probes:
   Equipment can sometimes mislead. Novices usually believe whatever the equipment tells them; they don't know when to be skeptical.
 
   /Have there been times when the equipment pointed in one direction, but your own judgment told you to do something else? Or when you had to rely on experience to avoid being led astray by the equipment?/
+
+[formatting mine]
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 #+end_quote
 
-#+begin_quote
-Table 1. Example of a knowledge audit table.
+*** Example: Knowledge audit table
 
+#+begin_quote
 | Aspects of expertise                                                                                         | Cues and strategies                                                                                                                                                                               | Why difficult?                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Past and future; e.g. Explosions in office strip --- search the office areas rather than source of explosion | Material safety data sheets (MSDS) tells you that explosion in area of dangerous chemicals and information about chemicals. Start where most likely to find victims and own safety considerations | Novice would be trained to start at source and work out. May not look at MSDS, to find potential source of explosion, and account for where people are most likely to be. |
@@ -105,7 +144,224 @@ Table 1. Example of a knowledge audit table.
 | Noticing; breathing sounds of victims                                                                        | Both you and your partner stop, hold your breath, and listen. Listen for crying, talking to themselves, victims knocking things over.                                                             | Noise from own breathing in apparatus, fire noises. Don't know what kinds of sounds to listen for.                                                                        |
 
 [formatting mine]
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 #+end_quote
 ** Simulation interview
-* TODO [#2] Flashcards
+:PROPERTIES:
+:ID:       3450d61e-cb1e-43ae-9849-edbda7e4cb75
+:END:
+
+#+begin_quote
+The simulation interview allows the interviewer to better understand the SME's cognitive processes within the context of an incident. [...]
+
+The simulation interview is based on presentation of a challenging scenario to the SME. The authors recommend that the interviewer retrieves a scenario that already exists for use in this interview. Often, simulations and scenarios exist for training purposes. It may be necessary to adapt or modify the scenario to conform to practical constraints such as time limitations. Developing a new simulation specifically for use in the interview is not a trivial task and is likely to require an upfront CTA in order to gather the foundational information needed to present a challenging situation. The simulation can be in the form of a paper-and-pencil exercise, perhaps using maps or other diagrams. In some settings it may be possible to use video or computer-supported simulations. Surprisingly, in the authors' experience, the fidelity of the simulation is not an important issue. The key is that the simulation presents a challenging scenario.
+
+After exposure to the simulation, the SME is asked to identify major events, including judgements and decisions, with a question such as, `As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation'. Each event is probed for situation assessment, actions, critical cues, and potential errors surrounding that event (figure 3).
+
+Information elicited is recorded in the simulation interview table (table 2). Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible. This technique can be used to highlight differing SME perspectives, which is important information for developing training and system design recommendations. The technique can also be used to contrast expert and novice perspectives by conducting interviews with people of differing levels of expertise using the same simulation.
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
+
+*** Simulation interview probes
+:PROPERTIES:
+:ID:       fccc970a-d08c-4a76-8be1-21fcded4a35a
+:END:
+#+begin_quote
+Figure 3. Simulation interview probes
+
+For each major event, elicit the following information
+
+- As the (job you are investigating) in this scenario, what actions, if any, would you take at this point in time?
+- What do you think is going on here? What is your assessment at this point in time?
+- What pieces of information led you to this situation assessment and these actions?
+- What errors would an inexperienced person be likely to make in this situation?
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
+
+*** Example: Simulation interview table
+#+begin_quote
+| Events           | Actions                                                                                                                                        | Assessment                                                               | Critical cues                                                                                                                                  | Potential errors                                                                                      |
+|------------------+------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------|
+| On-scene arrival | (1) Account for people (names), (2) Ask neighbors (but don't take their word for it, check it out yourself), (3) must knock on or knock down to make sure people aren't there | It's a cold night, need to find place for people who have been evacuated | (1) Night time, (2) cold -> 15°, (3) Dead space, (4) Add on floor, (5), Poor materials wood (punk board), metal girders (buckle and break under fire), (6) common attack in whole building | Not keeping track of people (could be looking for people who are not there)                           |
+| Initial attack   | (1) Watch for signs of building collapse, (2) if signs of building collapse, evacuate and throw water on it from outside                       | Faulty construction, building may collapse                               | (1) Signs of building collapse include: What walls are doing: cracking; What floors are doing: groaning; What metal girders are doing: clicking, popping, (2) cable in old buildings hold walls together | Ventilating the attack, this draws the fire up and spreads it through the pipes and electrical system |
+
+[formatting mine]
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
+
+*** Choosing good simulations
+:PROPERTIES:
+:ID:       c8308617-539e-4933-adf1-9b6aab7cb714
+:END:
+
+#+begin_quote
+Of the four techniques in ACTA, picking a good simulation seems like the trickiest part of the methodology.
+
+[cite:@chinEasierMethodExtractingTacitKnowledge2021]
+#+end_quote
+
+- Prefer scenarios which already exist; "Often, simulations and scenarios exist for training purposes. It may be necessary to adapt or modify the scenario to conform to practical constraints such as time limitations." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+- "[...] the fidelity of the simulation is not an important issue. The key is that the simulation presents a challenging scenario." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+** Cognitive demands table
+:PROPERTIES:
+:ID:       a95ee784-7e0d-438e-b702-b515cb07383f
+:END:
+
+The cognitive demands table is a reader-friendly presentation of the data you've collected in the preceding three steps.
+
+#+begin_quote
+After conducting ACTA interviews with multiple SMEs, the authors recommend the use of a cognitive demands table (table 3) to sort through and analyse the data. Clearly, not every bit of information discussed in an interview will be relevant for the goals of a specific project. [...] The table also helps the practitioner see common themes in the data, as well as conflicting information given by multiple SMEs.
+#+end_quote
+
+*** Example: Cognitive demands table
+
+#+begin_quote
+The authors offer sample headings for the table based on analyses that they have conducted in the past (difficult cognitive element, why difficult, comm on errors, and cues and strategies used), but recommend that practitioners focus on the types of information that they will need to develop a new course or design a new system.
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
+
+#+begin_quote
+| Difficult cognitive element                | Why difficult?                                                                                                                                 | Common errors                                                                                                                               | Cues and strategies used                                                                                                                       |
+|--------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------|
+| Knowing where to search after an explosion | (1) Novices may not be trained in dealing with explosions. Other training suggests you should start at the source and work outward; (2) Not everyone knows about the Material Safety Data Sheets. These contain critical information | Novice would be likely to start at the source of the explosion. Starting at the source is a rule of thumb for most other kinds of incidents | (1) Start where you are most likely to find victims, keeping in mind safety considerations; (2) Refer to Material Safety Data Sheets to determine where dangerous chemicals are likely to be; (3) Consider the type of structure and where victims are likely to be; (4) Consider the likelihood of further explosions. Keep in mind the safety of your crew |
+| Finding victims in a burning building      | There are lots of distracting noises. If you are nervous or tired, your own breathing makes it hard to hear anything else                      | Novices sometimes don't recognize recognize their own breathing sounds; they mistakenly think they hear a victim breathing                  |(1) Both you and your partner stop, hold your breath, and listen; (2) Listen for crying, victims talking to themselves, victims knocking things over, etc |
+
+[formatting mine]
+
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+#+end_quote
+
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-09-11 Mon 06:48]
+:FC_CREATED: 2023-09-11T13:49:13Z
+:FC_TYPE:  double
+:ID:       b2b18525-15df-48b0-92c3-d6c144df98d5
+:FC_BLOCKED_BY:       2213c239-559f-44b8-ad42-3beb10f26c14,6c38347a-935d-4d08-848c-77d66138f4be,030a8882-0626-4015-b4cd-13d0c412b847
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-11T13:49:13Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-18T13:49:13Z |
+:END:
+
+Steps involved in [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
+
+*** Back
+1. Create a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]]
+2. Perform [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audits]]
+3. Perform [[id:3450d61e-cb1e-43ae-9849-edbda7e4cb75][Simulation interviews]]
+4. Construct a [[id:a95ee784-7e0d-438e-b702-b515cb07383f][Cognitive demands table]]
+
+*** Source
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+** Cloze :fc:
+:PROPERTIES:
+:CREATED: [2023-09-11 Mon 06:49]
+:FC_CREATED: 2023-09-11T13:49:41Z
+:FC_TYPE:  cloze
+:ID:       b215050e-545a-46ff-b83b-709e3a3c9982
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |  -1 |        0 | 2023-09-11T13:49:41Z |
+|        1 |  2.5 |  -1 |        0 | 2023-09-18T13:49:41Z |
+:END:
+
+{{[[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]}@0} is a simpler form of {{[[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]}@1}.
+
+*** Source
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+** Describe ([[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-09-11 Mon 06:49]
+:FC_CREATED: 2023-09-11T13:50:35Z
+:FC_TYPE:  double
+:ID:       030a8882-0626-4015-b4cd-13d0c412b847
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-11T13:50:35Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-18T13:50:35Z |
+:END:
+
+How to create a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]]
+
+*** Back
+1. Ask the subject matter expert to decompose the task in to steps, or subtasks, into 3-6[fn:1] steps
+
+   "Think about what you do when you perform <task of interest>. Can you break this down into less than six, but more than three steps?" [cite:@chinEasierMethodExtractingTacitKnowledge2021]
+
+2. Ask the subject matter expert to identify the more complex or cognitively demanding steps
+
+   "Of the steps you have just identified, which require difficult cognitive skills? By cognitive skills I mean: judgments, assessments, and problem solving-thinking skills." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+3. Circle those steps; you'll be focusing on them during the next two techniques.
+
+*** Source
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+** Describe ([[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-09-11 Mon 06:50]
+:FC_CREATED: 2023-09-11T13:51:04Z
+:FC_TYPE:  double
+:ID:       2213c239-559f-44b8-ad42-3beb10f26c14
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-11T13:51:04Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-18T13:51:04Z |
+:END:
+
+How to perform a [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audit]]
+
+*** Back
+1. Converse with / Interview the subject matter expert using the [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]] as a guide for /what/ to ask about and the [[id:ff79588d-7075-4c37-a27b-6582ceed6f6c][probes]] as a guide for /how/ to ask
+2. Aggregate the results of several such interviews into a knowledge audit table (see example below)
+*** Source
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+** Describe ([[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-09-11 Mon 06:51]
+:FC_CREATED: 2023-09-11T13:51:39Z
+:FC_TYPE:  double
+:ID:       6c38347a-935d-4d08-848c-77d66138f4be
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-11T13:51:39Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-18T13:51:39Z |
+:END:
+
+How to perform a [[id:3450d61e-cb1e-43ae-9849-edbda7e4cb75][Simulation interview]]
+
+*** Back
+
+1. Present the subject matter expert with a challenging scenario ([[id:c8308617-539e-4933-adf1-9b6aab7cb714][Choosing good simulations]])
+
+   "As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+2. Ask them to "identify major events, including judgements and decisions" [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998] and [[id:fccc970a-d08c-4a76-8be1-21fcded4a35a][probe]] each event for "situation assessment, actions, critical cues, and potential errors surrounding that event" [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+3. Aggregate their answers into a simulation interview table. "Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+
+*** Source
+[cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+* Footnotes
+
+[fn:1] "The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 #+print_bibliography:

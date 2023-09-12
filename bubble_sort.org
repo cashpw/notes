@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6bc266e-1090-492f-bdba-f044e04db3ff
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-11 Mon 05:42]
 :END:
 #+title: Bubble sort
 #+hugo_custom_front_matter: :slug "c6bc266e-1090-492f-bdba-f044e04db3ff"
@@ -144,7 +144,7 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.70 |   9 |   109.02 | 2023-09-10T20:56:25Z |
+|        0 | 1.70 |  10 |   185.27 | 2024-03-14T19:12:02Z |
 :END:
 *** Extra
 *** Source

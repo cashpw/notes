@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-09-10 Sun 06:38]
+:LAST_MODIFIED: [2023-09-11 Mon 05:49]
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -68,7 +68,7 @@ Away from, down, off
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   262.20 | 2024-04-05T18:24:55Z |
-| back     | 2.65 |   6 |   109.08 | 2023-09-10T22:20:44Z |
+| back     | 2.65 |   7 |   262.76 | 2024-05-31T07:01:52Z |
 :END:
 
 Ad-, a-

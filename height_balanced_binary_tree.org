@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       86c3b62f-4766-4c76-856b-bebe9fe6d125
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-11 Mon 05:50]
 :END:
 #+title: Height-balanced binary tree
 #+hugo_custom_front_matter: :slug "86c3b62f-4766-4c76-856b-bebe9fe6d125"
@@ -14,9 +14,6 @@ For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], t
 [cite:@SelfbalancingBinarySearchTree2022]
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition ([[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]) :fc:
 :PROPERTIES:
 :ID:       715ab07a-b706-47a7-b3a6-a77a9059ed86
@@ -28,7 +25,7 @@ For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   7 |   289.93 | 2023-11-29T15:59:36Z |
-| front    | 2.20 |   3 |     6.00 | 2023-09-10T17:59:32Z |
+| front    | 2.20 |   4 |    13.09 | 2023-09-24T14:57:24Z |
 :END:
 
 [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]]

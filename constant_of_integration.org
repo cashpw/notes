@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1b39fa71-69fb-416c-9031-0927bc006a3b
 :ROAM_REFS: [cite:@ConstantIntegration2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-11 Mon 05:45]
 :END:
 #+title: Constant of integration
 #+hugo_custom_front_matter: :slug "1b39fa71-69fb-416c-9031-0927bc006a3b"
@@ -29,7 +29,7 @@ More specifically, if a function $f(x)$ is defined on an interval, and $F(x)$(x)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   6 |   138.73 | 2023-09-14T16:10:55Z |
-| back     | 2.65 |   6 |   130.47 | 2023-09-11T09:18:50Z |
+| back     | 2.65 |   7 |   375.84 | 2024-09-21T08:52:48Z |
 :END:
 
 [[id:1b39fa71-69fb-416c-9031-0927bc006a3b][Constant of integration]]

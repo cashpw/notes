@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       36417ccc-d8cc-4116-baef-89dfb6b1924a
+:LAST_MODIFIED: [2023-09-11 Mon 11:50]
+:END:
+#+title: Shuhari
+#+hugo_custom_front_matter: :slug "36417ccc-d8cc-4116-baef-89dfb6b1924a"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-11 Mon 11:48]
+#+filetags: :concept:
+
+#+begin_quote
+Shuhari is a Japanese martial art concept which describes the stages of learning to mastery. It is sometimes applied to other disciplines, such as Go.
+
+/Shuhari/ roughly translates to "to keep, to fall, to break away" or "follow the rules, break the rules, transcend the rules".
+
+Shuhari can be decomposed in 3 kanjis:
+
+- /*shu*/ (守) "protect", "obey"---traditional wisdom---learning fundamentals, techniques, heuristics, proverbs.
+- /*ha*/ (破) "detach", "digress"---breaking with tradition---detachment from the illusions of self, to break with tradition - to find exceptions to traditional wisdom, to find new approaches. In some styles of Japanese music (gagaku and noh), it is also the middle of the song.
+- /*ri*/ (離) "leave", "separate"---transcendence---there are no techniques or proverbs, all moves are natural, becoming one with spirit alone without clinging to forms; transcending the physical - there is no traditional technique or wisdom, all movements are allowed.
+
+[cite:@Shuhari2023]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-09-11 Mon 11:50]
+:FC_CREATED: 2023-09-11T18:50:55Z
+:FC_TYPE:  double
+:ID:       4c3d68f4-39ab-40e8-b7e1-e00e8b153810
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-11T18:50:55Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-18T18:50:55Z |
+:END:
+
+[[id:36417ccc-d8cc-4116-baef-89dfb6b1924a][Shuhari]]
+
+*** Back
+1. Follow the rules
+2. Break the rules
+3. Transcend the rules
+*** Source
+[cite:@Shuhari2023]
+#+print_bibliography:

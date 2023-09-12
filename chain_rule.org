@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ff1c07f-e015-4929-b119-8890ebbc312c
-:LAST_MODIFIED: [2023-09-09 Sat 16:13]
+:LAST_MODIFIED: [2023-09-11 Mon 05:47]
 :END:
 #+title: Chain rule
 #+hugo_custom_front_matter: :slug "0ff1c07f-e015-4929-b119-8890ebbc312c"
@@ -56,7 +56,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   134.15 | 2023-09-10T17:58:37Z |
+|        0 | 2.95 |   7 |   396.66 | 2024-10-12T04:44:46Z |
 :END:
 
 $h(x) = f(g(x)) = (f\circ g)(x)$

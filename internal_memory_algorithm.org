@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-11 Mon 05:45]
 :END:
 #+title: Internal memory algorithm
 #+hugo_custom_front_matter: :slug "8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc"
@@ -41,7 +41,7 @@ Algorithms designed to process data that can fit into a single computer's main m
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   467.12 | 2024-10-06T17:53:39Z |
-| back     | 2.50 |   7 |   228.44 | 2023-09-11T03:18:45Z |
+| back     | 2.50 |   8 |   561.61 | 2025-03-26T03:23:03Z |
 :END:
 [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]]
 *** Back

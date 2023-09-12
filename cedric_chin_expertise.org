@@ -1,23 +1,57 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinExpertise2023]
 :ID:       148505a6-5c2a-4236-a389-da33f5b57ae5
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-11 Mon 08:53]
 :END:
 #+title: Cedric Chin | Expertise
 #+hugo_custom_front_matter: :slug "148505a6-5c2a-4236-a389-da33f5b57ae5"
 #+author: Cash Weaver
 #+date: [2023-06-07 Wed 08:35]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinExpertise2023]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* Summary
+* Thoughts
+* Notes
 #+begin_quote
 Let's say that you want to get good. Let's say that you want to get good fast. And suppose you're aiming to be top of your field. How do you go about doing it?
 
 The typical answer you'll get is probably something along the lines of 'go do deliberate practice' [[[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]], or 'learn to interleave learning' or 'go do spaced repetition'. These answers draw from a rich body of research on practice methods, expertise, and expertise acceleration.
+
+That's the good news. The bad news is that pop versions of these ideas often don't work that well. You need to pay careful attention to what the research actually says — and what contexts they come from — before you can apply it. Or you need to try these ideas out in practice, and report back on what works.
+
+There are, broadly speaking, three approaches to accelerating expertise that Commoncog is interested in. The names we use for these three categories are somewhat unique to this site; we've chosen them to delineate several categories of expertise acquisition that --- in reality --- have some overlap.
+
+1. *The Deliberate Practice tradition*. This body of work was started by K. Anders Ericsson in the 90s, and broadly discusses practice approaches that accelerate skill acquisition. Ericsson's work is primarily concerned with something called 'Deliberate Practice' (DP). Deliberate Practice is a technical term, it /does not mean 'practicing deliberately'/. It is a specific type of practice with a specific set of properties. DP is still considered the gold standard today --- it is the best, most studied form of practice that produces the best results in certain fields. (Notice the implication: there are lousier forms of practice that are not as good as DP, and there are fields where the best performers do not become good through DP). The main problem with DP is that /coming up/ with DP exercises is not free --- /someone/ has to spend time developing effective DP exercises for your skill domain.
+2. *The Naturalistic Decision Making approach*. What happens when you don't want to spend time coming up with effective DP exercises? The answer is: you cheat. You find a bunch of real world experts, extract the tacit expertise from their heads, and then build training methods around what they've already figured out in their field of work. This body of work is best typified by the work of the Naturalistic Decision Making community (or NDM) --- a sub-branch of psychology that has developed methods for studying expertise in real world environments. This topic covers expertise /extraction/ methods, theories of expertise in real world environments, and training methods that leverage extracted tacit mental models of expertise.
+3. *The Trial and Error approach*. The above two research approaches beg one other question: /how did these experts become experts in the first place?/ DP experts become experts because prior generations of practitioners took the time to develop DP exercises that may accelerate skill development. How did those first experts become good? Similarly, NDM researchers seek out /existing/ experts in real world domains --- often with no history of DP-style exercises --- and then explicate their tacit expertise. How do those experts acquire their expertise in the first place? The answer here is, broadly: they learn through trial and error. But then what separates the masters from the merely good practitioners? This third topic of expertise is perhaps the smallest and the least developed, but no less interesting because many of us operate in domains where we have to get good through time consuming trial and error.
+
+** Deliberate Practice
+#+begin_quote
+The following are highlights on Commoncog's coverage of DP:
+
+- You'll want to start with a [[https://commoncog.com/peak-book-summary/][summary of K. Anders Ericsson's /Peak/]] [[[id:8b2342f4-1514-4a61-9115-235b8572c8fd][Cedric Chin | Book Summary: Peak, the New Science of Expertise]]], followed by [[https://commoncog.com/the-problems-with-deliberate-practice/][The Problems with Deliberate Practice]] [[[id:d707680f-f46c-459f-a822-11d8c2beca6c][Cedric Chin | The Problems with Deliberate Practice]]].
+- In late 2022/early 2023 I relocated to a different city and undertook a four month accelerated expertise experiment in Judo to experience DP for myself. You may read the setup for that experiment in [[https://commoncog.com/expertise-acceleration-experiment-judo/][An Expertise Acceleration in Judo]] and the outcome of that experiment in [[https://commoncog.com/mental-strength-judo-life/][Mental Strength in Judo, Mental Strength in Life]] [[[id:ca0214d4-646a-4600-9e00-6ddff78e74d6][Cedric Chin | Mental Strength in Judo, Mental Strength in Life]]].
+- The biggest criticism I had of DP was that /someone/ needed to come up with DP exercises in order for DP to work. As a result of my four month Judo experiment, I now have direct experience of what that /actually/ looks like. I document this in [[https://commoncog.com/creating-drills-deliberate-practice/][Creating New Drills for Deliberate Practice]] /(members only)/.
 #+end_quote
-* TODO [#2] Flashcards
+
+** Naturalistic Decision Making
+#+begin_quote
+There are more articles on tacit expertise in Commoncog's archives. Here are some highlights:
+
+- The big tentpole series here is the [[https://commoncog.com/the-tacit-knowledge-series/][Tacit Knowledge Series]] [[[id:96c1f65b-0c31-4478-8717-8c33743a9e94][Cedric Chin | The Tacit Knowledge Series]]] --- which lays out how expertise is tacit, why the research around extracting tacit expertise is more important than the literature on deliberate practice (at least, for the business/career practitioner!), and how to go about acquiring tacit knowledge in the pursuit of skill acquisition.
+- [[https://commoncog.com/accelerated-expertise/][Accelerated Expertise]] [[[id:f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb][Cedric Chin | Book Summary: Accelerated Expertise]]] is a summary of the best book on NDM training methods currently available.
+- Cognitive Flexibility Theory is a theory of expertise in ill structured domains --- domains like business, investing and medicine. The [[https://commoncog.com/learning-ill-structured-domains-series/][Learning in Ill-Structured Domains Series]] covers the implications of accelerating expertise in such messy domains.
+- [[https://commoncog.com/most-useful-question-expertise/][The Most Useful Question to Ask About Expertise]] (members only) discusses the expert/novice research paradigm, and walks you through a real world example that you can use in your life.
+#+end_quote
+** Learning from Trial and Error
+#+begin_quote
+How do you learn /better/ from trial and error?
+
+- The big idea here is Cognitive Transformation Theory, which we cover in The [[https://commoncog.com/the-hard-thing-about-learning-from-experience/][Hard Thing About Learning from Experience]] [[[id:6e21d350-e098-4a80-a6bf-ccc86c254f28][Cedric Chin | The Hard Thing About Learning From Experience]]]. There are two subtle ideas in the theory: first, experts are more willing to destroy old mental models as they advance; intermediate practitioners are not. Second, this becomes more difficult /the higher up they are in their respective skill trees/.
+- [[https://commoncog.com/dont-read-history-for-lessons/][Don't Read History for Lessons]] [[[id:a8d74b9a-2871-4384-b1f0-f761e96f1bc4][Cedric Chin | Don't Read History for Lessons]]] covers some of the difficulty of learning from path-dependent and context-dependent historical events.
+- [[https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/][Ability to See Expertise is a Milestone Worth Aiming For]] [[[id:32a61c32-7208-4f24-8eee-ed8466bde56e][Cedric Chin | Ability to See Expertise Is a Milestone Worth Aiming For]]] covers the difficulty of acquiring expertise when you can't even see expertise.
+#+end_quote
+* Flashcards
 #+print_bibliography:

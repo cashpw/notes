@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0a030bb4-7349-4498-9cde-8c383511d569
+:LAST_MODIFIED: [2023-09-11 Mon 08:02]
+:END:
+#+title: Triple path model of insight
+#+hugo_custom_front_matter: :slug "0a030bb4-7349-4498-9cde-8c383511d569"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-11 Mon 08:01]
+#+filetags: :hastodo:concept:
+* TODO [#0]
+See [cite:@kleinSeeingWhatOthersDonRemarkableWaysWeGainInsights2015] and [cite:@streetGaryKleinTriplePathModelInsight2013]
+* TODO [#2] Flashcards
+#+print_bibliography:

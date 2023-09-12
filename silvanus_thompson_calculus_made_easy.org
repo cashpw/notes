@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-09-10 Sun 06:39]
+:LAST_MODIFIED: [2023-09-11 Mon 05:49]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -534,7 +534,7 @@ General, [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]], approach
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   134.36 | 2023-09-10T23:07:01Z |
+|        0 | 2.95 |   7 |   427.91 | 2024-11-12T10:36:15Z |
 |        1 | 2.05 |   4 |    11.31 | 2023-09-10T20:11:30Z |
 :END:
 

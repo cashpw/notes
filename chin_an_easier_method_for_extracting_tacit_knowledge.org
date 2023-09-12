@@ -1,19 +1,21 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 :ID:       112cd568-012c-4eea-b902-53f44907b098
-:LAST_MODIFIED: [2023-09-08 Fri 15:19]
+:LAST_MODIFIED: [2023-09-11 Mon 06:47]
 :END:
 #+title: Cedric Chin | An Easier Method for Extracting Tacit Knowledge
 #+hugo_custom_front_matter: :slug "112cd568-012c-4eea-b902-53f44907b098"
 #+author: Cash Weaver
 #+date: [2023-08-04 Fri 21:59]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinEasierMethodExtractingTacitKnowledge2021]
 
-* TODO Summary
-* TODO Thoughts
-* INPROGRESS Notes
+* Summary
+See [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]].
+* Thoughts
+This article is a paraphrasing of [[id:d8ab213e-9bd6-4669-a2b1-b931b56f5930][Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands]] without additional insight.
+* Notes
 #+begin_quote
 While RPD describes what expert intuition is, it doesn't really help you extract that intuition for yourself. The researchers who came up with the RPD model developed a method for doing that, which they named the 'Critical Decision Method' (CDM), but the technique is incredibly difficult to learn and extremely time consuming to execute. All of which is well and good when you're a researcher, and your clients hire you to spend months designing training programs for them; less so if you're a practitioner, and you simply want to get at the skills that live in other peoples's heads.
 
@@ -26,9 +28,9 @@ Militello and Hutton's reasoning went something like this: if ACTA was easy enou
 In the years since they first published the paper, they've largely been proven right.
 #+end_quote
 
-[[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
-
 ** The four techniques of Applied Cognitive Task Analysis
 
-* TODO [#2] Flashcards
+See [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]].
+
+* Flashcards
 #+print_bibliography:

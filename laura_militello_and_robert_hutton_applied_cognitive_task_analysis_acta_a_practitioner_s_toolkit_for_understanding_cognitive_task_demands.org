@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 :ID:       d8ab213e-9bd6-4669-a2b1-b931b56f5930
-:LAST_MODIFIED: [2023-09-10 Sun 08:45]
+:LAST_MODIFIED: [2023-09-11 Mon 06:52]
 :END:
 #+title: Laura Militello and Robert Hutton | Applied Cognitive Task Analysis (ACTA): A Practitioner's Toolkit for Understanding Cognitive Task Demands
 #+hugo_custom_front_matter: :slug "d8ab213e-9bd6-4669-a2b1-b931b56f5930"
@@ -9,15 +9,15 @@
 #+date: [2023-09-08 Fri 15:14]
 #+filetags: :hastodo:reference:
 
-TODO_AUTHOR, [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+[[id:95e78505-98c4-4a0d-97e3-686883ef861f][Laura Militello]], [[id:f184dead-9713-4aa0-b7b5-88f89601c592][Robert Hutton]], [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 
-* TODO [#0] Summary
+* Summary
 [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
-* TODO [#0] Thoughts
+* TODO [#4] Thoughts
 * Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/d8/ab213e-9bd6-4669-a2b1-b931b56f5930/Militello_Hutton_1998_Applied Cognitive Task Analysis (ACTA).pdf
-:NOTER_PAGE: 25
+:NOTER_PAGE: 8
 :END:
 ** Abstract
 :PROPERTIES:
@@ -58,7 +58,7 @@ The goal of this project was to develop and evaluate techniques that would enabl
 #+begin_quote
 The task diagram elicits a broad overview of the task and identifies the difficult cognitive elements. Although this preliminary interview offers only a surface-level view of the cognitive elements of the task, it enables the interviewer to focus the more in-depth interviews (i.e. the knowledge audit and simulation interviews) so that time and resources can be spent unpacking the most difficult and relevant of those cognitive elements.
 
-The subject matter expert is asked to decompose the task into steps or subtasks with a question such as, `Think about what you do when you (task of interest). Can you break this task down into less than six, but more than three steps?' The goal is to get the expert to walk through the task in his / her mind, verbalizing major steps. The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview . After the steps of the task have been articulated, the SME is asked to identify which of the steps require cognitive skill, with a question such as, `Of the steps you have just identified which require difficult cognitive skills? By cognitive skills I mean judgements, assessments, problem solving ± thinking skills' . The resulting diagram (figure 1) serves as a road map for future interviews, providing an overview of the major steps involved in the task and the sequence in which the steps are carried out, as well as which of the steps require the most cognitive skill.
+The subject matter expert is asked to decompose the task into steps or subtasks with a question such as, `Think about what you do when you (task of interest). Can you break this task down into less than six, but more than three steps?' The goal is to get the expert to walk through the task in his / her mind, verbalizing major steps. The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview. After the steps of the task have been articulated, the SME is asked to identify which of the steps require cognitive skill, with a question such as, `Of the steps you have just identified which require difficult cognitive skills? By cognitive skills I mean judgements, assessments, problem solving ± thinking skills'. The resulting diagram (figure 1) serves as a road map for future interviews, providing an overview of the major steps involved in the task and the sequence in which the steps are carried out, as well as which of the steps require the most cognitive skill.
 
 The task diagram interview is intended to provide a surface-level look at the task, and does not attempt to unpack the mental model of each SME. The goal is to elicit a very broad overview of the task.
 
@@ -144,7 +144,7 @@ The simulation interview allows the interviewer to better understand the SME's c
 
 The simulation interview is based on presentation of a challenging scenario to the SME. The authors recommend that the interviewer retrieves a scenario that already exists for use in this interview. Often, simulations and scenarios exist for training purposes. It may be necessary to adapt or modify the scenario to conform to practical constraints such as time limitations. Developing a new simulation specifically for use in the interview is not a trivial task and is likely to require an upfront CTA in order to gather the foundational information needed to present a challenging situation. The simulation can be in the form of a paper-and-pencil exercise, perhaps using maps or other diagrams. In some settings it may be possible to use video or computer-supported simulations. Surprisingly, in the authors' experience, the fidelity of the simulation is not an important issue. The key is that the simulation presents a challenging scenario.
 
-After exposure to the simulation, the SME is asked to identify major events, including judgements and decisions, with a question such as, `As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation' . Each event is probed for situation assessment, actions, critical cues, and potential errors surrounding that event (figure 3).
+After exposure to the simulation, the SME is asked to identify major events, including judgements and decisions, with a question such as, `As you experience this simulation, imagine you are the (job you are investigating) in the incident. Afterwards, I am going to ask you a series of questions about how you would think and act in this situation'. Each event is probed for situation assessment, actions, critical cues, and potential errors surrounding that event (figure 3).
 
 Information elicited is recorded in the simulation interview table (table 2). Using the same simulation for interviews with multiple SMEs can provide insight into situations in which more than one action would be acceptable, and alternative assessments of the same situation are plausible. This technique can be used to highlight differing SME perspectives, which is important information for developing training and system design recommendations. The technique can also be used to contrast expert and novice perspectives by conducting interviews with people of differing levels of expertise using the same simulation.
 #+end_quote
@@ -190,5 +190,5 @@ Table 3. Example of a cognitive demands table
 [formatting mine]
 #+end_quote
 
-* TODO [#0] Flashcards
+* Flashcards
 #+print_bibliography:

@@ -2,7 +2,7 @@
 :ID:       5185ffd0-b643-484a-a69d-85b7579eb38d
 :ROAM_ALIASES: "Inferential gap"
 :ROAM_REFS: [cite:@InferentialDistance]
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-11 Mon 05:46]
 :END:
 #+title: Inferential distance
 #+hugo_custom_front_matter: :slug "5185ffd0-b643-484a-a69d-85b7579eb38d"
@@ -41,7 +41,7 @@ There is a short inferential distance between you and the physicist; there is a 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   188.57 | 2023-09-27T03:24:47Z |
-| back     | 1.90 |   3 |     6.00 | 2023-09-10T13:36:15Z |
+| back     | 1.90 |   4 |    11.61 | 2023-09-23T03:22:21Z |
 :END:
 
 [[id:5185ffd0-b643-484a-a69d-85b7579eb38d][Inferential distance]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ab452878-389a-4a13-b659-903b7db10997
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-11 Mon 05:51]
 :END:
 #+title: Theory of action
 #+hugo_custom_front_matter: :slug "ab452878-389a-4a13-b659-903b7db10997"
@@ -24,7 +24,7 @@ See also: [[id:cb4d578c-d0d4-4056-aad1-c6ee153eb42f][Theory of change]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    76.87 | 2023-11-12T10:19:49Z |
-| back     | 2.80 |   5 |    48.46 | 2023-09-10T15:13:15Z |
+| back     | 2.80 |   6 |   132.62 | 2024-01-22T03:43:44Z |
 :END:
 
 [[id:ab452878-389a-4a13-b659-903b7db10997][Theory of action]]

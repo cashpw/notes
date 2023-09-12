@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4a42aa6f-413f-4144-86df-5c0f0b174777
 :ROAM_ALIASES: RPD
-:LAST_MODIFIED: [2023-09-09 Sat 16:14]
+:LAST_MODIFIED: [2023-09-11 Mon 05:41]
 :ROAM_REFS: [cite:@RecognitionprimedDecision2023]
 :END:
 #+title: Recognition-primed decision
@@ -129,7 +129,7 @@ Klein mentions that RPD is similar to other models of expertise, such as [[https
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    14.82 | 2023-09-11T09:21:07Z |
+| front    | 2.35 |   5 |    35.51 | 2023-10-17T01:02:43Z |
 | back     | 2.35 |   4 |    14.25 | 2023-09-15T20:15:42Z |
 :END:
 
