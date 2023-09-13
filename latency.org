@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-12 Tue 05:32]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -170,7 +170,7 @@ Amount of time required to:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    90.37 | 2023-09-11T08:55:13Z |
+| front    | 2.35 |   7 |   226.55 | 2024-04-26T01:48:32Z |
 | back     | 2.50 |   6 |    94.88 | 2023-11-03T22:36:24Z |
 :END:
 

@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       0a9fac5c-2919-4dc1-b75b-ccab89d31a52
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-12 Tue 05:32]
 :END:
 #+title: Reverse cargo cult
 #+hugo_custom_front_matter: :slug "0a9fac5c-2919-4dc1-b75b-ccab89d31a52"
 #+author: Cash Prokop-Weaver
 #+date: [2022-06-23 Thu 15:45]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
 #+begin_quote
 In a regular [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]] you have people who see an airstrip, and the cargo drops, so they build one out of straw, hoping for the same outcome. They don't know the difference between a straw airstrip and a real one, they just want the cargo.
@@ -42,7 +42,7 @@ Related: [[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of grey]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.95 |   8 |   228.96 | 2023-09-11T15:40:04Z |
+| back     | 2.80 |   9 |   645.53 | 2025-06-19T01:18:04Z |
 | front    | 2.65 |   8 |   416.65 | 2024-08-25T19:52:15Z |
 :END:
 [[id:0a9fac5c-2919-4dc1-b75b-ccab89d31a52][Reverse cargo cult]]

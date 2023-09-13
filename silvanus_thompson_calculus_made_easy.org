@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-09-11 Mon 05:49]
+:LAST_MODIFIED: [2023-09-12 Tue 05:35]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -535,7 +535,7 @@ General, [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]], approach
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   427.91 | 2024-11-12T10:36:15Z |
-|        1 | 2.05 |   4 |    11.31 | 2023-09-10T20:11:30Z |
+|        1 | 2.20 |   5 |    23.39 | 2023-10-05T21:59:41Z |
 :END:
 
 To {{[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiate]]}@0} is to find the {{differential [[id:8163639a-02be-4d0e-9aad-b2f4c676f125][Coefficient]]}@1}.

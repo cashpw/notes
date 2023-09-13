@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-12 Tue 05:37]
 :ROAM_REFS: [cite:@MatrixMultiplication2023]
 :END:
 #+title: Matrix multiplication
@@ -53,6 +53,9 @@ for $i = 1, \dots, m$ and $j = 1, \dots, p$.
 #+end_quote
 
 * Matrix multiplication as a linear combination
+:PROPERTIES:
+:ID:       fa751e65-a976-4723-b395-4e863732b7b5
+:END:
 
 ** Right-multiplication: combination of columns
 #+begin_quote
@@ -189,7 +192,7 @@ $c_{i,j}=$ {{$\sum\limits_{k = 1}^{n}a_{i,k}b_{k,j}$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   111.95 | 2023-08-21T22:20:29Z |
+| front    | 2.35 |   1 |     1.00 | 2023-09-13T12:37:05Z |
 | back     | 2.35 |   7 |   207.89 | 2024-03-01T12:04:44Z |
 :END:
 

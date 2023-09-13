@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-11 Mon 05:42]
+:LAST_MODIFIED: [2023-09-12 Tue 05:25]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -363,7 +363,7 @@ The span of the column vectors of the matrix.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   264.01 | 2023-09-11T14:29:54Z |
+| back     | 2.50 |   9 |   671.49 | 2025-07-15T00:13:06Z |
 | front    | 2.65 |   9 |   424.29 | 2024-05-17T00:30:20Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f25031de-9b51-4f1c-9166-f155b2d3250c
 :ROAM_REFS: [cite:@Multiset2023]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-12 Tue 05:34]
 :END:
 #+title: Multiset
 #+hugo_custom_front_matter: :slug "f25031de-9b51-4f1c-9166-f155b2d3250c"
@@ -35,7 +35,7 @@ The cardinality of a multiset is the sum of the multiplicities of all its elemen
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   6 |   134.48 | 2023-09-13T11:13:34Z |
-| back     | 2.65 |   6 |   124.52 | 2023-09-12T04:42:02Z |
+| back     | 2.65 |   7 |   316.54 | 2024-07-25T01:25:31Z |
 :END:
 
 [[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]]

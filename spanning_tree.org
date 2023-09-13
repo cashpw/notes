@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6bd79f38-1c84-45f0-9840-738f712fdf40
-:LAST_MODIFIED: [2023-09-07 Thu 07:29]
+:LAST_MODIFIED: [2023-09-12 Tue 05:35]
 :ROAM_REFS: [cite:@SpanningTree2022]
 :END:
 #+title: Spanning tree
@@ -47,7 +47,7 @@ A subgraph of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] $G$ which (1)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   399.78 | 2024-10-11T09:14:10Z |
-|        1 | 2.80 |   6 |   125.46 | 2023-09-12T03:42:37Z |
+|        1 | 2.80 |   7 |   325.18 | 2024-08-02T16:55:44Z |
 :END:
 
 A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] for a graph with {{$n$}{count}@0} vertices will have {{$n-1$}{count}@1} edges.

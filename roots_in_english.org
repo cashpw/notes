@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-09-11 Mon 05:49]
+:LAST_MODIFIED: [2023-09-12 Tue 05:37]
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -317,7 +317,7 @@ Anthro-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   6 |   154.32 | 2023-10-10T00:43:31Z |
-| back     | 2.50 |   6 |   121.74 | 2023-09-10T08:47:25Z |
+| back     | 2.20 |   1 |     1.00 | 2023-09-13T12:37:27Z |
 :END:
 
 Morph-, -morph

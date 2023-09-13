@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-09-11 Mon 06:52]
+:LAST_MODIFIED: [2023-09-12 Tue 05:38]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -343,7 +343,7 @@ How to perform a [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-09-11T13:51:39Z |
+| front    | 2.50 |   1 |     1.00 | 2023-09-13T12:38:19Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-18T13:51:39Z |
 :END:
 

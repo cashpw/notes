@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dafe179-aeb8-4718-9eb8-ac96a27f9a58
-:LAST_MODIFIED: [2023-09-08 Fri 09:24]
+:LAST_MODIFIED: [2023-09-12 Tue 05:33]
 :ROAM_ALIASES: "Indefinite integral"
 :END:
 #+title: Antiderivative
@@ -55,7 +55,7 @@ A differentiable function whose derivative is equal to a particular function.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   6 |   151.71 | 2023-10-05T10:35:49Z |
-| back     | 2.80 |   6 |   123.89 | 2023-09-11T13:36:37Z |
+| back     | 2.80 |   7 |   360.97 | 2024-09-07T11:43:09Z |
 :END:
 
 [[id:4dafe179-aeb8-4718-9eb8-ac96a27f9a58][Antiderivative]] of $f$

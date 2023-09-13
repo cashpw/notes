@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-12 Tue 05:34]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -160,7 +160,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   440.57 | 2024-08-30T03:48:02Z |
-| back     | 1.90 |   3 |     6.00 | 2023-09-11T15:30:31Z |
+| back     | 1.90 |   4 |    10.41 | 2023-09-22T22:30:24Z |
 :END:
 
 [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]]
