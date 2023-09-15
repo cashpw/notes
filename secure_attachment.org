@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4873ac61-c885-41f7-bbba-9269bc91b0a9
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-14 Thu 07:57]
 :END:
 #+title: Secure attachment
 #+hugo_custom_front_matter: :slug "4873ac61-c885-41f7-bbba-9269bc91b0a9"
@@ -54,7 +54,7 @@ A healthy attachment pattern between a child and their guardian(s) in which the 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   7 |   239.80 | 2023-09-13T21:16:47Z |
+| front    | 2.95 |   8 |   758.72 | 2025-10-12T08:14:26Z |
 | back     | 2.80 |   7 |   222.46 | 2023-09-18T05:26:56Z |
 :END:
 

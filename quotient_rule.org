@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f72c0d9-5638-4da7-92a9-796043efb670
 :ROAM_REFS: [cite:@QuotientRule2022]
-:LAST_MODIFIED: [2023-09-10 Sun 06:39]
+:LAST_MODIFIED: [2023-09-14 Thu 08:10]
 :END:
 #+title: Quotient rule
 #+hugo_custom_front_matter: :slug "0f72c0d9-5638-4da7-92a9-796043efb670"
@@ -22,7 +22,7 @@ It is provable in many ways by using other derivative rules.
 This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]].
 
 * Flashcards
-** Definition :fc:
+** Definition ([[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-01-23 Mon 08:58]
 :FC_CREATED: 2023-01-23T16:58:34Z
@@ -32,11 +32,11 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    79.16 | 2023-09-13T20:02:01Z |
+| front    | 2.20 |   7 |   178.24 | 2024-03-10T20:49:56Z |
 | back     | 2.80 |   7 |   376.24 | 2024-09-20T19:21:33Z |
 :END:
 
-[[id:0f72c0d9-5638-4da7-92a9-796043efb670][Quotient rule]] ([[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]])
+[[id:0f72c0d9-5638-4da7-92a9-796043efb670][Quotient rule]]
 
 *** Back
 

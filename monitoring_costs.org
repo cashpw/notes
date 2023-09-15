@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76f1aa23-b553-4eca-9e18-7b038f444dbb
-:LAST_MODIFIED: [2023-09-08 Fri 09:25]
+:LAST_MODIFIED: [2023-09-14 Thu 08:05]
 :END:
 #+title: Monitoring costs
 #+hugo_custom_front_matter: :slug "76f1aa23-b553-4eca-9e18-7b038f444dbb"
@@ -25,7 +25,7 @@ Costs borne by the principal to mitigate the problems associated with using an a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   137.31 | 2023-09-13T06:14:36Z |
+| front    | 2.95 |   7 |   422.01 | 2024-11-09T15:23:46Z |
 | back     | 2.35 |   7 |   228.13 | 2024-02-19T07:21:17Z |
 :END:
 

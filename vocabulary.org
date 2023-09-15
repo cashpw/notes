@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-09-12 Tue 05:24]
+:LAST_MODIFIED: [2023-09-14 Thu 08:06]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -128,7 +128,7 @@ A dislike of humankind.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.75 |   6 |    40.14 | 2023-10-07T16:10:02Z |
-| front    | 2.60 |  11 |   168.47 | 2023-06-20T02:34:47Z |
+| front    | 2.60 |  12 |   413.50 | 2024-11-01T03:08:33Z |
 :END:
 1. Forming a small remnant of something that was once much larger or more noticeable
 2. (biology) degenerate, rudimentary, or atrophied, having become functionless in the course of evolution
@@ -760,7 +760,7 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   3 |     6.00 | 2023-09-10T13:21:34Z |
+| front    | 1.75 |   4 |    11.12 | 2023-09-25T17:42:58Z |
 | back     | 2.35 |   4 |    15.45 | 2023-03-24T04:14:39Z |
 :END:
 

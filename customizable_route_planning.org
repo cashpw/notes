@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-09-12 Tue 05:26]
+:LAST_MODIFIED: [2023-09-14 Thu 08:06]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -425,7 +425,7 @@ A technique for reducing query latency by building a hierarchical view of the gr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   5 |    34.41 | 2023-09-13T10:32:53Z |
+|        0 | 2.35 |   6 |    73.77 | 2023-11-27T09:35:55Z |
 |        1 |  2.5 |  -1 |        0 | 2023-07-10T01:06:24Z |
 :END:
 

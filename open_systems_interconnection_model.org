@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-09-10 Sun 06:37]
+:LAST_MODIFIED: [2023-09-14 Thu 07:58]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -222,7 +222,7 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    56.17 | 2023-09-05T17:08:07Z |
+| front    | 2.20 |   7 |   125.39 | 2024-01-18T00:13:01Z |
 | back     | 2.50 |   4 |    15.74 | 2023-08-11T08:35:38Z |
 :END:
 

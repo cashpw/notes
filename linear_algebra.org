@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-12 Tue 05:25]
+:LAST_MODIFIED: [2023-09-14 Thu 08:02]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -29,7 +29,7 @@
 
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
-** {{$\|\mathbf{C}\vec{v}\|^2$}{norm}@0} $=$ {{$n\operatorname{stddev}(\vec{v})^2$}{function}@1} :fc:
+** {{$\|\mathbf{C}\vec{v}\|^2$}{norm}@0} $=$ {{$n\operatorname{stddev}(\vec{v})^2$}{function}@1} :fc:suspended:
 :PROPERTIES:
 :ID:       e9038ab3-7e71-4b5f-874f-142306b1ec5f
 :ANKI_NOTE_ID: 1656854713927
@@ -891,7 +891,7 @@ $\vec{a} \otimes \vec{b}$ $=$ $\begin{bmatrix} \vec{a}_1 \vec{b}_1 & \vec{a}_1 \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   2 |     2.00 | 2023-08-25T16:36:17Z |
+| back     | 2.20 |   3 |     6.00 | 2023-09-20T15:02:46Z |
 | front    | 2.65 |   8 |   376.45 | 2024-03-20T13:47:30Z |
 :END:
 

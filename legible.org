@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       20ff7657-2f1f-459e-be7e-c59be0b042f0
 :ROAM_ALIASES: Legibility
-:LAST_MODIFIED: [2023-09-09 Sat 16:13]
+:LAST_MODIFIED: [2023-09-14 Thu 08:11]
 :END:
 #+title: Legible
 #+hugo_custom_front_matter: :slug "20ff7657-2f1f-459e-be7e-c59be0b042f0"
@@ -89,7 +89,7 @@ A way of seeing, offered by or within a complex environment, to its inhabitants 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   137.14 | 2023-09-13T17:38:45Z |
+| front    | 2.80 |   7 |   359.91 | 2024-09-08T13:03:47Z |
 | back     | 2.80 |   7 |   315.16 | 2024-07-21T02:59:58Z |
 :END:
 

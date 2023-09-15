@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8f39b616-dc89-4597-b689-c65aecde4a05
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-14 Thu 08:17]
 :END:
 #+title: Cosine
 #+hugo_custom_front_matter: :slug "8f39b616-dc89-4597-b689-c65aecde4a05"
@@ -22,9 +22,6 @@ Also see [[id:eba86939-f427-419c-a5d9-8115ed6f0e65][Sine]] and [[id:44aea0ad-06f
 [[file:cos.png]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Basic (and reversed card) :fc:
 :PROPERTIES:
 :ID:       b197f28d-78e5-4b2c-a897-430acd25237e
@@ -72,7 +69,7 @@ Graph \(f(x) = \cos(x)\)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   8 |   129.08 | 2023-09-12T19:38:30Z |
+|        0 | 1.75 |   9 |   217.06 | 2024-04-18T16:47:44Z |
 |        1 | 2.50 |   7 |   251.60 | 2024-01-22T07:41:00Z |
 :END:
 *** Source

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1a068ad5-3e16-4ec4-b238-6fdc5904aeb4
 :ROAM_ALIASES: Trees
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-09-14 Thu 08:07]
 :END:
 #+title: Tree
 #+hugo_custom_front_matter: :slug "1a068ad5-3e16-4ec4-b238-6fdc5904aeb4"
@@ -33,7 +33,7 @@ In computer science, a tree is a widely used [[id:2eae74ba-4003-45cf-8425-7291aa
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   7 |   266.11 | 2024-05-02T03:22:57Z |
-| front    | 1.60 |   8 |   117.66 | 2023-09-13T07:10:48Z |
+| front    | 1.60 |   9 |   202.91 | 2024-04-04T12:57:56Z |
 :END:
 [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]
 *** Back

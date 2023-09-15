@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-09-12 Tue 05:32]
+:LAST_MODIFIED: [2023-09-14 Thu 08:08]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -96,7 +96,7 @@ Components of [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
 - Queuing delay
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
-** Definition :fc:
+** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 08:51]
 :FC_CREATED: 2023-03-17T16:03:06Z
@@ -107,16 +107,16 @@ Components of [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   6 |    65.08 | 2023-10-14T02:33:40Z |
-| back     | 2.05 |   5 |    26.90 | 2023-09-07T20:10:20Z |
+| back     | 2.05 |   6 |    55.95 | 2023-11-09T13:55:19Z |
 :END:
 
-([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Propagation delay
+Propagation delay
 
 *** Back
 Amount of time required for a message to travel from the sender to receiver, which is a function of distance over speed with which the signal travels.
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
-** Definition :fc:
+** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:03]
 :FC_CREATED: 2023-03-17T16:03:45Z
@@ -130,13 +130,13 @@ Amount of time required for a message to travel from the sender to receiver, whi
 | back     | 2.50 |   2 |     2.00 | 2023-09-02T18:42:57Z |
 :END:
 
-([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Transmission delay
+Transmission delay
 
 *** Back
 Amount of time required to push all the packet's bits into the link, which is a function of the packet's length and data rate of the link.
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
-** Definition :fc:
+** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:03]
 :FC_CREATED: 2023-03-17T16:03:45Z
@@ -150,7 +150,7 @@ Amount of time required to push all the packet's bits into the link, which is a 
 | back     | 2.35 |   6 |    75.86 | 2023-11-11T10:18:30Z |
 :END:
 
-([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Processing delay
+Processing delay
 
 *** Back
 Amount of time required to:
@@ -160,7 +160,7 @@ Amount of time required to:
 - determine the packet's destination
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
-** Definition :fc:
+** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:03]
 :FC_CREATED: 2023-03-17T16:03:45Z
@@ -174,7 +174,7 @@ Amount of time required to:
 | back     | 2.50 |   6 |    94.88 | 2023-11-03T22:36:24Z |
 :END:
 
-([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) Queuing delay
+Queuing delay
 
 *** Back
 Amount of time the packet is waiting in the queue until it can be processed.

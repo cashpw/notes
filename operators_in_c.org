@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-09-12 Tue 05:25]
+:LAST_MODIFIED: [2023-09-14 Thu 08:04]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -105,7 +105,7 @@ auto [weight, age] = Foo();
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   4 |    12.25 | 2023-09-11T18:42:05Z |
+| front    | 2.05 |   5 |    25.40 | 2023-10-10T00:34:30Z |
 | back     | 2.50 |   1 |     1.00 | 2023-09-02T14:21:57Z |
 :END:
 
@@ -350,7 +350,7 @@ char* p;
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   1 |     1.00 | 2023-09-12T12:51:36Z |
+| front    | 2.20 |   2 |     2.00 | 2023-09-16T15:04:11Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-11T15:38:30Z |
 :END:
 

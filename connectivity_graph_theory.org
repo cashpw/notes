@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9ee639e1-b92d-4bdb-8d13-9c53e22bf945
 :ROAM_REFS: [cite:@ConnectivityGraphTheory2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-14 Thu 07:57]
 :END:
 #+title: Connectivity (Graph theory)
 #+hugo_custom_front_matter: :slug "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
@@ -80,7 +80,7 @@ A directed graph [[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   134.98 | 2023-09-13T23:12:01Z |
+|        0 | 2.80 |   7 |   380.56 | 2024-09-29T04:23:27Z |
 |        1 | 2.80 |   7 |   322.50 | 2024-07-23T01:31:24Z |
 :END:
 

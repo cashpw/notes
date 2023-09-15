@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-14 Thu 08:17]
 :ROAM_REFS: [cite:@StdVariant]
 :END:
 #+title: std::variant
@@ -76,7 +76,7 @@ Prefer {{[[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]}@0} to {{nake
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   6 |    49.49 | 2023-09-14T02:48:12Z |
+|        0 | 2.05 |   7 |    95.51 | 2023-12-19T03:28:06Z |
 |        1 | 2.35 |   6 |    48.32 | 2023-09-13T21:46:06Z |
 :END:
 

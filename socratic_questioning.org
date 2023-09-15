@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8611a2b5-378e-44ab-b601-6481f170c34a
 :ROAM_REFS: [cite:@SocraticQuestioning2022]
-:LAST_MODIFIED: [2023-09-11 Mon 05:45]
+:LAST_MODIFIED: [2023-09-14 Thu 08:16]
 :END:
 #+title: Socratic questioning
 #+hugo_custom_front_matter: :slug "8611a2b5-378e-44ab-b601-6481f170c34a"
@@ -302,7 +302,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   2 |     2.00 | 2023-09-13T12:45:58Z |
+| front    | 1.75 |   3 |     6.00 | 2023-09-20T15:16:54Z |
 :END:
 
 - Cats: [[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]
