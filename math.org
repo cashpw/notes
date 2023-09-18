@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-09-14 Thu 08:21]
+:LAST_MODIFIED: [2023-09-17 Sun 15:59]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1778,7 +1778,7 @@ eg: trig functions
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   6 |    89.81 | 2023-09-13T08:42:27Z |
+| back     | 2.50 |   7 |   208.00 | 2024-04-12T22:52:55Z |
 | front    | 2.65 |   8 |   347.81 | 2024-03-02T11:48:49Z |
 :END:
 

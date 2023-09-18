@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-09-17 Sun 16:08]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -788,7 +788,7 @@ Schedule important work for the time of day when you are most productive/alert/e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   152.94 | 2023-09-17T14:30:32Z |
+| front    | 1.90 |   8 |   301.00 | 2024-07-14T23:10:41Z |
 | back     | 2.50 |   7 |   210.79 | 2023-12-03T12:56:43Z |
 :END:
 

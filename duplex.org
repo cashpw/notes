@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b04fc3f4-7bb8-4cc3-b2b7-029f60022d84
-:LAST_MODIFIED: [2023-09-07 Thu 07:29]
+:LAST_MODIFIED: [2023-09-17 Sun 16:10]
 :ROAM_REFS: [cite:@DuplexTelecommunications2023]
 :END:
 #+title: Duplex
@@ -87,7 +87,7 @@ A point-to-point communication system composed of two or more parties which can 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    75.13 | 2023-09-17T04:50:16Z |
+| front    | 2.20 |   7 |   158.71 | 2024-02-23T16:12:24Z |
 | back     | 2.20 |   6 |    87.46 | 2023-09-30T06:34:41Z |
 :END:
 

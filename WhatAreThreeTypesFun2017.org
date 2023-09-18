@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@peckWhatAreThreeTypesFun2017]
 :ID:       a06d371b-148e-4a49-86bb-f4d04cfcefe7
 :DIR:      /home/cashweaver/proj/roam/attachments/a06d371b-148e-4a49-86bb-f4d04cfcefe7
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-17 Sun 16:00]
 :END:
 #+title: Tim Peck | What Are the Three Types of Fun?
 #+hugo_custom_front_matter: :slug "a06d371b-148e-4a49-86bb-f4d04cfcefe7"
@@ -111,7 +111,7 @@ Fun every step of the way; fun in the moment and fun in retrospect.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    88.23 | 2023-09-14T19:50:53Z |
+| front    | 2.50 |   7 |   231.26 | 2024-05-06T05:19:50Z |
 | back     | 2.65 |   6 |   117.57 | 2023-11-12T03:43:15Z |
 :END:
 

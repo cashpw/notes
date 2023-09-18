@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ad8549b5-9c51-48c0-b3e9-462d18827bb4
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-17 Sun 16:11]
 :END:
 #+title: Big-Omega notation
 #+hugo_custom_front_matter: :slug "ad8549b5-9c51-48c0-b3e9-462d18827bb4"
@@ -11,10 +11,6 @@
 Big Omega notation, written as \(\bigomega{g(n)}\), indicates an worst-case asymptotic lower bound. While \(2n^2\) is in \(\bigomega{1}\), it's preferred to be as precise as possible and state the lowest valid case: \(2n^2 = \bigomega{n^2}\).
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       7cba9cd1-5e9c-47e3-bc17-669530d152ff
@@ -25,7 +21,7 @@ Big Omega notation, written as \(\bigomega{g(n)}\), indicates an worst-case asym
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   6 |    15.71 | 2023-09-17T07:21:29Z |
+| back     | 1.30 |   7 |    20.52 | 2023-10-08T11:34:08Z |
 | front    | 2.50 |   8 |   532.84 | 2024-12-29T10:19:29Z |
 :END:
 

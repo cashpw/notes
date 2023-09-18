@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-09-14 Thu 08:06]
+:LAST_MODIFIED: [2023-09-17 Sun 16:01]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -340,7 +340,7 @@ Not likely to provoke dissent or offense; inoffensive, often deliberately so
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   118.21 | 2023-08-13T20:59:32Z |
+| front    | 2.05 |   8 |   237.22 | 2024-05-12T04:12:20Z |
 | back     | 1.90 |   7 |   106.89 | 2023-10-28T22:03:26Z |
 :END:
 - Works, usually written, of unknown authorship or of doubtful origin

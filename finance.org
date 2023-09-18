@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-09-11 Mon 05:46]
+:LAST_MODIFIED: [2023-09-17 Sun 16:04]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -94,7 +94,7 @@ $\frac{\text{net income - preferred dividends}}{\text{end-of-period common share
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |   9 |    62.08 | 2023-09-16T15:48:28Z |
+| back     | 1.45 |  10 |    96.63 | 2023-12-23T14:05:33Z |
 | front    | 2.65 |   9 |   339.29 | 2024-02-12T09:48:35Z |
 :END:
 

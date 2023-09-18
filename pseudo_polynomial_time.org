@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       890be1a5-820c-484e-acfa-16a6115c64c0
-:LAST_MODIFIED: [2023-09-14 Thu 08:21]
+:LAST_MODIFIED: [2023-09-17 Sun 16:07]
 :ROAM_REFS: [cite:@PseudopolynomialTime2022]
 :END:
 #+title: Pseudo-polynomial time
@@ -35,7 +35,7 @@ For example, the number of integers you can represent with $n$ bits grows expone
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   345.95 | 2024-08-09T13:51:56Z |
-| back     | 2.35 |   1 |     1.00 | 2023-09-15T15:21:21Z |
+| back     | 2.35 |   2 |     2.00 | 2023-09-19T23:07:18Z |
 :END:
 
 [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]]

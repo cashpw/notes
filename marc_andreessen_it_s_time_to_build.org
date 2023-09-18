@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@andreessenItTimeBuild2020]
 :ID:       c0cb9a04-2e57-4da8-b221-03d84508e801
-:LAST_MODIFIED: [2023-09-11 Mon 05:47]
+:LAST_MODIFIED: [2023-09-17 Sun 16:09]
 :END:
 #+title: Marc Andreessen | It's Time to Build
 #+hugo_custom_front_matter: :slug "c0cb9a04-2e57-4da8-b221-03d84508e801"
@@ -144,12 +144,13 @@ A sustained and concerted movement that cares about institutional reform. But pe
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   6 |   176.26 | 2023-10-01T21:20:28Z |
-| back     | 2.80 |   6 |   158.86 | 2023-09-17T13:10:38Z |
+| back     | 2.80 |   7 |   478.57 | 2025-01-08T12:46:46Z |
 :END:
 
 [[id:c0cb9a04-2e57-4da8-b221-03d84508e801][Marc Andreessen | It's Time to Build]]
 
 *** Back
+
 - Essay decrying America's slowing recent movement of the gears of progress compared against historic speed
 - Key American systems have a bias toward inaction [cite:@kleinWhyWeCanBuild2020]
 *** Source

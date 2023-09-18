@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f68f9024-150b-404f-9c9c-54fe8b720e53
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-17 Sun 16:13]
 :END:
 #+title: Linear map
 #+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
@@ -149,7 +149,7 @@ $ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   310.04 | 2023-12-01T18:01:14Z |
-|        1 | 2.05 |   7 |    88.20 | 2023-09-16T01:33:54Z |
+|        1 | 2.05 |   8 |   187.16 | 2024-03-23T03:03:55Z |
 :END:
 
 - {{Kernel of a linear map}@0}

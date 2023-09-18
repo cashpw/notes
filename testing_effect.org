@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       858c6cb1-52a9-446a-b11f-b35229b528e0
 :ROAM_REFS: [cite:@TestingEffect2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-09-17 Sun 16:04]
 :ROAM_ALIASES: "Active recall"
 :END:
 #+title: Testing effect
@@ -19,12 +19,6 @@ The testing effect [...] suggests long-term memory is increased when some of the
 Retrieving a piece of information from memory will increase ones ability to recall that piece of information over long periods of time. A common example would be using tests as a tool for study. The student has to attempt to recall the information from memory while taking the test and thereby improves their recall.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-
-
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 11:45]
@@ -57,7 +51,7 @@ Long term memory is increased when some of the learning period is devoted to ret
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   7 |    21.68 | 2023-09-16T07:21:04Z |
+|        0 | 1.30 |   8 |    26.61 | 2023-10-14T13:45:15Z |
 |        1 | 3.10 |   7 |   422.36 | 2024-10-01T00:24:50Z |
 :END:
 

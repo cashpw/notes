@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc
 :ROAM_REFS: [cite:@IntervalMathematics2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-17 Sun 16:10]
 :ROAM_ALIASES: "Open interval" "Closed interval"
 :END:
 #+title: Interval
@@ -27,7 +27,7 @@ In mathematics, a (real) interval is a set of real numbers that contains all rea
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   8 |   259.17 | 2023-09-15T18:12:17Z |
+| front    | 2.50 |   9 |   649.28 | 2025-06-28T05:57:24Z |
 | back     | 2.35 |   8 |   265.22 | 2023-11-30T08:20:49Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       097f418c-8af5-498a-a5e3-37bab614556e
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-17 Sun 16:09]
 :END:
 #+title: Cognitive dissonance
 #+hugo_custom_front_matter: :slug "097f418c-8af5-498a-a5e3-37bab614556e"
@@ -15,9 +15,6 @@
 [cite:@CognitiveDissonance2022]
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Psychology) :fc:
 :PROPERTIES:
 :ID:       7b95310c-9675-4406-a614-de20e3aa6e93
@@ -28,11 +25,14 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |   9 |    94.04 | 2023-09-17T01:36:27Z |
+| back     | 1.45 |  10 |   129.62 | 2024-01-25T13:59:23Z |
 | front    | 2.95 |   7 |   483.29 | 2024-12-27T01:30:23Z |
 :END:
+
 [[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]]
+
 *** Back
+
 The perception of contradictory information. Typically experienced when individuals act, think, believe, etc, in a way that doesn't match the information in front of them.
 *** Source
 [cite:@CognitiveDissonance2022]

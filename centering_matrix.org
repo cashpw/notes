@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       87b4549f-d8f7-44ec-b11e-4fa14166f157
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-17 Sun 16:10]
 :END:
 #+title: Centering matrix
 #+hugo_custom_front_matter: :slug "87b4549f-d8f7-44ec-b11e-4fa14166f157"
@@ -16,9 +16,6 @@ In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Properties :fc:
 :PROPERTIES:
 :ID:       9dbb9710-0ba9-4f7f-81bd-772c73bf5bd1
@@ -32,7 +29,7 @@ In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |  14 |   569.22 | 2025-01-17T22:31:39Z |
-|        1 | 1.90 |   5 |    20.36 | 2023-09-15T23:26:46Z |
+|        1 | 1.90 |   6 |    35.51 | 2023-10-23T11:29:58Z |
 :END:
 
 [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]]

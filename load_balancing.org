@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44890929-fa24-4a69-b261-04107a005903
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-17 Sun 16:09]
 :ROAM_REFS: [cite:@LoadBalancingComputing2023]
 :ROAM_ALIASES: "Load balancer"
 :END:
@@ -85,7 +85,7 @@ Sending all of a user's requests (either entirely or for a single session) to th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   101.05 | 2023-09-16T15:56:40Z |
+|        0 | 2.50 |   7 |   269.56 | 2024-06-13T12:31:31Z |
 |        1 | 2.80 |   6 |   136.43 | 2023-12-07T14:21:37Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
-:LAST_MODIFIED: [2023-09-14 Thu 08:02]
+:LAST_MODIFIED: [2023-09-17 Sun 16:00]
 :ROAM_REFS: [cite:@MatrixMultiplication2023]
 :END:
 #+title: Matrix multiplication
@@ -307,7 +307,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   1 |     1.00 | 2023-08-30T15:02:12Z |
+|        0 | 2.35 |   2 |     2.00 | 2023-09-19T23:00:19Z |
 :END:
 
 $(A_{\ell\times n}B_{n \times m})_{\text{row}i}$ $=$ {{$A_{\text{row}\,i} \cdot \{B_{\text{row}\,0}, \;\dots\;, B_{\text{row}\,m}\}$}@0}

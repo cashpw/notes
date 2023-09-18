@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9f52c68a-3302-47bc-a4a4-3a4ff20d41be
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-17 Sun 16:15]
 :END:
 #+title: Non-zero-sum game
 #+hugo_custom_front_matter: :slug "9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
@@ -16,9 +16,6 @@
 
 The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Example(s) ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
 :PROPERTIES:
 :ID:       deaa9dc6-d6eb-4463-bef2-4b73222fc06b
@@ -30,7 +27,7 @@ The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   428.67 | 2024-08-29T07:13:05Z |
-| back     | 1.30 |   8 |    25.00 | 2023-09-17T16:40:56Z |
+| back     | 1.30 |   0 |     0.00 | 2023-09-17T23:15:19Z |
 :END:
 [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
 *** Back

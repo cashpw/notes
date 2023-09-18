@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-17 Sun 16:06]
 :END:
 #+title: Mindset
 #+hugo_custom_front_matter: :slug "2a7e775a-5f6e-4b25-a5d5-b50fbe2bd783"
@@ -27,7 +27,7 @@ A firmly established mindset could create a powerful incentive to adopt or accep
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |  10 |    82.61 | 2023-09-15T04:06:13Z |
+| front    | 1.45 |  11 |   127.02 | 2024-01-22T23:34:36Z |
 | back     | 2.80 |   7 |   278.47 | 2024-03-12T02:13:24Z |
 :END:
 
