@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8
-:LAST_MODIFIED: [2023-09-14 Thu 08:17]
+:LAST_MODIFIED: [2023-09-18 Mon 08:54]
 :ROAM_REFS: [cite:@StdVariant]
 :END:
 #+title: std::variant
@@ -77,7 +77,7 @@ Prefer {{[[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]}@0} to {{nake
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   7 |    95.51 | 2023-12-19T03:28:06Z |
-|        1 | 2.35 |   6 |    48.32 | 2023-09-13T21:46:06Z |
+|        1 | 2.35 |   7 |   116.83 | 2024-01-13T11:44:51Z |
 :END:
 
 Use {{=std::holds_alternative<type>=}@0} to test the type held in a {{[[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]}@1}.

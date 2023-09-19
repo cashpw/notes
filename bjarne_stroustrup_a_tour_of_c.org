@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-09-17 Sun 16:11]
+:LAST_MODIFIED: [2023-09-18 Mon 08:47]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -810,7 +810,7 @@ Roughly, "I promise not to change this value".
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    83.31 | 2023-10-26T22:40:53Z |
-| back     | 1.90 |   3 |     6.00 | 2023-09-13T15:00:31Z |
+| back     | 1.75 |   4 |    10.90 | 2023-09-29T13:29:03Z |
 :END:
 
 =constexpr= (C++)

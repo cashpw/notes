@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       89f17c46-04dc-42ba-bda2-7ac14c5cbae0
-:LAST_MODIFIED: [2023-09-09 Sat 16:13]
+:LAST_MODIFIED: [2023-09-18 Mon 08:53]
 :END:
 #+title: The left has no place it wants to go
 #+hugo_custom_front_matter: :slug "89f17c46-04dc-42ba-bda2-7ac14c5cbae0"
@@ -70,7 +70,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |  10 |    40.97 | 2023-09-18T14:27:34Z |
+|        0 | 1.30 |  11 |    55.31 | 2023-11-12T23:12:46Z |
 :END:
 
 *** Source

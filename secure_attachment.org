@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4873ac61-c885-41f7-bbba-9269bc91b0a9
-:LAST_MODIFIED: [2023-09-14 Thu 07:57]
+:LAST_MODIFIED: [2023-09-18 Mon 08:49]
 :END:
 #+title: Secure attachment
 #+hugo_custom_front_matter: :slug "4873ac61-c885-41f7-bbba-9269bc91b0a9"
@@ -17,10 +17,6 @@ A toddler who is securely attached to his or her parent (or other familiar careg
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Describe :fc:
 :PROPERTIES:
 :ID:       39aae7a4-b5a0-4c78-815f-3d94e543834e
@@ -55,7 +51,7 @@ A healthy attachment pattern between a child and their guardian(s) in which the 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   8 |   758.72 | 2025-10-12T08:14:26Z |
-| back     | 2.80 |   7 |   222.46 | 2023-09-18T05:26:56Z |
+| back     | 2.65 |   8 |   569.79 | 2025-04-10T10:47:36Z |
 :END:
 
 [[id:4873ac61-c885-41f7-bbba-9269bc91b0a9][Secure attachment]]

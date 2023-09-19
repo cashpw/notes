@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d794df81-0af5-41a2-a437-d02f5859b0ae
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-18 Mon 08:51]
 :END:
 #+title: A priori
 #+hugo_custom_front_matter: :slug "d794df81-0af5-41a2-a437-d02f5859b0ae"
@@ -50,7 +50,7 @@ Knowledge which is independent from current experience; self-evident or self-pro
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   7 |   168.35 | 2023-11-02T23:43:02Z |
-|        1 | 1.75 |   7 |    86.64 | 2023-09-16T07:04:24Z |
+|        1 | 1.60 |   8 |   145.13 | 2024-02-10T19:00:25Z |
 :END:
 
 {{[[id:d794df81-0af5-41a2-a437-d02f5859b0ae][A priori]]}{[[id:c2d1f99b-41ed-4476-b513-20e12456edc2][Latin]]}@0} : {{From the earlier}{English}@1}

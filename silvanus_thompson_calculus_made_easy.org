@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-09-12 Tue 05:35]
+:LAST_MODIFIED: [2023-09-18 Mon 08:48]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -515,7 +515,7 @@ General, [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]], approach
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   380.12 | 2024-09-21T17:49:28Z |
-|        1 | 2.80 |   6 |   127.06 | 2023-09-14T17:39:31Z |
+|        1 | 2.80 |   7 |   368.16 | 2024-09-20T19:38:02Z |
 :END:
 
 {{$\frac{dy}{dx}$}{math}@0} : {{Derivative of $y$ with respect to $x$}{English}@1}

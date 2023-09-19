@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-09-17 Sun 16:14]
+:LAST_MODIFIED: [2023-09-18 Mon 08:44]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -46,7 +46,7 @@ The programming language
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.50 |   0 |     0.00 | 2023-09-17T23:14:24Z |
+|        1 | 2.50 |   2 |     2.00 | 2023-09-20T15:44:31Z |
 |        0 | 2.65 |   8 |   300.40 | 2023-12-31T03:00:51Z |
 :END:
 #+begin_src python

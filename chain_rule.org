@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ff1c07f-e015-4929-b119-8890ebbc312c
-:LAST_MODIFIED: [2023-09-11 Mon 05:47]
+:LAST_MODIFIED: [2023-09-18 Mon 08:52]
 :END:
 #+title: Chain rule
 #+hugo_custom_front_matter: :slug "0ff1c07f-e015-4929-b119-8890ebbc312c"
@@ -76,7 +76,7 @@ $h'(x)=$ {{$f'(g(x))g'(x)$}@0}
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   219.61 | 2024-02-20T04:52:33Z |
-| back     | 2.50 |   3 |     6.00 | 2023-09-15T23:13:43Z |
+| back     | 2.50 |   4 |    14.25 | 2023-10-02T21:48:07Z |
 :END:
 
 [[id:0ff1c07f-e015-4929-b119-8890ebbc312c][Chain rule]] in [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]

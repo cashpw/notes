@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f8918bbe-8164-4105-8489-2f74fd10df6d
 :ROAM_REFS: [cite:@SelectionSort2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-18 Mon 08:44]
 :END:
 #+title: Selection sort
 #+hugo_custom_front_matter: :slug "f8918bbe-8164-4105-8489-2f74fd10df6d"
@@ -29,7 +29,7 @@ The algorithm divides the input list into two parts: a sorted sublist of items w
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   336.86 | 2024-06-07T11:15:27Z |
-| back     | 2.20 |   7 |   139.65 | 2023-09-15T14:35:40Z |
+| back     | 2.20 |   8 |   295.62 | 2024-07-10T06:32:44Z |
 :END:
 
 [[id:f8918bbe-8164-4105-8489-2f74fd10df6d][Selection sort]]

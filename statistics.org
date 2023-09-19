@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-17 Sun 16:05]
+:LAST_MODIFIED: [2023-09-18 Mon 08:45]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1296,7 +1296,7 @@ A model for which the number of parameters depends on the training data; often m
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |   8 |   295.89 | 2023-12-29T14:48:53Z |
-| front    | 2.65 |   8 |   261.62 | 2023-09-07T07:12:45Z |
+| front    | 2.65 |   9 |   701.85 | 2025-08-20T12:08:19Z |
 :END:
 
 Null hypothesis

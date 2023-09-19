@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       162d37be-0ce1-4ba1-baff-101ba72fa811
 :ROAM_REFS: [cite:@MasteryLearning2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-18 Mon 08:50]
 :END:
 #+title: Mastery learning
 #+hugo_custom_front_matter: :slug "162d37be-0ce1-4ba1-baff-101ba72fa811"
@@ -64,7 +64,7 @@ Since its conception, mastery learning has empirically been demonstrated to be e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   131.43 | 2023-09-18T02:58:29Z |
+|        0 | 2.95 |   7 |   385.68 | 2024-10-08T08:11:48Z |
 :END:
 
 {{[[id:d449ac76-f230-4922-ab7c-3b65c90a4ea9][Benjamin Bloom]]}@0} developed [[id:162d37be-0ce1-4ba1-baff-101ba72fa811][Mastery learning]]

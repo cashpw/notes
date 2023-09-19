@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
-:LAST_MODIFIED: [2023-09-17 Sun 16:04]
+:LAST_MODIFIED: [2023-09-18 Mon 08:44]
 :ROAM_REFS: [cite:@MinimumSpanningTree2022]
 :END:
 #+title: Minimum spanning tree
@@ -212,7 +212,7 @@ If the minimum cost edge e of a graph is unique, then this edge is included in a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   1 |     1.00 | 2023-09-15T15:21:15Z |
+| front    | 2.35 |   2 |     2.00 | 2023-09-20T15:44:28Z |
 | back     | 1.45 |   7 |    43.61 | 2023-10-10T04:24:45Z |
 :END:
 
