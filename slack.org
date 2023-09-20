@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e6c3a056-5061-4152-8b12-41f001f637a5
-:LAST_MODIFIED: [2023-09-18 Mon 08:47]
+:LAST_MODIFIED: [2023-09-19 Tue 16:57]
 :ROAM_REFS: [cite:@zviSlack]
 :END:
 #+title: Slack
@@ -65,7 +65,7 @@ Slack presents things as they are without concern for how things look or what ot
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   396.17 | 2024-10-18T19:45:21Z |
-| back     | 2.80 |   6 |   131.93 | 2023-09-18T15:12:52Z |
+| back     | 2.95 |   7 |   359.89 | 2024-09-13T21:13:58Z |
 :END:
 
 ... is the absence of binding constraints on behavior. It is

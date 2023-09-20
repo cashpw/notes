@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e1506f58-c519-4b04-a7fd-6bc821514a30
 :ROAM_REFS: [cite:@PrincipalAgentProblem2023]
-:LAST_MODIFIED: [2023-09-09 Sat 16:13]
+:LAST_MODIFIED: [2023-09-19 Tue 16:56]
 :END:
 #+title: Principle-agent problem
 #+hugo_custom_front_matter: :slug "e1506f58-c519-4b04-a7fd-6bc821514a30"
@@ -28,7 +28,7 @@ Common examples of this relationship include corporate management (agent) and sh
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   231.79 | 2024-02-15T12:09:08Z |
-| back     | 2.80 |   6 |   134.01 | 2023-09-19T17:33:40Z |
+| back     | 2.80 |   7 |   375.04 | 2024-09-29T01:00:40Z |
 :END:
 
 [[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]

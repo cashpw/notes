@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-09-18 Mon 08:51]
+:LAST_MODIFIED: [2023-09-19 Tue 16:49]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -118,7 +118,7 @@ Pronounced: /bee-tah/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   5 |    26.94 | 2023-09-19T15:14:09Z |
+|        0 | 2.05 |   6 |    57.11 | 2023-11-16T02:24:15Z |
 |        1 | 2.65 |   9 |   399.86 | 2024-05-15T13:03:50Z |
 :END:
 

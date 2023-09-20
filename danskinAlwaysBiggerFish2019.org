@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@danskinAlwaysBiggerFish2019]
 :ID:       c0564758-b90d-42a6-be58-44d8985330ad
-:LAST_MODIFIED: [2023-09-11 Mon 05:48]
+:LAST_MODIFIED: [2023-09-19 Tue 16:56]
 :END:
 #+title: Ian Danskin | Always a Bigger Fish
 #+hugo_custom_front_matter: :slug "c0564758-b90d-42a6-be58-44d8985330ad"
@@ -110,7 +110,7 @@ If you want to fight fascism, move left.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   230.24 | 2023-09-19T22:27:55Z |
+|        0 | 2.65 |   8 |   570.55 | 2025-04-12T13:04:34Z |
 :END:
 *** Extra
 *** Source

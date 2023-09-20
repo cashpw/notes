@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f4de9f04-053d-4602-a81a-c4118e6ee3c2
-:LAST_MODIFIED: [2023-09-11 Mon 05:48]
+:LAST_MODIFIED: [2023-09-19 Tue 16:55]
 :END:
 #+title: Standard deviation
 #+hugo_custom_front_matter: :slug "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
@@ -94,7 +94,7 @@ Population [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   236.36 | 2024-01-09T23:53:40Z |
-|        1 | 1.30 |   4 |     8.45 | 2023-09-19T23:37:42Z |
+|        1 | 1.30 |   5 |    10.94 | 2023-09-30T22:29:41Z |
 :END:
 
 {{$\operatorname{stddev}(x)$}@0} $=$ {{$\sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$}{expression}@1}

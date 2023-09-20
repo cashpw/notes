@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
-:LAST_MODIFIED: [2023-09-18 Mon 08:44]
+:LAST_MODIFIED: [2023-09-19 Tue 16:54]
 :ROAM_REFS: [cite:@MinimumSpanningTree2022]
 :END:
 #+title: Minimum spanning tree
@@ -84,7 +84,7 @@ A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] whose sum of edge w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   143.69 | 2023-09-19T15:10:52Z |
+| front    | 2.80 |   7 |   393.41 | 2024-10-17T09:44:32Z |
 | back     | 2.80 |   6 |   125.58 | 2023-09-14T05:11:23Z |
 :END:
 

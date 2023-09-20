@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       019be402-8bef-48f3-afbf-6441010dd8cf
 :ROAM_REFS: [cite:@RedblackTree2022]
-:LAST_MODIFIED: [2023-09-11 Mon 05:47]
+:LAST_MODIFIED: [2023-09-19 Tue 16:55]
 :END:
 #+title: Red-black tree
 #+hugo_custom_front_matter: :slug "019be402-8bef-48f3-afbf-6441010dd8cf"
@@ -281,7 +281,7 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   5 |    40.61 | 2023-10-22T03:21:43Z |
-|        1 | 2.35 |   4 |    13.81 | 2023-09-19T10:44:19Z |
+|        1 | 2.35 |   5 |    29.38 | 2023-10-19T09:03:45Z |
 :END:
 
 {{Black}@0} nodes {{can}{can/can't}@1} have red children.

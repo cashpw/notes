@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-18 Mon 08:45]
+:LAST_MODIFIED: [2023-09-19 Tue 16:49]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1696,7 +1696,7 @@ The difference between an estimator's expected value and the true value of the p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   2 |     2.00 | 2023-09-16T15:04:05Z |
+| back     | 1.30 |   3 |     6.00 | 2023-09-25T23:49:05Z |
 | front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
 :END:
 

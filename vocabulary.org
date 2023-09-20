@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-09-18 Mon 08:56]
+:LAST_MODIFIED: [2023-09-19 Tue 16:50]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -264,7 +264,7 @@ Having an end or a limit.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   8 |   111.26 | 2023-09-04T20:54:55Z |
+| back     | 1.75 |   9 |   185.46 | 2024-03-23T10:47:38Z |
 | front    | 2.20 |   8 |   161.80 | 2023-08-23T10:17:58Z |
 :END:
 The action of stopping someone from being angry; placation

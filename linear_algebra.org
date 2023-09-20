@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-18 Mon 08:42]
+:LAST_MODIFIED: [2023-09-19 Tue 16:50]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -83,7 +83,7 @@ eg: $5$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |  10 |   228.58 | 2023-09-04T05:11:09Z |
+|        0 | 2.65 |  11 |   656.38 | 2025-07-07T08:52:26Z |
 |        1 | 2.80 |   8 |   292.63 | 2023-12-16T07:12:10Z |
 :END:
 

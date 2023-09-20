@@ -2,7 +2,7 @@
 :ID:       016c8f40-349d-407a-95c5-bccc27d9bed8
 :ROAM_ALIASES: APAC
 :ROAM_REFS: [cite:@AsiaPacific2023]
-:LAST_MODIFIED: [2023-09-17 Sun 16:05]
+:LAST_MODIFIED: [2023-09-19 Tue 16:55]
 :END:
 #+title: Asia-Pacific
 #+hugo_custom_front_matter: :slug "016c8f40-349d-407a-95c5-bccc27d9bed8"
@@ -23,7 +23,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   2 |     2.00 | 2023-09-19T23:05:11Z |
+|        0 | 1.75 |   3 |     6.00 | 2023-09-25T23:55:07Z |
 |        1 | 2.50 |   6 |    86.44 | 2023-10-21T01:36:16Z |
 :END:
 

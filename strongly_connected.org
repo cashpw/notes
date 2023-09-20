@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       644adb16-7921-4499-aaf9-6ff29819ed6d
-:LAST_MODIFIED: [2023-09-11 Mon 05:51]
+:LAST_MODIFIED: [2023-09-19 Tue 16:57]
 :END:
 #+title: Connected relationship
 #+hugo_custom_front_matter: :slug "644adb16-7921-4499-aaf9-6ff29819ed6d"
@@ -61,7 +61,7 @@ $xRy \quad \text{or} \quad yRx \quad \text{or} \quad x = y$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   201.17 | 2023-10-26T19:09:47Z |
-| back     | 1.30 |   4 |     7.40 | 2023-09-18T22:32:32Z |
+| back     | 1.30 |   5 |     8.85 | 2023-09-28T20:14:54Z |
 :END:
 
 [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
