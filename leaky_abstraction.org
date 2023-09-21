@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       98d4ba4e-4f66-4833-9755-c59865ddced1
+:LAST_MODIFIED: [2023-09-20 Wed 17:17]
+:END:
+#+title: Leaky abstraction
+#+hugo_custom_front_matter: :slug "98d4ba4e-4f66-4833-9755-c59865ddced1"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-20 Wed 17:02]
+#+filetags: :concept:
+
+#+begin_quote
+In software development, a leaky abstraction is an abstraction that leaks details that it is supposed to abstract away.
+
+As coined by Joel Spolsky, the Law of Leaky Abstractions states:
+
+#+begin_quote2
+All non-trivial abstractions, to some degree, are leaky.
+#+end_quote2
+#+end_quote
+
+In other words, a leaky abstraction is one which is unsuccessful in hiding all the messy detail's it's meant to cover up.
+* Example(s)
+One real-world example is a printed bus schedule. Usually this is a fine abstraction which answers "how long until the bus arrives?" but it can fall apart in the case of outliers (e.g. bus breakdowns, more traffic than normal, construction). In these cases, the printed schedule is "leaky" and readers need to take extra information into account (e.g. "There's a concert at the stadium tonight. Busses driving past toward the end or beginning are likely to arrive late.").
+
+
+* Flashcards

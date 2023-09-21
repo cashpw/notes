@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       20ff7657-2f1f-459e-be7e-c59be0b042f0
 :ROAM_ALIASES: Legibility
-:LAST_MODIFIED: [2023-09-14 Thu 08:11]
+:LAST_MODIFIED: [2023-09-20 Wed 17:17]
 :END:
 #+title: Legible
 #+hugo_custom_front_matter: :slug "20ff7657-2f1f-459e-be7e-c59be0b042f0"
@@ -14,6 +14,8 @@ The legibility described in Seeing Like a State, and imposed by Palmer Eldritch,
 
 [cite:@tellmanTwoConceptsLegibility]
 #+end_quote
+
+Legibility is a [[id:98d4ba4e-4f66-4833-9755-c59865ddced1][Leaky abstraction]].
 
 * As singular
 
