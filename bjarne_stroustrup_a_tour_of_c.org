@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-09-19 Tue 16:50]
+:LAST_MODIFIED: [2023-09-21 Thu 07:21]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -979,7 +979,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    78.70 | 2023-10-23T08:16:27Z |
-| back     | 2.05 |   5 |    25.91 | 2023-09-18T14:40:51Z |
+| back     | 2.05 |   6 |    55.65 | 2023-11-16T05:51:35Z |
 :END:
 
 (C++) Declarations

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
 :ID:       bcba3e46-9cde-4555-accb-ec73e4f0fc4c
-:LAST_MODIFIED: [2023-09-18 Mon 08:52]
+:LAST_MODIFIED: [2023-09-21 Thu 17:11]
 :END:
 #+title: Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice
 #+hugo_custom_front_matter: :slug "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
@@ -14,6 +14,7 @@
 * Summary
 An essay on [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] and [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]
 
+- Tacit knowledge is more useful than deliberate practice when the subject you're trying to learn isn't "well defined". "... deliberate practice is defined as possible /only/ in domains with a long history of well-established pedagogy. In other words, deliberate practice *can only exist in fields like music and math and chess*."
 - Tacit knowledge in action looks like a long list of caveats
 
    #+begin_quote

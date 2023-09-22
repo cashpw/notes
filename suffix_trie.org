@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a01a221-0aa9-493b-b690-c15c11f16831
-:LAST_MODIFIED: [2023-09-11 Mon 05:44]
+:LAST_MODIFIED: [2023-09-21 Thu 07:14]
 :ROAM_REFS: [cite:@SuffixTree2022]
 :END:
 #+title: Suffix tree
@@ -79,7 +79,7 @@ A compressed [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]] which contains al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   145.05 | 2023-09-20T23:55:47Z |
+|        0 | 2.50 |   8 |   337.45 | 2024-08-24T01:03:15Z |
 |        1 | 2.65 |   7 |   317.66 | 2024-05-18T20:05:40Z |
 :END:
 

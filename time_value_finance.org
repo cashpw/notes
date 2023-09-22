@@ -2,7 +2,7 @@
 :ID:       f41ce01a-f8d7-4d5e-a7c6-178706176f6c
 :ROAM_ALIASES: "Instrumental value (finance)" "Extrinsic value (finance)"
 :ROAM_REFS: [cite:@OptionTimeValue2022]
-:LAST_MODIFIED: [2023-09-14 Thu 08:19]
+:LAST_MODIFIED: [2023-09-21 Thu 07:15]
 :END:
 #+title: Option time value
 #+hugo_custom_front_matter: :slug "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
@@ -50,7 +50,7 @@ The part of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]]'s v
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   7 |   120.99 | 2023-12-18T23:15:19Z |
-|        1 | 1.75 |   4 |    11.53 | 2023-09-20T05:05:07Z |
+|        1 | 1.75 |   5 |    20.12 | 2023-10-11T17:14:47Z |
 |        2 | 1.30 |  10 |    39.31 | 2023-10-23T22:40:50Z |
 :END:
 

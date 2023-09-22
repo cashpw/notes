@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       deb3b467-3bb1-4000-9665-3a7347909ad6
-:LAST_MODIFIED: [2023-09-17 Sun 16:07]
+:LAST_MODIFIED: [2023-09-21 Thu 07:20]
 :ROAM_ALIASES: Incentives
 :END:
 #+title: Incentive
@@ -26,7 +26,7 @@ In general, incentives are anything that persuade a person to alter their behavi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   160.96 | 2023-09-21T12:25:45Z |
+| front    | 2.95 |   7 |   467.48 | 2025-01-01T01:45:29Z |
 | back     | 2.80 |   7 |   261.68 | 2024-03-02T17:04:45Z |
 :END:
 

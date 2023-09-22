@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-09-19 Tue 16:50]
+:LAST_MODIFIED: [2023-09-21 Thu 05:51]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -528,7 +528,7 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   158.54 | 2023-09-15T04:40:24Z |
+| front    | 2.95 |   7 |   484.81 | 2025-01-18T08:22:04Z |
 | back     | 2.20 |   1 |     1.00 | 2023-08-11T00:49:29Z |
 :END:
 - A word which blends the sounds and combines the meanings of two others; e.g motel from "motor" and "hotel", brunch from "breakfast" and "lunch"

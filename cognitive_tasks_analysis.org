@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bd9daffc-f556-4bdc-975e-e35c3c98ebee
-:LAST_MODIFIED: [2023-09-19 Tue 16:55]
+:LAST_MODIFIED: [2023-09-21 Thu 07:20]
 :END:
 #+title: Cognitive task analysis
 #+hugo_custom_front_matter: :slug "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
@@ -39,7 +39,7 @@ Cognitive task analysis has been used to examine:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   2 |     2.00 | 2023-09-21T23:55:37Z |
-| back     |  2.5 |  -1 |        0 | 2023-09-15T23:16:01Z |
+| back     | 2.50 |   1 |     1.00 | 2023-09-22T14:20:39Z |
 :END:
 
 [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]

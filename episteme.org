@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dc7e525e-967c-48e5-b1c5-d83394571cb5
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-21 Thu 07:14]
 :ROAM_REFS: [cite:@Episteme2022]
 :END:
 #+title: Episteme
@@ -24,7 +24,7 @@ In philosophy, episteme is a term that refers to a principle system of understan
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   7 |    25.88 | 2023-09-20T12:06:10Z |
+| front    | 1.45 |   8 |    37.81 | 2023-10-29T09:44:25Z |
 | back     | 2.65 |   7 |   263.16 | 2024-03-29T19:41:44Z |
 :END:
 

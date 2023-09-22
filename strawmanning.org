@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       81546002-b401-4c6c-ae23-ebab290a72a9
-:LAST_MODIFIED: [2023-09-14 Thu 08:09]
+:LAST_MODIFIED: [2023-09-21 Thu 07:17]
 :ROAM_REFS: [cite:@StrawMan2023]
 :ROAM_ALIASES: "Straw man"
 :END:
@@ -29,7 +29,7 @@ The typical straw man argument creates the illusion of having refuted or defeate
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   137.38 | 2023-09-21T02:51:36Z |
+| front    | 2.80 |   7 |   381.78 | 2024-10-07T09:00:40Z |
 | back     | 2.65 |   7 |   345.82 | 2024-08-25T10:53:17Z |
 :END:
 

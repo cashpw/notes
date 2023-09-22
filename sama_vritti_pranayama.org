@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       6057ca27-4e3e-41d0-9fbe-78f9084f822d
 :ROAM_ALIASES: "Square breathing" "Box breathing"
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-21 Thu 07:13]
 :END:
 #+title: Sama Vritti Pranayama
 #+hugo_custom_front_matter: :slug "6057ca27-4e3e-41d0-9fbe-78f9084f822d"
@@ -18,9 +18,6 @@ A four-part breathing technique:
 
 The practitioner should perform each part for the same duration (eg: inhale four seconds, hold four seconds, etc).
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 15:45]
@@ -31,7 +28,7 @@ The practitioner should perform each part for the same duration (eg: inhale four
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   168.35 | 2023-09-21T00:51:12Z |
+| front    | 2.35 |   8 |   428.32 | 2024-11-22T22:00:06Z |
 | back     | 2.65 |   7 |   231.96 | 2024-01-01T13:49:53Z |
 :END:
 

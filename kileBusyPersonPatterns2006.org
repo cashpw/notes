@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-09-17 Sun 16:08]
+:LAST_MODIFIED: [2023-09-21 Thu 07:17]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -657,7 +657,7 @@ Isolate important tasks and perform them separately, without multitasking, so yo
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   341.76 | 2024-05-21T19:02:09Z |
-| back     | 1.45 |   7 |    46.76 | 2023-09-20T09:28:32Z |
+| back     | 1.30 |   8 |    63.96 | 2023-11-24T13:19:25Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]

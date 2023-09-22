@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-19 Tue 16:49]
+:LAST_MODIFIED: [2023-09-21 Thu 07:13]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1274,7 +1274,7 @@ $\frac{1}{n}a^Ta \; | \; a = Y - \hat{Y}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   6 |    40.10 | 2023-09-21T00:57:02Z |
+| back     | 1.75 |   7 |    69.83 | 2023-11-30T10:14:48Z |
 | front    | 2.65 |   8 |   357.47 | 2024-03-02T16:28:39Z |
 :END:
 

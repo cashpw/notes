@@ -1,23 +1,37 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinTacitKnowledgeSeries2020]
 :ID:       96c1f65b-0c31-4478-8717-8c33743a9e94
-:LAST_MODIFIED: [2023-09-11 Mon 16:51]
+:LAST_MODIFIED: [2023-09-21 Thu 17:40]
 :END:
 #+title: Cedric Chin | The Tacit Knowledge Series
 #+hugo_custom_front_matter: :slug "96c1f65b-0c31-4478-8717-8c33743a9e94"
 #+author: Cash Weaver
 #+date: [2023-06-27 Tue 18:13]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinTacitKnowledgeSeries2020]
 
+* Summary
+
+This is a summary of summaries and will necessarily omit some interesting details. Use this to determine whether you want to read the whole series.
+
+What's the most effective way for one to become an expert in a subject? Ideally you'd use [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]. However, that's not possible most of the time because the subject in question must have a "long history of well-established pedagogy" [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020] (e.g. math, music, and chess). For any other subjects: focus on [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] and acquiring [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]].
+
+[[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] is the "between-the-lines" know-how. It's what separates proficient individuals from experts. Traditionally it's acquired by doing the relevant thing for a long time. However, that takes a long time. Instead, recognize that expertise, and tacit knowledge by extension, boils down to [[id:b481f4e5-63b4-4455-8406-49825121b06c][pattern matching]], specifically [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]] making, and work to [[id:ba1c4d11-bcfa-4844-b65e-2c59fe7a9422][improve]] this ability through simulations ([[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]).
+
 * Series
 1. [[id:bcba3e46-9cde-4555-accb-ec73e4f0fc4c][Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]]
+   - Tacit knowledge is more useful than deliberate practice when the subject you're trying to learn isn't "well defined". "... deliberate practice is defined as possible /only/ in domains with a long history of well-established pedagogy. In other words, deliberate practice *can only exist in fields like music and math and chess*."
+   - Tacit knowledge in action looks like a long list of caveats
 2. [[id:5a1426bf-c14f-411b-af3e-e21ee56fa8e5][Cedric Chin | Copying Better: How To Acquire The Tacit Knowledge of Experts]]
+   - We can acquire the [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] of experts through [[id:6eb374ad-69aa-476d-b1d8-02714ffc094f][Naturalistic decision making]]: [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]] and [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]].
 3. [[id:6e417a2d-0c14-4057-b022-c89d787e7fd3][Cedric Chin | The Three Kinds of Tacit Knowledge]]
 4. [[id:03073c64-f73f-41cf-a961-052d0648740e][Cedric Chin | How to Use YouTube to Learn Tacit Knowledge]]
+   - YouTube, and video in general, is a wealth of tacit knowledge (e.g. [[id:eefb478b-2083-4445-884d-755005a26f2f][Pottery]]). Seek out a combination of instructional and videos where an expert is /doing/ the thing you're learning.
 5. [[id:112cd568-012c-4eea-b902-53f44907b098][Cedric Chin | An Easier Method for Extracting Tacit Knowledge]]
+   - See [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]].
 6. [[id:ae72b55b-09aa-4a94-b437-6a746845200d][Cedric Chin | The Tricky Thing About Creating Training Programs]]
+   - Good training programs for imparting [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] are simulations.
 7. [[id:731b4023-79ea-4671-9de9-2079008f14df][Cedric Chin | An Extracted Tacit Mental Model of Business Expertise]]
 
 Related:
@@ -30,9 +44,7 @@ Related:
 - [[id:a8d74b9a-2871-4384-b1f0-f761e96f1bc4][Cedric Chin | Don't Read History for Lessons]]
 - [[id:32a61c32-7208-4f24-8eee-ed8466bde56e][Cedric Chin | Ability to See Expertise Is a Milestone Worth Aiming For]]
 
-* INPROGRESS [#0] Summary / Key points / Take-aways :noexport:
-
-* TODO [#0] Thoughts
+* Thoughts
 
 - The [[id:731b4023-79ea-4671-9de9-2079008f14df][final entry in the series]] is also the first in [[id:5e6ac16d-668c-455b-931a-15bc1a482603][another series]]. This is a clever way to lead readers along between sequences/series. The two series are distinct enough that they can stand alone but connected enough that someone who reads one is likely to also want to read the other.
 

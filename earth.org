@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dc62ed50-4dcc-4b1b-ba02-7e5870f0a76c
-:LAST_MODIFIED: [2023-09-07 Thu 07:28]
+:LAST_MODIFIED: [2023-09-21 Thu 07:17]
 :ROAM_REFS: [cite:@Earth2023]
 :END:
 #+title: Earth
@@ -40,7 +40,7 @@ Earth's equatorial circumference is {{40,075 kilometers}@0}.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   102.28 | 2023-09-20T22:45:34Z |
+|        0 | 2.50 |   7 |   267.27 | 2024-06-14T20:48:45Z |
 :END:
 
 Earth's surface is roughly {{70%}{percent}@0} water.

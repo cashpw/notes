@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24cb7271-441f-447e-9150-b4f44fc6d947
-:LAST_MODIFIED: [2023-09-08 Fri 09:23]
+:LAST_MODIFIED: [2023-09-21 Thu 07:21]
 :END:
 #+title: Control the conversation
 #+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
@@ -41,7 +41,7 @@ Make sure people are talking about what you want them to talk about and in ways 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    98.56 | 2023-10-22T03:47:57Z |
-| back     | 2.35 |   7 |   163.14 | 2023-09-20T18:08:52Z |
+| back     | 2.35 |   8 |   362.88 | 2024-09-18T11:26:09Z |
 :END:
 [[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]] as an argument strategy
 *** Back

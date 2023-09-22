@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       36417ccc-d8cc-4116-baef-89dfb6b1924a
-:LAST_MODIFIED: [2023-09-19 Tue 16:59]
+:LAST_MODIFIED: [2023-09-21 Thu 07:20]
 :END:
 #+title: Shuhari
 #+hugo_custom_front_matter: :slug "36417ccc-d8cc-4116-baef-89dfb6b1924a"
@@ -34,7 +34,7 @@ Shuhari can be decomposed in 3 kanjis:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   3 |     6.00 | 2023-09-23T23:02:36Z |
-| back     | 2.50 |   1 |     1.00 | 2023-09-20T23:59:38Z |
+| back     | 2.50 |   2 |     2.00 | 2023-09-23T14:20:06Z |
 :END:
 
 [[id:36417ccc-d8cc-4116-baef-89dfb6b1924a][Shuhari]]

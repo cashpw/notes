@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ee39d99d-f838-4555-8732-f94bab2f67ee
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-09-21 Thu 07:20]
 :END:
 #+title: We must always take sides
 #+hugo_custom_front_matter: :slug "ee39d99d-f838-4555-8732-f94bab2f67ee"
@@ -26,7 +26,7 @@ We must always take sides. Neutrality helps the oppressor, never the victim. Sil
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   180.04 | 2023-10-26T00:03:48Z |
-| back     | 2.80 |   4 |    15.30 | 2023-09-20T22:44:20Z |
+| back     | 2.80 |   5 |    38.68 | 2023-10-30T06:33:00Z |
 :END:
 
 [[id:ee39d99d-f838-4555-8732-f94bab2f67ee][We must always take sides]]

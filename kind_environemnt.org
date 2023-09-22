@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       da636d9e-c77c-41be-b109-b84a06c63713
-:LAST_MODIFIED: [2023-09-18 Mon 08:47]
+:LAST_MODIFIED: [2023-09-21 Thu 07:15]
 :END:
 #+title: Kind environment
 #+hugo_custom_front_matter: :slug "da636d9e-c77c-41be-b109-b84a06c63713"
@@ -27,7 +27,7 @@ Inference involves two settings: In the first, information is acquired (learning
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-09-19T15:47:17Z |
+| front    | 2.50 |   2 |     2.00 | 2023-09-23T14:15:50Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-12T00:19:08Z |
 :END:
 

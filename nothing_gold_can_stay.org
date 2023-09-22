@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       90684bfd-668f-4559-bac8-99cbcefb4c08
 :ROAM_ALIASES: "Nothing gold can stay"
-:LAST_MODIFIED: [2023-09-19 Tue 16:56]
+:LAST_MODIFIED: [2023-09-21 Thu 07:21]
 :END:
 #+title: Robert Frost | Nothing Gold Can Stay
 #+hugo_custom_front_matter: :slug "90684bfd-668f-4559-bac8-99cbcefb4c08"
@@ -71,7 +71,7 @@ Nothing gold can stay.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   142.17 | 2023-09-19T22:50:10Z |
+| front    | 2.50 |   1 |     1.00 | 2023-09-22T14:21:51Z |
 :END:
 
 [[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing gold can stay]]
