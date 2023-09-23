@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b1803fd2-0e85-4a69-b4c9-3516194b7442
+:LAST_MODIFIED: [2023-09-22 Fri 09:25]
+:END:
+#+title: You must unlearn what you have learned
+#+hugo_custom_front_matter: :slug "b1803fd2-0e85-4a69-b4c9-3516194b7442"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-22 Fri 09:22]
+#+filetags: :hastodo:quote:
+
+#+begin_quote
+No! No different. Only different in your mind. You must unlearn what you have learned.
+
+[cite:@lucasEmpireStrikesBack]
+#+end_quote
+#+print_bibliography:
+* TODO [#2] Flashcards

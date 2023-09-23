@@ -1,0 +1,177 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
+:ID:       18375047-41ab-49a0-96d3-6ac554685fc2
+:LAST_MODIFIED: [2023-09-22 Fri 17:13]
+:END:
+#+title: Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning
+#+hugo_custom_front_matter: :slug "18375047-41ab-49a0-96d3-6ac554685fc2"
+#+author: Cash Weaver
+#+date: [2023-09-22 Fri 07:19]
+#+filetags: :hastodo:reference:
+
+[[id:9319614c-f7cb-4ee9-af12-af474563c654][Gary Klein]], [[id:123b7f32-ba1f-4679-8dea-c26871d8b76a][Holly Baxter]], [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
+
+* TODO Summary
+#+begin_quote
+Cognitive learning is not simply a matter of adding additional beliefs into the existing mental models. Rather, we have to revise our belief systems and our mental models as experience shows the inadequacy of our current ways of thinking. [...]
+#+end_quote
+* TODO Thoughts
+* INPROGRESS Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/18/375047-41ab-49a0-96d3-6ac554685fc2/Cognitive_Transformation_Theory_Contrasting_Cognit-ocr.pdf
+:NOTER_PAGE: 9
+:END:
+
+** Abstract
+:PROPERTIES:
+:NOTER_PAGE: 2
+:END:
+
+#+begin_quote
+The traditional approach to learning is to define the objectives (the gap between the knowledge a person has and the knowledge the person needs to perform the task), establish the regimen for practice, and provide feedback. Learning procedures and factual data is seen as adding more information and skills to the person's storehouse of knowledge. However, this storehouse metaphor is poorly suited for cognitive skill, and does not address the differing learning needs of novices and experts. Teaching cognitive skills requires the diagnosis of the problem in terms of flaws in existing mental models, not gaps in knowledge. It requires learning objectives that are linked to the person's current mental models. It requires practice regimens that may have to result in "unlearning" that enables the person to abandon the current, flawed mental models. It requires feedback that promotes sensemaking [[[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]]. We propose a Cognitive Transformation Theory to guide the development of cognitive skills. Finally, we present several strategies that might be useful in overcoming barriers to understanding and to revising mental models. Finally, we show the implications of Cognitive Transformation Theory for using virtual environments (VEs; where a "live" student interacts with a "simulated" environment) in training.
+#+end_quote
+
+** Introduction
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+#+begin_quote
+How can cognitive skills be improved? The conventional mechanisms of practice, feedback, and accumulation of knowledge rarely apply to cognitive skills in the same way they apply to behavioral skills. In this chapter we argue that cognitive learning requires a different concept of the learning process.
+
+Traditional approaches to learning seem clear-cut:
+
+1. identify what you want the student to learn
+2. provide the knowledge and present an opportunity to practice the skill or concept
+3. give feedback so the student can gauge whether the learning has succeeded. Educating students in behavioral skills appears to simply be a matter of practice and feedback
+
+This approach to learning relies on a storehouse metaphor. It assumes the learner is missing some critical form of konwledge --- factual information or procedures. [...]
+
+We believe that this storehouse metaphor is insufficient to describe learning of cognitive skills. [...] We can distinguish different forms of knowledge that people need io nrder to gain expertise:
+
+- declarative knowledge
+- routines and procedures
+- recognition of familiar patterns
+- perceptual discrimination skills
+- mental models
+
+The storehouse metaphor seems best suited for acquiring declarative knowledge and for learning new routines/procedures. It may be less apt for building pattern-recognition skills. It is least appropriate for teaching people to make perceptual discriminations and for improving the quality of their mental models.
+
+When people build a larger repertoire of patterns and prototypes, they are not simply adding new items to their lists. They are learning how to categorize the new items and are changing categories and redefining the patterns and prototypes as they gain new experience. The storehouse metaphor implies a simple additive process, which would lead to confusion rather than to growth. [...]
+
+When people develop perceptual discrimination skills [...] they are learning to make distinctions that they did previously did not notice. They are learning to "see the invisible" [[[id:4eec9434-56e8-4b63-80fc-8bb9150fc6be][Gary A. Klein and Robert R. Hoffman | Seeing the Invisible: Perceptual-cognitive Aspects of Expertise]]] in the sense that they can now make discriminations they previously did not notice. [...]
+
+Cognitive skills depend heavily on mental models [[[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]]]. We define a mental model as a cluster of causal beliefs about how things happen. [...]
+
+Cognitive learning is not simply a matter of adding additional beliefs into the existing mental models. Rather, we have to revise our belief systems and our mental models as experience shows the inadequacy of our current ways of thinking. [...]
+
+[formatting mine]
+#+end_quote
+
+** Sensemaking requirements for learning cognitive skills
+:PROPERTIES:
+:NOTER_PAGE: 4
+:END:
+
+#+begin_quote
+We treat cognitive learning as a sensemaking [[[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]] activity that includes four components:
+#+end_quote
+
+*** Diagnosis
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+#+begin_quote
+Diagnosing the reasons for weak performance depends on sensemaking. The instructor, whether in person or viitual, has to ferret out the reasons why the student is confused and making errors. Sometimes trainees do not even notice errors or weaknesses and may resist suggestions to overcome problems they do not realize they have. Even if trainees do realize something is wrong, the cause/effect mechanisms are subtle and complex. [...]
+
+[...]
+
+The goal of diagnosis goes beyond establishing learning objectives—it depends on discovering what flaw in a mental model needs to be corrected.
+
+For cognitive skills, it is very difficult to determine and define the existing problem. Cognitive Task Analysis [[[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]] methods may be needed to diagnose subtle aspects of cognitive skills.
+#+end_quote
+
+*** Learning objectives
+:PROPERTIES:
+:NOTER_PAGE: 5
+:END:
+
+#+begin_quote
+[...] for cognitive learning, the objectives may be to help the students revise their mental models and perhaps to reorganize the way they categorize events. [...]
+
+[...]
+
+We further assert that novices may not have mental models for an unfamiliar domain and will struggle to formulate even rudimentary mental models linking causes to effects. Their learning objective is to employ sensemaking to generate initial menta lmodels of cause/effect stories, whereas experts are revising and adding to current mental models.
+#+end_quote
+
+*** Practice
+:PROPERTIES:
+:NOTER_PAGE: 6
+:END:
+
+#+begin_quote
+Providing students with practice is necessary for gaining proficiency. But with cognitive skills, practice is not sufficient. For cognitive skills, trainees often may not know what they should be watching and monitoring. They need adequate mental models to direct their attention, but until they get smarter, they may fail to spot the cues that will help them develop better mental models.
+
+[Virtual environments] [(simulations)] can help trainees gain this needed practice in a context that allows them to budli more robust mental models. [...] VE training [...] surpassed real world training [with sufficient exporure to virtual training environments].
+
+Managing attention depends on sensemaking. Feedback will not be useful if the trainee does not notice or understand it --- and that requires the trainee to know what to attend to and when to shift attention. Barrett, Tugade, and Engle (2004) have suggested that attention management accounts for many of the individual differences in working memory --- the ability to focus attention and not be distracted by irrelevancies. For these reasons, we argue that effective practice, whether in actual or in virtual environments, depends on attention management: seeking information --- knowing what to seek and when to seek it --- and filtering distracting data.
+#+end_quote
+
+*** Feedback
+:PROPERTIES:
+:NOTER_PAGE: 7
+:END:
+
+#+begin_quote
+Providing students with feedback will not be useful if they do not understand it. For complex cognitive skills, such as leadership, time lags between actions and consequences will create difficulties in sorting out what worked, what did not work, and why. Learners need to engage in sensemaking to discover cause-effect relationships between actions taken at time one and the effects seen at time two. To make things more complicated, learners often have to account for other actions and events that are interspersed between their actions and the consequences, They have to figure out what really caused the consequences versus the coincidental events that had nothing to do with their actions. They have to understand the causes versus the symptoms of deeper causes, and they have to sort out what just happened, the factors in play, the influence of these factors, and the time lags for the effects.
+#+end_quote
+
+Also see [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]/[[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]] and [[id:da636d9e-c77c-41be-b109-b84a06c63713][Kind]]/[[id:27c588de-fa05-48cc-99c3-17c4e7689aad][Wicked environments]].
+
+#+BEGIN_QUOTE
+To add to these complications, having an instructor or training tool provide feedback can actually get in the way of transfer of learning (Schmidt & Wulf, 1997) even though it increases the learning curve during acquisition. By placing Students in an environment where they are given rapid feedback, the students are not compelled to develop skills for seeking their own feedback. Further, students may become distracted from intrinsic feedback because it is so much easier to rely on the extrinsic feedback. As a result, when they complete what they set out to learn, they are not prepared to seek and interpret their own feedback.
+
+One of the challenges for cognitive learning is to handle time lags between actions and consequences. VE sessions will compress these time lags, which might clarify relationships but will also reduce the opportunity to learn how to interpret delayed feedback. To compensate, VE sessions could add distracters that might have potentially caused the effects as a way to sustain confusion about how to interpret feedback. In addition, VE sessions could be structured to monitor how people interpret the feedback.
+
+For cognitive learning, one of the complications facing instructional designers is that the flawed mental models of the students act as a barrier to learning. Students need to have better mental models in order to understand the feedback that would invalidate their existing mental models. Without a good mental model, students will have trouble making 'use of feedback, but without useful feedback, students will not be able to develop good mental models. That is why cognitive learning may depend on unlearning as well as learning.
+#+END_QUOTE
+
+** The process of unlearning
+:PROPERTIES:
+:NOTER_PAGE: 8
+:END:
+
+[[id:b1803fd2-0e85-4a69-b4c9-3516194b7442][You must unlearn what you have learned]]
+
+#+BEGIN_QUOTE
+For people to develop better mental models they may have to untearh some of their existing mental models. The reason is that as people gain experience, their understanding of a domain should become more complex and nuanced. The mental models that provided a rough approximation need to be replaced by more sophisticated ones. But people may be reluctant to abandon inadequate mental models, as they may not appreciate the inadequacies. They may attempt to explain away the inconsistencies and anomalies.
+
+Chinn and Brewer (1993) showed that scientists and science students alike deflected inconvenient data. They identified seven reactions to anomalous data that were inconsistent with a mental model:
+
+1. ignoring the data
+2. rejecting the data
+3. finding a way to exclude the data from an evaluation of the theory/model
+4. holding the data in abeyance
+5. reinterpreting the data while retaining the theory/model
+6. reinterpreting the data and making peripheral changes to the theory/model
+7. accepting the data and revising the theory/model
+
+Only this last reaction changes the core beliefs. The others involve ways to discount the data and preserve the theory.
+
+[...] Sensemaking here is a deliberate activity to discover what is wrong with one's mental models and to abandon and replace them.
+
+[...]
+
+[...] "Organizations' resistance to dramatic reorientations creates a need for explicit unlearning ... Before attempting radical changes, [organizations] must dismantle parts of their current ideological and political structures. Before they will contemplate dramatically different procedures, policies, and strategies, they must lose confidence in their current procedures, policies, strategies, and top managers" (p. 339). We believe that these observations apply to individuals as well as to organizations and that the concept of unlearning needs to become part of a cognitive learning regimen.
+
+[formatting mine]
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+#+END_QUOTE
+* TODO [#2] Flashcards
+#+print_bibliography:

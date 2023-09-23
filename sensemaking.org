@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       10a23a67-c60d-4591-8bb2-e87ca50b0e94
+:LAST_MODIFIED: [2023-09-22 Fri 08:41]
+:END:
+#+title: Sensemaking
+#+hugo_custom_front_matter: :slug "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-22 Fri 08:22]
+#+filetags: :concept:
+
+#+begin_quote
+Sensemaking or sense-making is the process by which people give meaning to their collective experiences. It has been defined as "the ongoing retrospective development of plausible images that rationalize what people are doing". [...]
+
+There is no single agreed upon definition of sensemaking, but there is consensus that it is a process that allows people to understand ambiguous, equivocal or confusing issues or events.
+
+[cite:@Sensemaking2023]
+#+end_quote
+
+* Properties
+
+#+begin_quote
+Weick identified seven properties of sensemaking [cite:@weickSensemakingOrganizations2010]
+
+1. *Identity* --- who people think they are in their context shapes what they enact and how they interpret events
+2. *Retrospection* provides the opportunity for sensemaking: the point of retrospection in time affects what people notice, thus attention and interruptions to that attention are highly relevant to the process
+3. People *enact* the environments they face in dialogues and narratives. As people speak, and build narrative accounts, it helps them understand what they think, organize their experiences and control and predict events [[[id:bfc1e54d-2c91-4514-ad99-54e6494268bb][Writing to think]], releted?]
+4. Sensemaking is a *social* activity in that plausible stories are preserved, retained or shared (Isabella, 1990; Maitlis, 2005). However, the audience for sensemaking includes the speakers themselves and the narratives are "both individual and shared...an evolving product of conversations with ourselves and with others"
+5. Sensemaking is *ongoing*, so Individuals simultaneously shape and react to the environments they face. As they project themselves onto this environment and observe the consequences they learn about their identities and the accuracy of their accounts of the world. This is a feedback process so even as individuals deduce their identity from the behaviour of others towards them, they also try to influence this behaviour. As Weick argued, "The basic idea of sensemaking is that reality is an ongoing accomplishment that emerges from efforts to create order and make retrospective sense of what occurs".
+6. People *extract cues* from the context to help them decide on what information is relevant and what explanations are acceptable. Extracted cues provide points of reference for linking ideas to broader networks of meaning and are 'simple, familiar structures that are seeds from which people develop a larger sense of what may be occurring.".
+7. People favour *plausibility over accuracy* in accounts of events and contexts: "in an equivocal, postmodern world, infused with the politics of interpretation and conflicting interests and inhabited by people with multiple shifting identities, an obsession with accuracy seems fruitless, and not of much practical help, either".
+
+[cite:@Sensemaking2023], formatting mine
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-09-22 Fri 08:41]
+:FC_CREATED: 2023-09-22T15:41:49Z
+:FC_TYPE:  double
+:ID:       9e4127e4-2ef5-441e-969f-76bcd3b318b0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-22T15:41:49Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-29T15:41:49Z |
+:END:
+
+[[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]
+
+*** Back
+
+The process by which people give meaning to their collective experience. A process that allows people to understand ambiguous, equivocal, or confusing issues or events.
+
+*** Source
+[cite:@Sensemaking2023]
+#+print_bibliography:

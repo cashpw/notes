@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4ea2b052-5b0c-4959-b7af-3174618c398d
+:ROAM_REFS: @chinHardThingLearningExperience2021
+:LAST_MODIFIED: [2023-09-22 Fri 07:20]
+:END:
+#+title: Notes on Chin, Cedric, The Hard Thing About Learning From Experience
+#+hugo_custom_front_matter: roam_refs '("@chinHardThingLearningExperience2021")
+#+filetags: :hastodo:
+
+
+
+#+print_bibliography:
+* TODO [#2] Flashcards

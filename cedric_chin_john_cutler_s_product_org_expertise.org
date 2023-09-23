@@ -1,18 +1,27 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinJohnCutlerProductOrgExpertise2021]
 :ID:       f064b5ef-9576-4957-8882-30ebe383d23d
-:LAST_MODIFIED: [2023-09-08 Fri 16:35]
+:LAST_MODIFIED: [2023-09-22 Fri 06:51]
 :END:
 #+title: Cedric Chin | John Cutler's Product Org Expertise
 #+hugo_custom_front_matter: :slug "f064b5ef-9576-4957-8882-30ebe383d23d"
 #+author: Cash Weaver
 #+date: [2023-09-08 Fri 16:35]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
-TODO_AUTHOR, [cite:@chinJohnCutlerProductOrgExpertise2021]
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinJohnCutlerProductOrgExpertise2021]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* Summary
+An example of the first two parts of [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]] (Creating a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]] and performing a [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audit]]).
+* Thoughts
+* Notes
+** What was difficult?
+#+begin_quote
+The biggest difficulty with using ACTA was in deciding when to dive deep and let John go on about his experiences, and when to move on to the next set of probes. In our initial call, I let John go on too long while setting up the Task Diagram, and then we ran out of time, so I didn't do a good job of the Knowledge Audit.
+
+The second call went much better.
+
+I think the biggest mistake that I did was that I grossly underestimated the amount of time it would take to do the whole skill extraction exercise. I scheduled an hour for our first call, whereas a more appropriate length might've been two hours. In the end, we did two separate calls together, the first being 1.5 hours long, and the second two hours long. It's hard to say if these times are normal, but I wouldn't go below two hours in the future.
+#+end_quote
+* Flashcards
 #+print_bibliography:
-* TODO [#2] Flashcards

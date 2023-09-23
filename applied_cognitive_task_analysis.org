@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-09-21 Thu 17:35]
+:LAST_MODIFIED: [2023-09-22 Fri 08:50]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -206,6 +206,7 @@ Of the four techniques in ACTA, picking a good simulation seems like the trickie
 
 - Prefer scenarios which already exist; "Often, simulations and scenarios exist for training purposes. It may be necessary to adapt or modify the scenario to conform to practical constraints such as time limitations." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 - "[...] the fidelity of the simulation is not an important issue. The key is that the simulation presents a challenging scenario." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
+- Be wary of [[id:27c588de-fa05-48cc-99c3-17c4e7689aad][Wicked environments]]
 
 ** Cognitive demands table
 :PROPERTIES:

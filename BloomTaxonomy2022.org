@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-09-21 Thu 07:16]
+:LAST_MODIFIED: [2023-09-22 Fri 08:44]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -146,6 +146,8 @@ Which kinds of apples are suitable for baking a pie, and why?
 
 [cite:@BloomTaxonomy2022]
 #+end_quote
+
+This corresponds to [[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]] [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006].
 
 *** Example
 

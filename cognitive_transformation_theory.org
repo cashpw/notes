@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       2023ecf7-2e79-4919-a356-264eecb3034b
-:LAST_MODIFIED: [2023-09-08 Fri 16:14]
+:LAST_MODIFIED: [2023-09-22 Fri 07:20]
 :END:
 #+title: Cognitive transformation theory
 #+hugo_custom_front_matter: :slug "2023ecf7-2e79-4919-a356-264eecb3034b"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-30 Fri 16:04]
 #+filetags: :hastodo:concept:
-* TODO [#2]
+* INPROGRESS [#2]
 [cite:@chinHardThingLearningExperience2021]
 * TODO [#2] Flashcards
 #+print_bibliography:

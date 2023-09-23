@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       effc9b28-7b65-4dcf-b14b-bf4415bd7044
+:LAST_MODIFIED: [2023-09-22 Fri 09:27]
+:END:
+#+title: The strong do what they can and the weak suffer what they must
+#+hugo_custom_front_matter: :slug "effc9b28-7b65-4dcf-b14b-bf4415bd7044"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-22 Fri 09:26]
+#+filetags: :hastodo:quote:
+
+#+begin_quote
+The strong do what they can, and the weak suffer what they must.
+
+[modern phrasing], Thucydides, History of the Peloponnesian War, [cite:@ratcliffeOxfordEssentialQuotations2018]
+#+end_quote
+#+print_bibliography:
+* TODO [#2] Flashcards

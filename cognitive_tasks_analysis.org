@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bd9daffc-f556-4bdc-975e-e35c3c98ebee
-:LAST_MODIFIED: [2023-09-21 Thu 07:20]
+:LAST_MODIFIED: [2023-09-22 Fri 08:49]
 :END:
 #+title: Cognitive task analysis
 #+hugo_custom_front_matter: :slug "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
@@ -26,6 +26,8 @@ Cognitive task analysis has been used to examine:
 
 [cite:@CognitiveTaskAnalysisUsabilityBodyKnowledge]
 #+end_quote
+
+Also see [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]].
 
 * Flashcards
 ** Definition :fc:
