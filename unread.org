@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-24 Sun 12:04]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -12992,7 +12992,7 @@ Explore until you find two equally good options. Then pick the one that matches 
 :PROPERTIES:
 :CREATED: [2022-10-04 05:29]
 :END:
-* TODO [[kindle://book?action=open&asin=B009K6DKTS&location=4064][Antifragile: Things that Gain from Disorder - Nassim Taleb]]
+* TODO Antifragile: Things that Gain from Disorder - Nassim Taleb
 :PROPERTIES:
 :CREATED: [2022-10-06 00:00]
 :END:

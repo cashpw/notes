@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       3f513197-b379-4b8b-b918-21100005e18a
+:LAST_MODIFIED: [2023-09-23 Sat 10:10]
+:END:
+#+title: Garden path
+#+hugo_custom_front_matter: :slug "3f513197-b379-4b8b-b918-21100005e18a"
+#+author: Cash Prokop-Weaver
+#+date: [2023-09-23 Sat 09:46]
+#+filetags: :concept:
+
+#+begin_quote
+"Garden path" refers to the saying "to be led down [or up] the garden path", meaning to be deceived, tricked, or seduced.
+
+[cite:@GardenpathSentence2023]
+#+end_quote
+
+* Examples
+
+** Garden path sentences
+
+#+begin_quote
+A garden-path sentence is a grammatically correct sentence that starts in such a way that a reader's most likely interpretation will be incorrect; the reader is lured into a parse that turns out to be a dead end or yields a clearly unintended meaning. "Garden path" refers to the saying "to be led down [or up] the garden path", meaning to be deceived, tricked, or seduced.
+
+[cite:@GardenpathSentence2023]
+#+end_quote
+
+#+begin_quote
+1. The horse raced past the barn fell.
+2. The old man the boat.
+3. The florist sent the flowers was pleased.
+4. The cotton clothing is made of grows in Mississippi.
+5. The sour drink from the ocean.
+6. Have the students who failed the exam take the supplementary.
+7. We painted the wall with cracks.
+8. The man who hunts ducks out on weekends.
+9. The raft floated down the river sank.
+10. When Fred eats food gets thrown.
+11. Mary gave the child the dog bit a Band-Aid.
+12. The girl told the story cried.
+13. I convinced her children are noisy.
+14. Helen is expecting tomorrow to be a bad day.
+15. Fat people eat accumulates.
+16. I know the words to that song about the queen don't rhyme.
+17. She told me a little white lie will come back to haunt me.
+18. The dog that I had really loved bones.
+19. That Jill is never here hurts.
+20. The man who whistles tunes pianos.
+
+[cite:@20GrammaticallyCorrectSentencesYouWonReadRightFirstTime]
+#+end_quote
+
+** Garden path scenario
+
+#+begin_quote
+In a garden path scenario a parson is lead to accept a proposition that seems obviously true and is then given increasing amounts of contrary evidence gradually leading to the realization that the initial proposition is wrong. The paradigm lets us study how long it takes for participants to doubt and then reject the initila proposition --- how long they stay on the garden path.
+
+[cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
+#+end_quote
+
+* Flashcards
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-09-23 Sat 10:10]
+:FC_CREATED: 2023-09-23T17:10:41Z
+:FC_TYPE:  double
+:ID:       53125e94-8109-4d02-8e0d-4af1b32fb208
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-09-23T17:10:41Z |
+| back     |  2.5 |  -1 |        0 | 2023-09-30T17:10:41Z |
+:END:
+
+To lead someone down/up the [[id:3f513197-b379-4b8b-b918-21100005e18a][Garden path]]
+
+*** Back
+To deceive, trick, or seduce
+*** Source
+[cite:@GardenpathSentence2023]
+#+print_bibliography:

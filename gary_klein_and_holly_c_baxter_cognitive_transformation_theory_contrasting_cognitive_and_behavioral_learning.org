@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
 :ID:       18375047-41ab-49a0-96d3-6ac554685fc2
-:LAST_MODIFIED: [2023-09-22 Fri 17:13]
+:LAST_MODIFIED: [2023-09-23 Sat 14:07]
 :END:
 #+title: Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning
 #+hugo_custom_front_matter: :slug "18375047-41ab-49a0-96d3-6ac554685fc2"
@@ -11,16 +11,39 @@
 
 [[id:9319614c-f7cb-4ee9-af12-af474563c654][Gary Klein]], [[id:123b7f32-ba1f-4679-8dea-c26871d8b76a][Holly Baxter]], [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
 
-* TODO Summary
+* INPROGRESS Summary
 #+begin_quote
 Cognitive learning is not simply a matter of adding additional beliefs into the existing mental models. Rather, we have to revise our belief systems and our mental models as experience shows the inadequacy of our current ways of thinking. [...]
 #+end_quote
+
+Cognitive transformation theory is the idea that "progress in cognitive skills depends on successively shedding outmoded sets of beliefs and adopting new beliefs." The authors propose it in contrast to the "storehouse" model in which a learner improves by acquiring new knowledge in an additive process (more new knowledge, better decisions/answers/etc) which is incorrect. "Our central claim is that conceptual learning is discontinuous rather than smooth. We make periodic advances when we replace flawed mental models with better ones. However, during the process of cognitive development our mental models get harder to disconfirm. As we move up the learning curve or have more expertise, we have to put more energy into unlearning --- discomfirming mental models --- in order to accept better ones."
+
+The authors distinguish between forms of knowledge which have different effective learning models:
+
+| Form                             | Effective learning model        |
+|----------------------------------+---------------------------------|
+| Declarative                      | Storehouse                      |
+| Routines and procedures          | Storehouse                      |
+| Recognition of familiar patterns | Cognitive transformation theory |
+| Perceptual discrimination skills | Cognitive transformation theory |
+| Mental models                    | Cognitive transformation theory |
+
+The later three forms correspond to expertise
+
 * TODO Thoughts
-* INPROGRESS Notes :ATTACH:
+* Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/18/375047-41ab-49a0-96d3-6ac554685fc2/Cognitive_Transformation_Theory_Contrasting_Cognit-ocr.pdf
-:NOTER_PAGE: 9
+:NOTER_PAGE: 14
 :END:
+
+- Key points
+  - Cognitive transformation theory is the idea that "progress in cognitive skills depends on successively shedding outmoded sets of beliefs and adopting new beliefs."
+  - Conceptual learning
+    - is discontinuous, not smooth
+    - requires unlearning and replacing which becomes harder as you know
+- Questions
+  - How do you unlearn what you have learned?
 
 ** Abstract
 :PROPERTIES:
@@ -47,7 +70,7 @@ Traditional approaches to learning seem clear-cut:
 
 This approach to learning relies on a storehouse metaphor. It assumes the learner is missing some critical form of konwledge --- factual information or procedures. [...]
 
-We believe that this storehouse metaphor is insufficient to describe learning of cognitive skills. [...] We can distinguish different forms of knowledge that people need io nrder to gain expertise:
+We believe that this storehouse metaphor is insufficient to describe learning of cognitive skills. [...] We can distinguish different forms of knowledge that people need in order to gain expertise:
 
 - declarative knowledge
 - routines and procedures
@@ -165,13 +188,83 @@ Only this last reaction changes the core beliefs. The others involve ways to dis
 
 [...] "Organizations' resistance to dramatic reorientations creates a need for explicit unlearning ... Before attempting radical changes, [organizations] must dismantle parts of their current ideological and political structures. Before they will contemplate dramatically different procedures, policies, and strategies, they must lose confidence in their current procedures, policies, strategies, and top managers" (p. 339). We believe that these observations apply to individuals as well as to organizations and that the concept of unlearning needs to become part of a cognitive learning regimen.
 
+Just like organizations, individuals also resist changing their mental models. Chinn and Brewer (1993) refer to Kuhn's (1962) research to suggest that students will be more likely to abandon a flawed set of beliefs if they have an alternative theory/model available. This method may work best when the alternative model is already part of the students' repertoire. [...]
+
+However, in some situations we suspect that the reverse has to happen. People have to lose confidence in their models before they will seriously consider an alternate. [...]
+
+[...]
+
+Scott, Asoko, and Driver (1991) have described two broad types of strategies for producing conceptual change: creating cognitive conflict and building on existing ideas as analogies. The DiBello and Schmitt approaches fit within the first grouping, to create cognitive conflict. The Brown and Clement work exemplifies the second—introducing analogs as platforms for new ideas.
+
+Chinn and Brewer (1993) have also suggested that asking students to justify their models will facilitate their readiness to change models in the face of anomalous data.
+
+[...]
+
+People have to diagnose their performance problems, manage their attention, appreciate the implications of feedback, and formulate better mental models by uniearning inadequate models. Learners are not simply accumulating more knowledge into a storehouse. They are changing their perspectives on the world.
+
 [formatting mine]
 #+END_QUOTE
 
-#+BEGIN_QUOTE
-#+END_QUOTE
+** Cognitive transformation theory
+:PROPERTIES:
+:NOTER_PAGE: 11
+:END:
 
-#+BEGIN_QUOTE
-#+END_QUOTE
+Cognitive transformation theory is the idea that "progress in cognitive skills depends on successively shedding outmoded sets of beliefs and adopting new beliefs."
+
+#+begin_quote
+Our central claim is that conceptual learning is discontinuous rather than smooth. We make periodic advances when we replace flawed mental models with better ones. However, during the process of cognitive development our mental models get harder to disconfirm. As we move up the learning curve or have more expertise, we have to put more energy into unlearning --- discomfirming mental models --- in order to accept better ones.
+
+[...]
+
+We can represent cognitive transformation theory as a set of postulates:
+
+- *Mental models are central to cognitive learning*
+
+  Instruction needs to diagnose limitations in mental models, design interventions to help students appreciate the flaws in their mental models, and provide experiences to enable trainees to discover more useful and accurate mental models.
+- *Mental models are modular*
+
+  People have a variety of fragmentary mental models, and they weave those together to account for a novel observation. People are usually not matching events to sophisticated theories they have in memory. They are using fragments and partial beliefs to construct relevant mental models. For most domains, the central mental models describe causal relationships. They describe how events transform into later events. Causal mental models typically take the form of a story.
+- *Experts have more sophisticated mental models in their domains of practice than novices*
+
+  Experts have more of the fragmentary beliefs needed to construct a plausible mental model. Therefore, they are starting their construction from a more advanced position. Finally, experts have more accurate causal mental models and have tested and abandoned more inadequate beliefs.
+- *Experts build their repertoires of fragmentary mental models in a discontinuous fashion*
+
+  In using their mental models, even experts may distort data, oversimplify, explain away diagnostic information, and misunderstand events. At some point, experts realize the inadequacies of their mental models. They abandon their existing mental models and replace these with a better set of causal beliefs. And the cycle begins again.
+- *Learning curves are usually smooth because researchers combine data from several subjects*
+
+  The reason for the smoothness is the averaging of discontinuous curves.
+- *Experts are fallible*
+
+  No set of mental models is entirely accurate and complete.
+- *Knowledge shields are the set of arguments learners can use to explain away data that challenge their mental models*
+
+  Knowledge shields pose a barrier to developing cognitive skills. People are skilled at holding onto cherished beliefs. The better the mental models, the easier it is to find flaws in disconfirming evidence and anomalous observations. The S-shaped learning curve reflects the increasing difficulty of replacing mental models as people's mental models become more accurate.
+- *Knowledge shields affect diagnosis*
+
+  Active learners try to overcome their limitations, but they need to understand what those limitations are. Knowledge shields based on poor mental models can lead learners to the wrong diagnoses of their poor performance.
+- *Knowledge shields affect feedback*
+
+  In building mental models about complex situations, people receive a lot of feedback. However, the knowledge shields enable people to discard or neutralize contradictory data.
+- *Progress depends on unlearning*
+
+  The better the causal models, the more difficult it is to discover their weaknesses and replace them. In many cases, learners have to encounter a baffling event, an unmistakable anomaly, or an intelligent failure in order to begin doubting their mental models. They have to lose faith in their existing mental models before they can review the pattern of evidence and formulate a better mental model. People can improve their mental models by continually elaborating them, by replacing them with better ones, and/or by unlearning their current mental models. Cognitive development relies on all three processes.
+- *Individual differences in attitudes toward cognitive conflict will affect success in conceptual change*
+
+  Dreyfus, Jungwirth, and Eliovitch (1990) noted that bright and successful students responded positively to anomalies, whereas unsuccessful students tended to avoid the conflicts.
+
+[emphasis and formatting mine]
+#+end_quote
+
+** Implications for virtual environments
+:PROPERTIES:
+:NOTER_PAGE: 13
+:END:
+
+#+begin_quote
+[...] virtual environments allow for both intrinsic and extrinsic feedback. Many simulations offer scoring or an after action review capability that allows learners to see how they did in comparison to other students or some set standard. More important than the extrinsic feedback, these virtual environments give learners the ability to see how their actions play out and the challenges they may run into based on their mental models, allowing for self-assessment, adjustment, and improvement in cognitive learning.
+
+Because cognitive learning depends heavily on sensemaking [[[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]], and sensemaking is often complicated by knowledge shields, virtual environment sessions might benefit from designs using garden path [[[id:3f513197-b379-4b8b-b918-21100005e18a][Garden path]]] scenarios that elicit knowledge shields and give learners a chance to recover from mistaken mindsets and get off the garden path. In a garden path scenario a parson is lead to accept a proposition that seems obviously true and is then given increasing amounts of contrary evidence gradually leading to the realization that the initial proposition is wrong. The paradigm lets us study how long it takes for participants to doubt and then reject the initial proposition --- how long they stay on the garden path.
+#+end_quote
 * TODO [#2] Flashcards
 #+print_bibliography:
