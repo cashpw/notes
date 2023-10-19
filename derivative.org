@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       555a96ec-560f-4087-939f-5985f0ad0cb6
-:LAST_MODIFIED: [2023-09-19 Tue 16:56]
+:LAST_MODIFIED: [2023-10-12 Thu 23:56]
 :ROAM_ALIASES: "Instantaneous rate of change"
 :END:
 #+title: Derivative (math)
@@ -91,7 +91,7 @@ Related: [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differential calculus]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   7 |    46.32 | 2023-10-11T22:41:30Z |
+| front    | 1.30 |   8 |    66.18 | 2023-12-18T11:08:28Z |
 | back     | 2.80 |   7 |   317.01 | 2024-07-14T14:44:20Z |
 :END:
 

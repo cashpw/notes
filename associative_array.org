@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       efd422ba-2509-48c9-b267-265f3c369462
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-06 Fri 00:32]
 :END:
 #+title: Associative array
 #+hugo_custom_front_matter: :slug "efd422ba-2509-48c9-b267-265f3c369462"
@@ -28,7 +28,7 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   232.83 | 2023-09-24T12:35:22Z |
+| back     | 2.20 |   4 |    12.75 | 2023-10-19T01:29:07Z |
 | front    | 1.90 |   8 |   215.48 | 2024-03-08T03:26:21Z |
 :END:
 

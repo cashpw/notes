@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
 :ROAM_REFS: [cite:@Determinant2022]
-:LAST_MODIFIED: [2023-09-17 Sun 16:03]
+:LAST_MODIFIED: [2023-10-02 Mon 23:24]
 :END:
 #+title: Determinant
 #+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
@@ -41,9 +41,6 @@ The absolute value of $\determinant{A}$ represents the factor by which $A$ scale
 
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** Denotes :fc:
 :PROPERTIES:
@@ -78,7 +75,7 @@ The absolute value of $\determinant{A}$ represents the factor by which $A$ scale
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   7 |    98.72 | 2023-10-29T21:08:31Z |
-| back     | 2.50 |   7 |   246.00 | 2023-10-03T02:24:48Z |
+| back     | 2.50 |   8 |   582.66 | 2025-05-07T22:13:59Z |
 :END:
 
 Calculate [[id:dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2][Determinant]] of a matrix, $A_{n \times m}$, using Gaussian elimination

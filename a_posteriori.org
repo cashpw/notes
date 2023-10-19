@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5650a370-5c7a-4412-a38e-d9889bf23d0f
-:LAST_MODIFIED: [2023-09-21 Thu 07:18]
+:LAST_MODIFIED: [2023-10-06 Fri 00:38]
 :END:
 #+title: A posteriori
 #+hugo_custom_front_matter: :slug "5650a370-5c7a-4412-a38e-d9889bf23d0f"
@@ -67,7 +67,7 @@ Knowledge which depends on empirical evidence.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   265.14 | 2024-05-26T16:54:26Z |
-| back     | 1.45 |   5 |    11.73 | 2023-10-03T07:43:37Z |
+| back     | 1.60 |   6 |    17.18 | 2023-10-23T12:00:53Z |
 :END:
 
 [[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]]

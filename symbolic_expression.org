@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       976fb83d-ae8c-427d-b47e-f0089b4d9ce1
 :ROAM_ALIASES: "Symbolic expressions" S-expression Sexp
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-09 Mon 23:50]
 :END:
 #+title: Symbolic expression
 #+hugo_custom_front_matter: :slug "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
@@ -29,10 +29,6 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** AKA ([[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]) :fc:
 :PROPERTIES:
 :ID:       e94de5ac-89b3-4a09-8776-68c11eeb01e8
@@ -68,7 +64,7 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   7 |   181.31 | 2023-10-09T23:43:07Z |
+| back     | 2.35 |   8 |   432.40 | 2024-12-15T16:25:21Z |
 | front    | 2.20 |   8 |   526.38 | 2025-02-12T03:12:57Z |
 :END:
 

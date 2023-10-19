@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       246566c2-5b4b-479a-9e1d-522fd85903d9
 :ROAM_ALIASES: "Speak past your opponent"
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-26 Tue 08:48]
 :END:
 #+title: Speak directly to the audience
 #+hugo_custom_front_matter: :slug "246566c2-5b4b-479a-9e1d-522fd85903d9"
@@ -22,7 +22,7 @@ Consider a public argument between two individuals. There are three participants
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   518.09 | 2024-12-07T17:15:59Z |
-| back     | 2.50 |   7 |   229.65 | 2023-09-26T10:24:27Z |
+| back     | 2.50 |   8 |   606.20 | 2025-05-24T20:37:59Z |
 :END:
 [[id:246566c2-5b4b-479a-9e1d-522fd85903d9][Speak directly to the audience]]
 *** Back

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f5abcf4-ac0d-40d7-a62b-62daeac65485
 :ROAM_ALIASES: "First principle"
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-06 Fri 00:30]
 :END:
 #+title: First principles
 #+hugo_custom_front_matter: :slug "0f5abcf4-ac0d-40d7-a62b-62daeac65485"
@@ -28,7 +28,7 @@ A first principle is a basic proposition or assumption that cannot be deduced fr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   245.68 | 2023-10-04T06:27:22Z |
+| back     | 2.50 |   8 |   592.54 | 2025-05-20T20:24:25Z |
 | front    | 2.80 |   8 |   660.81 | 2025-06-20T10:33:43Z |
 :END:
 

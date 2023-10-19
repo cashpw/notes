@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       146ab42b-21a9-4d5a-85fe-2eba12347ca5
-:LAST_MODIFIED: [2023-09-21 Thu 07:14]
+:LAST_MODIFIED: [2023-10-12 Thu 23:52]
 :END:
 #+title: Relational tacit knowledge
 #+hugo_custom_front_matter: :slug "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
@@ -55,7 +55,7 @@ Collins appears to enjoy using the laser example and the sapphire example becaus
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   3 |     6.00 | 2023-09-23T23:02:15Z |
+|        0 | 2.50 |   5 |    40.37 | 2023-11-21T06:12:10Z |
 :END:
 
 In principle, one could make all {{[[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]]}@0} into [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]].
@@ -72,8 +72,8 @@ In principle, one could make all {{[[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Re
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   3 |     6.00 | 2023-09-27T14:14:22Z |
-| back     | 2.50 |   1 |     1.00 | 2023-09-20T23:59:05Z |
+| front    | 2.20 |   5 |    31.80 | 2023-11-14T02:05:43Z |
+| back     | 2.50 |   4 |    14.00 | 2023-10-20T07:41:15Z |
 :END:
 
 [[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Relational tacit knowledge]]

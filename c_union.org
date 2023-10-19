@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6f967c9a-b981-43f8-86cb-0f096639bdfb
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-02 Mon 23:23]
 :END:
 #+title: C++ union
 #+hugo_custom_front_matter: :slug "6f967c9a-b981-43f8-86cb-0f096639bdfb"
@@ -47,7 +47,7 @@ A [[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]] which allocates all me
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   6 |   100.51 | 2023-10-28T01:53:19Z |
-|        1 | 2.50 |   6 |    74.49 | 2023-10-03T03:03:47Z |
+|        1 | 2.50 |   7 |   201.38 | 2024-04-21T15:33:36Z |
 :END:
 
 The size of a {{[[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]}@0} is {{the size of its largest member}@1}.

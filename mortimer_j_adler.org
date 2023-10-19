@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       575a40fb-8d8e-4946-8f21-c3dcaafbfcc3
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-28 Thu 21:19]
 :END:
 #+title: Mortimer J Adler
 #+hugo_custom_front_matter: :slug "575a40fb-8d8e-4946-8f21-c3dcaafbfcc3"
@@ -18,7 +18,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   286.30 | 2023-09-29T00:56:33Z |
+| front    | 2.65 |   9 |   736.70 | 2025-10-04T21:00:54Z |
 :END:
 
 [[id:575a40fb-8d8e-4946-8f21-c3dcaafbfcc3][Mortimer J Adler]]

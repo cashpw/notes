@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-09-12 Tue 05:34]
+:LAST_MODIFIED: [2023-10-17 Tue 01:07]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -102,7 +102,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.80 |   7 |   253.36 | 2023-09-26T00:58:17Z |
+|        1 | 2.80 |   8 |   745.08 | 2025-10-10T17:43:54Z |
 |        0 | 2.80 |   8 |   479.43 | 2024-11-14T14:15:13Z |
 :END:
 
@@ -160,7 +160,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   440.57 | 2024-08-30T03:48:02Z |
-| back     | 1.90 |   4 |    10.41 | 2023-09-22T22:30:24Z |
+| back     | 1.90 |   6 |    36.78 | 2023-11-23T02:49:13Z |
 :END:
 
 [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]]

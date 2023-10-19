@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       55b432cc-354d-406f-aa49-cb7a50c8d5a2
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-09 Mon 23:42]
 :END:
 #+title: Big-Theta notation
 #+hugo_custom_front_matter: :slug "55b432cc-354d-406f-aa49-cb7a50c8d5a2"
@@ -54,7 +54,7 @@ The set of functions which have a specific upper and lower bound (tight bound).
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   253.74 | 2023-09-28T08:05:33Z |
+|        0 | 2.20 |   4 |    12.72 | 2023-10-23T00:03:55Z |
 |        1 | 2.50 |   7 |   343.97 | 2024-02-15T17:46:31Z |
 :END:
 
@@ -76,7 +76,7 @@ The set of functions which have a specific upper and lower bound (tight bound).
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   349.77 | 2024-02-11T10:43:50Z |
-|        1 | 2.80 |   7 |   248.10 | 2023-10-03T19:12:47Z |
+|        1 | 2.80 |   8 |   695.43 | 2025-08-31T18:02:43Z |
 :END:
 
 - {{$\Theta(n)$}@0}

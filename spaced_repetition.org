@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-10-09 Mon 23:46]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -20,9 +20,9 @@ The basis for spaced repetition research was laid by Hermann Ebbinghaus, who sug
 [cite:@SpacedRepetition2022]
 #+end_quote
 
-Also see [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]].
+Also see [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]] and [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]].
 
-Spaced repetition is how I bring intention to memory. I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful, process.
+Spaced repetition is how I bring intention to memory: I remember the things I choose to remember, rather than only the things I happen to remember. It aids in making learning and memory conscious, effortful, process.
 
 Note [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowing the name of something and knowing something]]. Spaced repetition is capable of aiding both remembering names and deeper understanding. However, the two require different approaches:
 
@@ -50,7 +50,7 @@ As far as I can tell, from my own experience and reading what others have writte
    #+begin_quote
 Of course, [cramming] is precisely what students do. They cram the night before the test, and a month later can't remember anything. So why do people do it? (I'm not innocent myself.) Why is spaced repetition so dreadfully unpopular, even among the people who try it once?⁠
 
-Because it does work. Sort of. Cramming is a trade-off: you trade a strong memory now for weak memory later. (Very weak⁠12⁠.) And tests are usually of all the new material, with occasional old questions, so this strategy pays off! [...]
+Because it does work. Sort of. Cramming is a trade-off: you trade a strong memory now for weak memory later. (Very weak⁠⁠.) And tests are usually of all the new material, with occasional old questions, so this strategy pays off! [...]
 
 [cite:@branwenSpacedRepetitionEfficientLearning2009]
    #+end_quote
@@ -65,7 +65,7 @@ One reason this can be frustrating is you'll often remember a flashcard for the 
 
 4. Spaced repetition is a form of delayed gratification
 
-5. "For spaced repetition to be useful, it has to be a habit" [cite:@borrettiEffectiveSpacedRepetition2023] and it's often a difficult habit to form
+5. "For spaced repetition to be useful, it has to be a habit" [cite:@borrettiEffectiveSpacedRepetition2023] and it's a difficult habit to form
 
 * TODO [#3] On writing cards
 

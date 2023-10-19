@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@tellmanThoughtLeadersChickenSexers]
 :ID:       89af4069-9f38-4f2b-bdb4-491c2ae85a9c
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-10-02 Mon 23:10]
 :END:
 #+title: Zach Tellman | Thought Leaders and Chicken Sexers
 #+hugo_custom_front_matter: :slug "89af4069-9f38-4f2b-bdb4-491c2ae85a9c"
@@ -53,9 +53,6 @@ This is all to say that Paul Graham is an effective marketer and practitioner, b
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Compare and contrast :fc:
 :PROPERTIES:
 :CREATED: [2022-11-12 Sat 08:44]
@@ -66,7 +63,7 @@ This is all to say that Paul Graham is an effective marketer and practitioner, b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   150.93 | 2023-10-01T20:09:55Z |
+| front    | 2.05 |   8 |   335.73 | 2024-09-02T23:34:56Z |
 :END:
 
 Thought leaders and chicken sexers ([[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]])

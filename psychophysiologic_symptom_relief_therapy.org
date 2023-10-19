@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e0a2cbe3-df33-431b-8740-c6455681414c
 :ROAM_ALIASES: PSRT
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-16 Mon 00:23]
 :END:
 #+title: Psychophysiologic symptom relief therapy
 #+hugo_custom_front_matter: :slug "e0a2cbe3-df33-431b-8740-c6455681414c"
@@ -12,9 +12,6 @@
 Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief first^{?} detailed in [[id:38bba771-d7e5-467f-80bb-ebd79faf793c][Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial]]. It focuses on the pain relationship between the psychological and the physical and incorporates [[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]].
 
 * Flashcardsr
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** [[id:e0a2cbe3-df33-431b-8740-c6455681414c][PSRT]] stands for {{[[id:e0a2cbe3-df33-431b-8740-c6455681414c][Psychophysiologic symptom relief therapy]]}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-10-28 Fri 13:46]
@@ -27,7 +24,7 @@ Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief fir
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |   150.01 | 2023-10-06T16:47:04Z |
+|        0 | 1.75 |   3 |     6.00 | 2023-10-22T07:23:31Z |
 :END:
 
 *** Source

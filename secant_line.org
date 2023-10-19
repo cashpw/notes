@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1a0a03b-2d39-4119-bbec-e32ed8e6852e
-:LAST_MODIFIED: [2023-09-19 Tue 16:58]
+:LAST_MODIFIED: [2023-10-09 Mon 23:59]
 :ROAM_REFS: [cite:@SecantLine2022]
 :END:
 #+title: Secant line
@@ -34,8 +34,8 @@ The tangent line at point P is a secant line of the curve.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    40.57 | 2023-10-03T06:19:09Z |
-| back     | 2.50 |   2 |     2.00 | 2023-09-21T23:58:41Z |
+| front    | 2.65 |   6 |   117.27 | 2024-01-31T13:55:35Z |
+| back     | 2.50 |   4 |    15.27 | 2023-10-25T13:26:17Z |
 :END:
 
 [[id:a1a0a03b-2d39-4119-bbec-e32ed8e6852e][Secant line]]
@@ -54,15 +54,14 @@ A line which intersects a curve at a minimum of two distinct points.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   148.59 | 2023-10-02T08:05:40Z |
-| back     | 2.65 |   6 |   134.99 | 2023-09-21T16:33:54Z |
+| front    | 2.65 |   7 |   373.39 | 2024-10-10T15:38:03Z |
+| back     | 2.65 |   7 |   391.50 | 2024-10-22T03:36:00Z |
 :END:
 
 [[id:a1a0a03b-2d39-4119-bbec-e32ed8e6852e][Secant line]]
 
 *** Back
 #+begin_quote
-#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Secanttangent.svg/1280px-Secanttangent.svg.png @ 2023-01-27 16:29:33
 [[file:2023-01-27_16-29-33_1280px-Secanttangent.svg.png]]
 #+end_quote
 *** Source

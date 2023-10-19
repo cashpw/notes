@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0b177377-113b-43c9-83aa-319703d38fb8
-:LAST_MODIFIED: [2023-09-17 Sun 16:17]
+:LAST_MODIFIED: [2023-10-02 Mon 23:23]
 :ROAM_REFS: [cite:@VisionaryArchitecture2023]
 :END:
 #+title: Visionary architecture
@@ -26,8 +26,8 @@ Visionary architecture is a design that only exists on paper or displays idealis
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    32.08 | 2023-09-24T18:35:26Z |
-| back     | 2.20 |   4 |    11.89 | 2023-09-29T20:32:38Z |
+| front    | 2.35 |   6 |    75.60 | 2023-12-10T03:39:14Z |
+| back     | 2.20 |   5 |    24.99 | 2023-10-28T06:05:40Z |
 :END:
 
 [[id:0b177377-113b-43c9-83aa-319703d38fb8][Visionary architecture]]

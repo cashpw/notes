@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2e9a36f6-43e0-4f9a-af7e-64a4ef069a19
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-12 Thu 23:53]
 :END:
 #+title: Power politics
 #+hugo_custom_front_matter: :slug "2e9a36f6-43e0-4f9a-af7e-64a4ef069a19"
@@ -19,9 +19,6 @@ The concept of power politics provides a way of understanding systems of interna
 A [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]] view of international relations.
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       85d1ca54-4af1-4aef-b4d9-0cbbd2076f94
@@ -51,12 +48,16 @@ A way of understanding international relations which focuses on power dynamics -
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.60 |  10 |   253.69 | 2023-09-29T07:46:36Z |
+| back     | 2.30 |   4 |    14.98 | 2023-10-28T06:30:20Z |
 | front    | 2.35 |   8 |   537.36 | 2025-01-15T23:52:57Z |
 :END:
+
 [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]]
+
 *** Back
+
 A theory of international relations which contends that distributions of power and changes to those distributions are the fundamental causes of war and of system stability.
+
 *** Source
 [cite:@PowerPolitics2022]
 #+print_bibliography:

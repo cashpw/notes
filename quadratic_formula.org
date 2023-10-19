@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9d646383-d4a9-4f9d-ab12-74d45b82d58a
 :ROAM_REFS: [cite:@QuadraticFormula2023]
-:LAST_MODIFIED: [2023-09-12 Tue 05:27]
+:LAST_MODIFIED: [2023-10-10 Tue 00:00]
 :END:
 #+title: Quadratic formula
 #+hugo_custom_front_matter: :slug "9d646383-d4a9-4f9d-ab12-74d45b82d58a"
@@ -38,7 +38,7 @@ $\displaystyle x_{1}={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}}\quad {\text{or}}\quad 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   5 |     9.92 | 2023-09-22T10:28:49Z |
+| front    | 1.30 |   7 |    13.90 | 2023-10-24T04:39:23Z |
 | back     | 2.80 |   7 |   360.23 | 2024-09-02T21:50:32Z |
 :END:
 

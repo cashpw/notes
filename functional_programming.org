@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f690a8ad-4069-4e96-a707-2a57f638c493
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-16 Mon 00:28]
 :ROAM_REFS: [cite:@FunctionalProgramming2023]
 :END:
 #+title: Functional programming
@@ -53,7 +53,7 @@ Functional programming has its roots in academia, evolving from the lambda calcu
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    75.44 | 2023-10-07T14:35:12Z |
+|        0 | 2.65 |   7 |   189.79 | 2024-04-17T01:42:00Z |
 |        1 | 2.35 |   6 |    81.61 | 2023-10-25T05:55:12Z |
 :END:
 
@@ -71,7 +71,7 @@ Functional programming has its roots in academia, evolving from the lambda calcu
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    88.19 | 2023-10-12T18:30:42Z |
+| front    | 2.35 |   7 |   216.59 | 2024-05-16T21:08:50Z |
 | back     | 2.35 |   6 |   104.59 | 2023-12-08T05:25:25Z |
 :END:
 
@@ -93,8 +93,8 @@ A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] which models
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |    87.91 | 2023-10-13T11:44:28Z |
-|        1 | 2.20 |   6 |    68.21 | 2023-10-02T20:15:58Z |
+|        0 | 2.65 |   7 |   216.85 | 2024-05-20T03:48:59Z |
+|        1 | 2.20 |   7 |   147.66 | 2024-02-27T22:05:51Z |
 :END:
 
 The fundamental operation in {{[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]}@0} is {{a reduction}@1}.

@@ -2,7 +2,7 @@
 :ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
 :ROAM_ALIASES: "Scalar product"
 :ROAM_REFS: [cite:@DotProduct2022]
-:LAST_MODIFIED: [2023-09-21 Thu 07:20]
+:LAST_MODIFIED: [2023-10-09 Mon 23:53]
 :END:
 #+title: Dot product
 #+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
@@ -91,7 +91,7 @@ $\vec{a} \cdot \vec{b} = \|a\|\|b\|\cos \theta$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   318.27 | 2024-07-10T20:04:03Z |
-| back     | 2.50 |   8 |   245.82 | 2023-09-29T10:00:39Z |
+| back     | 2.65 |   9 |   627.89 | 2025-06-19T05:10:28Z |
 :END:
 
 [[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]
@@ -142,7 +142,7 @@ It defines:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   3 |     6.00 | 2023-09-27T14:20:27Z |
+|        0 | 1.75 |   5 |    16.42 | 2023-10-26T17:00:32Z |
 |        1 | 2.35 |   6 |    90.53 | 2023-10-28T03:39:04Z |
 :END:
 

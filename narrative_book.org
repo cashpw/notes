@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-02 Mon 23:15]
 :END:
 #+title: Narrative book
 #+hugo_custom_front_matter: :slug "4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8"
@@ -19,10 +19,6 @@ Narrative books are books that tell a story. Examples include biographies, memoi
 Related: [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]], [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Definition ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:
 :PROPERTIES:
 :ID:       04490ecf-fba8-4c1f-b072-efe4b3b94f12
@@ -57,7 +53,7 @@ Examples: biographies, fiction, memoirs, histories
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   8 |   263.86 | 2023-10-02T11:21:28Z |
+| front    | 2.65 |   9 |   650.97 | 2025-07-15T05:26:32Z |
 | back     | 2.65 |   8 |   507.78 | 2024-12-29T19:32:10Z |
 :END:
 [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]

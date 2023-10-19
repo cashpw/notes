@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10a23a67-c60d-4591-8bb2-e87ca50b0e94
-:LAST_MODIFIED: [2023-09-22 Fri 08:41]
+:LAST_MODIFIED: [2023-10-17 Tue 01:14]
 :END:
 #+title: Sensemaking
 #+hugo_custom_front_matter: :slug "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
@@ -43,8 +43,8 @@ Weick identified seven properties of sensemaking [cite:@weickSensemakingOrganiza
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-09-22T15:41:49Z |
-| back     |  2.5 |  -1 |        0 | 2023-09-29T15:41:49Z |
+| front    | 2.50 |   4 |    14.92 | 2023-10-21T05:37:28Z |
+| back     | 2.50 |   4 |    14.60 | 2023-10-31T22:37:32Z |
 :END:
 
 [[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]

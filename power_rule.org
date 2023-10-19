@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       622f9a3c-b4a2-400e-9ee3-434efaa1f0c2
 :ROAM_REFS: [cite:@PowerRule2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-10-16 Mon 00:23]
 :END:
 #+title: Power rule
 #+hugo_custom_front_matter: :slug "622f9a3c-b4a2-400e-9ee3-434efaa1f0c2"
@@ -37,7 +37,7 @@ for any real number $r \neq -1$. It can be derived by inverting the power rule f
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   288.55 | 2024-05-06T17:02:05Z |
-| back     | 2.80 |   6 |   139.73 | 2023-09-26T10:13:50Z |
+| back     | 2.80 |   7 |   428.73 | 2024-11-28T09:00:13Z |
 :END:
 
 [[id:622f9a3c-b4a2-400e-9ee3-434efaa1f0c2][Power rule]] for [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]
@@ -82,8 +82,8 @@ $\frac{dy}{dx}=$ {{$-4x^{-5}$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    92.81 | 2023-10-06T23:35:16Z |
-| back     | 2.80 |   6 |   135.29 | 2023-09-22T23:00:37Z |
+| front    | 2.05 |   3 |     6.00 | 2023-10-22T07:23:47Z |
+| back     | 2.80 |   7 |   404.18 | 2024-11-02T17:39:03Z |
 :END:
 
 [[id:622f9a3c-b4a2-400e-9ee3-434efaa1f0c2][Power rule]] for [[id:61de6a28-e681-45bd-a086-fff5b924354e][Integration]]

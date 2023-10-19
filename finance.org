@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-09-17 Sun 16:04]
+:LAST_MODIFIED: [2023-10-09 Mon 23:56]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -37,7 +37,7 @@ A period of generally rising prices in a market.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   6 |    40.44 | 2023-10-07T23:28:14Z |
+| back     | 1.75 |   7 |    69.50 | 2023-12-18T19:00:05Z |
 | front    | 2.30 |   7 |   240.07 | 2024-04-06T16:13:35Z |
 :END:
 
@@ -74,7 +74,7 @@ An investment plan wherein money is contributed to an investment vehicle by an i
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |  11 |   354.38 | 2024-01-06T11:04:28Z |
-| front    | 1.90 |   5 |    21.31 | 2023-10-02T20:06:49Z |
+| front    | 1.90 |   6 |    38.60 | 2023-11-10T20:34:36Z |
 :END:
 
 Earnings per share
@@ -133,7 +133,7 @@ Refers to instances where a taxpayer can delay paying taxes to some future perio
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   250.41 | 2023-09-24T11:58:23Z |
+| back     | 2.20 |   4 |    13.06 | 2023-10-19T08:58:45Z |
 | front    | 2.65 |  11 |   370.90 | 2024-03-16T02:52:13Z |
 :END:
 

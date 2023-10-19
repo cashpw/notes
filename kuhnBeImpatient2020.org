@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kuhnBeImpatient2020]
 :ID:       2149d460-f6e0-4696-b34d-c2cc2228d8db
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-26 Tue 08:34]
 :END:
 #+title: Ben Kuhn | Be Impatient
 #+hugo_custom_front_matter: :slug "2149d460-f6e0-4696-b34d-c2cc2228d8db"
@@ -35,11 +35,6 @@ In other words, the main benefit of being fast is that you end up doing differen
 That means that moving quickly is an advantage that compounds. Being twice as fast doesn't just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-
 ** ([[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]]) {{Effectiveness}@0} is correlated with {{impatience}@1} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:48]
@@ -68,7 +63,7 @@ That means that moving quickly is an advantage that compounds. Being twice as fa
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   161.25 | 2023-09-25T23:22:09Z |
+| front    | 2.20 |   8 |   363.13 | 2024-09-23T18:36:50Z |
 | back     | 2.50 |   7 |   235.34 | 2024-01-15T22:29:14Z |
 :END:
 

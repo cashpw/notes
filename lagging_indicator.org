@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c112d0b0-ceef-4a41-9dc8-013a31bd1f49
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c112d0b0-ceef-4a41-9dc8-013a31bd1f49
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-16 Mon 00:25]
 :END:
 #+title: Lagging indicator
 #+hugo_custom_front_matter: :slug "c112d0b0-ceef-4a41-9dc8-013a31bd1f49"
@@ -16,9 +16,6 @@ Lagging indicators are indicators that usually change after [a thing] as a whole
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 08:49]
@@ -30,7 +27,7 @@ Lagging indicators are indicators that usually change after [a thing] as a whole
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   230.56 | 2023-12-27T05:32:07Z |
-| back     | 2.50 |   6 |    85.58 | 2023-10-14T05:12:21Z |
+| back     | 2.50 |   7 |   224.72 | 2024-05-28T00:39:35Z |
 :END:
 
 [[id:c112d0b0-ceef-4a41-9dc8-013a31bd1f49][Lagging indicator]]

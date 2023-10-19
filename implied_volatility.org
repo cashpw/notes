@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7b2744d7-c760-474b-97ef-120da8b4220f
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-09-26 Tue 08:35]
 :END:
 #+title: Implied volatility
 #+hugo_custom_front_matter: :slug "7b2744d7-c760-474b-97ef-120da8b4220f"
@@ -22,7 +22,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   124.34 | 2023-09-26T04:41:29Z |
+|        0 | 2.20 |   8 |   264.19 | 2024-06-16T20:03:39Z |
 :END:
 
 *** Source

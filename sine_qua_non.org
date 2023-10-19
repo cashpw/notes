@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d216377f-00fe-45d5-8ed3-e3bef88eae70
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-02 Mon 23:18]
 :ROAM_REFS: [cite:@SineQuaNon2023]
 :END:
 #+title: Sine qua non
@@ -26,7 +26,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |  10 |    38.02 | 2023-10-02T15:28:09Z |
+|        0 | 1.30 |  11 |    47.49 | 2023-11-19T18:01:56Z |
 |        1 | 2.65 |   7 |   301.81 | 2024-07-02T12:15:40Z |
 :END:
 

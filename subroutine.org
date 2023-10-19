@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3823c17c-f4f2-454e-ad97-52de55d239e9
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-11 Wed 14:18]
 :ROAM_REFS: [cite:@FunctionComputerProgramming2023]
 :END:
 #+title: Subroutine
@@ -26,7 +26,7 @@ In computer programming, a function or subroutine is a sequence of program instr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   119.82 | 2023-10-10T19:50:26Z |
+| front    | 2.50 |   7 |   318.17 | 2024-08-25T01:28:53Z |
 | back     | 2.35 |   7 |   195.31 | 2024-03-12T20:13:19Z |
 :END:
 

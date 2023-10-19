@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dfedabd5-be47-45ba-9182-f509e2f906fe
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-27 Wed 09:08]
 :ROAM_REFS: [cite:@Epigenetics2023]
 :END:
 #+title: Epigenetics
@@ -27,7 +27,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   178.86 | 2023-12-05T12:21:32Z |
-| back     | 2.80 |   6 |   149.14 | 2023-09-26T22:18:03Z |
+| back     | 2.80 |   7 |   405.18 | 2024-11-05T20:23:50Z |
 :END:
 
 (Colloquially) [[id:dfedabd5-be47-45ba-9182-f509e2f906fe][Epigenetics]]

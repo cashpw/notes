@@ -2,7 +2,7 @@
 :ID:       9975de88-d0a7-4f47-8cfc-103db9049035
 :ROAM_ALIASES: EMEA
 :ROAM_REFS: [cite:@EuropeMiddleEastAfrica2023]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-09 Mon 23:50]
 :END:
 #+title: Europe, the Middle East, and Africa
 #+hugo_custom_front_matter: :slug "9975de88-d0a7-4f47-8cfc-103db9049035"
@@ -23,7 +23,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   7 |    46.97 | 2023-10-06T15:12:11Z |
+|        0 | 1.60 |   8 |    71.43 | 2023-12-20T17:09:29Z |
 |        1 | 2.65 |   6 |   102.03 | 2023-11-10T00:48:30Z |
 :END:
 

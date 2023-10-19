@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9e0cda40-d442-4994-845a-86f051ab4803
+:ROAM_REFS: @lazarsfeldCoreComponentsCHChoosingNodeOrder
+:LAST_MODIFIED: [2023-10-18 Wed 06:43]
+:END:
+#+title: Notes on ,
+#+hugo_custom_front_matter: roam_refs '("@lazarsfeldCoreComponentsCHChoosingNodeOrder")
+#+filetags: :hastodo:
+
+
+
+#+print_bibliography:
+* TODO [#2] Flashcards

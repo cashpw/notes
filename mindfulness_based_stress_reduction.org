@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
 :ROAM_REFS: [cite:@MindfulnessbasedStressReduction2022]
 :ROAM_ALIASES: MBSR
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-10-17 Tue 01:14]
 :END:
 #+title: Mindfulness-based stress reduction
 #+hugo_custom_front_matter: :slug "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
@@ -22,9 +22,6 @@
 - Dave Potter offers a free version in his [[https://palousemindfulness.com/][Palouse Mindfulness program]].
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** [[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][MBSR]] stands for {{[[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]]}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-10-28 Fri 13:47]
@@ -52,7 +49,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   9 |    56.48 | 2023-10-16T03:25:14Z |
+| front    | 1.60 |  10 |    98.79 | 2024-01-24T03:14:30Z |
 | back     | 1.60 |   7 |    64.14 | 2023-10-30T17:07:45Z |
 :END:
 

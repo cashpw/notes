@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bfc5100c-d70d-4829-9798-7a90b5edea9b
 :ROAM_REFS: [cite:@MapTerritoryRelation2022] [cite:@farnumstreetMapNotTerritory2015]
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-17 Tue 01:14]
 :END:
 #+title: The map is not the territory
 #+hugo_custom_front_matter: :slug "bfc5100c-d70d-4829-9798-7a90b5edea9b"
@@ -20,9 +20,6 @@ A [[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]].
 Related: [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]], [[id:e6a6fbb2-d3ae-41e1-8821-3698d55507b0][All models are wrong]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       dc96940d-c144-4a20-b7bf-9e7ce0c4e516
@@ -34,7 +31,7 @@ Related: [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]],
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   360.30 | 2024-03-09T22:24:54Z |
-| back     | 2.20 |   8 |   237.80 | 2023-10-14T13:52:58Z |
+| back     | 1.90 |   2 |     2.00 | 2023-10-19T08:14:22Z |
 :END:
 [[id:bfc5100c-d70d-4829-9798-7a90b5edea9b][The map is not the territory]]
 *** Back

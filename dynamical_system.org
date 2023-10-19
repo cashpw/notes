@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       62420d13-e41f-46c0-a3b2-345fc4d8d4c1
 :ROAM_REFS: [cite:@DynamicalSystem2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-17 Tue 01:09]
 :END:
 #+title: Dynamical system
 #+hugo_custom_front_matter: :slug "62420d13-e41f-46c0-a3b2-345fc4d8d4c1"
@@ -49,7 +49,7 @@ eg: A model that describes the swinging of a clock pendulum or the flow of water
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   100.19 | 2023-10-16T19:44:45Z |
+| front    | 2.50 |   7 |   252.96 | 2024-06-26T07:09:17Z |
 :END:
 [[id:62420d13-e41f-46c0-a3b2-345fc4d8d4c1][Dynamical system]]
 *** Back

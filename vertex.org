@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1b2526af-676d-4c0f-aa85-1ba05b8e7a93
 :ROAM_ALIASES: Nodes Node Vertices
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-09-25 Mon 06:12]
 :END:
 #+title: Vertex
 #+hugo_custom_front_matter: :slug "1b2526af-676d-4c0f-aa85-1ba05b8e7a93"
@@ -50,7 +50,7 @@ The fundamental unit of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   8 |   477.64 | 2024-10-12T16:43:49Z |
-|        1 | 2.65 |   7 |   233.25 | 2023-09-22T22:48:09Z |
+|        1 | 2.65 |   8 |   560.50 | 2025-04-08T01:19:05Z |
 :END:
 - {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]]}@0}
 - {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Node]]}@1}

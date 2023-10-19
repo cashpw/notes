@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6eefa20c-dfd3-4e0c-9b75-7d95e2d9ec91
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-09 Mon 23:59]
 :ROAM_REFS: [cite:@MinimumCut2023]
 :END:
 #+title: Minimum cut (Graph theory)
@@ -29,7 +29,7 @@ Variations of the minimum cut problem consider weighted graphs, directed graphs,
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   211.60 | 2024-03-19T06:31:16Z |
-| back     | 2.80 |   6 |   131.95 | 2023-10-09T15:08:07Z |
+| back     | 2.80 |   7 |   358.80 | 2024-10-03T02:08:29Z |
 :END:
 
 [[id:6eefa20c-dfd3-4e0c-9b75-7d95e2d9ec91][Minimum cut (Graph theory)]]

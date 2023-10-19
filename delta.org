@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ef21ad22-553d-432e-a4e2-bdc404009c87
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-15 Sun 23:28]
 :END:
 #+title: Delta (finance)
 #+hugo_custom_front_matter: :slug "ef21ad22-553d-432e-a4e2-bdc404009c87"
@@ -64,7 +64,7 @@ $\dots = \frac{\partial V}{\partial S}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.80 |   7 |   402.58 | 2024-08-16T05:30:11Z |
-|        0 | 2.20 |   6 |    74.96 | 2023-10-15T00:29:58Z |
+|        0 | 2.20 |   7 |   149.83 | 2024-03-14T02:18:01Z |
 :END:
 
 *** Source
@@ -100,7 +100,7 @@ $\dots = \frac{\partial V}{\partial S}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   178.44 | 2023-09-24T01:28:11Z |
+|        0 | 2.35 |   8 |   422.62 | 2024-11-21T04:01:28Z |
 :END:
 
 *** Source
@@ -118,7 +118,7 @@ $\dots = \frac{\partial V}{\partial S}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   374.06 | 2024-06-21T01:33:00Z |
-|        1 | 2.35 |   7 |   149.58 | 2023-10-07T05:48:44Z |
+|        1 | 2.35 |   8 |   342.71 | 2024-09-16T23:58:08Z |
 :END:
 
 *** Source

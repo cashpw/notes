@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       66f9b635-a07d-43c0-963b-46878ded5183
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-10-18 Wed 06:45]
 :END:
 #+title: Execution (Staff Engineer's Path)
 #+hugo_custom_front_matter: :slug "66f9b635-a07d-43c0-963b-46878ded5183"
@@ -24,7 +24,7 @@ At the staff level, the projects you take on will become messier and more ambigu
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    69.19 | 2023-10-18T05:10:31Z |
+| front    | 2.20 |   7 |   162.07 | 2024-03-28T15:33:09Z |
 | back     | 2.50 |   6 |    92.43 | 2023-11-26T01:28:56Z |
 :END:
 

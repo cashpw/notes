@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bff6cb4c-8091-4c3d-87a9-397f54218d38
 :ROAM_ALIASES: Backcast
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-18 Wed 06:45]
 :END:
 #+title: Backcasting
 #+hugo_custom_front_matter: :slug "bff6cb4c-8091-4c3d-87a9-397f54218d38"
@@ -26,7 +26,7 @@ Backcasting is a planning method that starts with defining a desirable future an
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   8 |   190.01 | 2023-12-31T13:30:44Z |
-| back     | 2.35 |   6 |    64.53 | 2023-09-23T04:00:41Z |
+| back     | 1.90 |   5 |    20.85 | 2023-11-08T10:06:27Z |
 :END:
 
 [[id:bff6cb4c-8091-4c3d-87a9-397f54218d38][Backcasting]]

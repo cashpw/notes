@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       90684bfd-668f-4559-bac8-99cbcefb4c08
 :ROAM_ALIASES: "Nothing gold can stay"
-:LAST_MODIFIED: [2023-09-21 Thu 07:21]
+:LAST_MODIFIED: [2023-10-11 Wed 14:09]
 :END:
 #+title: Robert Frost | Nothing Gold Can Stay
 #+hugo_custom_front_matter: :slug "90684bfd-668f-4559-bac8-99cbcefb4c08"
@@ -23,9 +23,6 @@ Nothing gold can stay.
 [[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]], [cite:@NothingGoldCanStayPoem2022]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** Poem :fc:
 :PROPERTIES:
@@ -38,11 +35,11 @@ Nothing gold can stay.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   182.22 | 2023-10-10T21:19:34Z |
+|        0 | 2.20 |   8 |   432.53 | 2024-12-17T09:46:47Z |
 |        1 | 2.20 |   8 |   226.76 | 2024-03-03T09:30:17Z |
 |        2 | 2.35 |   7 |   208.90 | 2023-12-30T02:01:27Z |
 |        3 | 2.80 |   7 |   383.17 | 2024-08-27T04:49:40Z |
-|        4 | 2.05 |   7 |   136.40 | 2023-09-28T00:28:06Z |
+|        4 | 1.90 |   8 |   256.07 | 2024-06-11T06:00:18Z |
 |        5 | 2.20 |   7 |   150.13 | 2023-10-30T04:38:55Z |
 |        6 | 1.90 |   8 |   211.08 | 2024-04-18T01:45:26Z |
 |        7 | 2.50 |   7 |   223.74 | 2024-01-28T08:19:25Z |
@@ -71,7 +68,7 @@ Nothing gold can stay.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-09-22T14:21:51Z |
+| front    | 2.50 |   4 |    16.29 | 2023-10-22T14:34:55Z |
 :END:
 
 [[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing gold can stay]]

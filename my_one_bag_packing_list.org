@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       545708ae-0765-4454-bb7b-11da616f0711
-:LAST_MODIFIED: [2023-09-08 Fri 07:54]
+:LAST_MODIFIED: [2023-10-18 Wed 13:43]
 :END:
 #+title: My one-bag packing list
 #+hugo_custom_front_matter: :slug "545708ae-0765-4454-bb7b-11da616f0711"
@@ -27,51 +27,62 @@ This is my current [[id:b2910eeb-51c9-44da-99fa-b852ef70e7e6][One-bag travel]] p
    Example: A [[amazon:B009VU2TQI][gaiter]] serves as a [[file:2023-08-20_08-46-26_71DjeJf2umS._AC_UX679_.jpg][scarf, face covering, headband, balaclava, sleep mask, and more!]]
 
 * TODO [#2] Clothing
-
 ** Tops
 
-- Two [[id:2e82b9c2-6553-4ca0-ab8d-cef9153d5ecc][Wool and Prince 210gsm button-down shirt]] (Burgandy and Blue Oxford)
-  I had to get the arms tailored as they didn't fit off the rack ($25 per shirt).
-- Two cotton blend t-shirts from Goodwill (Black)
-- Jacket/windbreaker from Goodwill (Black)
+- 2x [[id:2e82b9c2-6553-4ca0-ab8d-cef9153d5ecc][Wool and Prince 210gsm button-down shirt]] (Burgandy and Blue Oxford)
+- Cotton blend t-shirt (Black)
+- Jacket/windbreaker (Black)
 
 ** Bottoms
 
-- Two [[https://www.costco.com/greg-norman-men%E2%80%99s-5-pocket-travel-pant-.product.100645822.html][Greg Norman Men's 5 Pocket Travel Pants]] (Navy and Beige)
+- 2x [[https://www.costco.com/greg-norman-men%E2%80%99s-5-pocket-travel-pant-.product.100645822.html][Greg Norman Men's 5 Pocket Travel Pants]] (Navy and Beige)
 - New balance 5-inch inseam running shorts (Black)
-
   Dual-purpose: Exercise and swim
 
 ** Accessories
 
 - [[amazon:B009VU2TQI][Lightweight merino wool Buff]]
-- [[amazon:B006WWFWLM][Sunday Afternoons Sun Tripper Cap]]: Folds down and is UPF 50+
-- Brown [[https://www.narragansettleathers.com/][Narragansett Leathers]] belt
+- [[amazon:B005BFZ67G][Sunday Afternoons Havana hat]] (Cream)
+
+  Folds down and is UPF 50+
+- [[https://www.narragansettleathers.com/][Narragansett Leathers]] belt (Brown to match boots)
 
 ** Footwear
-
-*** Shoes
-
-*** Socks
+- Boot: [[https://www.grantstoneshoes.com/products/edward-boot-waxed-tobacco][Grant Stone Edward Boot]] (Brown; Waxed Tobacco)
+- Sandal:[[amazon:B09T2FV8LV][Xero Shoes Z-Trek II]] (Brown)
+- 3x [[amazon:B093C8FLHH][Darn Tough (Style 1466) sock]] (Black)
 
 ** Underwear
+
+- 5x briefs
+
+* Storage
+
+- Backpack: [[https://chromeindustries.com/products/bravo-3-0-backpack][Chrome Industries Bravo v3]]
+- 5x cloth zip-up bags
+-
+
+* Toiletries
+
+* Medication
+* Technology
+
+- Laptop: Essential for how I [[id:dc6d6e17-e4d3-4390-b988-8e09d451e9b0][read]] ([[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][example]]), [[id:4be26817-4ffd-4975-97aa-deda536235a5][study]], and [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][write these notes]]
+- Adapter: [[amazon:B09P13D2H1][MINIX Multi-USB]]
+  Can charge everything I bring with at once and I can plug it in everywhere[fn:1] I go
+- Cables
+  - 2x [[amazon:B08PVPTNZL][USB-C to USB-C cables]]
+  - USB-A to USB-micro-B cable
+  - Watch charging cable
+- External USB batteries: 2x [[amazon:B01CU1EC6Y][Anker PowerCore 5000]]
+- [[amazon:B0BDSGHVMW][Google Pixel Watch]]
 
 * TODO [#2] Food
 
 - Protein [[https://us.myprotein.com/sports-nutrition/pea-protein-isolate/10852589.html][powder]] and [[https://us.misfits.health/collections/protein-bars][bars]] to total 200g protein per day: It's difficult to source sufficient macro-aligned vegan protein while travelling.
 - Protein shaker
-* TODO [#2] Toiletries
-* TODO [#2] Storage / Backpack
-* TODO [#2] Medication
 * TODO [#2] Sleep
 * TODO [#2] Documentation
-* TODO [#2] Technology
-- Laptop: Essential for how I [[id:dc6d6e17-e4d3-4390-b988-8e09d451e9b0][read]] ([[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][example]]), [[id:4be26817-4ffd-4975-97aa-deda536235a5][study]], and [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][write these notes]]
-- [[amazon:B09P13D2H1][MINIX Multi-USB travel adapter]]: Can charge everything I bring with at once and I can plug it in everywhere[fn:1] I go
-- Two [[amazon:B08PVPTNZL][USB-C to USB-C cables]]
-- Two [[amazon:B01CU1EC6Y][Anker PowerCore 5000]]
-- USB-A to USB-micro-B cable
-- [[amazon:B0BDSGHVMW][Google Pixel Watch]] and USB-C charging cable
 
 * TODO [#2] Exercise
 

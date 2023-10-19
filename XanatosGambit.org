@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@XanatosGambit]
 :ID:       8710324a-ceda-4590-86ee-ad11c3eb36b9
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-30 Sat 01:00]
 :END:
 #+title: Xanatos gambit
 #+hugo_custom_front_matter: :slug "8710324a-ceda-4590-86ee-ad11c3eb36b9"
@@ -28,7 +28,7 @@ A Xanatos Gambit is a plan for which all foreseeable outcomes benefit the creato
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   241.76 | 2024-01-05T11:31:00Z |
-| back     | 2.20 |   7 |   151.63 | 2023-09-29T09:54:41Z |
+| back     | 2.05 |   8 |   294.62 | 2024-07-20T22:47:01Z |
 :END:
 
 [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][Xanatos gambit]]

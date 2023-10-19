@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       75f5bb46-04f2-4fdd-ae12-db9607773b98
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-06 Fri 00:28]
 :ROAM_REFS: [cite:@FeynmanKnowingAnecdote]
 :END:
 #+title: The difference between knowing the name of something and knowing something
@@ -28,7 +28,7 @@ My father taught me to notice things. One day, I was playing with an "express wa
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    84.99 | 2023-10-04T12:53:44Z |
+| front    | 2.50 |   7 |   212.43 | 2024-05-05T17:52:02Z |
 | back     | 2.50 |   6 |    94.72 | 2023-10-26T21:16:02Z |
 :END:
 

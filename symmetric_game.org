@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       50751f5a-e3b9-48cb-9745-26b79a3d3fe9
 :ROAM_REFS: [cite:@SymmetricGame2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-06 Fri 00:36]
 :END:
 #+title: Symmetric game
 #+hugo_custom_front_matter: :slug "50751f5a-e3b9-48cb-9745-26b79a3d3fe9"
@@ -38,7 +38,7 @@ A 2x2 game is [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][symmetric]] if and only
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   315.25 | 2024-03-18T23:16:51Z |
-| back     | 1.90 |   7 |    65.55 | 2023-10-04T13:05:59Z |
+| back     | 1.90 |   8 |   112.65 | 2024-01-26T23:11:44Z |
 :END:
 
 [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][Symmetric game]]

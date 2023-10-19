@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       458de7df-08ff-40dc-9a7b-18f2d14520ee
 :ROAM_ALIASES: "I must not fear"
-:LAST_MODIFIED: [2023-09-11 Mon 05:42]
+:LAST_MODIFIED: [2023-10-18 Wed 06:44]
 :END:
 #+title: Litany against fear
 #+hugo_custom_front_matter: :slug "458de7df-08ff-40dc-9a7b-18f2d14520ee"
@@ -23,10 +23,6 @@ Only I will remain.
 Bene Gesserit, [cite:@herbertDune1999]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Poem :fc:
 :PROPERTIES:
 :ANKI_NOTE_ID: 1658344407760
@@ -41,12 +37,12 @@ Bene Gesserit, [cite:@herbertDune1999]
 |----------+------+-----+----------+----------------------|
 |        0 | 3.25 |   7 |   457.68 | 2024-09-03T20:39:12Z |
 |        1 | 3.10 |   7 |   441.46 | 2024-08-30T00:29:22Z |
-|        2 | 2.35 |   7 |   171.50 | 2023-10-17T10:43:21Z |
+|        2 | 2.20 |   8 |   396.83 | 2024-11-18T09:35:02Z |
 |        3 | 2.35 |   7 |   200.98 | 2023-11-26T16:15:52Z |
 |        4 | 2.80 |   7 |   362.58 | 2024-07-16T03:32:19Z |
 |        5 | 2.35 |   7 |   165.36 | 2023-11-02T21:49:32Z |
 |        6 | 2.80 |   7 |   318.17 | 2024-06-08T19:08:03Z |
-|        7 | 3.10 |   6 |   178.60 | 2023-10-09T03:47:16Z |
+|        7 | 3.25 |   7 |   594.34 | 2025-05-26T15:15:01Z |
 :END:
 
 [[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]
@@ -74,7 +70,7 @@ Bene Gesserit, [cite:@herbertDune1999]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   4 |    15.01 | 2023-09-26T12:56:32Z |
+| front    | 2.50 |   5 |    37.20 | 2023-11-02T20:12:14Z |
 :END:
 
 [[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]

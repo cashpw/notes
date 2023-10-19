@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d37ecd9a-ade3-44f3-add3-5a124aad3fb2
 :ROAM_REFS: [cite:@DifferentiationRules2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-10-09 Mon 23:50]
 :END:
 #+title: Constant term rule
 #+hugo_custom_front_matter: :slug "d37ecd9a-ade3-44f3-add3-5a124aad3fb2"
@@ -29,7 +29,7 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   191.52 | 2024-01-06T05:35:40Z |
-| back     | 2.80 |   6 |   137.46 | 2023-09-25T03:01:08Z |
+| back     | 2.80 |   7 |   398.69 | 2024-10-28T06:05:12Z |
 :END:
 
 [[id:d37ecd9a-ade3-44f3-add3-5a124aad3fb2][Constant term rule]]
@@ -55,7 +55,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   157.69 | 2023-10-06T15:42:01Z |
+|        0 | 2.95 |   7 |   487.71 | 2025-02-08T23:46:55Z |
 :END:
 
 $f(x) &= c$

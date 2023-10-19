@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       326df302-a17b-4f2c-8bcd-027be7a459f5
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-09 Mon 23:44]
 :END:
 #+title: Forest
 #+hugo_custom_front_matter: :slug "326df302-a17b-4f2c-8bcd-027be7a459f5"
@@ -14,9 +14,6 @@ A forest is an undirected [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in 
 [cite:@TreeGraphTheory2022]
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
 :PROPERTIES:
 :ID:       9295df9e-9fcc-4523-b5c6-0fbe0cb08b10
@@ -27,7 +24,7 @@ A forest is an undirected [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   242.78 | 2023-10-09T13:32:56Z |
+| back     | 2.50 |   9 |   664.54 | 2025-08-04T19:37:44Z |
 | front    | 2.50 |  11 |   499.06 | 2025-01-06T16:13:28Z |
 :END:
 [[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]
@@ -47,7 +44,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b252
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   8 |   255.94 | 2023-10-02T14:55:19Z |
+|        0 | 2.35 |   9 |   626.83 | 2025-06-21T01:58:30Z |
 |        1 | 2.80 |   7 |   296.37 | 2023-12-01T03:12:56Z |
 :END:
 - {{[[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]}@0}

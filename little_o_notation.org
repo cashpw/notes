@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       96e6cece-bfe4-4f80-b526-9578d2431364
-:LAST_MODIFIED: [2023-09-21 Thu 07:19]
+:LAST_MODIFIED: [2023-10-10 Tue 00:00]
 :END:
 #+title: Little-o notation
 #+hugo_custom_front_matter: :slug "96e6cece-bfe4-4f80-b526-9578d2431364"
@@ -20,10 +20,6 @@ To use an analogy:
 \[\begin{align}f(n) &\in \bigo{g(n)} &\implies f(n) &\le g(n) \\ f(n) &\in \littleo{g(n)} &\implies f(n) &< g(n)\end{align}\]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       1848c930-a5b5-45a9-b45f-e54cf5353a25
@@ -35,7 +31,7 @@ To use an analogy:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |   9 |   284.19 | 2024-02-24T19:20:03Z |
-| front    | 1.75 |   5 |    18.08 | 2023-10-09T16:16:08Z |
+| front    | 1.75 |   6 |    32.77 | 2023-11-12T01:33:02Z |
 :END:
 
 [[id:96e6cece-bfe4-4f80-b526-9578d2431364][Little-o notation]]

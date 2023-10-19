@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@dalioPrinciples2017]
 :ID:       c605b581-d3f9-4eed-a296-f7d72b580db3
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-25 Mon 14:47]
 :END:
 #+title: Ray Dalio | Principles
 #+hugo_custom_front_matter: :slug "c605b581-d3f9-4eed-a296-f7d72b580db3"
@@ -13,6 +13,10 @@
 
 * TODO [#2] Summary
 * TODO [#2] Thoughts
-* TODO [#2] Notes
+* TODO [#2] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/c6/05b581-d3f9-4eed-a296-f7d72b580db3/ray-dalio-principles.pdf
+:NOTER_PAGE: 1
+:END:
 * TODO [#2] Flashcards
 #+print_bibliography:

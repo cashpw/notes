@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       089751fe-6770-4c69-8cb3-699c072a65dd
-:LAST_MODIFIED: [2023-09-17 Sun 16:00]
+:LAST_MODIFIED: [2023-10-12 Thu 23:54]
 :END:
 #+title: Syncretism
 #+hugo_custom_front_matter: :slug "089751fe-6770-4c69-8cb3-699c072a65dd"
@@ -25,12 +25,13 @@ Syncretism (/ˈsɪŋkrəˌtɪzəm, ˈsɪn-/)[1] is the practice of combining dif
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   5 |    10.18 | 2023-09-28T03:20:57Z |
+| front    | 1.30 |   7 |    18.30 | 2023-10-31T14:11:48Z |
 | back     | 2.35 |   7 |   178.17 | 2023-11-30T04:09:18Z |
 :END:
 
 - The practice of combining different beliefs and schools of thought
 - The assimilation of originally discrete traditions with particular regard to religion and culture
+
 *** Source
 [cite:@Syncretism2022]
 #+print_bibliography:

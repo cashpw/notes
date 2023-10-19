@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7c49d995-a4d4-4c95-84c0-9dae9d8ab498
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/7c49d995-a4d4-4c95-84c0-9dae9d8ab498
-:LAST_MODIFIED: [2023-09-19 Tue 16:54]
+:LAST_MODIFIED: [2023-10-16 Mon 00:27]
 :END:
 #+title: The first lesson
 #+hugo_custom_front_matter: :slug "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
@@ -16,9 +16,6 @@
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** [[id:9f491719-8277-4aab-94fd-39c512730430][Muad'Dib]] learned rapidly because {{his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.}{full}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:51]
@@ -49,7 +46,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   5 |    24.83 | 2023-10-14T19:45:25Z |
+|        0 | 1.90 |   6 |    44.26 | 2023-11-29T13:34:44Z |
 :END:
 *** Source
 [cite:@herbertDune1999]

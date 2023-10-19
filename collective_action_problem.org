@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a604cedc-f0a1-4652-8bdf-697b6781ffad
 :ROAM_REFS: [cite:@CollectiveActionProblem2023]
-:LAST_MODIFIED: [2023-09-08 Fri 09:26]
+:LAST_MODIFIED: [2023-10-09 Mon 23:59]
 :END:
 #+title: Collective action problem
 #+hugo_custom_front_matter: :slug "a604cedc-f0a1-4652-8bdf-697b6781ffad"
@@ -32,7 +32,7 @@ Related:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   195.05 | 2024-03-21T17:31:16Z |
-| back     | 2.50 |   6 |    80.73 | 2023-10-02T18:18:52Z |
+| back     | 2.35 |   7 |   192.34 | 2024-04-12T14:27:50Z |
 :END:
 
 [[id:a604cedc-f0a1-4652-8bdf-697b6781ffad][Collective action problem]]
@@ -54,7 +54,7 @@ A situation in which all individuals would be better off cooperating but fail to
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   6 |   113.54 | 2023-10-24T13:53:12Z |
-|        1 | 2.50 |   6 |    92.36 | 2023-10-08T08:58:22Z |
+|        1 | 2.50 |   7 |   237.46 | 2024-06-03T17:59:10Z |
 :END:
 
 {{[[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]}@0} is a personification of {{the [[id:a604cedc-f0a1-4652-8bdf-697b6781ffad][Collective action problem]]}@1}.

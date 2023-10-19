@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7e543b7d-8335-45e9-94ec-1392c0c91ce0
-:LAST_MODIFIED: [2023-09-14 Thu 08:09]
+:LAST_MODIFIED: [2023-10-16 Mon 00:30]
 :END:
 #+title: The card says moops
 #+hugo_custom_front_matter: :slug "7e543b7d-8335-45e9-94ec-1392c0c91ce0"
@@ -13,9 +13,6 @@ Performative irony used to win arguments and obfuscate the underlying guiding be
 See [[id:d23a7621-32c5-4cf6-8f2e-e9a84bb55eec][Ian Danskin | The Card Says Moops]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]], also [[id:a991edbf-1372-4296-ab3e-c45dadcfdc20][Never believe that anti-Semites]].
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       d5d7cec6-a4a6-4049-a89d-519e13d35701
@@ -27,7 +24,7 @@ See [[id:d23a7621-32c5-4cf6-8f2e-e9a84bb55eec][Ian Danskin | The Card Says Moops
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.45 |   7 |   219.46 | 2024-01-07T12:15:33Z |
-| back     | 2.65 |   7 |   249.41 | 2023-10-14T09:37:40Z |
+| back     | 2.65 |   8 |   675.38 | 2025-08-21T16:38:19Z |
 :END:
 [[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]
 *** Back

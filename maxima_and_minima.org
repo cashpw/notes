@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-16 Mon 00:27]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -141,7 +141,7 @@ The smallest output of a function over some subset of the domain.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   9 |   402.13 | 2024-06-04T01:59:11Z |
-|        1 | 2.80 |   8 |   284.73 | 2023-10-14T08:56:34Z |
+|        1 | 2.80 |   9 |   725.54 | 2025-10-10T20:29:36Z |
 :END:
 
 - {{Global minima}@0}
@@ -159,7 +159,7 @@ The smallest output of a function over some subset of the domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   7 |   176.62 | 2023-09-21T17:59:36Z |
+| back     | 2.20 |   8 |   396.47 | 2024-10-26T00:25:19Z |
 | front    | 2.80 |   8 |   326.69 | 2023-12-07T10:50:17Z |
 :END:
 

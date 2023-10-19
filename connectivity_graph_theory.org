@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9ee639e1-b92d-4bdb-8d13-9c53e22bf945
 :ROAM_REFS: [cite:@ConnectivityGraphTheory2022]
-:LAST_MODIFIED: [2023-09-14 Thu 07:57]
+:LAST_MODIFIED: [2023-10-10 Tue 00:00]
 :END:
 #+title: Connectivity (Graph theory)
 #+hugo_custom_front_matter: :slug "9ee639e1-b92d-4bdb-8d13-9c53e22bf945"
@@ -98,8 +98,8 @@ Two vertices, $u$ and $v$, in a graph, $G$, are {{connected}@0} when {{there exi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   143.96 | 2023-09-24T14:45:51Z |
-| back     | 2.95 |   6 |   152.74 | 2023-10-09T10:16:45Z |
+| front    | 2.65 |   7 |   347.71 | 2024-09-07T06:17:23Z |
+| back     | 2.95 |   7 |   425.78 | 2024-12-09T01:37:45Z |
 :END:
 
 [[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]]
@@ -118,7 +118,7 @@ A graph whose vertices are all connected.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   6 |   153.74 | 2023-10-02T17:18:44Z |
+| front    | 3.10 |   7 |   442.06 | 2024-12-18T07:38:45Z |
 | back     | 2.50 |   7 |   187.22 | 2023-12-31T20:52:01Z |
 :END:
 

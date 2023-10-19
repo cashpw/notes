@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ecoUrFascism]
 :ID:       86c0a598-a14d-4764-8a63-dcbfc21bcb5c
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-25 Mon 15:10]
 :END:
 #+title: Umberto Eco | Ur-Fascism
 #+hugo_custom_front_matter: :slug "86c0a598-a14d-4764-8a63-dcbfc21bcb5c"
@@ -14,5 +14,9 @@
 * TODO [#2] Summary
 * TODO [#2] Thoughts
 * TODO [#2] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/86/c0a598-a14d-4764-8a63-dcbfc21bcb5c/umberto-eco-ur-fascism.pdf
+:NOTER_PAGE: 1
+:END:
 * TODO [#2] Flashcards
 #+print_bibliography:

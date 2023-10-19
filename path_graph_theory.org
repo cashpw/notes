@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0a8c2a35-590e-4f8b-9d98-40a44e15dfb7
-:LAST_MODIFIED: [2023-09-17 Sun 16:12]
+:LAST_MODIFIED: [2023-10-16 Mon 00:24]
 :END:
 #+title: Path (graph theory)
 #+hugo_custom_front_matter: :slug "0a8c2a35-590e-4f8b-9d98-40a44e15dfb7"
@@ -25,7 +25,7 @@ A path is a trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theor
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   5 |    10.29 | 2023-09-28T06:15:16Z |
+| front    | 1.30 |   7 |    18.28 | 2023-11-03T14:00:36Z |
 | back     | 2.80 |   7 |   298.52 | 2024-05-07T13:32:48Z |
 :END:
 

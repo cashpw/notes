@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e5db0b54-03b5-417a-a4c8-93001958c410
 :ROAM_REFS: [cite:@Presupposition2021]
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-12 Thu 23:53]
 :END:
 #+title: Presupposition
 #+hugo_custom_front_matter: :slug "e5db0b54-03b5-417a-a4c8-93001958c410"
@@ -21,9 +21,6 @@
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Presupposition :fc:
 :PROPERTIES:
 :ID:       a2013d35-795f-4850-929c-fa750f40a502
@@ -51,10 +48,13 @@ An implicit assumption relating to a statement/question/etc whose truth is taken
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   254.97 | 2023-11-29T16:44:19Z |
-| back     | 2.35 |   7 |   188.20 | 2023-10-10T21:25:19Z |
+| back     | 2.35 |   8 |   408.26 | 2024-11-24T13:02:22Z |
 :END:
+
 [[id:e5db0b54-03b5-417a-a4c8-93001958c410][Presupposition]]
+
 *** Back
+
 - Jane no longer writes fiction.
 - Have you stopped beating your wife?
 *** Source

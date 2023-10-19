@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
-:LAST_MODIFIED: [2023-09-18 Mon 08:52]
+:LAST_MODIFIED: [2023-10-02 Mon 23:19]
 :END:
 #+title: Complete binary tree
 #+hugo_custom_front_matter: :slug "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
@@ -18,9 +18,6 @@ A complete binary tree is a binary tree in which every level, except possibly th
 #+attr_html: :alt Complete binary tree
 [[file:complete-binary-tree.png]]
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       525a799e-566f-485a-a9a5-5271f1ac6e50
@@ -52,7 +49,7 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which every level,
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    99.04 | 2023-11-28T13:35:17Z |
-| back     | 2.20 |   6 |    70.97 | 2023-10-03T03:20:37Z |
+| back     | 2.20 |   7 |   147.03 | 2024-02-27T07:00:50Z |
 :END:
 [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
 *** Back

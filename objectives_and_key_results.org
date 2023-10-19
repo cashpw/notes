@@ -2,7 +2,7 @@
 :ID:       00886e80-e78f-4f1e-8c85-b97b27af05ac
 :ROAM_ALIASES: OKR
 :ROAM_REFS: [cite:@OKR2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-26 Tue 08:34]
 :END:
 #+title: Objectives and key results
 #+hugo_custom_front_matter: :slug "00886e80-e78f-4f1e-8c85-b97b27af05ac"
@@ -56,7 +56,7 @@ Doerr recommends that an organization's target success rate for key results be 7
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   286.21 | 2024-04-05T18:27:01Z |
-| back     | 2.95 |   6 |   173.38 | 2023-09-26T01:36:07Z |
+| back     | 2.95 |   7 |   545.18 | 2025-03-24T19:49:09Z |
 :END:
 
 [[id:00886e80-e78f-4f1e-8c85-b97b27af05ac][OKR]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-09-21 Thu 07:15]
+:LAST_MODIFIED: [2023-10-18 Wed 06:41]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -130,7 +130,7 @@ int foo(int bar) {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   5 |    21.94 | 2023-10-11T22:26:50Z |
+| front    | 1.90 |   6 |    41.55 | 2023-11-26T19:35:36Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-04T23:28:36Z |
 :END:
 
@@ -158,7 +158,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    59.35 | 2023-11-10T20:51:06Z |
-| back     | 2.35 |   3 |     6.00 | 2023-09-06T18:32:46Z |
+| back     | 2.35 |   4 |    13.34 | 2023-10-25T05:33:06Z |
 :END:
 
 [[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Get-from operator]]
@@ -210,7 +210,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   6 |    80.20 | 2023-11-29T03:56:11Z |
-|        1 |  2.5 |  -1 |        0 | 2023-05-04T23:34:22Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-10-14T06:58:59Z |
 :END:
 
 - {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Put-to operator]]}@0}
@@ -262,7 +262,7 @@ int main() {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   2 |     2.00 | 2023-09-23T14:15:08Z |
+|        0 | 1.75 |   4 |    10.95 | 2023-10-17T06:20:00Z |
 |        1 |  2.5 |  -1 |        0 | 2023-05-05T15:14:31Z |
 :END:
 
@@ -303,7 +303,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    94.71 | 2023-11-22T16:31:21Z |
-| back     |  2.5 |  -1 |        0 | 2023-05-11T15:36:27Z |
+| back     | 2.50 |   2 |     2.00 | 2023-10-05T06:12:48Z |
 :END:
 
 =[]= in the following:
@@ -326,14 +326,14 @@ char v[6];
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    36.76 | 2023-09-27T06:53:01Z |
+| front    | 2.35 |   6 |    87.23 | 2023-12-25T09:53:13Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-11T15:37:08Z |
 :END:
 
 =*= in:
 
 #+begin_src C++
-char* p;
+auto* p;
 #+end_src
 
 *** Back
@@ -350,14 +350,14 @@ char* p;
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   2 |     2.00 | 2023-09-16T15:04:11Z |
+| front    | 2.20 |   4 |    13.54 | 2023-10-23T19:39:59Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-11T15:38:30Z |
 :END:
 
 =*= in:
 
 #+begin_src C++
-char x = *p;
+auto x = *p;
 #+end_src
 
 *** Back
@@ -381,7 +381,7 @@ char x = *p;
 =&= in:
 
 #+begin_src C++
-char* p = &v[1];
+auto* p = &v[1];
 #+end_src
 
 *** Back
@@ -398,14 +398,14 @@ char* p = &v[1];
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   1 |     1.00 | 2023-09-05T17:59:58Z |
+| front    | 1.60 |   1 |     1.00 | 2023-10-19T13:41:58Z |
 | back     | 2.50 |   1 |     1.00 | 2023-08-02T15:01:11Z |
 :END:
 
 =&= in:
 
 #+begin_src C++
-char& p = v[5];
+auto& p = v[5];
 #+end_src
 
 *** Back
@@ -422,7 +422,7 @@ char& p = v[5];
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    31.08 | 2023-09-25T17:04:56Z |
+| front    | 2.35 |   6 |    66.39 | 2023-12-08T15:27:56Z |
 | back     | 2.50 |   1 |     1.00 | 2023-07-21T15:17:24Z |
 :END:
 
@@ -465,7 +465,7 @@ void sort(const std::vector<double>& numbers);
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |   105.64 | 2023-12-22T05:38:16Z |
-| back     |  2.5 |  -1 |        0 | 2023-05-12T19:14:53Z |
+| back     | 2.50 |   1 |     1.00 | 2023-10-12T21:10:27Z |
 :END:
 
 [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]]
@@ -484,7 +484,7 @@ void sort(const std::vector<double>& numbers);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    34.03 | 2023-10-09T16:00:24Z |
+| front    | 2.50 |   6 |    82.33 | 2024-01-07T16:08:07Z |
 :END:
 
 - [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]] (C++)

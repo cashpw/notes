@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-09-21 Thu 07:17]
+:LAST_MODIFIED: [2023-10-18 Wed 06:44]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -109,7 +109,7 @@ The physical layer is responsible for the transmission and reception of unstruct
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   112.50 | 2023-10-15T01:22:35Z |
+| front    | 2.50 |   7 |   306.56 | 2024-08-20T03:14:57Z |
 | back     | 2.20 |   5 |    31.72 | 2023-10-12T06:54:39Z |
 :END:
 
@@ -153,7 +153,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 |        0 | 2.20 |   7 |   142.95 | 2024-01-01T21:20:43Z |
 |        1 | 2.20 |   7 |   149.63 | 2024-02-14T14:11:26Z |
 |        2 | 2.35 |   6 |    78.53 | 2023-12-09T03:00:19Z |
-|        3 | 2.50 |   0 |     0.00 | 2023-07-19T13:40:56Z |
+|        3 | 2.50 |   1 |     1.00 | 2023-10-04T06:26:15Z |
 |        4 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        5 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        6 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
@@ -223,7 +223,7 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   125.39 | 2024-01-18T00:13:01Z |
-| back     | 2.50 |   4 |    15.74 | 2023-08-11T08:35:38Z |
+| back     | 2.50 |   5 |    35.90 | 2023-11-05T05:26:02Z |
 :END:
 
 [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
@@ -263,7 +263,7 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   4 |    12.25 | 2023-09-17T21:17:40Z |
+| front    | 1.90 |   2 |     2.00 | 2023-10-12T06:43:51Z |
 :END:
 
 [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
@@ -284,7 +284,7 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   127.77 | 2024-01-06T12:59:55Z |
-| back     | 2.35 |   4 |    13.19 | 2023-08-14T05:59:33Z |
+| back     | 2.35 |   5 |    33.34 | 2023-11-14T05:26:17Z |
 :END:
 
 [[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]
@@ -325,7 +325,7 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   7 |    41.09 | 2023-09-30T17:58:40Z |
+| front    | 1.60 |   8 |    61.18 | 2023-12-02T11:12:40Z |
 | back     | 2.05 |   5 |    29.48 | 2023-10-09T10:37:29Z |
 :END:
 

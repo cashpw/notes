@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       097a3b5d-13a8-43b4-9b94-576ffec8adb3
 :ROAM_ALIASES: "Critical path analysis"
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-28 Thu 21:24]
 :END:
 #+title: Critical path method
 #+hugo_custom_front_matter: :slug "097a3b5d-13a8-43b4-9b94-576ffec8adb3"
@@ -10,5 +10,6 @@
 #+filetags: :hastodo:concept:
 * TODO [#2]
 [cite:@CriticalPathMethod2022]
+- related(?): [[id:bff6cb4c-8091-4c3d-87a9-397f54218d38][Backcasting]]
 * TODO [#2] Flashcards
 #+print_bibliography:

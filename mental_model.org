@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       787214e0-5941-4c6f-9a61-e79b9b40baea
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-09-30 Sat 00:59]
 :END:
 #+title: Mental model
 #+hugo_custom_front_matter: :slug "787214e0-5941-4c6f-9a61-e79b9b40baea"
@@ -24,7 +24,7 @@ A mental model is an explanation of someone's thought process about how somethin
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   169.33 | 2023-09-29T20:36:52Z |
+| front    | 2.35 |   8 |   435.88 | 2024-12-09T05:07:29Z |
 | back     | 1.75 |   8 |   140.99 | 2023-11-06T03:57:17Z |
 :END:
 

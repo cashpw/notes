@@ -2,7 +2,7 @@
 :ID:       6981e213-aaad-4356-8968-abc1766bfb39
 :DIR:      /home/cashweaver/proj/roam/attachments/6981e213-aaad-4356-8968-abc1766bfb39
 :ROAM_ALIASES: "If it kills you, it kills you" "A man must constantly exceed his level"
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-28 Thu 21:19]
 :END:
 #+title: Exceed your Level
 #+hugo_custom_front_matter: :slug "6981e213-aaad-4356-8968-abc1766bfb39"
@@ -19,9 +19,6 @@
 Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** There are no limits. {{There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level.}{full}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 15:10]
@@ -52,7 +49,7 @@ Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   163.57 | 2023-09-28T05:39:22Z |
+|        0 | 2.20 |   8 |   338.19 | 2024-09-01T08:53:28Z |
 :END:
 
 *** Source

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3657474e-5e72-4f19-8664-c66583f6310d
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-09-25 Mon 06:23]
 :END:
 #+title: Echo chamber
 #+hugo_custom_front_matter: :slug "3657474e-5e72-4f19-8664-c66583f6310d"
@@ -33,7 +33,7 @@ Related:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   135.89 | 2023-09-24T12:26:14Z |
+| front    | 2.05 |   8 |   256.07 | 2024-06-07T15:06:54Z |
 | back     | 2.50 |   7 |   274.46 | 2024-04-02T12:11:35Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e8e588ca-1ce4-4c89-b050-44fc595310e7
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-09-30 Sat 00:59]
 :ROAM_REFS: [cite:@Cenotaph2023]
 :END:
 #+title: Cenotaph
@@ -26,8 +26,8 @@ A cenotaph is an empty tomb or a monument erected in honour of a person or group
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   5 |    33.96 | 2023-09-24T11:59:12Z |
-| back     | 2.50 |   5 |    34.74 | 2023-09-29T08:58:46Z |
+| front    | 2.20 |   6 |    79.44 | 2023-12-13T23:44:50Z |
+| back     | 2.50 |   6 |    84.09 | 2023-12-23T10:05:33Z |
 :END:
 
 #+begin_quote

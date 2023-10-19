@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-02 Mon 23:19]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -32,9 +32,6 @@ To determine whether a difficulty is desirable, use the following three guidelin
 
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Learning) :fc:
 :PROPERTIES:
 :ID:       fafca0dd-2213-4ceb-ad65-7d1e959ff836
@@ -46,7 +43,7 @@ To determine whether a difficulty is desirable, use the following three guidelin
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 3.10 |   8 |   276.83 | 2023-11-21T11:02:35Z |
-| front    | 2.20 |   7 |   180.47 | 2023-10-03T03:48:10Z |
+| front    | 2.20 |   8 |   368.40 | 2024-10-05T15:50:07Z |
 :END:
 [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
 *** Back

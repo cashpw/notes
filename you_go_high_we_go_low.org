@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       740ee074-bbfc-4b26-9909-376c9725b57d
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-10-16 Mon 00:28]
 :END:
 #+title: You go high, we go low
 #+hugo_custom_front_matter: :slug "740ee074-bbfc-4b26-9909-376c9725b57d"
@@ -12,9 +12,6 @@ A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256
 
 See [[id:f39cbb1c-8265-4f3e-9a99-632132ade597][Ian Danskin | You Go High, We Go Low]] and the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       8621e170-6666-49f4-9c75-775fb2942e1b
@@ -25,7 +22,7 @@ See [[id:f39cbb1c-8265-4f3e-9a99-632132ade597][Ian Danskin | You Go High, We Go 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   8 |   153.89 | 2023-10-15T12:07:47Z |
+| front    | 2.05 |   9 |   345.04 | 2024-09-25T08:29:59Z |
 | back     | 2.35 |   7 |   301.36 | 2024-03-07T00:51:43Z |
 :END:
 [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
@@ -44,7 +41,7 @@ A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.45 |  10 |   283.00 | 2023-12-25T14:13:00Z |
-| back     | 2.50 |   5 |    38.28 | 2023-10-02T21:52:46Z |
+| back     | 2.50 |   6 |    94.12 | 2024-01-05T09:02:13Z |
 :END:
 [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
 *** Back

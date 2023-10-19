@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-09-19 Tue 17:00]
+:LAST_MODIFIED: [2023-10-18 Wed 06:42]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -63,7 +63,7 @@ Amount of time the packet is waiting in the queue until it can be processed.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   171.24 | 2024-02-08T19:12:22Z |
-| back     | 2.35 |   6 |    81.48 | 2023-09-22T12:52:39Z |
+| back     | 2.35 |   7 |   174.89 | 2024-03-19T12:58:19Z |
 :END:
 
 [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
@@ -106,7 +106,7 @@ Components of [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    65.08 | 2023-10-14T02:33:40Z |
+| front    | 2.20 |   7 |   152.35 | 2024-03-18T22:12:50Z |
 | back     | 2.05 |   6 |    55.95 | 2023-11-09T13:55:19Z |
 :END:
 
@@ -126,7 +126,7 @@ Amount of time required for a message to travel from the sender to receiver, whi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   6 |    50.23 | 2023-10-15T20:20:12Z |
+| front    | 1.75 |   2 |     2.00 | 2023-10-19T08:07:25Z |
 | back     | 2.20 |   1 |     1.00 | 2023-09-21T00:00:09Z |
 :END:
 
@@ -146,7 +146,7 @@ Amount of time required to push all the packet's bits into the link, which is a 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    87.73 | 2023-09-22T09:51:40Z |
+| front    | 2.05 |   3 |     6.00 | 2023-10-09T06:07:37Z |
 | back     | 2.35 |   6 |    75.86 | 2023-11-11T10:18:30Z |
 :END:
 

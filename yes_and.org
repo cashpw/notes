@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a2e19c5c-0969-49ae-a0c2-740fc61279c3
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-10-12 Thu 23:57]
 :END:
 #+title: Yes, and
 #+hugo_custom_front_matter: :slug "a2e19c5c-0969-49ae-a0c2-740fc61279c3"
@@ -25,8 +25,8 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   192.65 | 2023-10-03T08:44:52Z |
-| back     | 2.35 |   7 |   190.39 | 2023-10-13T01:41:51Z |
+| front    | 2.50 |   8 |   527.19 | 2025-03-16T12:03:07Z |
+| back     | 2.35 |   8 |   423.28 | 2024-12-09T13:44:07Z |
 :END:
 
 [[id:a2e19c5c-0969-49ae-a0c2-740fc61279c3][Yes, and]]

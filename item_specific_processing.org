@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e860a606-84d0-47a0-8230-a702e86c363a
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-06 Fri 00:37]
 :END:
 #+title: Item-specific processing
 #+hugo_custom_front_matter: :slug "e860a606-84d0-47a0-8230-a702e86c363a"
@@ -16,9 +16,6 @@ Item-specific processing involves encoding the various characteristics or proper
 [cite:@marshMemoryEducationalSettings2013]
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:55]
@@ -30,7 +27,7 @@ Item-specific processing involves encoding the various characteristics or proper
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   306.26 | 2024-05-06T01:36:03Z |
-| back     | 2.20 |   7 |   147.67 | 2023-10-05T08:05:23Z |
+| back     | 2.20 |   8 |   302.51 | 2024-08-03T19:52:23Z |
 :END:
 
 [[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]]

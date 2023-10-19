@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-09-22 Fri 08:50]
+:LAST_MODIFIED: [2023-10-18 Wed 06:42]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -276,7 +276,7 @@ Steps involved in [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 |  2.5 |  -1 |        0 | 2023-09-11T13:49:41Z |
+|        0 | 2.65 |   4 |    16.32 | 2023-11-03T21:18:57Z |
 |        1 |  2.5 |  -1 |        0 | 2023-09-18T13:49:41Z |
 :END:
 
@@ -294,8 +294,8 @@ Steps involved in [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-09-23T14:14:36Z |
-| back     |  2.5 |  -1 |        0 | 2023-09-18T13:50:35Z |
+| front    | 2.50 |   4 |    14.61 | 2023-10-30T21:14:45Z |
+| back     | 2.50 |   1 |     1.00 | 2023-10-11T06:42:09Z |
 :END:
 
 How to create a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]]
@@ -323,7 +323,7 @@ How to create a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-09-15T15:20:54Z |
+| front    | 2.50 |   1 |     1.00 | 2023-10-18T08:14:27Z |
 | back     |  2.5 |  -1 |        0 | 2023-09-18T13:51:04Z |
 :END:
 
@@ -344,7 +344,7 @@ How to perform a [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-09-19T22:59:38Z |
+| front    | 2.20 |   4 |    13.78 | 2023-10-25T15:53:04Z |
 | back     | 2.50 |   1 |     1.00 | 2023-09-19T15:44:24Z |
 :END:
 

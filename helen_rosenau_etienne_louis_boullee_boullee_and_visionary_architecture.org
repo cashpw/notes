@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@rosenauBoulleeVisionaryArchitecture1976]
 :ID:       cc620b2e-2070-49b0-8d4c-a5892731faa6
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-02 Mon 23:18]
 :END:
 #+title: Helen Rosenau, Etienne Louis Boullée | Boullée and Visionary Architecture
 #+hugo_custom_front_matter: :slug "cc620b2e-2070-49b0-8d4c-a5892731faa6"
@@ -66,7 +66,7 @@ By [[id:7c1ddba6-a0ad-4ea0-8ec1-ba9099f8b2cf][Étienne-Louis Boullée]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   5 |    32.09 | 2023-10-01T14:53:15Z |
+|        0 | 2.20 |   6 |    69.54 | 2023-12-11T19:21:09Z |
 :END:
 
 #+begin_quote

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       713a5208-36bb-4266-9d70-d34cd6079ce4
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-09-25 Mon 15:08]
 :ROAM_REFS: [cite:@geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008]
 :END:
 #+title: Robert Geisberger, Peter Sanders, Dominik Schultes, Daniel Delling | Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks
@@ -13,6 +13,9 @@ TODO_AUTHOR, [cite:@geisbergerContractionHierarchiesFasterSimplerHierarchicalRou
 
 * TODO Summary
 * TODO Thoughts
-* TODO [#0] Notes
+* TODO [#0] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/71/3a5208-36bb-4266-9d70-d34cd6079ce4/contraction-hierarchies.pdf
+:END:
 * TODO [#2] Flashcards
 #+print_bibliography:

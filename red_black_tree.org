@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       019be402-8bef-48f3-afbf-6441010dd8cf
 :ROAM_REFS: [cite:@RedblackTree2022]
-:LAST_MODIFIED: [2023-09-19 Tue 16:55]
+:LAST_MODIFIED: [2023-10-16 Mon 00:28]
 :END:
 #+title: Red-black tree
 #+hugo_custom_front_matter: :slug "019be402-8bef-48f3-afbf-6441010dd8cf"
@@ -185,7 +185,7 @@ def insert_fix(inserted_node):
 |        0 | 2.80 |   8 |   323.70 | 2024-03-25T10:21:18Z |
 |        1 | 2.50 |   6 |   103.79 | 2023-10-29T08:56:01Z |
 |        2 | 2.05 |   7 |   137.91 | 2024-01-24T14:16:35Z |
-|        3 | 1.45 |   5 |    12.17 | 2023-09-22T03:17:48Z |
+|        3 | 1.30 |   7 |    22.14 | 2023-11-07T10:42:52Z |
 :END:
 
 Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4}
@@ -245,7 +245,7 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.20 |   5 |    26.19 | 2023-09-30T17:59:12Z |
+|        1 | 2.20 |   6 |    55.05 | 2023-11-27T07:30:29Z |
 |        0 | 3.10 |   7 |   554.82 | 2025-02-09T10:50:07Z |
 :END:
 

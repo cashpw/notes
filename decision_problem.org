@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-10-01 Sun 23:57]
 :ROAM_REFS: [cite:@DecisionProblem2023]
 :ROAM_ALIASES: Undecidable Decidable
 :END:
@@ -48,7 +48,7 @@ A computational problem one can pose as a yes/no question of the input values.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   312.65 | 2024-07-08T04:21:50Z |
-| back     | 2.65 |   6 |   143.25 | 2023-09-30T22:09:34Z |
+| back     | 2.65 |   7 |   371.26 | 2024-10-07T13:12:55Z |
 :END:
 
 A [[id:53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82][Decidable]] problem.

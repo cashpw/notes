@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9373ca2c-77ee-4874-8dfd-fb2f8997fb8f
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-12 Thu 23:53]
 :END:
 #+title: Forgetting curve
 #+hugo_custom_front_matter: :slug "9373ca2c-77ee-4874-8dfd-fb2f8997fb8f"
@@ -41,7 +41,7 @@ A representation of [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   177.06 | 2023-10-23T15:59:49Z |
-| back     | 2.35 |   6 |    64.83 | 2023-10-12T11:16:02Z |
+| back     | 2.35 |   7 |   153.64 | 2024-03-14T22:11:57Z |
 :END:
 
 [[id:9373ca2c-77ee-4874-8dfd-fb2f8997fb8f][Forgetting curve]]

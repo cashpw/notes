@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
-:LAST_MODIFIED: [2023-09-21 Thu 05:51]
+:LAST_MODIFIED: [2023-10-15 Sun 23:29]
 :ROAM_REFS: [cite:@MatrixMultiplication2023]
 :END:
 #+title: Matrix multiplication
@@ -192,7 +192,7 @@ $c_{i,j}=$ {{$\sum\limits_{k = 1}^{n}a_{i,k}b_{k,j}$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   3 |     6.00 | 2023-09-27T12:51:46Z |
+| front    | 2.35 |   5 |    29.22 | 2023-11-10T02:30:03Z |
 | back     | 2.35 |   7 |   207.89 | 2024-03-01T12:04:44Z |
 :END:
 
@@ -252,8 +252,8 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   4 |    12.11 | 2023-09-26T17:46:04Z |
-| back     | 2.50 |   6 |    89.01 | 2023-08-07T16:23:31Z |
+| front    | 1.90 |   5 |    23.06 | 2023-10-22T05:44:53Z |
+| back     | 2.50 |   7 |   219.05 | 2024-05-02T16:52:42Z |
 :END:
 
 [[id:a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a][Matrix multiplication]] as a [[id:ef6a5f11-0991-4fff-8453-5006362138e6][Linear combination]] of columns
@@ -307,7 +307,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   2 |     2.00 | 2023-09-19T23:00:19Z |
+|        0 | 2.35 |   5 |    29.33 | 2023-11-14T14:23:47Z |
 :END:
 
 $(A_{\ell\times n}B_{n \times m})_{\text{row}i}$ $=$ {{$A_{\text{row}\,i} \cdot \{B_{\text{row}\,0}, \;\dots\;, B_{\text{row}\,m}\}$}@0}

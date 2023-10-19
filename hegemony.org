@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       eb439041-eb04-415d-a642-9ab8783c68a4
 :ROAM_ALIASES: Hegemon
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-09-28 Thu 21:22]
 :END:
 #+title: Hegemony
 #+hugo_custom_front_matter: :slug "eb439041-eb04-415d-a642-9ab8783c68a4"
@@ -16,9 +16,6 @@ Hegemony is the political, economic, and military predominance of one state over
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Politics) :fc:
 :PROPERTIES:
 :ID:       d3ad320a-6a56-4f37-a588-1b9390f3d2c9
@@ -29,7 +26,7 @@ Hegemony is the political, economic, and military predominance of one state over
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   243.57 | 2023-09-28T03:36:15Z |
+| back     | 2.80 |  10 |   740.60 | 2025-10-08T18:51:49Z |
 | front    | 2.20 |   8 |   314.39 | 2024-04-22T09:40:14Z |
 :END:
 [[id:eb439041-eb04-415d-a642-9ab8783c68a4][Hegemony]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c6bc266e-1090-492f-bdba-f044e04db3ff
-:LAST_MODIFIED: [2023-09-11 Mon 05:42]
+:LAST_MODIFIED: [2023-09-25 Mon 06:06]
 :END:
 #+title: Bubble sort
 #+hugo_custom_front_matter: :slug "c6bc266e-1090-492f-bdba-f044e04db3ff"
@@ -53,7 +53,7 @@ while list is not sorted do
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   232.85 | 2023-09-22T13:10:22Z |
+| front    | 2.50 |   8 |   558.71 | 2025-04-06T06:07:07Z |
 | back     | 2.65 |   8 |   414.12 | 2024-06-25T20:13:34Z |
 :END:
 

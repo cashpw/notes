@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderShouldYouReverseAnyAdviceYouHear2014]
 :ID:       de6d0d9e-3ce1-4e18-b747-c59cd50ceebf
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-26 Tue 08:29]
 :END:
 #+title: Scott Alexander | Should You Reverse Any Advice You Hear?
 #+hugo_custom_front_matter: :slug "de6d0d9e-3ce1-4e18-b747-c59cd50ceebf"
@@ -50,9 +50,6 @@ The checklist could be something like:
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Summarize :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 09:52]
@@ -63,7 +60,7 @@ The checklist could be something like:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   167.52 | 2023-09-26T04:51:01Z |
+| front    | 2.05 |   8 |   341.56 | 2024-09-02T04:50:13Z |
 :END:
 
 [[id:de6d0d9e-3ce1-4e18-b747-c59cd50ceebf][Scott Alexander | Should You Reverse Any Advice You Hear?]]

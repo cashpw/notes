@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@peckWhatAreThreeTypesFun2017]
 :ID:       a06d371b-148e-4a49-86bb-f4d04cfcefe7
 :DIR:      /home/cashweaver/proj/roam/attachments/a06d371b-148e-4a49-86bb-f4d04cfcefe7
-:LAST_MODIFIED: [2023-09-17 Sun 16:00]
+:LAST_MODIFIED: [2023-10-16 Mon 00:26]
 :END:
 #+title: Tim Peck | What Are the Three Types of Fun?
 #+hugo_custom_front_matter: :slug "a06d371b-148e-4a49-86bb-f4d04cfcefe7"
@@ -70,8 +70,8 @@ Instead, it's the type that makes most of us go crawling back to Type 1, and say
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   106.84 | 2023-09-21T10:45:20Z |
-| back     | 2.35 |   6 |   100.06 | 2023-10-11T02:44:39Z |
+| front    | 2.80 |   7 |   286.69 | 2024-07-09T08:03:18Z |
+| back     | 2.50 |   7 |   242.03 | 2024-06-09T22:06:59Z |
 :END:
 
 [[id:6a2276e5-19e5-4fb5-bd82-f1cab8867065][Type 1 Fun]]
@@ -90,8 +90,8 @@ Fun every step of the way; fun in the moment and fun in retrospect.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   103.83 | 2023-09-21T11:26:28Z |
-| back     | 2.65 |   6 |   108.69 | 2023-10-13T08:54:35Z |
+| front    | 2.80 |   7 |   294.54 | 2024-07-16T02:22:26Z |
+| back     | 2.65 |   7 |   296.20 | 2024-08-07T12:17:34Z |
 :END:
 
 [[id:1566f960-3448-4e09-a1c7-87980f7fd97e][Type 2 Fun]]

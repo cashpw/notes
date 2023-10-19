@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       057b0009-21be-4e62-9a0b-1166c8002d07
-:LAST_MODIFIED: [2023-09-17 Sun 16:13]
+:LAST_MODIFIED: [2023-09-25 Mon 06:38]
 :ROAM_ALIASES: "Steel man"
 :END:
 #+title: Steelmanning
@@ -40,7 +40,7 @@ If I were an ungenerous person, I'd say that "steelmanning" was about gamesmansh
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   142.91 | 2023-09-20T16:41:41Z |
+| front    | 2.80 |   7 |   409.55 | 2024-11-08T02:55:43Z |
 | back     | 2.20 |   6 |    71.26 | 2023-11-28T05:29:48Z |
 :END:
 

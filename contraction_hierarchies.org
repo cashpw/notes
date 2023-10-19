@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-09-17 Sun 15:59]
+:LAST_MODIFIED: [2023-10-12 Thu 23:58]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -402,7 +402,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-08-07T14:40:50Z |
+| front    | 2.50 |   0 |     0.00 | 2023-10-03T06:04:41Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:20:40Z |
 :END:
 
@@ -440,7 +440,7 @@ Steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 |  2.5 |  -1 |        0 | 2023-06-15T15:21:11Z |
+|        0 | 2.50 |   1 |     1.00 | 2023-09-27T15:27:09Z |
 |        1 |  2.5 |  -1 |        0 | 2023-06-15T15:21:11Z |
 :END:
 
@@ -482,7 +482,7 @@ We contract $v$ when the path $u, v, w$ is the shortest path from $u$ to $w$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-06-21T14:48:39Z |
+| front    | 2.50 |   3 |     6.00 | 2023-10-17T21:07:11Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:49:21Z |
 :END:
 
@@ -502,7 +502,7 @@ Perform a local [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   4 |    14.80 | 2023-09-05T08:02:06Z |
+| front    | 2.35 |   5 |    35.53 | 2023-11-10T20:11:49Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:05:25Z |
 :END:
 
@@ -523,7 +523,7 @@ We store a pointer to the interim vertex, $v$, when we contract $u, v, w$ into $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    15.55 | 2023-08-17T04:08:49Z |
+| front    | 2.20 |   1 |     1.00 | 2023-10-14T06:58:55Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:19:16Z |
 :END:
 
@@ -531,7 +531,7 @@ Heuristics for choosing the order to contract vertices.
 
 *** Back
 - Edge difference
-- Contacted neighbors
+- Contracted neighbors
 *** Source
 [cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
 ** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
@@ -544,7 +544,7 @@ Heuristics for choosing the order to contract vertices.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.86 | 2023-09-20T12:05:54Z |
+| front    | 2.20 |   1 |     1.00 | 2023-10-01T08:01:11Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:22:44Z |
 :END:
 
@@ -670,7 +670,7 @@ Query phase
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   2 |     2.00 | 2023-09-12T13:28:53Z |
+|        0 | 2.20 |   1 |     1.00 | 2023-09-28T15:59:42Z |
 |        1 |  2.5 |  -1 |        0 | 2023-06-20T15:38:35Z |
 :END:
 

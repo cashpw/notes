@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80c7fef7-aa9e-439f-a02f-be3edb85d8f5
-:LAST_MODIFIED: [2023-09-17 Sun 16:06]
+:LAST_MODIFIED: [2023-10-12 Thu 23:58]
 :END:
 #+title: Leibniz's notation
 #+hugo_custom_front_matter: :slug "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
@@ -56,7 +56,7 @@ infinitesimally small increments
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   304.57 | 2024-05-17T03:32:07Z |
-|        1 | 2.65 |   3 |     6.00 | 2023-09-23T23:06:57Z |
+|        1 | 2.65 |   5 |    48.14 | 2023-11-30T10:16:01Z |
 :END:
 
 {{[[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]]}{notation}@0} uses {{$d$}{symbol}@1}
@@ -73,7 +73,7 @@ infinitesimally small increments
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    84.67 | 2023-09-25T17:07:52Z |
+| front    | 2.35 |   7 |   211.42 | 2024-04-25T01:39:57Z |
 | back     | 2.50 |   7 |   275.67 | 2024-06-09T06:36:34Z |
 :END:
 
@@ -93,7 +93,7 @@ $\frac{d^ny}{dx^n}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   148.93 | 2023-09-27T21:17:54Z |
+| front    | 2.80 |   7 |   384.23 | 2024-10-17T09:45:47Z |
 :END:
 
 [[id:80c7fef7-aa9e-439f-a02f-be3edb85d8f5][Leibniz's notation]] for the third derivative of $y$ with respect to $x$

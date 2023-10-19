@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3910de4c-e0b0-4bad-93b9-334af4256906
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-16 Mon 00:29]
 :END:
 #+title: Leveling up (Staff Engineer's Path)
 #+hugo_custom_front_matter: :slug "3910de4c-e0b0-4bad-93b9-334af4256906"
@@ -24,8 +24,8 @@ Every increase in seniority comes with more responsibility for raising the stand
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    58.75 | 2023-10-02T09:14:55Z |
-| back     | 2.35 |   6 |    65.80 | 2023-10-14T19:57:37Z |
+| front    | 2.20 |   7 |   135.84 | 2024-02-16T02:20:18Z |
+| back     | 2.35 |   7 |   162.19 | 2024-03-26T12:07:59Z |
 :END:
 
 [[id:3910de4c-e0b0-4bad-93b9-334af4256906][Leveling up (Staff Engineer's Path)]]

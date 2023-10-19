@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23bf567f-d642-4b20-93cf-9adf39789da2
 :ROAM_REFS: [cite:@StagHunt2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-09 Mon 23:51]
 :END:
 #+title: Stag hunt
 #+hugo_custom_front_matter: :slug "23bf567f-d642-4b20-93cf-9adf39789da2"
@@ -54,7 +54,7 @@ See also: [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   162.01 | 2023-10-07T23:03:45Z |
+| front    | 2.35 |   8 |   363.98 | 2024-10-08T06:27:15Z |
 | back     | 2.05 |   8 |   260.65 | 2024-05-08T04:56:25Z |
 :END:
 

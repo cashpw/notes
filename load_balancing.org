@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44890929-fa24-4a69-b261-04107a005903
-:LAST_MODIFIED: [2023-09-17 Sun 16:09]
+:LAST_MODIFIED: [2023-10-17 Tue 01:09]
 :ROAM_REFS: [cite:@LoadBalancingComputing2023]
 :ROAM_ALIASES: "Load balancer"
 :END:
@@ -63,8 +63,8 @@ The process of distributing a set of tasks over a set of resources (computing un
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    86.72 | 2023-09-23T10:19:14Z |
-| back     | 2.65 |   6 |    97.84 | 2023-10-16T12:01:54Z |
+| front    | 2.35 |   7 |   214.23 | 2024-04-26T18:57:48Z |
+| back     | 2.65 |   7 |   262.73 | 2024-07-06T01:39:06Z |
 :END:
 
 [[id:0193a9b9-dadf-4c16-b179-da61ef3ab8c7][Persistence (Load balancing)]]

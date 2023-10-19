@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@friedHabitsAlwaysForm2019]
 :ID:       02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-06 Fri 00:28]
 :ROAM_ALIASES: "Habits are always forming"
 :END:
 #+title: Jason Fried | Habits Always Form
@@ -35,7 +35,7 @@ Similar: [[id:b8a0fa22-27a1-4f7e-8f33-ee2710494eba][Life is the sum of all your 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   158.00 | 2023-10-04T14:35:34Z |
+|        0 | 2.35 |   8 |   394.45 | 2024-11-03T18:21:44Z |
 :END:
 
 Habits are {{always}@0} forming.

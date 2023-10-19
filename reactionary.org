@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       735e2c4a-52b9-455d-9872-cb897cc0bd54
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-09-25 Mon 06:09]
 :END:
 #+title: Reactionary
 #+hugo_custom_front_matter: :slug "735e2c4a-52b9-455d-9872-cb897cc0bd54"
@@ -47,7 +47,7 @@ Points of view and policies meant to restore the [[id:4021fd2b-7bd4-4b4e-915f-2c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   141.67 | 2023-09-22T07:46:54Z |
+| front    | 2.20 |   8 |   290.18 | 2024-07-11T17:23:22Z |
 | back     | 2.80 |   7 |   291.20 | 2024-03-19T19:16:20Z |
 :END:
 

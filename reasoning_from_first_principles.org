@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0b13cdf1-2678-420e-b919-4a349d4ef81a
 :ROAM_ALIASES: "First principles thinking"
-:LAST_MODIFIED: [2023-09-18 Mon 08:51]
+:LAST_MODIFIED: [2023-10-02 Mon 23:20]
 :END:
 #+title: Reasoning from first principles
 #+hugo_custom_front_matter: :slug "0b13cdf1-2678-420e-b919-4a349d4ef81a"
@@ -28,7 +28,7 @@ First principles thinking consists of deriving things to their fundamental prove
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   624.59 | 2025-06-04T06:04:54Z |
-| back     | 2.20 |   8 |   204.01 | 2023-10-01T05:33:02Z |
+| back     | 2.20 |   9 |   489.83 | 2025-02-04T02:18:43Z |
 :END:
 
 [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]

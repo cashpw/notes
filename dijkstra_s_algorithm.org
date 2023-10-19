@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       668cbbcc-170b-42c8-b92b-75f6868a0138
-:LAST_MODIFIED: [2023-09-14 Thu 08:06]
+:LAST_MODIFIED: [2023-10-16 Mon 00:28]
 :ROAM_REFS: [cite:@DijkstraAlgorithm2022]
 :END:
 #+title: Dijkstra's algorithm
@@ -70,7 +70,7 @@ Same as the single-source solution, but stop when you've found the target node.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   148.09 | 2023-10-11T17:07:24Z |
+| front    | 2.20 |   8 |   310.63 | 2024-08-17T12:26:24Z |
 | back     | 2.05 |   8 |   285.37 | 2024-06-20T01:25:53Z |
 :END:
 
@@ -160,7 +160,7 @@ Time complexity of [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorit
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   6 |    11.80 | 2023-09-26T10:13:43Z |
+|        0 | 1.30 |   8 |    22.30 | 2023-11-07T14:34:29Z |
 |        1 | 2.50 |   7 |   179.35 | 2024-01-19T12:22:11Z |
 :END:
 
@@ -279,7 +279,7 @@ Benefit(s) of only queuing a single item at the start of [[id:668cbbcc-170b-42c8
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   149.96 | 2023-10-12T16:11:57Z |
+|        0 | 2.05 |   8 |   311.42 | 2024-08-19T17:03:29Z |
 :END:
 
 [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]] and [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] are generally outperformed by {{algorithms which can pre-process the graph}@0}.

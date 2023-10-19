@@ -2,7 +2,7 @@
 :ID:       d636dfa7-428d-457c-8db6-15fa61e03bef
 :ROAM_ALIASES: "Implicit knowledge"
 :ROAM_REFS: [cite:@TacitKnowledge2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-02 Mon 23:17]
 :END:
 #+title: Tacit knowledge
 #+hugo_custom_front_matter: :slug "d636dfa7-428d-457c-8db6-15fa61e03bef"
@@ -51,7 +51,7 @@ Knowledge which is difficult to express or extract and is thus more difficult to
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   184.94 | 2023-10-02T14:42:35Z |
+|        0 | 2.20 |   8 |   391.32 | 2024-10-28T13:51:54Z |
 |        1 | 2.35 |   7 |   228.89 | 2023-12-24T14:13:09Z |
 :END:
 

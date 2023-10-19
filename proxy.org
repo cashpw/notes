@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa
-:LAST_MODIFIED: [2023-09-14 Thu 08:10]
+:LAST_MODIFIED: [2023-10-15 Sun 23:26]
 :ROAM_REFS: [cite:@WhatReverseProxy]
 :ROAM_ALIASES: "Forward proxy"
 :END:
@@ -55,8 +55,8 @@ A reverse proxy is a server that sits in front of web servers and forwards clien
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   125.01 | 2023-10-13T16:12:47Z |
-|        1 | 2.50 |   6 |    90.97 | 2023-10-09T15:08:53Z |
+|        0 | 2.95 |   7 |   388.91 | 2024-11-08T04:23:21Z |
+|        1 | 2.50 |   7 |   232.79 | 2024-05-30T01:31:51Z |
 :END:
 
 - {{[[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Proxy]]}@0}
@@ -94,7 +94,7 @@ A server which acts as a middleman between client machines and origin servers.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    98.43 | 2023-10-03T02:45:48Z |
+| front    | 2.50 |   7 |   256.09 | 2024-06-15T08:28:23Z |
 :END:
 
 [[id:8ec2ef2a-42f0-42eb-89a0-3f3ea7d7aafa][Forward proxy]] and [[id:afaa35fe-7ff7-4621-9b90-5122279c65b0][Reverse proxy]]

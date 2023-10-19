@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8611a2b5-378e-44ab-b601-6481f170c34a
 :ROAM_REFS: [cite:@SocraticQuestioning2022]
-:LAST_MODIFIED: [2023-09-14 Thu 08:16]
+:LAST_MODIFIED: [2023-10-17 Tue 01:11]
 :END:
 #+title: Socratic questioning
 #+hugo_custom_front_matter: :slug "8611a2b5-378e-44ab-b601-6481f170c34a"
@@ -86,10 +86,6 @@ Related: [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]]
 - Mice: [[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Definition :fc:
 :PROPERTIES:
 :ID:       5d7cf359-f34a-4056-95ea-57acf166ccb0
@@ -100,7 +96,7 @@ Related: [[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   186.50 | 2023-09-23T04:22:26Z |
+| back     | 2.35 |   8 |   434.74 | 2024-12-05T09:56:26Z |
 | front    | 2.80 |   7 |   403.79 | 2024-08-20T19:51:57Z |
 :END:
 
@@ -123,7 +119,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   6 |    36.69 | 2023-08-28T20:24:03Z |
+| front    | 1.75 |   7 |    63.79 | 2023-12-13T01:48:20Z |
 :END:
 
 1. [[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]
@@ -193,7 +189,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   292.38 | 2024-05-02T23:20:29Z |
-| back     | 1.30 |   3 |     6.00 | 2023-09-13T14:31:07Z |
+| back     | 1.30 |   5 |     9.22 | 2023-10-22T12:19:21Z |
 :END:
 
 [[id:786b0225-46fc-48d5-b39c-f63a3661bfc9][Challenge assumptions]]
@@ -279,8 +275,8 @@ A form of disciplined questioning credited to Socrates's teaching style.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   170.67 | 2023-10-16T14:35:50Z |
-| back     | 2.20 |   7 |   141.93 | 2023-09-22T20:07:17Z |
+| front    | 2.50 |   8 |   415.78 | 2024-12-06T02:56:21Z |
+| back     | 2.20 |   8 |   308.11 | 2024-08-14T23:57:49Z |
 :END:
 
 [[id:a541cbb8-f909-475c-b46b-a8cf9cf553e7][Meta questioning]]
@@ -302,7 +298,7 @@ A form of disciplined questioning credited to Socrates's teaching style.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   3 |     6.00 | 2023-09-20T15:16:54Z |
+| front    | 1.45 |   4 |     9.21 | 2023-10-25T11:30:10Z |
 :END:
 
 - Cats: [[id:f3e83c86-0fa3-4ff3-873c-d8144f6e2da7][Clarifying concepts]]

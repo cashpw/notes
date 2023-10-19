@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 :ID:       bc1937f1-31ce-41cc-ba0b-dedaac9334b5
-:LAST_MODIFIED: [2023-09-17 Sun 16:04]
+:LAST_MODIFIED: [2023-10-17 Tue 01:08]
 :END:
 #+title: Tanya Reilly | The Staff Engineer's Path
 #+hugo_custom_front_matter: :slug "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
@@ -2300,7 +2300,7 @@ An engineer's relationship with management at the junior, senior, and staff+ lev
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   118.90 | 2023-10-09T21:47:34Z |
+|        0 | 2.80 |   7 |   326.54 | 2024-08-31T19:48:55Z |
 :END:
 
 Staff+ engineering is a {{leadership}@0} role.
@@ -2319,9 +2319,9 @@ Staff+ engineering is a {{leadership}@0} role.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |   8 |    52.39 | 2023-10-17T00:30:12Z |
-|        1 | 2.65 |   6 |   105.45 | 2023-10-03T07:28:14Z |
-|        2 | 2.65 |   6 |    94.71 | 2023-10-11T08:03:27Z |
+|        0 | 1.45 |   9 |    76.26 | 2024-01-01T14:29:38Z |
+|        1 | 2.50 |   7 |   288.78 | 2024-07-21T02:13:15Z |
+|        2 | 2.80 |   7 |   282.88 | 2024-07-22T03:58:50Z |
 :END:
 
 Pillars of staff engineering, according to [[id:ea15f0fd-d3b6-44a7-be0a-ac0cf8258db1][Tanya Reilly]]:

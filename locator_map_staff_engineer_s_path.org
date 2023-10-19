@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1b17b268-7192-4117-9d4f-1b67dcc091ee
-:LAST_MODIFIED: [2023-09-12 Tue 05:34]
+:LAST_MODIFIED: [2023-10-17 Tue 01:02]
 :END:
 #+title: Locator map (Staff Engineer's Path)
 #+hugo_custom_front_matter: :slug "1b17b268-7192-4117-9d4f-1b67dcc091ee"
@@ -94,7 +94,7 @@ Mohit Suley, an engineering manager and former principal engineer at Microsoft, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    73.52 | 2023-10-17T03:35:27Z |
+| front    | 2.35 |   7 |   182.97 | 2024-04-17T07:16:00Z |
 | back     | 1.75 |   7 |    65.55 | 2023-11-17T01:49:49Z |
 :END:
 

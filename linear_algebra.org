@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-09-21 Thu 05:52]
+:LAST_MODIFIED: [2023-10-18 Wed 06:43]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -21,7 +21,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |  13 |   326.88 | 2024-02-27T17:43:07Z |
-|        1 | 1.30 |   1 |     1.00 | 2023-08-09T15:21:21Z |
+|        1 | 1.30 |   2 |     2.00 | 2023-10-18T06:27:05Z |
 :END:
 
 - {{Expansion of $\vec{v}$ in the basis $\beta$}@0}
@@ -202,8 +202,8 @@ All other properties of a vector space are inherited from $V$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   275.94 | 2023-10-09T13:03:57Z |
-| front    | 2.20 |   8 |   220.44 | 2023-09-03T03:21:05Z |
+| back     | 2.80 |   9 |   837.68 | 2026-01-27T23:16:44Z |
+| front    | 2.20 |   9 |   443.35 | 2024-12-22T15:52:01Z |
 :END:
 
 Linear dependence
@@ -297,7 +297,7 @@ Matrices which are interreducible by elementary row operations.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   236.15 | 2023-09-24T18:06:25Z |
+| back     | 2.35 |   9 |   575.67 | 2025-04-25T08:07:37Z |
 | front    | 2.65 |   8 |   389.53 | 2024-06-30T03:15:34Z |
 :END:
 
@@ -515,7 +515,7 @@ Space conversions underlying $A_{3 \times 4} B_{4 \times 2} \vec{x}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   4 |     9.76 | 2023-09-27T17:12:11Z |
+| front    | 1.60 |   5 |    14.79 | 2023-10-13T23:17:46Z |
 | back     | 2.65 |  11 |   322.66 | 2024-02-08T05:49:33Z |
 :END:
 
@@ -575,7 +575,7 @@ $f: V \to W$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    56.04 | 2023-09-23T15:29:28Z |
+|        0 | 2.20 |   7 |   112.68 | 2024-01-23T22:31:45Z |
 |        1 | 2.50 |   6 |    84.52 | 2023-10-25T03:41:28Z |
 :END:
 ** Denotes :fc:
@@ -719,7 +719,7 @@ Formally: $T(\vec{v}) = {\lambda}\vec{v}$ $V$ is a vector space, $T: V \to V$, $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   264.82 | 2023-09-22T17:30:03Z |
+| back     | 2.80 |   9 |   669.70 | 2025-08-02T23:05:32Z |
 | front    | 2.65 |   8 |   205.27 | 2023-06-18T22:08:27Z |
 :END:
 
@@ -891,7 +891,7 @@ $\vec{a} \otimes \vec{b}$ $=$ $\begin{bmatrix} \vec{a}_1 \vec{b}_1 & \vec{a}_1 \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   3 |     6.00 | 2023-09-20T15:02:46Z |
+| back     | 2.20 |   5 |    30.77 | 2023-11-18T08:05:15Z |
 | front    | 2.65 |   8 |   376.45 | 2024-03-20T13:47:30Z |
 :END:
 
@@ -961,7 +961,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   310.51 | 2024-01-04T17:07:17Z |
-|        1 | 2.45 |  17 |   219.19 | 2023-09-15T23:27:30Z |
+|        1 | 2.15 |   1 |     1.00 | 2023-10-12T21:22:05Z |
 |        2 | 2.65 |   7 |   166.89 | 2023-04-02T12:17:10Z |
 :END:
 
@@ -1179,7 +1179,7 @@ $\operatorname{tr}(A)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   3 |     6.00 | 2023-09-24T15:42:48Z |
+| front    | 1.75 |   5 |    17.08 | 2023-10-28T23:07:43Z |
 | back     | 2.65 |   7 |   287.89 | 2023-12-14T01:15:10Z |
 :END:
 
@@ -1322,7 +1322,7 @@ Permutation matrix
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   248.19 | 2023-10-05T20:55:56Z |
+|        0 | 2.35 |   8 |   595.21 | 2025-06-03T13:01:53Z |
 |        1 | 2.30 |  10 |   234.29 | 2023-10-05T00:27:53Z |
 :END:
 *** Source
@@ -1471,7 +1471,7 @@ $B_{n \times m}$ is a row-swapped $A_{n \times m}$ based on $P_{n \times n}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   5 |    17.26 | 2023-09-15T21:13:40Z |
+| back     | 1.75 |   6 |    28.00 | 2023-10-23T13:02:59Z |
 | front    | 2.65 |   8 |   386.50 | 2024-04-18T15:07:38Z |
 :END:
 
@@ -1492,7 +1492,7 @@ A morphism from a mathematical object to itself.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   9 |    31.83 | 2023-10-07T11:15:08Z |
+| front    | 1.30 |  10 |    44.34 | 2023-11-23T14:53:33Z |
 | back     | 2.35 |   4 |    14.75 | 2023-11-06T09:41:57Z |
 :END:
 
@@ -1623,7 +1623,7 @@ Automorphism of a vector space
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   8 |   224.94 | 2023-08-15T02:32:56Z |
+| front    | 2.50 |   9 |   597.80 | 2025-05-22T02:07:46Z |
 :END:
 
 Types of morphisms

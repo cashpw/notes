@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       adda1031-550c-4f65-9384-1ee018532adc
 :ROAM_REFS: [cite:@FundamentalTheoremCalculus2022]
-:LAST_MODIFIED: [2023-09-21 Thu 07:18]
+:LAST_MODIFIED: [2023-10-15 Sun 23:25]
 :END:
 #+title: Fundamental theorem of calculus
 #+hugo_custom_front_matter: :slug "adda1031-550c-4f65-9384-1ee018532adc"
@@ -90,8 +90,8 @@ $$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   413.86 | 2024-10-16T11:43:52Z |
-|        1 | 2.95 |   6 |   134.23 | 2023-09-21T21:20:05Z |
-|        2 | 2.65 |   6 |   128.84 | 2023-09-20T10:56:01Z |
+|        1 | 2.95 |   7 |   423.77 | 2024-11-22T07:35:45Z |
+|        2 | 2.65 |   7 |   309.71 | 2024-08-02T09:13:23Z |
 :END:
 
 {{[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]}@0} is the {{inverse}@1} of {{[[id:61de6a28-e681-45bd-a086-fff5b924354e][Integration]]}@2}.
@@ -108,8 +108,8 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   2 |     2.00 | 2023-09-21T23:51:39Z |
-| back     | 2.80 |   6 |   133.06 | 2023-09-16T19:09:48Z |
+| front    | 1.75 |   5 |    18.58 | 2023-11-03T20:14:55Z |
+| back     | 2.65 |   7 |   338.21 | 2024-09-01T09:29:44Z |
 :END:
 
 [[id:61b5706f-ac2e-4457-ad14-40b18da74229][First fundamental theorem of calculus]]
@@ -142,7 +142,7 @@ $$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   271.65 | 2024-04-25T06:34:50Z |
-|        1 | 2.20 |   4 |    12.86 | 2023-09-27T11:59:56Z |
+|        1 | 2.20 |   5 |    27.88 | 2023-10-28T05:03:10Z |
 :END:
 
 {{[[id:adda1031-550c-4f65-9384-1ee018532adc][Fundamental theorem of calculus]]}@0} relates {{[[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] and [[id:61de6a28-e681-45bd-a086-fff5b924354e][Integral]]}@1}.
@@ -180,7 +180,7 @@ $$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   7 |    89.71 | 2023-11-06T08:23:01Z |
-| back     | 2.35 |   4 |    15.50 | 2023-10-07T02:23:00Z |
+| back     | 2.35 |   5 |    34.55 | 2023-11-13T20:05:26Z |
 :END:
 
 [[id:c45039dd-ffe1-46e4-b2ae-42a8658601db][Second fundamental theorem of calculus]]

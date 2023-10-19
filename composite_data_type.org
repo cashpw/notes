@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0eac6e8a-c3d2-4de0-940a-b88479180e72
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-09-26 Tue 08:48]
 :ROAM_REFS: [cite:@CompositeDataType2023]
 :END:
 #+title: Composite data type
@@ -32,8 +32,8 @@ A struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] is C's and C+
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    76.69 | 2023-09-25T08:11:10Z |
-| back     | 2.20 |   6 |    72.22 | 2023-09-21T18:23:01Z |
+| front    | 2.50 |   7 |   192.00 | 2024-04-04T13:31:09Z |
+| back     | 2.20 |   7 |   162.38 | 2024-03-07T00:52:24Z |
 :END:
 
 [[id:0eac6e8a-c3d2-4de0-940a-b88479180e72][Composite data type]]

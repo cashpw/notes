@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       90dcfc79-6808-48ab-8193-2b040295574c
 :ROAM_REFS: [cite:@BasisLinearAlgebra2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-10-09 Mon 23:43]
 :END:
 #+title: Basis
 #+hugo_custom_front_matter: :slug "90dcfc79-6808-48ab-8193-2b040295574c"
@@ -93,7 +93,7 @@ The cardinality of a basis in that vector space.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   354.33 | 2024-01-19T10:27:38Z |
-|        1 | 2.20 |   7 |   153.20 | 2023-10-09T21:25:27Z |
+|        1 | 2.05 |   8 |   295.62 | 2024-07-31T21:31:39Z |
 :END:
 
 - {{Canonical basis}@0}

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-09-22 Fri 08:44]
+:LAST_MODIFIED: [2023-10-17 Tue 01:09]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -320,7 +320,7 @@ Learning objective concerned with:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   5 |    10.89 | 2023-09-28T20:23:56Z |
+| front    | 1.30 |   7 |    18.50 | 2023-11-03T18:27:10Z |
 | back     | 2.50 |   7 |   207.68 | 2023-11-30T10:00:23Z |
 :END:
 
@@ -345,7 +345,7 @@ Learning objective concerned with:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   341.43 | 2024-07-30T02:59:13Z |
-| back     | 2.65 |   5 |    41.79 | 2023-10-06T10:09:39Z |
+| back     | 2.80 |   6 |   121.97 | 2024-02-10T20:32:19Z |
 :END:
 
 [[id:b7572120-7bc3-40bd-a7e0-2dd80d975114][Create (Bloom's Taxonomy)]]
@@ -417,7 +417,7 @@ Summarize the identifying characteristics of a Golden Delicious apple and a Gran
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   371.30 | 2024-09-01T20:35:37Z |
-| back     | 2.50 |   4 |    13.54 | 2023-09-25T01:46:39Z |
+| back     | 2.35 |   5 |    32.98 | 2023-10-28T13:02:20Z |
 :END:
 
 [[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]] (Apples)
@@ -441,7 +441,7 @@ Would apples prevent scurvy, a disease caused by a deficiency in vitamin C?
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   136.50 | 2023-10-10T02:22:26Z |
+| front    | 2.05 |   8 |   283.92 | 2024-07-20T04:42:08Z |
 | back     | 2.80 |   7 |   303.15 | 2024-05-22T07:37:25Z |
 :END:
 
@@ -467,7 +467,7 @@ Compare and contrast four ways of serving foods made with apples and examine whi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   323.02 | 2024-06-13T15:28:13Z |
-| back     | 2.05 |   4 |    12.41 | 2023-10-04T00:07:07Z |
+| back     | 1.75 |   3 |     6.00 | 2023-10-23T08:09:33Z |
 :END:
 
 [[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]] (Apples)

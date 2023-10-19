@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
 :ROAM_REFS: [cite:@LogisticFunction2022]
-:LAST_MODIFIED: [2023-09-18 Mon 08:49]
+:LAST_MODIFIED: [2023-10-18 Wed 06:45]
 :END:
 #+title: Logistic function
 #+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
@@ -62,7 +62,7 @@ $\operatorname{fn}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\displaysty
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.05 |  25 |   380.90 | 2024-09-29T12:53:59Z |
-| front    | 1.30 |   4 |     7.48 | 2023-09-26T03:22:06Z |
+| front    | 1.30 |   7 |    15.31 | 2023-11-02T21:14:40Z |
 :END:
 
 [[id:a9bbc185-640a-4182-8bc8-ba43325f0c19][Logistic function]]
@@ -130,7 +130,7 @@ $\operatorname{logistic}(x)$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   445.19 | 2024-08-02T21:56:40Z |
-|        1 | 1.75 |   6 |    29.63 | 2023-09-29T03:51:45Z |
+|        1 | 1.75 |   7 |    54.11 | 2023-11-22T07:01:17Z |
 :END:
 {{$\operatorname{logistic}(x)$}{function}@0} $=$ {{$\displaystyle \frac{e^x}{e^x + 1}$}{fraction}@1}
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       518c35ac-35d7-4c12-9522-efb13e5be1e8
-:LAST_MODIFIED: [2023-09-17 Sun 16:02]
+:LAST_MODIFIED: [2023-10-18 Wed 06:45]
 :ROAM_ALIASES: "Topological sorting"
 :ROAM_REFS: [cite:@TopologicalSorting2022]
 :END:
@@ -64,7 +64,7 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   229.16 | 2024-02-18T05:37:08Z |
-| back     | 2.35 |   6 |    85.96 | 2023-10-02T14:06:51Z |
+| back     | 1.90 |   4 |    11.62 | 2023-10-30T04:42:42Z |
 :END:
 
 [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]
@@ -86,7 +86,7 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   118.17 | 2023-10-29T05:11:09Z |
-| back     | 2.80 |   6 |   147.99 | 2023-10-04T16:35:51Z |
+| back     | 2.80 |   7 |   379.15 | 2024-10-23T10:28:50Z |
 :END:
 
 (Pseudocode) Find a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] for a given graph
@@ -127,7 +127,7 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   5 |    10.09 | 2023-09-28T01:15:53Z |
+|        0 | 1.30 |   7 |    19.71 | 2023-11-04T23:24:31Z |
 :END:
 
 Time complexity for constructing a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] using [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] is {{$\bigo{|V|+|E|}$}@0}.

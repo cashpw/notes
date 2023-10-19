@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a15a6edb-dbe2-496f-bdc7-92b14e1f5566
 :ROAM_ALIASES: "Pathological binary tree"
-:LAST_MODIFIED: [2023-09-10 Sun 06:39]
+:LAST_MODIFIED: [2023-09-25 Mon 06:15]
 :END:
 #+title: Degenerate binary tree
 #+hugo_custom_front_matter: :slug "a15a6edb-dbe2-496f-bdc7-92b14e1f5566"
@@ -32,7 +32,7 @@ A degenerate (or pathological) tree is where each parent node has only one assoc
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   4 |    13.95 | 2023-09-24T12:27:54Z |
+| back     | 2.35 |   5 |    32.98 | 2023-10-28T12:43:43Z |
 | front    | 2.95 |   7 |   268.93 | 2023-11-11T03:10:15Z |
 :END:
 

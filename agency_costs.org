@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0cb1f49e-83a7-43ce-a32f-7ba772e7686c
-:LAST_MODIFIED: [2023-09-21 Thu 07:17]
+:LAST_MODIFIED: [2023-10-09 Mon 23:58]
 :ROAM_REFS: [cite:@AgencyCost2022]
 :END:
 #+title: Agency costs
@@ -33,7 +33,7 @@ An agency cost is an economic concept that refers to the costs associated with t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   199.96 | 2023-12-31T23:40:11Z |
-| back     | 2.05 |   4 |    12.95 | 2023-09-24T11:41:01Z |
+| back     | 2.05 |   5 |    27.43 | 2023-10-22T23:54:52Z |
 :END:
 
 [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]
@@ -53,7 +53,7 @@ The costs associated with the [[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Princip
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   319.31 | 2024-07-07T23:58:36Z |
-| back     | 2.80 |   6 |   150.84 | 2023-10-08T12:20:54Z |
+| back     | 2.80 |   7 |   406.32 | 2024-11-19T14:45:03Z |
 :END:
 
 Why [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]] exist

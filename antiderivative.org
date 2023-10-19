@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dafe179-aeb8-4718-9eb8-ac96a27f9a58
-:LAST_MODIFIED: [2023-09-21 Thu 07:17]
+:LAST_MODIFIED: [2023-10-17 Tue 01:06]
 :ROAM_ALIASES: "Indefinite integral"
 :END:
 #+title: Antiderivative
@@ -54,7 +54,7 @@ A differentiable function whose derivative is equal to a particular function.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   6 |   151.71 | 2023-10-05T10:35:49Z |
+| front    | 2.80 |   7 |   459.66 | 2025-01-07T23:19:33Z |
 | back     | 2.80 |   7 |   360.97 | 2024-09-07T11:43:09Z |
 :END:
 
@@ -117,8 +117,8 @@ $F(x)=$ {{$\frac{x^3}{3} + c$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   4 |    13.99 | 2023-09-21T14:36:23Z |
-|        1 | 2.20 |   2 |     2.00 | 2023-09-23T14:17:51Z |
+|        0 | 2.50 |   5 |    35.74 | 2023-10-31T07:10:02Z |
+|        1 | 2.20 |   5 |    26.11 | 2023-11-12T10:45:00Z |
 :END:
 
 {{$F(x)$}@0} $=$ {{$\int_a^x f(t)dt$, where $x$ is in $[a,b]$}@1}

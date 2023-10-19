@@ -2,7 +2,7 @@
 :ID:       5185ffd0-b643-484a-a69d-85b7579eb38d
 :ROAM_ALIASES: "Inferential gap"
 :ROAM_REFS: [cite:@InferentialDistance]
-:LAST_MODIFIED: [2023-09-12 Tue 05:33]
+:LAST_MODIFIED: [2023-10-17 Tue 01:09]
 :END:
 #+title: Inferential distance
 #+hugo_custom_front_matter: :slug "5185ffd0-b643-484a-a69d-85b7579eb38d"
@@ -26,10 +26,6 @@ There is a short inferential distance between you and the physicist; there is a 
   #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Definition :fc:
 :PROPERTIES:
 :ID:       4ae26056-bc92-4046-a3b8-80ebd41cf852
@@ -40,8 +36,8 @@ There is a short inferential distance between you and the physicist; there is a 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   188.57 | 2023-09-27T03:24:47Z |
-| back     | 1.90 |   4 |    11.61 | 2023-09-23T03:22:21Z |
+| front    | 2.50 |   8 |   427.43 | 2024-11-28T02:20:09Z |
+| back     | 1.90 |   6 |    41.50 | 2023-11-27T20:07:29Z |
 :END:
 
 [[id:5185ffd0-b643-484a-a69d-85b7579eb38d][Inferential distance]]

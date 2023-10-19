@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f25031de-9b51-4f1c-9166-f155b2d3250c
 :ROAM_REFS: [cite:@Multiset2023]
-:LAST_MODIFIED: [2023-09-21 Thu 07:19]
+:LAST_MODIFIED: [2023-10-15 Sun 23:28]
 :END:
 #+title: Multiset
 #+hugo_custom_front_matter: :slug "f25031de-9b51-4f1c-9166-f155b2d3250c"
@@ -74,8 +74,8 @@ The count of instances of a particular value within a [[id:f25031de-9b51-4f1c-91
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   2 |     2.00 | 2023-09-23T14:19:57Z |
-| back     | 2.80 |   6 |   148.10 | 2023-10-01T20:05:14Z |
+| front    | 2.35 |   5 |    31.21 | 2023-11-16T11:35:46Z |
+| back     | 2.80 |   7 |   423.73 | 2024-11-29T23:53:52Z |
 :END:
 
 Cardinality ([[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]])

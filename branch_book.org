@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       065a0303-c2d3-40a0-a8fb-793f19f02526
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-10-06 Fri 00:38]
 :END:
 #+title: Branch book
 #+hugo_custom_front_matter: :slug "065a0303-c2d3-40a0-a8fb-793f19f02526"
@@ -21,11 +21,7 @@ The key feature of branch books, for me, is that you can easily summarise them. 
 Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-** Definition :fc:
+** Definition ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:
 :PROPERTIES:
 :ID:       5eb325d5-de0d-4cf9-8d7f-6498dd5ad720
 :ANKI_NOTE_ID: 1640627828297
@@ -36,10 +32,10 @@ Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:3784b
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   312.00 | 2023-12-24T04:52:26Z |
-| front    | 2.35 |   8 |   237.46 | 2023-10-03T04:36:26Z |
+| front    | 2.35 |   9 |   609.84 | 2025-06-07T03:53:47Z |
 :END:
 
-([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
+[[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
 
 *** Back
 Books which consist of a single idea which is padded out with examples, extrapolations, and implications.

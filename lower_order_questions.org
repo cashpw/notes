@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b0252e55-4cb5-4af8-8a28-9bf331052193
-:LAST_MODIFIED: [2023-09-21 Thu 07:20]
+:LAST_MODIFIED: [2023-10-06 Fri 00:36]
 :END:
 #+title: Lower order questions
 #+hugo_custom_front_matter: :slug "b0252e55-4cb5-4af8-8a28-9bf331052193"
@@ -27,8 +27,8 @@ Also see [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   139.17 | 2023-09-22T21:36:01Z |
-| back     | 1.45 |   5 |    12.89 | 2023-10-04T11:36:10Z |
+| front    | 2.20 |   8 |   313.12 | 2024-08-03T16:06:30Z |
+| back     | 1.45 |   6 |    18.10 | 2023-10-24T10:05:41Z |
 :END:
 
 [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]]

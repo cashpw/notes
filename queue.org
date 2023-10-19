@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f7ca3e99-0356-4651-996e-542a11d67f50
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-17 Tue 01:11]
 :END:
 #+title: Queue
 #+hugo_custom_front_matter: :slug "f7ca3e99-0356-4651-996e-542a11d67f50"
@@ -119,7 +119,7 @@ A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] is [[id:dfa2ce8d-63c1-44ad-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   360.55 | 2024-03-16T06:43:46Z |
-| back     | 2.80 |   7 |   260.63 | 2023-10-16T07:38:20Z |
+| back     | 2.95 |   8 |   692.57 | 2025-09-08T21:57:30Z |
 :END:
 
 Common API of a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       37b4cf4e-b716-4e46-a27f-dfb5fce06bc7
 :ROAM_ALIASES: "Python PriorityQueue"
-:LAST_MODIFIED: [2023-09-07 Thu 07:28]
+:LAST_MODIFIED: [2023-09-28 Thu 21:19]
 :ROAM_REFS: [cite:@QueueSynchronizedQueueClass]
 :END:
 #+title: Python library: queue
@@ -195,7 +195,7 @@ print(min_queue.get(), 'should be (5, b)')
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   141.73 | 2023-09-22T09:12:26Z |
+|        0 | 2.80 |   7 |   429.44 | 2024-11-27T23:52:18Z |
 :END:
 
 [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]'s =PriorityQueue= uses a {{[[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap property]]}{[[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]}@0}.
@@ -254,7 +254,7 @@ Flip the sign of the =priority= either (1) manually or (2) by subclassing =Prior
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |   107.42 | 2023-09-28T10:14:06Z |
+|        0 | 2.35 |   7 |   269.31 | 2024-06-24T11:47:38Z |
 :END:
 
 A [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]] =PriorityQueue= implementation via subclassing required overriding the following methods of =PriorityQueue=: {{=put= and =get=}@0}.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       42fb5f3a-ce78-4d22-86e6-0ee2bcad8908
-:LAST_MODIFIED: [2023-09-19 Tue 16:50]
+:LAST_MODIFIED: [2023-10-06 Fri 00:27]
 :END:
 #+title: Somatic tacit knowledge
 #+hugo_custom_front_matter: :slug "42fb5f3a-ce78-4d22-86e6-0ee2bcad8908"
@@ -24,8 +24,8 @@ Somatic tacit knowledge — Knowledge that is tacit because it has to do with th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-09-21T23:50:19Z |
-| back     | 2.50 |   1 |     1.00 | 2023-09-19T15:53:20Z |
+| front    | 2.50 |   4 |    16.44 | 2023-10-19T16:59:38Z |
+| back     | 2.35 |   4 |    14.56 | 2023-10-20T20:48:09Z |
 :END:
 
 [[id:42fb5f3a-ce78-4d22-86e6-0ee2bcad8908][Somatic tacit knowledge]]

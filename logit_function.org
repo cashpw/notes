@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d0545243-563c-4745-8efa-04c0508293e9
 :ROAM_REFS: [cite:@Logit2022]
-:LAST_MODIFIED: [2023-09-17 Sun 16:14]
+:LAST_MODIFIED: [2023-10-17 Tue 01:03]
 :END:
 #+title: Logit function
 #+hugo_custom_front_matter: :slug "d0545243-563c-4745-8efa-04c0508293e9"
@@ -19,9 +19,6 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Equivalence :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 08:52]
@@ -35,7 +32,7 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   215.17 | 2023-12-18T16:28:05Z |
-|        1 | 1.30 |   9 |    29.85 | 2023-09-30T15:01:54Z |
+|        1 | 1.30 |  10 |    39.98 | 2023-11-12T05:52:33Z |
 :END:
 
 {{$\operatorname{logit}$}{function}@0} $\overset{\Delta}{=}$ {{$\ln(\frac{x}{1-x}) \;|\; x \in [0, 1]$}{expression}@1}
@@ -72,7 +69,7 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   7 |    72.93 | 2023-10-16T13:27:04Z |
+| front    | 1.90 |   8 |   140.48 | 2024-03-05T19:41:35Z |
 | back     | 2.80 |   7 |   330.78 | 2024-08-13T17:59:17Z |
 :END:
 

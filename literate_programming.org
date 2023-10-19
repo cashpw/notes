@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5c82bd2b-141a-420f-8289-4fff9514b769
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-06 Fri 00:37]
 :END:
 #+title: Literate programming
 #+hugo_custom_front_matter: :slug "5c82bd2b-141a-420f-8289-4fff9514b769"
@@ -15,9 +15,6 @@ Literate programming is a programming paradigm introduced in 1984 by Donald Knut
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 11:29]
@@ -29,7 +26,7 @@ Literate programming is a programming paradigm introduced in 1984 by Donald Knut
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   237.37 | 2024-01-03T00:29:14Z |
-| back     | 1.30 |   9 |    35.16 | 2023-10-03T19:10:24Z |
+| back     | 1.30 |  10 |    50.14 | 2023-11-25T11:02:33Z |
 :END:
 
 [[id:5c82bd2b-141a-420f-8289-4fff9514b769][Literate programming]]

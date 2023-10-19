@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9d43bd11-f7b0-42b3-8621-3f47ce7e08cd
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-10-17 Tue 01:12]
 :END:
 #+title: Central route processing
 #+hugo_custom_front_matter: :slug "9d43bd11-f7b0-42b3-8621-3f47ce7e08cd"
@@ -16,9 +16,6 @@
 
 A way of processing an argument that involves weighing the facts. Requires that you are familiar with and understand the relevant facts. Contrasted by [[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]].
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Psychology, persuasion) :fc:
 :PROPERTIES:
 :ID:       6ab64bd4-2461-4a7f-a1d8-2ee2af4065a3
@@ -29,7 +26,7 @@ A way of processing an argument that involves weighing the facts. Requires that 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    68.71 | 2023-10-16T08:01:53Z |
+| back     | 2.20 |   7 |   142.51 | 2024-03-07T20:23:05Z |
 | front    | 2.80 |   7 |   332.85 | 2024-01-17T13:46:17Z |
 :END:
 [[id:9d43bd11-f7b0-42b3-8621-3f47ce7e08cd][Central route processing]]
@@ -48,7 +45,7 @@ A person's careful and thoughtful consideration of the facts or true merits of a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   268.83 | 2023-11-19T23:30:44Z |
-| back     | 2.35 |   7 |   211.24 | 2023-09-30T19:34:19Z |
+| back     | 2.35 |   8 |   452.33 | 2024-12-28T14:18:09Z |
 :END:
 [[id:9d43bd11-f7b0-42b3-8621-3f47ce7e08cd][Central route processing]]
 *** Back

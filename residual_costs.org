@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c65bf1a1-0c55-4361-afc9-34fa828ecd83
-:LAST_MODIFIED: [2023-09-07 Thu 08:02]
+:LAST_MODIFIED: [2023-09-26 Tue 08:32]
 :END:
 #+title: Residual costs
 #+hugo_custom_front_matter: :slug "c65bf1a1-0c55-4361-afc9-34fa828ecd83"
@@ -26,7 +26,7 @@ The costs that arise where the agent acts contrary to the best interests of the 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   322.49 | 2024-07-23T04:23:39Z |
-| back     | 1.75 |   5 |    18.94 | 2023-09-26T13:34:26Z |
+| back     | 1.60 |   6 |    32.75 | 2023-10-29T09:36:55Z |
 :END:
 
 [[id:c65bf1a1-0c55-4361-afc9-34fa828ecd83][Residual costs]]

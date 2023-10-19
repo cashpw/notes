@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f6e9082b-3589-448a-9877-b9a2b31d88ba
-:LAST_MODIFIED: [2023-09-08 Fri 09:21]
+:LAST_MODIFIED: [2023-10-15 Sun 23:29]
 :END:
 #+title: Lisp
 #+hugo_custom_front_matter: :slug "f6e9082b-3589-448a-9877-b9a2b31d88ba"
@@ -51,7 +51,7 @@ The interchangeability of code and data gives Lisp its instantly recognizable sy
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   7 |   261.94 | 2023-10-14T15:33:27Z |
+|        0 | 2.80 |   8 |   717.71 | 2025-10-02T23:26:52Z |
 |        1 | 2.50 |   8 |   593.11 | 2025-04-23T18:52:32Z |
 :END:
 

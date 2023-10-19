@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1165158c-add0-4564-a962-7a30c223f477
-:LAST_MODIFIED: [2023-09-21 Thu 16:56]
+:LAST_MODIFIED: [2023-10-17 Tue 01:10]
 :END:
 #+title: Murc's law
 #+hugo_custom_front_matter: :slug "1165158c-add0-4564-a962-7a30c223f477"
@@ -31,8 +31,8 @@ In other words, Democrats are responsible for Republicans being the way they are
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-09-21T23:56:34Z |
-| back     |  2.5 |  -1 |        0 | 2023-09-28T23:56:34Z |
+| front    | 2.50 |   4 |    13.92 | 2023-10-20T05:42:21Z |
+| back     | 2.50 |   4 |    15.05 | 2023-11-01T09:15:54Z |
 :END:
 
 [[id:1165158c-add0-4564-a962-7a30c223f477][Murc's law]]

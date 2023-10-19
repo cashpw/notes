@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bcb6a937-5921-4e25-97ac-8cb8277e4aa8
-:LAST_MODIFIED: [2023-09-21 Thu 07:19]
+:LAST_MODIFIED: [2023-10-17 Tue 01:12]
 :ROAM_ALIASES: "Newton's Cenotaph"
 :END:
 #+title: Cenotaph for Sir Isaac Newton
@@ -71,7 +71,7 @@ http://catalogue.bnf.fr/ark:/12148/cb402991186
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    75.27 | 2023-12-05T20:46:56Z |
-| back     | 2.35 |   5 |    34.01 | 2023-10-16T12:50:08Z |
+| back     | 2.35 |   6 |    86.69 | 2024-01-12T00:47:48Z |
 :END:
 
 [[id:bcb6a937-5921-4e25-97ac-8cb8277e4aa8][Cenotaph for Sir Isaac Newton]]
@@ -93,7 +93,7 @@ http://catalogue.bnf.fr/ark:/12148/cb402991186
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   5 |    33.44 | 2023-10-14T23:20:12Z |
+|        0 | 2.35 |   6 |    72.81 | 2023-12-28T02:53:54Z |
 :END:
 
 {{[[id:7c1ddba6-a0ad-4ea0-8ec1-ba9099f8b2cf][Étienne-Louis Boullée]]}@0} is the creator of [[id:bcb6a937-5921-4e25-97ac-8cb8277e4aa8][Cenotaph for Sir Isaac Newton]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f454378e-9a94-4c15-b8b2-44f486077626
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-09 Mon 23:55]
 :END:
 #+title: Thought-terminating cliché
 #+hugo_custom_front_matter: :slug "f454378e-9a94-4c15-b8b2-44f486077626"
@@ -14,9 +14,6 @@
 [cite:@ThoughtterminatingCliche2022]
 #+end_quote
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       ece5a441-8c19-4925-9325-5112e3ad7fb2
@@ -28,7 +25,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.45 |   9 |   149.66 | 2023-12-10T16:44:34Z |
-| front    | 1.30 |  10 |    54.99 | 2023-10-04T14:15:54Z |
+| front    | 1.30 |  11 |    73.29 | 2023-12-18T14:31:17Z |
 :END:
 [[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]
 *** Back
@@ -45,7 +42,7 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   9 |   264.25 | 2023-10-08T20:18:13Z |
+| front    | 2.80 |  10 |   807.16 | 2025-12-25T10:41:00Z |
 | back     | 2.65 |   7 |   298.28 | 2023-12-21T22:40:48Z |
 :END:
 [[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]

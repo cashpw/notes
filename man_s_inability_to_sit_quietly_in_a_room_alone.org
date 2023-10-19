@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       68e208ad-a4d6-403e-aae3-2ef207499d99
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-10-10 Tue 00:00]
 :END:
 #+title: Man's Inability to Sit Quietly in a Room Alone
 #+hugo_custom_front_matter: :slug "68e208ad-a4d6-403e-aae3-2ef207499d99"
@@ -14,9 +14,6 @@ All of humanity's problems stem from man's inability to sit quietly in a room al
 #+end_quote
 
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** All of humanity's problems {{stem from man's inability to sit quietly in a room alone.}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 11:05]
@@ -29,7 +26,7 @@ All of humanity's problems stem from man's inability to sit quietly in a room al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   158.07 | 2023-10-08T23:52:06Z |
+|        0 | 2.20 |   8 |   322.64 | 2024-08-27T22:24:48Z |
 :END:
 
 *** Source

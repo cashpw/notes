@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-09-21 Thu 07:13]
+:LAST_MODIFIED: [2023-10-18 Wed 06:43]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -19,7 +19,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   9 |   609.04 | 2025-03-04T20:17:30Z |
-| back     | 2.65 |   8 |   180.26 | 2023-05-07T22:15:45Z |
+| back     | 2.65 |   9 |   512.18 | 2025-03-07T01:34:48Z |
 :END:
 
 $Y = f(X) + \epsilon$
@@ -106,7 +106,7 @@ Where
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   364.32 | 2024-03-12T22:11:26Z |
-| front    | 2.05 |   3 |     6.00 | 2023-09-18T12:25:24Z |
+| front    | 2.05 |   4 |    13.01 | 2023-10-16T06:31:10Z |
 :END:
 
 Expected value
@@ -408,7 +408,7 @@ Odd function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   174.69 | 2023-10-09T08:30:31Z |
+| front    | 2.50 |   8 |   452.61 | 2025-01-07T21:33:13Z |
 | back     | 2.50 |   8 |   357.16 | 2024-08-01T18:17:25Z |
 :END:
 
@@ -859,7 +859,7 @@ $\hat{Y} = \hat{f}(x) = \hat{\beta_0} + \hat{\beta_1}x$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |  16 |   247.18 | 2023-10-05T18:55:53Z |
+| back     | 2.05 |  17 |   497.90 | 2025-02-15T05:00:17Z |
 | front    | 1.60 |   2 |     2.00 | 2023-09-06T13:25:12Z |
 :END:
 
@@ -1161,7 +1161,7 @@ Population variance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   8 |   262.72 | 2023-09-22T08:41:47Z |
+| front    | 2.80 |   9 |   791.74 | 2025-11-27T09:47:27Z |
 | back     | 2.20 |   8 |   275.88 | 2024-05-25T13:39:44Z |
 :END:
 
@@ -1380,7 +1380,7 @@ The probability function of a probability space. The mathematical function that 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   8 |   281.26 | 2023-11-25T09:46:57Z |
-| front    | 2.35 |   1 |     1.00 | 2023-05-26T14:14:21Z |
+| front    | 2.35 |   3 |     6.00 | 2023-10-17T21:10:38Z |
 :END:
 
 Probability function
@@ -1400,7 +1400,7 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |  11 |    45.82 | 2023-09-24T20:14:31Z |
+| back     | 1.30 |   2 |     2.00 | 2023-10-12T06:40:57Z |
 | front    | 2.65 |   7 |   360.53 | 2024-08-01T03:29:13Z |
 :END:
 
@@ -1465,7 +1465,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.60 |  15 |   253.91 | 2023-09-26T14:06:09Z |
+|        0 | 2.60 |  16 |   643.11 | 2025-07-06T09:35:41Z |
 |        1 | 1.90 |   8 |   193.10 | 2024-02-10T03:44:04Z |
 :END:
 
@@ -1550,7 +1550,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   8 |   269.09 | 2023-10-02T16:38:49Z |
+|        0 | 2.80 |   9 |   701.41 | 2025-09-03T16:02:42Z |
 |        1 | 2.80 |   8 |   320.79 | 2023-12-08T09:17:36Z |
 :END:
 
@@ -1696,7 +1696,7 @@ The difference between an estimator's expected value and the true value of the p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   3 |     6.00 | 2023-09-25T23:49:05Z |
+| back     | 1.30 |   5 |     9.51 | 2023-10-26T20:16:22Z |
 | front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
 :END:
 
@@ -1717,7 +1717,7 @@ Any statistical relationship, whether causal or not, between two random variable
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   9 |    22.82 | 2023-10-10T18:53:26Z |
+| back     | 1.45 |  10 |    35.11 | 2023-11-20T09:07:22Z |
 | front    | 1.45 |   8 |    78.74 | 2023-10-22T08:48:50Z |
 :END:
 
@@ -1807,7 +1807,7 @@ Covariance
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   329.96 | 2024-04-13T15:19:37Z |
-|        1 | 1.90 |   2 |     2.00 | 2023-09-12T13:37:01Z |
+|        1 | 1.60 |   2 |     2.00 | 2023-10-20T13:43:07Z |
 :END:
 
 *** Source
