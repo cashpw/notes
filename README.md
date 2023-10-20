@@ -16,7 +16,7 @@ A list of unread articles/etc pulled, in most part, from my starred items in [In
 1. Click "Download full archive" in Inoreader and unzip the file.
 1. Run 
     ```
-    eval "$(cat starred.json | jq -r '.items[] | [ "printf", "* TODO [[%s][%s]]\\n:PROPERTIES:\\n:CREATED: [%s]\\n:END:\\n", .canonical[0].href, .title, (.published | strftime("%Y-%m-%d %R")) ] | @sh')" | \
+    eval "$(cat starred.json | jq -r '.items[] | [ "printf", "* TODO [[%s][%s]] :unlabeled:\\n:PROPERTIES:\\n:CREATED: [%s]\\n:END:\\n", .canonical[0].href, .title, (.published | strftime("%Y-%m-%d %R")) ] | @sh')" | \
       sed 's/\(&rdquo;\|&ldquo;\|&quot;\)/"/g' | \
       sed 's/[“”]/"/g' | \
       sed "s/[’‘]/'/g" | \

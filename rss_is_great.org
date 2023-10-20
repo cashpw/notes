@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cfc5c953-4cb7-43d7-9ed6-23336d6c4587
+:LAST_MODIFIED: [2023-10-19 Thu 09:37]
+:END:
+#+title: RSS is great
+#+hugo_custom_front_matter: :slug "cfc5c953-4cb7-43d7-9ed6-23336d6c4587"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-19 Thu 09:34]
+#+filetags: :concept:
+
+#+begin_quote
+Subscribing to RSS feeds can allow a user to keep track of many different websites in a single news aggregator, which constantly monitor sites for new content, removing the need for the user to manually check them
+
+[cite:@RSS2023]
+#+end_quote
+
+Websites and applications [[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][want your attention]] and provide information, entertainment, rage-bait, etc, in return. I use RSS to get the information without giving up too much of my attention.
+
+* Flashcards
+#+print_bibliography:

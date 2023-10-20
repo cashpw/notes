@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3442bdf5-97f0-496e-9d8c-3c368e9ea517
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/3442bdf5-97f0-496e-9d8c-3c368e9ea517
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-10-19 Thu 09:21]
 :END:
 #+title: Improving as a software engineer
 #+hugo_custom_front_matter: :slug "3442bdf5-97f0-496e-9d8c-3c368e9ea517"
@@ -18,8 +18,3 @@
     - 1:1 split? Sounds extereme (How will I get anything done?) but encourages you to really focus during execution time and forces you to think/learn/read/etc.
 
 * TODO [#3] Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-

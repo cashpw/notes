@@ -1,7 +1,8 @@
 :PROPERTIES:
 :ID:       ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb
-:LAST_MODIFIED: [2023-10-16 Mon 00:29]
+:LAST_MODIFIED: [2023-10-19 Thu 09:31]
 :ROAM_REFS: [cite:@tiezeCollectorFallacy0100]
+:ROAM_ALIASES: "Info gorging"
 :END:
 #+title: Collector's fallacy
 #+hugo_custom_front_matter: :slug "ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb"
@@ -18,6 +19,18 @@ See [[id:b23ffea4-e780-4d89-84ad-c0bd4f25816f][Christian Tieze | The Collector's
 
 Related: [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowing the name of something and knowing something]].
 
+* Info gorging
+#+begin_quote
+I have, and I called it "info gorging", and I would occasionally indulge in it. But the problem is that you don't fully integrate what you've seen with what you know or believe. At best, you've accumulated a set of superficial ideas to be fleshed out later. At worst, you've given yourself a feeling of preemptive failure, looking at all the things you could do, and yet not doing them.
+
+>Btw. you could say, just turn off the Internet and buy a book, but can you really pretend it doesn't exist? And how long can you stick to it?
+
+Old fashioned discipline starts in the mind. You must be ruthless with yourself, and make a determination: I'm reading this book, and if I'm not doing that, then I'm staring into space. There is no third option, no fidget spinner, no screen, not even useful distractions like cleaning. If you accept your wayward thoughts, but not indulge them, they will pass.
+
+In many ways, information is like fast food in that it can overstimulate you, yet leave you wanting more. There is no other way out of this cycle than to acknowledge this condition and cut yourself off. You need strong faith in yourself and in the wisdom of the path you've chosen.
+
+[cite:@javajoshCalledItInfoGorging]
+#+end_quote
 * Flashcards
 ** Describe :fc:
 :PROPERTIES:
@@ -39,4 +52,5 @@ Related: [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowi
 The practice of collecting knowledge, or references to knowledge (links, books, articles, etc), without internalizing said knowledge.
 *** Source
 [cite:@tiezeCollectorFallacy0100]
+
 #+print_bibliography:

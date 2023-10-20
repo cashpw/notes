@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba1c8bfe-7353-4fac-9202-768763ba4692
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-19 Thu 14:43]
 :END:
 #+title: Project intake form
 #+hugo_custom_front_matter: :slug "ba1c8bfe-7353-4fac-9202-768763ba4692"
@@ -30,7 +30,20 @@ Include things like:
   - Associated deadlines?
   - How do we define success for this milestone?
   - Can more than one person work on the milestones in parallel?
+- What is the last 1%/10% of the project? (see below)
 
 Also see [[id:f1e1fb6c-5dbd-45fa-85cb-6d7fc7551486][Split "Lessons learned" into nodes]].
 
+** TODO [#2] [[https://jaredramsey.com/blog/20230808.html][The Last 1%]] :project_management:
+:PROPERTIES:
+:CREATED: [2023-08-08 20:51]
+:END:
+** TODO [#2] [[https://austinhenley.com/blog/90percent.html][Stopping at 90%]] :project_management:
+:PROPERTIES:
+:CREATED: [2023-08-02 06:16]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/15cycas/how_deliver_results_quickly/][How deliver results quickly]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-07-29 17:50]
+:END:
 * TODO [#2] Flashcards

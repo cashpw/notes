@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       41fe86e1-e67e-4068-bde0-83e931928687
+:LAST_MODIFIED: [2023-10-19 Thu 15:41]
+:END:
+#+title: Vitamin C and the common cold
+#+hugo_custom_front_matter: :slug "41fe86e1-e67e-4068-bde0-83e931928687"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-19 Thu 15:39]
+#+filetags: :concept:
+
+#+begin_quote
+Doses of vitamin C in excess of 1 g daily taken shortly after onset of a cold did not reduce the duration or severity of cold symptoms in healthy adult volunteers when compared with a vitamin C dose less than the minimum recommended daily intake.
+
+[cite:@auderaMegadoseVitaminTreatmentCommonColdRandomisedControlledTrial2001]
+#+end_quote
+* Flashcards
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-10-19 Thu 15:40]
+:FC_CREATED: 2023-10-19T22:41:15Z
+:FC_TYPE:  normal
+:ID:       ce935943-1bcc-4530-a4b1-339356255c79
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-10-19T22:41:15Z |
+:END:
+
+Vitamin C's effect on the common cold.
+
+*** Back
+No reduction in symptom intensity or duration
+*** Source
+[cite:@auderaMegadoseVitaminTreatmentCommonColdRandomisedControlledTrial2001]
+#+print_bibliography:

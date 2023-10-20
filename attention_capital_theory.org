@@ -2,7 +2,7 @@
 :ID:       cd48945d-3cb1-46b1-a4ad-15fe89655d11
 :ROAM_ALIASES: "Attention capital theory"
 :ROAM_REFS: [cite:@AttentionEconomy2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-10-19 Thu 09:37]
 :END:
 #+title: Attention economy
 #+hugo_custom_front_matter: :slug "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
@@ -24,6 +24,7 @@ As content has grown increasingly abundant and immediately available, attention 
 #+end_quote
 
 Related: [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]
+
 * Flashcards
 :PROPERTIES:
 :ANKI_DECK: Default

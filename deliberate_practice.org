@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1d74568-61f0-4a01-8aab-184d1b7a9752
-:LAST_MODIFIED: [2023-09-25 Mon 06:13]
+:LAST_MODIFIED: [2023-10-19 Thu 17:31]
 :END:
 #+title: Deliberate practice
 #+hugo_custom_front_matter: :slug "a1d74568-61f0-4a01-8aab-184d1b7a9752"
@@ -47,6 +47,10 @@ One of Ericsson's core findings was that how expert one becomes at a skill has m
 [cite:@PracticeLearningMethod2023]
 #+end_quote
 
+* TODO [#2] [[https://fs.blog/deliberate-practice-guide/][The Deliberate Practice Guide]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-06-14 12:00]
+:END:
 * Flashcards
 ** Cloze :fc:
 :PROPERTIES:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kuhnBeImpatient2020]
 :ID:       2149d460-f6e0-4696-b34d-c2cc2228d8db
-:LAST_MODIFIED: [2023-09-26 Tue 08:34]
+:LAST_MODIFIED: [2023-10-19 Thu 17:34]
 :END:
 #+title: Ben Kuhn | Be Impatient
 #+hugo_custom_front_matter: :slug "2149d460-f6e0-4696-b34d-c2cc2228d8db"
@@ -10,6 +10,8 @@
 #+filetags: :reference:
  
 [[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnBeImpatient2020]
+
+One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 
 * Summary
 Impatience produces faster/tighter [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loops]].

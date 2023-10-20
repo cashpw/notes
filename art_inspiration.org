@@ -1,15 +1,29 @@
 :PROPERTIES:
 :ID:       8a0cef6e-e26b-4aac-a260-34fb116f7952
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-19 Thu 15:29]
 :END:
 #+title: Art inspiration
 #+hugo_custom_front_matter: :slug "8a0cef6e-e26b-4aac-a260-34fb116f7952"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-08 Tue 15:58]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
-- Digital collections
-  - [cite:@mccannAwesomedigitalcollections2022]
-- [[id:c73727bd-7ed8-4c50-bd08-524ebb2afbea][Ceramists I follow]]
+* Digital collections
+
+- [cite:@mccannAwesomedigitalcollections2022]
+
+* Ceramics
+
+[[id:c73727bd-7ed8-4c50-bd08-524ebb2afbea][Ceramists I follow]]
+
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/][My favorite piece so far]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-07-18 02:52]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/][I know jug I know]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-07-17 18:20]
+:END:
+
 * Flashcards
 #+print_bibliography:
