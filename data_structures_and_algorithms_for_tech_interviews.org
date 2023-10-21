@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 08df108f-c080-414d-a2ce-99020b8ce0e7
+:LAST_MODIFIED: [2023-10-20 Fri 06:47]
+:END:
+#+title: Data structures and algorithms for tech interviews
+#+hugo_custom_front_matter: :slug "08df108f-c080-414d-a2ce-99020b8ce0e7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-20 Fri 06:46]
+#+filetags: :concept:
+
+- [cite:@NewYearGiftCuratedListTop75LeetCodeQuestionsYour] 
+- [[https://neetcode.io/roadmap][Neetcode]] 

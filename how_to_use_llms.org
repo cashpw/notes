@@ -1,0 +1,101 @@
+:PROPERTIES:
+:ID: 7cea1ff0-b920-4927-a0f5-8047aff0b777
+:ROAM_ALIASES: "How to use large language models"
+:LAST_MODIFIED: [2023-10-20 Fri 17:13]
+:END:
+#+title: How to use LLMs
+#+hugo_custom_front_matter: :slug "7cea1ff0-b920-4927-a0f5-8047aff0b777"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-20 Fri 09:30]
+#+filetags: :hastodo:concept:
+https://news.ycombinator.com/item?id=37340314
+* TODO [#2] [[https://simonwillison.net/2023/Mar/27/ai-enhanced-development/][AI-enhanced development makes me more ambitious with my projects]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-31 04:45]
+:END:
+* TODO [#2] [[https://cmte.ieee.org/futuredirections/2023/04/03/ai-wont-steal-your-job-people-leveraging-ai-will/][AI won't steal your job, people leveraging AI will]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-04-03 13:06]
+:END:
+* TODO [#2] [[https://oneusefulthing.substack.com/p/thinking-companion-companion-for][Thinking companion, companion for thinking]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-04-05 12:01]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/how-to-use-ai-to-unstick-yourself][How to... use AI to unstick yourself]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-14 15:21]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/using-ai-to-make-teaching-easier][Using AI to make teaching easier & more impactful]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-17 10:49]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/acceleration][Acceleration.]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-23 12:06]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/thinking-companion-companion-for][Thinking companion, companion for thinking]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-04-05 12:01]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/superhuman-what-can-ai-do-in-30-minutes][Superhuman: What can AI do in 30 minutes?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-25 23:43]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff][How to use AI to do practical stuff: A new guide]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-29 17:32]
+:END:
+* TODO [#2] [[https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6][My kids and I just played D&D with ChatGPT4 as the DM]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-30 21:38]
+:END:
+* TODO [#2] [[https://news.ycombinator.com/item?id=35329054][Ask HN: What is a specific use of GPT-4 that you think is remarkable?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-27 16:54]
+:END:
+* TODO [#2] [[https://www.reddit.com/r/cscareerquestions/comments/12304xs/in_what_way_are_you_using_chatgpt_at_work/][In what way are you using ChatGPT at work?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-26 21:23]
+:END:
+* TODO [#2] [[https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes][Superhuman: What can AI do in 30 minutes?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-26 09:40]
+:END:
+- https://news.ycombinator.com/item?id=35312694
+* TODO [#2] [[https://news.ycombinator.com/item?id=35299071][Ask HN: How are you using GPT to be productive?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-25 03:39]
+:END:
+* TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/11i1gob/what_is_your_current_use_of_ai/][What is your current use of AI?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-04 15:11]
+:END:
+* TODO [#2] [[https://oneusefulthing.substack.com/p/feats-to-astonish-and-amaze][Feats to astonish and amaze]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-05 13:06]
+:END:
+* TODO [#2] [[https://oneusefulthing.substack.com/p/power-and-weirdness-how-to-use-bing][Power and Weirdness: How to Use Bing AI]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-03-02 13:01]
+:END:
+* TODO [#2] [[https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai][Harvard: Student Use Cases for AI]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-09-26 14:07]
+:END:
+* TODO [#2] [[https://news.ycombinator.com/item?id=37688095][Ask HN: How do you use AI to get things done faster?]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-09-28 11:30]
+:END:
+* TODO [#2] [[https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9][What codegen is good for]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-09-28 16:01]
+:END:
+* TODO [#2] [[https://www.oneusefulthing.org/p/embracing-weirdness-what-it-means][Embracing weirdness: What it means to use AI as a (writing) tool]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-09-05 11:30]
+:END:
+* TODO [#2] [[http://simonwillison.net/2023/Aug/27/wordcamp-llms/#atom-everything][Making Large Language Models work for you]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-08-27 14:35]
+:END:
+* TODO [#2] Flashcards

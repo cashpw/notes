@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-10-09 Mon 23:46]
+:LAST_MODIFIED: [2023-10-20 Fri 09:25]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -83,6 +83,7 @@ Cards, like [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]], [[id:6
 
 * TODO [#3] Expand :noexport:
 
+- [cite:@borrettiEffectiveSpacedRepetition2023] 
 - [cite:@branwenSpacedRepetitionEfficientLearning2009]
 
   #+begin_quote

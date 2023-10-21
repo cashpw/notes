@@ -2,7 +2,7 @@
 :ID:       cd48945d-3cb1-46b1-a4ad-15fe89655d11
 :ROAM_ALIASES: "Attention capital theory"
 :ROAM_REFS: [cite:@AttentionEconomy2022]
-:LAST_MODIFIED: [2023-10-19 Thu 09:37]
+:LAST_MODIFIED: [2023-10-20 Fri 09:00]
 :END:
 #+title: Attention economy
 #+hugo_custom_front_matter: :slug "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
@@ -24,6 +24,10 @@ As content has grown increasingly abundant and immediately available, attention 
 #+end_quote
 
 Related: [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]
+* TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/12r27kq/modding_social_media_to_win_the_attention_war/][Modding Social Media to Win The Attention War]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-04-18 19:57]
+:END:
 
 * Flashcards
 :PROPERTIES:

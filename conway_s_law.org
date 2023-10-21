@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d46b30b9-7aca-4b2b-8d08-bd22bdb63394
 :ROAM_REFS: [cite:@ConwayLaw2022]
-:LAST_MODIFIED: [2023-10-17 Tue 01:07]
+:LAST_MODIFIED: [2023-10-20 Fri 17:13]
 :END:
 #+title: Conway's law
 #+hugo_custom_front_matter: :slug "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"
@@ -24,6 +24,10 @@ The law is based on the reasoning that in order for a product to function, the a
 #+DOWNLOADED: https://ardalis.com/static/4560ab6ef4633a6ec46c5a193b65938c/c5cc7/2011.06.27_organizational_charts.png @ 2023-02-06 19:59:51
 [[file:2023-02-06_19-59-51_2011.06.27_organizational_charts.png]]
 #+end_quote
+* TODO [#2] [[https://martinfowler.com/bliki/ConwaysLaw.html][Conway's Law]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-04-16 15:45]
+:END:
 
 * Flashcards
 ** Definition :fc:

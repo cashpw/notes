@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f17a9096-2a81-4652-9e56-d5fe76abcbc0
-:LAST_MODIFIED: [2023-09-14 Thu 15:25]
+:LAST_MODIFIED: [2023-10-20 Fri 17:13]
 :END:
 #+title: Focus as magic
 #+hugo_custom_front_matter: :slug "f17a9096-2a81-4652-9e56-d5fe76abcbc0"
@@ -26,7 +26,11 @@ Meanwhile there was the sneeze-medicine-making, but Kiki didn't seem to be cut o
 [cite:@kadonoKikiDeliveryService2020]
 #+end_quote
 
-* TODO Also quote the passage that contains "Some say it's because there's no such thing as a completely dark night or perfect silence anymore" :noexport:
+* TODO [#1] Also quote the passage that contains "Some say it's because there's no such thing as a completely dark night or perfect silence anymore" :noexport:
 
+* TODO [#2] [[https://thewalrus.ca/noise-ethics/][Noise is all around us]] :noexport:
+:PROPERTIES:
+:CREATED: [2023-05-21 21:33]
+:END:
 * TODO [#2] Flashcards
 #+print_bibliography:
