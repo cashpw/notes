@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-10-20 Fri 17:12]
+:LAST_MODIFIED: [2023-10-24 Tue 17:45]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -228,6 +228,7 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-03-31 22:09]
 :END:
+- https://news.ycombinator.com/item?id=26653788
 ** TODO [#2] [[https://boris-marinov.github.io/category-theory-illustrated/04_order/][Category Theory: Orders]] :math:
 :PROPERTIES:
 :CREATED: [2021-04-01 08:54]
@@ -315,10 +316,6 @@ Examples:
 ** TODO [#2] [[https://www.lesswrong.com/posts/CSZnj2YNMKGfsMbZA/specializing-in-problems-we-don-t-understand][Specializing in Problems We Don't Understand]] :essay:
 :PROPERTIES:
 :CREATED: [2021-04-11 10:21]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/moxkw3/this_is_kind_of_tangential_but_i_figure_someone/][This is kind of tangential, but I figure someone here might know -- how smart, relative to adults, are children?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-04-11 19:32]
 :END:
 ** TODO [#2] [[https://www.lesswrong.com/posts/aGxBbQNuahNrv7wxP/taking-your-environment-as-object-vs-being-subject-to-your]["Taking your environment as object" vs "Being subject to your environment"]] :essay:discussion:
 :PROPERTIES:
@@ -3052,10 +3049,6 @@ Something for companies considering employee happiness to consider. ^{//}
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/xs0mtm/difficulty_of_implementation_aside_whats_your_one/][Difficulty of implementation aside: what's your One Simple Trick that would unlock the most amount of humanity's locked up potential?]] :advice:
 :PROPERTIES:
 :CREATED: [2022-09-30 12:55]
-:END:
-** TODO [#2] [[https://halestrom.net/darksleep/blog/048_indoorairsensing/][Many indoor air quality sensor products are a scam]] :health:
-:PROPERTIES:
-:CREATED: [2022-09-29 19:40]
 :END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/xrlalo/how_to_be_less_agreeable/][How to be less agreeable]] :advice:
 :PROPERTIES:
