@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       462b9154-2519-45e9-a4f5-35e7c32128c7
 :ROAM_REFS: [cite:@Metagaming2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-25 Wed 19:11]
 :END:
 #+title: Metagame
 #+hugo_custom_front_matter: :slug "462b9154-2519-45e9-a4f5-35e7c32128c7"
@@ -17,10 +17,9 @@ Metagaming might also refer to a game which functions to create or modify the ru
 [cite:@Metagaming2022]
 #+end_quote
 
+This is one of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
+
 * Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-17 Thu 20:01]

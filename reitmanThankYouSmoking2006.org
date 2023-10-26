@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       1c296190-1830-4fdc-9b21-b2fd80ce2513
+:ROAM_REFS: @reitmanThankYouSmoking2006
+:LAST_MODIFIED: [2023-10-25 Wed 09:15]
+:END:
+#+title: Notes on Reitman, Jason, Thank You for Smoking
+#+hugo_custom_front_matter: roam_refs '("@reitmanThankYouSmoking2006")
+#+filetags: :hastodo:
+
+
+
+#+print_bibliography:
+* TODO [#2] Flashcards

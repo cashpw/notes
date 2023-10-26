@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       83847cf8-f202-46bd-a272-38f7ab57be64
+:ROAM_REFS: @humans.txtThankYouSmoking
+:LAST_MODIFIED: [2023-10-25 Wed 09:13]
+:END:
+#+title: Notes on humans.txt, Thank You for Smoking
+#+hugo_custom_front_matter: roam_refs '("@humans.txtThankYouSmoking")
+#+filetags: :hastodo:
+
+
+
+#+print_bibliography:
+* TODO [#2] Flashcards

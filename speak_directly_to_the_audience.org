@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       246566c2-5b4b-479a-9e1d-522fd85903d9
 :ROAM_ALIASES: "Speak past your opponent"
-:LAST_MODIFIED: [2023-09-26 Tue 08:48]
+:LAST_MODIFIED: [2023-10-25 Wed 09:15]
 :END:
 #+title: Speak directly to the audience
 #+hugo_custom_front_matter: :slug "246566c2-5b4b-479a-9e1d-522fd85903d9"
@@ -10,6 +10,47 @@
 #+filetags: :concept:
 
 Consider a public argument between two individuals. There are three participants: the two individuals and the audience around them -- the public. It can be easier to win the argument, for some definitions of win, to speak past the person you're arguing with and instead talk directly to the audience; [[id:a6d989de-a309-479e-91ab-9327b8fdf874][ignore them altogether]].
+
+#+begin_quote
+Joey Naylor (his son): ...so what happens when you're wrong?
+
+Nick Naylor (the father lobbyist): Whoa, Joey I'm never wrong.
+
+Joey Naylor: But you can't always be right...
+
+Nick Naylor: Well, if it's your job to be right, then you're never wrong
+
+Joey Naylor: But what if you are wrong?
+
+Nick Naylor: OK, let's say that you're defending chocolate, and I'm defending vanilla. Now if I were to say to you: 'Vanilla is the best flavor ice-cream', you'd say...
+
+Joey Naylor: No, chocolate is.
+
+Nick Naylor: Exactly, but you can't win with this argument... so, I'll ask you: so you think chocolate is the end all and the all of ice cream, do you?
+
+Joey Naylor: It's the best ice cream, I wouldn't order any other.
+
+Nick Naylor: Oh! So it's all chocolate for you is it?
+
+Joey Naylor: Yes, chocolate is all I need.
+
+Nick Naylor: Well, I need more than chocolate, and for that matter I need more than vanilla. I believe that we need freedom. And choice when it comes to our ice cream, and that Joey Naylor, that is the definition of liberty.
+
+Joey Naylor: But that's not what we're talking about
+
+Nick Naylor: Ah! But that's what I'm talking about.
+
+Joey Naylor: ...but you didn't prove that vanilla was the best...
+
+Nick Naylor: I didn't have to. I proved that you're wrong, and if you're wrong I'm right.
+
+Joey Naylor: But you still didn't convince me
+
+Nick Naylor: It's that… I'm not after you. I'm after them (all people around)
+
+[cite:@reitmanThankYouSmoking2006], [cite:@runningclinicThankYouSmoking]
+#+end_quote
+
 * Flashcards
 ** Describe :fc:
 :PROPERTIES:
@@ -27,3 +68,4 @@ Consider a public argument between two individuals. There are three participants
 [[id:246566c2-5b4b-479a-9e1d-522fd85903d9][Speak directly to the audience]]
 *** Back
 A technique which re-frames a discussion between yourself and another group to a discussion between yourself and the audience watching the first discussion. Implicitly redefines the goal of the original discussion from "Convince the /person I'm arguing with/ of something" to "Convince the /audience watching us/ of something", which is often a more correct goal than the former.
+#+print_bibliography:

@@ -2,13 +2,15 @@
 :ID:       5ad7ef93-a1e3-4b69-85bc-b5c5c550df73
 :ROAM_REFS: [cite:@bertholtWorkerReadsHistory]
 :ROAM_ALIASES: "A worker reads history" "Who built the seven gates of Thebes?"
-:LAST_MODIFIED: [2023-09-25 Mon 06:12]
+:LAST_MODIFIED: [2023-10-25 Wed 19:12]
 :END:
 #+title: Bertolt Brecht | A worker reads history
 #+hugo_custom_front_matter: :slug "5ad7ef93-a1e3-4b69-85bc-b5c5c550df73"
 #+author: Cash Prokop-Weaver
 #+date: [2022-11-15 Tue 07:12]
 #+filetags: :hastodo:poem:
+
+[[id:4f021a49-df35-4350-951f-5b463223ae8a][Bertolt Brecht]], [cite:@bertholtWorkerReadsHistory]
 
 #+begin_verse
 Who built the seven gates of Thebes?
@@ -43,7 +45,7 @@ So many particulars.
 So many questions.
 #+end_verse
 
-[[id:4f021a49-df35-4350-951f-5b463223ae8a][Bertolt Brecht]], [cite:@bertholtWorkerReadsHistory]
+One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 
 * Flashcards
 ** {{[[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][A worker reads history]]}@0} starts {{[[id:5ad7ef93-a1e3-4b69-85bc-b5c5c550df73][Who built the seven gates of Thebes?]]}@1} :fc:

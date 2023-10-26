@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-10-24 Tue 17:45]
+:LAST_MODIFIED: [2023-10-25 Wed 18:57]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
 #+AUTHOR: cashweaver
 #+STARTUP: showeverything
 #+TAGS: [ type : book essay class discussion link_group ]
-#+TAGS: [ topic : math politics machine_learning_artificial_intelligence management productivity physics learning computer_science health aging lisp parenting advice communication systems exercise cool history art writing economics software_engineering biology research creativity career relationships philosophy housing climate_change mindfulness happiness attention culture self_improvement databases marketing anthropology design [[transhumanism]] travel finance interview passive_house business ceramics retrospective project_management speaking gardening job_hunt pedagogy ]
+#+TAGS: [ topic : math politics machine_lear    ning_artificial_intelligence management productivity physics learning computer_science health aging lisp parenting advice communication systems exercise cool history art writing economics software_engineering biology research creativity career relationships philosophy housing climate_change mindfulness happiness attention culture self_improvement databases marketing anthropology design [[transhumanism]] travel finance interview passive_house business ceramics retrospective project_management speaking gardening job_hunt pedagogy ]
 #+TAGS: [ software : vim emacs ]
 #+TAGS: [ culinary : diet cooking ]
 #+TAGS: [ when : someday ]
@@ -284,10 +284,6 @@ Examples:
 ** TODO [#2] [[https://product.hubspot.com/blog/how-to-learn-complex-things-quickly][How to Learn Complex Things Quickly: A Guide]] :learning:advice:
 :PROPERTIES:
 :CREATED: [2021-04-08 13:56]
-:END:
-** TODO [#2] [[https://jacobian.org/2021/apr/7/embrace-the-grind/][Embrace the Grind]] :essay:productivity:advice:
-:PROPERTIES:
-:CREATED: [2021-04-09 06:29]
 :END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/mnmg3f/who_are_some_good_thinkers_on_the_woke_side_of/][Who are some good thinkers on the "woke" side of the culture war?]] :discussion:link_group:
 :PROPERTIES:

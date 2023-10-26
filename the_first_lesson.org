@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7c49d995-a4d4-4c95-84c0-9dae9d8ab498
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/7c49d995-a4d4-4c95-84c0-9dae9d8ab498
-:LAST_MODIFIED: [2023-10-16 Mon 00:27]
+:LAST_MODIFIED: [2023-10-25 Wed 19:12]
 :END:
 #+title: The first lesson
 #+hugo_custom_front_matter: :slug "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
@@ -14,6 +14,8 @@
 
 [[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Irulan Corrino]], [cite:@herbertDune1999]
 #+end_quote
+
+One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 
 * Flashcards
 ** [[id:9f491719-8277-4aab-94fd-39c512730430][Muad'Dib]] learned rapidly because {{his first training was in how to learn. And the first lesson of all was the basic trust that he could learn.}{full}@0} :fc:

@@ -2,15 +2,17 @@
 :ROAM_REFS: [cite:@kuhnAttentionYourScarcestResource2020]
 :ID:       4625d068-26fe-47d7-93b3-da12b0151ca1
 :DIR:      /home/cashweaver/proj/roam/attachments/4625d068-26fe-47d7-93b3-da12b0151ca1
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-25 Wed 19:10]
 :END:
 #+title: Ben Kuhn | Attention Is Your Scarcest Resource
 #+hugo_custom_front_matter: :slug "4625d068-26fe-47d7-93b3-da12b0151ca1"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-06 Sun 15:31]
-#+filetags: :reference:
+#+filetags: :hastodo:reference:
  
 [[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnAttentionYourScarcestResource2020]
+
+One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 
 * Summary
 * Thoughts
@@ -38,10 +40,5 @@ As a programmer, I tried to make sure that I was only ever working on one thing 
 
 In the short term, this made me less efficient, because I'd spend less time programming and more time staring vacantly at the ceiling. But if I stared vacantly for long enough, I'd eventually get mad enough to, e.g., reverse-engineer the partner's API in a fit of rage. This resulted in me shipping my most important projects faster, hence getting faster compounding growth.
 #+end_quote
-* Flashcards
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-
+* TODO [#2] Flashcards
 #+print_bibliography:

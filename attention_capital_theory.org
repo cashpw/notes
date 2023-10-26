@@ -2,13 +2,14 @@
 :ID:       cd48945d-3cb1-46b1-a4ad-15fe89655d11
 :ROAM_ALIASES: "Attention capital theory"
 :ROAM_REFS: [cite:@AttentionEconomy2022]
-:LAST_MODIFIED: [2023-10-20 Fri 09:00]
+:LAST_MODIFIED: [2023-10-25 Wed 19:10]
 :END:
 #+title: Attention economy
 #+hugo_custom_front_matter: :slug "cd48945d-3cb1-46b1-a4ad-15fe89655d11"
 #+author: Cash Prokop-Weaver
 #+date: [2021-12-03 Fri 12:17]
 #+begin_quote
+#+filetags: :hastodo:
 Attention economics is an approach to the management of information that treats human attention as a scarce commodity and applies economic theory to solve various information management problems. According to Matthew Crawford, "Attention is a resource—a person has only so much of it."
 
 In this perspective, Thomas H. Davenport and John C. Beck define the concept of attention: "Attention is focused mental engagement on a particular item of information. Items come into our awareness, we attend to a particular item, and then we decide whether to act."
@@ -23,7 +24,8 @@ As content has grown increasingly abundant and immediately available, attention 
 [cite:@AttentionEconomy2022]
 #+end_quote
 
-Related: [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]
+Related: [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]. This is one of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
+
 * TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/12r27kq/modding_social_media_to_win_the_attention_war/][Modding Social Media to Win The Attention War]] :noexport:
 :PROPERTIES:
 :CREATED: [2023-04-18 19:57]

@@ -1,13 +1,15 @@
 :PROPERTIES:
 :ID:       af1ca7da-bebf-4161-8162-057cae4a0951
 :ROAM_ALIASES: "Tell all the truth but tell it slant"
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-25 Wed 19:12]
 :END:
 #+title: Emily Dickinson | Tell all the truth but tell it slant
 #+hugo_custom_front_matter: :slug "af1ca7da-bebf-4161-8162-057cae4a0951"
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-22 Tue 07:44]
 #+filetags: :hastodo:poem:
+
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruthTellItSlant2022]
 
 #+begin_verse
 Tell all the truth but tell it slant —
@@ -20,7 +22,7 @@ The Truth must dazzle gradually
 Or every man be blind —
 #+end_verse
 
-[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruthTellItSlant2022]
+One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 
 * Flashcards
 :PROPERTIES:
