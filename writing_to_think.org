@@ -2,7 +2,7 @@
 :ID:       bfc1e54d-2c91-4514-ad99-54e6494268bb
 :DIR:      /home/cashweaver/proj/roam/attachments/bfc1e54d-2c91-4514-ad99-54e6494268bb
 :ROAM_ALIASES: "Write to think"
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-26 Thu 19:28]
 :END:
 #+title: Writing to think
 #+hugo_custom_front_matter: :slug "bfc1e54d-2c91-4514-ad99-54e6494268bb"
@@ -11,12 +11,16 @@
 #+date: [2022-02-01 Tue 09:20]
 #+filetags: :hastodo:
 
-* TODO [#3]
+* TODO [#3] Expand
 
 See:
 
 - [[id:53938c1e-d71b-436a-bbc5-f3c220c677ea][Adam Zerner | Writing to Think]]
 
+** TODO [#2] [[https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/][The Document Culture of Amazon]] :management:productivity:writing:
+:PROPERTIES:
+:CREATED: [2021-06-17 22:49]
+:END:
 * TODO [#3] Flashcards
 :PROPERTIES:
 :ANKI_DECK: Default

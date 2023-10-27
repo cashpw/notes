@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       dfdbbec2-dd72-47bf-a450-2de66cfd8755
+:LAST_MODIFIED: [2023-10-26 Thu 08:38]
+:END:
+#+title: Track org-mode TODOs across devices
+#+hugo_custom_front_matter: :slug "dfdbbec2-dd72-47bf-a450-2de66cfd8755"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-26 Thu 08:37]
+#+filetags: :hastodo:concept:
+
+In short: use [[https://syncthing.net/][Syncthing]].
+
+* TODO [#2] Describe how I sync org-mode across devices
+* Flashcards

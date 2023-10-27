@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-10-25 Wed 18:57]
+:LAST_MODIFIED: [2023-10-26 Thu 20:08]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -821,10 +821,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-06-17 17:47]
 :END:
-** TODO [#2] [[https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/][The Document Culture of Amazon]] :management:productivity:writing:
-:PROPERTIES:
-:CREATED: [2021-06-17 22:49]
-:END:
 ** TODO [#2] [[https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/][Advancing AI theory with first-principles understanding of deep neural networks]] :machine_learning_artificial_intelligence:
 :PROPERTIES:
 :CREATED: [2021-06-19 09:07]
@@ -1072,10 +1068,6 @@ Examples:
 ** TODO [#2] [[https://danlawton.substack.com/p/when-buddhism-goes-bad][My Mindfulness Practice Led Me to Meltdown]] :mindfullness:
 :PROPERTIES:
 :CREATED: [2021-07-20 06:57]
-:END:
-** TODO [#2] [[https://www.calnewport.com/blog/2021/07/21/on-pace-and-productivity/][On Pace and Productivity]] :productivity:
-:PROPERTIES:
-:CREATED: [2021-07-21 22:56]
 :END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/oq8g2j/links_for_july/][Links For July]] :link_group:
 :PROPERTIES:
@@ -1656,10 +1648,6 @@ Examples:
 ** TODO [#2] [[https://news.ycombinator.com/item?id=28866558][Ask HN: What's the Point of Life?]] :discussion:
 :PROPERTIES:
 :CREATED: [2021-10-14 16:38]
-:END:
-** TODO [#2] [[https://danluu.com/productivity-velocity/][Some reasons to work on productivity and velocity]] :essay:productivity:
-:PROPERTIES:
-:CREATED: [2021-10-15 19:28]
 :END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/q8x6fo/what_are_some_good_reads_on_the_future_of_human/][What are some good reads on the future of human civilization?]] :link_group:
 :PROPERTIES:

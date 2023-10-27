@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@collisonWeNeedNewScienceProgress2019]
 :ID:       71422543-ab62-4166-8429-0cd631da8d38
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-10-26 Thu 20:05]
 :END:
 #+title: Patrick Collison, Tyler Cowen | We Need a New Science of Progress
 #+hugo_custom_front_matter: :slug "71422543-ab62-4166-8429-0cd631da8d38"
@@ -9,7 +9,7 @@
 #+date: [2022-11-10 Thu 17:32]
 #+filetags: :hastodo:reference:
 
-TODO_AUTHOR, [cite:@collisonWeNeedNewScienceProgress2019]
+[[id:6f88fbaa-d8e4-4753-b6b0-f911587e7863][Patrick Collison]], [cite:@collisonWeNeedNewScienceProgress2019]
 
 * TODO [#2] Also review [cite:@collisonProgress]
 

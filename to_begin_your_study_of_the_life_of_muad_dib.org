@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dcc436a0-983e-453a-b8db-99fb1576d190
+:LAST_MODIFIED: [2023-10-26 Thu 08:42]
+:END:
+#+title: To begin your study of the life of Muad'Dib
+#+hugo_custom_front_matter: :slug "dcc436a0-983e-453a-b8db-99fb1576d190"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-26 Thu 08:39]
+#+filetags: :quote:
+
+#+begin_quote
+[[[id:9032f4f9-c2f4-4af5-9f69-4840c3bbbce8][A beginning]]...] To begin your study of the life of Maud'Dib, then, take care that you first place him in his time: born in the 57th year of the Padishah Emperor, Shaddam IV. And take the most special care that you locate Maud'Dib in his place: the planet Arrakis. Do not be deceived by the fact that he was born on Caladan and lived his first fifteen years there. Arrakis, the planet known as Dune, is forever his place.
+
+[cite:@herbertDune1999]
+#+end_quote
+
+* Flashcards
+#+print_bibliography:

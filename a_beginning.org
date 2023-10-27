@@ -1,17 +1,19 @@
 :PROPERTIES:
 :ID:       9032f4f9-c2f4-4af5-9f69-4840c3bbbce8
-:LAST_MODIFIED: [2023-09-05 Tue 20:22]
+:LAST_MODIFIED: [2023-10-26 Thu 08:41]
 :END:
 #+title: A beginning
 #+hugo_custom_front_matter: :slug "9032f4f9-c2f4-4af5-9f69-4840c3bbbce8"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-21 Mon 07:03]
 #+filetags: :quote:
+
 #+begin_quote
-A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows.
+A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows. [... [[id:dcc436a0-983e-453a-b8db-99fb1576d190][To begin your study of the life of Muad'Dib]]]
 
 [[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Princess Irulan]], [cite:@herbertDune1999]
 #+end_quote
+
 * Flashcards
 :PROPERTIES:
 :ANKI_DECK: Default

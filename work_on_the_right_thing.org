@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fa7eb146-fe4a-4a3e-a6df-d9b05328b4f4
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-26 Thu 20:00]
 :END:
 #+title: Work on the right thing
 #+hugo_custom_front_matter: :slug "fa7eb146-fe4a-4a3e-a6df-d9b05328b4f4"
@@ -13,6 +13,8 @@ It doesn't matter how fast you move if it's in a worthless direction. Picking th
 
 [cite:@altmanProductivity2018]
 #+end_quote
+
+Note that you won't know what the right thing is at the beginning. [[id:630c804a-cef5-42e6-a168-5a233a0acbed][Just start]] and use [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loops]].
 
 * TODO [#2] Flashcards
 #+print_bibliography:
