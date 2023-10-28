@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@guzeyEveryProductivityThoughtVeEverHadConciselyPossible]
+:ID:       d09c5404-88ea-42c5-9928-03e170625ec9
+:LAST_MODIFIED: [2023-10-27 Fri 15:25]
+:END:
+#+title: Alexey Guzey | Every Productivity Thought I've Ever Had, as Concisely as Possible
+#+hugo_custom_front_matter: :slug "d09c5404-88ea-42c5-9928-03e170625ec9"
+#+author: Cash Weaver
+#+date: [2023-10-27 Fri 15:25]
+#+filetags: :hastodo:reference:
+
+[[id:a0155ece-92f2-4e9c-a9e6-c43c6ad86a20][Alexey Guzey]], [cite:@guzeyEveryProductivityThoughtVeEverHadConciselyPossible]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+* TODO Also take a look at the [[https://news.ycombinator.com/item?id=20737304][hacker news discussion]]
+* TODO [#2] Flashcards
+#+print_bibliography:

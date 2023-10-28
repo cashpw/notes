@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@antirezMythical10xProgrammer]
+:ID:       d144c357-a486-416a-8c07-482c1c38f8e4
+:LAST_MODIFIED: [2023-10-27 Fri 15:27]
+:END:
+#+title: antirez | The Mythical 10x Programmer
+#+hugo_custom_front_matter: :slug "d144c357-a486-416a-8c07-482c1c38f8e4"
+#+author: Cash Weaver
+#+date: [2023-10-27 Fri 15:27]
+#+filetags: :hastodo:reference:
+
+TODO_AUTHOR, [cite:@antirezMythical10xProgrammer]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:
+* TODO Also look through [[https://news.ycombinator.com/item?id=13752887][hacker news discussion]]
+* TODO [#2] Flashcards
+#+print_bibliography:

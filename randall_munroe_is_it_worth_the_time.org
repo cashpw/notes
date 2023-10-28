@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@munroeItWorthTime]
+:ID:       5eb0db34-9b0a-4090-9c2c-56159fb0e269
+:LAST_MODIFIED: [2023-10-27 Fri 08:55]
+:END:
+#+title: Randall Munroe | Is It Worth the Time?
+#+hugo_custom_front_matter: :slug "5eb0db34-9b0a-4090-9c2c-56159fb0e269"
+#+author: Cash Weaver
+#+date: [2023-10-27 Fri 08:53]
+#+filetags: :reference:
+
+[[id:5763425d-9f34-4777-8698-3c2e74973ec5][Randall Munroe]], [cite:@munroeItWorthTime]
+
+#+begin_quote
+#+DOWNLOADED: https://imgs.xkcd.com/comics/is_it_worth_the_time.png @ 2023-10-27 08:54:35
+[[file:2023-10-27_08-54-35_is_it_worth_the_time.png]]
+#+end_quote
+
+Hover text: Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.
+* Flashcards
+#+print_bibliography:
