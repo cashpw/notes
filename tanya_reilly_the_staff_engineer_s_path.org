@@ -2266,7 +2266,7 @@ See [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, 
 :NOTER_PAGE: (482 . 0.090909)
 :END:
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** Compare and contrast :fc:
 :PROPERTIES:
 :CREATED: [2023-03-19 Sun 12:23]

@@ -8,7 +8,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-24 Sat 15:32]
 #+filetags: :hastodo:concept:
-* Flashcards
+* Flashcards :noexport:
 ** The MNIST database contains images of {{handwritten digits}@0}. :fc:
 :PROPERTIES:
 :ID:       7eb208a5-57c0-4b40-9ed4-1f6a1f880e89

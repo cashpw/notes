@@ -15,7 +15,7 @@ In statistics, the standard deviation is a measure of the amount of variation or
 
 $\operatorname{stddev}(x) = \sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe (Statistics) :fc:
 :PROPERTIES:
 :ID:       eb787732-911c-4ed1-9b1a-c58e231df7de

@@ -35,5 +35,5 @@ As you scale that up even more you might now take significant resources for a no
 [cite:@luuReasonsWorkProductivityVelocity]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

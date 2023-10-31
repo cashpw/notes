@@ -40,7 +40,7 @@ The absolute value of $\determinant{A}$ represents the factor by which $A$ scale
 - $\operatorname{det}(\begin{bmatrix}a & . & .\\ b & . & . \\ c & . & . \end{bmatrix}) = x\), \(\operatorname{det}(\begin{bmatrix}ra & . & .\\ rb & . & . \\ rc & . & . \end{bmatrix}) = rx$
 
 
-* Flashcards
+* Flashcards :noexport:
 
 ** Denotes :fc:
 :PROPERTIES:

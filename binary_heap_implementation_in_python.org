@@ -127,7 +127,7 @@ print(h.peek())
 : 10
 : None
 
-* Flashcards
+* Flashcards :noexport:
 ** Implement a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]] :fc:implement:
 :PROPERTIES:
 :FC_CREATED: 2022-09-22T02:15:36Z

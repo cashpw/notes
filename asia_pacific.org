@@ -10,7 +10,7 @@
 #+date: [2023-05-22 Mon 10:25]
 #+filetags: :concept:
 
-* Flashcards
+* Flashcards :noexport:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2023-05-22 Mon 10:25]

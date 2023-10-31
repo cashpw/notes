@@ -28,7 +28,7 @@ What if I just can't come up with ten ideas?
 
 Here's the magic trick: if you can't come up with ten ideas, come up with 20 ideas.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

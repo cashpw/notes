@@ -190,5 +190,5 @@ Table 3. Example of a cognitive demands table
 [formatting mine]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

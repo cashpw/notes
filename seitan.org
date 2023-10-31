@@ -15,7 +15,7 @@ Seitan is a food made from gluten, the main protein of wheat. [...] It is made b
 [cite:@Seitan2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 15:05]

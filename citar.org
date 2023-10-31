@@ -14,5 +14,5 @@ This package provides a completing-read front-end to browse and act on BibTeX, B
 [cite:@Citar2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

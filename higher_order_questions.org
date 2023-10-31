@@ -15,7 +15,7 @@ Higher-order questions require answers that go beyond simple information and as 
 #+end_quote
 
 Also see [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]].
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-12-20 Tue 16:49]

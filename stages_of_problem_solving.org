@@ -21,7 +21,7 @@
 :ID:       4f5e453e-5721-4f27-aca6-1c830749d566
 :END:
 * TODO [#4] [[id:0b3c28aa-ab9a-4a99-8dbf-4f22a6e7dee9][Retrospective]]
-* TODO [#4] Flashcards
+* TODO [#4] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

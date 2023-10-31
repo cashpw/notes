@@ -52,7 +52,7 @@ This means startups don't adopt new technologies despite their immaturity, they 
 By introducing abstraction into every problem we solve, we distance ourselves from how our work is ultimately used. We tell ourselves we're in the business of building sharp knives; if we made them safer, they'd be useless for everything except spreading butter. We float above the the effects of what we've created, treating them as inexorable consequences of [[id:3bbbacc5-9f55-4ded-abf5-d76ff0b5b8e2][progress]].
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -31,7 +31,7 @@ For any functions $f$ and $g$ and any real numbers $a$ and $b$, the derivative o
 [cite:@DifferentiationRules2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-23 Mon 09:15]

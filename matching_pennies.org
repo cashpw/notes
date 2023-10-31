@@ -14,7 +14,7 @@ Matching pennies is the name for a simple game used in game theory [[[id:e157ee7
 [cite:@MatchingPennies2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-13 Fri 09:42]

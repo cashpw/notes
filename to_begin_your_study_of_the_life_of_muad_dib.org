@@ -14,5 +14,5 @@
 [cite:@herbertDune1999]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

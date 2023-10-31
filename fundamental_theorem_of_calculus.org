@@ -76,7 +76,7 @@ $$
 [cite:@FundamentalTheoremCalculus2022], [cite:@khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-01-21 Sat 06:41]

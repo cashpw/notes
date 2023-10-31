@@ -23,5 +23,5 @@ The second call went much better.
 
 I think the biggest mistake that I did was that I grossly underestimated the amount of time it would take to do the whole skill extraction exercise. I scheduled an hour for our first call, whereas a more appropriate length might've been two hours. In the end, we did two separate calls together, the first being 1.5 hours long, and the second two hours long. It's hard to say if these times are normal, but I wouldn't go below two hours in the future.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

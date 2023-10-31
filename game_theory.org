@@ -15,7 +15,7 @@ Game theory is the study of mathematical models of strategic interactions among 
 [cite:@GameTheory2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 15:01]

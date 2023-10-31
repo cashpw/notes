@@ -31,7 +31,7 @@ You don't even have to share it with anybody, I suppose, but I suspect you'll fi
 #+begin_quote
 And the final and most important distinction between a monthly newsletter and a blog -- and, I think, the place where all the value of this practice comes in -- is the time-locked nature of it. You have a month to jot down thoughts, then at the end of the month you have to "finish" those thoughts.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

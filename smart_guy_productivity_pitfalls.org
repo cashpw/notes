@@ -111,7 +111,7 @@ I disagree with the author's assessment that solutions such as "turning off the 
    A friend of mine's father has a great quote: "Son, i don't wake up every day and go to a place called fun. I wake up and go to a place called work"  You can't get irate or frustrated that the bulk of the day is typing in boring code and dealing with bugs and other people.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Summarize :fc:
 :PROPERTIES:
 :CREATED: [2023-06-22 Thu 20:25]

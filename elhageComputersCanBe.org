@@ -27,7 +27,7 @@ There is no magic. There is no layer beyond which we leave the realm of logic an
 My advice for a practical upshot from this post would be: cultivate a deep sense of curiosity about the systems you work with. Ask questions about how they work, why they work that way, and how they were built. Ask yourself questions like "How would I have built this library?," identify the gaps where you don't know the answer, and add them to your mental backlog of topics to learn.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-10-28 Fri 15:52]

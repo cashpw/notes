@@ -17,5 +17,5 @@ So, what are you doing today?
 [[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [cite:@QuoteAlbertCamus]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

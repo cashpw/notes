@@ -98,5 +98,5 @@ Two conditions must be satisfied for skilled intuition to develop: an environmen
 - The situation that we have labeled fractionation of skill is another source of overconfidence. Professionals who have expertise in some tasks are sometimes called upon to make judgments in areas in which they have no real skill. (For example, financial analysts may be skilled at evaluating the likely commercial success of a firm, but this skill does not extend to the judgment of whether the stock of that firm is underpriced.) It is difficult both for the professionals and for those who observe them to determine the boundaries of their true expertise.
 - We agree that the weak regularities available in low-validity situations can sometimes support the development of algorithms that do better than chance. These algorithms only achieve limited accuracy, but they outperform humans because of their advantage of consistency. However, the introduction of algorithms to replace human judgment is likely to evoke substantial resistance and sometimes has undesirable side effects.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

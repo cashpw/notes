@@ -20,5 +20,5 @@ Additional labels for pre-release and build metadata are available as extensions
 
 [cite:@preston-wernerSemanticVersioning]
 #+end_quote
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

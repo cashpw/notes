@@ -68,5 +68,5 @@ In fact, I haven't tried this yet, but I want to know if Oon Yeoh's principles f
 4. Try and look out for variations. These variations represent changes in the action script associated with the prototype in the expert's head. Sometimes these differences are very subtle, but they are significant. Understanding the variations will give you a better grasp of the technique.
 5. It is usually helpful to watch the technique in slow motion. Download the clip and slo-mo it yourself using a free video editing program.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

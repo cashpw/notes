@@ -41,7 +41,7 @@ return bubble_sort([10, 5, 4, 40])
 #+RESULTS:
 : [4, 5, 10, 40]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

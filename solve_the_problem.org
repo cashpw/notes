@@ -26,7 +26,7 @@ Remember that your goal is to solve the problem, not necessarily to write code t
 
 The goal isn't to [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] the problem (i.e. productivity porn) -- just solve it.
 
-* TODO [#4] Flashcards
+* TODO [#4] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

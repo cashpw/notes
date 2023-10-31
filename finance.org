@@ -7,7 +7,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-24 Sat 14:46]
 #+filetags: :hastodo:concept:
-* Flashcards
+* Flashcards :noexport:
 ** TODO [#3] Organize flashcards
 ** Definition (Finance) :fc:
 :PROPERTIES:

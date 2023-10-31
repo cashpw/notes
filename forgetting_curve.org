@@ -29,7 +29,7 @@ The forgetting curve hypothesizes the decline of memory retention in time. This 
 A representation of [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]'s impact on the forgetting curve.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-12-11 Sun 12:41]

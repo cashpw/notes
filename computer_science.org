@@ -7,7 +7,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-24 Sat 15:23]
 #+filetags: :hastodo:concept:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** AKA :fc:
 :PROPERTIES:
 :ID:       33ba0758-ea58-4c2b-948e-f7c8eb52e7b1

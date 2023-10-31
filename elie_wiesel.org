@@ -9,7 +9,7 @@
 #+filetags: :person:
 Among other things:
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -14,7 +14,7 @@ The metric encodes the actual cost of traversing a road segment or taking a turn
 [cite:@dellingCustomizableRoutePlanning2011]
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** Definition ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-06-23 Fri 08:38]

@@ -27,7 +27,7 @@ The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), 
 
 Also see [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       777652d0-cf5b-4957-98c2-ec7802437acc

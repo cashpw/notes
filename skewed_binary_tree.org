@@ -16,7 +16,7 @@ A skewed binary tree is a pathological/degenerate tree in which the tree is eith
 
 #+attr_html: :alt Skewed binary tree
 [[file:skewed-binary-tree.png]]
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

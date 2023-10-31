@@ -31,5 +31,5 @@ This kind of ritual is simple but it incorporates movement and breath, and asks 
 Sometimes I forget to set a reminder, but I have other cues to help me remember to do the ritual: if my body starts to feel stiff, if I've been doing certain distractions for more than a few minutes, if I've been doing busywork for more than 10 minutes. If any of those are true, I do the Reset Ritual.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

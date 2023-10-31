@@ -14,7 +14,7 @@ In computing, a cache is a hardware or software component that stores data so th
 
 [cite:@CacheComputing2023]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-03-22 Wed 09:20]

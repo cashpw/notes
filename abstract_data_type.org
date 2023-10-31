@@ -15,7 +15,7 @@ In computer science, an abstract data type (ADT) is a mathematical model for dat
 
 [cite:@AbstractDataType2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

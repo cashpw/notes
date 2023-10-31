@@ -23,7 +23,7 @@ The number of permutations of n distinct objects is $n$ factorial, usually writt
 
 Also see: [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Compare and contrast :fc:
 :PROPERTIES:
 :CREATED: [2023-03-12 Sun 05:30]

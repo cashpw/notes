@@ -9,7 +9,7 @@
 #+filetags: :hastodo:concept:
 Curiosity is key to expanding your understanding of the world.
 * TODO [#4] Expand :noexport:
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

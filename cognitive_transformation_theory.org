@@ -9,5 +9,5 @@
 #+filetags: :hastodo:concept:
 * INPROGRESS [#2]
 [cite:@chinHardThingLearningExperience2021]
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

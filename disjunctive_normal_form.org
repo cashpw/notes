@@ -15,7 +15,7 @@ In boolean logic, a disjunctive normal form (DNF) is a canonical normal form of 
 [cite:@DisjunctiveNormalForm2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2023-05-22 Mon 09:30]

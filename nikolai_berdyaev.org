@@ -8,7 +8,7 @@
 #+date: [2022-03-11 Fri 11:19]
 #+filetags: :person:
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

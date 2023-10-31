@@ -9,7 +9,7 @@
 #+filetags: :concept:
 
 Prefer "Chris's car" to "Chris' car" to show posession.
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

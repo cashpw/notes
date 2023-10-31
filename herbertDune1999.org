@@ -72,5 +72,5 @@ The mentat violated the Hays Code six times in the few seconds it took him to re
 [[file:dune-is-so-funny.jpg][source]]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

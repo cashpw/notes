@@ -13,7 +13,7 @@
 #+begin_quote
 Benevolent dictator for life (BDFL) is a title given to a small number of open-source software development leaders, typically project founders who retain the final say in disputes or arguments within the community.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2023-01-11 Wed 07:36]

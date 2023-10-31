@@ -36,5 +36,5 @@ Most creators resist their bad ideas and never reach the clear water. If you've 
 Your work starts as a weak imitation. You identify what makes the imitation weak. You iterate the imitation until it's original.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

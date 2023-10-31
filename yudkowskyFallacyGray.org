@@ -31,7 +31,7 @@ That which I cannot eliminate may be well worth reducing [].
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -22,7 +22,7 @@ Treat all email responses like SMS text messages, using a set number of letters 
 [cite:@FiveSentences]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

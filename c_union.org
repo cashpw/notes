@@ -13,7 +13,7 @@ A union is a struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] in
 
 [cite:@stroustrupTour2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 10:15]

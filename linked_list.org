@@ -15,7 +15,7 @@ In computer science, a linked list is a linear collection of data elements whose
 [cite:@LinkedList2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       5c61a5c3-3770-4f72-abe5-b20609be4b01

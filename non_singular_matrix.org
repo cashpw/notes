@@ -12,7 +12,7 @@
 
 A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is a \(B\) such that \(AB = BA = I_{n}\).
 
-* Flashcards
+* Flashcards :noexport:
 ** AKA :fc:
 :PROPERTIES:
 :ID:       979e9326-aa2e-443e-91ba-657fbf6e4d15

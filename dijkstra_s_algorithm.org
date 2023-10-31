@@ -40,7 +40,7 @@ Same as the single-source solution, but stop when you've found the target node.
 - $\bigtheta((|E| + |V|)\log|V|)$, or $\bigtheta{|E|\log(|V|)}$ for a connected graph, when implemented with a [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]].
 - $\bigtheta(|E| + |V|\log|V|)$ when implemented with a [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]].
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 11:49]

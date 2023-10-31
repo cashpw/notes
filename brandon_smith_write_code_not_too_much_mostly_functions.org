@@ -49,5 +49,5 @@ Pollan later qualifies his snappy statement a bit further:
 At the risk of stretching the analogy, maybe the equivalent is "code only those things that people at a junior level would recognize for what they do". Code in simple, straightforward terms. Don't get too clever, "manufacturing artificial ingredients". Use the primitives that are there, when possible. Write what is simple, and natural, and human.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

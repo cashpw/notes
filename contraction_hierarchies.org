@@ -351,7 +351,7 @@ So an additional term to consider is the number of contracted neighbors each nod
 
 [cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 11:58]

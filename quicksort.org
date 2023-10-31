@@ -56,7 +56,7 @@ procedure partition(lowIndex, highIndex, list) is
 | Time  | \(\bigo{n^2}\) | \(\bigo{n \log n}\) | \(\bigo{n \operatorname{log}(n)}\) |
 | Space | \(\bigo{n}\)   |                     | \(\bigo{n}\)                       |
 
-* Flashcards
+* Flashcards :noexport:
 ** Algorithm :fc:
 :PROPERTIES:
 :ID:       5c298d12-be0f-4a7f-b4b7-210b4d1a1565

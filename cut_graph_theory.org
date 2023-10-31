@@ -13,7 +13,7 @@
 In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], a cut is a partition of the vertices of a graph into two disjoint subsets. Any cut determines a cut-set, the set of edges that have one endpoint in each subset of the partition. These edges are said to cross the cut. In a connected graph [[[id:9ee639e1-b92d-4bdb-8d13-9c53e22bf945][Connectivity (Graph theory)]]], each cut-set determines a unique cut, and in some cases cuts are identified with their cut-sets rather than with their vertex partitions.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-28 Sat 13:21]

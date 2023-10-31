@@ -19,7 +19,7 @@ To improve performance, priority queues are typically based on a heap [[[id:70cb
 [cite:@PriorityQueue2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       8d18d098-eac6-4060-92d2-b0da2a7bb73f

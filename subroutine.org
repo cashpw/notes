@@ -15,7 +15,7 @@ In computer programming, a function or subroutine is a sequence of program instr
 [cite:@FunctionComputerProgramming2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Subroutine :fc:
 :PROPERTIES:
 :CREATED: [2023-03-20 Mon 10:04]

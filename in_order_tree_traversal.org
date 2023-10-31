@@ -23,7 +23,7 @@ In-order traversal (green node): A, B, C, D, E, F, G, H, I
 
 [cite:@TreeTraversal2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

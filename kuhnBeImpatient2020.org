@@ -36,7 +36,7 @@ In other words, the main benefit of being fast is that you end up doing differen
 
 That means that moving quickly is an advantage that compounds. Being twice as fast doesn't just double your output; it doubles the growth rate of your output. Over time, that makes an enormous difference.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** ([[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]]) {{Effectiveness}@0} is correlated with {{impatience}@1} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:48]

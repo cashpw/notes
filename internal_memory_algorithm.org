@@ -11,7 +11,7 @@
 Internal memory algorithms are designed to process data that fits into a single computer's main memory.
 
 See [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]].
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       a7617f3a-cb5c-417e-9606-4374c9d07c79

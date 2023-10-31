@@ -16,7 +16,7 @@ Historic volatility measures a time series of past market prices. [[id:7b2744d7-
 [cite:@VolatilityFinance2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Denotes (finance) :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 18:08]

@@ -64,7 +64,7 @@ Yeah, there's one other thing I want to mention, which is, I think important, be
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

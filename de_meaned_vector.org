@@ -17,7 +17,7 @@
 
 Note that \(\mathbf{C}\) is the [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]].
 
-* Flashcards
+* Flashcards :noexport:
 ** {{$C_n \vec{v}$}{matrix}@0} \(=\) {{$\tilde{v}$}{symbol}@1} :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-09-15T02:25:09Z

@@ -15,7 +15,7 @@ In computer science, a generalized suffix tree is a suffix tree for a set of str
 [cite:@GeneralizedSuffixTree2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 10:08]

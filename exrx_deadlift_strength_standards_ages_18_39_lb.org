@@ -53,5 +53,5 @@ In order for these standards to apply, knees, hips, and upper back must complete
 #+end_quote
 
 In order for these standards to apply, knees, hips, and upper back must completely extend. See standards in [[https://exrx.net/Testing/WeightLifting/DeadliftStandardsKg][Kilograms]].
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

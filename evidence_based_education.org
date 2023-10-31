@@ -12,5 +12,5 @@
 * TODO [#2] Expand :noexport:
 [cite:@EvidencebasedEducation2022]
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

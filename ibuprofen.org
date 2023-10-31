@@ -9,7 +9,7 @@
 #+filetags: :hastodo:concept:
 
 * TODO [#2] Expand
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

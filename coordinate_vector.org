@@ -17,7 +17,7 @@ In linear algebra, a [[id:4b917306-e1fa-4d34-9d2b-5bb1eedab431][Coordinate vecto
 
 $\begin{bmatrix}\vec{v}\end{bmatrix}_B$ denotes the coordinate vector $\vec{v}$ relative to the basis $B$.
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Linear Algebra) :fc:
 :PROPERTIES:
 :ID:       d89af78e-d388-49d6-8d2a-1934314c66c9

@@ -16,7 +16,7 @@ A full binary tree (sometimes referred to as a proper or plane or strict binary 
 
 #+attr_html: :alt Full binary tree
 [[file:full-binary-tree.png]]
-* Flashcards
+* Flashcards :noexport:
 ** Image :fc:
 :PROPERTIES:
 :ID:       c14d7d20-948e-4639-b70e-f4e27cc0ee68

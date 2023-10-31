@@ -39,7 +39,7 @@
 [cite:@GreekAlphabet2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

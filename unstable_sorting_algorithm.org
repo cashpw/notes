@@ -14,7 +14,7 @@ A sorting algorithm which doesn't sort equal elements in the same order that the
 unstable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
 > [(3, 'c'), (8, 'd'), (8, 'b'), (10, 'a')])
 #+end_example
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

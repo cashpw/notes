@@ -21,7 +21,7 @@ To perform row reduction on a matrix, one uses a sequence of elementary row oper
 [cite:@GaussianElimination2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       cbd3dc6a-d6dd-43c0-8516-5c54cf08d6e4

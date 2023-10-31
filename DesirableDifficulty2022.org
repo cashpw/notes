@@ -31,7 +31,7 @@ To determine whether a difficulty is desirable, use the following three guidelin
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Learning) :fc:
 :PROPERTIES:
 :ID:       fafca0dd-2213-4ceb-ad65-7d1e959ff836

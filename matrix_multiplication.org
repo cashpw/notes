@@ -160,7 +160,7 @@ And the graphical form:
 [cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Equivalence :fc:
 :PROPERTIES:
 :CREATED: [2023-02-03 Fri 09:02]

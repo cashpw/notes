@@ -13,5 +13,5 @@ Your topographical map can help highlight the friction and gaps between teams an
 
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 #+end_quote
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

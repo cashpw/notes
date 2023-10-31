@@ -24,7 +24,7 @@ In graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], the
 - [[id:cd02a339-815c-4ada-b9f9-f0008db4684a][All-pairs shortest path problem]]
   - [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 19:38]

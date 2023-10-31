@@ -37,7 +37,7 @@ In many ways, information is like fast food in that it can overstimulate you, ye
 
 [cite:@javajoshCalledItInfoGorging]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-08-04 Fri 17:30]

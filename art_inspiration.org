@@ -700,5 +700,5 @@
 :END:
 
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

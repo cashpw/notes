@@ -98,7 +98,7 @@ The physical layer is responsible for the transmission and reception of unstruct
 [cite:@OSIModel2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-03-18 Sat 07:48]

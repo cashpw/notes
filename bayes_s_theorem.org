@@ -15,7 +15,7 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 * TODO [#2] Expand :noexport:
 - [cite:@yudkowskyIntuitiveExplanationBayesTheorem]
 - [cite:@explainedIntuitiveShortExplanationBayesTheorem]
-* Flashcards
+* Flashcards :noexport:
 
 ** Definition :fc:
 :PROPERTIES:

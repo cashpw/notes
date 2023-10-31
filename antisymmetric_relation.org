@@ -21,7 +21,7 @@ $\text{if }\,aRb\,\text{ and }\,bRa\,\text{ then }\,a=b$.
 [cite:@AntisymmetricRelation2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-09-27 Tue 19:33]

@@ -27,7 +27,7 @@ So we modify our initial statement: You can do what you want, but you can't want
 That's still not quite true. It's possible to change what you want to want. I can imagine someone saying "I decided to stop wanting to like classical music." But we're getting closer to the truth. It's rare for people to change what they want to want, and the more "want to"s we add, the rarer it gets.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-14 Sat 08:00]

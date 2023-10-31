@@ -16,5 +16,5 @@ It doesn't matter how fast you move if it's in a worthless direction. Picking th
 
 Note that you won't know what the right thing is at the beginning. [[id:630c804a-cef5-42e6-a168-5a233a0acbed][Just start]] and use [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loops]].
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

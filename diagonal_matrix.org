@@ -10,7 +10,7 @@
 
 A diagonal [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]], $A$, has zeros in all positions except for $\{A_{i,j} \; \forall \; i = j\}$.
 
-* Flashcards
+* Flashcards :noexport:
 ** Denotes :fc:
 :PROPERTIES:
 :ID:       6d918ce4-d7c4-45b5-b2f2-0a9343ca4447

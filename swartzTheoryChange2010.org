@@ -20,7 +20,7 @@ Let's take a concrete example. Imagine you want to decrease the size of the defe
 A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?" A decrease in the defense budget: how does one achieve that?
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

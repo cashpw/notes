@@ -15,7 +15,7 @@ Goodhart's law is an adage often stated as: "When a measure becomes a target, it
 [cite:@GoodhartLaw2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-29 Tue 10:05]

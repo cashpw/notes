@@ -56,6 +56,6 @@ First, I'll try to go deeper than necessary. If I really want to ship something,
 The second part of my blub flywheel is to pay attention to magic. Whenever I'm working with something new, I try to continuously update my best-guess mental model of how it's implemented. "Okay, the docs are telling me to create an Ingress, I guess this is probably the widget that provisions a load balancer to talk to my backend containers?" If I realize I'm wrong, I'll dig in and update. "Hmm, I can't ping those pods from outside the cluster, so how could the load balancer be talking to them? Aha—it's talking to the nodes, and there's a NodePort Service as a second layer of indirection." If I have no idea at all how something could work, that usually means it's time to read a book.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 See [[id:ca6fd965-8c9c-470c-b020-8fe0765ceb20][Blub studies]]
 #+print_bibliography:

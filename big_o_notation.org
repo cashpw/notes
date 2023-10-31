@@ -10,7 +10,7 @@
 
 Big O notation is denoted with \(\bigo{g(n)}\) and indicates an worst-case asymptotic upper bound. While \(2n^2\) is in \(\bigo{n^9}\), it's preferred to be as precise as possible and state the lowest valid case: \(2n^2 = \bigo{n^2}\).
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       115c4748-9e13-4414-ab7d-50f0e4b09e0b

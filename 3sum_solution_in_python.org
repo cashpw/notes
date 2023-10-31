@@ -58,7 +58,7 @@ print(three_sum([2,3,4,5,2], 6), 'should be None')
 : [2, 2, 2] should be [2,2,2]
 : None should be None
 
-* Flashcards
+* Flashcards :noexport:
 ** Solve :fc:implement:
 :PROPERTIES:
 :CREATED: [2023-02-07 Tue 16:27]

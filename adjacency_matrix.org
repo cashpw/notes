@@ -17,7 +17,7 @@ In graph theory and computer science, an adjacency matrix is a [[id:09208dbb-804
 
 Also see [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]].
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
 :PROPERTIES:
 :ID:       44704588-26f5-41a6-81f9-fa7ab2e2004a

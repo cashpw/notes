@@ -109,7 +109,7 @@ python2.7 /path/to/gmail-oauth2-tools/python/oauth2.py \
 05:55.59 < OKBC2 OK [READ-WRITE] INBOX selected. (Success)
 #+END_EXAMPLE
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

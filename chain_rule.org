@@ -18,7 +18,7 @@ or, equivalently,
 $h'=(f\circ g)'=(f'\circ g)\cdot g'$.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-23 Mon 09:29]

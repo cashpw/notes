@@ -33,5 +33,5 @@ https://archive.org/details/greatideasforpot0000unse/page/n1/mode/2up
 #+begin_quote
 *Centering with eyes closed* is a useful teaching exercise for beginning potters. It helps them to regocnize that centering is first a tactile and then a visual process.
 #+end_quote
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

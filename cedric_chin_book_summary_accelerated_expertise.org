@@ -313,6 +313,6 @@ Over the course of seven chapters, the authors take great pain to repeat two les
 The overall picture that I got from the book goes something like this: "We know very little about expertise. There are large gaps in our empirical base. (Please, DoD, fund us so we can plug them!) What we do know is messy, because there are a ton of confounding variables. And yet, given that we've mostly worked in applied domains, our training programs seem to deliver results for businesses and soldiers, even if we don't perfectly understand how they do so. Perhaps this is simply the nature of things in expertise research. We have discovered several things that work — the biggest of which is Cognitive Task Analysis, which enable us to extract actual mental models of expertise. We also have a usable macrocognitive theory of learning. But beyond that — phooey. Perhaps we just have to keep trying things, and check that our learners get better faster, and we can only speculate at why our programs work; we can never know for sure."
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 See [cite:@hoffmanAcceleratedExpertiseTrainingHighProficiencyComplexWorld2013].
 #+print_bibliography:

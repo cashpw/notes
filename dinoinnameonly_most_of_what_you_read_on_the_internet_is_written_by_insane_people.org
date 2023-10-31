@@ -21,5 +21,5 @@ But there's more, because not all the users who post do so with the same frequen
 [cite:@dinoinnameonlyMostWhatYouReadInternetWrittenInsanePeople2018]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

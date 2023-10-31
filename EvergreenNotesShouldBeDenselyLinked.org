@@ -28,5 +28,5 @@ You don't necessarily have to link to notes you've already written: [[https://no
 Aside from the ongoing value of the captured links, they may help you shepherd your attention while drafting: [[https://notes.andymatuschak.org/z3iT7pPmhbY8WtofoCccd58xtnhJUfkJPztGP][Release valves for non-linear thought may support improved linear output]].
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

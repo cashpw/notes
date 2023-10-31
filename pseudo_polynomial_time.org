@@ -23,7 +23,7 @@ In general, the numeric value of the input is exponential in the input length, w
 
 For example, the number of integers you can represent with $n$ bits grows exponentially with $n$. You can represent 8 integers using three bits ($000 = 0$, $001 = 1$, $010$ = 2, $\dots$, $111 = 7$), 16 integers with four bits, 32 integers with five bits, etc.
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-02-07 Tue 18:25]

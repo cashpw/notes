@@ -26,7 +26,7 @@ A 2x2 game is [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][symmetric]] if and only
 - [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]]
 - [[id:23bf567f-d642-4b20-93cf-9adf39789da2][Stag hunt]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 14:36]

@@ -14,7 +14,7 @@ Literate programming is a programming paradigm introduced in 1984 by Donald Knut
 [cite:@LiterateProgramming2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 11:29]

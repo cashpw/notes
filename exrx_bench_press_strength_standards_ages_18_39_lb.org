@@ -55,5 +55,5 @@ In order for these standards to apply, the bar must make contact with the chest 
 
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

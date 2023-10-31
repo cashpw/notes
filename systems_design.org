@@ -21,7 +21,7 @@ Rather, I say it's difficult to define because the descriptions I have read (lik
 My mind tends to move toward [[id:5bc61709-6612-4287-921f-3e2509bd2261][graphs]] when I think about systems design. The system being the sum of the individual nodes and the edges which connect them. The output of a system for a given input would be the result of walking the graph from some point until reaching something defined as an end.
 
 * TODO [#2] :noexport:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

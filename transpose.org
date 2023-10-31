@@ -20,7 +20,7 @@ $A^{\textsf{T}} = \begin{bmatrix}1 & 3 & 5 \\ 2 & 4 & 6\end{bmatrix}$
 
 $(A^{\textsf{T}})^{\textsf{T}} = A$
 
-* Flashcards
+* Flashcards :noexport:
 ** Denotes :fc:
 :PROPERTIES:
 :ID:       17a6d9aa-f99a-46ca-8ff9-7289e4fc22be

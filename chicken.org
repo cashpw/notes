@@ -17,7 +17,7 @@ The name "chicken" has its origins in a game in which two drivers drive toward e
 [cite:@ChickenGame2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 14:31]

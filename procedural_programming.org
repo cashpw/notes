@@ -15,5 +15,5 @@ Procedural programming is a programming paradigm, derived from imperative progra
 [cite:@ProceduralProgramming2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

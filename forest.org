@@ -13,7 +13,7 @@ A forest is an undirected [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in 
 
 [cite:@TreeGraphTheory2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]) :fc:
 :PROPERTIES:
 :ID:       9295df9e-9fcc-4523-b5c6-0fbe0cb08b10

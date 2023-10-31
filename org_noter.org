@@ -14,5 +14,5 @@ Org-noter's purpose is to let you create notes that are kept in sync when you sc
 [cite:@santosOrgnoterSynchronizedOrgmodeDocumentAnnotator2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

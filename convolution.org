@@ -10,7 +10,7 @@
 #+date: [2022-06-29 Wed 19:31]
 #+filetags: :hastodo:concept:
 * TODO [#2]
-* Flashcards
+* Flashcards :noexport:
 ** AKA (Math) :fc:
 :PROPERTIES:
 :ID:       1efd1643-c9b9-4761-8825-ed478c2eab45

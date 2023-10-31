@@ -16,7 +16,7 @@ A computer cluster is a set of computers that work together so that they can be 
 [cite:@ComputerCluster2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-12-01 Thu 11:24]

@@ -21,7 +21,7 @@ A struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] is C's and C+
 [cite:@CompositeDataType2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 10:10]

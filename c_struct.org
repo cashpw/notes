@@ -10,7 +10,7 @@
 
 A =struct= in C++ colloquially represents a "pure" [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in that it is only a composite data type.
 
-* Flashcards
+* Flashcards :noexport:
 ** Compare and contrast (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 09:45]

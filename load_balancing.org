@@ -32,7 +32,7 @@ One basic solution to the session data issue is to send all requests in a user s
 [cite:@LoadBalancingComputing2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-03-22 Wed 08:32]

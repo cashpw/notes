@@ -9,7 +9,7 @@
 #+filetags: :hastodo:concept:
 
 * TODO [#2] Expand :noexport:
-* Flashcards
+* Flashcards :noexport:
 ** TODO [#2] AKA :fc:suspended:
 :PROPERTIES:
 :ID:       f6c7c7d9-6f87-494b-83dc-585e3de98d9b

@@ -28,7 +28,7 @@ $\|\vec{x}\|_p = (\sum_{i = 1}^n {\lvert \vec{x}_i \rvert}^p)^{\frac{1}{p}}$
 
 Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-9926-4de1-8b60-5d5e64396a01][L-two norm]].
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

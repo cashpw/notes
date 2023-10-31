@@ -20,5 +20,5 @@
 A mental model is simply a representation of how something works. We cannot keep all of the details of the world in our brains, so we use models to simplify the complex into understandable and organizable chunks.
 #+end_quote
 
-* TODO [#3] Flashcards
+* TODO [#3] Flashcards :noexport:
 #+print_bibliography:

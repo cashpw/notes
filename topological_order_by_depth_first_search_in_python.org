@@ -69,7 +69,7 @@ adjacency_list = {
 print(topological_sort(adjacency_list), 'should be [(2,1,0 in any order), 3, 4, 5]')
 #+end_src
 
-* Flashcards
+* Flashcards :noexport:
 ** Normal :fc:implement:
 :PROPERTIES:
 :CREATED: [2023-01-30 Mon 10:14]

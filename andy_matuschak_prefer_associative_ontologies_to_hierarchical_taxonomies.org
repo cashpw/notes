@@ -25,5 +25,5 @@ But beware: [[https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH
 One consequence of following this advice: [[https://notes.andymatuschak.org/zT6iA52811NuLvbU9W8ixeDc3KUqyCT1wN8][It's hard to navigate to unlinked "neighbors" in associative note systems]].
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

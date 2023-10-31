@@ -10,7 +10,7 @@
 #+DATE: [2021-12-27 Mon 22:51]
 
 Monica is a [[id:4938a000-de24-45a9-bb5b-5b8559bc99c3][Personal relationship manager]]. I have a hard time keeping track of birthdays, etc. Perhaps this would be a helpful tool.
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

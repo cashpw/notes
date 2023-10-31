@@ -16,7 +16,7 @@ A balanced binary tree is a binary tree structure in which the left and right su
 
 #+attr_html: :alt Balanced binary tree
 [[file:balanced-binary-tree.png]]
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       d88234e9-4782-477a-b375-b91d9d1526af

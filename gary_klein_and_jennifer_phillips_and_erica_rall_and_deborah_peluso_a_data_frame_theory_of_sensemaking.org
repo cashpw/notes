@@ -14,5 +14,5 @@ TODO_AUTHOR, [cite:@kleinDataframeTheorySensemaking]
 * TODO Summary
 * TODO Thoughts
 * TODO [#0] Notes :ATTACH:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

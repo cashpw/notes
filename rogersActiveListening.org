@@ -19,7 +19,7 @@
 :NOTER_PAGE: 4
 :END:
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

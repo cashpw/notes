@@ -19,5 +19,5 @@ According to Jean Piaget's Theory of Cognitive Development, magical thinking [[[
 #+end_quote
 
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

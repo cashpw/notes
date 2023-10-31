@@ -13,7 +13,7 @@ For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], t
 
 [cite:@SelfbalancingBinarySearchTree2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition ([[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]) :fc:
 :PROPERTIES:
 :ID:       715ab07a-b706-47a7-b3a6-a77a9059ed86

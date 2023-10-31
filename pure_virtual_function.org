@@ -18,7 +18,7 @@ class Container {
 };
 #+end_src
 
-* Flashcards
+* Flashcards :noexport:
 ** Denotes :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 09:39]

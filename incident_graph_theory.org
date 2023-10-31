@@ -14,7 +14,7 @@ Two edges are called incident, if they share a vertex. Also, a vertex and an edg
 [cite:@boteroAnswerGraphTheoryAdjacencyVsIncident2012]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-06-13 Tue 09:34]

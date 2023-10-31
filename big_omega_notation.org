@@ -10,7 +10,7 @@
 
 Big Omega notation, written as \(\bigomega{g(n)}\), indicates an worst-case asymptotic lower bound. While \(2n^2\) is in \(\bigomega{1}\), it's preferred to be as precise as possible and state the lowest valid case: \(2n^2 = \bigomega{n^2}\).
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       7cba9cd1-5e9c-47e3-bc17-669530d152ff

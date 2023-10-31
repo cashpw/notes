@@ -25,7 +25,7 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 | Delete | \(\bigo{\log n}\) | \(\bigo{n}\)  |
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

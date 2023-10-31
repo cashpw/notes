@@ -778,7 +778,7 @@
 :NOTER_PAGE: 312
 :END:
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 08:23]

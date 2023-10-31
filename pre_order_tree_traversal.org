@@ -23,7 +23,7 @@ Pre-order traversal (red node): F, B, A, D, C, E, G, I, H
 
 [cite:@TreeTraversal2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       e31586bb-75f7-4038-8268-f83edb8618d2

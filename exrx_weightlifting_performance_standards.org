@@ -39,5 +39,5 @@ Tables for the basic barbell exercises are based on nearly 70 years of accumulat
 - [[id:64b0aa9b-de0d-4ebd-b899-fe85cbfad7a3][ExRx | Deadlift Strength Standards (Ages 18-39, Lb)]]
 - [[id:98db4092-29da-45aa-b2a8-5837a5f0697a][ExRx | Press Strength Standards (Ages 18-39, Lb)]]
 - [[id:c4df15c4-fbdc-4de5-b072-cce83d5d76e3][ExRx | Squat Strength Standards (Ages 18-39, Lb)]]
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

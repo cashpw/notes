@@ -38,7 +38,7 @@ while list is not sorted do
 | Space | \(O(n)\)   | \(O(n)\)  |
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

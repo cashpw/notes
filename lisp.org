@@ -20,7 +20,7 @@ The interchangeability of code and data gives Lisp its instantly recognizable sy
 [cite:@LispProgrammingLanguage2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]] uses {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expressions]]}@0} to represent {{both source code and data}@1}. :fc:
 :PROPERTIES:
 :ID:       6578cd58-d130-40da-a630-5f3b574d1c9b

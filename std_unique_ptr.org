@@ -17,7 +17,7 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 [cite:@StdUniquePtr]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 10:04]

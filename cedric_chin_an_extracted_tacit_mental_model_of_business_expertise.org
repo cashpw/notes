@@ -155,5 +155,5 @@ After this initial set of questions, DiBello steps forward the simulation and pr
 I believe DiBello when she says that the Profiler is able to detect blindspots in an exec team, that it is able to evaluate cognitive agility, and that you may use it to assess the expertise of business decision makers. I'm just not sure how this may be used, if one isn't able to afford DiBello's services.
 #+end_quote
 
-* TODO [#1] Flashcards
+* TODO [#1] Flashcards :noexport:
 #+print_bibliography:

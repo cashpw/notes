@@ -27,7 +27,7 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 - Delta for [[id:15f1b0b2-6f51-40de-93c9-77980744a483][Call options]] range from [0, 1]
 - Delta for [[id:7b7185c2-db8c-4e53-b9a1-795cc36ab508][Put options]] range from [-1, 0]
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 17:23]

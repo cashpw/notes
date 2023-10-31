@@ -49,7 +49,7 @@ The checklist could be something like:
 3. Then maybe the opposite advice, for you in particular, is at least as worthy of consideration.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Summarize :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 09:52]

@@ -26,7 +26,7 @@ class Vector {
 }
 #+end_src
 
-* Flashcards
+* Flashcards :noexport:
 ** Example(s) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 09:22]

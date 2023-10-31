@@ -47,5 +47,5 @@ It takes a great degree of awareness of what we're doing and how we're doing it,
 What would you like to train in this moment?
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

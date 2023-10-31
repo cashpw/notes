@@ -15,5 +15,5 @@ TODO_AUTHOR, [cite:@jungEfficientPathComputationModelHierarchicallyStructuredTop
 * TODO Thoughts
 * TODO Notes :ATTACH:
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

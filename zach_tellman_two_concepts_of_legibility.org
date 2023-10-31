@@ -54,5 +54,5 @@ As we compose our abstractions, we must ensure we create, at regular intervals, 
 This is more easily said than done. Countless decisions go into every bit of software, but not all of them deserve to be enshrined as an interface. Once used, interfaces ossify. They allow the code on either side to drift apart, to lose consistency in idiom and purpose. If we don't expect an interface to require multiple interpretations, it shouldn't exist. To make the right decision, we must predict the future.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

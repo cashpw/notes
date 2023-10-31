@@ -27,5 +27,5 @@ It quickly became clear that I was not the first literate person to don a minisk
 
 As ridiculous as it sounds, that was the first time I became aware that clever people are buried in every nook and cranny of life. It is astonishing that no one pointed this out to me sooner. The girls working at the bar -- they were so bright. Another shot girl had a journal that she filled with poetry that was -- that rarest of all rare things -- crisp and clean and very, very good. This was never a bar where everyone knew your name, but the cocktail waitresses came to know one another's reading lists, and pitch letters, and audition schedules extremely well.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

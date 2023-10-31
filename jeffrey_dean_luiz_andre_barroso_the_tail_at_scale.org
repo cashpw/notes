@@ -18,5 +18,5 @@ TODO_AUTHOR, [cite:@deanTailScale2013]
 :NOTER_DOCUMENT: attachments/3e/9efd91-d6f1-41e8-beb4-fe5a9276a1d3/TheTailatScale.pdf
 :NOTER_PAGE: 2
 :END:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

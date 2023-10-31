@@ -16,7 +16,7 @@ The term is often used in contrast to declarative programming [[[id:f234a51d-23e
 
 [cite:@ImperativeProgramming2023]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-05-03 Wed 15:22]

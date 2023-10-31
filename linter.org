@@ -15,7 +15,7 @@ Lint, or a linter, is a static code analysis tool used to flag programming error
 [cite:@LintSoftware2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

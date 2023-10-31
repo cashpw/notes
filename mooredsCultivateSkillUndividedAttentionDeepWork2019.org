@@ -40,7 +40,7 @@ Rather than focusing on a list of things other developers have learned, and targ
 Do more deep work, and over a year or two years, your skills will grow much faster than those doing less deep work. Eventually, you might find that you're doing the work of a senior developer!
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

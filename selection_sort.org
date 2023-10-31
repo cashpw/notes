@@ -17,7 +17,7 @@ The algorithm divides the input list into two parts: a sorted sublist of items w
 
 - [[id:cedb0b84-030c-4de7-b4ae-0ce16f09fa19][Comparison sorting algorithm]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 14:49]

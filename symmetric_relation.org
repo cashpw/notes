@@ -15,7 +15,7 @@ Formally, a binary relation R over a set X is symmetric if: $\forall a,b \in X(a
 [cite:@SymmetricRelation2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       64ae91b5-78a0-4d93-8339-3cfd3c502dd4

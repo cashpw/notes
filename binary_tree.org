@@ -34,7 +34,7 @@ In computer science, a binary tree is a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb
 
 Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text{left}=2i+1\) and \(\text{right}=2i+2\). Similarly, the parent node for a node at index \(i\) is at \(\lfloor\frac{i-1}{2}\rfloor\).
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

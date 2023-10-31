@@ -14,5 +14,5 @@ Rowing, sometimes called crew in the United States, is the sport of racing boats
 
 [cite:@RowingSport2023]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

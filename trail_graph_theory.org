@@ -11,7 +11,7 @@
 #+begin_quote
 A trail is a walk [[[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]]] in which all edges [[[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]] are distinct.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-12-22 Thu 12:01]

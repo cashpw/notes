@@ -15,7 +15,7 @@ A greedy algorithm is any algorithm that follows the problem-solving heuristic o
 [cite:@GreedyAlgorithm2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       38457fe7-12f9-455f-a318-374d61fbcc12

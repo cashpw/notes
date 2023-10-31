@@ -19,7 +19,7 @@ Composability is a system design principle that deals with the inter-relationshi
 [cite:@Composability2021]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-10 Thu 18:50]

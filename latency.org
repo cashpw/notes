@@ -51,7 +51,7 @@ Amount of time the packet is waiting in the queue until it can be processed.
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Networking) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 08:50]

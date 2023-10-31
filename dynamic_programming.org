@@ -9,7 +9,7 @@
 #+date: [2022-12-21 Wed 16:26]
 #+filetags: :hastodo:concept:
 * TODO [#2] :noexport:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** Example(s) :fc:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 16:29]

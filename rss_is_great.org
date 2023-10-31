@@ -16,5 +16,5 @@ Subscribing to RSS feeds can allow a user to keep track of many different websit
 
 Websites and applications [[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][want your attention]] and provide information, entertainment, rage-bait, etc, in return. I use RSS to get the information without giving up too much of my attention.
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

@@ -51,5 +51,5 @@ If you're trying to learn the material to the fullest, then mine the assignment 
 If you're trying to do achieve some combination of good grades (for signalling purposes), respect (for social reasons), and knowledge (for various effects), then pinpoint the minimum quality target that gets a good grade, impresses the teacher, and allows you to learn the material, and hit that as efficiently as you can. Anything more is wasted motion.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

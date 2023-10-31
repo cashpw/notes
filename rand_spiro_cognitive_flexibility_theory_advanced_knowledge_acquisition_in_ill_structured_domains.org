@@ -18,5 +18,5 @@
 :NOTER_DOCUMENT: attachments/4b/4a56fd-f7df-454d-a770-495de526c6f4/Spiro - 1988 - Cognitive flexibility theory Advanced knowledge a.pdf
 :NOTER_PAGE: 5
 :END:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

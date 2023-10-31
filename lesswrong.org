@@ -16,7 +16,7 @@ We are a community dedicated to improving our reasoning and decision-making. We 
 /[[https://www.lesswrong.com/about][About]]/
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

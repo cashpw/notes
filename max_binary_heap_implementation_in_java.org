@@ -165,7 +165,7 @@ public class Main {
 : Optional[28]
 : Optional[22]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

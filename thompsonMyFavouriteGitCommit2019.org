@@ -83,7 +83,7 @@ This commit message goes into a lot of detail about what the problem looked like
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

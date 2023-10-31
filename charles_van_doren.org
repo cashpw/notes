@@ -7,7 +7,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-12-24 Sat 09:14]
 #+filetags: :person:
-* Flashcards
+* Flashcards :noexport:
 ** Author :fc:
 :PROPERTIES:
 :ID:       a29bec0a-9e91-4d53-8af7-b56413317581

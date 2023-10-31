@@ -49,5 +49,5 @@ Related:
 
 - The [[id:731b4023-79ea-4671-9de9-2079008f14df][final entry in the series]] is also the first in [[id:5e6ac16d-668c-455b-931a-15bc1a482603][another series]]. This is a clever way to lead readers along between sequences/series. The two series are distinct enough that they can stand alone but connected enough that someone who reads one is likely to also want to read the other.
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

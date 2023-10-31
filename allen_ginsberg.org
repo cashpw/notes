@@ -9,4 +9,4 @@
 #+filetags: :hastodo:person:
 
 * TODO [#4] Expand :noexport:
-* TODO [#4] Flashcards
+* TODO [#4] Flashcards :noexport:

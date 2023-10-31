@@ -15,7 +15,7 @@ The Unix philosophy emphasizes building simple, compact, clear, modular, and ext
 [cite:@UnixPhilosophy2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-10 Thu 18:48]

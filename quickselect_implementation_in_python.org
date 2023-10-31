@@ -65,4 +65,4 @@ print(select_nth_smallest(a, 4), "should be 10")
 TIES:
 :ANKI_DECK: Default
 :END:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:

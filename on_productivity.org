@@ -25,5 +25,5 @@ A summary of what I know and have read about productivity. Note the goal here is
 * [cite:@hurfordHowAmProductive2013]
 * [cite:@matthewsaltzSimpleDynamicMethodConsistentProductivity2020]
 * [cite:@betzAttentionMyMostValuableAssetProductivitySoftwareDeveloper2020]
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

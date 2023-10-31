@@ -16,7 +16,7 @@ In [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] (BFS) or le
 [cite:@TreeTraversal2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:41]

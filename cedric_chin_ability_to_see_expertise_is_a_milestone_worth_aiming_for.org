@@ -15,4 +15,4 @@ TODO_AUTHOR, [cite:@chinAbilitySeeExpertiseMilestoneWorthAiming2022]
 * TODO Thoughts
 * TODO Notes
 #+print_bibliography:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:

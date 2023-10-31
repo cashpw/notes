@@ -19,7 +19,7 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 [cite:@PureFunction2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

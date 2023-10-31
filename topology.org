@@ -15,5 +15,5 @@ In mathematics, topology is concerned with the properties of a geometric [[[id:e
 [cite:@Topology2023]
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

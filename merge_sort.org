@@ -45,7 +45,7 @@ procedure MergeSort(list) is
 |-------+--------------------------------+--------------------------------|
 | Time  | \(O(n \operatorname{log}(n))\) | \(O(n \operatorname{log}(n))\) |
 | Space | \(O(n)\)                       | \(O(n)\)                       |
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

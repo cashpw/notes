@@ -44,7 +44,7 @@ By the way, in this context, "optimal" doesn't mean that it reaches the optimal 
 [cite:@francoisrAnswerWhatDoesStarAlgorithmMean2016]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Example(s) :fc:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 16:15]

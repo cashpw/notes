@@ -26,5 +26,5 @@ Set your editor's column width very low ... 36 characters for me, [your mileage 
 Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

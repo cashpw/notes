@@ -264,7 +264,7 @@ To accelerate queries, we can use multiple levels of overlay graphs, a common te
 [cite:@dellingCustomizableRoutePlanning2011]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-06-26 Mon 07:28]

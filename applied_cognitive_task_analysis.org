@@ -238,7 +238,7 @@ The authors offer sample headings for the table based on analyses that they have
 [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-09-11 Mon 06:48]

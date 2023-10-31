@@ -61,7 +61,7 @@ There's one other quality I aim for in essays: to say things as simply as possib
 #+begin_quote
 Sometimes the reason people don't know something is because they don't want to know it.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** [[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]] considers a useful essay as one which is {{novel, correct, important, and strong}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-08 Tue 15:19]

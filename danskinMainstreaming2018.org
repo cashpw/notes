@@ -56,7 +56,7 @@ Much as we'd like to believe people are driven by morality, most people are driv
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

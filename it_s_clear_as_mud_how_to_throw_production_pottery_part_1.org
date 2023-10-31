@@ -17,5 +17,5 @@
 - [[id:601ced68-e574-4d6d-b061-caaa9d5a0847][Three pulls]]
 - Use a [[id:edc17205-eb00-480c-b583-20632817533f][Throwing gauge]]
 -
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

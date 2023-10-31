@@ -38,5 +38,5 @@ Generally, this was a fun exercise, and the shareout was exceptionally interesti
 One of the powerful things about maps is they contain so much data (this is one of the reasons what [[https://felt.com/][Felt]] is doing is so interesting to me), but I also found that trying to work through both the nouns and their physical relationship to each other was too much to get right in one pass. You really need time to iterate before the map gels. For most folks it was obvious within a few minutes that their map was wrong somehow, and doing the exercise within one session didn't provide enough time to fix. Conversely, maybe that's part of the value: sometimes an exercise that makes it abundantly clear that you can't do a good job is a powerful way to break through uncertainty.
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

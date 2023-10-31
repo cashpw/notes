@@ -17,4 +17,4 @@ A comparison sort is a type of [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sortin
 It is possible that both a ≤ b and b ≤ a; in this case either may come first in the sorted list. In a [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]], the input order determines the sorted order in this case.
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:

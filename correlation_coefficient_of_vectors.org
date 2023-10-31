@@ -16,7 +16,7 @@
 
 See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 
-* Flashcards
+* Flashcards :noexport:
 
 ** {{$\rho_{\vec{a}, \vec{b} }$}@0} \(=\) {{$\frac{\tilde{a} \cdot \tilde{b} }{\|\tilde{a}\|\|\tilde{b}\|}$}@1} :fc:
 :PROPERTIES:

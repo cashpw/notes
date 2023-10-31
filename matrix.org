@@ -21,7 +21,7 @@ is a matrix with two rows and three columns. This is often referred to as a "two
 [cite:@MatrixMathematics2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

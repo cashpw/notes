@@ -15,5 +15,5 @@ In theoretical computer science and mathematics, computational complexity theory
 [cite:@ComputationalComplexityTheory2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

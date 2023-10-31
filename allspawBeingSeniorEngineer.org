@@ -148,7 +148,7 @@ Appropriate, even if old...I've seen it referenced as coming from [[http://www.a
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

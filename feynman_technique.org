@@ -22,7 +22,7 @@ There are four key steps to the Feynman Technique:
 [cite:@streetFeynmanTechniqueBestWayLearnAnything2012]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-05-13 Sat 06:39]

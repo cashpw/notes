@@ -21,7 +21,7 @@ For instance, in a graph that represents connections between routers in the Inte
 In this graph, the widest path from Maldon to Feering has bandwidth 29, and passes through Clacton, Tiptree, Harwich, and Blaxhall [40-29-31-40-46 has a minmimum of 29].
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-12-22 Thu 09:20]

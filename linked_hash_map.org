@@ -10,7 +10,7 @@
 
 A [[id:16e87858-5bed-40b3-830b-b2596f4d20b4][Linked hash map]] is a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]] with [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]].
 
-* Flashcards
+* Flashcards :noexport:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2022-10-18 Tue 07:51]

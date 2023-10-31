@@ -218,7 +218,7 @@ should be spaced over intervals between 12 and 24 hours
 :PROPERTIES:
 :NOTER_PAGE: 23
 :END:
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

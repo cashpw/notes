@@ -12,7 +12,7 @@ Big Theta notation, written as \(\bigtheta{g(n)}\), indicates \(f\) is bound abo
 
 \[\bigtheta{n} \implies \bigo{n} \;\text{and}\; \bigomega{n}\]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

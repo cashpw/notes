@@ -44,7 +44,7 @@ Based on the algorithm in [cite:@BreadthfirstSearch2022].
 | Time  | \(O(\vert V \vert + \vert E \vert)\) |
 | Space | \(O(\vert V \vert)\)                 |
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

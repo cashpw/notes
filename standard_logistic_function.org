@@ -29,7 +29,7 @@ $\operatorname{logistic}(x; L, k, x_0) = \displaystyle \frac{L}{1 + e^{-k(x + x_
 
 $\operatorname{logistic}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\displaystyle \frac{e^x}{e^x + 1}$
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       9800fa26-77f0-4e02-a6fc-a33fae8bb3e5

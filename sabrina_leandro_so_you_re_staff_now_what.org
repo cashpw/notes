@@ -79,5 +79,5 @@
 [formatting mine]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

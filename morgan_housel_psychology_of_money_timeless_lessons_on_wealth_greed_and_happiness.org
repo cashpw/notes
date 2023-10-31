@@ -120,5 +120,5 @@ TODO_AUTHOR, [cite:@houselPsychologyMoneyTimelessLessonsWealthGreedHappiness2020
 :PROPERTIES:
 :NOTER_PAGE: (213 . 0.094432)
 :END:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

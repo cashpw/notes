@@ -15,4 +15,4 @@ TODO_AUTHOR, [cite:@chinBuildingCareerMoatsConfession2018]
 * TODO Thoughts
 * TODO Notes
 #+print_bibliography:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:

@@ -16,7 +16,7 @@
 3. $a \le b$ and $b \le a$ $\iff$ $a = b$: [[id:875bfbf2-61ad-4f0a-9833-245dc5adc561][Antisymmetric relation]]
 4. $a \le b$ or $b \le a$: [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-14 Mon 15:37]

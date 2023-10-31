@@ -59,7 +59,7 @@ The trend reversed immediately after that: we were able to close several hundred
 Sometimes, programming feels like magic: you chant some arcane incantation and a fleet of robots do your bidding. But sometimes, magic is mundane. If you're willing to embrace the grind, you can pull off the impossible.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-10-25 Wed 19:03]

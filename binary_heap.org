@@ -60,7 +60,7 @@ Example of a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] binary [[id:7
 [cite:@BinaryHeap2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

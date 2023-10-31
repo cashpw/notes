@@ -19,7 +19,7 @@ GANs are similar to mimicry in evolutionary biology, with an evolutionary arms r
 [cite:@GenerativeAdversarialNetwork2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-06-24 Sat 20:19]

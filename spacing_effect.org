@@ -13,7 +13,7 @@ The spacing effect demonstrates that learning is more effective when study sessi
 
 [cite:@SpacingEffect2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-07 Mon 07:52]

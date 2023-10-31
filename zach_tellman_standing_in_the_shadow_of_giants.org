@@ -27,5 +27,5 @@ A similar pattern can be seen in the open source community. There has been, for 
 For some people, creating widely used software is highly rewarding, and the administrative responsibilities it introduces are a small price to pay. For others, especially those who chase the frontiers of open source, loss of ownership leads to a loss of interest. By letting a project grow too large, they effectively chase themselves away.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

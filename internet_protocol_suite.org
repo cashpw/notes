@@ -32,5 +32,5 @@ The Internet protocol suite, commonly known as TCP/IP, is a framework for organi
 
 ** Application layer
 * TODO [#1]
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

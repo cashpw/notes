@@ -21,7 +21,7 @@ Functional programming has its roots in academia, evolving from the lambda calcu
 [cite:@FunctionalProgramming2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-05-03 Wed 15:27]

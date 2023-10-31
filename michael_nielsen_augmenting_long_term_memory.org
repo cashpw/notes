@@ -47,5 +47,5 @@ One benefit of using Anki in this way is that you begin to habitually break thin
 #+begin_quote
 This is really a meta-strategy, i.e., a strategy for forming strategies. One simple example strategy is to use multiple variants of the "same" question. For instance, I mentioned earlier my two questions: "What does Jones 2011 claim is the average age at which physics Nobelists made their prizewinning discovery, over 1980-2011?" And: "Which paper claimed that physics Nobelists made their prizewinning discovery at average age 48, over the period 1980-2011?" Logically, these two questions are obviously closely related. But in terms of how memory works, they are different, causing associations on very different triggers.
 #+end_quote
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

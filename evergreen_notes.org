@@ -11,7 +11,7 @@
 
 [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s idea of an evergreen note is one which is [[id:eb5965f1-211b-45cb-9f56-b8e85c48bb6d]["written and organized to evolve, contribute, and accumulate over time, across projects"]]. I see it as the [[id:4ab64054-a7a8-432e-bd5b-da1d8a01ae16][Unix philosophy]] applied to writing and note taking.
 
-* Flashcards
+* Flashcards :noexport:
 ** Describre :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 10:57]

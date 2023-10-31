@@ -30,7 +30,7 @@ In computer science, heapsort is a comparison-based sorting algorithm. Heapsort 
 
 [[id:1866a9ee-480e-4c8e-95d1-549bd30f13dc][Heapsort implementation in python]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Algorithm :fc:
 :PROPERTIES:
 :CREATED: [2022-10-20 Thu 19:14]

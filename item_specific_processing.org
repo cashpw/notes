@@ -15,7 +15,7 @@ Item-specific processing involves encoding the various characteristics or proper
 
 [cite:@marshMemoryEducationalSettings2013]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:55]

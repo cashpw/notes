@@ -29,7 +29,7 @@ $$
 [cite:@BinomialTheorem2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Equivalence :fc:
 :PROPERTIES:
 :CREATED: [2023-01-19 Thu 09:55]

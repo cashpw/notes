@@ -479,7 +479,7 @@ I find that writers who post frequently (say, twice weekly) are rarely worth rea
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 ** [[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]] defines a {{novel idea}@0} as {{new to the reader, significant, and not easily intuited}@1}. :fc:
 :PROPERTIES:
 :CREATED: [2022-10-22 Sat 18:48]

@@ -10,7 +10,7 @@
 
 - [[id:5e8b11e4-9600-44b7-8cd4-1be85f359948][Read Gmail in Emacs with mbsync and mu4e]]
 - [[id:ada68d10-cec8-4af1-903d-29dfa71d2343][Read Gmail in Emacs with notmuch and lieer]]
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

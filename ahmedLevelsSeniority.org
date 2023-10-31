@@ -68,7 +68,7 @@ Senior developers are the next level after the Mid-level developers. They are th
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -28,5 +28,5 @@ Some common programming paradigms are,
 [cite:@ProgrammingParadigm2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

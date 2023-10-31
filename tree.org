@@ -21,7 +21,7 @@ In computer science, a tree is a widely used [[id:2eae74ba-4003-45cf-8425-7291aa
 - [[id:5069eb5e-f5c6-49de-8329-ba07dafe320e][In-order tree traversal]]
 - [[id:81611da6-3ea4-45d9-b2db-b96ed95d946d][Post-order tree traversal]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       b6433e8b-070a-4b5d-8771-a3575b3158a0

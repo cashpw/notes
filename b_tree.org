@@ -101,7 +101,7 @@ Deletion works in the opposite way: the element is removed from the leaf. If the
 Worst case: $\bigo{\log n}$
 
 
-* Flashcards
+* Flashcards :noexport:
 
 ** {{Inner [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@0} in [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-trees]] of order $m$ have {{between $\lceil \frac{m}{2} \rceil$ and $m$}@1} children :fc:
 :PROPERTIES:

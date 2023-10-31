@@ -67,7 +67,7 @@ A directed graph [[[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]] i
 
 [cite:@ConnectivityGraphTheory2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-01-28 Sat 13:23]

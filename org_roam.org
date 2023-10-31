@@ -19,7 +19,7 @@ I use =org-roam= for:
 - [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][Personal knowledge management]] at [[https://cashpw.com][cashpw.com]] and [[github:cashpw/notes][cashpw/notes]]
 - [[id:4938a000-de24-45a9-bb5b-5b8559bc99c3][Personal relationship manager]] via [[https://www.orgzly.com/][orgzly]], [[https://syncthing.net/][syncthing]], and a [[id:abb1e1cc-12bb-42fe-9004-555145c8faaa][private git repo]]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -20,7 +20,7 @@ The order in which elements come off a stack gives rise to its alternative name,
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -20,7 +20,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 | Parameters | =?baz=boo&color=blue=  |
 | Anchor     | =#cats=                |
 
-* Flashcards
+* Flashcards :noexport:
 
 ** Describe :fc:
 :PROPERTIES:

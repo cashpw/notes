@@ -17,7 +17,7 @@ A degenerate (or pathological) tree is where each parent node has only one assoc
 
 #+attr_html: :alt Degenerate binary tree
 [[file:degenerate-binary-tree.png]]
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

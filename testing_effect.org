@@ -18,7 +18,7 @@ The testing effect [...] suggests long-term memory is increased when some of the
 
 Retrieving a piece of information from memory will increase ones ability to recall that piece of information over long periods of time. A common example would be using tests as a tool for study. The student has to attempt to recall the information from memory while taking the test and thereby improves their recall.
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 11:45]

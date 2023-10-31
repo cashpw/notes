@@ -49,7 +49,7 @@ git remote add gdrive /mnt/gdrive/projects/addon.git
 
 5. Push/pull project as you usually would from github/gitlab/etc
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -13,4 +13,4 @@
 :END:
 
 A bookmarklet for capturing the selected text into Emacs. Requires the
-* Flashcards
+* Flashcards :noexport:

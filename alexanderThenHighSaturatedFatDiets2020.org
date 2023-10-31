@@ -69,7 +69,7 @@ Overall I am ending this research more confused than when I started it. I think 
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

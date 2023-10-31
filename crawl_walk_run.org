@@ -28,7 +28,7 @@ An iterative development approach could start with re-computing the metrics manu
 
 Answering these follow-up questions ensures you and your team don't burn time solving a problem that doesn't need solving; or one that has a simple solution. Perhaps it's enough to create a recurring reminder to refresh the metrics every quarter. A shared bash script could be all the "automation" necessary in that it simplifies the manual update into a [[id:1e9fa224-0c4d-4b1b-aee5-4075fe9f900a][One-click]] process.
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-06-06 Tue 08:50]

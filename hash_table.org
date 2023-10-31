@@ -67,7 +67,7 @@ Well-known probe sequences include:
 [cite:@HashTable2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

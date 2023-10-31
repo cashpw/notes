@@ -65,7 +65,7 @@ def bellman_ford(source: Node, edges: Edges, nodes: Nodes) -> Tuple[Distances, P
 
     return distances, previouses
 #+end_src
-* Flashcards
+* Flashcards :noexport:
 ** Implement :fc:implement:
 :PROPERTIES:
 :CREATED: [2023-01-08 Sun 18:22]

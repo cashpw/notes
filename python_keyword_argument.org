@@ -22,7 +22,7 @@ complex(**{'real': 3, 'imag': 5})
 
 Also see [[id:63cf63ea-ec98-4b14-b5d3-50d9b0c9f4e6][Asterisk in Python function arguments]].
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-02-08 Wed 09:40]

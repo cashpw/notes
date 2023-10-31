@@ -31,7 +31,7 @@ print(two_sum([2,4,5], 7), 'should be [2, 5]')
 print(two_sum([2,4,5], 2), 'should be None')
 #+end_src
 
-* Flashcards
+* Flashcards :noexport:
 ** Solve :fc:implement:
 :PROPERTIES:
 :CREATED: [2023-02-07 Tue 16:15]

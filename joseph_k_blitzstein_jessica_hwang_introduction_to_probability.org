@@ -652,5 +652,5 @@
 :NOTER_PAGE: 626
 :END:
 
-* TODO [#3] Flashcards
+* TODO [#3] Flashcards :noexport:
 #+print_bibliography:

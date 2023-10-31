@@ -7,7 +7,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-13 Sun 18:01]
 #+filetags: :person:
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

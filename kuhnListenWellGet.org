@@ -38,7 +38,7 @@ It often feels like I understand enough to be helpful without knowing all those 
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 ** To listen well, {{get curious}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 12:46]

@@ -25,5 +25,5 @@ B. I'll try to do my public writing as part of my first pass on the notes.
 C. Why do I often find myself stuck when I try to write evergreen notes as publishable prose for an audience?\\
 D. When a topic is hard enough to distill on its own, the extra cognitive load of considering a reader overwhelms me.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

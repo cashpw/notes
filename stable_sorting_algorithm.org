@@ -19,7 +19,7 @@ Stable sort algorithms sort equal elements in the same order that they appear in
 [(3, 'c'), (8, 'b'), (8, 'd'), (10, 'a')])
 #+end_src
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

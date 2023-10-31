@@ -28,7 +28,7 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 ** AKA ([[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]) :fc:
 :PROPERTIES:
 :ID:       e94de5ac-89b3-4a09-8776-68c11eeb01e8

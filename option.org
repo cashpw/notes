@@ -48,7 +48,7 @@ A European option may be exercised only at the expiration date of the option, i.
 [cite:@OptionStyle2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** The value of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][option]] comes from {{the convexity of the ultimate payout.}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 17:54]

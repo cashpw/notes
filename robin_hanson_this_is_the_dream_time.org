@@ -30,5 +30,5 @@ When our distant descendants think about our era, however, differences will loom
 Perhaps most important, our descendants may remember how history hung by a precarious thread on a few crucial coordination choices that our highly integrated rapidly changing world did or might have allowed us to achieve, and the strange delusions that influenced such choices.  These choices might have been about global warming, rampaging robots, nuclear weapons, bioterror, etc.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

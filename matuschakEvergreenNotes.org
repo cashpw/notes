@@ -37,5 +37,5 @@ See:
 
 * TODO [#2] Extract links into notes
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

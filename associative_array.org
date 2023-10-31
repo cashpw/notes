@@ -17,7 +17,7 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       cf74b86e-c849-4727-b7d5-2121266275cd

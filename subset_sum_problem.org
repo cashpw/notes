@@ -46,7 +46,7 @@ Starting from the initial state $(0, 0)$, it is possible to use any graph search
 
 [[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time subset sum problem implementation in Python]].
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-31 Tue 08:40]

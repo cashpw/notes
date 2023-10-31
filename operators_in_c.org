@@ -94,7 +94,7 @@ Cat Foo() { ... }
 auto [weight, age] = Foo();
 #+end_src
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** Denotes :fc:
 :PROPERTIES:
 :CREATED: [2023-05-04 Thu 16:24]

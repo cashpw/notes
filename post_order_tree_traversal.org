@@ -23,7 +23,7 @@ Post-order traversal (blue node): A, C, E, D, B, H, I, G, F
 
 [cite:@TreeTraversal2022]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

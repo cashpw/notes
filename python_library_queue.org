@@ -182,7 +182,7 @@ print(min_queue.get(), 'should be (5, b)')
 : (4, 'a') should be (4, a)
 : (5, 'b') should be (5, b)
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-02-08 Wed 09:19]

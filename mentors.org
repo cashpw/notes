@@ -8,4 +8,4 @@
 #+date: [2022-11-20 Sun 09:03]
 #+filetags: :hastodo:concept:
 * TODO [#4] Expand :noexport:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:

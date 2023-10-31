@@ -30,7 +30,7 @@ Thus the inverse function $f^{-1}$ is given by the formula
 $f^{-1}(y)={\frac {{\sqrt[{3}]{y}}-8}{2}}$.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 09:16]

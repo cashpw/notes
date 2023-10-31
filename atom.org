@@ -23,7 +23,7 @@ Technically speaking, a list in Lisp consists of parentheses surrounding atoms s
 [cite:@LispAtoms]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

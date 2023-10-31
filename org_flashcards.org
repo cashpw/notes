@@ -20,5 +20,5 @@ These cards are reviewed at regular interval. After each review, the next review
 [cite:@leonOrgFlashcards2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

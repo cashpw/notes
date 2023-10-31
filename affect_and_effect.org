@@ -7,7 +7,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2023-02-18 Sat 10:47]
 #+filetags: :concept:
-* Flashcards
+* Flashcards :noexport:
 ** Affect :fc:
 :PROPERTIES:
 :CREATED: [2023-01-28 Sat 16:33]

@@ -11,7 +11,7 @@
 * TODO [#4] Expand
 Seek to be aware of your "defaults" and examine them; do you want to keep them?
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -24,7 +24,7 @@ In computer science, iterative deepening search or more specifically iterative d
 
 Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]]) and $d$ is the depth of the shallowest solution.
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

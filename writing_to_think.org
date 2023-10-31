@@ -21,7 +21,7 @@ See:
 :PROPERTIES:
 :CREATED: [2021-06-17 22:49]
 :END:
-* TODO [#3] Flashcards
+* TODO [#3] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

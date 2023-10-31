@@ -18,7 +18,7 @@ $(a \, R \, b \; \text{and} \; b \, R \, c) \implies$ $a \, R \, c \; \forall \;
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

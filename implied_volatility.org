@@ -9,7 +9,7 @@
 #+filetags: :hastodo:concept:
 * TODO [#2]
 [cite:@ImpliedVolatility2022]
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** [[id:7b2744d7-c760-474b-97ef-120da8b4220f][Implied volatility]] looks {{forward}{direction}@0} in time :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 18:10]

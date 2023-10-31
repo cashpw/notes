@@ -35,7 +35,7 @@ Most risks, especially where managed effectively, never come to pass. For this r
 Every company has different risks, and so every company expects something different from their senior engineers. An engineer who has spent the last five years making small, continuous improvements to the processes in a larger company may not enjoy or even understand the sort of role expected by a three person startup. The expectation that "senior" is a fungible title is both widespread and harmful, leading to unrealistic expectations from both engineers and companies.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -9,5 +9,5 @@
 #+date: [2023-06-20 Tue 14:15]
 #+filetags: :hastodo:concept:
 * TODO [#0]
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

@@ -56,7 +56,7 @@ The other approach is what many smart (but non-geniuses) take: the buffet approa
 /[[https://news.ycombinator.com/item?id=22327704][wenc]]/
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

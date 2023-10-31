@@ -16,7 +16,7 @@ In science, computing, and engineering, a black box is a system which can be vie
 [cite:@BlackBox2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

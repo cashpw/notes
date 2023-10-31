@@ -96,5 +96,5 @@ You'll notice that all three examples are drawn from the [[https://naturalisticd
 I'll tell you if I do. Till then, the best that we have is casual consumption of the [[https://naturalisticdecisionmaking.org/podcasts/][NDM podcasts]]. I recommend you join me in doing so. If you're as obsessed with learning as I am, I think you'll enjoy it as much as I do.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

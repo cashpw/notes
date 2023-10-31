@@ -14,7 +14,7 @@ An r-value is a temporary value that does not persist beyond the expression that
 [cite:@ValueComputerScience2023]
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-05-20 Sat 05:55]

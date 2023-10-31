@@ -38,7 +38,7 @@ unfair_2 -> "0,0" [label="reject"]
 #+RESULTS:
 [[file:ultimatum-game.png]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]) :fc:
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 15:01]

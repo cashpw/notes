@@ -25,7 +25,7 @@ The construction of such a tree for the string $S$ takes time and space linear i
 #+end_quote
 
 * TODO [#4] How to build a [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]]
-* Flashcards
+* Flashcards :noexport:
 ** Image :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 09:55]

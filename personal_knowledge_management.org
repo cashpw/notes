@@ -15,7 +15,7 @@ Personal knowledge management (PKM) is a process of collecting information that 
 [cite:@PersonalKnowledgeManagement2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

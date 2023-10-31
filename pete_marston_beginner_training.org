@@ -561,5 +561,5 @@ Note: If even this volume of sessions looks too much, simply halve each session 
   Week 21 was the last time you completed this session. Your final session of the 24 week plan, so think about the improvements you've made during the past 6 months, and think back to those first few sessions in week 1.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

@@ -39,7 +39,7 @@ But there are clearly also heuristics that would be useful to goal-achievement (
 
 .... or carry out any number of other useful techniques. Instead, we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

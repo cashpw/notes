@@ -16,7 +16,7 @@ The algorithm depends on efficient estimation of the lower and upper bounds of r
 [cite:@BranchBound2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-17 Tue 09:44]

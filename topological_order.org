@@ -52,7 +52,7 @@ In computer science, a topological sort or topological ordering of a directed gr
 
 One can use a topological ordering to reduce the time complexity of the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]] from (see [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] and [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]]) to linear time: $\bigtheta{|E| + |V|}$. See [[id:3642d973-8af3-4d0f-a446-9ee24c2f85e7][Single-source shortest path with topological sort in Python]].
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-23 Mon 09:53]

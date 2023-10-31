@@ -13,7 +13,7 @@ A mental model is an explanation of someone's thought process about how somethin
 [cite:@MentalModel2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 09:20]

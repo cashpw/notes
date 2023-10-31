@@ -69,7 +69,7 @@ Caplan is right, and this opens an avenue to improve teaching: Suppose you focus
 Granting that one can use DI to hammer down very basic points, should one also hammer down History and English Literature? Just because you can make the learning of those happen doesn't mean that you should: the effectiveness of an intervention also depends on the values being used to judge it. What's the effect size of removing History from the curriculum and leaving more time for the kids to play?
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-01-11 Wed 20:42]

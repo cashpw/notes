@@ -75,7 +75,7 @@ Where \(V\) is the set of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] 
 * Alternatives
 - [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

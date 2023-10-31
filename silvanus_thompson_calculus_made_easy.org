@@ -450,7 +450,7 @@ See [[id:0ff1c07f-e015-4929-b119-8890ebbc312c][Chain rule]]
 :NOTER_PAGE: (283 . 0.06751)
 :END:
 
-* TODO [#3] Flashcards
+* TODO [#3] Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-18 Wed 09:24]

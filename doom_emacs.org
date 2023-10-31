@@ -15,7 +15,7 @@ Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy ve
 #+end_quote
 
 See [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]].
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

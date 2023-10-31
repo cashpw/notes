@@ -27,7 +27,7 @@ I took longer to figure out how to do this than anyone I've ever met. It takes a
 [cite:@glassGoodTaste2009]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-12-16 Fri 14:18]

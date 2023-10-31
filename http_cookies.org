@@ -19,7 +19,7 @@ An HTTP cookie (web cookie, browser cookie) is a small piece of data that a serv
 - [[id:5e91bfb8-05ea-43d3-bfef-fd5d6299138e][First-party cookies]]
 - [[id:2651f5d4-f8db-45b1-9256-aadb99c39575][Third-party cookies]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       8e56b941-b9eb-487b-be2a-0bb005818c94

@@ -21,5 +21,5 @@
 Inference involves two settings: In the first, information is acquired (learning); in the second, it is applied (predictions or choices). Kind learning environments involve close matches between the informational elements in the two settings and are a necessary condition for accurate inferences. Wicked learning environments involve mismatches. This conceptual framework facilitates identifying sources of inferential errors and can be used, among other things, to suggest how to target corrective procedures. For example, structuring learning environments to be kind improves probabilistic judgments. Potentially, it could also enable economic agents to exhibit maximizing behavior.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

@@ -13,5 +13,5 @@ List math learning resources. Perhaps generalize this into a series of "How to l
 
 [cite:@MathAcademy]
 
-* TODO [#4] Flashcards
+* TODO [#4] Flashcards :noexport:
 #+print_bibliography:

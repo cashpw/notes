@@ -22,7 +22,7 @@ In a game of complete information, the structure of the game and the payoff func
 
 - Strategy video games which implement "[[https://en.wikipedia.org/wiki/Fog_of_war#In_video_games][fog of war]]"
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-10-22 Sat 16:02]

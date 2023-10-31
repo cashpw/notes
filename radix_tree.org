@@ -24,7 +24,7 @@ In computer science, a radix tree (also radix trie or compact prefix tree or com
 #+end_quote
 
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-25 Fri 10:14]

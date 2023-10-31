@@ -18,5 +18,5 @@
 :NOTER_DOCUMENT: attachments/86/c0a598-a14d-4764-8a63-dcbfc21bcb5c/umberto-eco-ur-fascism.pdf
 :NOTER_PAGE: 1
 :END:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

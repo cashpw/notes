@@ -102,7 +102,7 @@ print(foo(10, **kwargs))
 #+RESULTS:
 : (10, 20, 30)
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-02-08 Wed 10:02]

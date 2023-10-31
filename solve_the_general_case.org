@@ -15,7 +15,7 @@ Where possible, solving the general form of any problem is preferable to solving
 #+end_quote
 
 * TODO [#4] Expand :noexport:
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

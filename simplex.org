@@ -15,7 +15,7 @@ Simplex communication is a communication channel that sends information in one d
 [cite:@SimplexCommunication2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** [[id:27a0ad69-c248-4dea-9807-4926ec05412c][Simplex]] :fc:
 :PROPERTIES:
 :CREATED: [2023-03-18 Sat 08:27]

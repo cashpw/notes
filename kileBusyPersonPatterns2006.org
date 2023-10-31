@@ -576,7 +576,7 @@ Completing tasks so that they are "good enough" and satisfy the requestor allows
 :NOTER_PAGE: (37 . 0.090909)
 :END:
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -59,7 +59,7 @@ http://catalogue.bnf.fr/ark:/12148/cb402991186
 #+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b531799418/f1/full/full/0/native.jpg @ 2023-07-25 14:28:25
 [[file:2023-07-25_14-28-25_plan-of-newtons-cenotaph-plate-10.jpg]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Image :fc:
 :PROPERTIES:
 :CREATED: [2023-07-25 Tue 16:23]

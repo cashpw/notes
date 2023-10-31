@@ -19,4 +19,4 @@ digraph {
 #+RESULTS:
 [[file:dot-example.png]]
 
-* Flashcards
+* Flashcards :noexport:

@@ -83,7 +83,7 @@ As time passes, your company's priorities will change and parts of your map will
 Mohit Suley, an engineering manager and former principal engineer at Microsoft, has spoken about his team tracking down and contacting unreliable ISPs where their search engine, Bing, wasn't reachable. It wasn't Bing that was broken, but as Suley says, "A user doesn't distinguish between DNS services, ISP, your CDN, or your endpoint, whatever that might be. At the end of the day, there are a bunch of websites that work, and a bunch that don't." You need to measure success from your users' point of view [[[id:4636301f-4c54-4fb9-a475-87791566f56f][Measure success from your users' point of view]]]. (If your customers are other teams inside your company, this still applies!) If you don't understand your customer, you don't have real perspective on what's important.
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-06-06 Tue 21:13]

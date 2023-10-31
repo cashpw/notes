@@ -18,5 +18,5 @@
 :NOTER_DOCUMENT: attachments/c6/05b581-d3f9-4eed-a296-f7d72b580db3/ray-dalio-principles.pdf
 :NOTER_PAGE: 1
 :END:
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

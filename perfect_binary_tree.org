@@ -16,7 +16,7 @@ A perfect binary tree is a binary tree in which all interior nodes have two chil
 
 #+attr_html: :alt Perfect binary tree
 [[file:perfect-binary-tree.png]]
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

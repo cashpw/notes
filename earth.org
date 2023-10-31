@@ -8,7 +8,7 @@
 #+author: Cash Prokop-Weaver
 #+date: [2023-03-17 Fri 09:09]
 #+filetags: :concept:
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:09]

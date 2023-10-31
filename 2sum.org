@@ -50,7 +50,7 @@ The trick is using a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]].
 
 [[id:0d2abc68-9f65-4676-9f62-37b07cb1b86b][2sum linear time solution in Python]]
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-02-07 Tue 16:12]

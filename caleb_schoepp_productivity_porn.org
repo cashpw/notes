@@ -14,5 +14,5 @@ TODO_AUTHOR, [cite:@schoeppProductivityPorn]
 * TODO [#2] Summary
 * TODO [#2] Thoughts
 * TODO [#2] Notes
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

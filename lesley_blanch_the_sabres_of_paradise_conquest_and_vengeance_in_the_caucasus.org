@@ -32,5 +32,5 @@ Dune (first published in 1965) had taken a lot of inspiration from a book called
 #+end_quote
 
 * Notes
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

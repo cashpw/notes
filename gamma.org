@@ -21,7 +21,7 @@ $\Gamma = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2
 [cite:@GreeksFinance2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 17:46]

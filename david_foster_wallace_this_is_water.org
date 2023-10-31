@@ -91,5 +91,5 @@ It is unimaginably hard to do this, to stay conscious and alive in the adult wor
 I wish you way more than luck.
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

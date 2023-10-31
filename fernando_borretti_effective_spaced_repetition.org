@@ -76,7 +76,7 @@ Make a deck for each source. In the case of textbooks, make a sub-deck for each 
 This also makes it easier to keep track of how far along you got into a text.
 #+end_quote
 
-*** Write Atomic Flashcards
+*** Write Atomic Flashcards :noexport:
 :PROPERTIES:
 :ID:       5819da38-1d40-498f-a915-dc2b4596846b
 :END:
@@ -181,5 +181,5 @@ Another type of card you might use (I use this to memorize poems) is a card that
 | B, C, ...           | D      |
 
 The [[https://borretti.me/article/effective-spaced-repetition#poetry-script][poetry script]] can generate these for you.
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

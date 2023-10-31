@@ -14,7 +14,7 @@ The vertex-connectivity, or just connectivity, of a graph is the largest k for w
 [cite:@KvertexconnectedGraph2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-06-24 Sat 20:29]

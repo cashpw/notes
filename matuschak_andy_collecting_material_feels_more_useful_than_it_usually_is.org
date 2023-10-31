@@ -30,5 +30,5 @@ Instead, we should [[https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo][Wr
 
 Often a good compromise is to use spaced repetition to cheaply internalize a few key details; you can come back and write real notes later if the material turns out to be valuable. See e.g. [[https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg][Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture]]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

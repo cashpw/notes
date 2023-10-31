@@ -33,7 +33,7 @@ Slack presents things as they are without concern for how things look or what ot
 [cite:@zviSlack]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-29 Sun 19:23]

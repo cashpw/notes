@@ -15,7 +15,7 @@ These sites are fantastic examples of well-done implementations of the [[id:b130
 - [[id:ab84ad24-3d02-4246-b8ea-7b11b93ceeb3][Hugo Cisneros]]'s [[https://hugocisneros.com/notes/][notes]]
 - [[github:KasperZutterman/Second-Brain]["A curated list of awesome public zettelkastens"]]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

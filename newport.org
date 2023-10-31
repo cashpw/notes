@@ -27,7 +27,7 @@ Digital Minimalism: The services delivered through your devices have become so a
 #+begin_quote
 [[id:cd48945d-3cb1-46b1-a4ad-15fe89655d11][Attention capital theory]]: In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains' ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g., email and IM). I predict that as this sector evolves, we'll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

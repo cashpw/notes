@@ -151,7 +151,7 @@ Bowls require a complete change of tactics, so clear your mind before tackling t
 :NOTER_PAGE: 124
 :END:
 
-* TODO [#3] Flashcards
+* TODO [#3] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

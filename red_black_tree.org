@@ -75,7 +75,7 @@ def insert_fix(inserted_node):
 ** Deletion
 
 *** Cases
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

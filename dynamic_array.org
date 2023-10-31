@@ -118,7 +118,7 @@ class DynamicArray<T>{
 }
 #+end_src
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

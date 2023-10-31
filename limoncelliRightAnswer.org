@@ -55,7 +55,7 @@ The name for this technique is "playing dumb." It is a technique that we geeks o
 The important thing is that we play dumb. You have to be pretty smart to do that.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

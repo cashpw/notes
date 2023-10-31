@@ -52,5 +52,5 @@ In order for these standards to apply, knees must be kept straight, torso cannot
 |         198 |        55 |     75 |           85 |      115 |   150 |          213 |
 |        199+ |        60 |     80 |           95 |      125 |   160 |          231 |
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

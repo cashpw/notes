@@ -11,7 +11,7 @@
 A "a software engineer, designer, and researcher" who, among other things:
 
 - keeps a fantastic [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]]-like system of [[id:eb88f117-4925-42c7-a9cf-5789987fd933][evergreen notes]] at https://notes.andymatuschak.org/. See [[id:32438fd5-c050-46a9-9611-97d571512f3e][Examples of Zettelkasten Notes]].
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

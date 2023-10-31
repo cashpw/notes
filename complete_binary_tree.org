@@ -17,7 +17,7 @@ A complete binary tree is a binary tree in which every level, except possibly th
 
 #+attr_html: :alt Complete binary tree
 [[file:complete-binary-tree.png]]
-* Flashcards
+* Flashcards :noexport:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       525a799e-566f-485a-a9a5-5271f1ac6e50

@@ -19,7 +19,7 @@ Tree books are books that lay out a framework of ideas. A good example is Daniel
 #+end_quote
 
 Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
-* Flashcards
+* Flashcards :noexport:
 ** Definition ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:
 :PROPERTIES:
 :ID:       c4368fb8-a26f-4a72-9140-f63bdc06d288

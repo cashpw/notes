@@ -112,7 +112,7 @@ Favicons are nice additions to links. They provide visual context to where the r
 
 Backlinks are the backbone of a powerful [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. The published form of these notes *must* include backlinks.
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

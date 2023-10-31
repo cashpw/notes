@@ -14,7 +14,7 @@ collect, organize, annotate, cite, and share research.
 
 [cite:@Zotero]
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

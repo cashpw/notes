@@ -15,7 +15,7 @@ In computing, cache algorithms (also frequently called cache replacement algorit
 [cite:@CacheReplacementPolicies2023]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-03-22 Wed 09:17]

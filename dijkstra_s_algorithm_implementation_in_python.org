@@ -91,7 +91,7 @@ print(dijkstra_single_pair_shortest_path(b.id, a.id, adjacency_list), 'should be
 : None should be [0, 1, 2, 4, 5]
 : None should be None
 
-* Flashcards
+* Flashcards :noexport:
 ** Implement :fc:implement:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 12:19]

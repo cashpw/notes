@@ -48,7 +48,7 @@ The Manifesto for Agile Software Development is based on twelve principles:
 [cite:@AgileSoftwareDevelopment2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-10-28 Fri 11:16]

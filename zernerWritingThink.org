@@ -21,7 +21,7 @@ There's an insight I learned from Paul Graham in The Age of the Essay that I thi
 Here's the problem though. The act of writing can help you to resolve the issues. Actually, that's a huge understatement: it's enormously helpful. Someone who writes in this exploratory sense has a huge leg up on someone who tries to resolve the issues in their head. It's almost like trying to solve an algebra problem in your head vs. with paper and pencil.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

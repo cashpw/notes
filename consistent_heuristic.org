@@ -16,7 +16,7 @@ In the study of path-finding problems in artificial intelligence, a heuristic fu
 [cite:@ConsistentHeuristic2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-12-21 Wed 14:22]

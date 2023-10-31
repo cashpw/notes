@@ -16,7 +16,7 @@ Inference involves two settings: In the first, information is acquired (learning
 [cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-09-04 Mon 17:21]

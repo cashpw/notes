@@ -15,7 +15,7 @@ A string literal or anonymous string is a string value in the source code of a c
 [cite:@StringLiteral2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-10-01 Sat 14:50]

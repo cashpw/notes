@@ -15,7 +15,7 @@ A hash function is any function that can be used to map data of arbitrary size t
 #+end_quote
 
 [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]] use hash functions to relate =keys= to a position in an array of buckets/slots holding the =values=.
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

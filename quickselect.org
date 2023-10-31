@@ -59,7 +59,7 @@ procedure QuickSort(list, targetIndex) is
 
 - [[id:ffec0117-bbea-4197-865c-112e417c8f1d][Quickselect implementation in Python]]
 
-* Flashcards
+* Flashcards :noexport:
 
 ** Basic with Source :fc:implement:
 :PROPERTIES:

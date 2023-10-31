@@ -12,4 +12,4 @@
   - Read a piece in (1) multiple passes or (2) bit by bit
   - Create flashcards for material, then delay reading further until those flashcards are learned
   - The result is a more informed reading experience since you learn the prerequisite information before reading further
-* TODO [#3] Flashcards
+* TODO [#3] Flashcards :noexport:

@@ -42,5 +42,5 @@ For varying levels of seniority, from senior, to staff, and beyond.
 22. How to tell someone they're wrong without making them feel ashamed
 23. How to take negative feedback gracefully
 #+end_quote
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

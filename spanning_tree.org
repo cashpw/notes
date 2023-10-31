@@ -13,7 +13,7 @@
 In the mathematical field of graph theory [[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]], a spanning tree [[[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]] T of an undirected graph [[[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]] G is a subgraph that is a tree which includes all of the vertices [[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]] of G.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-17 Tue 08:22]

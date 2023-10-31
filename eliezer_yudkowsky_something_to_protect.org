@@ -38,5 +38,5 @@ What I am trying to say is that more than your own life has to be at stake, befo
 Where do you get the will to keep moving forward?
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

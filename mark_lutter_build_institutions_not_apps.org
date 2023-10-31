@@ -56,5 +56,5 @@ However, part of politics will also include building new institutions. Who is cr
 Getting there, however, requires politics. It is not enough to build apps. We must build institutions.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

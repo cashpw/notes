@@ -103,5 +103,5 @@ When should one review? In the morning? In the evening? Any old time? The studie
 So one reviews at whatever time is convenient. Convenience makes one more likely to stick with it, and sticking with it overpowers any temporary improvement.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

@@ -65,7 +65,7 @@ print(merge_sort(a, lambda x, y: x <= y))
 #+RESULTS:
 : [1, 2, 5, 10, 20]
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

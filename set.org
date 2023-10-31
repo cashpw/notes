@@ -14,5 +14,5 @@ A set is the mathematical model for a collection of different things; a set cont
 [cite:@SetMathematics2022]
 #+end_quote
 
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:

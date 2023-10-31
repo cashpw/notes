@@ -48,7 +48,7 @@ for k from 1 to |V|
 - Time: $\bigtheta{|V|^3}$
 - Space: $\bigtheta{|V|^2}$
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2022-12-22 Thu 10:16]

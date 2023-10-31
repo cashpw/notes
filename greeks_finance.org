@@ -19,5 +19,5 @@ In mathematical finance, the Greeks are the quantities representing the sensitiv
 - [[id:f54153f5-fc44-41ce-b4dd-4274c95fbcec][Vega (finance)]], $\mathcal{V}$
 - [[id:52a7a44e-dbca-4eae-974a-b7185c2c97b7][Theta (finance)]], $\Theta$
 
-* Flashcards
+* Flashcards :noexport:
 #+print_bibliography:

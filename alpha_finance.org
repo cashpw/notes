@@ -12,7 +12,7 @@
 Alpha is a measure of the active return on an investment, the performance of that investment compared with a suitable market index. An alpha of 1% means the investment's return on investment over a selected period of time was 1% better than the market during that same period; a negative alpha means the investment underperformed the market. Alpha, along with [[id:e9c9e62b-efe6-4348-898f-06ca2e03132c][Beta (finance)]], is one of two key coefficients in the capital asset pricing model used in modern portfolio theory and is closely related to other important quantities such as standard deviation, R-squared and the Sharpe ratio.
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 07:57]

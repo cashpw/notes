@@ -175,7 +175,7 @@ For those of you using [[https://github.com/hlissner/doom-emacs][=doom emacs=]],
 
 * TODO [#3] Bring up to date :noexport:
 
-* Flashcards
+* Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -18,7 +18,7 @@ Cobham's thesis holds that P is the class of computational problems that are "ef
 [cite:@Complexity2022]
 #+end_quote
 
-* Flashcards
+* Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-01-30 Mon 09:05]

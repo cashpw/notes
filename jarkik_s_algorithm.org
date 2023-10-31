@@ -33,7 +33,7 @@ The algorithm may informally be described as performing the following steps:
 - With [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]] and an [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]: $\bigo{|E|\log(|V|)}$
 - With [[id:c4479aee-e895-47dc-ae15-681d1cb34527][Fibonacci heap]] and an [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]: $\bigo{|E| + |V|\log(|V|)}$
 
-* Flashcards
+* Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-17 Tue 09:16]

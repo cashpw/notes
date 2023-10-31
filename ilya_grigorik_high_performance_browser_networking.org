@@ -38,5 +38,5 @@
 *** TODO [#2] Server-sent events
 *** TODO [#2] WebSocket
 *** TODO [#2] WebRTC
-* TODO [#2] Flashcards
+* TODO [#2] Flashcards :noexport:
 #+print_bibliography:
