@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
 :DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-30 Mon 07:27]
 :END:
 #+title: Todos
 #+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
@@ -195,7 +195,7 @@ Related:
 * TODO [#2] Node idea: This is the dreamtime. Rapid, explosive, technological development which shines light into all of the dark places. Elimination of privacy. [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]. Optimizing away the "human"-ness of humanity. The proliferation of existential threats through technologic progression; first we're not capable of destroying ourselves, then governments are capable, then well-funded groups are capable, then groups are capable, then individuals are capable -- nuclear, biologic, technologic.
 * TODO [#4] Reconsider the types/tags for nodes; remove them altogether? Is such a taxonomy useless?
 * TODO [#4] Remove explicit :DIR: property
-* TODO [#2] Split "Lessons learned" into nodes
+* TODO [#1] Split "Lessons learned" into nodes
 :PROPERTIES:
 :ID:       f1e1fb6c-5dbd-45fa-85cb-6d7fc7551486
 :END:

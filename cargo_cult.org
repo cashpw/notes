@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c5b4e591-7690-49b6-94cb-ab4ab54b68a6
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-10-30 Mon 07:55]
 :END:
 #+title: Cargo cult
 #+hugo_custom_front_matter: :slug "c5b4e591-7690-49b6-94cb-ab4ab54b68a6"
@@ -36,10 +36,12 @@ Also see [[id:0a9fac5c-2919-4dc1-b75b-ccab89d31a52][Reverse cargo cult]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   7 |   260.82 | 2023-10-25T17:21:46Z |
+| back     | 2.80 |   8 |   756.24 | 2025-11-24T20:36:59Z |
 | front    | 2.50 |   8 |   527.94 | 2025-02-08T11:32:05Z |
 :END:
+
 [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]]
+
 *** Back
 A belief system in which adherents perform rituals which they believe will cause a more technologically advanced society to deliver goods.
 *** Source

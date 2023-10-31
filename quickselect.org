@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       df6876e1-5035-4432-9b8a-19898faa4fdd
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-10-30 Mon 08:16]
 :END:
 #+title: Quickselect
 #+hugo_custom_front_matter: :slug "df6876e1-5035-4432-9b8a-19898faa4fdd"
@@ -91,7 +91,7 @@ Implement [[id:df6876e1-5035-4432-9b8a-19898faa4fdd][Quickselect]] in [[id:27b0e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   348.68 | 2024-05-21T07:21:22Z |
-| back     | 2.35 |   7 |   169.52 | 2023-10-20T10:10:15Z |
+| back     | 2.35 |   8 |   416.99 | 2024-12-20T14:56:47Z |
 :END:
 
 [[id:df6876e1-5035-4432-9b8a-19898faa4fdd][Quickselect]]

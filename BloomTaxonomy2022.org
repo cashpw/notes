@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-10-17 Tue 01:09]
+:LAST_MODIFIED: [2023-10-30 Mon 07:56]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -186,7 +186,7 @@ Red undies attract all evil cats
 | back     | 2.80 |   7 |   412.12 | 2024-08-29T03:42:46Z |
 :END:
 
-[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]] (Learning)
+[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's Taxonomy]]
 
 *** Back
 A set of hierarchical models used to classify educational learning objectives into levels of complexity and specificity. The cognitive model has been the primary focus of most traditional education.

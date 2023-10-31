@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9256ca69-2a7c-48a8-9c44-3a078e187e20
-:LAST_MODIFIED: [2023-09-19 Tue 16:51]
+:LAST_MODIFIED: [2023-10-30 Mon 08:16]
 :END:
 #+title: r-value
 #+hugo_custom_front_matter: :slug "9256ca69-2a7c-48a8-9c44-3a078e187e20"
@@ -25,7 +25,7 @@ An r-value is a temporary value that does not persist beyond the expression that
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    86.65 | 2023-10-24T06:29:09Z |
+| front    | 2.35 |   7 |   185.50 | 2024-05-03T03:20:52Z |
 | back     | 2.20 |   7 |   121.34 | 2024-01-19T08:07:35Z |
 :END:
 

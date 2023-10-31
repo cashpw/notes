@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       df465332-f865-424c-9028-1776dddd1a58
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-10-30 Mon 07:53]
 :END:
 #+title: Transpose
 #+hugo_custom_front_matter: :slug "df465332-f865-424c-9028-1776dddd1a58"
@@ -43,7 +43,7 @@ $(A^{\textsf{T}})^{\textsf{T}} = A$
 
 *** Source
 [cite:@Transpose2022]
-** Describe :fc:
+** Describe ([[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]]) :fc:
 :PROPERTIES:
 :CREATED: [2022-11-14 Mon 15:09]
 :FC_CREATED: 2022-11-14T23:10:28Z
@@ -53,7 +53,7 @@ $(A^{\textsf{T}})^{\textsf{T}} = A$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   180.87 | 2023-10-28T15:29:35Z |
+| front    | 2.35 |   8 |   428.46 | 2025-01-01T01:56:25Z |
 | back     | 2.50 |   7 |   262.33 | 2024-01-31T22:41:33Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-10-18 Wed 06:41]
+:LAST_MODIFIED: [2023-10-30 Mon 08:00]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -190,7 +190,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   6 |    66.19 | 2023-11-03T19:35:28Z |
-|        1 |  2.5 |  -1 |        0 | 2023-05-04T23:31:57Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-10-31T15:00:26Z |
 :END:
 
 - {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Get-from operator]]}@0}

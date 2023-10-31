@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5180515a-c694-49fb-ac2e-9718fe501f38
 :ROAM_REFS: [cite:@Linearity2022]
-:LAST_MODIFIED: [2023-10-12 Thu 23:54]
+:LAST_MODIFIED: [2023-10-30 Mon 08:06]
 :ROAM_ALIASES: "Superposition principle"
 :END:
 #+title: Linearity
@@ -54,7 +54,7 @@ For all linear systems, the net response caused by two or more stimuli is the su
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |  12 |   254.32 | 2023-10-19T05:20:05Z |
+| back     | 2.20 |  13 |   579.48 | 2025-06-01T02:39:59Z |
 | front    | 1.60 |   8 |    95.08 | 2023-10-29T17:04:31Z |
 :END:
 

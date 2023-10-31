@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f68f9024-150b-404f-9c9c-54fe8b720e53
-:LAST_MODIFIED: [2023-09-17 Sun 16:13]
+:LAST_MODIFIED: [2023-10-30 Mon 07:53]
 :END:
 #+title: Linear map
 #+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
@@ -19,7 +19,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.85 |   8 |   146.05 | 2023-10-19T15:38:12Z |
+| back     | 1.70 |   9 |   237.45 | 2024-06-24T01:38:03Z |
 | front    | 2.65 |   8 |   314.14 | 2024-01-21T18:29:29Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
 :ROAM_REFS: [cite:@Determinant2022]
-:LAST_MODIFIED: [2023-10-02 Mon 23:24]
+:LAST_MODIFIED: [2023-10-30 Mon 08:09]
 :END:
 #+title: Determinant
 #+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
@@ -74,7 +74,7 @@ The absolute value of $\determinant{A}$ represents the factor by which $A$ scale
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   7 |    98.72 | 2023-10-29T21:08:31Z |
+| front    | 1.90 |   8 |   200.12 | 2024-05-17T18:05:30Z |
 | back     | 2.50 |   8 |   582.66 | 2025-05-07T22:13:59Z |
 :END:
 

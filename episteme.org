@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dc7e525e-967c-48e5-b1c5-d83394571cb5
-:LAST_MODIFIED: [2023-09-21 Thu 07:14]
+:LAST_MODIFIED: [2023-10-30 Mon 08:00]
 :ROAM_REFS: [cite:@Episteme2022]
 :END:
 #+title: Episteme
@@ -24,11 +24,12 @@ In philosophy, episteme is a term that refers to a principle system of understan
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   8 |    37.81 | 2023-10-29T09:44:25Z |
+| front    | 1.45 |   9 |    54.02 | 2023-12-23T15:28:49Z |
 | back     | 2.65 |   7 |   263.16 | 2024-03-29T19:41:44Z |
 :END:
 
 Refers to a principle system of understanding such as scientific or physical knowledge
+
 *** Source
 [cite:@Episteme2022]
 #+print_bibliography:

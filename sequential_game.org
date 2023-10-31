@@ -2,7 +2,7 @@
 :ID:       bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b
 :ROAM_REFS: [cite:@SequentialGame2021]
 :ROAM_ALIASES: "Dynamic game"
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-30 Mon 07:56]
 :END:
 #+title: Sequential game
 #+hugo_custom_front_matter: :slug "bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b"
@@ -23,7 +23,7 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 - Many board games, including chess and checkers
 
 * Flashcards
-** Example(s) :fc:
+** Example(s) ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]; turn order) :fc:
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 15:35]
 :FC_CREATED: 2022-09-30T22:35:44Z
@@ -35,11 +35,11 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   181.80 | 2023-10-28T09:30:30Z |
+|        0 | 2.05 |   8 |   347.42 | 2024-10-12T00:57:11Z |
 |        1 | 2.95 |   7 |   518.93 | 2025-01-25T13:24:27Z |
 :END:
 
-{{[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]}@0} ([[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]; turn order)
+{{[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]}@0}
 
 - {{Chess}@1}
 

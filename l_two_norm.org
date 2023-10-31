@@ -2,7 +2,7 @@
 :ID:       a5079f3d-9926-4de1-8b60-5d5e64396a01
 :ROAM_ALIASES: "Euclidian norm"
 :ROAM_REFS: [cite:@EuclideanSpace2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-10-30 Mon 08:00]
 :END:
 #+title: L-two norm
 #+hugo_custom_front_matter: :slug "a5079f3d-9926-4de1-8b60-5d5e64396a01"
@@ -48,7 +48,7 @@ $\|\vec{x}\|_2 = \sqrt{\vec{x}\cdot\vec{x}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   7 |   275.11 | 2023-10-23T17:04:39Z |
+|        0 | 2.80 |   8 |   819.23 | 2026-01-26T20:37:57Z |
 |        1 | 2.50 |   8 |   376.48 | 2024-06-11T03:13:33Z |
 :END:
 

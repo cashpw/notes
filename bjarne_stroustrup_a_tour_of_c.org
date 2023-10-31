@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-10-18 Wed 06:45]
+:LAST_MODIFIED: [2023-10-30 Mon 07:56]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -968,7 +968,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 
 *** Source
 [cite:@stroustrupTour2022]
-** Example(s) :fc:
+** Example(s) (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 09:20]
 :FC_CREATED: 2023-05-11T16:21:09Z
@@ -978,18 +978,20 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    78.70 | 2023-10-23T08:16:27Z |
+| front    | 2.35 |   7 |   197.10 | 2024-05-14T17:22:15Z |
 | back     | 2.05 |   6 |    55.65 | 2023-11-16T05:51:35Z |
 :END:
 
-(C++) Declarations
+Declarations
 
 *** Back
+
 #+begin_src C++
 int count;
 char v[7];
 void foo(int a);
 #+end_src
+
 *** Source
 [cite:@stroustrupTour2022]
 ** Cloze :fc:

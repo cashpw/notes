@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@luu95IleIsnThatGood]
 :ID:       d5f8a83b-1516-4f74-97f4-996a2b1bc8f4
-:LAST_MODIFIED: [2023-10-27 Fri 08:31]
+:LAST_MODIFIED: [2023-10-30 Mon 15:43]
 :END:
 #+title: Dan Luu | 95%-Ile Isn't That Good
 #+hugo_custom_front_matter: :slug "d5f8a83b-1516-4f74-97f4-996a2b1bc8f4"
@@ -13,6 +13,6 @@
 
 * TODO Summary
 * TODO Thoughts
-* TODO Notes
+* INPROGRESS Notes
 * TODO [#2] Flashcards
 #+print_bibliography:

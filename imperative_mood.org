@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       39f7e92f-c7df-4d0d-94cd-ef7f39437ec1
-:LAST_MODIFIED: [2023-10-09 Mon 23:52]
+:LAST_MODIFIED: [2023-10-30 Mon 08:06]
 :ROAM_REFS: [cite:@ImperativeMood2023]
 :END:
 #+title: Imperative mood
@@ -56,7 +56,7 @@ Grammatical mood that forms a command or request.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   194.09 | 2024-04-10T06:25:33Z |
-| back     | 2.50 |   6 |    98.03 | 2023-10-30T04:38:11Z |
+| back     | 2.50 |   7 |   220.93 | 2024-06-07T13:32:26Z |
 :END:
 
 [[id:39f7e92f-c7df-4d0d-94cd-ef7f39437ec1][Imperative mood]]

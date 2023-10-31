@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       81c88eaa-3ec9-486c-bcdf-457dd40b4eba
 :ROAM_ALIASES: DFS
-:LAST_MODIFIED: [2023-09-25 Mon 06:16]
+:LAST_MODIFIED: [2023-10-30 Mon 08:03]
 :END:
 #+title: Depth-first search
 #+hugo_custom_front_matter: :slug "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"
@@ -89,7 +89,7 @@ Where \(V\) is the set of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   7 |   258.03 | 2023-10-23T04:46:20Z |
+| front    | 2.95 |   8 |   781.87 | 2025-12-20T11:57:51Z |
 | back     | 3.10 |   7 |   405.26 | 2024-06-18T22:31:34Z |
 :END:
 

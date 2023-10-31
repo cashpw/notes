@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b0252e55-4cb5-4af8-8a28-9bf331052193
-:LAST_MODIFIED: [2023-10-06 Fri 00:36]
+:LAST_MODIFIED: [2023-10-30 Mon 08:08]
 :END:
 #+title: Lower order questions
 #+hugo_custom_front_matter: :slug "b0252e55-4cb5-4af8-8a28-9bf331052193"
@@ -49,7 +49,7 @@ Questions which require "brief thought" and a basic understanding of an already-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   131.45 | 2023-10-24T11:29:39Z |
+|        0 | 2.80 |   7 |   390.99 | 2024-11-24T14:53:58Z |
 |        1 | 2.05 |   8 |   253.07 | 2024-05-11T16:00:23Z |
 :END:
 

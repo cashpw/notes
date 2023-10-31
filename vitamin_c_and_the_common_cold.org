@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41fe86e1-e67e-4068-bde0-83e931928687
-:LAST_MODIFIED: [2023-10-19 Thu 15:41]
+:LAST_MODIFIED: [2023-10-30 Mon 08:13]
 :END:
 #+title: Vitamin C and the common cold
 #+hugo_custom_front_matter: :slug "41fe86e1-e67e-4068-bde0-83e931928687"
@@ -24,7 +24,7 @@ Doses of vitamin C in excess of 1 g daily taken shortly after onset of a cold di
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-10-19T22:41:15Z |
+| front    | 2.50 |   1 |     1.00 | 2023-10-31T15:13:07Z |
 :END:
 
 Vitamin C's effect on the common cold.

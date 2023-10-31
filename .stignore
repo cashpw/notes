@@ -6,7 +6,6 @@ tmp/
 
 // Org roam
 org-roam.db
-org-roam.db*
 org-roam.db-journal
 
 // Syncthing

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-10-18 Wed 06:43]
+:LAST_MODIFIED: [2023-10-30 Mon 07:55]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -102,7 +102,7 @@ The number of elements of the set.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |  11 |   263.88 | 2023-10-08T11:30:46Z |
+| back     | 2.35 |  12 |   584.74 | 2025-06-06T08:40:07Z |
 | front    | 2.50 |   8 |   299.32 | 2023-12-25T11:43:46Z |
 :END:
 

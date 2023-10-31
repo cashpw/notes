@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-10-09 Mon 23:57]
+:LAST_MODIFIED: [2023-10-30 Mon 08:14]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -553,7 +553,7 @@ To {{[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiate]]}@0} is to find t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |   139.85 | 2023-10-22T00:42:28Z |
+|        0 | 2.05 |   8 |   304.87 | 2024-08-30T12:06:41Z |
 |        1 | 2.35 |   7 |   159.16 | 2023-11-14T20:12:23Z |
 :END:
 

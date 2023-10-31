@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba4b74e8-2d33-43ec-bd03-b9ff320ed65a
-:LAST_MODIFIED: [2023-10-09 Mon 23:55]
+:LAST_MODIFIED: [2023-10-30 Mon 07:58]
 :END:
 #+title: Clay shrinkage
 #+hugo_custom_front_matter: :slug "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
@@ -60,7 +60,7 @@ The volume change in a clay body between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.95 |   7 |   259.44 | 2023-10-26T05:12:39Z |
+| back     | 2.95 |   8 |   718.04 | 2025-10-17T16:00:46Z |
 | front    | 2.80 |   7 |   259.17 | 2023-12-01T18:01:59Z |
 :END:
 [[id:f3cd8124-305d-4ca0-b045-534c9215cabd][Clay weight loss]]

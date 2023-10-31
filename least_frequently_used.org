@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2c7820cc-7523-447e-924b-3f9340c3c29b
-:LAST_MODIFIED: [2023-09-26 Tue 08:27]
+:LAST_MODIFIED: [2023-10-30 Mon 08:14]
 :ROAM_ALIASES: LFU
 :ROAM_REFS: [cite:@LeastFrequentlyUsed2022]
 :END:
@@ -61,7 +61,7 @@ A [[id:f1a77c99-0bb1-4972-a462-7ac47735faa8][Cache replacement policy]] which di
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   268.42 | 2024-06-16T00:28:26Z |
-|        1 | 2.80 |   6 |   102.02 | 2023-10-21T13:33:18Z |
+|        1 | 2.80 |   7 |   292.11 | 2024-08-17T17:58:32Z |
 :END:
 
 - {{[[id:2c7820cc-7523-447e-924b-3f9340c3c29b][Least frequently used]]}@0}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-10-30 Mon 08:13]
 :END:
 #+title: Cooperative interoperability
 #+hugo_custom_front_matter: :slug "22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d"
@@ -69,7 +69,7 @@ One of the easiest ways to do this is to adopt a standard: [...] any phone manuf
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   210.24 | 2023-10-23T22:07:59Z |
+|        0 | 2.35 |   8 |   534.02 | 2025-04-16T15:41:52Z |
 |        1 | 2.50 |   7 |   196.90 | 2023-11-22T14:17:28Z |
 :END:
 *** Source

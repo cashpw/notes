@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       77af446a-bdc3-4800-b72e-240b66e69154
-:LAST_MODIFIED: [2023-10-18 Wed 06:45]
+:LAST_MODIFIED: [2023-10-30 Mon 08:05]
 :END:
 #+title: C++ struct
 #+hugo_custom_front_matter: :slug "77af446a-bdc3-4800-b72e-240b66e69154"
@@ -21,7 +21,7 @@ A =struct= in C++ colloquially represents a "pure" [[id:738c2ba7-a272-417d-9b6d-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    91.72 | 2023-10-26T08:26:19Z |
+| front    | 2.50 |   7 |   218.63 | 2024-06-05T06:15:31Z |
 :END:
 
 =struct= and =class=

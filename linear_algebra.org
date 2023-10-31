@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-10-18 Wed 06:43]
+:LAST_MODIFIED: [2023-10-30 Mon 07:54]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1179,7 +1179,7 @@ $\operatorname{tr}(A)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   5 |    17.08 | 2023-10-28T23:07:43Z |
+| front    | 1.75 |   6 |    30.78 | 2023-11-30T09:33:29Z |
 | back     | 2.65 |   7 |   287.89 | 2023-12-14T01:15:10Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       af1ca7da-bebf-4161-8162-057cae4a0951
 :ROAM_ALIASES: "Tell all the truth but tell it slant"
-:LAST_MODIFIED: [2023-10-25 Wed 19:12]
+:LAST_MODIFIED: [2023-10-30 Mon 08:06]
 :END:
 #+title: Emily Dickinson | Tell all the truth but tell it slant
 #+hugo_custom_front_matter: :slug "af1ca7da-bebf-4161-8162-057cae4a0951"
@@ -42,7 +42,7 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   8 |   338.03 | 2024-06-10T15:42:21Z |
 |        1 | 2.50 |   7 |   191.90 | 2023-11-06T20:25:25Z |
-|        2 | 1.75 |   8 |   107.76 | 2023-10-26T09:51:56Z |
+|        2 | 1.75 |   9 |   200.14 | 2024-05-17T18:23:28Z |
 |        3 | 2.20 |   7 |   152.83 | 2023-10-21T09:04:27Z |
 |        4 | 2.80 |   7 |   290.95 | 2024-04-11T16:17:48Z |
 |        5 | 2.95 |   7 |   397.84 | 2024-09-30T11:14:31Z |

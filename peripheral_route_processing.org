@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a075c129-c708-4f5b-bbe7-4b5b85f3b475
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-10-30 Mon 07:52]
 :END:
 #+title: Peripheral route processing
 #+hugo_custom_front_matter: :slug "a075c129-c708-4f5b-bbe7-4b5b85f3b475"
@@ -29,10 +29,12 @@ A way of processing an argument by looking at secondary characteristics. Usually
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.60 |  17 |   260.53 | 2023-10-25T12:32:10Z |
+| back     | 2.60 |  18 |   703.29 | 2025-10-02T21:43:49Z |
 | front    | 2.65 |   7 |   278.88 | 2024-03-12T12:11:29Z |
 :END:
+
 [[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]
+
 *** Back
 A person's consideration of the secondary characteristics of an argument (i.e framing, emotions, presentation); proxy characteristics for authenticity or correctness.
 *** Source

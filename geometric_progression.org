@@ -2,7 +2,7 @@
 :ROAM_ALIASES: "Geometric progression"
 :ROAM_REFS: [cite:@GeometricProgression2022]
 :ID:       0a3c8553-f631-4eca-8e2c-957419ebb8ac
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-10-30 Mon 08:05]
 :END:
 #+title: Geometric sequence
 #+hugo_custom_front_matter: :slug "0a3c8553-f631-4eca-8e2c-957419ebb8ac"
@@ -55,7 +55,7 @@ A sequence of non-zero numbers where each term is =previous_number * common_rati
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   173.55 | 2023-10-21T07:56:22Z |
+| front    | 2.35 |   8 |   442.62 | 2025-01-15T06:04:10Z |
 | back     | 2.20 |   6 |    69.21 | 2023-10-20T04:17:20Z |
 :END:
 
