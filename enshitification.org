@@ -10,4 +10,3 @@
 #+filetags: :hastodo:concept:
 * TODO [#0]
 * TODO [#2] Flashcards :noexport:
-#+print_bibliography:

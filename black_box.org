@@ -40,4 +40,3 @@ In science, computing, and engineering, a black box is a system which can be vie
 A system which is viewed in terms of its inputs and outputs without any knowledge of its internal workings.
 *** Source
 [cite:@BlackBox2022]
-#+print_bibliography:

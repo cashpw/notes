@@ -608,4 +608,3 @@ y &= z \times w \\
 $$
 *** Source
 [cite:@thompsonCalculusMadeEasy1914]
-#+print_bibliography:

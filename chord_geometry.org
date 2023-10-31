@@ -70,4 +70,3 @@ A line segment joining any two points on any curve.
 The red line.
 *** Source
 [cite:@ChordGeometry2023]
-#+print_bibliography:

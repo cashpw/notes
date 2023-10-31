@@ -88,4 +88,3 @@ The trick is using a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]].
 The trick to solving [[id:9ce77447-dc1d-4623-b469-b4bd636e7453][2sum]] is {{using a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash map]]}@0}.
 
 *** Source
-#+print_bibliography:

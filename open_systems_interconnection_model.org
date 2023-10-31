@@ -335,4 +335,3 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 Layer which provides protocols that allow software to send and receive information across the network (e.g. HTTP, FTP, SMTP).
 *** Source
 [cite:@WhatOSIModelLayersExplainedImperva]
-#+print_bibliography:

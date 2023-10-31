@@ -32,4 +32,3 @@ A [[id:16e87858-5bed-40b3-830b-b2596f4d20b4][Linked hash map]] is a [[id:b8f1337
 
 *** Source
 [cite:@HashTable2022]
-#+print_bibliography:

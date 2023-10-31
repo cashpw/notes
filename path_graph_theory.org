@@ -58,4 +58,3 @@ A [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which all
 - [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]: [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] with distinct vertices
 *** Source
 [cite:@PathGraphTheory2022]
-#+print_bibliography:

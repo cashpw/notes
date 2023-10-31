@@ -86,4 +86,3 @@ A game in which one player chooses their action before the others choose theirs.
 
 *** Source
 [cite:@SequentialGame2021]
-#+print_bibliography:

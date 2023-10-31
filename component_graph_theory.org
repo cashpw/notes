@@ -71,4 +71,3 @@ A connected subgraph that isn't a part of any larger connected subgraph.
 
 *** Source
 [cite:@ComponentGraphTheory2023]
-#+print_bibliography:

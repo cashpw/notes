@@ -108,4 +108,3 @@ $\binom{n}{k}$
 
 *** Source
 [cite:@BinomialCoefficient2023]
-#+print_bibliography:

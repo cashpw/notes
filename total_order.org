@@ -42,4 +42,3 @@ A [[id:52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44][Binary relation]] $\leq$ on a set, 
 - [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
 *** Source
 [cite:@TotalOrder2022]
-#+print_bibliography:

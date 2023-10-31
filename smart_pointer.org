@@ -14,4 +14,3 @@ A smart pointer is a class that wraps a 'raw' (or 'bare') C++ pointer, to manage
 [cite:@lloydAnswerWhatSmartPointerWhenShouldUseOne2008]
 #+end_quote
 * TODO [#2] Flashcards :noexport:
-#+print_bibliography:

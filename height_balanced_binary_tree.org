@@ -34,4 +34,3 @@ For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], t
 A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] for which the height is guaranteed to be \(O(\log n)\) for size \(n\).
 *** Source
 [cite:@SelfbalancingBinarySearchTree2022]
-#+print_bibliography:

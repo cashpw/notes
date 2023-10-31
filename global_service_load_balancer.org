@@ -39,4 +39,3 @@ Also see [[id:44890929-fa24-4a69-b261-04107a005903][Load balancing]].
 The method of distributing Internet traffic to a network of servers around the globe.
 *** Source
 [cite:@WhatGlobalServerLoadBalancingGSLB]
-#+print_bibliography:

@@ -36,4 +36,3 @@ Goodhart's law is an adage often stated as: "When a measure becomes a target, it
 When a measure becomes a target it ceases to be a good measure.
 *** Source
 [cite:@GoodhartLaw2022]
-#+print_bibliography:

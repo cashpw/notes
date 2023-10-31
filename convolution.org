@@ -107,4 +107,3 @@ An operation on two functions, \(f_1\) and \(f_2\), which produces a third funct
 
 *** Source
 [cite:@Convolution2022]
-#+print_bibliography:

@@ -35,4 +35,3 @@ The term ranked voting, also known as preferential voting or ranked choice votin
 Voting system in which voters declare their relative candidate preferences.
 *** Source
 [cite:@RankedVoting2023]
-#+print_bibliography:

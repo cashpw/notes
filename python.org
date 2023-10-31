@@ -580,4 +580,3 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 
 *** Source
 [cite:@Python11Documentation]
-#+print_bibliography:

@@ -36,4 +36,3 @@ In graph theory, a connected graph [[[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][C
 A [[id:b5c13a71-b6a2-4963-8d5e-4107f54a912a][Connected graph]] of $>k$ vertices which remains connected after one removes $<k$ vertices.
 *** Source
 [cite:@KvertexconnectedGraph2023]
-#+print_bibliography:

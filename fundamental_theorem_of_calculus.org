@@ -204,4 +204,3 @@ $$
 *** Source
 - [cite:@FundamentalTheoremCalculus2022], [cite:@khanacademyFundamentalTheoremCalculusPartAPCalculusKhanAcademy2013]
 - [[id:c45039dd-ffe1-46e4-b2ae-42a8658601db][Second fundamental theorem of calculus]]
-#+print_bibliography:

@@ -38,4 +38,3 @@ See also [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]].
 A heuristic function which never overestimates the cost of reaching the goal.
 *** Source
 [cite:@AdmissibleHeuristic2022]
-#+print_bibliography:

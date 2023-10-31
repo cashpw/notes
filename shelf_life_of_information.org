@@ -79,4 +79,3 @@ The length of time for which a piece of information is useful.
 - Long [...]: $f = ma$
 - Short [...]: The latest celebrity gossip
 *** Source
-#+print_bibliography:

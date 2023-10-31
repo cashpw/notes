@@ -20,4 +20,3 @@ Lint, or a linter, is a static code analysis tool used to flag programming error
 :ANKI_DECK: Default
 :END:
 
-#+print_bibliography:

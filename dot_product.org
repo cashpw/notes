@@ -174,4 +174,3 @@ $\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
 
 *** Source
 [cite:@DotProduct2022]
-#+print_bibliography:

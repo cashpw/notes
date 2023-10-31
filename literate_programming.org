@@ -35,4 +35,3 @@ Literate programming is a programming paradigm introduced in 1984 by Donald Knut
 A programming paradigm which intersperses source code in written natural language and provides a compilation path for the embedded source code.
 *** Source
 [cite:@LiterateProgramming2022]
-#+print_bibliography:

@@ -38,4 +38,3 @@ The algorithm divides the input list into two parts: a sorted sublist of items w
 A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which builds up a sorted list of items by picking the next in-order item from the unsorted items.
 *** Source
 [cite:@SelectionSort2022]
-#+print_bibliography:

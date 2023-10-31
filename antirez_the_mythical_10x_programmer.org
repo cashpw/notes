@@ -14,7 +14,6 @@ TODO_AUTHOR, [cite:@antirezMythical10xProgrammer]
 * TODO Summary
 * TODO Thoughts
 * TODO Notes
-#+print_bibliography:
+
 * TODO Also look through [[https://news.ycombinator.com/item?id=13752887][hacker news discussion]]
 * TODO [#2] Flashcards :noexport:
-#+print_bibliography:

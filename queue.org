@@ -130,4 +130,3 @@ Common API of a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
 - =peek=
 *** Source
 [cite:@QueueAbstractDataType2022]
-#+print_bibliography:

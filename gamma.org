@@ -81,4 +81,3 @@ $? = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}$
 
 *** Source
 [cite:@GreeksFinance2022]
-#+print_bibliography:

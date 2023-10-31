@@ -17,4 +17,3 @@ Org Mode is a document editing, formatting, and organizing mode, designed for no
 - [[id:5c82bd2b-141a-420f-8289-4fff9514b769][Literate programming]]
 
 * Flashcards :noexport:
-#+print_bibliography:

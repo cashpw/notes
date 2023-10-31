@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6db3dc17-f091-4c31-ab22-74d8ec0ebb5e
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-10-31 Tue 09:17]
 :END:
 #+title: 1% rule
 #+hugo_custom_front_matter: :slug "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
@@ -15,9 +15,6 @@ In Internet culture, the 1% rule is a rule of thumb pertaining to participation 
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-07 Mon 07:21]
@@ -38,4 +35,3 @@ In Internet culture, the 1% rule is a rule of thumb pertaining to participation 
 A rule of thumb that only [...]% of the users of a website add content while the other [...]% only lurk.
 *** Source
 [cite:@RuleInternetCulture2021]
-#+print_bibliography:

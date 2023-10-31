@@ -57,4 +57,3 @@ eg: A model that describes the swinging of a clock pendulum or the flow of water
 - The flow of water through a pipe
 *** Source
 [cite:@DynamicalSystem2022]
-#+print_bibliography:

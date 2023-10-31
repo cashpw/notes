@@ -288,4 +288,3 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 
 *** Source
 [cite:@RedblackTree2022]
-#+print_bibliography:

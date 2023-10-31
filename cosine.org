@@ -91,4 +91,3 @@ Graph \(f(x) = \cos(x)\)
 :END:
 *** Source
 [cite:@SineCosine2022]
-#+print_bibliography:

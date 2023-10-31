@@ -54,4 +54,3 @@ Algorithm(s) which solve the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-s
 *** Source
 - [cite:@SearchAlgorithm2022]
 - [cite:@DijkstraAlgorithm2022]
-#+print_bibliography:

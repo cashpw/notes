@@ -55,4 +55,3 @@ See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 {{[[id:d9f04c73-1238-4e6b-a370-8a23ac755610][Correlation coefficient of vectors]]}@1}
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018 page 60]
-#+print_bibliography:

@@ -16,4 +16,3 @@
 :END:
 
 * TODO [#2] Flashcards :noexport:
-#+print_bibliography:

@@ -149,4 +149,3 @@ $(0, 1)$ and $(1, 0)$ for $\mathbb{R}^2$
 
 *** Source
 [cite:@BasisLinearAlgebra2022]
-#+print_bibliography:

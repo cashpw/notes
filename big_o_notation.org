@@ -54,4 +54,3 @@ The set of functions which have a specific asymptotic upper bound.
 
 *** Source
 [cite:@BigNotation2022]
-#+print_bibliography:

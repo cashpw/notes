@@ -38,4 +38,3 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 Implementation of a [[id:40d2da04-01ce-49e3-9f51-781c04d5bf8d][Smart pointer]] that owns and manages another object through a pointer and disposes of that object when the pointer goes out of scope.
 *** Source
 [cite:@StdUniquePtr]
-#+print_bibliography:

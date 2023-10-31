@@ -15,4 +15,3 @@ This package provides a completing-read front-end to browse and act on BibTeX, B
 #+end_quote
 
 * Flashcards :noexport:
-#+print_bibliography:

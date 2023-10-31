@@ -121,4 +121,3 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 :END:
 *** Source
 [cite:@CenteringMatrix2021]
-#+print_bibliography:

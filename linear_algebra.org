@@ -1634,4 +1634,3 @@ Types of morphisms
 - Isomorphism: A morphism that can be reversed by an inverse mapping
 - Endomorphism: A morphism from a structure to itself
 - Automorphism: An isomorphic endomorphism
-#+print_bibliography:

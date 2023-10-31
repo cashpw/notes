@@ -35,4 +35,3 @@ In mathematical optimization and related fields, relaxation is a modeling strate
 An approximation of a difficult problem to a nearby problem which is easier to solve.
 *** Source
 [cite:@RelaxationApproximation2022]
-#+print_bibliography:

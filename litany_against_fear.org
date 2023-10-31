@@ -88,4 +88,3 @@ Only I will remain.
 #+end_verse
 *** Source
 [cite:@herbertDune1999]
-#+print_bibliography:

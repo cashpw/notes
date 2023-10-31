@@ -94,4 +94,3 @@ By introducing abstraction into every problem we solve, we distance ourselves fr
 
 *** Source
 [cite:@tellmanTrappedTechnologistFactory]
-#+print_bibliography:

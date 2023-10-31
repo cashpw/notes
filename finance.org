@@ -218,4 +218,3 @@ A huge company with an excellent reputation.
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   9 |   334.99 | 2024-01-18T03:02:04Z |
 :END:
-#+print_bibliography:

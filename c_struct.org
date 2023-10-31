@@ -55,4 +55,3 @@ A =struct= in C++ colloquially represents a "pure" [[id:738c2ba7-a272-417d-9b6d-
 
 *** Source
 [cite:@stroustrupTour2022]
-#+print_bibliography:

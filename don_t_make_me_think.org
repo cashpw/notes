@@ -36,4 +36,3 @@ A product, service, solution, etc, should allow its users to accomplish their in
 You should set up the correct way to do X to also be the most obvious, simplest, way to do X.
 *** Source
 [cite:@DonMakeMeThink2023]
-#+print_bibliography:

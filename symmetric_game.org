@@ -72,4 +72,3 @@ A game where the payoffs are independent of the person playing them -- the strat
 
 *** Source
 [cite:@SymmetricGame2022]
-#+print_bibliography:

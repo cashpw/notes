@@ -267,4 +267,3 @@ We can represent cognitive transformation theory as a set of postulates:
 Because cognitive learning depends heavily on sensemaking [[[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]], and sensemaking is often complicated by knowledge shields, virtual environment sessions might benefit from designs using garden path [[[id:3f513197-b379-4b8b-b918-21100005e18a][Garden path]]] scenarios that elicit knowledge shields and give learners a chance to recover from mistaken mindsets and get off the garden path. In a garden path scenario a parson is lead to accept a proposition that seems obviously true and is then given increasing amounts of contrary evidence gradually leading to the realization that the initial proposition is wrong. The paradigm lets us study how long it takes for participants to doubt and then reject the initial proposition --- how long they stay on the garden path.
 #+end_quote
 * TODO [#2] Flashcards :noexport:
-#+print_bibliography:

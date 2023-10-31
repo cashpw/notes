@@ -38,4 +38,3 @@ $f(x + y) = f(x) + f(y)$
 *** Source
 [cite:@Linearity2022]
 
-#+print_bibliography:

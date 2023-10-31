@@ -58,4 +58,3 @@ The set of functions which have a specific asymptotic lower bound.
 
 *** Source
 [cite:@BigNotation2022]
-#+print_bibliography:

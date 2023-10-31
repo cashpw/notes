@@ -58,4 +58,3 @@ An algorithm design paradigm which explores the [[id:1a068ad5-3e16-4ec4-b238-6fd
 *** TODO [#2] Expand :noexport:
 *** Source
 [cite:@BranchBound2023]
-#+print_bibliography:

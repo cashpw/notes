@@ -56,4 +56,3 @@ Simplex communication is a communication channel that sends information in one d
 - Broadcast radio
 *** Source
 [cite:@SimplexCommunication2023]
-#+print_bibliography:

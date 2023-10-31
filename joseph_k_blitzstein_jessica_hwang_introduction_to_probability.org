@@ -653,4 +653,3 @@
 :END:
 
 * TODO [#3] Flashcards :noexport:
-#+print_bibliography:

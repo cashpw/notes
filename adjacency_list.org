@@ -46,4 +46,3 @@ Also see [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
 A representation of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] using a collection of unordered lists.
 *** Source
 [cite:@AdjacencyList2022]
-#+print_bibliography:

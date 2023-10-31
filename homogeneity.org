@@ -71,4 +71,3 @@ $f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y})$
 
 *** Source
 [cite:@HomogeneousFunction2022]
-#+print_bibliography:

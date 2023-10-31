@@ -84,4 +84,3 @@ A [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]] can be {{s
 
 *** Source
 [cite:@DirectedAcyclicGraph2022]
-#+print_bibliography:

@@ -54,4 +54,3 @@ Payoffs
 A situation in which the player's aggregate gains and losses can be less than or more than zero. That is, one player's gain doesn't require an equivalent loss by one or more other players.
 *** Source
 [cite:@ZerosumGame2022]
-#+print_bibliography:

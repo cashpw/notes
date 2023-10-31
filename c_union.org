@@ -54,4 +54,3 @@ The size of a {{[[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]}@0} is {{
 
 *** Source
 [cite:@stroustrupTour2022]
-#+print_bibliography:

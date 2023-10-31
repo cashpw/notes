@@ -365,4 +365,3 @@ How to perform a [[id:3450d61e-cb1e-43ae-9849-edbda7e4cb75][Simulation interview
 * Footnotes
 
 [fn:1] "The interviewer limits the SME to between three and six steps, to ensure that time is not wasted delving into minute detail during the surface-level interview." [cite:@militelloAppliedCognitiveTaskAnalysisACTAPractitionerToolkitUnderstandingCognitiveTask1998]
-#+print_bibliography:

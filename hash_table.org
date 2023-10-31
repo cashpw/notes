@@ -225,4 +225,3 @@ A collision resolution algorithm which uses a probing sequence (i.e. linear, qua
 :END:
 *** Source
 [cite:@HashTable2022]
-#+print_bibliography:

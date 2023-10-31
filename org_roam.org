@@ -23,4 +23,3 @@ I use =org-roam= for:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-#+print_bibliography:

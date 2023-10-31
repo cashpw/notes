@@ -57,4 +57,3 @@ For a given list, =items=, and a comparator function, =comparator=:
 
 *** Source
 [cite:@Heapsort2022]
-#+print_bibliography:

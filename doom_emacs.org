@@ -20,4 +20,3 @@ See [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]].
 :ANKI_DECK: Default
 :END:
 
-#+print_bibliography:

@@ -57,4 +57,3 @@ A [[id:53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82][Decidable]] problem.
 A [[id:53f1e53a-eb4d-4cb0-bf25-1d220f6d1d82][Decision problem]] which can be solved by an algorithm.
 *** Source
 [cite:@DecisionProblem2023]
-#+print_bibliography:

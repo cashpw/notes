@@ -18,4 +18,3 @@ So, what are you doing today?
 #+end_quote
 
 * Flashcards :noexport:
-#+print_bibliography:

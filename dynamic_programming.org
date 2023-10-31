@@ -33,4 +33,3 @@
 *** Source
 - [cite:@SearchAlgorithm2022]
 - [cite:@DijkstraAlgorithm2022]
-#+print_bibliography:

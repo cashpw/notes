@@ -103,4 +103,3 @@ Graph \(f(x) = \tan(x)\)
 The [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Instantaneous rate of change]] of a function at a specific point.
 *** Source
 [cite:@TrigonometricFunctions2022]
-#+print_bibliography:

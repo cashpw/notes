@@ -41,4 +41,3 @@ class Vertex(Generic[T]):
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-#+print_bibliography:

@@ -59,4 +59,3 @@ class Container {
 (C++) A function which the implementing class *must* implement.
 *** Source
 [cite:@stroustrupTour2022]
-#+print_bibliography:

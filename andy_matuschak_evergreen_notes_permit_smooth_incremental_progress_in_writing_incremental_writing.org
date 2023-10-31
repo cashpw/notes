@@ -23,4 +23,3 @@ Also see [[id:b0b3e596-fec2-4f36-9020-243c6c96e0d5][Incremental writing]].
 
 * TODO [#2] Extract links into nodes :noexport:
 * Flashcards :noexport:
-#+print_bibliography:

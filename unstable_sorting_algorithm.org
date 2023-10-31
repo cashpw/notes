@@ -54,4 +54,3 @@ A type of algorithm which *doesn't* sort equal elements in the same order that t
 - [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
 *** Source
 [cite:@Quicksort2022]
-#+print_bibliography:

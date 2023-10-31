@@ -473,4 +473,3 @@ $H$
 An "overlay" graph which contains (1) all boundary vertices and (2) edges between boundary vertices (i.e. shortcuts)
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
-#+print_bibliography:

@@ -178,4 +178,3 @@ Servers use them for:
 - ~Set-Cookie: best_cat=Jynx~
 *** Source
 [cite:@mdnUsingHTTPCookies]
-#+print_bibliography:

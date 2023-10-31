@@ -36,4 +36,3 @@ In computing, cache algorithms (also frequently called cache replacement algorit
 An algorithm which determines what action(s) to manage a [[id:0bd96e38-6a09-4053-b5e8-cf707b03a3e5][Cache]].
 *** Source
 [cite:@CacheReplacementPolicies2023]
-#+print_bibliography:

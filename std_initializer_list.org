@@ -78,4 +78,3 @@ namespace std {
 
 *** Source
 [cite:@StdInitializerList]
-#+print_bibliography:

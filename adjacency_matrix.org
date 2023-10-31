@@ -36,4 +36,3 @@ Also see [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]].
 A square matrix used to represent a finite [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]. Elements of the matrix indicate adjacency between corresponding pairs of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]].
 *** Source
 [cite:@AdjacencyMatrix2022]
-#+print_bibliography:

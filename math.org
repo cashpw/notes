@@ -3476,4 +3476,3 @@ The output of a dynamic system when presented with a brief input signal, called 
 {{$x^{-y}$}@0} $=$ {{$\frac{1}{x^y}$}@1}
 
 *** Source
-#+print_bibliography:

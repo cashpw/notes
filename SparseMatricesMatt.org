@@ -23,4 +23,3 @@ TODO_AUTHOR, [cite:@edingSparseMatrices]
 :ANKI_DECK: Default
 :END:
 
-#+print_bibliography:

@@ -178,4 +178,3 @@ $ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
 
 *** Source
 [cite:@LinearMap2022]
-#+print_bibliography:

@@ -48,4 +48,3 @@ What would you like to train in this moment?
 #+end_quote
 
 * Flashcards :noexport:
-#+print_bibliography:

@@ -59,4 +59,3 @@ The interchangeability of code and data gives Lisp its instantly recognizable sy
 
 *** Source
 [cite:@LispProgrammingLanguage2022]
-#+print_bibliography:

@@ -64,4 +64,3 @@ eg: $\begin{bmatrix}\vec{v}\end{bmatrix}_{\beta}$
 
 *** Source
 [cite:@CoordinateVector2022]
-#+print_bibliography:

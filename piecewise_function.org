@@ -65,4 +65,3 @@ $f(x)= \begin{cases}-3-x & \text{if}\;  x \leq -3 \\ x+3&\text{if}\;-3\leq x\leq
 
 *** Source
 [cite:@Piecewise2022]
-#+print_bibliography:

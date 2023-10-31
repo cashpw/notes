@@ -251,4 +251,3 @@ An exhaustive (try every combination) search for the optimal pathway.
 
 *** Source
 [cite:@BellmanFordAlgorithm2022]
-#+print_bibliography:

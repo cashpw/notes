@@ -54,4 +54,3 @@ A matrix, $A$, with zeros in all positions except for $\{A_{i,j} \; \forall \; i
 
 *** Source
 [cite:@DiagonalMatrix2022]
-#+print_bibliography:

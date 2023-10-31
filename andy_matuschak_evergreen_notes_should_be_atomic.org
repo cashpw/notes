@@ -22,4 +22,3 @@ There's no clear litmus test or correct answer here---just a bunch of tradeoffs.
 The notion is quite similar to the software engineering principle of /separation of concerns,/ which suggests that modules should only be "about" one thing, so that they're more easily reusable. But likewise, if you fragment modules too much, you'll have a cohesion problem. In this way, [[https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C][Evergreen note titles are like APIs]].
 #+end_quote
 * Flashcards :noexport:
-#+print_bibliography:

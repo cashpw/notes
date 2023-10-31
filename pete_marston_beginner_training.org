@@ -562,4 +562,3 @@ Note: If even this volume of sessions looks too much, simply halve each session 
 #+end_quote
 
 * Flashcards :noexport:
-#+print_bibliography:

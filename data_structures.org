@@ -59,4 +59,3 @@ In computer science, a data structure is a data organization, management, and st
 A collection of data values, the relationships among them, and the functions or operations that can be applied to the data; defined in terms of its implementation.
 *** Source
 [cite:@DataStructure2022]
-#+print_bibliography:

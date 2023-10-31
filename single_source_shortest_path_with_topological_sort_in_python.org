@@ -78,4 +78,3 @@ Implement a solution to the [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-so
 [[id:3642d973-8af3-4d0f-a446-9ee24c2f85e7][Single-source shortest path with topological sort in Python]]
 *** Source
 [cite:@TopologicalSorting2022]
-#+print_bibliography:

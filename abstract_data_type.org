@@ -116,4 +116,3 @@ Both concepts relate to how the system stores and interacts with data.
 - {{[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][ADT]]}@1}
 *** Source
 [cite:@AbstractDataType2022]
-#+print_bibliography:

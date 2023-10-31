@@ -98,4 +98,3 @@ A space-optimized [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]] who's
 
 *** Source
 [cite:@RadixTree2022]
-#+print_bibliography:

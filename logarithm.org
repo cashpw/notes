@@ -128,4 +128,3 @@ $\operatorname{log}_b(a) =$ $\frac{\operatorname{log}_c(a)}{\operatorname{log}_c
 {{$\log^cn$}@0} $=$ {{$(\log n)^c$}@1}
 
 *** Source
-#+print_bibliography:

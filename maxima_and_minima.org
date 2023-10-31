@@ -232,4 +232,3 @@ The largest output of a function over some subset of the domain.
 - {{Relative maxima}@1}
 
 *** Source
-#+print_bibliography:

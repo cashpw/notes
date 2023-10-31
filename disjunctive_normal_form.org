@@ -38,4 +38,3 @@ In boolean logic, a disjunctive normal form (DNF) is a canonical normal form of 
 
 *** Source
 [cite:@DisjunctiveNormalForm2023]
-#+print_bibliography:

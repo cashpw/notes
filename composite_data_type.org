@@ -42,4 +42,3 @@ A struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] is C's and C+
 A data type composed of the programming language's primitive data types, and other [...].
 *** Source
 [cite:@CompositeDataType2023]
-#+print_bibliography:

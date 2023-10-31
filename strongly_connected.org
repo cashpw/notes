@@ -91,4 +91,3 @@ $xRy \quad \text{or} \quad yRx$
 - Same, except [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]] requires that $x \neq y$
 *** Source
 [cite:@ConnectedRelation2022]
-#+print_bibliography:

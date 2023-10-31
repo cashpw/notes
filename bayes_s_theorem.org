@@ -100,4 +100,3 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 
 *** Source
 [cite:@BayesTheorem2022]
-#+print_bibliography:

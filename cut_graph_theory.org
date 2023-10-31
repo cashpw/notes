@@ -54,4 +54,3 @@ Cut-set
 The set of edges which have one endpoint in each subset of a [[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]].
 *** Source
 [cite:@CutGraphTheory2022]
-#+print_bibliography:

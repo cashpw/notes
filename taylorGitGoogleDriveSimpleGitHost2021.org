@@ -53,4 +53,3 @@ git remote add gdrive /mnt/gdrive/projects/addon.git
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-#+print_bibliography:

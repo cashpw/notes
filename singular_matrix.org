@@ -57,4 +57,3 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is n
 A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is no \(B\) such that \(AB = BA = I_{n}\).
 *** Source
 [cite:@InvertibleMatrix2022]
-#+print_bibliography:

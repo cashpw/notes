@@ -253,4 +253,3 @@ $f(n) = g(n) + h(n)$ ([[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A*]])
 
 *** Source
 [cite:@SearchAlgorithm2022]
-#+print_bibliography:

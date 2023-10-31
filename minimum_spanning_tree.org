@@ -222,4 +222,3 @@ Algorithms which generate a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum s
 - [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
 *** Source
 [cite:@MinimumSpanningTree2022]
-#+print_bibliography:

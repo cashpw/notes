@@ -109,4 +109,3 @@
 
 *** Source
 =apt-cache= man page
-#+print_bibliography:

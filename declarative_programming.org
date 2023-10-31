@@ -44,4 +44,3 @@ Declarative programming is a non-imperative style of programming in which progra
 A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] in which the author describes the desired result without explicitly listing commands or steps to be performed.
 *** Source
 [cite:@DeclarativeProgramming2023]
-#+print_bibliography:

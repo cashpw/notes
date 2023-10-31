@@ -74,4 +74,3 @@ $\|\vec{x}\|_2 = \sqrt{\vec{x}\cdot\vec{x}}$
 *** Source
 [cite:@NormMathematics2022]
 
-#+print_bibliography:

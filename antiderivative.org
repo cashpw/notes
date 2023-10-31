@@ -125,4 +125,3 @@ $F(x)=$ {{$\frac{x^3}{3} + c$}@0}
 
 *** Source
 [cite:@FundamentalTheoremCalculus2022]
-#+print_bibliography:

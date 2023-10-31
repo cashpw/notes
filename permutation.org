@@ -84,4 +84,3 @@ There are {{$n!$}@0} permutations for a set of size $n$.
 
 *** Source
 [cite:@Permutation2022]
-#+print_bibliography:

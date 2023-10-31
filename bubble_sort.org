@@ -166,4 +166,3 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 [[id:af832252-c4a9-4364-bdef-59c1a8ea6ebe][Bubble sort implementation in Python]]
 *** Source
 [cite:@BubbleSort2022]
-#+print_bibliography:

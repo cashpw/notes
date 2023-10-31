@@ -19,4 +19,3 @@ Personal knowledge management (PKM) is a process of collecting information that 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-#+print_bibliography:

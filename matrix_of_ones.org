@@ -62,4 +62,3 @@ $J_{2 \times 2}$ $=$ $\begin{bmatrix} 1 & 1 \\ 1 & 1 \end{bmatrix}$
 
 *** Source
 [cite:@MatrixOnes2022]
-#+print_bibliography:

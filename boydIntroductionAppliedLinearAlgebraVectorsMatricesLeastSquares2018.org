@@ -55,4 +55,3 @@
 
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
-#+print_bibliography:

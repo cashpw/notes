@@ -90,4 +90,3 @@ For an arbitrary number of insertions and deletions:
 
 *** Source
 [cite:@SelfbalancingBinarySearchTree2022]
-#+print_bibliography:

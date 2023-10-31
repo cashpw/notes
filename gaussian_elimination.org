@@ -67,4 +67,3 @@ The state of a matrix when:
 - all leading coefficients are 1
 - each column which contains a leading coefficient has only one nonzero value
 *** Source
-#+print_bibliography:

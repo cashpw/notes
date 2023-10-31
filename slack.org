@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e6c3a056-5061-4152-8b12-41f001f637a5
-:LAST_MODIFIED: [2023-09-19 Tue 16:57]
+:LAST_MODIFIED: [2023-10-31 Tue 09:01]
 :ROAM_REFS: [cite:@zviSlack]
 :END:
 #+title: Slack
@@ -111,4 +111,5 @@ Lack of {{[[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]}@0} compounds and t
 
 *** Source
 [cite:@zviSlack]
+* Bibliography
 #+print_bibliography:

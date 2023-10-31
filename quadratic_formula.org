@@ -67,4 +67,3 @@ How to solve $3x^2 + 6x + 4$ for $x$
 Use the [[id:9d646383-d4a9-4f9d-ab12-74d45b82d58a][Quadratic formula]].
 *** Source
 [cite:@QuadraticFormula2023]
-#+print_bibliography:

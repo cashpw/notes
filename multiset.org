@@ -84,4 +84,3 @@ Cardinality ([[id:f25031de-9b51-4f1c-9166-f155b2d3250c][Multiset]])
 The sum of the multiplicities of the multiset.
 *** Source
 [cite:@Multiset2023]
-#+print_bibliography:

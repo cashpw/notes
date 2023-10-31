@@ -56,4 +56,3 @@ Note that \(\mathbf{C}\) is the [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Cente
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]
 ** [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]]
-#+print_bibliography:

@@ -37,4 +37,3 @@ In [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] (BFS) or le
 Navigating a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] such that you visit all items at the same depth before moving to the next depth.
 *** Source
 [cite:@TreeTraversal2022]
-#+print_bibliography:

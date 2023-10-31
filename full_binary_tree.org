@@ -35,4 +35,3 @@ A full binary tree (sometimes referred to as a proper or plane or strict binary 
 [[file:full-binary-tree.png]]
 *** Source
 [cite:@BinaryTree2022]
-#+print_bibliography:

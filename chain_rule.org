@@ -85,4 +85,3 @@ $h'(x)=$ {{$f'(g(x))g'(x)$}@0}
 $\frac{dy}{dx} = \frac{dy}{du} \times \frac{du}{dx}$
 *** Source
 [cite:@ChainRule2022]
-#+print_bibliography:

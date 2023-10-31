@@ -32,4 +32,3 @@ A trail is a walk [[[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory
 A [[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]] in which all [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] are distinct.
 *** Source
 [cite:@PathGraphTheory2022]
-#+print_bibliography:

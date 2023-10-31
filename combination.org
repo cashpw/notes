@@ -40,4 +40,3 @@ Also see: [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]
 A selection from a set such that the order does not matter.
 *** Source
 [cite:@Combination2023]
-#+print_bibliography:

@@ -1058,4 +1058,3 @@ int main() {
 
 *** Source
 [cite:@stroustrupTour2022]
-#+print_bibliography:

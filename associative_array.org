@@ -63,4 +63,3 @@ Common API of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
 - =insert=
 *** Source
 [cite:@AssociativeArray2022]
-#+print_bibliography:

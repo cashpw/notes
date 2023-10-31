@@ -37,4 +37,3 @@ Describes a condition in which a certain framing is correct in that acting as if
 Describes a condition in which a certain framing is correct in that acting as if it is true will grant useful results. However, it's not the whole picture. It doesn't capture /all/ the truth. Or perhaps it is deficient in some other way.
 *** Source
 [cite:@danskinCardSaysMoops2019]
-#+print_bibliography:

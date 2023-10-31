@@ -47,4 +47,3 @@ The triangle made up from three points in a kitchen: the cook top, refrigerator,
 #+end_quote
 *** Source
 [cite:@KitchenWorkTriangle2022]
-#+print_bibliography:

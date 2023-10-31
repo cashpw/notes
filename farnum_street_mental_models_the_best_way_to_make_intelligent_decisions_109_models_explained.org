@@ -21,4 +21,3 @@ A mental model is simply a representation of how something works. We cannot keep
 #+end_quote
 
 * TODO [#3] Flashcards :noexport:
-#+print_bibliography:

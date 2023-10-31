@@ -180,4 +180,3 @@ Queuing delay
 Amount of time the packet is waiting in the queue until it can be processed.
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
-#+print_bibliography:

@@ -495,4 +495,3 @@ void sort(const std::vector<double>& numbers);
 - Destructured binding: emphasizes the idea of breaking down or deconstructing complex data structures, such as arrays or objects, into individual variables.
 *** Source
 ChatGPT
-#+print_bibliography:

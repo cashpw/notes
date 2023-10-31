@@ -38,4 +38,3 @@ A term describing both:
 - a connected vertex-edge pairing
 *** Source
 [cite:@boteroAnswerGraphTheoryAdjacencyVsIncident2012]
-#+print_bibliography:

@@ -174,4 +174,3 @@ for k from 1 to |V|
 #+end_src
 *** Source
 [cite:@FloydWarshallAlgorithm2022]
-#+print_bibliography:

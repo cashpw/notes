@@ -40,4 +40,3 @@ Formally: $(a \, R \, b \iff b \, R \, a) \; \forall \; a, b \in X$
 
 *** TODO [#4] Source
 https://en.wikipedia.org/wiki/Symmetric_relation
-#+print_bibliography:

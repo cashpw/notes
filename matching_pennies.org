@@ -55,4 +55,3 @@ A [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][game]] in which two players each ha
 Using a predictable strategy in this matching game will lead to loss as your opponent can rely on your predictability to counter your move.
 *** Source
 [cite:@MatchingPennies2022]
-#+print_bibliography:

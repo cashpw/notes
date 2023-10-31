@@ -38,4 +38,3 @@ Variations of the minimum cut problem consider weighted graphs, directed graphs,
 A [[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]] that is minimal in some metric.
 *** Source
 [cite:@MinimumCut2023]
-#+print_bibliography:

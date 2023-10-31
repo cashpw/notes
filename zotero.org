@@ -18,4 +18,3 @@ collect, organize, annotate, cite, and share research.
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-#+print_bibliography:

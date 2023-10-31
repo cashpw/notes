@@ -155,4 +155,3 @@ A binary tree in which satisfies the binary search property. That is, the nodes 
 
 *** Source
 [cite:@BinarySearchTree2022]
-#+print_bibliography:

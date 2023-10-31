@@ -97,4 +97,3 @@ f(x) &= x^r \\
 $$
 *** Source
 [cite:@PowerRule2022]
-#+print_bibliography:

@@ -109,4 +109,3 @@ Two matrices which are matrix equivalent {{$A_{n \times n} = P_{n \times n}B_{n 
 
 *** Source
 [cite:@MatrixEquivalence2022]
-#+print_bibliography:

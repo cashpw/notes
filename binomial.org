@@ -35,4 +35,3 @@ In algebra, a binomial is a polynomial [[[id:b5f2c2d9-50a4-4b20-a32d-c1a9cbb584d
 A [[id:b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de][Polynomial]] which is the sum of two [[id:cbd532d2-7ec0-4710-ba42-54212961b1c3][Monomials]].
 *** Source
 [cite:@BinomialPolynomial2022]
-#+print_bibliography:

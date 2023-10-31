@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       14876c69-a161-4b59-976a-d659cfe9435c
-:LAST_MODIFIED: [2023-10-02 Mon 23:16]
+:LAST_MODIFIED: [2023-10-31 Tue 09:21]
 :END:
 #+title: Balanced binary tree
 #+hugo_custom_front_matter: :slug "14876c69-a161-4b59-976a-d659cfe9435c"
@@ -59,4 +59,5 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which the left and
 [[file:balanced-binary-tree.png]]
 *** Source
 [cite:@BinaryTree2022]
+* Bibliography
 #+print_bibliography:

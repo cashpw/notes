@@ -22,4 +22,3 @@ Inference involves two settings: In the first, information is acquired (learning
 #+end_quote
 
 * Flashcards :noexport:
-#+print_bibliography:

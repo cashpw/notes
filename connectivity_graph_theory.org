@@ -128,4 +128,3 @@ A graph whose vertices are all connected.
 A graph with at least one vertex which isn't connected.
 *** Source
 [cite:@ConnectivityGraphTheory2022]
-#+print_bibliography:

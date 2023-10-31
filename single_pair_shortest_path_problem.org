@@ -53,4 +53,3 @@ Algorithm to solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair sh
 *** Source
 - [cite:@SearchAlgorithm2022]
 - [cite:@DijkstraAlgorithm2022]
-#+print_bibliography:

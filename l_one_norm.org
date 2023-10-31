@@ -60,4 +60,3 @@ $\|\vec{x}\|_1 = \sum |x_i|$
 *** Source
 [cite:@NormMathematics2022]
 [cite:@TaxicabGeometry2022]
-#+print_bibliography:

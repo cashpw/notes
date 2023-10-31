@@ -150,4 +150,3 @@ $0 \le x \le 1$, $[0, 1]$
 
 *** Source
 [cite:@IntervalMathematics2022]
-#+print_bibliography:

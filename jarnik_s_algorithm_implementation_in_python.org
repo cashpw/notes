@@ -121,4 +121,3 @@ Implement [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]] in [[i
 [[id:575409bd-1bb2-45c0-84a3-63abaa4b899b][Jarnik's algorithm implementation in Python]]
 *** Source
 [cite:@PrimAlgorithm2022]
-#+print_bibliography:

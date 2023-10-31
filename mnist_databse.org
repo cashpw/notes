@@ -48,4 +48,3 @@ The MNIST database
 A database of 28x28px greyscale images of handwritten digits. There are 60,000 training and 10,000 test images.
 *** TODO [#4] Source
 https://en.wikipedia.org/wiki/MNIST_database
-#+print_bibliography:

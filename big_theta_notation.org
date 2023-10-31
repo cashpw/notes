@@ -85,4 +85,3 @@ The set of functions which have a specific upper and lower bound (tight bound).
 
 *** Source
 [cite:@BigNotation2022]
-#+print_bibliography:

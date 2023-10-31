@@ -33,4 +33,3 @@ In computer programming, a function or subroutine is a sequence of program instr
 In computer programming, a ... is a sequence of program instructions that performs a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.
 *** Source
 [cite:@FunctionComputerProgramming2023]
-#+print_bibliography:
