@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6a2ada0e-607b-419c-8137-cfd7fa113bfe
+:LAST_MODIFIED: [2023-10-31 Tue 10:52]
+:END:
+#+title: Seek out feedback and accept with gratitude
+#+hugo_custom_front_matter: :slug "6a2ada0e-607b-419c-8137-cfd7fa113bfe"
+#+author: Cash Prokop-Weaver
+#+date: [2023-10-31 Tue 10:15]
+#+filetags: :concept:
+
+Feedback is a key component to [[id:d797ba44-b962-4d6e-9b71-38ca49d070ce][improving]]. Seek it out from those who know more than you. Be gracious in receiving it even if you disagree with it (yes chef, thank you chef, etc) (assuming the person giving you feedback is operating in good faith, otherwise disregard).
+
+#+begin_quote
+Getting feedback is the most efficient way to improve your writing. This is not optional. Giving feedback is as important: giving it to others forces you to internalize the learnings from this handbook.
+
+[cite:@shapiroWritingHandbookHowRewriteYourFirstDraft]
+#+end_quote
+
+You can also [[id:0800974b-1f58-4a54-94a9-7f83f5835f24][hire people to give you feedback]]!
+
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

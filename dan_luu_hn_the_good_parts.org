@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@luuHNGoodParts]
+:ID:       1b585978-1fa0-443c-9cc4-1a04332724f7
+:LAST_MODIFIED: [2023-10-31 Tue 17:39]
+:END:
+#+title: Dan Luu | HN: The Good Parts
+#+hugo_custom_front_matter: :slug "1b585978-1fa0-443c-9cc4-1a04332724f7"
+#+author: Cash Weaver
+#+date: [2023-10-31 Tue 17:39]
+#+filetags: :hastodo:reference:
+
+[[id:19bc5bde-085c-4daa-a99b-5f83ab4f80a4][Dan Luu]], [cite:@luuHNGoodParts]
+
+* TODO [#1] Summary
+* TODO [#1] Thoughts
+* TODO [#1] Notes
+* TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

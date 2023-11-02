@@ -1,11 +1,14 @@
 :PROPERTIES:
 :ID:       9abe569b-b8e7-4a33-ad4f-e701b22080d2
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-01 Wed 15:51]
 :END:
 #+title: Cognitive flexibility theory
 #+hugo_custom_front_matter: :slug "9abe569b-b8e7-4a33-ad4f-e701b22080d2"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-30 Fri 16:03]
 #+filetags: :hastodo:concept:
-* INPROGRESS
+* TODO [#2]
+[cite:@spiroCognitiveFlexibilityTheoryAdvancedKnowledgeAcquisitionIllstructuredDomains1988]
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

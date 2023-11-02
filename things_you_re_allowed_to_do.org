@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       204ab57d-e532-47ef-87ca-e22ddd08092d
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-31 Tue 11:16]
 :END:
 #+title: Things you're allowed to do
 #+hugo_custom_front_matter: :slug "204ab57d-e532-47ef-87ca-e22ddd08092d"
@@ -16,6 +16,29 @@
 * Meta
 
 - Pick your own pace. Both [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]] and there's no speed minimum
+
+* Hire a researcher or expert consultant
+:PROPERTIES:
+:ID:       0800974b-1f58-4a54-94a9-7f83f5835f24
+:END:
+
+#+begin_quote
+I hired a researcher (Elizabeth Van Nostrand, whom you can and should hire too) to help write this very post, which is largely about how to hire people to do things!
+
+They can:
+
+- Help validate whether a crazy idea is possible
+- Do epistemic spot checks of your work
+- Map the landscape of opinions on a topic
+- Write literature surveys
+- Find people worth talking to about a potential topic and writing briefs about them
+- Opposition or market research
+- Find options for big purchases like houses or insurance
+- Compile datasets
+- Find un-Googleable things
+
+[cite:@cvitkovicThingsYouReAllowed2023]
+#+end_quote
 
 * TODO [#2] Expand :noexport:
 ** [[https://bastian.rieck.me/blog/posts/2021/things/][Things you are allowed to do, academic edition]] :advice:essay:
@@ -43,3 +66,5 @@
 | front    |  2.5 |  -1 |        0 | 2022-10-11T02:30:07Z |
 :END:
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

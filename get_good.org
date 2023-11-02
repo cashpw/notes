@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d797ba44-b962-4d6e-9b71-38ca49d070ce
 :ROAM_ALIASES: "Git gud"
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-10-31 Tue 10:17]
 :END:
 #+title: Get good
 #+hugo_custom_front_matter: :slug "d797ba44-b962-4d6e-9b71-38ca49d070ce"
@@ -17,7 +17,17 @@
 
 [[id:d797ba44-b962-4d6e-9b71-38ca49d070ce][Git gud]], scrub. Mind the [[id:375afbd9-c426-4374-bce0-bbe2c08b8c16][Taste gap]].
 
+* How to get good
+
+(in no particular order)
+
+- [[id:be380da4-4720-4978-a3f8-c99a9470f509][Embrace discomfort]]
+- [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
+- [[id:8d489ad2-03d1-411b-a73b-4524147fecb6][Retrospectives]]
+- [[id:6a2ada0e-607b-419c-8137-cfd7fa113bfe][Seek out feedback and accept with gratitude]]
+- [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
+
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
+
+* Bibliography
+#+print_bibliography:

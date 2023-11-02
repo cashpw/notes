@@ -1,12 +1,38 @@
 :PROPERTIES:
 :ID:       2023ecf7-2e79-4919-a356-264eecb3034b
-:LAST_MODIFIED: [2023-09-22 Fri 07:20]
+:LAST_MODIFIED: [2023-11-01 Wed 15:50]
 :END:
 #+title: Cognitive transformation theory
 #+hugo_custom_front_matter: :slug "2023ecf7-2e79-4919-a356-264eecb3034b"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-30 Fri 16:04]
-#+filetags: :hastodo:concept:
-* INPROGRESS [#2]
-[cite:@chinHardThingLearningExperience2021]
-* TODO [#2] Flashcards :noexport:
+#+filetags: :concept:
+#+begin_quote
+[[id:2023ecf7-2e79-4919-a356-264eecb3034b][Cognitive transformation theory]] is the idea that "progress in cognitive skills depends on successively shedding outmoded sets of beliefs and adopting new beliefs." The authors propose it in contrast to the "storehouse" model in which a learner improves by acquiring new knowledge in an additive process (more new knowledge, better decisions/answers/etc) which is incorrect. "Our central claim is that conceptual learning is discontinuous rather than smooth. We make periodic advances when we replace flawed mental models with better ones. However, during the process of cognitive development our mental models get harder to disconfirm. As we move up the learning curve or have more expertise, we have to put more energy into unlearning --- discomfirming mental models --- in order to accept better ones."
+
+[cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
+#+end_quote
+
+* Flashcards :noexport:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-11-01 Wed 13:27]
+:FC_CREATED: 2023-11-01T20:28:33Z
+:FC_TYPE:  double
+:ID:       1fe1f16a-dc61-4870-a498-68b5d75c7dbd
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-11-01T20:28:33Z |
+| back     |  2.5 |  -1 |        0 | 2023-11-08T20:28:33Z |
+:END:
+
+[[id:2023ecf7-2e79-4919-a356-264eecb3034b][Cognitive transformation theory]]
+
+*** Back
+The idea that progress in mental skills depends on successively sheding outmoded sets of beliefs and adopting new beliefs.
+*** Source
+[cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
+* Bibliography
+#+print_bibliography:

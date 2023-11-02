@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8a0cef6e-e26b-4aac-a260-34fb116f7952
-:LAST_MODIFIED: [2023-10-26 Thu 08:32]
+:LAST_MODIFIED: [2023-10-31 Tue 10:18]
 :END:
 #+title: Art inspiration
 #+hugo_custom_front_matter: :slug "8a0cef6e-e26b-4aac-a260-34fb116f7952"
@@ -18,10 +18,9 @@
 :CREATED: [2023-10-03 22:00]
 :END:
 
-* Ceramics
+* Ceramic inspiration
 :PROPERTIES:
 :ID: 6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf
-:ROAM_ALIASES: "Ceramic inspiration"
 :END:
 
 [[id:c73727bd-7ed8-4c50-bd08-524ebb2afbea][Ceramists I follow]]
@@ -701,3 +700,6 @@
 
 
 * Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:
