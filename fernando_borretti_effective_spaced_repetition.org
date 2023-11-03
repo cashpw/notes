@@ -1,20 +1,20 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@borrettiEffectiveSpacedRepetition2023]
 :ID:       ec2a6f22-dad5-4615-a2a9-c5313229ff5d
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-02 Thu 13:24]
 :END:
 #+title: Fernando Borretti | Effective Spaced Repetition
 #+hugo_custom_front_matter: :slug "ec2a6f22-dad5-4615-a2a9-c5313229ff5d"
 #+author: Cash Weaver
 #+date: [2023-04-11 Tue 15:21]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:f30176d6-adc0-43be-bc31-d4ab25bfe772][Fernando Borretti]], [cite:@borrettiEffectiveSpacedRepetition2023]
 
 * Summary
-On [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]].
-* TODO Thoughts
-* INPROGRESS Notes
+Guidelines for effective [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]. See [[id:9dcb64c7-d453-4dad-a5d6-b25ef7487621][On writing cards]].
+* Thoughts
+* Notes
 #+begin_quote
 There are two main limiting factors to effective spaced repetition:
 
@@ -76,7 +76,7 @@ Make a deck for each source. In the case of textbooks, make a sub-deck for each 
 This also makes it easier to keep track of how far along you got into a text.
 #+end_quote
 
-*** Write Atomic Flashcards :noexport:
+*** Write Atomic Flashcards
 :PROPERTIES:
 :ID:       5819da38-1d40-498f-a915-dc2b4596846b
 :END:
@@ -181,4 +181,6 @@ Another type of card you might use (I use this to memorize poems) is a card that
 | B, C, ...           | D      |
 
 The [[https://borretti.me/article/effective-spaced-repetition#poetry-script][poetry script]] can generate these for you.
-* TODO [#2] Flashcards :noexport:
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

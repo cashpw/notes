@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kaplan-mossEmbraceGrind]
 :ID:       bdbd9f73-c91e-4979-ae15-f5682ebca630
-:LAST_MODIFIED: [2023-10-30 Mon 08:08]
+:LAST_MODIFIED: [2023-11-02 Thu 08:24]
 :END:
 #+title: Jacob Kaplan-Moss | Embrace the Grind
 #+hugo_custom_front_matter: :slug "bdbd9f73-c91e-4979-ae15-f5682ebca630"
@@ -70,7 +70,7 @@ Sometimes, programming feels like magic: you chant some arcane incantation and a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-10-31T15:08:13Z |
+| front    | 2.50 |   2 |     2.00 | 2023-11-04T15:24:14Z |
 | back     |  2.5 |  -1 |        0 | 2023-11-02T02:04:34Z |
 :END:
 
@@ -80,3 +80,5 @@ Sometimes, programming feels like magic: you chant some arcane incantation and a
 The "trick" to doing something may be no trick at all; just a willingness to do the work (even, maybe especially, if it's tedious or laborious).
 *** Source
 [cite:@kaplan-mossEmbraceGrind]
+* Bibliography
+#+print_bibliography:

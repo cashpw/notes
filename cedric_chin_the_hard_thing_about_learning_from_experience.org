@@ -1,19 +1,21 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinHardThingLearningExperience2021]
 :ID:       6e21d350-e098-4a80-a6bf-ccc86c254f28
-:LAST_MODIFIED: [2023-09-22 Fri 07:20]
+:LAST_MODIFIED: [2023-11-02 Thu 14:07]
 :END:
 #+title: Cedric Chin | The Hard Thing About Learning From Experience
 #+hugo_custom_front_matter: :slug "6e21d350-e098-4a80-a6bf-ccc86c254f28"
 #+author: Cash Weaver
 #+date: [2023-09-11 Mon 08:42]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinHardThingLearningExperience2021]
 
-* TODO Summary
-* TODO Thoughts
-* INPROGRESS Notes
+* Summary
+See [[id:2023ecf7-2e79-4919-a356-264eecb3034b][Cognitive transformation theory]].
+* Thoughts
+An example of a blog post which /isn't/ [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][atomic]]. Readers would be better served by referring to [[id:96c1f65b-0c31-4478-8717-8c33743a9e94][Cedric Chin | The Tacit Knowledge Series]].
+* Notes
 #+begin_quote
 Finally, we follow this line of reasoning to its logical conclusion:
 
@@ -33,4 +35,6 @@ In other words, the hard thing about learning from experience is that you don't 
 #+begin_quote
 Everything I've just said is a restatement of Gary Klein and Holly Baxter's Cognitive Transformation Theory [[[id:2023ecf7-2e79-4919-a356-264eecb3034b][Cognitive transformation theory]]].
 #+end_quote
-* TODO [#2] Flashcards :noexport:
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

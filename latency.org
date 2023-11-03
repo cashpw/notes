@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-10-30 Mon 07:59]
+:LAST_MODIFIED: [2023-11-02 Thu 08:18]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -146,7 +146,7 @@ Amount of time required to push all the packet's bits into the link, which is a 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   3 |     6.00 | 2023-10-09T06:07:37Z |
+| front    | 2.05 |   4 |    11.09 | 2023-11-13T17:24:06Z |
 | back     | 2.35 |   6 |    75.86 | 2023-11-11T10:18:30Z |
 :END:
 
@@ -160,6 +160,8 @@ Amount of time required to:
 - determine the packet's destination
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+* Bibliography
+#+print_bibliography:
 ** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:03]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f49b7372-f38a-470e-8e1f-d26a64ff4992
 :ROAM_ALIASES: 80/20
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-11-02 Thu 08:27]
 :END:
 #+title: Pareto principle
 #+hugo_custom_front_matter: :slug "f49b7372-f38a-470e-8e1f-d26a64ff4992"
@@ -30,7 +30,7 @@ Mathematically, the 80/20 rule is roughly described by a [[id:29d30938-ecd0-4f44
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   181.07 | 2023-10-31T17:21:15Z |
+| front    | 2.20 |   8 |   384.41 | 2024-11-21T01:18:11Z |
 | back     | 2.80 |   7 |   374.85 | 2024-07-26T10:23:35Z |
 :END:
 
@@ -40,6 +40,9 @@ Mathematically, the 80/20 rule is roughly described by a [[id:29d30938-ecd0-4f44
 Roughly 80% of consequences come from 20% of causes.
 *** Source
 [cite:@ParetoPrinciple2022]
+
+* Bibliography
+#+print_bibliography:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 09:53]

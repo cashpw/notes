@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-10-25 Wed 19:10]
+:LAST_MODIFIED: [2023-11-02 Thu 13:24]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -69,7 +69,11 @@ One reason this can be frustrating is you'll often remember a flashcard for the 
 5. "For spaced repetition to be useful, it has to be a habit" [cite:@borrettiEffectiveSpacedRepetition2023] and it's a difficult habit to form
 
 * TODO [#3] On writing cards
+:PROPERTIES:
+:ID:       9dcb64c7-d453-4dad-a5d6-b25ef7487621
+:END:
 
+** TODO Extend based on [cite:@borrettiEffectiveSpacedRepetition2023]
 ** Cards should be small
 
 Cards, like [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]], [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][should be atomic]]; they should test a single, small, idea.
@@ -81,6 +85,14 @@ Cards, like [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]], [[id:6
 
 - [[id:14712c73-5f39-47ed-85fd-b29b72bec975][Cultivate strategies for elaborative encoding / forming rich associations]]
 - [[id:5eaddd36-abc6-428a-8dae-d2a0466c196f][Write Two-Way Questions]]
+
+** TODO On sequences
+Refer to [cite:@borrettiEffectiveSpacedRepetition2023]
+
+Also see [[id:4be26817-4ffd-4975-97aa-deda536235a5][org-fc]]'s =context= card
+
+** TODO On hierarchies
+Refer to [cite:@borrettiEffectiveSpacedRepetition2023]
 
 * TODO [#3] Expand :noexport:
 
@@ -272,3 +284,6 @@ An evidence-based learning technique, usually performed with flashcards, which e
 
 *** Source
 [cite:@SpacedRepetition2022]
+
+* Bibliography
+#+print_bibliography:

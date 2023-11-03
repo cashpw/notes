@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3923eefd-c5ff-455e-a107-cd5a9e9191c3
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-11-02 Thu 08:20]
 :END:
 #+title: Technologist
 #+hugo_custom_front_matter: :slug "3923eefd-c5ff-455e-a107-cd5a9e9191c3"
@@ -25,7 +25,7 @@ A technologist is one who:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   176.27 | 2023-10-22T20:51:09Z |
+| front    | 2.05 |   8 |   357.88 | 2024-10-25T12:34:35Z |
 | back     | 2.50 |   7 |   183.94 | 2023-11-04T15:29:37Z |
 :END:
 
@@ -38,3 +38,6 @@ A technologist is one who:
 
 *** Source
 [cite:@tellmanTrappedTechnologistFactory]
+
+* Bibliography
+#+print_bibliography:

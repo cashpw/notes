@@ -2,7 +2,7 @@
 :ID:       19124270-bb87-450d-8726-fe6aae18716f
 :ROAM_REFS: [cite:@ExplicitKnowledge2022]
 :ROAM_ALIASES: "Expressive knowledge"
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-11-02 Thu 08:23]
 :END:
 #+title: Explicit knowledge
 #+hugo_custom_front_matter: :slug "19124270-bb87-450d-8726-fe6aae18716f"
@@ -54,7 +54,7 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   334.91 | 2024-05-12T21:56:18Z |
-| back     | 2.05 |   6 |    56.34 | 2023-10-21T23:01:03Z |
+| back     | 1.75 |   0 |     0.00 | 2023-11-02T15:23:46Z |
 :END:
 
 [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]
@@ -65,6 +65,8 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 - Amount of water in the Great Lakes
 *** Source
 [cite:@ExplicitKnowledge2022]
+* Bibliography
+#+print_bibliography:
 ** Compare and contrast
 See [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
 

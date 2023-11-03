@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2ca66fa1-f304-4132-bd6e-78f9a73f4f38
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-11-02 Thu 08:37]
 :ROAM_REFS: [cite:@AdLibitum2022]
 :END:
 #+title: Ad libitum
@@ -30,7 +30,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   131.56 | 2023-10-24T14:03:32Z |
+|        0 | 2.20 |   8 |   315.15 | 2024-09-12T19:16:44Z |
 |        1 | 2.65 |   7 |   286.61 | 2024-06-13T09:19:41Z |
 :END:
 
@@ -38,3 +38,6 @@
 
 *** Source
 [cite:@AdLibitum2022]
+
+* Bibliography
+#+print_bibliography:

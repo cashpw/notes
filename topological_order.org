@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       518c35ac-35d7-4c12-9522-efb13e5be1e8
-:LAST_MODIFIED: [2023-10-30 Mon 07:59]
+:LAST_MODIFIED: [2023-11-02 Thu 08:27]
 :ROAM_ALIASES: "Topological sorting"
 :ROAM_REFS: [cite:@TopologicalSorting2022]
 :END:
@@ -64,7 +64,7 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   229.16 | 2024-02-18T05:37:08Z |
-| back     | 1.90 |   4 |    11.62 | 2023-10-30T04:42:42Z |
+| back     | 1.75 |   5 |    18.36 | 2023-11-21T00:04:36Z |
 :END:
 
 [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]
@@ -75,6 +75,9 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 - Only possible for [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]
 *** Source
 [cite:@TopologicalSorting2022]
+
+* Bibliography
+#+print_bibliography:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-01-30 Mon 10:03]

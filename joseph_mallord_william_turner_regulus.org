@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       157d2935-27bd-473c-9669-554a4644a199
-:LAST_MODIFIED: [2023-09-25 Mon 06:28]
+:LAST_MODIFIED: [2023-11-02 Thu 08:35]
 :ROAM_REFS: [cite:@turnerRegulus1828]
 :END:
 #+title: Joseph Mallord William Turner | Regulus
@@ -25,7 +25,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    34.26 | 2023-10-24T06:10:46Z |
+| front    | 2.50 |   6 |    85.73 | 2024-01-27T09:07:38Z |
 | back     | 2.35 |   5 |    28.42 | 2023-10-23T23:36:50Z |
 :END:
 
@@ -35,3 +35,5 @@
 [[file:2023-08-10_09-08-57_N00519_10.jpg]]
 *** Source
 [cite:@turnerRegulus1828]
+* Bibliography
+#+print_bibliography:

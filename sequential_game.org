@@ -2,7 +2,7 @@
 :ID:       bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b
 :ROAM_REFS: [cite:@SequentialGame2021]
 :ROAM_ALIASES: "Dynamic game"
-:LAST_MODIFIED: [2023-10-30 Mon 07:56]
+:LAST_MODIFIED: [2023-11-02 Thu 08:35]
 :END:
 #+title: Sequential game
 #+hugo_custom_front_matter: :slug "bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b"
@@ -56,7 +56,7 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   221.90 | 2023-12-09T21:14:26Z |
-| back     | 2.50 |   7 |   169.90 | 2023-10-20T19:29:45Z |
+| back     | 2.50 |   8 |   382.43 | 2024-11-19T01:58:46Z |
 :END:
 
 [[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]
@@ -65,6 +65,9 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 A game in which one player chooses their action before the others choose theirs. The other players have information on the first player's choice prior to making their own decisions.
 *** Source
 [cite:@SequentialGame2021]
+
+* Bibliography
+#+print_bibliography:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 15:38]

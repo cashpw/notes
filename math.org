@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-10-30 Mon 07:55]
+:LAST_MODIFIED: [2023-11-02 Thu 08:23]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -3127,7 +3127,7 @@ eg: $\sin(x)$, $\operatorname{succ}(x)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   9 |   279.13 | 2023-10-25T19:33:11Z |
+| back     | 2.35 |  10 |   598.09 | 2025-06-22T17:37:34Z |
 | front    | 2.80 |   8 |   301.23 | 2023-12-06T00:01:33Z |
 :END:
 
@@ -3142,6 +3142,9 @@ $\operatorname{R}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ x & \text{if}\; x 
 [[file:RampFunction_801.gif]]
 *** Source
 [cite:@RampFunction2022]
+
+* Bibliography
+#+print_bibliography:
 ** Definition (Math) :fc:
 :PROPERTIES:
 :ID:       97c560db-f647-4ae6-80cd-e92cee4a0e59

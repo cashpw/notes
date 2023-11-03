@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-10-30 Mon 07:58]
+:LAST_MODIFIED: [2023-11-02 Thu 08:38]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -339,7 +339,7 @@ Metric customization
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    89.82 | 2024-01-09T16:56:06Z |
-| back     | 2.50 |   2 |     2.00 | 2023-09-27T13:13:48Z |
+| back     | 2.50 |   3 |     6.00 | 2023-11-08T15:38:00Z |
 :END:
 
 Query
@@ -349,6 +349,8 @@ Query
   - Optionally over the hierarchy of $H$ instances if you're using nested partitions
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
+* Bibliography
+#+print_bibliography:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-06-27 Tue 15:09]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b0252e55-4cb5-4af8-8a28-9bf331052193
-:LAST_MODIFIED: [2023-10-30 Mon 08:08]
+:LAST_MODIFIED: [2023-11-02 Thu 08:38]
 :END:
 #+title: Lower order questions
 #+hugo_custom_front_matter: :slug "b0252e55-4cb5-4af8-8a28-9bf331052193"
@@ -28,7 +28,7 @@ Also see [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   313.12 | 2024-08-03T16:06:30Z |
-| back     | 1.45 |   6 |    18.10 | 2023-10-24T10:05:41Z |
+| back     | 1.30 |   7 |    24.94 | 2023-11-27T14:13:37Z |
 :END:
 
 [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]]
@@ -37,6 +37,9 @@ Also see [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]].
 Questions which require "brief thought" and a basic understanding of an already-learned subject.
 *** Source
 [cite:@LowerOrderQuestionsTAPFacilitatorResourceCenter]
+
+* Bibliography
+#+print_bibliography:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2022-12-20 Tue 16:53]

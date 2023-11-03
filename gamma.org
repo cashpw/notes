@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       258a5932-07d8-4d5c-8442-ef08e3f8d45d
-:LAST_MODIFIED: [2023-10-30 Mon 08:04]
+:LAST_MODIFIED: [2023-11-02 Thu 08:26]
 :END:
 #+title: Gamma (finance)
 #+hugo_custom_front_matter: :slug "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
@@ -32,7 +32,7 @@ $\Gamma = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   6 |    25.73 | 2023-10-28T00:22:26Z |
+| front    | 1.60 |   7 |    44.02 | 2023-12-16T16:01:22Z |
 | back     | 2.05 |   8 |   292.95 | 2024-06-18T11:42:20Z |
 :END:
 
@@ -45,6 +45,9 @@ $\Gamma = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2
 $? = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}$
 *** Source
 [cite:@GreeksFinance2022]
+
+* Bibliography
+#+print_bibliography:
 ** (Finance) {{$\Gamma$}@0} $=$ {{$\frac{\partial\Delta}{\partial S}$}@1} :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-11-07T01:49:06Z

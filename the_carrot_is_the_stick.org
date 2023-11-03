@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       23bf8c2e-5c00-414a-860f-3a6c87ea6283
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-11-02 Thu 08:35]
 :END:
 #+title: The carrot is the stick
 #+hugo_custom_front_matter: :slug "23bf8c2e-5c00-414a-860f-3a6c87ea6283"
@@ -48,7 +48,7 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   178.80 | 2023-10-29T10:49:23Z |
+| front    | 2.35 |   8 |   396.22 | 2024-12-02T20:48:43Z |
 | back     | 2.50 |   7 |   261.91 | 2024-03-07T18:34:33Z |
 :END:
 
@@ -58,3 +58,5 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 The enticing value of an carrot depends on the one-being-enticed's lack of that carrot. They don't yet have the carrot that they want. Why do they not already have the carrot? The stick.
 *** Source
 [cite:@blackAbolitionWork]
+* Bibliography
+#+print_bibliography:

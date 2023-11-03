@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       88e5f008-ed26-4e5f-b5ac-6f4efc83d24c
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-02 Thu 08:25]
 :END:
 #+title: Relaxation (approximation)
 #+hugo_custom_front_matter: :slug "88e5f008-ed26-4e5f-b5ac-6f4efc83d24c"
@@ -26,7 +26,7 @@ In mathematical optimization and related fields, relaxation is a modeling strate
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   213.76 | 2024-01-02T08:36:25Z |
-| back     | 2.20 |   6 |    79.59 | 2023-10-23T05:30:09Z |
+| back     | 2.20 |   7 |   185.86 | 2024-05-06T12:07:14Z |
 :END:
 
 [[id:88e5f008-ed26-4e5f-b5ac-6f4efc83d24c][Relaxation (approximation)]]
@@ -35,3 +35,5 @@ In mathematical optimization and related fields, relaxation is a modeling strate
 An approximation of a difficult problem to a nearby problem which is easier to solve.
 *** Source
 [cite:@RelaxationApproximation2022]
+* Bibliography
+#+print_bibliography:

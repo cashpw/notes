@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       477fb65f-3351-4154-a270-08c58cdcaf88
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-11-02 Thu 08:38]
 :END:
 #+title: Single-pair shortest path problem
 #+hugo_custom_front_matter: :slug "477fb65f-3351-4154-a270-08c58cdcaf88"
@@ -42,7 +42,7 @@ A problem in which the goal is to find the shortest path in a [[id:8bff4dfc-8073
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   198.17 | 2023-12-15T19:37:28Z |
-| back     | 2.35 |   7 |   168.23 | 2023-11-01T17:58:26Z |
+| back     | 2.20 |   8 |   336.21 | 2024-10-03T20:46:08Z |
 :END:
 
 Algorithm to solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]
@@ -53,3 +53,5 @@ Algorithm to solve the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair sh
 *** Source
 - [cite:@SearchAlgorithm2022]
 - [cite:@DijkstraAlgorithm2022]
+* Bibliography
+#+print_bibliography:

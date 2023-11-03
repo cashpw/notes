@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d1c3e5ea-068e-457c-92dd-289b5ee04a5a
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-11-02 Thu 08:35]
 :END:
 #+title: Arrakis teaches the attitude of the knife
 #+hugo_custom_front_matter: :slug "d1c3e5ea-068e-457c-92dd-289b5ee04a5a"
@@ -25,8 +25,11 @@ Arrakis teaches the attitude of the knife - chopping off what's incomplete and s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   8 |   148.68 | 2023-10-29T06:36:14Z |
+|        0 | 1.90 |   9 |   310.20 | 2024-09-07T20:30:03Z |
 :END:
 
 *** Source
 [cite:@herbertDune1999]
+
+* Bibliography
+#+print_bibliography:

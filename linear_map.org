@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f68f9024-150b-404f-9c9c-54fe8b720e53
-:LAST_MODIFIED: [2023-10-30 Mon 07:53]
+:LAST_MODIFIED: [2023-11-02 Thu 08:37]
 :END:
 #+title: Linear map
 #+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
@@ -121,7 +121,7 @@ The dimension of the null space of a linear map.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   295.35 | 2023-10-31T23:12:04Z |
+| back     | 2.50 |   9 |   689.26 | 2025-09-21T21:46:27Z |
 | front    | 2.65 |   9 |   394.21 | 2024-06-07T20:58:50Z |
 :END:
 
@@ -135,6 +135,9 @@ $ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
 
 *** Source
 [cite:@KernelLinearAlgebra2022]
+
+* Bibliography
+#+print_bibliography:
 
 ** AKA :fc:
 :PROPERTIES:

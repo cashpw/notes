@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10a23a67-c60d-4591-8bb2-e87ca50b0e94
-:LAST_MODIFIED: [2023-10-17 Tue 01:14]
+:LAST_MODIFIED: [2023-11-02 Thu 08:27]
 :END:
 #+title: Sensemaking
 #+hugo_custom_front_matter: :slug "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
@@ -43,7 +43,7 @@ Weick identified seven properties of sensemaking [cite:@weickSensemakingOrganiza
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.92 | 2023-10-21T05:37:28Z |
+| front    | 2.50 |   5 |    39.49 | 2023-12-12T03:17:48Z |
 | back     | 2.50 |   4 |    14.60 | 2023-10-31T22:37:32Z |
 :END:
 
@@ -55,3 +55,6 @@ The process by which people give meaning to their collective experience. A proce
 
 *** Source
 [cite:@Sensemaking2023]
+
+* Bibliography
+#+print_bibliography:

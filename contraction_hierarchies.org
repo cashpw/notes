@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-10-30 Mon 07:52]
+:LAST_MODIFIED: [2023-11-02 Thu 08:17]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -310,6 +310,9 @@ Our query is correct no matter the order in which nodes were contracted, but a g
 *** Cost functions
 
 **** Edge difference
+:PROPERTIES:
+:ID:       b1fc3b42-5c07-4c22-b5ff-b7c341344155
+:END:
 
 #+begin_quote
 It turns out that the main function used to determine this cost involves simulating the contraction of each node. Given that all edges incident to a node are removed during contraction, we're interested in the edge difference of a node, which is the difference between the number of original edges removed and the number of shortcut edges added.
@@ -341,6 +344,9 @@ Before contracting the next minimum node, we recompute its edge difference. If i
 #+end_quote
 
 **** Contracted neighbors
+:PROPERTIES:
+:ID:       82c9b678-eedb-4367-843c-ae07b10e7f2f
+:END:
 
 #+begin_quote
 [...] we might consider the idea of uniformity to be important when contracting nodes. This means varying the location of nodes in terms of their contraction order.
@@ -523,17 +529,20 @@ We store a pointer to the interim vertex, $v$, when we contract $u, v, w$ into $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   1 |     1.00 | 2023-10-14T06:58:55Z |
+| front    | 2.20 |   0 |     0.00 | 2023-11-02T15:16:14Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:19:16Z |
 :END:
 
 Heuristics for choosing the order to contract vertices.
 
 *** Back
-- Edge difference
-- Contracted neighbors
+- [[id:b1fc3b42-5c07-4c22-b5ff-b7c341344155][Edge difference]]
+- [[id:82c9b678-eedb-4367-843c-ae07b10e7f2f][Contracted neighbors]]
 *** Source
 [cite:@lazarsfeldCoreComponentsCHChoosingNodeOrder]
+
+* Bibliography
+#+print_bibliography:
 ** Describe ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-06-16 Fri 16:19]

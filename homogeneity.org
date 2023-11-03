@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       65f61fff-628e-484a-baf5-785b37f7f28e
 :ROAM_REFS: [cite:@HomogeneousFunction2022]
-:LAST_MODIFIED: [2023-10-30 Mon 08:03]
+:LAST_MODIFIED: [2023-11-02 Thu 08:37]
 :END:
 #+title: Homogeneity
 #+hugo_custom_front_matter: :slug "65f61fff-628e-484a-baf5-785b37f7f28e"
@@ -58,7 +58,7 @@ The value of $k$ in $f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |  14 |   592.06 | 2025-05-16T08:23:15Z |
-| front    | 1.45 |   8 |    53.18 | 2023-10-28T19:43:12Z |
+| front    | 1.45 |   9 |    78.81 | 2024-01-20T11:08:00Z |
 :END:
 
 Homogeneous function
@@ -71,3 +71,6 @@ $f(\alpha\vec{x}, \alpha\vec{y}) = \alpha^kf(\vec{x}, \vec{y})$
 
 *** Source
 [cite:@HomogeneousFunction2022]
+
+* Bibliography
+#+print_bibliography:

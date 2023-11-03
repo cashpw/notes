@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2023-10-16 Mon 00:27]
+:LAST_MODIFIED: [2023-11-02 Thu 08:26]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -181,7 +181,7 @@ The largest output of a function over the function's domain.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   366.16 | 2024-02-12T03:40:00Z |
-| front    | 2.35 |   8 |   267.29 | 2023-10-28T23:28:26Z |
+| front    | 2.35 |   9 |   637.17 | 2025-07-31T19:29:05Z |
 :END:
 
 Global minima
@@ -191,6 +191,9 @@ The smallest output of a function over the function's domain.
 
 *** Source
 [cite:@MaximaMinima2022]
+
+* Bibliography
+#+print_bibliography:
 ** Definition (Math) :fc:
 :PROPERTIES:
 :ID:       d5fbb8e4-2b6b-4603-af66-10e605dc256a

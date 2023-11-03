@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-10-30 Mon 07:55]
+:LAST_MODIFIED: [2023-11-02 Thu 08:23]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -360,7 +360,7 @@ Pronounced: /y-oh-tah/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.50 |   8 |   291.77 | 2023-10-27T09:56:36Z |
+|        1 | 2.50 |   9 |   800.48 | 2026-01-11T02:57:21Z |
 |        0 | 2.65 |   9 |   360.08 | 2024-03-20T15:29:42Z |
 :END:
 
@@ -369,6 +369,8 @@ Pronounced: /cap-ah/
 
 *** Source
 
+* Bibliography
+#+print_bibliography:
 
 ** Greek letter {{kappa}@1}: {{$\kappa$}{lowercase}@0} :fc:
 :PROPERTIES:
