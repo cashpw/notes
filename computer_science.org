@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-11-03 Fri 07:42]
 :END:
 #+title: Computer science
 #+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
@@ -136,7 +136,7 @@ Floating and fixed point number representations
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
-| front    | 1.30 |  11 |    79.26 | 2023-10-22T21:29:16Z |
+| front    | 1.30 |   0 |     0.00 | 2023-11-03T14:42:21Z |
 :END:
 
 IMAP
@@ -146,6 +146,9 @@ Internet protocol used by email clients to retrieve email from a mail server ove
 
 *** TODO [#4] Source
 https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+
+* Bibliography
+#+print_bibliography:
 ** Definition (Information theory) :fc:
 :PROPERTIES:
 :ID:       0b73a544-dfc1-4507-a8b2-12e3d9f4f13a

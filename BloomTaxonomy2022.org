@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-11-02 Thu 08:26]
+:LAST_MODIFIED: [2023-11-03 Fri 07:29]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -182,7 +182,7 @@ Red undies attract all evil cats
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   179.81 | 2023-10-28T19:06:44Z |
+| front    | 2.05 |   0 |     0.00 | 2023-11-03T14:29:22Z |
 | back     | 2.80 |   7 |   412.12 | 2024-08-29T03:42:46Z |
 :END:
 

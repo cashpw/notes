@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       1a7234fe-a15c-4e46-ae92-6a940bc902ac
+:LAST_MODIFIED: [2023-11-03 Fri 11:39]
+:END:
+#+title: Knowledge shields
+#+hugo_custom_front_matter: :slug "1a7234fe-a15c-4e46-ae92-6a940bc902ac"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-03 Fri 11:37]
+#+filetags: :hastodo:concept:
+
+#+begin_quote
+- *Knowledge shields are the set of arguments learners can use to explain away data that challenge their mental models*
+
+  Knowledge shields pose a barrier to developing cognitive skills. People are skilled at holding onto cherished beliefs. The better the mental models, the easier it is to find flaws in disconfirming evidence and anomalous observations. The S-shaped learning curve reflects the increasing difficulty of replacing mental models as people's mental models become more accurate.
+
+- *Knowledge shields affect diagnosis*
+
+  Active learners try to overcome their limitations, but they need to understand what those limitations are. Knowledge shields based on poor mental models can lead learners to the wrong diagnoses of their poor performance.
+
+- *Knowledge shields affect feedback*
+
+  In building mental models about complex situations, people receive a lot of feedback. However, the knowledge shields enable people to discard or neutralize contradictory data.
+
+[formatting mine] [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
+#+end_quote
+* Bibliography
+#+print_bibliography:
+* TODO [#2] Flashcards :noexport:

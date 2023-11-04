@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7c49d995-a4d4-4c95-84c0-9dae9d8ab498
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/7c49d995-a4d4-4c95-84c0-9dae9d8ab498
-:LAST_MODIFIED: [2023-10-25 Wed 19:12]
+:LAST_MODIFIED: [2023-11-03 Fri 07:32]
 :END:
 #+title: The first lesson
 #+hugo_custom_front_matter: :slug "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
@@ -31,11 +31,13 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   160.17 | 2023-10-24T16:36:32Z |
+|        0 | 2.20 |   8 |   334.53 | 2024-10-03T03:21:49Z |
 :END:
 
 *** Source
 [cite:@herbertDune1999]
+* Bibliography
+#+print_bibliography:
 ** And the first lesson of all was {{the basic trust that he could learn}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-26 Sat 06:43]

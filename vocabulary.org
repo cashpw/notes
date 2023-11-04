@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-11-02 Thu 08:23]
+:LAST_MODIFIED: [2023-11-03 Fri 08:05]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -127,7 +127,7 @@ A dislike of humankind.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   6 |    40.14 | 2023-10-07T16:10:02Z |
+| back     | 1.75 |   7 |    68.41 | 2024-01-11T00:51:42Z |
 | front    | 2.60 |  12 |   413.50 | 2024-11-01T03:08:33Z |
 :END:
 1. Forming a small remnant of something that was once much larger or more noticeable
@@ -279,7 +279,7 @@ The action of stopping someone from being angry; placation
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    65.61 | 2023-10-31T05:17:03Z |
+| front    | 2.20 |   7 |   153.47 | 2024-04-05T01:48:43Z |
 | back     | 2.95 |   6 |   131.49 | 2023-12-02T15:37:22Z |
 :END:
 Exaggerated, dramatic, behavior designed to attract attention.

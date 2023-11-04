@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bb89b03a-068d-49b1-a25f-d9c4924558b3
 :ROAM_REFS: [cite:@AdmissibleHeuristic2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-03 Fri 07:43]
 :END:
 #+title: Admissible heuristic
 #+hugo_custom_front_matter: :slug "bb89b03a-068d-49b1-a25f-d9c4924558b3"
@@ -29,7 +29,7 @@ See also [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   184.06 | 2023-11-21T02:03:30Z |
-| back     | 1.90 |   7 |    84.77 | 2023-11-02T19:03:15Z |
+| back     | 1.90 |   8 |   156.93 | 2024-04-08T13:07:36Z |
 :END:
 
 [[id:bb89b03a-068d-49b1-a25f-d9c4924558b3][Admissible heuristic]]
@@ -38,3 +38,5 @@ See also [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]].
 A heuristic function which never overestimates the cost of reaching the goal.
 *** Source
 [cite:@AdmissibleHeuristic2022]
+* Bibliography
+#+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@caplanCaseEducationWhyEducationSystemWasteTimeMoney2018]
 :ID:       8ecb934d-da88-40f4-851b-1fd5f2efd0ad
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-03 Fri 15:03]
 :END:
 #+title: Bryan Caplan | The Case against Education: Why the Education System Is a Waste of Time and Money
 #+hugo_custom_front_matter: :slug "8ecb934d-da88-40f4-851b-1fd5f2efd0ad"
@@ -16,3 +16,5 @@
 The general thrust that formal education is rife with [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]] and [[id:064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4][X isn't (only) about Y]]-type cases rings true. However, I disagree with the degree; [[id:a2e19c5c-0969-49ae-a0c2-740fc61279c3][Yes, and]]. Education /is/ about signaling /and/ it's about learning, and more. [[id:a66b0533-194f-45a4-92d5-9db81589f715][Truth resists simplicity]]. Viewing education through the [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]] lens is useful and correct but it's not the only correct lens we can or should use.
 * TODO [#2] Notes
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-11-02 Thu 08:24]
+:LAST_MODIFIED: [2023-11-03 Fri 07:28]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -849,7 +849,7 @@ Roughly, "To be evaluated at compile time"
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   0 |     0.00 | 2023-11-02T15:24:30Z |
+| front    | 2.05 |   1 |     1.00 | 2023-11-04T14:28:27Z |
 :END:
 
 =constexpr= and =consteval= (C++ functions)

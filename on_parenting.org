@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3b7896cb-c4bd-4036-976b-ab5c92a2b453
-:LAST_MODIFIED: [2023-11-01 Wed 07:30]
+:LAST_MODIFIED: [2023-11-03 Fri 17:57]
 :END:
 #+title: On parenting
 #+hugo_custom_front_matter: :slug "3b7896cb-c4bd-4036-976b-ab5c92a2b453"
@@ -8,11 +8,296 @@
 #+date: [2023-10-24 Tue 17:39]
 #+filetags: :hastodo:concept:
 
-A mega-note for all the parenting related topics I want to keep for future reference.
+A mega-note for all the parenting related topics I want to keep for future reference. My goal is to collect thoughts here and split topics off into [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][atomic]] notes as such atomic concepts emerge.
 
 * Parenting idea: require (pay/reward?) children to give a lesson weekly(?) on something from school, it what they've learned that week in their hobbies, sports, etc, to entourage deeper learning through teaching and a family culture of lifelong learning. Parents would do this as well. :noexport:
 :PROPERTIES:
 :CREATED:  [2023-09-30 Sat 12:15]
 :END:
 
+* Misc
+
+- Smart kids should consider skipping high school and going directly to college; or supplementing high school with college
+- [[id:75056a2e-6b7a-4764-b93c-d08aa3a99a42][Children burn out fast]]
+- Know CPR and basic first aid
+
+* On interacting with kids
+
+- How to Talk series
+  - [cite:@faberHowTalkKidsWillListenListenKidsWillTalk1999]
+  - [cite:@faberHowTalkLittleKidsWillListenSurvivalGuideLifeChildren2017]
+    - [cite:@weftBookReviewHowTalkLittleKidsWillListen]
+  - [cite:@faberHowTalkWhenKidsWonListenWhiningFightingMeltdownsDefiance2021]
+  - Use "Yes, and", "Yes, but", and "Yes, if" rather than "No" whenever possible
+    - e.g. Can I read that book? Yes, but you have to put it away.
+    - e.g. Will you take me to the swimming pool? Yes, if you finish your chores.
+    - e.g. Can I have another snack? Yes, if you wash your dishes.
+
+* Teaching
+** To read
+- [[id:a0b7f03a-9c15-4bf0-ae71-2cd4bca3e715][Read what you love until you love to read]]
+- [cite:@tracingwoodgrainsBookReviewishWikipediaCofounderLarrySangerEssayTeachingReadingYear2018] and comments
+- [cite:@engelmanTeachYourChildRead100EasyLessons05]
+  - Supplemental material: [cite:@VideosSupplementalMaterialTeachYourChildRead100EasyLessons]
+** TODO Independence, confidence, self-assurance
+** TODO Use of spaced repetition
+** TODO Math
+- [[id:4c407900-03c1-40f0-85c6-9852da004f16][Learn math]]
+
+* On technology
+
+- Generally speaking, limit access to consumption-oriented activities and toward creation-oriented activities.
+  - YouTube, for example, can be both.
+  - This isn't a 0%/100% divide
+- Hold yourself to the same standards, within reason
+- Use a pi-hole or equivalent to block junk like ads and some of the web
+
+* On learning to parent
+
+- Find and maintain a social network of other parents
+- Find one or two mentors
+- Read reflections from parents
+  - [cite:@jasoncrawfordReflectionsSixMonthsFatherhood]
+
+* How much time children take up
+- [[id:401eb269-861d-445a-847f-88f89c5c5971][Gunnar Zarncke | Child Development Plan - Years]]
+
+
+
+* Alternative education styles
+
+- https://catherineproject.org/principles
+
+:PROPERTIES:
+:CREATED: [2021-12-21 20:36]
+:END:
+
+* Fitness and education
+
+** TODO When can/should kids start lifting weights?
+** TODO How to foster flexibility?
+
+* TODO [cite:@lululu1uChildRearingItGoodIdea2021]
+* TODO [cite:@supposedlyfunSuccessfulMentoringParentingArrangedLessWrong]
+* TODO https://www.lesswrong.com/tag/parenting
+* TODO [#2] [[https://www.lesswrong.com/posts/dyJfGeWo5GX2u6NGi/experiences-raising-children-in-shared-housing][Experiences raising children in shared housing]] :parenting:
+* TODO [#2] [[https://perell.com/essay/the-price-of-discipline/][The Price of Discipline]] :parenting:essay:
+:PROPERTIES:
+:CREATED: [2021-12-31 09:57]
+:END:
+
+* TODO [#2] https://news.ycombinator.com/item?id=19396563 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=20173675 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=26047444 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=28112797 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=12742853 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=15800082 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=18995823 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=22913871 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=18953889 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=26249242 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=3149170 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=20015775 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=31793682 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=23010079 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=3551747 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=12345598 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=10458750 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=16639605 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=28669843 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=17023693 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=5682283 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=15253072 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=14268528 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=10529467 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=25603490 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=10404312 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=9141892 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=16882430 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=24189147 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=21043214 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=18848961 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=17685990 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=1494011 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=19183022 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=9793769 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=21338386 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=1679184 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=16810709 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=29252974 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=26444521 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=12879330 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=17601057 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=32366557 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=15529271 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=12050182 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=24383264 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=13450223 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=20077766 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=12441749 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=2973906 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=21167957 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=1176200 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=5543512 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=21053211 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=29223104 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=10113901 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://news.ycombinator.com/item?id=26343160 :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/tuesday-family-dinner :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/pretending-not-to-notice :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/perverse-independence-incentives :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/approach-to-screen-time :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/only-asking-real-questions :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/another-calming-example :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/kids-posts-retrospective :parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/p/index :link_group:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.jefftk.com/news/kids :link_group:parenting:
+:PROPERTIES:
+:END:
+* TODO [#2] https://www.lesswrong.com/tag/parenting :parenting:link_group:
+:PROPERTIES:
+:END:
+* TODO https://news.ycombinator.com/item?id=21790396
+* TODO [#2] [[https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c][Team led by Japanese researchers reveals best way to put crying baby to sleep]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-09-15 23:30]
+:END:
+* TODO [#2] [[https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf][A method to promote sleep in crying infants using the transport response [pdf]]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-09-15 00:06]
+:END:
+
 * TODO [#2] Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:

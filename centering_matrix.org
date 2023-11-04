@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       87b4549f-d8f7-44ec-b11e-4fa14166f157
-:LAST_MODIFIED: [2023-10-02 Mon 23:20]
+:LAST_MODIFIED: [2023-11-03 Fri 07:42]
 :END:
 #+title: Centering matrix
 #+hugo_custom_front_matter: :slug "87b4549f-d8f7-44ec-b11e-4fa14166f157"
@@ -29,7 +29,7 @@ In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |  14 |   569.22 | 2025-01-17T22:31:39Z |
-|        1 | 1.90 |   6 |    35.51 | 2023-10-23T11:29:58Z |
+|        1 | 2.05 |   7 |    72.02 | 2024-01-14T15:05:55Z |
 :END:
 
 [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]]
@@ -39,6 +39,8 @@ In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1
 
 *** Source
 [cite:@CenteringMatrix2021]
+* Bibliography
+#+print_bibliography:
 
 ** {{$C_n \vec{v}$}{matrix}@0} \(=\) {{$\vec{v} - \operatorname{avg}(\vec{v})\vec{1}$}{function}@1} :fc:
 :PROPERTIES:

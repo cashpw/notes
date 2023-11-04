@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-11-02 Thu 08:23]
+:LAST_MODIFIED: [2023-11-03 Fri 08:05]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -217,7 +217,7 @@ Where $\theta$ is the angle across from side $c$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   284.87 | 2023-10-15T13:35:06Z |
+| back     | 2.80 |  10 |   768.83 | 2025-12-11T10:58:08Z |
 | front    | 2.35 |   9 |   347.10 | 2024-02-20T05:12:55Z |
 :END:
 
@@ -2539,7 +2539,7 @@ Unit ramp function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |  10 |   272.69 | 2023-10-31T06:56:07Z |
+| back     | 2.20 |   0 |     0.00 | 2023-11-03T14:27:37Z |
 | front    | 2.80 |   8 |   341.44 | 2024-01-14T14:31:49Z |
 :END:
 

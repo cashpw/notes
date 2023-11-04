@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       802975de-8d22-45a7-a0fb-8751ebbce738
-:LAST_MODIFIED: [2023-09-30 Sat 00:52]
+:LAST_MODIFIED: [2023-11-03 Fri 07:41]
 :END:
 #+title: He does not love his cat, but his cat's kittens
 #+hugo_custom_front_matter: :slug "802975de-8d22-45a7-a0fb-8751ebbce738"
@@ -27,10 +27,13 @@ The "purposive" man is always trying to secure a spurious and delusive immortali
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   5 |    27.02 | 2023-10-27T08:23:50Z |
+|        0 | 2.20 |   6 |    57.71 | 2023-12-31T07:43:23Z |
 :END:
 
 {{The "purposive" man is always trying to secure a spurious and delusive immortality for his acts by pushing his interest in them forward into time. He does not love his cat, but his cat's kittens; nor, in truth, the kittens, but only the kittens' kittens, and so on forward forever to the end of cat-dom.}{purposive man}@0}
 
 *** Source
 [cite:@keynesEssaysPersuasion2010]
+
+* Bibliography
+#+print_bibliography:

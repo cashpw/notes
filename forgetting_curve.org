@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9373ca2c-77ee-4874-8dfd-fb2f8997fb8f
-:LAST_MODIFIED: [2023-10-12 Thu 23:53]
+:LAST_MODIFIED: [2023-11-03 Fri 07:27]
 :END:
 #+title: Forgetting curve
 #+hugo_custom_front_matter: :slug "9373ca2c-77ee-4874-8dfd-fb2f8997fb8f"
@@ -40,7 +40,7 @@ A representation of [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   177.06 | 2023-10-23T15:59:49Z |
+| front    | 2.50 |   8 |   428.16 | 2025-01-04T18:19:38Z |
 | back     | 2.35 |   7 |   153.64 | 2024-03-14T22:11:57Z |
 :END:
 
@@ -50,3 +50,5 @@ A representation of [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition
 Graphical representation of recall rate over time.
 *** Source
 [cite:@ForgettingCurve2022]
+* Bibliography
+#+print_bibliography:

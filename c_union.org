@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6f967c9a-b981-43f8-86cb-0f096639bdfb
-:LAST_MODIFIED: [2023-10-30 Mon 08:00]
+:LAST_MODIFIED: [2023-11-03 Fri 07:30]
 :END:
 #+title: C++ union
 #+hugo_custom_front_matter: :slug "6f967c9a-b981-43f8-86cb-0f096639bdfb"
@@ -24,7 +24,7 @@ A union is a struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] in
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    97.98 | 2023-10-22T13:23:30Z |
+| front    | 2.50 |   7 |   266.05 | 2024-07-26T15:42:16Z |
 | back     | 2.65 |   6 |   102.05 | 2023-11-14T16:18:54Z |
 :END:
 
@@ -34,6 +34,9 @@ A union is a struct [[[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]]] in
 A [[id:77af446a-bdc3-4800-b72e-240b66e69154][C++ struct]] which allocates all members into the same address; the size of the [...] is only as large as its largest member.
 *** Source
 [cite:@stroustrupTour2022]
+
+* Bibliography
+#+print_bibliography:
 ** Cloze (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 10:16]

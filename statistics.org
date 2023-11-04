@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-11-02 Thu 08:27]
+:LAST_MODIFIED: [2023-11-03 Fri 07:30]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -244,7 +244,7 @@ The difference between $f$ and $\hat{f}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |  10 |   290.15 | 2023-10-20T20:13:49Z |
+|        0 | 2.80 |  11 |   806.59 | 2026-01-18T04:35:21Z |
 |        1 | 2.20 |   7 |   165.75 | 2023-09-13T09:28:23Z |
 |        2 | 2.80 |   8 |   281.02 | 2023-12-02T04:15:26Z |
 :END:

@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@NoWayPreventThisSaysOnlyNationWhereThisRegularly]
 :ID:       23e6f659-2519-4228-8813-01f4bc25518c
 :ROAM_ALIASES: "No Way To Prevent This"
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-03 Fri 07:38]
 :END:
 #+title: The Onion | `No Way To Prevent This,' Says Only Nation Where This Regularly Happens
 #+hugo_custom_front_matter: :slug "23e6f659-2519-4228-8813-01f4bc25518c"
@@ -31,7 +31,7 @@ VIRGINIA BEACH, VA—In the hours following a violent rampage in Virginia in whi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   497.42 | 2024-12-30T23:26:57Z |
-| back     | 2.50 |   7 |   175.82 | 2023-10-29T13:27:45Z |
+| back     | 2.50 |   8 |   408.41 | 2024-12-16T00:30:51Z |
 :END:
 
 [[id:23e6f659-2519-4228-8813-01f4bc25518c][The Onion | `No Way To Prevent This,' Says Only Nation Where This Regularly Happens]]
@@ -40,3 +40,5 @@ VIRGINIA BEACH, VA—In the hours following a violent rampage in Virginia in whi
 The United States sees more mass shootings than other nations and yet, despite being an outlier, espouse that there's nothing to be done to prevent them.
 *** Source
 [cite:@NoWayPreventThisSaysOnlyNationWhereThisRegularly]
+* Bibliography
+#+print_bibliography:

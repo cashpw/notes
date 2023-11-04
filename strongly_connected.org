@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       644adb16-7921-4499-aaf9-6ff29819ed6d
-:LAST_MODIFIED: [2023-10-30 Mon 08:15]
+:LAST_MODIFIED: [2023-11-03 Fri 07:29]
 :END:
 #+title: Connected relationship
 #+hugo_custom_front_matter: :slug "644adb16-7921-4499-aaf9-6ff29819ed6d"
@@ -61,7 +61,7 @@ $xRy \quad \text{or} \quad yRx \quad \text{or} \quad x = y$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   532.88 | 2025-04-15T12:19:54Z |
-| back     | 1.30 |   7 |    13.86 | 2023-10-25T17:56:06Z |
+| back     | 1.30 |   8 |    19.33 | 2023-11-22T22:23:12Z |
 :END:
 
 [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
@@ -72,6 +72,8 @@ A relation $R$ on a set $X$ is ... when $\forall\; x,y \in X$:
 $xRy \quad \text{or} \quad yRx$
 *** Source
 [cite:@ConnectedRelation2022]
+* Bibliography
+#+print_bibliography:
 ** Compare and contrast :fc:
 :PROPERTIES:
 :CREATED: [2022-11-14 Mon 16:00]

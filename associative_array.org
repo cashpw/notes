@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       efd422ba-2509-48c9-b267-265f3c369462
-:LAST_MODIFIED: [2023-10-06 Fri 00:32]
+:LAST_MODIFIED: [2023-11-03 Fri 07:36]
 :END:
 #+title: Associative array
 #+hugo_custom_front_matter: :slug "efd422ba-2509-48c9-b267-265f3c369462"
@@ -36,6 +36,8 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 
 *** Back
 A [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a collection of =key, value= pairs such that each possible key appears at most once in the collection.
+* Bibliography
+#+print_bibliography:
 
 *** Source
 [cite:@AssociativeArray2022]

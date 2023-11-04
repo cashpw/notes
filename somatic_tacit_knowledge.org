@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       42fb5f3a-ce78-4d22-86e6-0ee2bcad8908
-:LAST_MODIFIED: [2023-10-06 Fri 00:27]
+:LAST_MODIFIED: [2023-11-03 Fri 07:37]
 :END:
 #+title: Somatic tacit knowledge
 #+hugo_custom_front_matter: :slug "42fb5f3a-ce78-4d22-86e6-0ee2bcad8908"
@@ -24,7 +24,7 @@ Somatic tacit knowledge — Knowledge that is tacit because it has to do with th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    16.44 | 2023-10-19T16:59:38Z |
+| front    | 2.50 |   5 |    44.31 | 2023-12-17T22:01:21Z |
 | back     | 2.35 |   4 |    14.56 | 2023-10-20T20:48:09Z |
 :END:
 
@@ -34,3 +34,5 @@ Somatic tacit knowledge — Knowledge that is tacit because it has to do with th
 Knowledge about things we do with our bodies. It's ... because one can only really learn to, for example, ride a bike through physical practice.
 *** Source
 [cite:@chinThreeKindsTacitKnowledge2020]
+* Bibliography
+#+print_bibliography:

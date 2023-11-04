@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e3915b9e-665b-4da5-b2ec-42ba090918c9
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-11-03 Fri 07:44]
 :END:
 #+title: Innovator's dilemma
 #+hugo_custom_front_matter: :slug "e3915b9e-665b-4da5-b2ec-42ba090918c9"
@@ -36,7 +36,7 @@ Clayton Christensen demonstrates how successful, outstanding companies can do ev
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   309.58 | 2024-04-30T07:41:09Z |
-| back     | 2.20 |   7 |   167.26 | 2023-10-29T23:29:41Z |
+| back     | 1.90 |   0 |     0.00 | 2023-11-03T14:44:49Z |
 :END:
 
 [[id:e3915b9e-665b-4da5-b2ec-42ba090918c9][Innovator's dilemma]]
@@ -47,6 +47,8 @@ Clayton Christensen demonstrates how successful, outstanding companies can do ev
 - Eventually, Company B can take market share from Company A once their offering is good enough to compete
 *** Source
 [cite:@InnovatorDilemma2022]
+* Bibliography
+#+print_bibliography:
 ** Describe
 :PROPERTIES:
 :CREATED: [2022-12-14 Wed 10:36]

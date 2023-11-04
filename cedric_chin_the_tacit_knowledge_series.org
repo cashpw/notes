@@ -1,25 +1,28 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinTacitKnowledgeSeries2020]
 :ID:       96c1f65b-0c31-4478-8717-8c33743a9e94
-:LAST_MODIFIED: [2023-09-22 Fri 06:52]
+:LAST_MODIFIED: [2023-11-03 Fri 08:30]
 :END:
 #+title: Cedric Chin | The Tacit Knowledge Series
 #+hugo_custom_front_matter: :slug "96c1f65b-0c31-4478-8717-8c33743a9e94"
 #+author: Cash Weaver
 #+date: [2023-06-27 Tue 18:13]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinTacitKnowledgeSeries2020]
 
-* INPROGRESS Summary
+* Summary
 
 This is a summary of summaries and will necessarily omit some interesting details. Use this to determine whether you want to read the whole series.
 
-What's the most effective way for one to become an expert in a subject? Ideally you'd use [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]. However, that's not possible most of the time because the subject in question must have a "long history of well-established pedagogy" [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020] (e.g. math, music, and chess). For any other subjects: focus on [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] and acquiring [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]].
+What's the most effective way for one to become an expert in a subject?
 
-[[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] is the "between-the-lines" know-how. It's what separates proficient individuals from experts. Traditionally it's acquired by doing the relevant thing for a long time. However, that takes a long time. Instead, recognize that expertise, and tacit knowledge by extension, boils down to [[id:b481f4e5-63b4-4455-8406-49825121b06c][pattern matching]], specifically [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]] making, and work to [[id:ba1c4d11-bcfa-4844-b65e-2c59fe7a9422][improve]] this ability through simulations. [[id:c8308617-539e-4933-adf1-9b6aab7cb714][Prefer simulations that already exist]]. When necessary, use [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]] to extract expertise from specific experts.
+Schooling typically emphasizes developing along a hierarchy of skills. However, that's [[id:f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb][not an effective method]] for developing expertise.
 
-What about establishing a hierarchy of skills and progressing through them? That's how the schooling I'm familiar with did things. It turns out that's [[id:f7eeed27-4fdb-4ebc-8ac0-8b2c2e58dcbb][not an effective method]] for developing expertise.
+Ideally you'd use [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]. However, that's not possible most of the time because deliberate practice is only strictly possible for subjects with a "long history of well-established pedagogy" [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020] (e.g. math, music, and chess). For other subjects (e.g. business, sales, singing): focus on [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] and acquiring [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]].
+
+[[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] is the "between-the-lines" know-how. It's what separates proficient individuals from experts. Traditionally it's acquired by doing the relevant thing for a long time. Can we accelerate the acquisition of tacit knowledge? Yes! Expertise, and tacit knowledge by extension, boils down to [[id:b481f4e5-63b4-4455-8406-49825121b06c][pattern matching]], specifically [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]] making. [[id:ba1c4d11-bcfa-4844-b65e-2c59fe7a9422][Improve]] by working through simulations. [[id:c8308617-539e-4933-adf1-9b6aab7cb714][Prefer simulations that already exist]]. When necessary, use [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]] to extract expertise from specific experts.
+
 * Series
 1. [[id:bcba3e46-9cde-4555-accb-ec73e4f0fc4c][Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice]]
    - Tacit knowledge is more useful than deliberate practice when the subject you're trying to learn isn't "well defined". "... deliberate practice is defined as possible /only/ in domains with a long history of well-established pedagogy. In other words, deliberate practice *can only exist in fields like music and math and chess*."
@@ -50,3 +53,6 @@ Related:
 - The [[id:731b4023-79ea-4671-9de9-2079008f14df][final entry in the series]] is also the first in [[id:5e6ac16d-668c-455b-931a-15bc1a482603][another series]]. This is a clever way to lead readers along between sequences/series. The two series are distinct enough that they can stand alone but connected enough that someone who reads one is likely to also want to read the other.
 
 * Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:

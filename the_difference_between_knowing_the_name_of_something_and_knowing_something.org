@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       75f5bb46-04f2-4fdd-ae12-db9607773b98
-:LAST_MODIFIED: [2023-10-06 Fri 00:28]
+:LAST_MODIFIED: [2023-11-03 Fri 07:45]
 :ROAM_REFS: [cite:@FeynmanKnowingAnecdote]
 :END:
 #+title: The difference between knowing the name of something and knowing something
@@ -29,7 +29,7 @@ My father taught me to notice things. One day, I was playing with an "express wa
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   212.43 | 2024-05-05T17:52:02Z |
-| back     | 2.50 |   6 |    94.72 | 2023-10-26T21:16:02Z |
+| back     | 2.50 |   7 |   237.26 | 2024-06-27T21:03:44Z |
 :END:
 
 [[id:75f5bb46-04f2-4fdd-ae12-db9607773b98][The difference between knowing the name of something and knowing something]]
@@ -38,3 +38,5 @@ My father taught me to notice things. One day, I was playing with an "express wa
 Knowledge enough to identify something isn't the same as understanding enough to explain it.
 *** Source
 [[id:81c3d1db-a79d-4df0-b8f5-cae2cb096d75][Richard Feynman]]
+* Bibliography
+#+print_bibliography:

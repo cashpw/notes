@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f85a49e5-6718-4da8-b325-22b23a44985f
 :ROAM_ALIASES: RPC
-:LAST_MODIFIED: [2023-09-18 Mon 08:49]
+:LAST_MODIFIED: [2023-11-03 Fri 07:43]
 :ROAM_REFS: [cite:@RemoteProcedureCall2023]
 :END:
 #+title: Remote procedure call
@@ -51,10 +51,13 @@ The programmer writing the call doesn't have to explicitly code the details of t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   6 |   139.87 | 2023-11-01T21:36:44Z |
+|        0 | 2.80 |   7 |   373.73 | 2024-11-11T08:10:53Z |
 :END:
 
 The programmer making a [[id:f85a49e5-6718-4da8-b325-22b23a44985f][Remote procedure call]] {{doesn't}{yes/no}@0} has to deal with the details of the remote interaction.
 
 *** Source
 [cite:@RemoteProcedureCall2023]
+
+* Bibliography
+#+print_bibliography:

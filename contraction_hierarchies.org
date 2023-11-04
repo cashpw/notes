@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-11-02 Thu 08:17]
+:LAST_MODIFIED: [2023-11-03 Fri 08:05]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -408,7 +408,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-10-03T06:04:41Z |
+| front    | 2.50 |   0 |     0.00 | 2023-11-03T15:05:46Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:20:40Z |
 :END:
 
@@ -488,7 +488,7 @@ We contract $v$ when the path $u, v, w$ is the shortest path from $u$ to $w$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-10-17T21:07:11Z |
+| front    | 2.50 |   4 |    14.00 | 2023-11-17T14:20:49Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:49:21Z |
 :END:
 

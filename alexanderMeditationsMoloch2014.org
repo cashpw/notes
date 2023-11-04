@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderMeditationsMoloch2014]
 :ID:       1bba449a-48eb-479a-be4d-a4d7f8095b6a
-:LAST_MODIFIED: [2023-10-30 Mon 08:16]
+:LAST_MODIFIED: [2023-11-03 Fri 08:31]
 :END:
 #+title: Scott Alexander | Meditations On Moloch
 #+hugo_custom_front_matter: :slug "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
 #+author: Cash Prokop-Weaver
 #+date: [2022-03-13 Sun 20:30]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
  
 [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderMeditationsMoloch2014]
 
@@ -105,7 +105,7 @@ From a god's-eye-view, if everyone agrees not to take on a second job to help wi
 A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don't take it die out. Eventually, everyone's relative status is about the same as before, but everyone's absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse.
 #+end_quote
 
-*** TODO [#0] Reference star wars "make the only choice we can" choice
+[[id:13a2caaf-0e86-44b0-8500-11a9e2ffa5f3][The right path? No. The only path? Yes.]]
 
 ** III
 
@@ -354,3 +354,5 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 Only another god can defeat [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]. [[id:d263a9a2-ed45-438b-a390-7f205f383d54][The opposite of a trap is a garden]].
 *** Source
 [cite:@alexanderMeditationsMoloch2014]
+* Bibliography
+#+print_bibliography:

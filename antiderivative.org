@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dafe179-aeb8-4718-9eb8-ac96a27f9a58
-:LAST_MODIFIED: [2023-10-17 Tue 01:06]
+:LAST_MODIFIED: [2023-11-03 Fri 07:37]
 :ROAM_ALIASES: "Indefinite integral"
 :END:
 #+title: Antiderivative
@@ -117,7 +117,7 @@ $F(x)=$ {{$\frac{x^3}{3} + c$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    35.74 | 2023-10-31T07:10:02Z |
+|        0 | 2.50 |   6 |    89.93 | 2024-02-01T12:55:25Z |
 |        1 | 2.20 |   5 |    26.11 | 2023-11-12T10:45:00Z |
 :END:
 
@@ -125,3 +125,6 @@ $F(x)=$ {{$\frac{x^3}{3} + c$}@0}
 
 *** Source
 [cite:@FundamentalTheoremCalculus2022]
+
+* Bibliography
+#+print_bibliography:

@@ -2,7 +2,7 @@
 :ID:       fa7e7f3e-1fb6-4769-81cd-c2a200b2becf
 :ROAM_ALIASES: "One must imagine Sisyphus happy"
 :ROAM_REFS: [cite:@camusMythSisyphusOtherEssays1991]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-11-03 Fri 07:45]
 :END:
 #+title: The struggle itself toward the heights is enough to fill a man's heart
 #+hugo_custom_front_matter: :slug "fa7e7f3e-1fb6-4769-81cd-c2a200b2becf"
@@ -29,8 +29,11 @@ The struggle itself toward the heights is enough to fill a man's heart. One must
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |  12 |    61.80 | 2023-11-02T09:32:20Z |
+|        0 | 1.30 |  13 |    79.21 | 2024-01-21T19:41:34Z |
 :END:
 
 *** Source
 [cite:@camusMythSisyphusOtherEssays1991]
+
+* Bibliography
+#+print_bibliography:

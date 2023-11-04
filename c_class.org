@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b3c25e15-f426-41d3-ae97-925da325ed73
-:LAST_MODIFIED: [2023-10-30 Mon 08:15]
+:LAST_MODIFIED: [2023-11-03 Fri 07:47]
 :END:
 #+title: C++ class
 #+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
@@ -112,7 +112,7 @@ A class which behaves just like built-in types. It has no abstract methods.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   216.26 | 2024-06-02T21:33:21Z |
-| back     | 2.35 |   6 |    79.03 | 2023-10-26T15:53:21Z |
+| back     | 2.20 |   7 |   159.57 | 2024-04-11T04:33:34Z |
 :END:
 
 [[id:1434196d-1ed2-44dd-bbf8-a3e57f0eff28][Abstract class]]
@@ -121,6 +121,9 @@ A class which behaves just like built-in types. It has no abstract methods.
 A class with at least one method which another class must implement.
 *** Source
 [cite:@stroustrupTour2022]
+
+* Bibliography
+#+print_bibliography:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 09:44]

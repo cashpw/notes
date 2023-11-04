@@ -2,7 +2,7 @@
 :ID:       2eae74ba-4003-45cf-8425-7291aaa7a537
 :ROAM_ALIASES: "Abstract data types" ADT
 :ROAM_REFS: [cite:@AbstractDataType2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-03 Fri 07:41]
 :END:
 #+title: Abstract data type
 #+hugo_custom_front_matter: :slug "2eae74ba-4003-45cf-8425-7291aaa7a537"
@@ -30,13 +30,17 @@ In computer science, an abstract data type (ADT) is a mathematical model for dat
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   8 |   288.11 | 2023-12-05T23:58:21Z |
-| front    | 2.05 |   6 |    54.30 | 2023-10-29T01:06:04Z |
+| front    | 2.05 |   7 |   102.51 | 2024-02-14T03:01:18Z |
 :END:
+
 [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]
+
 *** Back
 A mathematical model for data types which is defined by its behavior from the point of view of the user (i.e. analogous to an interface or API).
 *** Source
 [cite:@AbstractDataType2022]
+* Bibliography
+#+print_bibliography:
 ** Compare/Contrast :fc:
 :PROPERTIES:
 :ID:       40945ea3-44b0-48c5-9c27-735057ce9b03

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ef21ad22-553d-432e-a4e2-bdc404009c87
-:LAST_MODIFIED: [2023-10-15 Sun 23:28]
+:LAST_MODIFIED: [2023-11-03 Fri 07:44]
 :END:
 #+title: Delta (finance)
 #+hugo_custom_front_matter: :slug "ef21ad22-553d-432e-a4e2-bdc404009c87"
@@ -83,11 +83,14 @@ $\dots = \frac{\partial V}{\partial S}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.80 |   7 |   379.00 | 2024-06-29T14:02:39Z |
-|        0 | 1.75 |   8 |   140.28 | 2023-10-23T06:48:56Z |
+|        0 | 1.75 |   9 |   255.32 | 2024-07-15T22:18:40Z |
 :END:
 
 *** Source
 [cite:@WhatDeltaDerivativesTradingHowDoesItWork]
+
+* Bibliography
+#+print_bibliography:
 ** A [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]] of +0.30 for a [[id:15f1b0b2-6f51-40de-93c9-77980744a483][option]] implies {{the value of the option will rise 0.30-points for every 1-point rise in the underlying security}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 17:26]

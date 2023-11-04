@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       846cdec4-5f6c-4dd9-99a4-d30ea0b61180
 :ROAM_REFS: [cite:@PassiveHouse2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-11-03 Fri 07:28]
 :END:
 #+title: Passive house
 #+hugo_custom_front_matter: :slug "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
@@ -29,7 +29,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    71.41 | 2023-11-03T02:27:52Z |
+| front    | 2.35 |   7 |   154.44 | 2024-04-06T00:58:04Z |
 | back     | 2.35 |   6 |    81.28 | 2023-11-16T20:38:02Z |
 :END:
 
@@ -39,3 +39,5 @@
 A building standard which emphasizes energy efficiency via super-insulation, passive solar, air-tightness, and advanced window technology.
 *** Source
 [cite:@PassiveHouse2022]
+* Bibliography
+#+print_bibliography:

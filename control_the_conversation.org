@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24cb7271-441f-447e-9150-b4f44fc6d947
-:LAST_MODIFIED: [2023-10-30 Mon 08:14]
+:LAST_MODIFIED: [2023-11-03 Fri 07:33]
 :END:
 #+title: Control the conversation
 #+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
@@ -40,7 +40,7 @@ Make sure people are talking about what you want them to talk about and in ways 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   0 |     0.00 | 2023-10-30T15:14:31Z |
+| front    | 2.20 |   0 |     0.00 | 2023-11-03T14:33:19Z |
 | back     | 2.35 |   8 |   362.88 | 2024-09-18T11:26:09Z |
 :END:
 [[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]] as an argument strategy
@@ -48,6 +48,8 @@ Make sure people are talking about what you want them to talk about and in ways 
 Treat your opponent as if they've already agreed to your position and make the next argument. The goal is to have the audience perceive your opponent ([[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]) as conceding every time you move the argument.
 *** Source
 [cite:@danskinControlConversation2017]
+* Bibliography
+#+print_bibliography:
 ** Example(s) :fc:
 :PROPERTIES:
 :ID:       25b0de1c-5482-4387-9dee-6514f6790e2b

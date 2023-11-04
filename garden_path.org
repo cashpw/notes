@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3f513197-b379-4b8b-b918-21100005e18a
-:LAST_MODIFIED: [2023-10-30 Mon 07:57]
+:LAST_MODIFIED: [2023-11-03 Fri 07:45]
 :END:
 #+title: Garden path
 #+hugo_custom_front_matter: :slug "3f513197-b379-4b8b-b918-21100005e18a"
@@ -69,7 +69,7 @@ In a garden path scenario a parson is lead to accept a proposition that seems ob
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   5 |    30.73 | 2023-11-30T08:29:47Z |
-| back     | 2.50 |   3 |     6.00 | 2023-10-19T06:57:57Z |
+| back     | 2.50 |   4 |    13.81 | 2023-11-17T10:05:26Z |
 :END:
 
 To lead someone down/up the [[id:3f513197-b379-4b8b-b918-21100005e18a][Garden path]]
@@ -78,3 +78,5 @@ To lead someone down/up the [[id:3f513197-b379-4b8b-b918-21100005e18a][Garden pa
 To deceive, trick, or seduce
 *** Source
 [cite:@GardenpathSentence2023]
+* Bibliography
+#+print_bibliography:

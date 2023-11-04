@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10a23a67-c60d-4591-8bb2-e87ca50b0e94
-:LAST_MODIFIED: [2023-11-02 Thu 08:27]
+:LAST_MODIFIED: [2023-11-03 Fri 09:57]
 :END:
 #+title: Sensemaking
 #+hugo_custom_front_matter: :slug "10a23a67-c60d-4591-8bb2-e87ca50b0e94"
@@ -14,6 +14,12 @@ Sensemaking or sense-making is the process by which people give meaning to their
 There is no single agreed upon definition of sensemaking, but there is consensus that it is a process that allows people to understand ambiguous, equivocal or confusing issues or events.
 
 [cite:@Sensemaking2023]
+#+end_quote
+
+#+begin_quote
+Sensemaking begins when someone experiences a surprise or perceives an inadequacy in the existing frame and the existing perception of relevant data.
+
+[cite:@kleinDataframeTheorySensemaking]
 #+end_quote
 
 * Properties

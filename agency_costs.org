@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0cb1f49e-83a7-43ce-a32f-7ba772e7686c
-:LAST_MODIFIED: [2023-10-09 Mon 23:58]
+:LAST_MODIFIED: [2023-11-03 Fri 07:44]
 :ROAM_REFS: [cite:@AgencyCost2022]
 :END:
 #+title: Agency costs
@@ -74,7 +74,7 @@ Why [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]] exist
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   210.56 | 2024-01-23T05:48:19Z |
-| back     | 2.20 |   5 |    29.86 | 2023-10-21T11:02:25Z |
+| back     | 2.20 |   6 |    68.16 | 2024-01-10T18:32:37Z |
 :END:
 
 Types of [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]
@@ -85,3 +85,5 @@ Types of [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]
 - [[id:c65bf1a1-0c55-4361-afc9-34fa828ecd83][Residual costs]]: Costs due to agent acts contrary to the best interest of their principal
 *** Source
 [cite:@AgencyCost2022]
+* Bibliography
+#+print_bibliography:

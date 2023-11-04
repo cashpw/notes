@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-10-26 Thu 20:08]
+:LAST_MODIFIED: [2023-11-03 Fri 17:57]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -224,7 +224,7 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-03-31 12:02]
 :END:
-** TODO [#2] [[http://www2.cruzio.com/~beachhi/graduation.html][Beach High School]] :parenting:learning:
+** TODO [#2] [[http://www2.cruzio.com/~beachhi/graduation.html][Beach High School]] :learning:
 :PROPERTIES:
 :CREATED: [2021-03-31 22:09]
 :END:
@@ -361,10 +361,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-04-17 22:00]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/mt5nea/teaching_algebra_i_by_edrealist_2012_i_wake_up/]["Teaching Algebra I" by EdRealist (2012): "I wake up each day grateful that I'm not teaching algebra I. No class is designed more perfectly to slap you in the face with the insane inadequacies of our educational policy."]] :math:parenting:learning:
-:PROPERTIES:
-:CREATED: [2021-04-18 03:57]
-:END:
 ** TODO [#2] [[https://www.theatlantic.com/ideas/archive/2021/03/why-its-better-to-rent-than-to-own/618254][Public-ownership rental as a third option to renting or owning a house]] :essay:politics:economics:
 :PROPERTIES:
 :CREATED: [2021-04-18 18:08]
@@ -388,10 +384,6 @@ Examples:
 ** TODO [#2] [[https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake][Home ownership is the West's biggest economic-policy mistake]] :economics:
 :PROPERTIES:
 :CREATED: [2021-04-20 05:58]
-:END:
-** TODO [#2] [[https://www.lesswrong.com/posts/vHR64sZESzqn8vc37/letter-advice-for-high-school][[Letter] Advice for High School]] :essay:parenting:learning:
-:PROPERTIES:
-:CREATED: [2021-04-20 07:40]
 :END:
 ** TODO [#2] [[https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c][My collection of machine learning paper notes]] :machine_learning_artificial_intelligence:
 :PROPERTIES:
@@ -441,10 +433,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-04-29 12:15]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/n166zj/child_rearing_is_it_a_good_idea/][Child rearing: is it a good idea?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-04-29 14:57]
-:END:
 ** TODO [#2] [[http://math.mit.edu/~dspivak/informatics/][Category theory is a universal modeling language]] :math:
 :PROPERTIES:
 :CREATED: [2021-04-29 16:28]
@@ -469,10 +457,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-05-01 15:35]
 :END:
-** TODO [#2] [[https://www.lesswrong.com/posts/p59pJxyxJXqFsKADw/letter-re-advice-for-high-school][[Letter] Re: Advice for High School]] :essay:parenting:learning:
-:PROPERTIES:
-:CREATED: [2021-05-03 10:15]
-:END:
 ** TODO [#2] [[https://muhammadraza.me/2021/Oneliners/][My Favorite One Liners]] :essay:software_engineering:
 :PROPERTIES:
 :CREATED: [2021-05-03 11:01]
@@ -488,10 +472,6 @@ Examples:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/n5umzk/sussing_out_differences_in_tap_water_composition/][Sussing out Differences in Tap Water Composition Between Cities]] :health:
 :PROPERTIES:
 :CREATED: [2021-05-06 00:16]
-:END:
-** TODO [#2] [[https://www.theatlantic.com/ideas/archive/2021/05/marriage-college-status-meritocracy/618795/][How college became a ruthless competition divorced from learning]] :learning:parenting:
-:PROPERTIES:
-:CREATED: [2021-05-06 23:50]
 :END:
 ** TODO [#2] [[https://newsletter.timber.fm/p/how-to-survive-a-toxic-workplace][How to survive a toxic workplace and how to avoid creating one]] :management:
 :PROPERTIES:
@@ -548,10 +528,6 @@ Examples:
 ** TODO [#2] [[http://antirez.com/news/135][Programming and Writing]] :writing:software_engineering:
 :PROPERTIES:
 :CREATED: [2021-05-14 09:56]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/nc59rp/book_review_against_education/][Book review: against education]] :parenting:learning:
-:PROPERTIES:
-:CREATED: [2021-05-14 10:19]
 :END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/ncjogp/your_book_review_addiction_by_design/][Your Book Review: Addiction By Design]] :essay:discussion:
 :PROPERTIES:
@@ -637,7 +613,7 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-05-29 12:57]
 :END:
-** TODO [#2] [[https://harpers.org/archive/2015/04/abolish-high-school/][Abolish High School (2015)]] :parenting:learning:
+** TODO [#2] [[https://harpers.org/archive/2015/04/abolish-high-school/][Abolish High School (2015)]] :learning:
 :PROPERTIES:
 :CREATED: [2021-05-29 20:44]
 :END:
@@ -681,7 +657,7 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-06-03 10:50]
 :END:
-** TODO [#2] [[https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/][Pandemic homeschoolers who are not going back]] :learning:parenting:
+** TODO [#2] [[https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/][Pandemic homeschoolers who are not going back]] :learning:
 :PROPERTIES:
 :CREATED: [2021-06-03 12:20]
 :END:
@@ -737,10 +713,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-06-08 14:53]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/nvh0gv/kids_are_people_too/][Kids are people too]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-06-08 22:55]
-:END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/nw2b1v/things_every_educated_21stcentury_person_should/][Things Every Educated 21st-Century Person Should Know but that Most People Don't?]] :link_group:
 :PROPERTIES:
 :CREATED: [2021-06-09 18:08]
@@ -769,7 +741,7 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-06-11 21:06]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/nxt7cj/your_book_review_how_children_fail/][Your Book Review: How Children Fail]] :parenting:book:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/nxt7cj/your_book_review_how_children_fail/][Your Book Review: How Children Fail]] :book:learning:
 :PROPERTIES:
 :CREATED: [2021-06-11 23:30]
 :END:
@@ -804,10 +776,6 @@ Examples:
 ** TODO [#2] [[https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic][How to Be a Stoic (2016)]] :philosophy:
 :PROPERTIES:
 :CREATED: [2021-06-16 04:08]
-:END:
-** TODO [#2] [[https://www.persuasion.community/p/kids-need-freedom-too][Kids need freedom, too]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-06-16 16:27]
 :END:
 ** TODO [#2] [[https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination][How to Boost Self Esteem and Stop Procrastinating]] :productivity:advice:
 :PROPERTIES:
@@ -965,10 +933,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-07-05 16:41]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/oeci77/an_alternate_approach_to_improve_your_childrens_iq/][An alternate approach to improve your children's IQ]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-07-05 17:51]
-:END:
 ** TODO [#2] [[https://www.lesswrong.com/posts/x6Kv7nxKHfLGtPJej/the-topic-is-not-the-content][The topic is not the content]] :essay:
 :PROPERTIES:
 :CREATED: [2021-07-06 07:18]
@@ -996,10 +960,6 @@ Examples:
 ** TODO [#2] [[https://www.reddit.com/r/learnmachinelearning/comments/ofnl9d/extremely_revealing_books_that_explains/][Extremely revealing books that explains everything behind machine learning?]] :machine_learning_artificial_intelligence:
 :PROPERTIES:
 :CREATED: [2021-07-07 17:23]
-:END:
-** TODO [#2] [[https://manisharoses.medium.com/not-school-or-homeschooling-but-modular-learning-5233927f8fc9][Not school or homeschool, but modular learning]] :parenting:learning:
-:PROPERTIES:
-:CREATED: [2021-07-07 21:01]
 :END:
 ** TODO [#2] [[https://erikhoel.substack.com/p/we-need-a-butlerian-jihad-against][We need a Butlerian Jihad against AI]] :machine_learning_artificial_intelligence:dune:
 :PROPERTIES:
@@ -1048,10 +1008,6 @@ Examples:
 ** TODO [#2] [[https://www.bbc.co.uk/programmes/w3ct1pqm][Why is standing more tiring than walking? [audio]]] :health:exercise:
 :PROPERTIES:
 :CREATED: [2021-07-13 19:06]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/ok37ji/is_homeschooling_associated_with_worse_social/][Is homeschooling associated with worse social skills or social outcomes?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-07-14 12:22]
 :END:
 ** TODO [#2] [[https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/][The unreasonable effectiveness of just showing up everyday]] :advice:career:
 :PROPERTIES:
@@ -1120,10 +1076,6 @@ Examples:
 ** TODO [#2] [[https://news.ycombinator.com/item?id=28017289][Ask HN: Do you have a process or a framework to learn specific skills quickly?]] :discussion:learning:
 :PROPERTIES:
 :CREATED: [2021-07-31 11:52]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/ovgxvc/this_is_our_chance_to_pull_teenagers_out_of_the/][This Is Our Chance to Pull Teenagers Out of the Smartphone Trap - Jonathan Haidt and Jean M. Twenge]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-07-31 23:00]
 :END:
 ** TODO [#2] [[https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983][Six Years of Professional Clojure]] :lisp:
 :PROPERTIES:
@@ -1201,10 +1153,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-08-13 00:00]
 :END:
-** TODO [#2] [[https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds][Little kids burn so much energy, they're like a different species, study finds]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-08-13 01:28]
-:END:
 ** TODO [#2] [[https://en.shortcogs.com/][Guide to cognitive biases]] :link_group:
 :PROPERTIES:
 :CREATED: [2021-08-13 11:12]
@@ -1273,10 +1221,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-08-21 15:55]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/p8v003/how_should_i_think_about_school_child_care_now/][How Should I Think about School & Child Care Now?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-08-21 16:58]
-:END:
 ** TODO [#2] [[https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/][How to deliver constructive feedback in difficult situations (2019)]] :management:
 :PROPERTIES:
 :CREATED: [2021-08-22 16:11]
@@ -1300,10 +1244,6 @@ Examples:
 ** TODO [#2] [[https://terrytao.wordpress.com/career-advice/work-hard/][Work Hard (2007)]] :career:
 :PROPERTIES:
 :CREATED: [2021-08-26 18:53]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/pc865g/highlights_from_the_comments_on_missing_school/][Highlights From The Comments On Missing School]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-08-26 20:44]
 :END:
 ** TODO [#2] [[https://www.economist.com/international/2021/08/28/climate-change-will-alter-where-many-crops-are-grown][Climate change will alter where many crops are grown]] :climate_change:
 :PROPERTIES:
@@ -1449,10 +1389,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-09-12 16:13]
 :END:
-** TODO [#2] [[https://www.lesswrong.com/posts/pEyh8u8qgWdHEaf6C/equal-parenting-advice-for-dads][Equal Parenting Advice for Dads]] :essay:parenting:
-:PROPERTIES:
-:CREATED: [2021-09-13 13:19]
-:END:
 ** TODO [#2] [[https://probablydance.com/2016/02/27/functional-programming-is-not-popular-because-it-is-weird/][Functional programming is not popular because it is weird (2016)]] :computer_science:software_engineering:
 :PROPERTIES:
 :CREATED: [2021-09-13 16:49]
@@ -1461,17 +1397,9 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-09-13 17:46]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/pnkia2/bryan_caplan_our_homeschooling_odyssey/][Bryan Caplan: Our Homeschooling Odyssey]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-09-13 17:47]
-:END:
 ** TODO [#2] [[https://github.com/pdfernhout/High-Performance-Organizations-Reading-List][High Performance Organizations Reading List]] :management:
 :PROPERTIES:
 :CREATED: [2021-09-13 19:20]
-:END:
-** TODO [#2] [[https://www.sonyaellenmann.com/2015/09/why-skip-high-school.html][Smart kids should skip high school (2015)]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-09-13 21:10]
 :END:
 ** TODO [#2] [[https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/][What I Learnt Becoming a Tech Lead]] :management:career:
 :PROPERTIES:
@@ -1573,17 +1501,9 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-10-04 23:12]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/q1kgzb/im_a_parent_to_a_kindergartner_and_i_am/][I'm a parent to a kindergartner and I am unsatisfied with the curriculum materials the school provides for learning basic letters and reading. Any good books/guides out there you all recommend? Any favorite alternative learning methods?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-10-05 01:35]
-:END:
 ** TODO [#2] [[https://dengarden.com/misc/American-Houses-and-Bad-Quality][Why are American houses so flimsy and poorly built?]] :housing:
 :PROPERTIES:
 :CREATED: [2021-10-05 08:13]
-:END:
-** TODO [#2] [[https://twitter.com/id_aa_carmack/status/1445424833181925376][It is easier to educate a Do-er than to motivate the educated]] :learning:parenting:
-:PROPERTIES:
-:CREATED: [2021-10-05 17:15]
 :END:
 ** TODO [#2] [[https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in][Conterintuitive facts in mathematics, CS, and physics]] :math:
 :PROPERTIES:
@@ -1621,18 +1541,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-10-10 21:49]
 :END:
-** TODO [#2] [[https://astralcodexten.substack.com/p/please-dont-give-up-on-having-kids][Don't give up on having kids because of climate change]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-10-11 12:03]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/q5udvg/please_dont_give_up_on_having_kids_because_of/][Please Don't Give Up On Having Kids Because Of Climate Change]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-10-11 12:05]
-:END:
-** TODO [#2] [[https://thehill.com/changing-america/sustainability/climate-change/572140-poll-finds-huge-percentage-fear-having][Large percentage fear having children because of climate crisis]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-10-11 13:06]
-:END:
 ** TODO [#2] [[https://www.lesswrong.com/posts/N6jeLwEzGpE45ucuS/building-blocks-of-politics-an-overview-of-selectorate][Building Blocks of Politics: An Overview of Selectorate Theory]] :essay:politics:
 :PROPERTIES:
 :CREATED: [2021-10-13 19:37]
@@ -1653,10 +1561,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-10-15 20:49]
 :END:
-** TODO [#2] [[https://www.lesswrong.com/posts/24TAg8JoGHHzksWBp/book-review-how-to-talk-so-little-kids-will-listen][Book Review: How To Talk So Little Kids Will Listen]] :essay:parenting:book:
-:PROPERTIES:
-:CREATED: [2021-10-15 22:54]
-:END:
 ** TODO [#2] [[https://functional-algorithms-verified.org/][Functional Algorithms, Verified]] :computer_science:math:
 :PROPERTIES:
 :CREATED: [2021-10-15 23:17]
@@ -1664,10 +1568,6 @@ Examples:
 ** TODO [#2] [[https://lethain.com/how-to-safely-think-in-systems/][How to Safely Think in Systems]] :systems:
 :PROPERTIES:
 :CREATED: [2021-10-16 08:24]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/q9einm/updates_to_biodeterminists_guide_to_parenting/][Updates to Biodeterminists Guide to Parenting?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-10-16 15:45]
 :END:
 ** TODO [#2] [[https://www.lesswrong.com/posts/3GAnfeG9KmsbsWeTj/explaining-capitalism-harder][Explaining Capitalism Harder]] :essay:economics:
 :PROPERTIES:
@@ -1689,10 +1589,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-10-18 10:34]
 :END:
-** TODO [#2] [[https://www.lesswrong.com/posts/k5rfGYzraoT6Er7Zd/quick-look-altitude-and-child-development][Quick Look: Altitude and Child Development]] :essay:parenting:
-:PROPERTIES:
-:CREATED: [2021-10-18 12:31]
-:END:
 ** TODO [#2] [[https://www.benjaminhoffauthor.com/][Penguin is no longer the owner of the copyright to The Tao of Pooh]] :book:
 :PROPERTIES:
 :CREATED: [2021-10-19 17:26]
@@ -1713,10 +1609,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-10-20 08:53]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/qcjrp2/what_are_things_that_one_can_do_when_young_that/][What are things that one can do when young that people don't think to do when young to ensure success for the future?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-10-21 04:43]
-:END:
 ** TODO [#2] [[https://danluu.com/look-stupid/][Willingness to Look Stupid]] :essay:advice:learning:
 :PROPERTIES:
 :CREATED: [2021-10-21 09:25]
@@ -1732,14 +1624,6 @@ Examples:
 ** TODO [#2] [[https://www.apress.com/gp/book/9781484272169][Docs for Developers: An Engineer's Field Guide to Technical Writing]] :writing:software_engineering:
 :PROPERTIES:
 :CREATED: [2021-10-21 17:42]
-:END:
-** TODO [#2] [[https://www.lesswrong.com/posts/epLzkMgSuovLGXAHR/successful-mentoring-on-parenting-arranged-through-lesswrong-1][Successful Mentoring on Parenting, Arranged Through LessWrong]] :essay:parenting:
-:PROPERTIES:
-:CREATED: [2021-10-21 20:26]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/qd27ed/a_brief_history_of_schooling_in_america/][A Brief History of Schooling in America]] :parenting:learning:
-:PROPERTIES:
-:CREATED: [2021-10-21 21:44]
 :END:
 ** TODO [#2] [[https://arxiv.org/abs/2003.02320][Knowledge Graphs]] :math:computer_science:
 :PROPERTIES:
@@ -1885,10 +1769,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-11-17 06:25]
 :END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=29252974][Ask HN: Tech-savvy parents, what are the gadget rules for your kids?]] :discussion:parenting:
-:PROPERTIES:
-:CREATED: [2021-11-17 13:56]
-:END:
 ** TODO [#2] [[https://www.cs.cmu.edu/~jrs/sins.html][Three sins of authors in computer science and math (1997)]] :math:
 :PROPERTIES:
 :CREATED: [2021-11-17 18:28]
@@ -1944,14 +1824,6 @@ Examples:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/qzzk8w/xkcd_bayes_theorem/][XKCD: Bayes' Theorem]] :math:
 :PROPERTIES:
 :CREATED: [2021-11-22 23:52]
-:END:
-** TODO [#2] [[https://hedgehogreview.com/web-features/thr/posts/where-the-humanities-arent-in-crisis][The Catherine Project: A new experiment in liberal education]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-11-23 20:45]
-:END:
-** TODO [#2] [[https://sfstandard.com/controversy-rages-as-california-follows-sfs-lead-with-new-approach-to-teaching-math/][California moves to recommend delaying algebra to 9th grade statewide]] :parenting:math:politics:
-:PROPERTIES:
-:CREATED: [2021-11-23 22:50]
 :END:
 ** TODO [#2] [[https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb?stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv][Those writing extensively on note-writing rarely have a serious context of use]] :writing:
 :PROPERTIES:
@@ -2013,10 +1885,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2022-02-10 11:03]
 :END:
-** TODO [#2] [[https://xsrus.com/life-school-and-the-80-20-rule][Life, School, and the 80:20 Rule (2019)]] :parenting:career:writing:
-:PROPERTIES:
-:CREATED: [2022-02-10 08:49]
-:END:
 ** TODO [#2] [[https://www.redblobgames.com/pathfinding/a-star/introduction.html][Introduction to the A* Algorithm (2014)]] :computer_science:
 :PROPERTIES:
 :CREATED: [2022-02-10 15:42]
@@ -2032,10 +1900,6 @@ Examples:
 ** TODO [#2] [[https://www.lesswrong.com/posts/bGDk58fPYQK7pRHvS/design-policy-to-be-testable][Design policy to be testable]] :essay:
 :PROPERTIES:
 :CREATED: [2022-02-01 02:01]
-:END:
-** TODO [#2] [[https://www.lesswrong.com/posts/hpjou9ZnLZkSJR7sd/reflections-on-six-months-of-fatherhood][Reflections on six months of fatherhood]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-01-31 08:03]
 :END:
 ** TODO [#2] [[https://tracingwoodgrains.medium.com/r-antiwork-a-tragedy-of-sanewashing-and-social-gentrification-56298af1c1a7][/r/antiwork: A tragedy of sanewashing and social gentrification]] :essay:politics:
 :PROPERTIES:
@@ -2125,14 +1989,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2022-01-27 06:20]
 :END:
-** TODO [#2] [[https://www.nature.com/articles/s41539-019-0055-z][Sleep quality and consistency associated with better academic performance (2019)]] :parenting:learning:
-:PROPERTIES:
-:CREATED: [2022-01-26 10:54]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/sbqq5s/experiences_with_intelligent_tutoring_systems/][Experiences with intelligent tutoring systems?]] :learning:parenting:lisp:
-:PROPERTIES:
-:CREATED: [2022-01-24 16:58]
-:END:
 ** TODO [#2] [[https://thezbook.com/the-biggest-mistake-i-see-engineers-make/][Doing too much work on one's own before looping in others]] :software_engineering:
 :PROPERTIES:
 :CREATED: [2022-01-25 17:39]
@@ -2161,10 +2017,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2022-01-14 21:59]
 :END:
-** TODO [#2] [[http://www.nagc.org/resources-publications/gifted-education-practices/what-it-means-teach-gifted-learners-well][What it means to teach gifted learners well]] :parenting:learning:
-:PROPERTIES:
-:CREATED: [2022-01-19 23:39]
-:END:
 ** TODO [#2] [[https://www.gutenberg.org/files/31516/31516-h/31516-h.htm][The Eyes Have It (1953)]] :essay:
 :PROPERTIES:
 :CREATED: [2022-01-20 03:54]
@@ -2173,13 +2025,9 @@ Examples:
 :PROPERTIES:
 :CREATED: [2022-01-20 12:55]
 :END:
-** TODO [#2] [[https://bariweiss.substack.com/p/im-a-public-school-teacher-the-kids][I'm a Public School Teacher. The Kids Aren't Alright]] :parenting:
+** TODO [#2] [[https://bariweiss.substack.com/p/im-a-public-school-teacher-the-kids][I'm a Public School Teacher. The Kids Aren't Alright]] :learning:
 :PROPERTIES:
 :CREATED: [2022-01-20 22:50]
-:END:
-** TODO [#2] [[https://www.lesswrong.com/posts/QTq4YcXyR4mtPurtZ/school-daze][School Daze]] :parenting:learning:link_group:
-:PROPERTIES:
-:CREATED: [2022-01-14 18:43]
 :END:
 ** TODO [#2] [[https://archipro.co.nz/articles/architecture/building-without-heating-how-to-build-warm-comfortable-homes-with-virtually-no-heating-archipro][How to build homes with virtually no heating (2020)]] :housing:
 :PROPERTIES:
@@ -2225,10 +2073,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-04-08 04:21]
 :END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=29252974][Ask HN: Tech-savvy parents, what are the gadget rules for your kids?]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-11-17 13:56]
-:END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/rxhh1o/brain_efficiency_much_more_than_you_wanted_to_know/][Brain Efficiency: Much More than You Wanted to Know]] :essay:
 :PROPERTIES:
 :CREATED: [2022-01-06 15:40]
@@ -2256,10 +2100,6 @@ Examples:
 ** TODO [#2] [[https://www.indiehackers.com/post/my-admittedly-hardcore-work-routine-whats-yours-1fb500959f][My work routine: plan, do, learn loops]] :career:advice:
 :PROPERTIES:
 :CREATED: [2022-01-07 16:31]
-:END:
-** TODO [#2] [[https://news.uga.edu/sugar-not-so-nice-childs-brain-development/][Sugar not so nice for your child's brain development]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-01-07 20:39]
 :END:
 ** TODO [#2] [[https://www.nasdaq.com/articles/generational-wealth%3A-why-do-70-of-families-lose-their-wealth-in-the-2nd-generation-2018-10][Why do 70% of families lose their wealth in the 2nd generation? (2018)]] :essay:
 :PROPERTIES:
@@ -2316,10 +2156,6 @@ Examples:
 ** TODO [#2] [[https://cprimozic.net/blog/my-selfhosted-websites-architecture/][Self-Hosting Dozens of Web Applications and Services on a Single Server]] :essay:
 :PROPERTIES:
 :CREATED: [2021-12-31 09:06]
-:END:
-** TODO [#2] [[https://perell.com/essay/the-price-of-discipline/][The Price of Discipline]] :parenting:essay:
-:PROPERTIES:
-:CREATED: [2021-12-31 09:57]
 :END:
 ** TODO [#2] [[https://poets.org/poem/if][If – A Poem by Rudyard Kipling]] :writing:cool:
 :PROPERTIES:
@@ -2401,14 +2237,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2021-12-18 10:46]
 :END:
-** TODO [#2] [[https://www.lesswrong.com/posts/avRxtmxberoKzcFJJ/parenting-try-harder-next-time-is-bad-advice-for-kids-too][Parenting: "Try harder next time" is bad advice for kids too]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-12-20 19:17]
-:END:
-** TODO [#2] [[https://www.lesswrong.com/posts/dyJfGeWo5GX2u6NGi/experiences-raising-children-in-shared-housing][Experiences raising children in shared housing]] :parenting:
-:PROPERTIES:
-:CREATED: [2021-12-21 20:36]
-:END:
 ** TODO [#2] [[http://www.shubhro.com/2021/12/20/be-curious-not-judgmental/][Be curious, not judgmental]] :advice:
 :PROPERTIES:
 :CREATED: [2021-12-23 15:59]
@@ -2468,10 +2296,6 @@ Examples:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/r75fao/how_does_scott_alexander_make_his_writing_so/][How does Scott Alexander make his writing so engaging?]] :writing:
 :PROPERTIES:
 :CREATED: [2021-12-02 11:27]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/r80da7/give_me_slack/][Give Me Slack]] :parenting:discussion:essay:
-:PROPERTIES:
-:CREATED: [2021-12-03 14:31]
 :END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/r9b6vm/the_learning_system_a_decentralized_alternative/][The Learning System: A Decentralized Alternative to Education]] :learning:
 :PROPERTIES:
@@ -2555,207 +2379,6 @@ Examples:
 ** TODO [#2] [[https://karthinks.com/software/batteries-included-with-emacs/][Batteries included with Emacs]] :emacs:
 :PROPERTIES:
 :CREATED: [2021-11-25 15:33]
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=19396563 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=20173675 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=26047444 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=28112797 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=12742853 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=15800082 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=18995823 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=22913871 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=18953889 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=26249242 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=3149170 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=20015775 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=31793682 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=23010079 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=3551747 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=12345598 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=10458750 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=16639605 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=28669843 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=17023693 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=5682283 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=15253072 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=14268528 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=10529467 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=25603490 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=10404312 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=9141892 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=16882430 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=24189147 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=21043214 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=18848961 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=17685990 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=1494011 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=19183022 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=9793769 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=21338386 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=1679184 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=16810709 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=29252974 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=26444521 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=12879330 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=17601057 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=32366557 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=15529271 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=12050182 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=24383264 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=13450223 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=20077766 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=12441749 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=2973906 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=21167957 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=1176200 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=5543512 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=21053211 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=29223104 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=10113901 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://news.ycombinator.com/item?id=26343160 :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/tuesday-family-dinner :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/pretending-not-to-notice :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/perverse-independence-incentives :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/approach-to-screen-time :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/only-asking-real-questions :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/another-calming-example :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/kids-posts-retrospective :parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/p/index :link_group:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.jefftk.com/news/kids :link_group:parenting:
-:PROPERTIES:
-:END:
-** TODO [#2] https://www.lesswrong.com/tag/parenting :parenting:link_group:
-:PROPERTIES:
 :END:
 ** TODO [#2] [[https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2][Probability (1963)]] :math:
 :PROPERTIES:
@@ -2841,163 +2464,6 @@ Examples:
 :PROPERTIES:
 :CREATED: [2022-10-02 20:29]
 :END:
-** TODO [#2] [[https://twitter.com/sahilbloom/status/1571137341997318147][Parent time]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-10-03 12:41]
-:END:
-
-Captured on [2022-12-29 Thu 13:59] using threadreaderapp
-
-<<tweet_1>>
-Last year, I had a conversation that changed my life.\\
-\\
-It caused me to upend everything and move across the country.\\
-\\
-The lesson from it may change yours: ^{//}
-
-<<tweet_2>>
-I was out for a drink with a friend.\\
-\\
-We'll call him George.\\
-\\
-As we settled in, George asked about my life and how I was feeling.\\
-\\
-At first, I gave him the standard response that we've all grown so accustomed to:\\
-\\
-"I'm good. Busy!"\\
-\\
-He stared blankly through my empty words. ^{//}
-
-<<tweet_3>>
-Feeling the pressure of his gaze, I adjusted myself and added that living in California had begun to wear on me, it being so far from my parents on the East Coast.\\
-\\
-I had been 3,000 miles away for the last 12 years.\\
-\\
-And with the path I was on, there was no end in sight. ^{//}
-
-<<tweet_4>>
-The moment of vulnerability sparked an interaction that changed my life:\\
-\\
-George: "How often do you see your parents?"\\
-\\
-Me: "Maybe once a year now."\\
-\\
-George: "And how old are they?"\\
-\\
-Me: "Mid-sixties."\\
-\\
-George: "Ok, so you're going to see them 15 more times before they die." ^{//}
-
-<<tweet_5>>
-Gut punch.\\
-\\
-I took a deep breath.\\
-\\
-It wasn't meant to be rude---it was just...math.\\
-\\
-If the average life expectancy is ~80 years, my parents are in their mid-60s, and I see them one time per year, the math---however depressing---says I will see them 15 more times before they are gone. ^{//}
-
-<<tweet_6>>
-Our time together is finite, but we often fail to recognize it until it's too late.\\
-\\
-Time is cruel.\\
-\\
-You'll love it with all of your being---you may even pray for more of it---but time doesn't care about you.\\
-\\
-Your relationship with time is the ultimate unrequited love. ^{//}
-
-<<tweet_7>>
-The morning after this conversation, my wife and I had a very candid conversation about what we wanted in life.\\
-\\
-A few days later, we listed our house in California on the market, packed up our things, and shipped off to the East Coast to be closer to our parents. ^{//}
-
-<<tweet_8>>
-It's been over a year since the conversation that changed my life.\\
-\\
-I'll never regret these tiny moments---of doing nothing in particular---that we'll spend together in the years ahead.\\
-\\
-I'll never regret the moments my parents get to spend with my son.\\
-\\
-I'll never regret any of it. [[https://pbs.twimg.com/media/Fc3NGesWAAQF14Q.jpg][[[https://pbs.twimg.com/media/Fc3NGesWAAQF14Q.jpg]]]] ^{//}
-
-<<tweet_9>>
-My friend [[https://twitter.com/waitbutwhy][@waitbutwhy]] wrote about this "Parent Time" phenomenon in a recent New York Times op-ed.\\
-\\
-In classic fashion, he produced a striking visualization to capture the sentiment.\\
-\\
-It brings one takeaway to life: Our time with our loved ones is so limited and precious. [[https://pbs.twimg.com/media/Fc3NG6BWQAQvD-n.jpg][[[https://pbs.twimg.com/media/Fc3NG6BWQAQvD-n.jpg]]]] ^{//}
-
-<<tweet_10>>
-All of this math---depressing as it seems---should be a call to arms.\\
-\\
-Identify the people and activities you care most deeply about. Prioritize them ruthlessly.\\
-\\
-It may be difficult---even painful---but it's a decision you'll never regret. ^{//}
-
-<<tweet_11>>
-We spend most of our lives playing a game:\\
-\\
-Everything we do is in anticipation of the future. When that future comes, we simply reset to the next one.\\
-\\
-"I can't wait until I'm 18 so I can [X]."\\
-\\
-"I can't wait until I'm 25 so I can [Y]."\\
-\\
-"I can't wait until I'm 45 so I can [Z]." ^{//}
-
-<<tweet_12>>
-It's natural, but it's a dangerous game---one that we will lose, eventually.\\
-\\
-Time is our most precious asset and the present is all that's guaranteed.\\
-\\
-Spend it wisely, with those you love, in ways you'll never regret. ^{//}
-
-<<tweet_13>>
-Always remember the famous song by Guy Lombardo:\\
-\\
-Enjoy yourself, it's later than you think.\\
-Enjoy yourself, while you're still in the pink.\\
-The years go by, as quickly as a wink.\\
-Enjoy yourself, enjoy yourself, it's later than you think. ^{//}
-
-<<tweet_14>>
-I hope this thread sparks some of you to have conversations with your loved ones about time (and who you want to spend yours with).\\
-\\
-Follow me [[https://twitter.com/SahilBloom][@SahilBloom]] for more writing like this.\\
-\\
-I will continue to write on these topics in my newsletter as well. [[https://www.sahilbloom.com/newsletter][sahilbloom.com/newsletter]] ^{//}
-
-[[https://www.sahilbloom.com/newsletter][[[https://uploads-ssl.webflow.com/61a51f6d0f790c4eca5d8b97/62bc5ab75c865323656d5665_Sahil%20Bloom_Light.gif]]]]
-
-[[https://www.sahilbloom.com/newsletter][*Sahil Bloom's - The Curiosity Chronicle* The Curiosity Chronicle has quickly become one of the most popular newsletters for growth-minded individuals in the world. Each week, subscribers receive a deep dive that covers topics ranging from gr...]] [[https://www.sahilbloom.com/newsletter][https://www.sahilbloom.com/newsletter]]
-
-<<tweet_15>>
-This is what it's all about.\\
-\\
-This photo warms every ounce of my being.\\
-\\
-The best parents a guy could have asked for.\\
-\\
-The best grandparents Roman could have asked for. [[https://pbs.twimg.com/media/Fc4O-2HXkAIj3Cj.jpg][[[https://pbs.twimg.com/media/Fc4O-2HXkAIj3Cj.jpg]]]] ^{//}
-
-<<tweet_16>>
-By the way, the point of this thread isn't saying that any decision about where to live is *right* or *wrong*.\\
-\\
-My goal is to emphasize the precious nature of time and spark active discussion with you and your loved ones about the tradeoffs and decisions that this creates. ^{//}
-
-<<tweet_17>>
-We all have to reach our own conclusions.\\
-\\
-These are often very challenging decisions with a variety of complex tradeoffs.\\
-\\
-Generally speaking, as an observation, I do think fewer people regret making the decision to live close to family later in life (vs. the alternative). ^{//}
-
-<<tweet_18>>
-I'd expect that in a future where remote/hybrid work becomes the norm, these decisions become easier to make.\\
-\\
-In this future, the career limiting fears that previously held back many would-be movers may wane.\\
-\\
-Something for companies considering employee happiness to consider. ^{//}
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/xtcnyp/where_are_you_finding_wisdom_these_days/][Where are you finding wisdom these days?]] :advice:
 :PROPERTIES:
 :CREATED: [2022-10-02 02:06]
@@ -3017,10 +2483,6 @@ Something for companies considering employee happiness to consider. ^{//}
 ** TODO [#2] [[http://www.loukidelis.com/on-montreal.html][Montreal is what North America could be]] :essay:housing:
 :PROPERTIES:
 :CREATED: [2022-09-30 19:33]
-:END:
-** TODO [#2] [[https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum][First-time fathers show longitudinal gray matter cortical volume reductions]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-09-30 23:53]
 :END:
 ** TODO [#2] [[https://www.bloomberg.com/news/articles/2021-10-22/how-paris-will-become-100-cyclable][Paris Will Become '100% Cyclable']] :housing:
 :PROPERTIES:
@@ -3223,10 +2685,6 @@ Something for companies considering employee happiness to consider. ^{//}
 :PROPERTIES:
 :CREATED: [2022-09-19 02:22]
 :END:
-** TODO [#2] [[https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/][Why kids are afraid to ask for help]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-09-19 15:25]
-:END:
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/xj4kh8/have_you_noticed_the_wuwei_in_your_life_before/][Have you noticed the Wu-Wei in your life before?]] :philosophy:advice:
 :PROPERTIES:
 :CREATED: [2022-09-20 09:57]
@@ -3292,10 +2750,6 @@ https://old.reddit.com/r/slatestarcodex/comments/xdjuoq/unpredictable_reward_pre
 :PROPERTIES:
 :CREATED: [2022-09-14 17:41]
 :END:
-** TODO [#2] [[https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf][A method to promote sleep in crying infants using the transport response [pdf]]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-09-15 00:06]
-:END:
 ** TODO [#2] [[https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/][Pay attention to deviations from mainstream incentives]] :essay:
 :PROPERTIES:
 :CREATED: [2022-09-15 04:52]
@@ -3320,10 +2774,6 @@ https://old.reddit.com/r/slatestarcodex/comments/xdjuoq/unpredictable_reward_pre
 :PROPERTIES:
 :CREATED: [2022-09-15 11:44]
 :END:
-** TODO [#2] [[https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c][Team led by Japanese researchers reveals best way to put crying baby to sleep]] :parenting:
-:PROPERTIES:
-:CREATED: [2022-09-15 23:30]
-:END:
 ** TODO [#2] [[https://macwright.com/2022/09/15/hacker-news.html][Macwright.com redirects HN readers away]] :essay:
 :PROPERTIES:
 :CREATED: [2022-09-16 01:12]
@@ -3343,10 +2793,6 @@ https://old.reddit.com/r/slatestarcodex/comments/xdjuoq/unpredictable_reward_pre
 ** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/xdvyto/rslatestarcodex_book_recommendations/][r/slatestarcodex book recommendations]] :link_group:book:
 :PROPERTIES:
 :CREATED: [2022-09-14 08:00]
-:END:
-** TODO [#2] [[https://www.newsnationnow.com/solutions/benefits-of-looping-kids-with-teachers-for-multiple-years/][Benefits of 'looping' kids with teachers for multiple years]] :learning:parenting:
-:PROPERTIES:
-:CREATED: [2022-09-12 18:09]
 :END:
 ** TODO [#2] [[https://www.thesunmagazine.org/issues/175/why-schools-dont-educate][Why Schools Don't Educate (1990)]] :learning:
 :PROPERTIES:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       94f5d6dd-a97a-45af-be05-4e7096dea51a
 :ROAM_REFS: [cite:@HighModernism2022]
-:LAST_MODIFIED: [2023-10-12 Thu 23:52]
+:LAST_MODIFIED: [2023-11-03 Fri 07:42]
 :END:
 #+title: High modernism
 #+hugo_custom_front_matter: :slug "94f5d6dd-a97a-45af-be05-4e7096dea51a"
@@ -34,7 +34,7 @@ Disregard for historical, geographical and social context in development.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   3 |     6.00 | 2023-10-19T06:52:07Z |
+| back     | 2.20 |   4 |    12.23 | 2023-11-15T20:11:11Z |
 | front    | 2.20 |   7 |   132.94 | 2024-01-10T11:13:55Z |
 :END:
 [[id:94f5d6dd-a97a-45af-be05-4e7096dea51a][High modernism]]
@@ -42,3 +42,5 @@ Disregard for historical, geographical and social context in development.
 A form of modernity, characterized by an unfaltering confidence in science and technology as means to reorder the social and natural world. Includes a disregard for historical, geographical, and social context in development.
 *** Source
 [cite:@HighModernism2022]
+* Bibliography
+#+print_bibliography:

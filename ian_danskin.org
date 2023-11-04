@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2e66d444-9a3a-4ed3-8fac-210bb61933fb
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-11-03 Fri 07:30]
 :END:
 #+title: Ian Danskin
 #+hugo_custom_front_matter: :slug "2e66d444-9a3a-4ed3-8fac-210bb61933fb"
@@ -27,7 +27,7 @@ Among other things:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   264.92 | 2023-10-22T00:49:57Z |
+| front    | 2.80 |   8 |   737.24 | 2025-11-09T20:23:23Z |
 :END:
 [[id:2e66d444-9a3a-4ed3-8fac-210bb61933fb][Ian Danskin]]
 *** Back

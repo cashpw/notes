@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f6380c56-884c-475d-9a44-d000f2e813d2
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-03 Fri 07:33]
 :ROAM_REFS: [cite:@AdditiveMap2022]
 :END:
 #+title: Additivity
@@ -28,7 +28,7 @@ for every pair of elements $x$ and $y$ in the domain of $f$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   9 |   276.76 | 2023-11-02T13:43:42Z |
+| back     | 2.50 |  10 |   634.80 | 2025-07-30T09:52:12Z |
 | front    | 2.50 |   9 |   574.25 | 2025-02-10T19:50:06Z |
 :END:
 Property of [[id:f6380c56-884c-475d-9a44-d000f2e813d2][Additivity]]
@@ -37,4 +37,5 @@ Property of [[id:f6380c56-884c-475d-9a44-d000f2e813d2][Additivity]]
 $f(x + y) = f(x) + f(y)$
 *** Source
 [cite:@Linearity2022]
-
+* Bibliography
+#+print_bibliography:

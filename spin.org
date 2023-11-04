@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f80c2ae6-6786-4eae-93aa-57feebf02c39
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-11-03 Fri 08:05]
 :END:
 #+title: Spin
 #+hugo_custom_front_matter: :slug "f80c2ae6-6786-4eae-93aa-57feebf02c39"
@@ -28,7 +28,7 @@ In public relations and politics, spin is a form of propaganda, achieved through
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   228.68 | 2023-10-29T07:35:24Z |
+| back     | 2.65 |   8 |   594.41 | 2025-06-20T01:00:22Z |
 | front    | 2.35 |   7 |   206.26 | 2023-10-21T09:23:01Z |
 :END:
 [[id:f80c2ae6-6786-4eae-93aa-57feebf02c39][Spin]]
@@ -36,3 +36,5 @@ In public relations and politics, spin is a form of propaganda, achieved through
 A form of propaganda which implies the use of disingenuous, deceptive, or manipulative tactics
 *** Source
 [cite:@SpinPropaganda2022]
+* Bibliography
+#+print_bibliography:

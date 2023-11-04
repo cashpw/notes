@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       52a7a44e-dbca-4eae-974a-b7185c2c97b7
 :ROAM_ALIASES: "Time decay"
-:LAST_MODIFIED: [2023-09-25 Mon 06:10]
+:LAST_MODIFIED: [2023-11-03 Fri 07:43]
 :END:
 #+title: Theta (finance)
 #+hugo_custom_front_matter: :slug "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
@@ -33,7 +33,7 @@ The value of an option can be analysed into two parts: the [[id:04af40d8-212f-47
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   310.67 | 2024-06-29T08:47:43Z |
-| back     | 2.35 |   7 |   171.06 | 2023-10-28T17:35:54Z |
+| back     | 2.35 |   8 |   378.82 | 2024-11-16T10:21:36Z |
 :END:
 
 [[id:52a7a44e-dbca-4eae-974a-b7185c2c97b7][Theta (finance)]]
@@ -43,6 +43,9 @@ The value of an option can be analysed into two parts: the [[id:04af40d8-212f-47
 - $\dots = - \frac{\partial V}{\partial\tau}$
 *** Source
 [cite:@GreeksFinance2022]
+
+* Bibliography
+#+print_bibliography:
 ** (Finance) {{$\Theta$}@0} $=$ {{$- \frac{\partial V}{\partial\tau}$}@1} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:16]

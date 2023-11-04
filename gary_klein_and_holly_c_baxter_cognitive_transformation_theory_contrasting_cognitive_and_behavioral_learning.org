@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
 :ID:       18375047-41ab-49a0-96d3-6ac554685fc2
-:LAST_MODIFIED: [2023-11-01 Wed 13:28]
+:LAST_MODIFIED: [2023-11-03 Fri 11:40]
 :END:
 #+title: Gary Klein and Holly C. Baxter | Cognitive Transformation Theory: Contrasting Cognitive and Behavioral Learning
 #+hugo_custom_front_matter: :slug "18375047-41ab-49a0-96d3-6ac554685fc2"
@@ -270,7 +270,7 @@ We can represent cognitive transformation theory as a set of postulates:
 - *Experts are fallible*
 
   No set of mental models is entirely accurate and complete.
-- *Knowledge shields are the set of arguments learners can use to explain away data that challenge their mental models*
+- *Knowledge shields [[[id:1a7234fe-a15c-4e46-ae92-6a940bc902ac][Knowledge shields]]] are the set of arguments learners can use to explain away data that challenge their mental models*
 
   Knowledge shields pose a barrier to developing cognitive skills. People are skilled at holding onto cherished beliefs. The better the mental models, the easier it is to find flaws in disconfirming evidence and anomalous observations. The S-shaped learning curve reflects the increasing difficulty of replacing mental models as people's mental models become more accurate.
 - *Knowledge shields affect diagnosis*
