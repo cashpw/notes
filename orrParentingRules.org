@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@orrParentingRules]
 :ID:       cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-11-04 Sat 08:29]
 :END:
 #+title: Dave Orr | Parenting Rules
 #+hugo_custom_front_matter: :slug "cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce"
@@ -38,9 +38,6 @@ If you threaten a consequence and don't follow through, they'll figure that out 
 #+end_quote
 
 ** Praise the process
-:PROPERTIES:
-:ID:       d1c22265-07dd-49ed-82bc-f707435e8893
-:END:
 
 #+begin_quote
 We're pretty particular in how we praise our kids. We try to use process praise ("I like the way you made up a story about all the parts of your drawing"), some amount of results praise ("That block tower is amazing! It's so tall!"), and virtually zero person praise ("You're a good artist/architect.")
@@ -55,3 +52,6 @@ You have to be age appropriate -- when talking about where babies come from, I d
 #+end_quote
 
 * Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:

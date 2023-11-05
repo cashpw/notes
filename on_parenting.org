@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3b7896cb-c4bd-4036-976b-ab5c92a2b453
-:LAST_MODIFIED: [2023-11-03 Fri 17:57]
+:LAST_MODIFIED: [2023-11-04 Sat 10:10]
 :END:
 #+title: On parenting
 #+hugo_custom_front_matter: :slug "3b7896cb-c4bd-4036-976b-ab5c92a2b453"
@@ -10,16 +10,26 @@
 
 A mega-note for all the parenting related topics I want to keep for future reference. My goal is to collect thoughts here and split topics off into [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][atomic]] notes as such atomic concepts emerge.
 
-* Parenting idea: require (pay/reward?) children to give a lesson weekly(?) on something from school, it what they've learned that week in their hobbies, sports, etc, to entourage deeper learning through teaching and a family culture of lifelong learning. Parents would do this as well. :noexport:
-:PROPERTIES:
-:CREATED:  [2023-09-30 Sat 12:15]
-:END:
-
 * Misc
 
 - Smart kids should consider skipping high school and going directly to college; or supplementing high school with college
 - [[id:75056a2e-6b7a-4764-b93c-d08aa3a99a42][Children burn out fast]]
 - Know CPR and basic first aid
+- Question the advice and recommendations from doctors, within reason. They may be drawing conclusions from studies which have since been overturned or succeeded by better research.
+- /Gentle/ parenting is not /permissive/ parenting
+  - [cite:@AttachmentParenting2023]
+- **No** physical/striking/hitting punishments (e.g. spanking)
+- (TODO: verify) breastfeeding > formula > nothing
+  - That said, make sure the kid gets enough to eat! If you don't have enough breast milk, use formula. It's okay.
+
+
+** Parenting idea: require (pay/reward?) children to give a lesson weekly(?) on something from school, it what they've learned that week in their hobbies, sports, etc, to entourage deeper learning through teaching and a family culture of lifelong learning. Parents would do this as well. :noexport:
+:PROPERTIES:
+:CREATED:  [2023-09-30 Sat 12:15]
+:END:
+
+
+* [[id:06156007-ba51-4934-9df5-b923e2030026][Guidelines for parenting]]
 
 * On interacting with kids
 
@@ -32,25 +42,116 @@ A mega-note for all the parenting related topics I want to keep for future refer
     - e.g. Can I read that book? Yes, but you have to put it away.
     - e.g. Will you take me to the swimming pool? Yes, if you finish your chores.
     - e.g. Can I have another snack? Yes, if you wash your dishes.
+  - [cite:@joseeStopTellingKidsBeCarefulWhatSayInsteadBackwoodsMama2018]
+  - [[id:f2a5e122-da38-41b9-91aa-506e17a6e419][Praise process and effort]]
 
+* Media, books, etc
+
+- Books
+  - Welcome To The Museum book series
+  - Curiositree series
+  - National geographic kids
+- Media (good)
+  - [[https://en.wikipedia.org/wiki/Bluey_(2018_TV_series)][Bluey]]
+  - [[https://en.wikipedia.org/wiki/Tumble_Leaf][Tumble leaf]]
+  - [[https://en.wikipedia.org/wiki/Little_Bear_(TV_series)][Little bear]]
+  - Eleanor Wonders Why
+  - Sarah and Duck
+  - Mister Rogers
+  - [[https://en.wikipedia.org/wiki/Puffin_Rock][Puffin rock]]
+  - Planet Earth and other nature documentaries, etc
+  - PBS Kids
+  - The World of Peter Rabbit and friends
+  - Trashtruck
+  - Magic school bus (old version)
+
+
+- Avoid, bad
+  - Paw patrol
 * Teaching
 ** To read
 - [[id:a0b7f03a-9c15-4bf0-ae71-2cd4bca3e715][Read what you love until you love to read]]
 - [cite:@tracingwoodgrainsBookReviewishWikipediaCofounderLarrySangerEssayTeachingReadingYear2018] and comments
 - [cite:@engelmanTeachYourChildRead100EasyLessons05]
   - Supplemental material: [cite:@VideosSupplementalMaterialTeachYourChildRead100EasyLessons]
+- Emily Hanford
+  - [cite:@hanfordWhyArenKidsBeingTaughtRead]
+  - [cite:@hanfordHowAmericanSchoolsFailKidsDyslexia]
+  - [cite:@hanfordHowFlawedIdeaTeachingMillionsKidsBePoorReaders]
+  - [cite:@hanfordManyKidsStruggleReadingChildrenColorAreFarLessLikely]
+  - [cite:@hanfordSoldStoryHowTeachingKidsReadWentWrong]
+** Art
+*** TODO [#2] [[https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain][Five origami books by Shuzo Fujimoto are now public domain]] :art:parenting:
 ** TODO Independence, confidence, self-assurance
 ** TODO Use of spaced repetition
 ** TODO Math
 - [[id:4c407900-03c1-40f0-85c6-9852da004f16][Learn math]]
+** Biology
+*** TODO [#2] [[https://jsomers.net/i-should-have-loved-biology/][I should have loved biology]] :learning:parenting:
+:PROPERTIES:
+:CREATED: [2022-07-09 13:48]
+:END:
+** Home schooling
+
+- Difficult to do right; easy to do poorly
+- Consider supplemental home schooling (e.g. extra math, reading, art, etc) in conjunction with traditional school
+- https://responsiblehomeschooling.org/
+- [cite:@c-dreymCheckOutThisResou2023]
+  #+begin_quote
+There are so many things to consider that I don't have time to write down all of them, but make sure if you homeschool that you are forcing yourself to be held accountable. Parents go in with the best of intentions, but then get behind and are told by other homeschool parents that it's normal and not to worry. A certain amount of flexibility is fine, but your kid getting too far behind does become an issue and is something you need to address sooner than later. Something like online school would at least hold you accountable better.
+
+Also you need to be held accountable against abuse and your kid needs to have a number of safe adults they can confide in that won't protect you. Obviously it's easy to say you're just not going to abuse your kid, and definitely don't do that, but my parents didn't think they were abusing me. After going through abuse while being isolated, I absolutely refuse to put my kid in an unprotected situation even from myself. Your kid is also most likely to face abuse from someone close to them. If you've made it clear who they can go to for concerns about anyone, even you, it helps prevent abuse from other close adults going unreported or getting dismissed. Regular doctor appointments are important too, both for health reasons and for accountability.
+
+Have a lot of humility. You're your child's parent, your going to be too close to always see everything that's going on. Take feedback from other people, especially those who have a background to know what they're talking about. My mom was convinced that I only struggled in math because of ADHD and carelessness, turns out I have a math learning disability that went undiagnosed my entire childhood. On the other hand, I got a lot farther in my math education than most people with math learning disabilities because of one on one teaching and higher expectations.
+
+Do your own homework on current educational best practices. For example, teach phonetics. Not being taught to read phonetically is something that's still difficult for me. Don't just use the highly advertised Christian homeschool curriculum. Don't just search your local homeschool Facebook group and go with whatever they are recommending or giving away for free. I got taught really outdated things that way. The average Joe is not qualified to make curriculum recommendations. This isn't even a job public school teachers have. Follow expert advice. This is another reason online school can be a better option.
+
+Get your kid involved with public school kids in non religious settings. Maybe even get them involved in public school activities. Depending on the state there is a lot in public schools available to homeschoolers. Socialization is extremely important, do not listen to anyone telling you it's not, socialization with their peers especially. I was always told it wasn't important because I would be interacting with only adults eventually anyways. Well those peers grew up to be different sorts of adults than our parents, so that didn't work out well for me at all. I also missed out on a lot of common experiences my peers had, which makes me feel like an outsider.
+
+Give your child a choice to go to public school, and don't lie to them about, or embellish, what it's like there. Lots of homeschoolers chose to remain homeschooled because we were afraid of public school when it would have been better for us. Also counter the lies of other people about public school. Homeschooling is pushed really strongly by homeschoolers, and that can make conversations about what's really best for the kid difficult. Also different schools can be very different experiences for different kids.
+
+I get that school shootings are concerning, but as a former homeschooler I'm going to be putting my kid into public school and keeping them there unless they really aren't doing well and want to try something else. I find homeschooling to be unnecessarily risky in America. I would also look at going through a public school program if I were to ever homeschool/online school. Parents don't know what they're doing better than the teachers that have an education in it, even if some teachers are awful. I originally went to college for education before switching majors, and there's a lot to it. My mom was a public school special education teacher before homeschooling us, and it wasn't enough. It's a lot to expect yourself to do the job of an entire school, and you're not an expert. I think homeschooling could be better, but it's not set up that way currently and I can't in good conscience recommend it as a better option, just better ways to go about it.
+#+end_quote
+- Consider the political angle of those introducing policies which drive parents to home school their kids: Women will bear the brunt of the schooling labor and will, statistically, drop out of the workforce at a higher rate. This may be a desirable secondary effect; weakening women's political power and enforcing a "traditional" family structure with the mother at home.
+
+* On sleep
+
+- Not getting 6/8 hours of uninterrupted sleep is at 6-12 months is [[id:31baeae2-3c88-43ec-8d74-bddd68004f8e][normal]] and has no affect on later mental or psychomotor development or maternal mood
+- Sleep training doesn't harm children
+  - [cite:@priceFiveYearFollowupHarmsBenefitsBehavioralInfantSleepInterventionRandomizedTrial2012]
+  - [cite:@mindellBehavioralTreatmentBedtimeProblemsNightWakingsInfantsYoungChildren2006]
+  - [cite:@hiscockLongtermMotherChildMentalHealthEffectsPopulationBasedInfantSleepIntervention2008]
+  - [cite:@gradisarBehavioralInterventionsInfantSleepProblemsRandomizedControlledTrial2016]
+
+* On food
+
+- Solid foods
+  - https://solidstarts.com/
+
+** On alergies
+
+- Look into early food interventions
+  - https://old.reddit.com/r/ScienceBasedParenting/comments/vvr64n/early_food_introduction_can_prevent_food/
+  - https://old.reddit.com/r/ScienceBasedParenting/comments/11u8paf/a_77_reduction_in_peanut_allergy_was_estimated/
 
 * On technology
 
 - Generally speaking, limit access to consumption-oriented activities and toward creation-oriented activities.
   - YouTube, for example, can be both.
   - This isn't a 0%/100% divide
+- Don't use screens to calm children. Doing so reduces their ability to regulate their own emotions.
+  - [cite:@radeskyLongitudinalAssociationsUseMobileDevicesCalmingEmotionalReactivityExecutiveFunctioning2023]
 - Hold yourself to the same standards, within reason
+** Blocking content
 - Use a pi-hole or equivalent to block junk like ads and some of the web
+*** TODO [#2] [[https://github.com/pi-hole/pi-hole][Pi-hole: A black hole for Internet advertisements]] :housing:parenting:
+:PROPERTIES:
+:CREATED: [2023-01-13 22:22]
+:END:
+** TODO [#2] [[https://simone.org/tracking-screen-time/][How to Stare at Your Phone Without Losing Your Soul]] :culture:parenting:
+:PROPERTIES:
+:CREATED: [2023-05-30 02:15]
+:END:
 
 * On learning to parent
 
@@ -61,7 +162,6 @@ A mega-note for all the parenting related topics I want to keep for future refer
 
 * How much time children take up
 - [[id:401eb269-861d-445a-847f-88f89c5c5971][Gunnar Zarncke | Child Development Plan - Years]]
-
 
 
 * Alternative education styles
@@ -77,225 +177,757 @@ A mega-note for all the parenting related topics I want to keep for future refer
 ** TODO When can/should kids start lifting weights?
 ** TODO How to foster flexibility?
 
-* TODO [cite:@lululu1uChildRearingItGoodIdea2021]
-* TODO [cite:@supposedlyfunSuccessfulMentoringParentingArrangedLessWrong]
-* TODO https://www.lesswrong.com/tag/parenting
-* TODO [#2] [[https://www.lesswrong.com/posts/dyJfGeWo5GX2u6NGi/experiences-raising-children-in-shared-housing][Experiences raising children in shared housing]] :parenting:
-* TODO [#2] [[https://perell.com/essay/the-price-of-discipline/][The Price of Discipline]] :parenting:essay:
+* Unread
+** TODO [cite:@lululu1uChildRearingItGoodIdea2021]
+** TODO [cite:@supposedlyfunSuccessfulMentoringParentingArrangedLessWrong]
+** TODO https://www.lesswrong.com/tag/parenting
+** TODO [#2] [[https://www.lesswrong.com/posts/dyJfGeWo5GX2u6NGi/experiences-raising-children-in-shared-housing][Experiences raising children in shared housing]] :parenting:
+** TODO [#2] [[https://perell.com/essay/the-price-of-discipline/][The Price of Discipline]] :parenting:essay:
 :PROPERTIES:
 :CREATED: [2021-12-31 09:57]
 :END:
 
-* TODO [#2] https://news.ycombinator.com/item?id=19396563 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=19396563 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=20173675 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=20173675 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=26047444 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=26047444 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=28112797 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=28112797 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=12742853 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=12742853 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=15800082 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=15800082 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=18995823 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=18995823 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=22913871 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=22913871 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=18953889 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=18953889 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=26249242 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=26249242 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=3149170 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=3149170 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=20015775 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=20015775 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=31793682 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=31793682 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=23010079 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=23010079 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=3551747 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=3551747 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=12345598 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=12345598 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=10458750 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=10458750 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=16639605 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=16639605 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=28669843 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=28669843 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=17023693 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=17023693 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=5682283 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=5682283 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=15253072 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=15253072 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=14268528 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=14268528 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=10529467 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=10529467 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=25603490 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=25603490 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=10404312 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=10404312 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=9141892 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=9141892 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=16882430 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=16882430 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=24189147 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=24189147 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=21043214 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=21043214 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=18848961 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=18848961 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=17685990 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=17685990 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=1494011 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=1494011 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=19183022 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=19183022 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=9793769 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=9793769 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=21338386 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=21338386 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=1679184 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=1679184 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=16810709 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=16810709 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=29252974 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=29252974 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=26444521 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=26444521 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=12879330 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=12879330 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=17601057 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=17601057 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=32366557 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=32366557 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=15529271 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=15529271 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=12050182 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=12050182 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=24383264 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=24383264 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=13450223 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=13450223 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=20077766 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=20077766 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=12441749 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=12441749 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=2973906 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=2973906 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=21167957 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=21167957 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=1176200 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=1176200 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=5543512 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=5543512 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=21053211 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=21053211 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=29223104 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=29223104 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=10113901 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=10113901 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://news.ycombinator.com/item?id=26343160 :parenting:
+** TODO [#2] https://news.ycombinator.com/item?id=26343160 :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/tuesday-family-dinner :parenting:
+** TODO [#2] https://www.jefftk.com/p/tuesday-family-dinner :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/pretending-not-to-notice :parenting:
+** TODO [#2] https://www.jefftk.com/p/pretending-not-to-notice :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/perverse-independence-incentives :parenting:
+** TODO [#2] https://www.jefftk.com/p/perverse-independence-incentives :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/approach-to-screen-time :parenting:
+** TODO [#2] https://www.jefftk.com/p/approach-to-screen-time :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/only-asking-real-questions :parenting:
+** TODO [#2] https://www.jefftk.com/p/only-asking-real-questions :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/another-calming-example :parenting:
+** TODO [#2] https://www.jefftk.com/p/another-calming-example :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/kids-posts-retrospective :parenting:
+** TODO [#2] https://www.jefftk.com/p/kids-posts-retrospective :parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/p/index :link_group:
+** TODO [#2] https://www.jefftk.com/p/index :link_group:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.jefftk.com/news/kids :link_group:parenting:
+** TODO [#2] https://www.jefftk.com/news/kids :link_group:parenting:
 :PROPERTIES:
 :END:
-* TODO [#2] https://www.lesswrong.com/tag/parenting :parenting:link_group:
+** TODO [#2] https://www.lesswrong.com/tag/parenting :parenting:link_group:
 :PROPERTIES:
 :END:
-* TODO https://news.ycombinator.com/item?id=21790396
-* TODO [#2] [[https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c][Team led by Japanese researchers reveals best way to put crying baby to sleep]] :parenting:
+** TODO https://news.ycombinator.com/item?id=21790396
+** TODO [#2] [[https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c][Team led by Japanese researchers reveals best way to put crying baby to sleep]] :parenting:
 :PROPERTIES:
 :CREATED: [2022-09-15 23:30]
 :END:
-* TODO [#2] [[https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf][A method to promote sleep in crying infants using the transport response [pdf]]] :parenting:
+** TODO [#2] [[https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf][A method to promote sleep in crying infants using the transport response [pdf]]] :parenting:
 :PROPERTIES:
 :CREATED: [2022-09-15 00:06]
 :END:
+** TODO [#2] [[https://www.theatlantic.com/family/archive/2022/09/the-best-way-to-teach-kids-about-danger/671310/][Don't teach kids to fear the world]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-09-01 15:53]
+:END:
+:PROPERTIES:
+:CREATED: [2022-10-23 15:50]
+:END:
+
+** TODO [#2] [[https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/][How to Do Nothing with Nobody All Alone by Yourself (2014)]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-07-11 07:09]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=31965616][Ask HN: How to keep my daughter busy while tickling her curiosity]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-07-03 06:38]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=31976803][Ask HN: First-time dad-to-be. What do you wish you'd known back then?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-07-04 13:28]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=31913454][Ask HN: What's the biggest problem you face as a parent?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-28 21:47]
+:END:
+** TODO [#2] [[https://www.artofmanliness.com/people/sunday-firesides-we-need-to-make-adulthood-more-desirable/][We need to make adulthood more desirable]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-26 12:12]
+:END:
+** TODO [#2] [[https://wyclif.substack.com/p/no-wait-stop-it-matters-how-you-raise][It matters how you raise your kids]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-11 11:23]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/v9zjhw/evidence_based_parenting_for_girls/][Evidence based parenting for girls]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-11 15:11]
+:END:
+** TODO [#2] [[https://www.theguardian.com/global-development/2022/jun/12/parental-alienation-and-the-unregulated-experts-shattering-childrens-lives][Parental alienation and the unregulated experts shattering children's lives]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-12 13:55]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/gytFzxCTW6ekgeNZJ/another-calming-example][Another Calming Example]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-03 14:02]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/v26qtp/birth_order_effects_nature_vs_nurture/][Birth Order Effects: Nature vs. Nurture]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-06-01 02:39]
+:END:
+** TODO [#2] [[https://www.pnas.org/doi/full/10.1073/pnas.2020104118][The impact of childhood lead exposure on adult personality (2021)]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-05-18 14:24]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/uorjgy/scott_in_my_model_the_presence_of_an_older/][Scott: "In my model, the presence of an older sibling suppresses openness to experience" – why is this the case, and is there any way as a parent to prevent younger siblings from having their openness to experience suppressed?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-05-13 13:17]
+:END:
+** TODO [#2] [[https://sive.rs/tk][Travel is best with young children]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-05-09 00:00]
+:END:
+** TODO [#2] [[https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf][Teen mental health is plummeting and social media is a major contributing cause [pdf]]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-05-05 01:23]
+:END:
+** TODO [#2] [[https://robkhenderson.substack.com/p/no-one-expects-young-men-to-do-anything][No one expects young men to do anything and they are responding by doing nothing]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-24 12:07]
+:END:
+** TODO [#2] [[https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv][A 4-year-old can run errands alone and not just on reality TV]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-20 14:36]
+:END:
+** TODO [#2] [[https://daily.jstor.org/the-dubious-art-of-the-dad-joke/][The Dubious Art of the Dad Joke]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-21 17:09]
+:END:
+** TODO [#2] [[https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi][I decided to move away for big tech for my children and myself]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-11 07:21]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/d7E2ZDdXJPzo9DbZe/common-knowledge-is-a-circle-game-for-toddlers][Common Knowledge is a Circle Game for Toddlers]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-13 19:19]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/uyBeAN5jPEATMqKkX/lies-told-to-children-1][Lies Told To Children]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-14 11:48]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/brpLHpJQ4tYfbudTo/only-asking-real-questions][Only Asking Real Questions]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-14 17:29]
+:END:
+** TODO [#2] [[https://www.npr.org/sections/goatsandsoda/2018/09/01/641266260/how-to-get-kids-to-do-chores-does-the-maya-method-work][How to get kids to do chores: Does the Maya method work? (2018)]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-02 12:25]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/7tykm38miMvhtPvjp/kids-posts-retrospective][Kids Posts Retrospective]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-04-01 17:40]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/thdm19/resources_and_practices_for_cultivating_toughness/][Resources and practices for cultivating toughness]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-03-18 19:54]
+:END:
+** TODO [#2] [[http://lambdaway.free.fr/lambdawalks/?view=meta5][Kids don't need tools for kids]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-03-14 12:07]
+:END:
+** TODO [#2] [[http://misc-stuff.terraaeon.com/articles/imprisoned.html][Imprisoned for Your Safety]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-02-19 23:05]
+:END:
+** TODO [#2] [[https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/][Why babies cry in the first three months, how to tell them apart, and what to do]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-02-20 00:18]
+:END:
+** TODO [#2] [[https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children][Is the Western way of raising kids weird?]] :parenting:
+:PROPERTIES:
+:CREATED: [2021-02-24 12:39]
+:END:
+** TODO [#2] [[https://www.mnn.com/lifestyle/arts-culture/stories/why-do-we-hate-things-teen-girls-love][Why must we hate the things teen girls love? (2018)]] :parenting:
+:PROPERTIES:
+:CREATED: [2021-03-06 13:16]
+:END:
+** TODO [#2] [[https://letgrow.org/childhood-independence-bills-update/][Making It Legal to Play Outside: "Reasonable Childhood Independence" Bills]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-23 19:06]
+:END:
+** TODO [#2] [[https://www.nationalgeographic.com/science/article/many-women-struggle-to-breastfeed-scientists-are-starting-to-ask-why][Many women struggle to breastfeed. Scientists are starting to ask why]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-15 18:34]
+:END:
+** TODO [#2] [[https://www.scientificamerican.com/article/let-teenagers-sleep/][Let Teenagers Sleep]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-13 20:57]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/10y1b96/rationalist_approaches_for_parents_to_health/][Rationalist approaches for parents to health, weight, body image and food]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-09 17:59]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=34680216][Ask HN: Concise, pragmatic baby manual for first-time dad?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-06 16:51]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/10vcg1i/childhoods_of_exceptional_people/][Childhoods of exceptional people]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-06 17:28]
+:END:
+** TODO [#2] [[https://reason.com/2023/01/30/dunkin-donuts-parents-arrested-kids-cops-freedom/][Connecticut Parents Arrested for Letting Kids Walk to Dunkin' Donuts]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-02 12:59]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/cscareerquestions/comments/10gskci/how_do_you_progress_in_your_career_after_having/][How do you progress in your career after having kids?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-01-20 09:26]
+:END:
+** TODO [#2] [[https://madeincosmos.substack.com/p/9-things-i-learned-from-my-2-year][Things I Learned from My 2 Year Old Baby Girl]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-01-14 22:23]
+:END:
+** TODO [#2] [[https://www.businessinsider.com/tech-execs-screen-time-children-bill-gates-steve-jobs-2019-9][Tech execs who raise their kids tech-free or limit their screen time (2020)]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-30 16:12]
+:END:
+** TODO [#2] [[https://www.kqed.org/mindshift/60624/young-adults-are-struggling-with-their-mental-health-is-more-childhood-independence-the-answer][Young adults and mental health: Is more childhood independence the answer?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-30 22:40]
+:END:
+** TODO [#2] [[https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies][What happens when babies are left to cry it out?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-29 14:40]
+:END:
+** TODO [#2] [[https://www.nature.com/articles/s41539-022-00148-5][Schooling improves intelligence, but not the impact of socioeconomics, genetics]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-28 08:38]
+:END:
+** TODO [#2] [[https://www.cnn.com/2021/11/27/us/documented-dreamers/index.html][Why hundreds of thousands of kids in the US dread their 21st birthdays]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-28 09:46]
+:END:
+** TODO [#2] [[https://www.latimes.com/california/story/2022-12-22/la-student-reports-card-grades-are-high-test-scores-are-low-why-the-big-disconnect][L.A. students have high grades but low test scores]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-23 03:05]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=34019486][Ask HN: How do you protect your children from internet addiction?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-16 20:01]
+:END:
+** TODO [#2] [[https://www.calnewport.com/blog/2022/12/16/on-teenage-luddites/][On Teenage Luddites]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-16 00:45]
+:END:
+** TODO [#2] [[https://torturechambersmalltalk.substack.com/p/safe-sex-the-consequences][No one wants to have kids anymore]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-12-06 13:00]
+:END:
+** TODO [#2] [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542665/][Persistent and pervasive impact of being bullied in childhood and adolescence]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-11-30 14:30]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=33622295][Ask HN: Anyone go through Montessori education until age 12 (end of grade 6)?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-11-16 13:03]
+:END:
+** TODO [#2] [[https://www.nature.com/articles/s41467-022-34113-y][Strong behavioral individuality is present at the first day after birth in fish]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-10-29 23:03]
+:END:
+** TODO [#2] [[https://dynomight.net/are-tests-irrelevant/][The irrelevance of test scores is greatly exaggerated]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-10-26 00:16]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/yd5tuf/im_seeing_a_lot_of_teachers_complain_that_their/][I'm seeing a lot of teachers complain that their students are increasingly missing key skills and struggling to complete basic assignments. Is there something happening here?]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-10-25 14:11]
+:END:
+** TODO [#2] [[https://www.1000hoursoutside.com/blog/time-with-kids-before-age-12][75% of the time we spend with our kids in our lifetime will be spent by age 12]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-10-18 21:58]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=33258925][Tell HN: The regret of parenting and how to handle it]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-10-19 07:42]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=33259414][Ask HN: How to deal with regret of not having kids]] :parenting:
+:PROPERTIES:
+:CREATED: [2022-10-19 09:00]
+:END:
+** TODO [#2] [[https://jonathanhaidt.substack.com/p/the-play-deficit][Play deprivation is a major cause of the teen mental health crisis]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-07-28 17:28]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/157frzy/experiences_or_things_you_recommend_doing_before/][Experiences or things you recommend doing before becoming too old (i.e. beyond late 20s)]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-07-23 14:08]
+:END:
+** TODO [#2] [[https://www.vipshek.com/blog/interaction][Beyond introvert vs. extrovert]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-07-19 16:26]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/151ynin/nervous_about_taking_paternity_leave/][Nervous about taking paternity leave]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-07-17 10:57]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/14z3ell/how_do_you_balance_between_advancing_technically/][How do you balance between advancing technically, growing your career while having a wife and kids?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-07-14 02:06]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/14v9vw5/escaping_high_school_a_guide_for_fourteenyearolds/]["Escaping High School: A guide for fourteen-year-olds and fourteen-year-olds at heart" (advice for bright but slacking teenagers)]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-07-09 21:08]
+:END:
+** TODO [#2] [[https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner][Ignoring boys' emotional needs fuels public health risks]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-06-25 20:04]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=36364182][Ask HN: What do you put in a "in case of death" file?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-06-16 21:30]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=24139644][Young children would rather explore than get rewards]] :parenting:
+:PROPERTIES:
+:CREATED: [2020-08-13 03:50]
+:END:
+** TODO [#2] [[https://waitbutwhy.com/2023/05/baby.html][10 Thoughts From the Fourth Trimester]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-05-23 19:32]
+:END:
+** TODO [#2] [[https://www.usatoday.com/in-depth/news/health/2023/05/15/school-avoidance-becomes-crisis-after-covid/11127563002/][Students are increasingly refusing to go to school]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-05-17 13:26]
+:END:
+** TODO [#2] [[https://jonathanhaidt.substack.com/p/sapien-smartphone-report][Kids who get smartphones earlier become adults with worse mental health]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-05-15 14:06]
+:END:
+** TODO [#2] [[https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use][Health advisory on social media use in adolescence]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-05-09 14:17]
+:END:
+** TODO [#2] [[https://calnewport.com/on-kids-and-smartphones/][On Kids and Smartphones]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-05-04 22:22]
+:END:
+** TODO [#2] [[https://www.cdc.gov/media/releases/2023/p0213-yrbs.html][U.S. Teen Girls Experiencing Increased Sadness and Violence]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-04-30 09:49]
+:END:
+** TODO [#2] [[https://journals.sagepub.com/doi/abs/10.1177/0305735612463948][Children aged 2-6 successfully trained to acquire absolute pitch (2012)]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-04-29 15:27]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/12eqnjn/parenting_advice_forum_or_group_chat/][Parenting advice forum or group chat.]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-04-07 16:23]
+:END:
+** TODO [#2] [[https://thezvi.wordpress.com/2023/04/11/childhood-roundup-2/][Childhood Roundup #2]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-04-11 13:43]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/12i4tr6/good_overview_of_the_state_of_scientific/][Good overview of the state of scientific knowledge on children gender-transitioning?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-04-11 02:09]
+:END:
+** TODO [#2] [[https://www.salon.com/2021/01/17/giving-kids-no-autonomy-at-all-has-become-a-parenting-norm--and-the-pandemic-is-worsening-the-trend/][Giving kids no autonomy at all has become a parenting norm]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-04-03 01:01]
+:END:
+** TODO [#2] [[https://jonathanhaidt.substack.com/p/international-mental-illness-part-one][The teen mental illness epidemic is international – Part 1: The Anglosphere]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-03-29 16:11]
+:END:
+** TODO [#2] [[https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds][Learning the ropes: why Germany is building risk into its playgrounds (2021)]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-03-19 16:06]
+:END:
+** TODO [#2] [[https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/][The Kids are Not Okay]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-03-08 13:29]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=35020814][Ask HN: Science fiction movies that are appropriate for 12 year olds?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-03-04 14:02]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=35014499][Tell HN: My son is being bullied for owning an Android phone]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-03-03 20:18]
+:END:
+** TODO [#2] [[https://rachelbythebay.com/w/2023/02/13/broken/][More than five whys and "layer eight" problems]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-02-14 00:39]
+:END:
+** TODO [#2] [[https://thezvi.wordpress.com/2023/10/10/childhood-roundup-3/][Childhood Roundup #3]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-10-10 14:20]
+:END:
+** TODO [#2] [[https://www.theguardian.com/lifeandstyle/2023/oct/07/10-questions-to-ask-a-teenager-to-start-an-important-conversation][Questions to ask a teenager to start an important conversation]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-10-08 05:43]
+:END:
+** TODO [#2] [[https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf][Decline in independent activity as a cause of  decline in child mental health]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-10-15 05:15]
+:END:
+** TODO [#2] [[https://joeprevite.com/2-years-bilingual-journey/][Two years of raising a bilingual daughter]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-10-13 20:18]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=37520374][Ask HN: How do you manage your "family data warehouse"?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-09-15 09:15]
+:END:
+** TODO [#2] [[https://www.astralcodexten.com/p/critical-periods-for-language-much][Critical Periods For Language: Much More Than You Wanted To Know]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-23 04:47]
+:END:
+** TODO [#2] [[https://www.astralcodexten.com/p/more-thoughts-on-critical-windows][More Thoughts On Critical Windows]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-24 02:18]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/15zooty/more_thoughts_on_critical_windows/][More Thoughts On Critical Windows]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-24 02:21]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/15ytoso/critical_periods_for_language_much_more_than_you/][Critical Periods For Language: Much More Than You Wanted To Know]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-23 04:55]
+:END:
+** TODO [#2] [[https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593][Screen Time at Age 1 Year and Communication, Problem-Solving Developmental Delay]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-21 21:20]
+:END:
+** TODO [#2] [[https://www.jefftk.com/p/how-to-parent-more-predictably][How to parent more predictably (2018)]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-13 07:37]
+:END:
+** TODO [#2] [[https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/][Praising children for effort rather than ability (2021)]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-13 17:18]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=37091223][Ask HN: How do you handle tech use with your kids?]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-11 17:21]
+:END:
+** TODO [#2] [[https://www.fau.edu/newsdesk/articles/perils-middle-school-study.php][Perils of not being attractive or athletic in middle school]] :parenting:
+:PROPERTIES:
+:CREATED: [2023-08-11 01:06]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/rXX6vd2RrKHfePPfE/cultivating-and-destroying-agency][Cultivating And Destroying Agency]] :parenting:advice:
+:PROPERTIES:
+:CREATED: [2022-06-30 18:43]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=26202948][Most Teen Bullying Occurs Among Peers Climbing the Social Ladder]] :parenting:art:
+:PROPERTIES:
+:CREATED: [2021-02-20 15:12]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/13er50j/how_to_have_polygenically_screened_children/][How to have Polygenically Screened Children]] :parenting:biology:
+:PROPERTIES:
+:CREATED: [2023-05-11 15:46]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=37156372][Ask HN: Any interesting books you have read lately?]] :parenting:book:link_group:
+:PROPERTIES:
+:CREATED: [2023-08-17 02:18]
+:END:
+** TODO [#2] [[https://medium.com/@MariaLarkworthy/slaps-to-the-face-restarting-my-career-after-motherhood-fe346492f7c5][Restarting my career after motherhood]] :parenting:career:
+:PROPERTIES:
+:CREATED: [2022-06-05 14:16]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/119j0jo/social_media_is_a_major_cause_of_the_mental/][Social Media is a Major Cause of the Mental Illness Epidemic in Teen Girls. Here's the Evidence.]] :parenting:culture:
+:PROPERTIES:
+:CREATED: [2023-02-23 00:27]
+:END:
+** TODO [#2] [[https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic][Social media is a cause, not a correlate, of mental illness in teen girls]] :parenting:culture:
+:PROPERTIES:
+:CREATED: [2023-02-22 19:47]
+:END:
+** TODO [#2] [[https://thewalrus.ca/future-of-libraries/][Have you been to the library lately?]] :parenting:culture:art:
+:PROPERTIES:
+:CREATED: [2023-06-15 13:54]
+:END:
+** TODO [#2] [[https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/][The State Finally Letting Teens Sleep In]] :parenting:health:
+:PROPERTIES:
+:CREATED: [2022-06-12 03:20]
+:END:
+** TODO [#2] [[https://www.bbc.com/news/health-64987074][Give babies peanut butter to cut allergy by 77%, study says]] :parenting:health:
+:PROPERTIES:
+:CREATED: [2023-03-17 14:50]
+:END:
+** TODO [#2] [[https://oneusefulthing.substack.com/p/my-class-required-ai-heres-what-ive][My class required AI]] :parenting:learn:
+:PROPERTIES:
+:CREATED: [2023-02-20 14:35]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/vt75pj/nobody_knows_how_well_homework_works/][Nobody Knows How Well Homework Works]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-07-07 02:09]
+:END:
+*** TODO [#2] [[https://astralcodexten.substack.com/p/nobody-knows-how-well-homework-works][Nobody Knows How Well Homework Works]] :uncategorized:
+:PROPERTIES:
+:CREATED: [2022-07-07 02:00]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=31947895][Ask HN: If you've considered homeschooling, what's stopping you?]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-07-01 15:35]
+:END:
+** TODO [#2] [[https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity][The case for expanding rather than eliminating gifted education programs (2021)]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-06-08 16:45]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/urvch6/popular_education_in_sweden_much_more_than_you/][Popular education in Sweden: much more than you wanted to know]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-05-17 20:18]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/uhgugm/why_do_girls_do_better_at_school/][Why Do Girls Do Better At School?]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-05-03 14:04]
+:END:
+** TODO [#2] [[https://www.newyorker.com/books/under-review/the-miseducation-of-maria-montessori][The Miseducation of Maria Montessori]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-03-04 02:53]
+:END:
+** TODO [#2] [[https://www.lesswrong.com/posts/aaHDA4X6cTzFrvuSX/harms-and-possibilities-of-schooling][Harms and possibilities of schooling]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-02-22 13:39]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/ldwcyo/are_there_any_better_high_school_options_out_there/][Are there *any* better high school options out there?]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2021-02-06 11:59]
+:END:
+** TODO [#2] [[https://www.nature.com/articles/s41562-023-01531-x][Early morning university classes linked to poor sleep and academic performance]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2023-02-21 07:02]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/y85f8s/there_once_was_a_teacher_with_anki/][There once was a teacher with Anki…]] :parenting:learning:
+:PROPERTIES:
+:CREATED: [2022-10-19 15:16]
+:END:
+** TODO [#2] [[http://rachelbythebay.com/w/2023/02/13/broken/][More than five whys and "layer eight" problems]] :parenting:learning:management:
+:PROPERTIES:
+:CREATED: [2023-02-14 00:43]
+:END:
+** TODO [#2] [[https://fasterplease.substack.com/p/the-war-on-gifted-education][The war on gifted education]] :parenting:learning:politics:
+:PROPERTIES:
+:CREATED: [2022-03-03 18:09]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=33751099][Why is the state of mathematics education so abstract and uninspiring?]] :parenting:math:
+:PROPERTIES:
+:CREATED: [2022-11-26 08:49]
+:END:
+** TODO [#2] [[https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will][Refusing to teach kids math will not improve equity]] :parenting:math:pedagogy:
+:PROPERTIES:
+:CREATED: [2023-07-18 16:18]
+:END:
+** TODO [#2] [[https://features.apmreports.org/sold-a-story/][Sold a Story: How Teaching Kids to Read Went So Wrong]] :parenting:peda:
+:PROPERTIES:
+:CREATED: [2023-04-17 11:15]
+:END:
+** TODO [#2] [[https://news.ycombinator.com/item?id=24215044][My kid can't handle a virtual education, and neither can I]] :parenting:pedagogy:
+:PROPERTIES:
+:CREATED: [2020-08-20 01:35]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/138xecp/do_we_know_if_kindergarten_teachers_do_have_a/][Do we know if kindergarten teachers do have a huge impact on outcomes? Has any more research been done?]] :parenting:pedagogy:
+:PROPERTIES:
+:CREATED: [2023-05-05 18:37]
+:END:
+** TODO [#2] [[https://www.wsj.com/articles/schools-are-ditching-homework-deadlines-in-favor-of-equitable-grading-dcef7c3e][Schools are ditching homework, deadlines in favor of 'equitable grading']] :parenting:pedagogy:
+:PROPERTIES:
+:CREATED: [2023-04-26 16:52]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/145l1fz/best_coding_resources_for_kindergarteners_really/][Best coding resources for kindergarteners, really.]] :parenting:software_engineering:pedagogy:
+:PROPERTIES:
+:CREATED: [2023-06-10 00:01]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/CuratedTumblr/comments/11f3bwe/12_year_olds_cookies_and_fascism/][12 year olds, cookies, and fascism]] :politics:parenting:
+:PROPERTIES:
+:CREATED: [2023-03-01 13:07]
+:END:
+
+
+** TODO [#2] [[https://skunkledger.substack.com/p/escaping-high-school][Escaping High School]] :pedagogy:parenting:
+:PROPERTIES:
+:CREATED: [2023-07-07 07:05]
+:END:
+** TODO [#2] [[https://rosiesherry.medium.com/i-unschool-my-5-kids-this-is-what-we-spend-our-money-on-8abd67c5f9c][I unschool my 5 kids. This is how much it costs]] :pedagogy:parenting:
+:PROPERTIES:
+:CREATED: [2023-03-23 21:12]
+:END:
+** TODO [#2] [[https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full][Improving Students' Learning with Effective Learning Techniques]] :pedagogy:parenting:
+:PROPERTIES:
+:CREATED: [2023-03-01 16:04]
+:END:
+** TODO [cite:@AttachmentParenting2023]
 
 * TODO [#2] Flashcards :noexport:
 

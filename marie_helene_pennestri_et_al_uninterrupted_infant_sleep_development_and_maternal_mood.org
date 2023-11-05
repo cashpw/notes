@@ -1,0 +1,86 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@pennestriUninterruptedInfantSleepDevelopmentMaternalMood2018]
+:ID:       31baeae2-3c88-43ec-8d74-bddd68004f8e
+:LAST_MODIFIED: [2023-11-04 Sat 08:18]
+:END:
+#+title: Marie-Hélène Pennestri, et al | Uninterrupted Infant Sleep, Development, and Maternal Mood
+#+hugo_custom_front_matter: :slug "31baeae2-3c88-43ec-8d74-bddd68004f8e"
+#+author: Cash Weaver
+#+date: [2023-11-04 Sat 07:47]
+#+filetags: :reference:
+
+[cite:@pennestriUninterruptedInfantSleepDevelopmentMaternalMood2018]
+
+* Summary
+
+#+begin_quote
+Using a definition of either 6 or 8 hours of uninterrupted sleep, we found that 27.9% to 57.0% of 6- and 12-month-old infants did not sleep through the night. Linear regressions revealed no significant associations between sleeping through the night and concurrent or later mental development, psychomotor development, or maternal mood (P > .05). However, sleeping through the night was associated with a much lower rate of breastfeeding (P < .0001).
+#+end_quote
+
+- At 6 months old, ~60% got <8 hours of uninterrupted sleep at night and ~40% got <6 hours
+- At 12 months old, ~45% got <8 hours of uninterrupted sleep at night and ~30% got <6 hours
+- Breastfeeding is correlated (may not cause) lower uninterrupted sleep duration
+  - Most children who didn't get 6/8 hours uninterrupted sleep were breastfed
+  - It's still a good idea to breastfeed; if possible
+
+* Thoughts
+* Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/31/baeae2-3c88-43ec-8d74-bddd68004f8e/peds_20174330.pdf
+:NOTER_PAGE: 3
+:END:
+** Summary
+*** Objectives
+#+begin_quote
+Contrary to the importance of total sleep duration, the association between sleeping through the night and development in early infancy remains unclear. Our aims were to investigate the proportion of infants who sleep through the night (6- or 8-hour sleep blocks) at ages 6 and 12 months in a longitudinal cohort and to explore associations between sleeping through the night, mental and psychomotor development, maternal mood, and breastfeeding.
+#+end_quote
+*** Methods
+#+begin_quote
+At 6 and 12 months of age, maternal reports were used to assess the longest period of uninterrupted infant sleep and feeding method (n = 388). Two different criteria were used to determine if infants slept through the night: 6 and 8 hours of uninterrupted sleep. Mental and psychomotor developmental indices (Bayley Scales of Infant Development II) and maternal mood (Center for Epidemiologic Studies Depression Scale) were measured at 6, 12, and 36 months of age.
+#+end_quote
+*** Results
+#+begin_quote
+Using a definition of either 6 or 8 hours of uninterrupted sleep, we found that 27.9% to 57.0% of 6- and 12-month-old infants did not sleep through the night. Linear regressions revealed no significant associations between sleeping through the night and concurrent or later mental development, psychomotor development, or maternal mood (P > .05). However, sleeping through the night was associated with a much lower rate of breastfeeding (P < .0001).
+#+end_quote
+*** Conclusions
+#+begin_quote
+Considering that high proportions of infants did not sleep through the night and that no associations were found between uninterrupted sleep, mental or psychomotor development, and maternal mood, expectations for early sleep consolidation could be moderated.
+#+end_quote
+** Introduction
+
+#+begin_quote
+For most parents, the time when infants should consolidate their sleep (a process often called "sleeping through the night") is a major concern. Sleeping through the night is a different concept from total nocturnal sleep duration (which refers to the total sleep duration during the night), and it is also different from total sleep duration (which refers to the total sleep duration in a 24-hour period). Sleeping through the night is instead defined as the longest period of uninterrupted sleep without parental intervention (ie, sleep blocks of a specific duration, typically 6 or 8 hours). This is widely considered a developmental milestone that should be achieved at approximately age 5 or 6 months. However, researchers in several studies have reported that not all infants conform to this classic developmental timeline. Although studies show that increasing percentages of infants sleep through the night as they grow up, they also show major interindividual differences.
+
+Sleeping through the night at age 6 to 12 months is generally considered the gold standard in Western industrialized nations, and behavioral sleep training (such as controlled crying) is popular among parents and professionals.
+#+end_quote
+
+** Results
+
+#+begin_quote
+#+DOWNLOADED: https://aap2.silverchair-cdn.com/aap2/content_public/journal/pediatrics/142/6/10.1542_peds.2017-4330/7/m_peds_20174330_fig1.jpeg?Expires=1700560810&Signature=WnfNHdfNf8PcleStC~9FhxU1oXsMYKL-RTlC6ZeniR-8JVdn0L3a0qpBFDmKsrw2AlGkYLuDQI4oiyFnR9P~NjzP9tGzxK0R19axmbExHM83845M59FQmRbA0fKpEI~hsMgXcfEdMjyI1P7TBDH7jdxLvjUWDCuwCEUV~AbRRNtm-Z7hYO8VVM~ZnwplkQaQ20jHJFRzfYiMTOBi5WNraEMyOL6yESrG4X0uCadynkczKWKcKzRkMMCfpvabyMWq39AJ1thLn6ykIDsVoJEDCxaysXniaHfgdsZnI4XLi~KW6ku1gLDNb9iwwJwaEnmQq9k1rOjFGWY-Mz8GIUFwWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA @ 2023-11-04 08:03:37
+[[file:2023-11-04_08-03-37_m_peds_20174330_fig1.jpeg.jpeg]]
+#+end_quote
+
+
+| Age (months) | Uninterrupted sleep criterion (hours) | Slept through night (%) | **Didn't** sleep through night (%) |
+|--------------+---------------------------------------+-------------------------+------------------------------------|
+|            6 |                                     6 |                   62.4% |                              37.6% |
+|            6 |                                     8 |                   43.0% |                              57.0% |
+|           12 |                                     6 |                   72.1% |                              27.9% |
+|           12 |                                     8 |                   56.6% |                              43.4% |
+
+#+begin_quote
+#+DOWNLOADED: https://aap2.silverchair-cdn.com/aap2/content_public/journal/pediatrics/142/6/10.1542_peds.2017-4330/7/m_peds_20174330_fig2.jpeg?Expires=1700560810&Signature=jQlhIE4qqeQUgO5KqL02EABs2GRp5GmLbEEteBihWWcxwbWopIofuY2vhA4S44A-SutIR446oK0155Va1kGL1MhCaGEr7KsXNPQipwnKRBc0d28FKhqxmpAMHMLyW6h9y1Y2kBgmkaAK6Dcqj-~XQ7R4veLtvF3WVq9rTt7va4i0a1RcajAzmKN~5JSCEpO~e2ZQoKFLq9~QCayiiH1fPbkp-x4MBFCgbKkqSSP0TOXbGTwHX8N9fOgYkA681G-J1~~WJNELUl9i7Vnu5fYGX8VIKMXgPBtpH-J7wzui2A9WvVvMB4jRJKTkBMK6xg6pfkIM8IDHhS8Mk6u96fV4mw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA @ 2023-11-04 08:03:53
+[[file:2023-11-04_08-03-53_m_peds_20174330_fig2.jpeg.jpeg]]
+#+end_quote
+
+| Age (months) | Uninterrupted sleep criterion (hours) | % of "Slept through night" | % of "**Didn't** sleep through night" |
+|--------------+---------------------------------------+----------------------------+---------------------------------------|
+|            6 |                                     6 |                      55.0% |                                 80.8% |
+|            6 |                                     8 |                      49.1% |                                 76.5% |
+|           12 |                                     6 |                      23.8% |                                 56.4% |
+|           12 |                                     8 |                      22.1% |                                 47.1% |
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
