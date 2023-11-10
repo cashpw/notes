@@ -177,8 +177,6 @@ The programming language
 
 *** Source
 
-* Bibliography
-#+print_bibliography:
 
 ** TODO [#2] =all=
 ** TODO [#2] =any=
@@ -582,3 +580,5 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 
 *** Source
 [cite:@Python11Documentation]
+* Bibliography
+#+print_bibliography:

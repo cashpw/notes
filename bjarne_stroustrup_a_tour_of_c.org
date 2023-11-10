@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-11-03 Fri 07:28]
+:LAST_MODIFIED: [2023-11-09 Thu 08:39]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -637,8 +637,6 @@
 :PROPERTIES:
 :NOTER_PAGE: 281
 :END:
-**** 19.4 Bibliography
-:PROPERTIES:
 :NOTER_PAGE: 284
 :END:
 **** 19.5 Advice
@@ -964,7 +962,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    77.12 | 2023-11-06T16:18:58Z |
+|        0 | 2.20 |   7 |   177.63 | 2024-05-05T07:46:50Z |
 :END:
 
 (C++) A declaration specifies {{a type (e.g. =int=) name (e.g. =count=)}@0}.
@@ -1026,7 +1024,7 @@ C++'s built-in types reflect {{the capabilities of conventional computer hardwar
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    98.43 | 2023-11-03T00:25:06Z |
+| front    | 2.50 |   7 |   247.20 | 2024-07-13T21:09:31Z |
 | back     | 1.90 |   5 |    22.26 | 2023-11-07T13:40:29Z |
 :END:
 
@@ -1061,3 +1059,5 @@ int main() {
 
 *** Source
 [cite:@stroustrupTour2022]
+**** 19.4 Bibliography
+:PROPERTIES:

@@ -35,8 +35,6 @@ A path is a trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theor
 A [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which all [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] (and therefore all [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]) distinct.
 *** Source
 [cite:@PathGraphTheory2022]
-* Bibliography
-#+print_bibliography:
 ** Compare and contrast :fc:
 :PROPERTIES:
 :CREATED: [2022-12-22 Thu 12:02]
@@ -60,3 +58,5 @@ A [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which all
 - [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]: [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] with distinct vertices
 *** Source
 [cite:@PathGraphTheory2022]
+* Bibliography
+#+print_bibliography:

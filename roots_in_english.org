@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-10-30 Mon 08:14]
+:LAST_MODIFIED: [2023-11-09 Thu 08:36]
+:ROAM_ALIASES: "Greek roots"
 :END:
 #+title: Roots in English
 #+hugo_custom_front_matter: :slug "76c57b75-4cc3-4d66-b5fb-4fd6cc9be039"
@@ -47,7 +48,7 @@ Ur-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   6 |    48.50 | 2023-11-06T03:44:56Z |
+| front    | 2.05 |   7 |    92.41 | 2024-02-09T02:23:04Z |
 | back     | 2.50 |   4 |    16.38 | 2023-11-03T22:49:34Z |
 :END:
 
@@ -57,6 +58,30 @@ Ab-, a-
 Away from, down, off
 *** Source
 [cite:@ListGreekLatinRootsEnglish2022]
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-11-09 Thu 08:35]
+:FC_CREATED: 2023-11-09T16:36:31Z
+:FC_TYPE:  double
+:ID:       49e9a811-e5c0-4f7e-88a7-fd97ccbb89c8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-11-09T16:36:31Z |
+| back     |  2.5 |  -1 |        0 | 2023-11-16T16:36:31Z |
+:END:
+
+Endo-
+
+*** Back
+- within
+- inner
+- absorbing
+- containing
+*** Source
+- [cite:@Endo2023a]
+- [cite:@Endo2023]
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2023-01-20 Fri 11:26]
@@ -327,3 +352,5 @@ Morph-, -morph
 - Shape
 *** Source
 [cite:@ListGreekLatinRootsEnglish2023a]
+* Bibliography
+#+print_bibliography:

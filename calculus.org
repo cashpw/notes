@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7
 :ROAM_REFS: [cite:@Calculus2023]
-:LAST_MODIFIED: [2023-09-30 Sat 00:53]
+:LAST_MODIFIED: [2023-11-06 Mon 06:50]
 :END:
 #+title: Calculus
 #+hugo_custom_front_matter: :slug "9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7"
@@ -28,7 +28,7 @@ It has two major branches, differential calculus [[[id:d5355c3a-2137-46b2-af5a-1
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   158.33 | 2023-11-05T23:16:55Z |
+| front    | 2.35 |   8 |   357.13 | 2024-10-28T17:58:06Z |
 | back     | 2.65 |   7 |   396.44 | 2024-10-30T18:20:38Z |
 :END:
 
@@ -59,3 +59,5 @@ Two major branches of [[id:9dd5be35-ca4c-4c0b-8e1c-57025b2e2ba7][Calculus]]
 The mathematical study of continuous change.
 *** Source
 [cite:@Calculus2023]
+* Bibliography
+#+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       442a1e1b-97dd-4c64-b2ae-696c750ad288
 :ROAM_REFS: [cite:@StdUniquePtr]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-09 Thu 08:38]
 :END:
 #+title: std::unique_ptr
 #+hugo_custom_front_matter: :slug "442a1e1b-97dd-4c64-b2ae-696c750ad288"
@@ -28,7 +28,7 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   105.51 | 2023-11-09T03:12:10Z |
+| front    | 2.50 |   7 |   277.66 | 2024-08-13T08:29:20Z |
 | back     | 2.50 |   6 |    99.92 | 2023-11-12T13:26:23Z |
 :END:
 
@@ -38,3 +38,5 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 Implementation of a [[id:40d2da04-01ce-49e3-9f51-781c04d5bf8d][Smart pointer]] that owns and manages another object through a pointer and disposes of that object when the pointer goes out of scope.
 *** Source
 [cite:@StdUniquePtr]
+* Bibliography
+#+print_bibliography:

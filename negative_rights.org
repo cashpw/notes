@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310
 :ROAM_ALIASES: "Negative right"
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-11-09 Thu 08:30]
 :END:
 #+title: Negative rights
 #+hugo_custom_front_matter: :slug "7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310"
@@ -58,7 +58,7 @@ Example: Freedom of speech
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   212.92 | 2023-11-08T13:38:23Z |
+| front    | 2.50 |   8 |   513.81 | 2025-04-06T11:59:09Z |
 | back     | 2.80 |   8 |   637.82 | 2025-05-28T10:51:09Z |
 :END:
 
@@ -70,3 +70,5 @@ Example: Freedom of speech
 - Freedom of religion
 *** Source
 [cite:@NegativePositiveRights2022]
+* Bibliography
+#+print_bibliography:

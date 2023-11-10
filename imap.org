@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       75889b24-da04-4143-80d4-764020db6bc9
+:LAST_MODIFIED: [2023-11-09 Thu 08:39]
+:ROAM_REFS: [cite:@InternetMessageAccessProtocol2023]
+:END:
+#+title: IMAP
+#+hugo_custom_front_matter: :slug "75889b24-da04-4143-80d4-764020db6bc9"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-09 Thu 08:31]
+#+filetags: :concept:
+
+#+begin_quote
+In computing, the Internet Message Access Protocol (IMAP) is an Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection. IMAP is defined by RFC 9051.
+
+[cite:@InternetMessageAccessProtocol2023]
+#+end_quote
+* Flashcards :noexport:
+** Definition :fc:
+:PROPERTIES:
+:ID:       812540df-4af6-4896-bf89-9557ddb8ff77
+:ANKI_NOTE_ID: 1656854711373
+:FC_CREATED: 2022-07-03T13:25:11Z
+:FC_TYPE:  double
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
+| front    | 1.30 |   2 |     2.00 | 2023-11-11T16:39:40Z |
+:END:
+
+IMAP
+
+*** Back
+
+Internet protocol used by email clients to retrieve email from a mail server over TCP/IP
+
+*** Source
+[cite:@InternetMessageAccessProtocol2023]
+
+* Bibliography
+#+print_bibliography:

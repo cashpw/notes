@@ -192,8 +192,6 @@ The smallest output of a function over the function's domain.
 *** Source
 [cite:@MaximaMinima2022]
 
-* Bibliography
-#+print_bibliography:
 ** Definition (Math) :fc:
 :PROPERTIES:
 :ID:       d5fbb8e4-2b6b-4603-af66-10e605dc256a
@@ -235,3 +233,5 @@ The largest output of a function over some subset of the domain.
 - {{Relative maxima}@1}
 
 *** Source
+* Bibliography
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       efd422ba-2509-48c9-b267-265f3c369462
-:LAST_MODIFIED: [2023-11-03 Fri 07:36]
+:LAST_MODIFIED: [2023-11-09 Thu 08:26]
 :END:
 #+title: Associative array
 #+hugo_custom_front_matter: :slug "efd422ba-2509-48c9-b267-265f3c369462"
@@ -28,7 +28,7 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   4 |    12.75 | 2023-10-19T01:29:07Z |
+| back     | 2.20 |   5 |    27.98 | 2023-12-07T15:53:15Z |
 | front    | 1.90 |   8 |   215.48 | 2024-03-08T03:26:21Z |
 :END:
 
@@ -36,8 +36,6 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 
 *** Back
 A [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a collection of =key, value= pairs such that each possible key appears at most once in the collection.
-* Bibliography
-#+print_bibliography:
 
 *** Source
 [cite:@AssociativeArray2022]
@@ -65,3 +63,5 @@ Common API of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
 - =insert=
 *** Source
 [cite:@AssociativeArray2022]
+* Bibliography
+#+print_bibliography:

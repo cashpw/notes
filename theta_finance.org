@@ -44,8 +44,6 @@ The value of an option can be analysed into two parts: the [[id:04af40d8-212f-47
 *** Source
 [cite:@GreeksFinance2022]
 
-* Bibliography
-#+print_bibliography:
 ** (Finance) {{$\Theta$}@0} $=$ {{$- \frac{\partial V}{\partial\tau}$}@1} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:16]
@@ -64,3 +62,5 @@ The value of an option can be analysed into two parts: the [[id:04af40d8-212f-47
 
 *** Source
 [cite:@GreeksFinance2022]
+* Bibliography
+#+print_bibliography:

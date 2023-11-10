@@ -46,8 +46,6 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent 
 
 *** Source
 [cite:@BinaryTree2022]
-* Bibliography
-#+print_bibliography:
 ** Image :fc:
 :PROPERTIES:
 :ID:       dc144251-0d6b-48ee-91de-0d501791f431
@@ -87,3 +85,5 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent 
 - {{Linked list}@2}
 *** Source
 [cite:@BinaryTree2022]
+* Bibliography
+#+print_bibliography:

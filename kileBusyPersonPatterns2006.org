@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-09-21 Thu 07:17]
+:LAST_MODIFIED: [2023-11-09 Thu 08:37]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -635,7 +635,7 @@ Isolate important tasks and perform them separately -- eliminating distraction a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   378.80 | 2024-07-06T09:14:28Z |
-| back     | 2.50 |   7 |   167.77 | 2023-10-24T11:09:35Z |
+| back     | 2.50 |   8 |   386.75 | 2024-11-30T10:37:51Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
@@ -856,7 +856,7 @@ Consider [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]] when
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   210.07 | 2023-11-05T17:21:35Z |
+| front    | 2.50 |   8 |   564.99 | 2025-05-27T16:08:15Z |
 | back     | 2.35 |   7 |   212.57 | 2023-12-10T04:59:39Z |
 :END:
 
@@ -890,3 +890,5 @@ Don't put time into tasks which will make no difference to anyone or tasks which
 Reduce the quality of your output to a level that will satisfy the requestor and meet their expectations when possible to protect against perfectionism and to give yourself time to dedicate to tasks where the extra effort will reap the greatest gains.
 *** Source
 [cite:@kileBusyPersonPatterns2006]
+* Bibliography
+#+print_bibliography:

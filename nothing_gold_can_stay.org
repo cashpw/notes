@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       90684bfd-668f-4559-bac8-99cbcefb4c08
 :ROAM_ALIASES: "Nothing gold can stay"
-:LAST_MODIFIED: [2023-10-30 Mon 07:57]
+:LAST_MODIFIED: [2023-11-10 Fri 10:15]
 :END:
 #+title: Robert Frost | Nothing Gold Can Stay
 #+hugo_custom_front_matter: :slug "90684bfd-668f-4559-bac8-99cbcefb4c08"
@@ -23,7 +23,6 @@ Nothing gold can stay.
 [[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]], [cite:@NothingGoldCanStayPoem2022]
 
 * Flashcards :noexport:
-
 ** Poem :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-09-16T03:09:20Z
@@ -68,7 +67,7 @@ Nothing gold can stay.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   0 |     0.00 | 2023-10-30T14:57:33Z |
+| front    | 2.20 |   0 |     0.00 | 2023-11-10T18:13:29Z |
 :END:
 
 [[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing gold can stay]]
@@ -100,3 +99,5 @@ Nothing gold can stay.
 [[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing Gold Can Stay]]
 *** Back
 [[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]]
+* Bibliography
+#+print_bibliography:

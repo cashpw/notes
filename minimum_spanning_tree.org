@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
-:LAST_MODIFIED: [2023-11-03 Fri 07:29]
+:LAST_MODIFIED: [2023-11-10 Fri 10:13]
 :ROAM_REFS: [cite:@MinimumSpanningTree2022]
 :END:
 #+title: Minimum spanning tree
@@ -169,7 +169,7 @@ For any cycle $C$ in the graph, if the weight of an edge $e$ of $C$ is larger th
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   366.38 | 2024-09-08T00:07:46Z |
-| back     | 2.35 |   4 |    13.69 | 2023-11-01T06:19:18Z |
+| back     | 2.35 |   5 |    34.18 | 2023-12-14T22:32:48Z |
 :END:
 
 [[id:1f772508-2f8d-42c6-ac79-2ed7dd02f874][Cut property]] of a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       06156007-ba51-4934-9df5-b923e2030026
 :ROAM_ALIASES: "Rules for parenting"
-:LAST_MODIFIED: [2023-10-24 Tue 17:15]
+:LAST_MODIFIED: [2023-11-06 Mon 16:49]
 :END:
 #+title: Guidelines for parenting
 #+hugo_custom_front_matter: :slug "06156007-ba51-4934-9df5-b923e2030026"
@@ -9,21 +9,51 @@
 #+date: [2022-04-01 Fri 19:19]
 #+filetags: :hastodo:concept:
 
-Note these are [[id:ce681f64-8116-4c83-b25a-0e108e91fddb][guidelines, not rules]], that I'm not a parent and don't know what I'm talking about, and anything below that's true is only so in a general/average sort of way and that children are unique and worthy of unique attention and care.
+The [[id:650501e5-3253-46a2-8795-cf09c86edf16][Boring fundamentals]] of parenting, in my opinion[fn:1]. In no particular order:
 
-In no particular order:
+* [[id:f47e5468-edb4-4e15-bb7c-892ed0875cd9][Be predictable]]
+* [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
 
-- [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]; tell the truth but perhaps not the full truth. The answer should be proportional to both the child's interest level and their capacity for understanding.
+Tell the truth but perhaps not the full truth. The answer should be proportional to both the child's interest level and their capacity for understanding.
 
-  To use the concept of death as an example: Be [[id:eb55ec18-edb6-4116-901a-b8c1a29a1ffc][specific and honest]] when talking about death; however, don't feel the need to mention the [[id:e549e41e-1a12-41a9-8547-540eefac6d81][Heat death of the universe]].
+To use the concept of death as an example: Be [[id:eb55ec18-edb6-4116-901a-b8c1a29a1ffc][specific and honest]] when talking about death; however, don't feel the need to mention the [[id:e549e41e-1a12-41a9-8547-540eefac6d81][Heat death of the universe]].
 
 * TODO [#3] Expand
+
 References:
 
 - [[id:99e14785-13bb-420c-b0b5-b14bad1bd163][Freddish]]
 - [[id:eb55ec18-edb6-4116-901a-b8c1a29a1ffc][Fred Rodgers Institute | When Someone a Child Loves Dies]]
 - [[id:cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce][Dave Orr | Parenting Rules]]
 - [cite:@weinersmithSaturdayMorningBreakfastCerealParentingTechnique]
+- Readily admit fault and apologize; humanizes yourself and recognizes and affirms the child's personhood by demonstrating they're worthy of an apology and that the parent isn't "above them" in that way
+- Golden rule: Act in a way that you want your child to act
+  - Be calm
+  - Be kind
+  - Etc
+- You're raising an adult --- not a child. Think in terms of their whole lives.
+- Every "game" with a child is a repeated game; giving in is a bad strategy.
+- Acknowledge and validate their feelings
+- As much as is possible; invite and support their autonomy
+- Decide between all parents how to respond to things in advance whenever possible
+  - When an expected behavior isn't happening (e.g. Not cleaning up after themselves)
+  - When an inappropriate behavior is currently happening (e.g. Running through the house)
+  - When an inappropriate behavior has already happened (e.g. Child A hit Child B)
+- Remember that each child is different
+  - Punishments aren't universally applicable, and neither are rewards
+- "No" isn't enough
+  - Provide the /why/ behind the no
+  - Provide an alternative
+  - Provide a timeline on when the thing could happen (e.g. "No, we can't go to the park now but we'll go tomorrow.")
+  - Alternatively, phrase it without the negative (e.g. Instead of "Don't stand on the chair." use "What are chairs for?")
 
 * TODO [#3] Flashcards :noexport:
 
+
+
+
+* Footnotes
+
+[fn:1] Note (1) these are [[id:ce681f64-8116-4c83-b25a-0e108e91fddb][guidelines, not rules]], that (2) I'm not a parent and don't know what I'm talking about, and (3) anything below that's true is only so in a general/average sort of way and that children are unique and worthy of unique attention and care.
+* Bibliography
+#+print_bibliography:

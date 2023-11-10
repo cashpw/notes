@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
-:LAST_MODIFIED: [2023-11-03 Fri 07:42]
+:LAST_MODIFIED: [2023-11-09 Thu 08:32]
 :END:
 #+title: Computer science
 #+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
@@ -125,30 +125,6 @@ Floating and fixed point number representations
   - The fixed point representation can represent fewer total numbers than the floating point representation can.
 *** Source
 [cite:@FloatingpointArithmetic2022]
-** Definition :fc:
-:PROPERTIES:
-:ID:       812540df-4af6-4896-bf89-9557ddb8ff77
-:ANKI_NOTE_ID: 1656854711373
-:FC_CREATED: 2022-07-03T13:25:11Z
-:FC_TYPE:  double
-:END:
-:REVIEW_DATA:
-| position | ease | box | interval | due                  |
-|----------+------+-----+----------+----------------------|
-| back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
-| front    | 1.30 |   0 |     0.00 | 2023-11-03T14:42:21Z |
-:END:
-
-IMAP
-
-*** Back
-Internet protocol used by email clients to retrieve email from a mail server over TCP/IP
-
-*** TODO [#4] Source
-https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
-
-* Bibliography
-#+print_bibliography:
 ** Definition (Information theory) :fc:
 :PROPERTIES:
 :ID:       0b73a544-dfc1-4507-a8b2-12e3d9f4f13a
@@ -173,3 +149,5 @@ The number of positions in two strings of equal length at which the correspondin
 
 *** Source
 TODO: Source
+* Bibliography
+#+print_bibliography:

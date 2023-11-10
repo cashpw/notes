@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9f52c68a-3302-47bc-a4a4-3a4ff20d41be
-:LAST_MODIFIED: [2023-10-16 Mon 00:27]
+:LAST_MODIFIED: [2023-11-08 Wed 08:28]
 :END:
 #+title: Non-zero-sum game
 #+hugo_custom_front_matter: :slug "9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
@@ -27,7 +27,7 @@ The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   428.67 | 2024-08-29T07:13:05Z |
-| back     | 1.30 |   5 |    10.04 | 2023-10-26T08:25:52Z |
+| back     | 1.30 |   6 |    12.69 | 2023-11-21T09:07:05Z |
 :END:
 [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
 *** Back
@@ -54,3 +54,5 @@ Payoffs
 A situation in which the player's aggregate gains and losses can be less than or more than zero. That is, one player's gain doesn't require an equivalent loss by one or more other players.
 *** Source
 [cite:@ZerosumGame2022]
+* Bibliography
+#+print_bibliography:

@@ -38,8 +38,6 @@ Questions which require "brief thought" and a basic understanding of an already-
 *** Source
 [cite:@LowerOrderQuestionsTAPFacilitatorResourceCenter]
 
-* Bibliography
-#+print_bibliography:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2022-12-20 Tue 16:53]
@@ -60,3 +58,5 @@ Questions which require "brief thought" and a basic understanding of an already-
 
 *** Source
 [cite:@LowerOrderQuestionsTAPFacilitatorResourceCenter]
+* Bibliography
+#+print_bibliography:

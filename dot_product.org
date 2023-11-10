@@ -2,7 +2,7 @@
 :ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
 :ROAM_ALIASES: "Scalar product"
 :ROAM_REFS: [cite:@DotProduct2022]
-:LAST_MODIFIED: [2023-10-30 Mon 08:15]
+:LAST_MODIFIED: [2023-11-09 Thu 08:24]
 :END:
 #+title: Dot product
 #+hugo_custom_front_matter: :slug "a9b744d3-b4e2-4050-90de-85d59ed6beff"
@@ -143,7 +143,7 @@ It defines:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 1.75 |   6 |    28.88 | 2023-11-28T12:25:34Z |
-|        1 | 2.35 |   6 |    90.53 | 2023-10-28T03:39:04Z |
+|        1 | 2.35 |   7 |   226.70 | 2024-06-23T09:14:00Z |
 :END:
 
 *** Extra
@@ -152,6 +152,7 @@ $\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
 *** Source
 [cite:@DotProduct2022]
 [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]]
+
 ** {{[[id:a9b744d3-b4e2-4050-90de-85d59ed6beff][Dot product]]}@2} defines {{vector length}@1} and {{angles between vectors}@0} :fc:
 :PROPERTIES:
 :ID:       a4c91d6b-aafa-432a-bc95-fb7a11cdcd1c
@@ -174,3 +175,5 @@ $\theta_{\vec{x}, \vec{y}}$ is the angle between $\vec{x}$ and $\vec{y}$
 
 *** Source
 [cite:@DotProduct2022]
+* Bibliography
+#+print_bibliography:

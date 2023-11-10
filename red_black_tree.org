@@ -199,8 +199,6 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 *** Source
 [cite:@RedblackTree2022]
 
-* Bibliography
-#+print_bibliography:
 ** ([[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]) Every node is {{red or black}{color}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-11 Fri 07:48]
@@ -291,3 +289,5 @@ Properties of a {{[[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]}@4
 
 *** Source
 [cite:@RedblackTree2022]
+* Bibliography
+#+print_bibliography:

@@ -66,8 +66,6 @@ A game in which one player chooses their action before the others choose theirs.
 *** Source
 [cite:@SequentialGame2021]
 
-* Bibliography
-#+print_bibliography:
 ** AKA :fc:
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 15:38]
@@ -89,3 +87,5 @@ A game in which one player chooses their action before the others choose theirs.
 
 *** Source
 [cite:@SequentialGame2021]
+* Bibliography
+#+print_bibliography:

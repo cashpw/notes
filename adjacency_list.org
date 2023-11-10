@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a95ec6df-303d-4a07-a9bd-ac6e4b807679
 :ROAM_REFS: [cite:@AdjacencyList2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-10 Fri 10:06]
 :END:
 #+title: Adjacency list
 #+hugo_custom_front_matter: :slug "a95ec6df-303d-4a07-a9bd-ac6e4b807679"
@@ -38,7 +38,7 @@ Also see [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   7 |   167.24 | 2023-10-24T21:34:08Z |
+| back     | 2.35 |   8 |   402.24 | 2024-12-16T23:46:52Z |
 | front    | 2.50 |   8 |   560.89 | 2025-02-19T12:38:37Z |
 :END:
 [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]
@@ -46,3 +46,5 @@ Also see [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
 A representation of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] using a collection of unordered lists.
 *** Source
 [cite:@AdjacencyList2022]
+* Bibliography
+#+print_bibliography:

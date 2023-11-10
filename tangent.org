@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44aea0ad-06fe-4c46-83c3-53b6a78591c3
-:LAST_MODIFIED: [2023-10-02 Mon 23:13]
+:LAST_MODIFIED: [2023-11-08 Wed 08:38]
 :END:
 #+title: Tangent (Trigonometry)
 #+hugo_custom_front_matter: :slug "44aea0ad-06fe-4c46-83c3-53b6a78591c3"
@@ -34,7 +34,7 @@ The tangent of a function is the [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Inst
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.40 |   8 |    33.00 | 2023-11-05T06:02:04Z |
+| front    | 1.40 |   9 |    48.23 | 2023-12-26T22:03:04Z |
 | back     | 2.80 |   8 |   420.44 | 2024-04-24T14:39:50Z |
 :END:
 
@@ -103,3 +103,5 @@ Graph \(f(x) = \tan(x)\)
 The [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Instantaneous rate of change]] of a function at a specific point.
 *** Source
 [cite:@TrigonometricFunctions2022]
+* Bibliography
+#+print_bibliography:

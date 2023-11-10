@@ -89,8 +89,6 @@ $\dots = \frac{\partial V}{\partial S}$
 *** Source
 [cite:@WhatDeltaDerivativesTradingHowDoesItWork]
 
-* Bibliography
-#+print_bibliography:
 ** A [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]] of +0.30 for a [[id:15f1b0b2-6f51-40de-93c9-77980744a483][option]] implies {{the value of the option will rise 0.30-points for every 1-point rise in the underlying security}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-06 Sun 17:26]
@@ -126,3 +124,5 @@ $\dots = \frac{\partial V}{\partial S}$
 
 *** Source
 [cite:@GreeksFinance2022]
+* Bibliography
+#+print_bibliography:

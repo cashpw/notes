@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
 :ID:       bcba3e46-9cde-4555-accb-ec73e4f0fc4c
-:LAST_MODIFIED: [2023-10-09 Mon 23:51]
+:LAST_MODIFIED: [2023-11-06 Mon 07:19]
 :END:
 #+title: Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice
 #+hugo_custom_front_matter: :slug "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
@@ -153,7 +153,7 @@ If tacit knowledge exists --- and I believe it does --- then the most useful too
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    68.42 | 2023-11-03T23:44:05Z |
+|        0 | 2.20 |   7 |   164.16 | 2024-04-18T19:09:21Z |
 |        1 | 2.35 |   6 |    61.91 | 2023-11-02T12:16:05Z |
 :END:
 
@@ -181,3 +181,5 @@ If tacit knowledge exists --- and I believe it does --- then the most useful too
 - [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] exists in /all/ domains, is difficult to scale, but is more useful
 *** Source
 [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
+* Bibliography
+#+print_bibliography:

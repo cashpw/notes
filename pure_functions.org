@@ -42,8 +42,6 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 
 *** Source
 [cite:@PureFunction2022]
-* Bibliography
-#+print_bibliography:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       8e2f3d4f-bfec-49c2-9b27-448d04336149
@@ -64,3 +62,5 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 A function in computer programming which (1) has no side effects and (2) is deterministic.
 *** Source
 [cite:@PureFunction2022]
+* Bibliography
+#+print_bibliography:

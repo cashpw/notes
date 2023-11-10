@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SerenityPrayer2021]
 :ID:       749f3b30-7a42-4262-9175-f9b2046557ec
-:LAST_MODIFIED: [2023-11-03 Fri 07:43]
+:LAST_MODIFIED: [2023-11-10 Fri 10:16]
 :END:
 #+title: Serenity prayer
 #+hugo_custom_front_matter: :slug "749f3b30-7a42-4262-9175-f9b2046557ec"
@@ -48,12 +48,10 @@ and wisdom to know the difference.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   0 |     0.00 | 2023-11-03T14:43:16Z |
+|        0 | 1.90 |   1 |     1.00 | 2023-11-11T18:15:57Z |
 :END:
 *** Source
 [cite:@SerenityPrayer2021]
-* Bibliography
-#+print_bibliography:
 ** God, grant me the serenity to accept the things I cannot change, {{courage to change the things I can}@0}, and wisdom to know the difference. :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 12:03]
@@ -86,3 +84,5 @@ and wisdom to know the difference.
 :END:
 *** Source
 [cite:@SerenityPrayer2021]
+* Bibliography
+#+print_bibliography:

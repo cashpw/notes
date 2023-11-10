@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       55b432cc-354d-406f-aa49-cb7a50c8d5a2
-:LAST_MODIFIED: [2023-11-02 Thu 08:38]
+:LAST_MODIFIED: [2023-11-10 Fri 10:05]
 :END:
 #+title: Big-Theta notation
 #+hugo_custom_front_matter: :slug "55b432cc-354d-406f-aa49-cb7a50c8d5a2"
@@ -27,7 +27,7 @@ Big Theta notation, written as \(\bigtheta{g(n)}\), indicates \(f\) is bound abo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   7 |   189.61 | 2023-11-09T12:28:10Z |
+| back     | 1.90 |   8 |   394.58 | 2024-12-09T08:05:59Z |
 | front    | 2.20 |  10 |   387.05 | 2024-07-04T16:04:12Z |
 :END:
 
@@ -63,8 +63,6 @@ The set of functions which have a specific upper and lower bound (tight bound).
 *** Source
 [cite:@BigNotation2022]
 
-* Bibliography
-#+print_bibliography:
 
 ** Denotes (Computer science) :fc:
 :PROPERTIES:
@@ -88,3 +86,5 @@ The set of functions which have a specific upper and lower bound (tight bound).
 
 *** Source
 [cite:@BigNotation2022]
+* Bibliography
+#+print_bibliography:

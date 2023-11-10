@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-11-03 Fri 07:29]
+:LAST_MODIFIED: [2023-11-09 Thu 08:33]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -189,7 +189,7 @@ int main() {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    66.19 | 2023-11-03T19:35:28Z |
+|        0 | 2.20 |   7 |   141.75 | 2024-03-27T09:05:45Z |
 |        1 | 2.50 |   1 |     1.00 | 2023-10-31T15:00:26Z |
 :END:
 
@@ -227,7 +227,7 @@ int main() {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   6 |    50.11 | 2023-10-09T18:43:43Z |
+| front    | 2.05 |   7 |   111.98 | 2024-02-29T15:48:36Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-05T15:14:13Z |
 :END:
 
@@ -262,7 +262,7 @@ int main() {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   4 |    10.95 | 2023-10-17T06:20:00Z |
+|        0 | 1.60 |   5 |    16.77 | 2023-11-26T11:03:49Z |
 |        1 |  2.5 |  -1 |        0 | 2023-05-05T15:14:31Z |
 :END:
 
@@ -364,8 +364,6 @@ auto x = *p;
 (C++) contents of
 *** Source
 [cite:@stroustrupTour2022]
-* Bibliography
-#+print_bibliography:
 ** Denotes :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 08:40]
@@ -446,7 +444,7 @@ void sort(const std::vector<double>& numbers);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    74.50 | 2023-11-04T01:26:16Z |
+| front    | 2.50 |   7 |   184.22 | 2024-05-10T21:37:24Z |
 | back     |  2.5 |  -1 |        0 | 2023-05-11T16:51:29Z |
 :END:
 
@@ -497,3 +495,5 @@ void sort(const std::vector<double>& numbers);
 - Destructured binding: emphasizes the idea of breaking down or deconstructing complex data structures, such as arrays or objects, into individual variables.
 *** Source
 ChatGPT
+* Bibliography
+#+print_bibliography:

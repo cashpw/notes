@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       07e3fd1d-8aa7-4fe4-9a65-bf10654c9552
 :ROAM_REFS: [cite:@HungerStone2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-11-06 Mon 06:56]
 :END:
 #+title: Hunger stone
 #+hugo_custom_front_matter: :slug "07e3fd1d-8aa7-4fe4-9a65-bf10654c9552"
@@ -28,7 +28,7 @@ These stones were embedded into a river during droughts to mark the water level 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   176.99 | 2023-10-23T14:28:04Z |
+| front    | 2.20 |   8 |   368.64 | 2024-11-09T06:13:04Z |
 | back     | 3.10 |   7 |   392.75 | 2024-08-03T18:16:08Z |
 :END:
 
@@ -38,3 +38,5 @@ These stones were embedded into a river during droughts to mark the water level 
 A type of hydrological landmark common in Central Europe which serve as famine memorials and warnings. Past humans placed the stones into rivers to mark the water level during droughts and communicate the hardships to future generations.
 *** Source
 [cite:@HungerStone2022]
+* Bibliography
+#+print_bibliography:

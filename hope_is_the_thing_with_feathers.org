@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b0f01042-9128-4189-a344-033496d5ce24
 :ROAM_ALIASES: "\"Hope\" is the thing with feathers" "Hope is the thing with feathers"
-:LAST_MODIFIED: [2023-10-18 Wed 06:47]
+:LAST_MODIFIED: [2023-11-09 Thu 08:30]
 :END:
 #+title: Emily Dickinson | "Hope" is the thing with feathers
 #+hugo_custom_front_matter: :slug "b0f01042-9128-4189-a344-033496d5ce24"
@@ -84,7 +84,7 @@ It asked a crumb - of me.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    96.32 | 2023-11-08T22:38:46Z |
+| front    | 2.50 |   7 |   254.95 | 2024-07-21T15:18:08Z |
 :END:
 
 [[id:b0f01042-9128-4189-a344-033496d5ce24]["Hope" is the thing with feathers]]

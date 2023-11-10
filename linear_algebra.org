@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-11-03 Fri 07:28]
+:LAST_MODIFIED: [2023-11-10 Fri 10:05]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -560,7 +560,7 @@ $f: V \to W$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |   104.42 | 2023-11-08T23:51:38Z |
+|        0 | 2.35 |   7 |   264.58 | 2024-07-31T06:18:45Z |
 |        1 | 2.35 |   6 |    76.20 | 2023-10-15T04:43:02Z |
 :END:
 ** {{$\begin{bmatrix}f\end{bmatrix}_{\beta_1}^{\beta_2}$}{Coordinate}@0} $=$ {{$\begin{bmatrix}\beta_2^{-1} f(\beta_{1_1}) \cdots \beta_2^{-1} f(\beta_{1_n})\end{bmatrix}$}{Inverse}@1} :fc:
@@ -983,7 +983,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |   7 |    30.33 | 2023-10-21T20:48:47Z |
+|        0 | 1.30 |   0 |     0.00 | 2023-11-08T16:26:38Z |
 |        1 | 2.80 |  11 |   331.63 | 2023-12-10T06:06:10Z |
 :END:
 
@@ -1103,8 +1103,6 @@ $\operatorname{tr}(A)$
 *** Source
 [cite:@TraceLinearAlgebra2022]
 
-* Bibliography
-#+print_bibliography:
 ** Denotes :fc:
 :PROPERTIES:
 :ID:       68602c35-b3ae-42f7-ac55-1efbc0b02a1b
@@ -1162,7 +1160,7 @@ $\operatorname{tr}(A)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   9 |   293.20 | 2023-11-02T21:42:22Z |
+|        0 | 2.80 |  10 |   854.64 | 2026-03-14T09:23:18Z |
 |        1 | 2.65 |   8 |   209.59 | 2023-06-24T04:36:17Z |
 :END:
 
@@ -1256,7 +1254,7 @@ How to find the row space of a matrix
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    79.08 | 2023-10-19T03:11:48Z |
+| front    | 2.35 |   7 |   201.76 | 2024-05-26T09:01:05Z |
 | back     | 2.80 |  11 |   237.47 | 2023-10-12T13:18:33Z |
 :END:
 How to parameterize the solution set for a system of linear equations
@@ -1474,7 +1472,7 @@ $B_{n \times m}$ is a row-swapped $A_{n \times m}$ based on $P_{n \times n}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   6 |    28.00 | 2023-10-23T13:02:59Z |
+| back     | 1.60 |   7 |    42.72 | 2023-12-22T09:49:11Z |
 | front    | 2.65 |   8 |   386.50 | 2024-04-18T15:07:38Z |
 :END:
 
@@ -1637,3 +1635,5 @@ Types of morphisms
 - Isomorphism: A morphism that can be reversed by an inverse mapping
 - Endomorphism: A morphism from a structure to itself
 - Automorphism: An isomorphic endomorphism
+* Bibliography
+#+print_bibliography:

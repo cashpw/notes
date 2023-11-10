@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-11-04 Sat 07:36]
+:LAST_MODIFIED: [2023-11-09 Thu 10:14]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -11866,4 +11866,12 @@ If you understand these errors, you will know what questions to ask to avoid str
 ** TODO [#2] [[https://www.appsmith.com/blog/write-a-great-readme][How to write a great README]] :writing:software_engineering:
 :PROPERTIES:
 :CREATED: [2023-07-18 14:34]
+:END:
+** TODO [#2] [[https://rachelbythebay.com/w/2023/02/13/broken/][More than five whys and "layer eight" problems]] :parenting:management:
+:PROPERTIES:
+:CREATED: [2023-02-14 00:39]
+:END:
+** TODO [#2] https://samkriss.substack.com/archive: "[[https://samkriss.substack.com/about][I am a writer and your enemy.]]"
+:PROPERTIES:
+:CREATED: [2023-11-09 Thu 10:14]
 :END:

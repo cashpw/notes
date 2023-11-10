@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       97aadd62-8fb1-4670-a675-c5d591bfe6a1
 :ROAM_REFS: [cite:@MNISTDatabase2022]
-:LAST_MODIFIED: [2023-10-30 Mon 07:55]
+:LAST_MODIFIED: [2023-11-09 Thu 08:37]
 :END:
 #+title: MNIST databse
 #+hugo_custom_front_matter: :slug "97aadd62-8fb1-4670-a675-c5d591bfe6a1"
@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/MNIST_database
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   9 |   682.42 | 2025-09-12T00:59:01Z |
-| back     | 2.80 |   8 |   295.43 | 2023-11-05T02:50:43Z |
+| back     | 2.80 |   9 |   883.42 | 2026-04-11T02:38:03Z |
 :END:
 
 The MNIST database
@@ -48,3 +48,5 @@ The MNIST database
 A database of 28x28px greyscale images of handwritten digits. There are 60,000 training and 10,000 test images.
 *** TODO [#4] Source
 https://en.wikipedia.org/wiki/MNIST_database
+* Bibliography
+#+print_bibliography:

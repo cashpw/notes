@@ -37,8 +37,6 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is n
 - {{[[id:9a804f64-5cb5-4ead-911f-f3c87eedb369][Degenerate matrix]]}@2}
 *** Source
 [cite:@InvertibleMatrix2022]
-* Bibliography
-#+print_bibliography:
 ** Definition :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 10:06]
@@ -59,3 +57,5 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is n
 A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is no \(B\) such that \(AB = BA = I_{n}\).
 *** Source
 [cite:@InvertibleMatrix2022]
+* Bibliography
+#+print_bibliography:

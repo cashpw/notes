@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-11-03 Fri 07:29]
+:LAST_MODIFIED: [2023-11-09 Thu 08:36]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -182,7 +182,7 @@ Red undies attract all evil cats
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   0 |     0.00 | 2023-11-03T14:29:22Z |
+| front    | 2.05 |   1 |     1.00 | 2023-11-10T16:36:47Z |
 | back     | 2.80 |   7 |   412.12 | 2024-08-29T03:42:46Z |
 :END:
 
@@ -311,8 +311,6 @@ Learning objective concerned with:
 *** Source
 [cite:@BloomTaxonomy2022]
 
-* Bibliography
-#+print_bibliography:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 13:33]
@@ -323,7 +321,7 @@ Learning objective concerned with:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   7 |    18.50 | 2023-11-03T18:27:10Z |
+| front    | 1.30 |   8 |    22.61 | 2023-11-29T05:32:15Z |
 | back     | 2.50 |   7 |   207.68 | 2023-11-30T10:00:23Z |
 :END:
 
@@ -420,7 +418,7 @@ Summarize the identifying characteristics of a Golden Delicious apple and a Gran
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   371.30 | 2024-09-01T20:35:37Z |
-| back     | 2.35 |   5 |    32.98 | 2023-10-28T13:02:20Z |
+| back     | 2.20 |   6 |    74.76 | 2024-01-23T10:44:11Z |
 :END:
 
 [[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]] (Apples)
@@ -470,7 +468,7 @@ Compare and contrast four ways of serving foods made with apples and examine whi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   323.02 | 2024-06-13T15:28:13Z |
-| back     | 1.75 |   3 |     6.00 | 2023-10-23T08:09:33Z |
+| back     | 1.45 |   0 |     0.00 | 2023-11-08T16:29:40Z |
 :END:
 
 [[id:1e959d75-8832-405b-961d-6adc4b62c458][Evaluate (Bloom's Taxonomy)]] (Apples)
@@ -526,3 +524,5 @@ Convert an "unhealthy" recipe for apple pie to a "healthy" recipe by replacing y
 
 *** Source
 [cite:@BloomTaxonomy2022]
+* Bibliography
+#+print_bibliography:

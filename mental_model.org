@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       787214e0-5941-4c6f-9a61-e79b9b40baea
-:LAST_MODIFIED: [2023-09-30 Sat 00:59]
+:LAST_MODIFIED: [2023-11-06 Mon 07:01]
 :END:
 #+title: Mental model
 #+hugo_custom_front_matter: :slug "787214e0-5941-4c6f-9a61-e79b9b40baea"
@@ -25,7 +25,7 @@ A mental model is an explanation of someone's thought process about how somethin
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   435.88 | 2024-12-09T05:07:29Z |
-| back     | 1.75 |   8 |   140.99 | 2023-11-06T03:57:17Z |
+| back     | 1.75 |   9 |   245.31 | 2024-07-08T22:22:33Z |
 :END:
 
 [[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]]
@@ -35,3 +35,5 @@ A mental model is an explanation of someone's thought process about how somethin
 - A representation of the world, the relationship between its various parts, and a person's perception of their own acts and their consequences.
 *** Source
 [cite:@MentalModel2022]
+* Bibliography
+#+print_bibliography:

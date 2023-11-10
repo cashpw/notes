@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f7ca3e99-0356-4651-996e-542a11d67f50
-:LAST_MODIFIED: [2023-10-17 Tue 01:11]
+:LAST_MODIFIED: [2023-11-09 Thu 08:38]
 :END:
 #+title: Queue
 #+hugo_custom_front_matter: :slug "f7ca3e99-0356-4651-996e-542a11d67f50"
@@ -101,7 +101,7 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.80 |   7 |   301.91 | 2023-12-16T01:07:54Z |
-|        0 | 2.50 |   7 |   269.40 | 2023-10-22T02:33:35Z |
+|        0 | 2.50 |   8 |   624.26 | 2025-07-25T22:53:04Z |
 :END:
 *** Extra
 A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] is [[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]] while a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]] is [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][First in, last out]].
@@ -130,3 +130,5 @@ Common API of a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
 - =peek=
 *** Source
 [cite:@QueueAbstractDataType2022]
+* Bibliography
+#+print_bibliography:

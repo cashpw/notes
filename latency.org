@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-11-03 Fri 07:34]
+:LAST_MODIFIED: [2023-11-08 Wed 08:29]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -126,7 +126,7 @@ Amount of time required for a message to travel from the sender to receiver, whi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   3 |     6.00 | 2023-11-05T14:59:20Z |
+| front    | 1.75 |   4 |     9.96 | 2023-11-18T15:30:32Z |
 | back     | 2.20 |   0 |     0.00 | 2023-11-03T14:34:44Z |
 :END:
 
@@ -160,8 +160,6 @@ Amount of time required to:
 - determine the packet's destination
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
-* Bibliography
-#+print_bibliography:
 ** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:03]
@@ -182,3 +180,5 @@ Queuing delay
 Amount of time the packet is waiting in the queue until it can be processed.
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
+* Bibliography
+#+print_bibliography:

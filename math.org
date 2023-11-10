@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-11-03 Fri 08:05]
+:LAST_MODIFIED: [2023-11-10 Fri 10:04]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -62,7 +62,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |  10 |   290.30 | 2023-10-22T22:32:07Z |
+|        0 | 2.50 |   0 |     0.00 | 2023-11-10T18:04:44Z |
 |        1 | 2.15 |   7 |   156.36 | 2024-02-01T23:35:13Z |
 :END:
 
@@ -784,7 +784,7 @@ $\operatorname{boxcar}(x) = \begin{cases} 0 & \text{if}\; x < a \\ c & \text{if}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |  13 |   282.31 | 2023-10-27T22:47:17Z |
+| back     | 2.80 |  14 |   854.29 | 2026-03-09T21:52:48Z |
 | front    | 1.75 |   3 |     6.00 | 2023-08-12T14:43:23Z |
 :END:
 
@@ -1018,7 +1018,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   8 |   234.78 | 2023-09-14T11:40:17Z |
+|        0 | 2.20 |   0 |     0.00 | 2023-11-08T16:27:35Z |
 |        1 | 2.80 |   8 |   412.38 | 2024-04-24T03:08:14Z |
 :END:
 
@@ -1643,7 +1643,7 @@ $\delta_{ij} = \begin{cases}0 & \text{if}\; i \neq j \\ 1 & \text{if}\; i = j\en
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |  10 |   249.61 | 2023-10-11T07:13:47Z |
+| back     | 1.90 |   0 |     0.00 | 2023-11-09T16:37:12Z |
 | front    | 2.65 |   9 |   414.63 | 2024-07-25T05:35:13Z |
 :END:
 
@@ -2236,7 +2236,7 @@ $\operatorname{rect}(x)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |  10 |   272.44 | 2023-10-31T00:55:06Z |
+| front    | 2.50 |  11 |   664.40 | 2025-09-04T02:01:56Z |
 | back     | 2.50 |   9 |   303.64 | 2023-11-12T06:02:13Z |
 :END:
 
@@ -3143,8 +3143,6 @@ $\operatorname{R}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ x & \text{if}\; x 
 *** Source
 [cite:@RampFunction2022]
 
-* Bibliography
-#+print_bibliography:
 ** Definition (Math) :fc:
 :PROPERTIES:
 :ID:       97c560db-f647-4ae6-80cd-e92cee4a0e59
@@ -3479,3 +3477,5 @@ The output of a dynamic system when presented with a brief input signal, called 
 {{$x^{-y}$}@0} $=$ {{$\frac{1}{x^y}$}@1}
 
 *** Source
+* Bibliography
+#+print_bibliography:

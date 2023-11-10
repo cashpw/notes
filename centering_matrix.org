@@ -39,8 +39,6 @@ In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1
 
 *** Source
 [cite:@CenteringMatrix2021]
-* Bibliography
-#+print_bibliography:
 
 ** {{$C_n \vec{v}$}{matrix}@0} \(=\) {{$\vec{v} - \operatorname{avg}(\vec{v})\vec{1}$}{function}@1} :fc:
 :PROPERTIES:
@@ -123,3 +121,5 @@ A symmetric and idempotent matrix which, when multiplied by a vector, has the sa
 :END:
 *** Source
 [cite:@CenteringMatrix2021]
+* Bibliography
+#+print_bibliography:

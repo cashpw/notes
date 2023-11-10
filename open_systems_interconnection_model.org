@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-11-03 Fri 07:33]
+:LAST_MODIFIED: [2023-11-09 Thu 08:37]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -130,13 +130,13 @@ A conceptual model for abstract network connections.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   251.94 | 2024-05-28T22:20:54Z |
-| back     | 2.50 |   0 |     0.00 | 2023-08-26T14:43:06Z |
+| back     | 2.50 |   0 |     0.00 | 2023-11-08T16:28:52Z |
 :END:
 
 [[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
 
 *** Back
-Layer responsible for transmission and reception of unstructured raw data between a device (e.g. network swtich) and a physical transmission medium (e.g. fiber optic cable).
+Layer responsible for transmission and reception of unstructured raw data between a device (e.g. network switch) and a physical transmission medium (e.g. fiber optic cable).
 *** Source
 [cite:@OSIModel2023]
 ** Cloze :fc:
@@ -263,7 +263,7 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   3 |     6.00 | 2023-11-09T14:33:02Z |
+| front    | 2.05 |   4 |    11.87 | 2023-11-21T13:26:08Z |
 :END:
 
 [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]
@@ -273,8 +273,6 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 - [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]]: Provides a *reliable* connection between two hosts; also flow and congestion control
 *** Source
 [cite:@OSIModel2023] and [[id:a45ed3de-c710-40c8-86c4-3beab753cf41][Bard]]
-* Bibliography
-#+print_bibliography:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-03-18 Sat 08:29]
@@ -306,7 +304,7 @@ This layer handles setup, teardown, and controls the connections between two or 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   7 |    65.23 | 2023-11-05T19:48:12Z |
+| front    | 1.60 |   8 |   103.38 | 2024-02-17T23:51:33Z |
 | back     | 2.50 |   1 |     1.00 | 2023-09-19T15:55:40Z |
 :END:
 
@@ -337,3 +335,5 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 Layer which provides protocols that allow software to send and receive information across the network (e.g. HTTP, FTP, SMTP).
 *** Source
 [cite:@WhatOSIModelLayersExplainedImperva]
+* Bibliography
+#+print_bibliography:

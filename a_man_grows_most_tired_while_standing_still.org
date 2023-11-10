@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f549369f-9c2b-4c90-a2c8-05cbdaf34b27
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-09 Thu 08:39]
 :END:
 #+title: A man grows most tired while standing still
 #+hugo_custom_front_matter: :slug "f549369f-9c2b-4c90-a2c8-05cbdaf34b27"
@@ -29,7 +29,7 @@ A man grows most tired while standing still.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   189.32 | 2023-11-07T07:03:53Z |
+|        0 | 2.50 |   8 |   480.22 | 2025-03-03T21:58:10Z |
 :END:
 
 *** Source

@@ -65,8 +65,8 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 - Amount of water in the Great Lakes
 *** Source
 [cite:@ExplicitKnowledge2022]
-* Bibliography
-#+print_bibliography:
 ** Compare and contrast
 See [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
 
+* Bibliography
+#+print_bibliography:

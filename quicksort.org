@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2023-10-30 Mon 08:13]
+:LAST_MODIFIED: [2023-11-06 Mon 06:51]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -231,7 +231,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        3 | 2.80 |   7 |   269.84 | 2023-11-04T18:57:16Z |
+|        3 | 2.95 |   8 |   727.03 | 2025-11-02T15:35:34Z |
 |        2 | 2.65 |   8 |   725.98 | 2025-10-25T14:45:02Z |
 |        1 | 2.50 |   8 |   538.51 | 2025-03-21T20:21:05Z |
 |        0 | 2.65 |   8 |   646.62 | 2025-07-19T12:17:43Z |
@@ -239,6 +239,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 {{[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}@0}'s implementation is composed of: {{partition}{function}@1}, {{inner}{function}@2}, and {{swap}{function}@3}
 *** Extra
 *** Source
+
 
 ** Cloze :fc:
 :PROPERTIES:
@@ -342,3 +343,5 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :PROPERTIES:
 :CREATED: [2022-11-05 Sat 09:51]
 :END:
+* Bibliography
+#+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-11-03 Fri 08:05]
+:LAST_MODIFIED: [2023-11-09 Thu 08:33]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -325,7 +325,7 @@ Exaggerated, dramatic, behavior designed to attract attention.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   7 |    62.28 | 2023-10-24T23:16:01Z |
+| front    | 1.60 |   8 |    93.93 | 2024-02-11T14:47:38Z |
 | back     | 2.95 |   6 |   139.60 | 2023-08-07T06:42:15Z |
 :END:
 Not likely to provoke dissent or offense; inoffensive, often deliberately so
@@ -512,7 +512,7 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   6 |   174.32 | 2023-10-04T20:19:50Z |
+| front    | 2.95 |   7 |   517.28 | 2025-04-06T21:45:34Z |
 | back     | 2.65 |   6 |   112.84 | 2023-07-24T12:52:18Z |
 :END:
 - Generosity in bestowing money or gifts upon others
@@ -629,7 +629,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   0 |     0.00 | 2023-11-02T15:23:31Z |
+| front    | 1.45 |   1 |     1.00 | 2023-11-09T16:27:22Z |
 | back     | 1.75 |   5 |    19.05 | 2023-03-29T04:07:28Z |
 :END:
 - unwilling to spend money or use resources; stingy or frugal
@@ -743,7 +743,7 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   3 |     6.00 | 2023-10-09T06:04:59Z |
+| front    | 2.35 |   4 |    13.70 | 2023-11-23T09:18:10Z |
 | back     | 2.95 |   6 |   138.58 | 2023-11-18T14:55:23Z |
 :END:
 - At right angles; perpendicular
@@ -771,8 +771,6 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 *** Source
 [cite:@Dilettante2023]
 
-* Bibliography
-#+print_bibliography:
 
 ** Cloze :fc:
 :PROPERTIES:
@@ -786,7 +784,7 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   6 |    93.57 | 2023-10-31T04:34:49Z |
+|        0 | 2.35 |   7 |   227.17 | 2024-06-20T18:58:12Z |
 |        1 | 2.50 |   1 |     1.00 | 2023-06-05T04:16:09Z |
 :END:
 
@@ -824,7 +822,7 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-10-11T21:10:02Z |
+| front    | 2.50 |   1 |     1.00 | 2023-11-07T15:19:37Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:45Z |
 :END:
 
@@ -833,3 +831,5 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 
 *** Source
 [cite:@Obsequious2023]
+* Bibliography
+#+print_bibliography:

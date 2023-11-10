@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       47d756da-f670-4377-83ae-3ea0fc25bc1b
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-11-09 Thu 08:38]
 :END:
 #+title: Object level
 #+hugo_custom_front_matter: :slug "47d756da-f670-4377-83ae-3ea0fc25bc1b"
@@ -26,13 +26,15 @@ Object level vs Meta level [[[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta leve
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   301.59 | 2024-05-23T05:06:48Z |
-| back     | 2.35 |   7 |   166.86 | 2023-11-07T17:04:52Z |
+| back     | 2.35 |   8 |   412.33 | 2024-12-26T00:32:34Z |
 :END:
 
 [[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]]
 
 *** Back
+
 Level of abstraction which is directly about the specifics of the issue at hand
+
 *** Source
 [cite:@lesswrongObjectLevelMetaLevel]
 ** Compare and contrast :fc:
@@ -55,3 +57,5 @@ Level of abstraction which is directly about the specifics of the issue at hand
 - [[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]: The [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]] of, or around, the thing; the category higher-order principles which apply broadly to "things like X"
 *** Source
 [cite:@lesswrongObjectLevelMetaLevel]
+* Bibliography
+#+print_bibliography:

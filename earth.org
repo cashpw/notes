@@ -29,8 +29,6 @@ Earth's equatorial circumference is {{40,075 kilometers}@0}.
 *** Source
 [cite:@Earth2023]
 
-* Bibliography
-#+print_bibliography:
 ** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2023-03-17 Fri 09:12]
@@ -69,3 +67,5 @@ Earth's surface is roughly {{30%}{percent}@0} land.
 
 *** Source
 [cite:@Earth2023]
+* Bibliography
+#+print_bibliography:

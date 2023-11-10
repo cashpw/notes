@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@urban10ThoughtsFourthTrimester2023]
+:ID:       477e372c-1cfc-4a8b-a567-0c19df989417
+:LAST_MODIFIED: [2023-11-08 Wed 11:13]
+:END:
+#+title: Tim Urban | 10 Thoughts From the Fourth Trimester
+#+hugo_custom_front_matter: :slug "477e372c-1cfc-4a8b-a567-0c19df989417"
+#+author: Cash Weaver
+#+date: [2023-11-08 Wed 10:59]
+#+filetags: :reference:
+
+[[id:6ad0b392-70a2-4584-976e-8ab1acb1c418][Tim Urban]], [cite:@urban10ThoughtsFourthTrimester2023]
+
+* Summary
+- The baby may arrive earlier than planned; try to include [[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]] in your plans
+- See headings
+* Thoughts
+* Notes
+
+** 1. A newborn is not a baby
+#+begin_quote
+I thought it was gonna be like this:
+
+#+DOWNLOADED: https://149909199.v2.pressablecdn.com/wp-content/uploads/2023/05/06_fetus-baby-1.png @ 2023-11-08 11:01:07
+[[file:2023-11-08_11-01-07_06_fetus-baby-1.png]]
+
+But it's actually like this:
+
+#+DOWNLOADED: https://149909199.v2.pressablecdn.com/wp-content/uploads/2023/05/07_fetus-baby-2.png @ 2023-11-08 11:01:18
+[[file:2023-11-08_11-01-18_07_fetus-baby-2.png]]
+#+end_quote
+
+** 4. Babies are incredibly overdramatic
+
+#+begin_quote
+When a normal person is hungry, or tired, or needs to burp, they're a little annoyed. Babies are in Shakespearean agony. And then comes the burp and one second later they're like "sup." It's insane behavior.
+
+For a while, the range of baby emotion runs from Shakespearean agony to neutral, never entering the positive realm. Neutral is a newborn's best-case scenario.
+
+#+DOWNLOADED: https://149909199.v2.pressablecdn.com/wp-content/uploads/2023/05/10_agony.png @ 2023-11-08 11:02:23
+[[file:2023-11-08_11-02-23_10_agony.png]]
+
+After six weeks or so, positive emotion begins to make an appearance, but then they still go apoplectic at the slightest inconvenience.
+
+While we're here, I know it's bad but I can't help it—crying babies are funny. My wife completely disagrees with me on this.
+#+end_quote
+
+** 6. Babies shit all over your schedule
+:PROPERTIES:
+:ID:       0510bef7-b54c-4efb-81bb-2928847efe7f
+:END:
+
+#+begin_quote
+Obvious one, I know, but just check this out:
+
+
+#+begin_quote2
+#+DOWNLOADED: https://149909199.v2.pressablecdn.com/wp-content/uploads/2023/05/13_sleep-graph-1.png @ 2023-11-08 11:09:46
+[[file:2023-11-08_11-09-46_13_sleep-graph-1.png]]
+
+[cite:@jiuguangwVisualizationSleepingPatternsNewbornFirstYearOC2019]
+#+end_quote2
+
+#+begin_quote2
+
+#+DOWNLOADED: https://149909199.v2.pressablecdn.com/wp-content/uploads/2023/05/14_sleep-graph-2.png @ 2023-11-08 11:10:16
+[[file:2023-11-08_11-10-16_14_sleep-graph-2.png]]
+
+[cite:@jitney86Months17MyBabySleepBreastfeedingScheduleOCDataCollected2017]
+#+end_quote2
+
+#+begin_quote2
+#+DOWNLOADED: https://149909199.v2.pressablecdn.com/wp-content/uploads/2023/05/15_sleep-graph-3.png @ 2023-11-08 11:11:18
+[[file:2023-11-08_11-11-18_15_sleep-graph-3.png]]
+
+[cite:@johnsonBabySleepPatternChartsMustSeeAllParents2012]
+#+end_quote2
+
+These are the sleep graphs of three different babies, but they all have one thing in common: there's no rhyme or reason in the early months, because newborns are dicks.
+#+end_quote
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

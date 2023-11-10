@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       af1ca7da-bebf-4161-8162-057cae4a0951
 :ROAM_ALIASES: "Tell all the truth but tell it slant"
-:LAST_MODIFIED: [2023-11-03 Fri 07:40]
+:LAST_MODIFIED: [2023-11-10 Fri 10:12]
 :END:
 #+title: Emily Dickinson | Tell all the truth but tell it slant
 #+hugo_custom_front_matter: :slug "af1ca7da-bebf-4161-8162-057cae4a0951"
@@ -25,10 +25,6 @@ Or every man be blind —
 One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Poem :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-09-16T03:07:34Z
@@ -41,7 +37,7 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   8 |   338.03 | 2024-06-10T15:42:21Z |
-|        1 | 2.50 |   7 |   191.90 | 2023-11-06T20:25:25Z |
+|        1 | 2.50 |   8 |   525.52 | 2025-04-19T06:32:54Z |
 |        2 | 1.75 |   9 |   200.14 | 2024-05-17T18:23:28Z |
 |        3 | 2.20 |   8 |   303.98 | 2024-09-02T14:03:06Z |
 |        4 | 2.80 |   7 |   290.95 | 2024-04-11T16:17:48Z |
@@ -113,4 +109,5 @@ Or every man be blind —
 [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
 *** Back
 [[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]]
-
+* Bibliography
+#+print_bibliography:

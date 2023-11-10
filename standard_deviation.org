@@ -81,8 +81,6 @@ Population [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
 *** Source
 [cite:@StandardDeviation2022]
 
-* Bibliography
-#+print_bibliography:
 ** Equivalence :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 12:21]
@@ -104,3 +102,5 @@ Population [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]
 
 *** Source
 [cite:@StandardDeviation2022]
+* Bibliography
+#+print_bibliography:

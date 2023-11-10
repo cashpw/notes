@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-11-03 Fri 07:38]
+:LAST_MODIFIED: [2023-11-09 Thu 08:39]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -369,8 +369,6 @@ Pronounced: /cap-ah/
 
 *** Source
 
-* Bibliography
-#+print_bibliography:
 
 ** Greek letter {{kappa}@1}: {{$\kappa$}{lowercase}@0} :fc:
 :PROPERTIES:
@@ -954,7 +952,7 @@ Pronounced: /zee-tah/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 1.30 |  11 |    55.25 | 2023-11-08T21:02:46Z |
+|        1 | 1.30 |  12 |    78.82 | 2024-01-27T12:16:16Z |
 |        0 | 2.00 |  16 |   322.11 | 2024-05-11T16:00:15Z |
 :END:
 
@@ -962,3 +960,5 @@ Pronounced: /zee-tah/
 Pronounced: /zee-tah/
 
 *** Source
+* Bibliography
+#+print_bibliography:

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6db903d5-cf97-447b-8303-d502fa59bcd7
+:LAST_MODIFIED: [2023-11-07 Tue 05:57]
+:END:
+#+title: This too shall pass
+#+hugo_custom_front_matter: :slug "6db903d5-cf97-447b-8303-d502fa59bcd7"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-07 Tue 05:56]
+#+filetags: :concept:
+
+#+begin_quote
+"This too shall pass" is a Persian adage [...]. It reflects on the temporary nature, or ephemerality, of the human condition — that neither the bad, nor good, moments in life ever indefinitely last.
+
+[cite:@ThisTooShallPass2023]
+#+end_quote
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

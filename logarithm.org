@@ -110,8 +110,6 @@ $\operatorname{log}_b(a) =$ $\frac{\operatorname{log}_c(a)}{\operatorname{log}_c
 *** Source
 [cite:@Logarithm2022]
 
-* Bibliography
-#+print_bibliography:
 ** Equivalence :fc:
 :PROPERTIES:
 :CREATED: [2023-02-07 Tue 09:50]
@@ -131,3 +129,5 @@ $\operatorname{log}_b(a) =$ $\frac{\operatorname{log}_c(a)}{\operatorname{log}_c
 {{$\log^cn$}@0} $=$ {{$(\log n)^c$}@1}
 
 *** Source
+* Bibliography
+#+print_bibliography:

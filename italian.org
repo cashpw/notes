@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768e1b87-efef-4024-a356-e399d27cc98f
-:LAST_MODIFIED: [2023-11-03 Fri 07:26]
+:LAST_MODIFIED: [2023-11-10 Fri 10:04]
 :END:
 #+title: Italian
 #+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
@@ -23,7 +23,7 @@ The Italian language. I use [[https://soundoftext.com/][Sound of Text]] for pron
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    84.59 | 2024-01-23T05:03:43Z |
-| back     | 2.50 |   5 |    32.96 | 2023-11-05T04:59:58Z |
+| back     | 2.50 |   6 |    85.42 | 2024-01-31T00:48:15Z |
 :END:
 
 Hello / Good morning
@@ -42,7 +42,7 @@ Hello / Good morning
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    80.92 | 2024-01-22T13:23:47Z |
-| back     | 2.50 |   5 |    34.98 | 2023-11-10T06:51:56Z |
+| back     | 2.50 |   6 |    94.55 | 2024-02-13T07:19:56Z |
 :END:
 
 Goodbye
@@ -140,7 +140,7 @@ Yes
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    40.54 | 2023-11-05T01:56:35Z |
+| front    | 2.80 |   6 |   111.37 | 2024-02-25T23:48:42Z |
 | back     | 2.50 |   5 |    39.78 | 2023-11-17T00:22:52Z |
 :END:
 
@@ -159,7 +159,7 @@ No
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    35.64 | 2023-11-06T22:13:33Z |
+| front    | 2.50 |   6 |    84.31 | 2024-01-31T23:46:57Z |
 | back     | 2.50 |   5 |    32.26 | 2023-11-11T12:57:11Z |
 :END:
 
@@ -217,7 +217,7 @@ One
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |   101.80 | 2024-02-12T10:19:35Z |
-| back     | 2.35 |   5 |    37.06 | 2023-11-09T07:23:28Z |
+| back     | 2.35 |   6 |    95.13 | 2024-02-12T19:46:04Z |
 :END:
 
 Two
@@ -235,7 +235,7 @@ Two
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    41.15 | 2023-11-06T19:00:17Z |
+| front    | 2.80 |   6 |   109.59 | 2024-02-26T06:32:47Z |
 | back     | 2.50 |   5 |    38.45 | 2023-11-19T07:53:36Z |
 :END:
 
@@ -254,7 +254,7 @@ Three
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   5 |    43.83 | 2023-11-08T09:05:52Z |
+| front    | 2.95 |   6 |   118.61 | 2024-03-06T07:09:39Z |
 | back     | 2.50 |   5 |    34.30 | 2023-11-11T12:58:37Z |
 :END:
 
@@ -331,7 +331,7 @@ Seven
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |   100.42 | 2024-02-12T00:34:15Z |
-| back     | 2.50 |   5 |    30.97 | 2023-11-06T06:40:24Z |
+| back     | 2.50 |   6 |    84.55 | 2024-01-30T04:01:16Z |
 :END:
 
 Eight
@@ -350,7 +350,7 @@ Eight
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |    79.67 | 2024-01-18T06:50:09Z |
-| back     | 2.35 |   5 |    32.40 | 2023-11-07T16:55:26Z |
+| back     | 2.35 |   6 |    72.32 | 2024-01-20T00:02:36Z |
 :END:
 
 Nine
@@ -444,8 +444,8 @@ Monday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    31.23 | 2023-11-06T12:59:22Z |
-| back     | 1.90 |   4 |    10.90 | 2023-11-10T12:30:52Z |
+| front    | 2.35 |   6 |    73.69 | 2024-01-19T07:20:36Z |
+| back     | 1.60 |   0 |     0.00 | 2023-11-10T18:03:56Z |
 :END:
 
 Tuesday
@@ -463,7 +463,7 @@ Tuesday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    37.02 | 2023-11-05T04:41:14Z |
+| front    | 2.20 |   2 |     2.00 | 2023-11-11T16:33:03Z |
 | back     | 2.05 |   5 |    30.08 | 2023-11-16T09:58:24Z |
 :END:
 
@@ -529,8 +529,6 @@ Saturday
 *** Source
 [cite:@ItalianPhrasebookWikitravel]
 
-* Bibliography
-#+print_bibliography:
 ** Domenica :fc:
 :PROPERTIES:
 :CREATED: [2023-08-26 Sat 13:37]
@@ -542,7 +540,7 @@ Saturday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    36.02 | 2023-11-04T04:40:45Z |
+| front    | 2.50 |   6 |    86.12 | 2024-01-31T17:45:08Z |
 | back     | 2.50 |   5 |    33.01 | 2023-11-12T06:58:55Z |
 :END:
 
@@ -580,7 +578,7 @@ Vegan
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   5 |    41.88 | 2023-11-06T10:09:04Z |
+| front    | 2.65 |   6 |   101.90 | 2024-02-16T12:28:02Z |
 | back     | 2.50 |   5 |    32.70 | 2023-11-13T13:49:06Z |
 :END:
 
@@ -600,7 +598,7 @@ Vegetarian
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    88.46 | 2024-01-30T02:13:05Z |
-| back     | 2.50 |   5 |    37.47 | 2023-11-08T18:11:40Z |
+| back     | 2.50 |   6 |    94.06 | 2024-02-11T17:56:25Z |
 :END:
 
 I am vegan
@@ -618,7 +616,7 @@ I am vegan
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    35.60 | 2023-11-07T20:28:10Z |
+| front    | 2.50 |   6 |    88.07 | 2024-02-04T18:11:12Z |
 | back     | 2.50 |   5 |    41.55 | 2023-11-26T19:34:16Z |
 :END:
 
@@ -658,7 +656,7 @@ Meat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   1 |     1.00 | 2023-11-03T15:13:46Z |
+|        0 | 2.50 |   2 |     2.00 | 2023-11-08T14:49:54Z |
 :END:
 
 Days of the week: {{Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato, Domenica}{Italian}@0}
@@ -687,3 +685,5 @@ Numbers 1-12: {{uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci, u
 [cite:@ItalianPhrasebookWikitravel]
 
 
+* Bibliography
+#+print_bibliography:

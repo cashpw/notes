@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-11-03 Fri 07:32]
+:LAST_MODIFIED: [2023-11-09 Thu 08:30]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -349,8 +349,6 @@ Query
   - Optionally over the hierarchy of $H$ instances if you're using nested partitions
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
-* Bibliography
-#+print_bibliography:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-06-27 Tue 15:09]
@@ -466,7 +464,7 @@ Cells containing the starting and target vertices
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   6 |    44.03 | 2023-12-17T15:19:53Z |
-| back     | 2.50 |   1 |     1.00 | 2023-09-18T23:02:10Z |
+| back     | 2.50 |   2 |     2.00 | 2023-11-11T16:30:33Z |
 :END:
 
 $H$
@@ -475,3 +473,5 @@ $H$
 An "overlay" graph which contains (1) all boundary vertices and (2) edges between boundary vertices (i.e. shortcuts)
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
+* Bibliography
+#+print_bibliography:

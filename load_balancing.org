@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44890929-fa24-4a69-b261-04107a005903
-:LAST_MODIFIED: [2023-10-17 Tue 01:09]
+:LAST_MODIFIED: [2023-11-09 Thu 08:26]
 :ROAM_REFS: [cite:@LoadBalancingComputing2023]
 :ROAM_ALIASES: "Load balancer"
 :END:
@@ -44,7 +44,7 @@ One basic solution to the session data issue is to send all requests in a user s
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   216.71 | 2024-04-08T06:34:07Z |
-| back     | 1.90 |   7 |    79.18 | 2023-11-07T20:15:45Z |
+| back     | 1.90 |   8 |   148.69 | 2024-04-06T08:53:50Z |
 :END:
 
 [[id:44890929-fa24-4a69-b261-04107a005903][Load balancing]]
@@ -53,6 +53,7 @@ One basic solution to the session data issue is to send all requests in a user s
 The process of distributing a set of tasks over a set of resources (computing units) with the aim of making their overall processing more efficient.
 *** Source
 [cite:@LoadBalancingComputing2023]
+
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-03-22 Wed 09:10]
@@ -94,3 +95,5 @@ Sending all of a user's requests (either entirely or for a single session) to th
 
 *** Source
 [cite:@LoadBalancingComputing2023]
+* Bibliography
+#+print_bibliography:

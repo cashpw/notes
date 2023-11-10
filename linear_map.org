@@ -136,8 +136,6 @@ $ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
 *** Source
 [cite:@KernelLinearAlgebra2022]
 
-* Bibliography
-#+print_bibliography:
 
 ** AKA :fc:
 :PROPERTIES:
@@ -181,3 +179,5 @@ $ker(L)=\{v\in V \;|\; L: V \to W; \; L(v)=\vec{0}\}$
 
 *** Source
 [cite:@LinearMap2022]
+* Bibliography
+#+print_bibliography:

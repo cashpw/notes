@@ -46,8 +46,6 @@ $? = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}$
 *** Source
 [cite:@GreeksFinance2022]
 
-* Bibliography
-#+print_bibliography:
 ** (Finance) {{$\Gamma$}@0} $=$ {{$\frac{\partial\Delta}{\partial S}$}@1} :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-11-07T01:49:06Z
@@ -84,3 +82,5 @@ $? = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2}}$
 
 *** Source
 [cite:@GreeksFinance2022]
+* Bibliography
+#+print_bibliography:

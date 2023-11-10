@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-11-08 Wed 08:29]
 :END:
 #+title: Unstable sorting algorithm
 #+hugo_custom_front_matter: :slug "3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43"
@@ -28,7 +28,7 @@ unstable_sort([(10, 'a'), (8, 'b'), (3, 'c'), (8, 'd')])
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   7 |   249.84 | 2023-11-08T10:07:29Z |
+| back     | 2.35 |   8 |   535.39 | 2025-04-27T01:53:39Z |
 | front    | 2.65 |   7 |   359.58 | 2024-03-15T07:31:05Z |
 :END:
 [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
@@ -54,3 +54,5 @@ A type of algorithm which *doesn't* sort equal elements in the same order that t
 - [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
 *** Source
 [cite:@Quicksort2022]
+* Bibliography
+#+print_bibliography:

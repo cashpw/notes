@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4b917306-e1fa-4d34-9d2b-5bb1eedab431
 :ROAM_REFS: [cite:@CoordinateVector2022]
-:LAST_MODIFIED: [2023-09-14 Thu 08:17]
+:LAST_MODIFIED: [2023-11-06 Mon 07:19]
 :END:
 #+title: Coordinate vector
 #+hugo_custom_front_matter: :slug "4b917306-e1fa-4d34-9d2b-5bb1eedab431"
@@ -55,7 +55,7 @@ eg: $\begin{bmatrix}\vec{v}\end{bmatrix}_{\beta}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |  10 |   452.40 | 2024-08-26T01:04:46Z |
-|        1 | 1.60 |   7 |    49.58 | 2023-11-03T05:08:25Z |
+|        1 | 1.60 |   8 |    84.05 | 2024-01-29T16:36:29Z |
 :END:
 
 - {{$\begin{bmatrix}\vec{v}\end{bmatrix}_{\beta}$}@0}
@@ -64,3 +64,6 @@ eg: $\begin{bmatrix}\vec{v}\end{bmatrix}_{\beta}$
 
 *** Source
 [cite:@CoordinateVector2022]
+
+* Bibliography
+#+print_bibliography:

@@ -139,8 +139,6 @@ Klein mentions that RPD is similar to other models of expertise, such as [[https
 A model describing how experienced individuals make quick, effective, decisions when faced with complex situations.
 *** Source
 [cite:@RecognitionprimedDecision2023]
-* Bibliography
-#+print_bibliography:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2023-07-30 Sun 06:38]
@@ -165,3 +163,5 @@ Steps in making a [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed 
 *** Source
 [cite:@chinCopyingBetterHowAcquireTacitKnowledgeExperts2020]
 
+* Bibliography
+#+print_bibliography:
