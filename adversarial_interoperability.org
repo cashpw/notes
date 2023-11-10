@@ -65,3 +65,5 @@ Since Pages' launch, document interoperability has stabilized, with multiple par
 - Apple's office suite recognizing Microsoft's Word/etc file formats
 *** Source
 [cite:@doctorowAdversarialInteroperabilityRevivingElegantWeaponMoreCivilizedAgeSlayToday2019]
+* Bibliography
+#+print_bibliography:

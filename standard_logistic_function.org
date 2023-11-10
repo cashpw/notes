@@ -136,3 +136,5 @@ $\operatorname{logistic}(x)$
 
 *** Source
 [cite:@LogisticFunction2022]
+* Bibliography
+#+print_bibliography:

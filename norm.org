@@ -144,3 +144,5 @@ Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-
 
 *** Source
 [cite:@NormMathematics2022]
+* Bibliography
+#+print_bibliography:

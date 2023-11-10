@@ -34,3 +34,5 @@ In finance, the beta (β or market beta or beta coefficient) is a measure of how
 A measure of how an individual asset moves, on average, when the overall stock market increases or decreases.
 *** Source
 [cite:@BetaFinance2022]
+* Bibliography
+#+print_bibliography:

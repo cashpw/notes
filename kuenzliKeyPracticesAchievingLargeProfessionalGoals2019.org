@@ -62,3 +62,5 @@ I've added an "End the Day" event to my calendar for the last 15 minutes of the 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

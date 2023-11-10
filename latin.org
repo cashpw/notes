@@ -15,3 +15,5 @@ Latin (lingua Latīna, [ˈlɪŋɡʷa laˈtiːna] or Latīnum, [laˈtiːnʊ̃]) i
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

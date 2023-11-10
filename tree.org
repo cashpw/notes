@@ -42,3 +42,5 @@ In computer science, a tree is a widely used [[id:2eae74ba-4003-45cf-8425-7291aa
 - There are no cycles or "loops"
 *** Source
 [cite:@TreeDataStructure2022]
+* Bibliography
+#+print_bibliography:

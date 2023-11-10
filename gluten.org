@@ -36,3 +36,5 @@ Gluten is a structural protein naturally found in certain cereal grains.
 A structural protein naturally found in certain cereal grains (e.g. wheat, barley, rye).
 *** Source
 [cite:@Gluten2022]
+* Bibliography
+#+print_bibliography:

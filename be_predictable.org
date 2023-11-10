@@ -36,3 +36,5 @@ See [[id:c5b379b1-1799-4b1c-b7e8-d6b8f00c44d9][Jeff Kaufman | How to Parent More
 
 * TODO Expand :noexport:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

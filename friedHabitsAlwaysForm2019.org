@@ -42,3 +42,5 @@ Habits are {{always}@0} forming.
 
 *** Source
 [cite:@friedHabitsAlwaysForm2019]
+* Bibliography
+#+print_bibliography:

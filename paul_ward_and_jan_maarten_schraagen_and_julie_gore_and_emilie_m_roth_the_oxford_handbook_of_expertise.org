@@ -16,3 +16,5 @@ TODO_AUTHOR, [cite:@wardOxfordHandbookExpertise2020]
 * TODO Notes
 ** [[id:6b6c9450-4602-4ad1-a07e-656498d1fdb2][Lia DiBello | Expertise in Business: Evolving with a Changing World]]
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

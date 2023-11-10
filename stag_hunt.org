@@ -65,3 +65,5 @@ See also: [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]].
 - Sometimes involves deciding whether or not to cooperate with [[id:f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff][Imperfect information]]
 *** Source
 [cite:@StagHunt2022]
+* Bibliography
+#+print_bibliography:

@@ -37,3 +37,5 @@ A string literal or anonymous string is a string value in the source code of a c
 A string value in the source code of a computer program. The =foo= in ~x = "foo"~.
 *** Source
 [cite:@StringLiteral2022]
+* Bibliography
+#+print_bibliography:

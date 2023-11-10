@@ -67,3 +67,5 @@ This hit basically the notes a book like this should hit, but I don't feel too m
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

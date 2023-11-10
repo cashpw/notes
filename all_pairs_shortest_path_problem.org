@@ -50,3 +50,5 @@ Solves the [[id:cd02a339-815c-4ada-b9f9-f0008db4684a][All-pairs shortest path pr
 - [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]]
 *** Source
 [cite:@FloydWarshallAlgorithm2022]
+* Bibliography
+#+print_bibliography:

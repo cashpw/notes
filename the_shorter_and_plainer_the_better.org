@@ -20,3 +20,5 @@ The shorter and plainer the better.
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

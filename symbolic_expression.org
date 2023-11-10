@@ -75,3 +75,5 @@ Either an [[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]] or an expression of 
 
 *** Source
 [cite:@Sexpression2022]
+* Bibliography
+#+print_bibliography:

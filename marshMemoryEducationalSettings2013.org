@@ -222,3 +222,5 @@ should be spaced over intervals between 12 and 24 hours
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

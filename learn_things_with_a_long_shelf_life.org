@@ -13,3 +13,5 @@ Related:
 - [[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Shelf-life of information]]
 * TODO [#2] Expand :noexport:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

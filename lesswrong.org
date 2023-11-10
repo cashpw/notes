@@ -21,3 +21,5 @@ We are a community dedicated to improving our reasoning and decision-making. We 
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

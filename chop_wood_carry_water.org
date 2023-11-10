@@ -34,3 +34,5 @@ Zen Proverb
 :END:
 
 *** Source
+* Bibliography
+#+print_bibliography:

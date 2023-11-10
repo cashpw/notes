@@ -13,3 +13,5 @@ Among other things:
 - https://commoncog.com/
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

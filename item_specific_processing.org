@@ -84,3 +84,5 @@ Examples:
 - [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]: Encoding the similarities and differences across pieces of information
 *** Source
 [cite:@marshMemoryEducationalSettings2013]
+* Bibliography
+#+print_bibliography:

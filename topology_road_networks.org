@@ -14,3 +14,5 @@ The topology is a set of static properties of each road segment or turn, such as
 [cite:@dellingCustomizableRoutePlanning2011]
 #+end_quote
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

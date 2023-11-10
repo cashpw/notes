@@ -60,3 +60,5 @@ The practice of collecting knowledge, or references to knowledge (links, books, 
 [cite:@tiezeCollectorFallacy0100]
 
 
+* Bibliography
+#+print_bibliography:

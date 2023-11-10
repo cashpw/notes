@@ -39,3 +39,5 @@ The key distinguishing feature is the absence of external authority to establish
 A game with competition between individual players and in which alliances must be self-enforcing; there is no external authority to establish rules which enforce cooperative behavior.
 *** Source
 [cite:@NoncooperativeGameTheory2022]
+* Bibliography
+#+print_bibliography:

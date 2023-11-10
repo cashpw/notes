@@ -13,3 +13,5 @@
 A [[id:6b582974-459d-45e4-b3d9-ef7109a008cf][Science of X]].
 * TODO [#2] Expand :noexport:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

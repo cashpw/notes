@@ -498,3 +498,5 @@ I find that writers who post frequently (say, twice weekly) are rarely worth rea
 
 *** Source
 [cite:@shapiroWritingHandbookHowSourceWritingIdeas]
+* Bibliography
+#+print_bibliography:

@@ -90,3 +90,5 @@ In current times, MMAcevedo still finds extensive use in research, including, in
 Categories: 2030s uploads | MMAcevedo | Neuroimaging | Test items
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

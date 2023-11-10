@@ -16,3 +16,5 @@ TODO_AUTHOR, [cite:@chinDonReadHistoryLessons2022]
 * TODO Notes
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

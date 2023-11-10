@@ -49,3 +49,5 @@ How many words can you change in an argument before it's not the same argument a
 - Public figure X is a bigot.
 *** Source
 [cite:@danskinShipTheseus2018]
+* Bibliography
+#+print_bibliography:

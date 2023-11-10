@@ -27,3 +27,5 @@ Related: [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]], [[id:5d2ca4dd-4c57
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

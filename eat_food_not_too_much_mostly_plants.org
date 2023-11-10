@@ -32,3 +32,5 @@ Eat food. Not too much. Mostly plants.
 
 *** Source
 [cite:@pollanDefenseFoodEaterManifesto2008]
+* Bibliography
+#+print_bibliography:

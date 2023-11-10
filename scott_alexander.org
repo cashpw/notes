@@ -41,3 +41,5 @@ That said, I want to emphasize both that (1) my enjoyment of /some/ of their wor
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

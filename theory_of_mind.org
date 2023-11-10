@@ -44,3 +44,5 @@ Maybe the most famous of these is "theory of mind", the ability to view things f
 - Ability to view or imagine things from others' perspectives
 *** Source
 [cite:@TheoryMind2022]
+* Bibliography
+#+print_bibliography:

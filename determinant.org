@@ -198,3 +198,5 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 
 *** Source
 [cite:@Determinant2022]
+* Bibliography
+#+print_bibliography:

@@ -36,3 +36,5 @@ Game theory is the study of mathematical models of strategic interactions among 
 Study of mathematical models of strategic interactions among rational agents.
 *** Source
 [cite:@GameTheory2022]
+* Bibliography
+#+print_bibliography:

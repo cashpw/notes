@@ -20,3 +20,5 @@ In mathematics, a *monomial* is, roughly speaking, a polynomial [polynomial] whi
 
 * TODO [#2] Format
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

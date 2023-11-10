@@ -25,3 +25,5 @@ Rule numero uno - There are no more zero days. What's a zero day? A zero day is 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

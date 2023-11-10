@@ -28,3 +28,5 @@
 
 [fn:1] I selected 30 minutes since I think I'd be able to keep it up indefinitely. Some variation is okay but I don't want to get to the point that I need to review cards for 1-2 hours daily.
 [fn:2] Targeting a length of time for reviews, rather than a number of cards, aligns with [[id:023f59a7-6d74-4f52-91da-448b7574defb][Timeboxing]].
+* Bibliography
+#+print_bibliography:

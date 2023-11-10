@@ -36,3 +36,5 @@ Bahrick posited the concept in [[doi:10.1037/0096-3445.113.1.1][Fifty years of m
 *** Back
 Memories which last a long time following extensive training, learning, or experience.
 *** Source
+* Bibliography
+#+print_bibliography:

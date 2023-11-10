@@ -59,3 +59,5 @@ unfair_2 -> "0,0" [label="reject"]
 A two-player game in which the first player makes a proposal which the second player can accept or reject. Rejecting often means neither player receives anything (=0,0=).
 *** Source
 [[id:d88f63c9-296b-4b0c-9757-00cc1e891e16][Ultimatum game]]
+* Bibliography
+#+print_bibliography:

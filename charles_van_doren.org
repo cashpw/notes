@@ -25,3 +25,5 @@
 
 *** Back
 [[id:52512c4c-d011-4cca-afd5-87db8442f9c3][How to Read a Book]]
+* Bibliography
+#+print_bibliography:

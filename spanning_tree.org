@@ -54,3 +54,5 @@ A [[id:6bd79f38-1c84-45f0-9840-738f712fdf40][Spanning tree]] for a graph with {{
 
 *** Source
 [cite:@MinimumSpanningTree2022]
+* Bibliography
+#+print_bibliography:

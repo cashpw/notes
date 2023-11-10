@@ -28,3 +28,5 @@ Phrase by [[id:4eaa8d9d-b4d1-4373-8723-d19d9c1dc38b][John Green]].
 :END:
 
 *** Source
+* Bibliography
+#+print_bibliography:

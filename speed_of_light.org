@@ -53,3 +53,5 @@ The speed of light in a vacuum is approximately {{186,000}@0} miles per second.
 
 *** Source
 [cite:@SpeedLight2023]
+* Bibliography
+#+print_bibliography:

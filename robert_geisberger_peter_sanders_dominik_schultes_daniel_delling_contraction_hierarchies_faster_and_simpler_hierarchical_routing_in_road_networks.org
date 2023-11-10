@@ -18,3 +18,5 @@ TODO_AUTHOR, [cite:@geisbergerContractionHierarchiesFasterSimplerHierarchicalRou
 :NOTER_DOCUMENT: attachments/71/3a5208-36bb-4266-9d70-d34cd6079ce4/contraction-hierarchies.pdf
 :END:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

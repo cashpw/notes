@@ -34,3 +34,5 @@
 
 *** Source
 [cite:@SineQuaNon2023]
+* Bibliography
+#+print_bibliography:

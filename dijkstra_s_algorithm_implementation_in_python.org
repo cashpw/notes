@@ -128,3 +128,5 @@ Implement [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] in [
 *** Back
 [[id:d3309005-8d35-4421-8f3d-60ab14e1f2eb][Dijkstra's algorithm implementation in Python]]
 *** Source
+* Bibliography
+#+print_bibliography:

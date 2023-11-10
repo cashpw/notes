@@ -17,3 +17,5 @@ A "a software engineer, designer, and researcher" who, among other things:
 :END:
 
 
+* Bibliography
+#+print_bibliography:

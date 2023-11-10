@@ -71,3 +71,5 @@ Epistemic [[id:06b5c658-5513-4c18-a24d-9ed3fb4ad23b][Learned helplessness]]
 A condition in which the person is unable to discern a convincing argument from a true argument and resolves to ignore the argument, or at least its conclusions.
 *** Source
 [cite:@alexanderEpistemicLearnedHelplessness2019]
+* Bibliography
+#+print_bibliography:

@@ -50,3 +50,5 @@ The third rule, therefore, is don't get caught.
 - A method of conveying information among not-necessarily-trustworthy parties by performing an action which is more likely or less costly if the information is true than if it not true
 *** Source
 [cite:@lesswrongSignaling]
+* Bibliography
+#+print_bibliography:

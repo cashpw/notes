@@ -2351,3 +2351,5 @@ Pillars of staff engineering, according to [[id:ea15f0fd-d3b6-44a7-be0a-ac0cf825
 
 *** Source
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+* Bibliography
+#+print_bibliography:

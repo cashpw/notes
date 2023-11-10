@@ -71,3 +71,5 @@ $h'(x)=$ {{$f'(x)g(x)+f(x)g'(x)$}@0}
 
 *** Source
 [cite:@ProductRule2022]
+* Bibliography
+#+print_bibliography:

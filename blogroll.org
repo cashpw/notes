@@ -25,3 +25,5 @@ A list of blogs I've found informative/useful/fun in no particular order:
 
 
 
+* Bibliography
+#+print_bibliography:

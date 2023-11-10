@@ -21,3 +21,5 @@ Links should stand on their own without the context of the surrounding text. The
    *Good*: [[http:example.com][Download the source code]] to try it yourself!
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -22,3 +22,5 @@ Overall, I think Ericsson has done an ok job of introducing the layman to the fi
 But what Peak fails to do is to provide a complete guide on how to put deliberate practice into … well, practice.
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -41,3 +41,5 @@ As a programmer, I tried to make sure that I was only ever working on one thing 
 In the short term, this made me less efficient, because I'd spend less time programming and more time staring vacantly at the ceiling. But if I stared vacantly for long enough, I'd eventually get mad enough to, e.g., reverse-engineer the partner's API in a fit of rage. This resulted in me shipping my most important projects faster, hence getting faster compounding growth.
 #+end_quote
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

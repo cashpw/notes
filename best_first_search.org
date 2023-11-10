@@ -36,3 +36,5 @@ Best-first search is a class of search algorithms, which explore a graph by expa
 ... is a class of search algorithms, which explore a graph by expanding the most promising node chosen according to a specified rule.
 *** Source
 [cite:@BestfirstSearch2022]
+* Bibliography
+#+print_bibliography:

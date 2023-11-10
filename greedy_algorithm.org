@@ -37,3 +37,5 @@ Any algorithm that follows the problem-solving heuristic of making the locally o
 
 *** Source
 [cite:@GreedyAlgorithm2022]
+* Bibliography
+#+print_bibliography:

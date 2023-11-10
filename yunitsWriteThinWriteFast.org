@@ -27,3 +27,5 @@ Thinner columns help you read faster. Writing speed is dominated by reading spee
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

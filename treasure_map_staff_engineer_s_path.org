@@ -14,3 +14,5 @@ Your treasure map can help you make sure everyone knows exactly what they're try
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 #+end_quote
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

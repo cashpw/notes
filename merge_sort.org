@@ -195,3 +195,5 @@ Implement [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] in [[id:27b0e3
 [[id:d87d7e23-c861-4cec-adf8-c19125cc6327][Merge sort implementation in Python]]
 *** Source
 [cite:@MergeSort2022]
+* Bibliography
+#+print_bibliography:

@@ -23,3 +23,5 @@
 [[id:b2981e3a-4e5b-41b2-a040-2fb58a7735a5][Trevor Hastie]]
 *** Back
 [[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]
+* Bibliography
+#+print_bibliography:

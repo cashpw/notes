@@ -52,3 +52,5 @@ SMART goals are:
 #+end_quote
 *** Source
 [cite:@SMARTCriteria2022]
+* Bibliography
+#+print_bibliography:

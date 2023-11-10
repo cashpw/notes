@@ -55,3 +55,5 @@ Related: [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention
 A view of the management of information which treats human attention as a scarce commodity and applies economic theory to information management problems.
 *** Source
 [cite:@AttentionEconomy2022]
+* Bibliography
+#+print_bibliography:

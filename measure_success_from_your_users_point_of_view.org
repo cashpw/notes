@@ -14,3 +14,5 @@ Mohit Suley, an engineering manager and former principal engineer at Microsoft, 
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 #+end_quote
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

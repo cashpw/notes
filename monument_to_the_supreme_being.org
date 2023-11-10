@@ -56,3 +56,5 @@ https://catalogue.bnf.fr/ark:/12148/cb451663643
 [[file:monument-to-the-supreme-being.jpeg]]
 *** Source
 https://catalogue.bnf.fr/ark:/12148/cb451663643
+* Bibliography
+#+print_bibliography:

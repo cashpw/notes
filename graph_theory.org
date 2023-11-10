@@ -21,3 +21,5 @@ In mathematics, [[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]] is the
 :END:
 
 
+* Bibliography
+#+print_bibliography:

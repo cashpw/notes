@@ -192,3 +192,5 @@ Using =http://www.a.com:8080/b/c?d=e&f=g#h= as an example:
 *** Extra
 *** Source
 [cite:@mdnWhatURL]
+* Bibliography
+#+print_bibliography:

@@ -39,3 +39,5 @@ In mathematics, a square matrix is a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][
 A matrix which has the same number of rows and columns.
 *** Source
 [cite:@SquareMatrix2021]
+* Bibliography
+#+print_bibliography:

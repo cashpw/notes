@@ -333,3 +333,5 @@ $(A_{\ell\times n}B_{n \times m})_{\text{col}\,i}$ $=$ {{$B_{\text{col}\,i} \cdo
 
 *** Source
 [cite:@benderskyVisualizingMatrixMultiplicationLinearCombinationEliBenderskyWebsite]
+* Bibliography
+#+print_bibliography:

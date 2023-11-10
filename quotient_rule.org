@@ -66,3 +66,5 @@ $h'(x)$ $=$ {{$\frac {f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$}@0}
 
 *** Source
 [cite:@QuotientRule2022]
+* Bibliography
+#+print_bibliography:

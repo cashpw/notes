@@ -54,3 +54,5 @@ An example of [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]].
 A quote which embodies the [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]] attitude.
 *** Source
 [cite:@reaganIfYouReExplainingYouReLosing]
+* Bibliography
+#+print_bibliography:

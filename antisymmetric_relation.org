@@ -49,3 +49,5 @@ $\text{if }\,aRb\,\text{ and }\,bRa\,\text{ then }\,a=b$.
 
 *** Source
 [cite:@AntisymmetricRelation2022]
+* Bibliography
+#+print_bibliography:

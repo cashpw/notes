@@ -49,3 +49,5 @@ Collins makes two more observations that I thought were pretty interesting.
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

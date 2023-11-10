@@ -35,3 +35,5 @@ A circuit is a non-empty trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail
 A non-empty [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which the first and last vertices are equal.
 *** Source
 [cite:@CycleGraphTheory2022]
+* Bibliography
+#+print_bibliography:

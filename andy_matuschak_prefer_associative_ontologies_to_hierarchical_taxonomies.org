@@ -26,3 +26,5 @@ One consequence of following this advice: [[https://notes.andymatuschak.org/zT6i
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

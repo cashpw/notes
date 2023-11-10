@@ -38,3 +38,5 @@ Good job
 *** Source
 - [cite:@djuncleZiyoziyo5GiyangudansuGangTortureDance2018]
 - [cite:@learnhowtodanceHowTortureDanceIRLJojoBizarreAdventureStepStepDance2019]
+* Bibliography
+#+print_bibliography:

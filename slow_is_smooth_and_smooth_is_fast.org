@@ -20,3 +20,5 @@ See also: [[id:ff009594-d69f-4d33-b0c2-65ed62eaf0b2][Festina lente]]
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

@@ -58,3 +58,5 @@ The second part of my blub flywheel is to pay attention to magic. Whenever I'm w
 
 * Flashcards :noexport:
 See [[id:ca6fd965-8c9c-470c-b020-8fe0765ceb20][Blub studies]]
+* Bibliography
+#+print_bibliography:

@@ -30,3 +30,5 @@ Compound interest is the eighth wonder of the world. He who understands it, earn
 |        0 | 2.50 |   7 |   317.85 | 2024-05-19T00:33:28Z |
 :END:
 *** Source
+* Bibliography
+#+print_bibliography:

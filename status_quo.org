@@ -36,3 +36,5 @@
 
 *** Source
 [cite:@StatusQuo2022]
+* Bibliography
+#+print_bibliography:

@@ -60,3 +60,5 @@ A type of algorithm which sorts equal elements in the same order that they appea
 - [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
 *** Source
 [cite:@MergeSort2022]
+* Bibliography
+#+print_bibliography:

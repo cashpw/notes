@@ -33,3 +33,5 @@ Among other things:
 *** Back
 - [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]
 - Innuendo Studios
+* Bibliography
+#+print_bibliography:

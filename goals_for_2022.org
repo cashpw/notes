@@ -22,3 +22,5 @@ Keeping the list private is less for actually privacy concerns and more-so to en
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

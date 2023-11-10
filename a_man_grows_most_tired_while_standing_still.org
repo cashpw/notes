@@ -33,3 +33,5 @@ A man grows most tired while standing still.
 :END:
 
 *** Source
+* Bibliography
+#+print_bibliography:

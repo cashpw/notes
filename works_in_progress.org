@@ -79,3 +79,5 @@ Understand how your work will depend on external services.
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

@@ -10,3 +10,5 @@
 Among other things:
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -99,3 +99,5 @@ After 11 days as CEO, Eich resigned on April 3, 2014, and left Mozilla over his 
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

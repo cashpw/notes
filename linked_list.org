@@ -58,3 +58,5 @@ A sequential collection of nodes composed of data and one or more references to 
 
 *** Source
 [cite:@LinkedList2022]
+* Bibliography
+#+print_bibliography:

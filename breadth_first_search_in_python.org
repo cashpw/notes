@@ -80,3 +80,5 @@ print(breadth_first_search(a.id, 100, adjacencies, vertices), 'should be None')
 : None should be None
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -45,3 +45,5 @@ Kimo's high expectations set a new pace for me. He taught me that "the standard 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

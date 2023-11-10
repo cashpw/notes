@@ -56,3 +56,5 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which maintai
 *** Extra
 *** Source
 [cite:@PriorityQueue2022]
+* Bibliography
+#+print_bibliography:

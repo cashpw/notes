@@ -36,3 +36,5 @@ In logic, mathematics and linguistics, And $\wedge$ is the truth-functional oper
 - {{And}@1}
 
 *** Source
+* Bibliography
+#+print_bibliography:

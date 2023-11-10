@@ -17,3 +17,5 @@ Among other things:
 - [[https://www.youtube.com/c/BillvanGilderPottery][YouTube]]
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

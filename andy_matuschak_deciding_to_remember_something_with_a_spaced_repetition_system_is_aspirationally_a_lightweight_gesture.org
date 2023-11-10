@@ -23,3 +23,5 @@ But [[https://notes.andymatuschak.org/z64yjxVfMvJTSAjWFpyEtnA][Spaced repetition
 The way I add material to memory systems feels like a /gesture/. It's something I do habitually, often almost unconsciously. It's usually not explicitly purposeful---more like a way of mentally "underlining" information. It's much like how I use the Twitter "like" button. It's not a bookmark; it's not a vote; it's not costly; liking a tweet is a habitual, unconscious way I indicate interest.
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

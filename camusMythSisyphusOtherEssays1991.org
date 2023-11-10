@@ -39,3 +39,5 @@
 *** Back
 [[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]]
 *** Source
+* Bibliography
+#+print_bibliography:

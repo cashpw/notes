@@ -67,3 +67,5 @@ print(subset_sum(0, [2,4,5]), 'should be []')
 [[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time sumbset sum problem implementation in Python]]
 *** Source
 [[id:2fa891f4-effa-4a66-b0a2-bd587103dc14][Pseudo-polynomial time sumbset sum problem implementation in Python]]
+* Bibliography
+#+print_bibliography:

@@ -24,3 +24,5 @@ A theory of change is the opposite of a theory of action — it works backwards 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

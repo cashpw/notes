@@ -73,3 +73,5 @@ Overall I am ending this research more confused than when I started it. I think 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

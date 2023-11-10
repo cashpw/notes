@@ -109,3 +109,5 @@ print(heapsort([4,2,5,19,1], lambda x,y: 1 if x < y else -1))
 : [1, 2, 4, 5, 19]
 : [19, 5, 4, 2, 1]
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

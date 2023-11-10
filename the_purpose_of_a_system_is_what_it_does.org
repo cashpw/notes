@@ -38,3 +38,5 @@ Related: [[id:9aade3e8-6ddb-475d-b31f-6e5dccee15a3][Duck test]]
 - There's no point in claiming the purpose of a system is something it constantly fails to do
 *** Source
 [cite:@PurposeSystemWhatItDoes2022]
+* Bibliography
+#+print_bibliography:

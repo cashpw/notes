@@ -57,3 +57,5 @@ Related:
 
 *** Source
 [cite:@WizardFirstRule2021]
+* Bibliography
+#+print_bibliography:

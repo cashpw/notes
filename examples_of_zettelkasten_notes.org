@@ -20,3 +20,5 @@ These sites are fantastic examples of well-done implementations of the [[id:b130
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

@@ -79,3 +79,5 @@ Also: [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
 - A [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]] is one in which all levels, except possibly the last, is filled and all nodes in the last level are as far left as possible
 *** Source
 [cite:@BinaryTree2022]
+* Bibliography
+#+print_bibliography:

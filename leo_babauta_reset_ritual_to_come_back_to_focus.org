@@ -32,3 +32,5 @@ Sometimes I forget to set a reminder, but I have other cues to help me remember 
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

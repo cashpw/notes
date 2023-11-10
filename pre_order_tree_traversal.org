@@ -47,3 +47,5 @@ Priority order for traversing the list:
 
 *** Source
 [cite:@TreeTraversal2022]
+* Bibliography
+#+print_bibliography:

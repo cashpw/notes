@@ -35,3 +35,5 @@ The P [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]] versus NP [[
 Can every problem which can be quickly (in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]]) verified also be quickly solved?
 *** Source
 [cite:@NPProblem2023]
+* Bibliography
+#+print_bibliography:

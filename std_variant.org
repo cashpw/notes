@@ -84,3 +84,5 @@ Use {{=std::holds_alternative<type>=}@0} to test the type held in a {{[[id:cd536
 
 *** Source
 [cite:@StdVariant]
+* Bibliography
+#+print_bibliography:

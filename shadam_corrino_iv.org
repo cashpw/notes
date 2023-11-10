@@ -18,3 +18,5 @@ Among other things:
 
 - Emperor of the known universe
 * Flashcards :noexport::noexport:
+* Bibliography
+#+print_bibliography:

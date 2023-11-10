@@ -29,3 +29,5 @@ Aside from the ongoing value of the captured links, they may help you shepherd y
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

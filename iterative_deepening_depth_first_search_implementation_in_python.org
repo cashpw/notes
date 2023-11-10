@@ -107,3 +107,5 @@ print(iterative_deepening_dfs('i', a))
 : Vertex(children=[], value='i')
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

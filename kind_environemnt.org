@@ -37,3 +37,5 @@ Inference involves two settings: In the first, information is acquired (learning
 A learning environment in which learning is useful and applicable.
 *** Source
 [cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]
+* Bibliography
+#+print_bibliography:

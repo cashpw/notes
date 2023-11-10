@@ -51,3 +51,5 @@ Systems mirror the communication structures of the organizations which design th
 *** Source
 [cite:@ConwayLaw2022]
 
+* Bibliography
+#+print_bibliography:

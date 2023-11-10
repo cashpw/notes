@@ -36,3 +36,5 @@ Multi-tasking and [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial 
 - [[id:ae7e202d-cab1-4ccf-8041-e76d39f7f698][Continuous partial attention]]: the willingness to connect, stay connected, to be a "live node on the network", scan and optimize opportunities, in an effort to not miss anything that's going on.
 *** Source
 [cite:@ContinuousPartialAttention2022]
+* Bibliography
+#+print_bibliography:

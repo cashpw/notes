@@ -13,3 +13,5 @@ Among other things:
 - [[https://ideolalia.com/][Personal website / blog]]
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

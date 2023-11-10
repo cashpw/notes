@@ -37,3 +37,5 @@ The ability to:
 - influence through (active) teaching, mentoring, and (passive) being a role model
 *** Source
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
+* Bibliography
+#+print_bibliography:

@@ -65,3 +65,5 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which the [[id:7211246e-
 
 *** Source
 [cite:@GraphDiscreteMathematics2022]
+* Bibliography
+#+print_bibliography:

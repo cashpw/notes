@@ -113,3 +113,5 @@ To that end I've changed my focus from "get more hours" to "do more with the hou
 :END:
 
 
+* Bibliography
+#+print_bibliography:

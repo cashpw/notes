@@ -25,3 +25,5 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

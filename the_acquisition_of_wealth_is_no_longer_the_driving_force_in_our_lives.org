@@ -20,3 +20,5 @@ Related: [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Commu
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

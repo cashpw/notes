@@ -35,3 +35,5 @@ Benevolent dictator for life (BDFL) is a title given to a small number of open-s
 
 *** Source
 [cite:@BenevolentDictatorLife2023]
+* Bibliography
+#+print_bibliography:

@@ -51,3 +51,5 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b252
 - {{Disjoint union of [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Trees]]}@1}
 *** Source
 [cite:@TreeGraphTheory2022]
+* Bibliography
+#+print_bibliography:

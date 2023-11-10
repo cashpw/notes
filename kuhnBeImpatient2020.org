@@ -76,3 +76,5 @@ The faster you process information, the faster you can incorporate the result in
 *** Source
 [cite:@kuhnBeImpatient2020]
 
+* Bibliography
+#+print_bibliography:

@@ -32,3 +32,5 @@ Also see [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][How I write notes]].
 
 * TODO [#2] Expand :noexport:
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

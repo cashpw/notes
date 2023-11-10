@@ -269,3 +269,5 @@ MINUS: It does 15 small household chores a week (-15 x 5 minutes = -1.25)
 Time spent per week: 9 hours
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

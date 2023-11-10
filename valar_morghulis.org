@@ -31,3 +31,5 @@ Related: [[id:8991f579-2d7a-4c2a-8207-f360145cd587][Valar dohaeris]]
 | back     | 2.95 |   7 |   273.63 | 2023-11-16T07:13:10Z |
 | front    | 2.95 |   7 |   327.68 | 2024-01-18T20:00:04Z |
 :END:
+* Bibliography
+#+print_bibliography:

@@ -19,3 +19,5 @@ Where possible, solving the general form of any problem is preferable to solving
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

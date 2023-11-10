@@ -37,3 +37,5 @@ In statistics, a power law is a functional relationship between two quantities, 
 A functional relationship between two quantities where one varies as a power of the other.
 *** Source
 [cite:@PowerLaw2022]
+* Bibliography
+#+print_bibliography:

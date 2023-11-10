@@ -68,3 +68,5 @@ The set of prerequisite knowledge required to understand a new concept lacked by
 - Explaining evolution to a physicist versus someone without a background in science
 *** Source
 [cite:@InferentialDistance]
+* Bibliography
+#+print_bibliography:

@@ -67,3 +67,5 @@ Create notes for each of the links in the above quote. I think I have flashcards
 
 *** Source
 [cite:@hefferonLinearAlgebra2020], [cite:@hefferonLinearAlgebraOrthogonalProjectionLineWikibooksOpenBooksOpenWorld]
+* Bibliography
+#+print_bibliography:

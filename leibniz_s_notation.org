@@ -104,3 +104,5 @@ $$
 $$
 *** Source
 [cite:@LeibnizNotation2022]
+* Bibliography
+#+print_bibliography:

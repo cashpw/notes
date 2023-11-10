@@ -286,3 +286,5 @@ Benefit(s) of only queuing a single item at the start of [[id:668cbbcc-170b-42c8
 
 *** Source
 [cite:@SearchAlgorithm2022]
+* Bibliography
+#+print_bibliography:

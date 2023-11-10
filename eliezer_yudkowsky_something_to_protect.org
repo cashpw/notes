@@ -39,3 +39,5 @@ Where do you get the will to keep moving forward?
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

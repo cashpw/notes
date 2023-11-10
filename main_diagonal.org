@@ -41,3 +41,5 @@ In linear algebra, the main diagonal (sometimes principal diagonal, primary diag
 $A_{i,j} \; \forall \; i = j \; \in A$
 *** Source
 [cite:@MainDiagonal2022]
+* Bibliography
+#+print_bibliography:

@@ -57,3 +57,5 @@ Places within complex systems where a small shift in one thing can produce big c
 - Speed
 *** Source
 
+* Bibliography
+#+print_bibliography:

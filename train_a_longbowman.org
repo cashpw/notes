@@ -37,3 +37,5 @@ If you want to train a longbowman, start with his grandfather.
 #+end_quote
 *** Source
 Legend
+* Bibliography
+#+print_bibliography:

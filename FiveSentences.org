@@ -26,3 +26,5 @@ Treat all email responses like SMS text messages, using a set number of letters 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

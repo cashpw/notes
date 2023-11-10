@@ -26,3 +26,5 @@
 *** Back
 - [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][The Staff Engineer's Path]].
 *** Source
+* Bibliography
+#+print_bibliography:

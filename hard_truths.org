@@ -16,3 +16,5 @@ This note collects things I consider to be true for which acceptance can be diff
 * TODO [#3] Consider creating notes for each "truth" and having this note act as a "tag" like [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]]
 * TODO [#4] Expand :noexport:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

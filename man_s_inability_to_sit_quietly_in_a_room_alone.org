@@ -32,3 +32,5 @@ All of humanity's problems stem from man's inability to sit quietly in a room al
 *** Source
 Blaise Pascal
 
+* Bibliography
+#+print_bibliography:

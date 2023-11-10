@@ -87,3 +87,5 @@ A phrasal template that can be used and recognized in multiple variants; a meme 
 
 *** Source
 [cite:@Snowclone2022]
+* Bibliography
+#+print_bibliography:

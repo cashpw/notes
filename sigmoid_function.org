@@ -38,3 +38,5 @@ A bounded, differentiable, real function defined for all $\mathbb{R}$ which has 
 
 *** Source
 [cite:@SigmoidFunction2022]
+* Bibliography
+#+print_bibliography:

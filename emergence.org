@@ -20,3 +20,5 @@ Emergence plays a central role in theories of integrative levels and of complex 
 * TODO [#2] Expand :noexport:
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

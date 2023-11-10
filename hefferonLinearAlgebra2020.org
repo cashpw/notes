@@ -33,3 +33,5 @@
 
 *** Back
 [[id:46dd2e05-cb80-4cb6-876e-8bf46551ec2f][Jim Hefferon]]
+* Bibliography
+#+print_bibliography:

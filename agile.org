@@ -73,3 +73,5 @@ A set of guiding principles for how to manage software development teams which p
 - flexibility to respond to changing requirements
 *** Source
 [cite:@AgileSoftwareDevelopment2022]
+* Bibliography
+#+print_bibliography:

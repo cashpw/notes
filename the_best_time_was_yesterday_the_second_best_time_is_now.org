@@ -29,3 +29,5 @@ The best time for \under\under\under[fn:1] was yesterday. The second best time i
 |----------+------+-----+----------+----------------------|
 |        0 | 1.90 |   8 |   223.06 | 2024-02-22T02:20:51Z |
 :END:
+* Bibliography
+#+print_bibliography:

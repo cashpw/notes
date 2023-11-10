@@ -85,3 +85,5 @@ The subset sum problem [[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum pr
 Given a set of items, each with a weight and a value, determine which items to include in the collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
 *** Source
 [cite:@KnapsackProblem2023]
+* Bibliography
+#+print_bibliography:

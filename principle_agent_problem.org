@@ -97,3 +97,5 @@ A problem referring to the conflict of interests between two entities in which o
 
 *** Source
 [cite:@PrincipalAgentProblem2023]
+* Bibliography
+#+print_bibliography:

@@ -122,3 +122,5 @@ For a given [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]:
 
 *** Source
 [cite:@TreeRotation2022]
+* Bibliography
+#+print_bibliography:

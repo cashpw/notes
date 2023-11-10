@@ -37,3 +37,5 @@ Ontology addresses questions of how entities are grouped into categories and whi
 2. A set of concepts and categories in a subject area or domain that shows their properties and the relations between them
 *** Source
 [cite:@Ontology2022]
+* Bibliography
+#+print_bibliography:

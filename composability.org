@@ -61,3 +61,5 @@ A design principle relating to distinct, independent, units which can be assembl
 
 *** Source
 [cite:@Composability2021]
+* Bibliography
+#+print_bibliography:

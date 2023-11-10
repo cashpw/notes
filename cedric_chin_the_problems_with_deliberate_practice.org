@@ -16,3 +16,5 @@
 The idea that one can teach something by just finding the right words reminds me of the [[id:166a96a1-466f-43dd-a9f6-ec18d2ba9b36][Feynman technique]].
 * TODO Notes
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -11,3 +11,5 @@
 Some of my favorite things.
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

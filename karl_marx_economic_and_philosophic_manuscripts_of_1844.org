@@ -39,3 +39,5 @@
 *** Critique of the hegelian dialect and philosophy as a whole
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

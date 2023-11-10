@@ -48,3 +48,5 @@ My advice for a practical upshot from this post would be: cultivate a deep sense
 A [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth mindset]]-oriented approach to thinking about computers based on the truth that computer systems are (except in rare cases) deterministic.
 *** Source
 [cite:@elhageComputersCanBeUnderstood]
+* Bibliography
+#+print_bibliography:

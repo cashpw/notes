@@ -41,3 +41,5 @@ Abbreviations, initialisms, and other short-forms can be can confuse those witho
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

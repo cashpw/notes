@@ -56,3 +56,5 @@ n.b.
 
 *** Source
 [cite:@NotaBene2022]
+* Bibliography
+#+print_bibliography:

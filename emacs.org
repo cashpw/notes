@@ -14,3 +14,5 @@
 
 A bookmarklet for capturing the selected text into Emacs. Requires the
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -19,3 +19,5 @@ Related:
 - [[id:b0458fd4-4350-4c90-a7ac-cc905d590282][Coordination]]
 * TODO [#2] Expand :noexport:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

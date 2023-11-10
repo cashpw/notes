@@ -22,3 +22,5 @@ Among other things:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

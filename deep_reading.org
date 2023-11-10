@@ -17,3 +17,5 @@ Deep-dive reading is my term for reading more than one source either on a partic
 - Reading more than one translation of a source
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

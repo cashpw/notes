@@ -288,3 +288,5 @@ Represents a number using a significand and an exponent: \(\text{significand} \t
 3. 52 significand bits
 *** Source
 [cite:@IEEE7542022]
+* Bibliography
+#+print_bibliography:

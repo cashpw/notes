@@ -88,3 +88,5 @@ My resistance training requires a gym with barbells, free weights, etc. I skip t
 
 * Past programs
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

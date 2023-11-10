@@ -60,3 +60,5 @@ Culture wars are {{long wars}@0}.
 
 *** Source
 [cite:@greerCultureWarsAreLongWars2021]
+* Bibliography
+#+print_bibliography:

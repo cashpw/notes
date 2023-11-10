@@ -17,3 +17,5 @@ Among other things:
 - [[youtube:Xu-eSkU515o][Ceramic Review: Masterclass with Adrian Bates]]
 - [[https://www.adrianbatesceramics.com/][Website]]
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

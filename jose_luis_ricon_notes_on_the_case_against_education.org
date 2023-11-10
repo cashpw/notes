@@ -20,3 +20,5 @@ TODO_AUTHOR, [cite:@riconNotesCaseEducation]
 #+end_quote
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

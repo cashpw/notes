@@ -38,3 +38,5 @@ In linear algebra, a symmetric matrix is a [[id:09208dbb-8043-4ef2-ac56-be944afb
 A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]], \(A\), for which \(A = A^\textsf{T}\)
 *** Source
 [cite:@SymmetricMatrix2022]
+* Bibliography
+#+print_bibliography:

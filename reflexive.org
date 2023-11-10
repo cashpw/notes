@@ -44,3 +44,5 @@ Formally: $x \, R \, x \; \forall \; x \in X$
 
 *** Source
 [cite:@ReflexiveRelation2022]
+* Bibliography
+#+print_bibliography:

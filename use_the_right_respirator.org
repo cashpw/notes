@@ -66,3 +66,5 @@ For crystalline silica, use a {{n95 or better}{type}@0} filter.
 
 *** Source
 [cite:@NIOSHPolicyStatementRespiratoryProtectionRecommendationsAirborneExposuresCrystallineSilica2008]
+* Bibliography
+#+print_bibliography:

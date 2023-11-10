@@ -15,3 +15,5 @@ Once men turned their thinking over to machines in the hope that this would set 
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

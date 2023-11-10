@@ -52,3 +52,5 @@ A person's careful and thoughtful consideration of the facts or true merits of a
 - Deciding which car to purchase based on cost, reliability, fuel efficiency, etc.
 *** Source
 [cite:@ElaborationLikelihoodModel2022]
+* Bibliography
+#+print_bibliography:

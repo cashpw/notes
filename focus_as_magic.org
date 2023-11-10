@@ -34,3 +34,5 @@ Meanwhile there was the sneeze-medicine-making, but Kiki didn't seem to be cut o
 :END:
 * TODO [#2] Flashcards :noexport:
 
+* Bibliography
+#+print_bibliography:

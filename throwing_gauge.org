@@ -29,3 +29,5 @@ A throwing gauge is a [[id:eefb478b-2083-4445-884d-755005a26f2f][Pottery]] tool 
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

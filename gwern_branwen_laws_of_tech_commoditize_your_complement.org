@@ -37,3 +37,5 @@ Done correctly, this is effective at perpetuating incumbents' long-term control 
 [cite:@branwenLawsTechCommoditizeYourComplement2018]
 #+end_quote
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

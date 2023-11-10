@@ -49,3 +49,5 @@ An example:
 
 After finishing his syntopical reading of the leaders' speeches, he wrote an essay comparing the language used by Reagan, Carter, Gorbachev, and Qaddafi.
 *** Source
+* Bibliography
+#+print_bibliography:

@@ -86,3 +86,5 @@ A European option may be exercised only at the expiration date of the option, i.
 - European options may *only* be exercised at the expiration date
 *** Source
 [cite:@OptionStyle2022]
+* Bibliography
+#+print_bibliography:

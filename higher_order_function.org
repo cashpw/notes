@@ -59,3 +59,5 @@ Functions which are not [[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order 
 
 *** Source
 [cite:@HigherorderFunction2022]
+* Bibliography
+#+print_bibliography:

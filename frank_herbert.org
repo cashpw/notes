@@ -27,3 +27,5 @@ Among other things:
 [[id:7f3c7b18-3173-4c69-a4c5-b7d33630ae85][Frank Herbert]]
 *** Back
 - Dune
+* Bibliography
+#+print_bibliography:

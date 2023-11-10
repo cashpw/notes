@@ -36,3 +36,5 @@ In computer science, a generalized suffix tree is a suffix tree for a set of str
 A [[id:2a01a221-0aa9-493b-b690-c15c11f16831][Suffix tree]] for a set of strings.
 *** Source
 [cite:@GeneralizedSuffixTree2022]
+* Bibliography
+#+print_bibliography:

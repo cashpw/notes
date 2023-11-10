@@ -67,3 +67,5 @@ Grammatical mood that forms a command or request.
 - "Bring the hammer."
 *** Source
 [cite:@ImperativeMood2023]
+* Bibliography
+#+print_bibliography:

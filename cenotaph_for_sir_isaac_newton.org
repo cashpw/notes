@@ -100,3 +100,5 @@ http://catalogue.bnf.fr/ark:/12148/cb402991186
 
 *** Source
 [cite:@EtienneLouisBoullee2023]
+* Bibliography
+#+print_bibliography:

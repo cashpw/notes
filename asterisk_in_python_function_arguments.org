@@ -203,3 +203,5 @@ Positional arguments {{can't}{can(not)}@0} come after =*= in a [[id:27b0e33a-675
 
 *** Source
 [cite:@pythondocumentationGlossary]
+* Bibliography
+#+print_bibliography:

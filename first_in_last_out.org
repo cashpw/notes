@@ -20,3 +20,5 @@ Related: [[id:dfa2ce8d-63c1-44ad-a16f-52777f4abbac][First in, first out]]
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

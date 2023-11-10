@@ -27,3 +27,5 @@
 *** Back
 #+DOWNLOADED: https://empire-s3-production.bobvila.com/slides/44030/vertical_slide_wide/1.jpg?1629928093 @ 2022-09-22 09:10:29
 [[file:wainscoating.jpeg]]
+* Bibliography
+#+print_bibliography:

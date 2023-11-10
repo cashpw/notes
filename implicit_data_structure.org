@@ -75,3 +75,5 @@ A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z 
 - [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Array]]
 *** Source
 [cite:@ImplicitDataStructure2021]
+* Bibliography
+#+print_bibliography:

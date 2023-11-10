@@ -62,3 +62,5 @@ Most algorithms which solve the {{[[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Sho
 
 *** Source
 [cite:@WidestPathProblem2022]
+* Bibliography
+#+print_bibliography:

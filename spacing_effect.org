@@ -34,3 +34,5 @@ The spacing effect demonstrates that learning is more effective when study sessi
 Learning is more effective when the learner spreads their study sessions out over time.
 *** Source
 [cite:@SpacingEffect2022]
+* Bibliography
+#+print_bibliography:

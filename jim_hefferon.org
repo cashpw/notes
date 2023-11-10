@@ -29,3 +29,5 @@ Among other things:
 
 *** Back
 [[id:f62d92d7-7151-46f1-a3e8-bb06cc72f02b][Linear Algebra]]
+* Bibliography
+#+print_bibliography:

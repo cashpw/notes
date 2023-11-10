@@ -33,3 +33,5 @@ If the [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookie]] domain and schem
 [[id:023c4857-9ecc-48a8-81b6-4738bab59a4c][HTTP Cookies]] whose =Domain= and scheme are the same as the page.
 *** Source
 [cite:@mdnUsingHTTPCookies]
+* Bibliography
+#+print_bibliography:

@@ -35,3 +35,5 @@
 The process of breaking down the internal and external details of how one accomplishes a piece of work.
 *** Source
 [cite:@TaskAnalysis2023]
+* Bibliography
+#+print_bibliography:

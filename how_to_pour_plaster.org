@@ -33,3 +33,5 @@ A tip that I picked up from TimSee, is to spritz the plaster with alcohol.  This
 - Work in a well ventilated area
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

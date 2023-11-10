@@ -87,3 +87,5 @@ Determine whether any subset of values in a [[id:f25031de-9b51-4f1c-9166-f155b2d
 
 *** Source
 [cite:@SubsetSumProblem2023]
+* Bibliography
+#+print_bibliography:

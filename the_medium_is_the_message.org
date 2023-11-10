@@ -45,3 +45,5 @@ A message must "fit" its medium. That is, a message must conform to the rules of
 Messages must conform to the rules of their medium. A medium controls the types of messages which are possible.
 *** Source
 [cite:@MediumMessage2022]
+* Bibliography
+#+print_bibliography:

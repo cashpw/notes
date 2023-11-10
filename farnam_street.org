@@ -11,3 +11,5 @@ Among other things:
 
 - http://fs.blog
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

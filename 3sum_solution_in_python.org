@@ -78,3 +78,5 @@ Given a list of real numbers, =nums=, and a target value, =target=: return a lis
 [[id:8940a6c3-151a-4bbd-8264-fc4cecd7ba5a][3sum solution in Python]]
 *** Source
 [[id:8940a6c3-151a-4bbd-8264-fc4cecd7ba5a][3sum solution in Python]]
+* Bibliography
+#+print_bibliography:

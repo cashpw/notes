@@ -33,3 +33,5 @@ Digital Minimalism: The services delivered through your devices have become so a
 :END:
 
 
+* Bibliography
+#+print_bibliography:

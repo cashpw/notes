@@ -69,3 +69,5 @@ You want to do X, and you think Y is the best way of doing so. Instead of asking
 #+end_quote
 *** Source
 [cite:@perlmonksXYProblem]
+* Bibliography
+#+print_bibliography:

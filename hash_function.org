@@ -37,3 +37,5 @@ A hash function is any function that can be used to map data of arbitrary size t
 A function that maps data of an arbitrary size to fixed-size values.
 *** Source
 [cite:@HashFunction2022]
+* Bibliography
+#+print_bibliography:

@@ -40,3 +40,5 @@ A matrix, $A$, for which $AA = A$
 
 *** Source
 [cite:@IdempotentMatrix2022]
+* Bibliography
+#+print_bibliography:

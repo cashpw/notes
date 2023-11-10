@@ -13,3 +13,5 @@
 [cite:@EvidencebasedEducation2022]
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

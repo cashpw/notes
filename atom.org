@@ -45,3 +45,5 @@ Technically speaking, a list in Lisp consists of parentheses surrounding atoms s
 Everything that isn't a list; an indivisible thing. Examples include numbers, strings, symbols, etc.
 *** Source
 [cite:@LispAtoms]
+* Bibliography
+#+print_bibliography:

@@ -75,3 +75,5 @@ print(quick_sort(a, lambda a, b: a <= b))
 [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
 *** Source
 [cite:@Quicksort2022]
+* Bibliography
+#+print_bibliography:

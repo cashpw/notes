@@ -88,3 +88,5 @@ A non-empty [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in
 A [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]] is a [[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]] where *only* the first and last [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are equal.
 *** Source
 [cite:@CycleGraphTheory2022]
+* Bibliography
+#+print_bibliography:

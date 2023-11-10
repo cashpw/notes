@@ -51,3 +51,5 @@ A specialized [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]-based [[id:738c2
 
 *** Source
 [cite:@HeapDataStructure2022]
+* Bibliography
+#+print_bibliography:

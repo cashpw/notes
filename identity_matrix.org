@@ -65,3 +65,5 @@ In linear algebra, the identity matrix of size \(n\) is the \(n \times n\) [[id:
 
 *** Source
 [cite:@IdentityMatrix2022]
+* Bibliography
+#+print_bibliography:

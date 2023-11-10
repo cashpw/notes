@@ -104,3 +104,5 @@ A server which acts as a middleman between client machines and origin servers.
 - [[id:afaa35fe-7ff7-4621-9b90-5122279c65b0][Reverse proxy]]: Sits in front of a set of *origin severs* and intercepts, and forwards, *incoming* internet requests
 *** Source
 [cite:@WhatReverseProxy]
+* Bibliography
+#+print_bibliography:

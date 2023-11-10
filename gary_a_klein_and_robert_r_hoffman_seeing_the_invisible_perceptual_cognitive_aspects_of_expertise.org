@@ -19,3 +19,5 @@
 Novices only see what is there; experts can see what is not there. With experience, a person gains the ability to visualize how a situation developed and to imagine how it is going to turn out.
 #+end_quote
 * TODO [#4] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -38,3 +38,5 @@ a decision-making strategy or cognitive heuristic that entails searching through
 
 *** Source
 [cite:@Satisficing2023]
+* Bibliography
+#+print_bibliography:

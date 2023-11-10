@@ -36,3 +36,5 @@ Trigonometry (from Ancient Greek τρίγωνον (trígōnon) 'triangle', and �
 A branch of math which studies relationships between sides and angles of triangles.
 *** Source
 [cite:@Trigonometry2022]
+* Bibliography
+#+print_bibliography:

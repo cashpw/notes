@@ -37,3 +37,5 @@ Progressive overload is a method of strength training and hypertrophy training t
 #+end_quote
 *** Source
 [cite:@ProgressiveOverload2023]
+* Bibliography
+#+print_bibliography:

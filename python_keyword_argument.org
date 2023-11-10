@@ -47,3 +47,5 @@ Arguments to a function which are either:
 
 *** Source
 [cite:@pythondocumentationGlossary]
+* Bibliography
+#+print_bibliography:

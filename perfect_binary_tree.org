@@ -63,3 +63,5 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which (1) all inte
 [[file:perfect-binary-tree.png]]
 *** Source
 [cite:@BinaryTree2022]
+* Bibliography
+#+print_bibliography:

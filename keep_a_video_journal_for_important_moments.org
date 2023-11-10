@@ -37,3 +37,5 @@ I haven't done so yet, but I could see creating ad-hoc entries as well:
 - Birth in the family
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

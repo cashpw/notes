@@ -153,3 +153,5 @@ Appropriate, even if old...I've seen it referenced as coming from [[http://www.a
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

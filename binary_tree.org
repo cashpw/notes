@@ -92,3 +92,5 @@ Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text
 A [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in which each node has at most two children.
 *** Source
 [cite:@BinaryTree2022]
+* Bibliography
+#+print_bibliography:

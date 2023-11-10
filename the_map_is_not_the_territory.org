@@ -36,3 +36,5 @@ Related: [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]],
 [[id:bfc5100c-d70d-4829-9798-7a90b5edea9b][The map is not the territory]]
 *** Back
 A description of a thing is not the thing itself.
+* Bibliography
+#+print_bibliography:

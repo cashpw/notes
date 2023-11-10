@@ -39,3 +39,5 @@ Commonly encountered mnemonics are often used for lists and in auditory form, su
 A learning technique which aids information retention or retrieval. They're commonly auditory-based (e.g. acronyms, initialisms, memorable phrases).
 *** Source
 [cite:@Mnemonic2022]
+* Bibliography
+#+print_bibliography:

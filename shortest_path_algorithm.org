@@ -104,3 +104,5 @@ A path $p$ between two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] suc
 
 *** Source
 [cite:@BellmanFordAlgorithm2022]
+* Bibliography
+#+print_bibliography:

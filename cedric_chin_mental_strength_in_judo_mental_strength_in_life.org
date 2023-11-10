@@ -16,3 +16,5 @@ TODO_AUTHOR, [cite:@chinMentalStrengthJudoMentalStrengthLife2023]
 * TODO Notes
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

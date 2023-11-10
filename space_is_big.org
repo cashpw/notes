@@ -19,3 +19,5 @@ Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

@@ -20,3 +20,5 @@ Use the smallest word that does the job.
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

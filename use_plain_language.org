@@ -26,3 +26,5 @@ Plain language makes it easier [...] to read, understand, and use [writing].
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

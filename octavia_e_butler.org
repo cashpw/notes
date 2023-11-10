@@ -8,3 +8,5 @@
 #+date: [2022-09-10 Sat 09:51]
 #+filetags: :person:
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

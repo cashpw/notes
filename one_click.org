@@ -12,3 +12,5 @@ A one-click $X$ is something that one can perform by taking a single action. I'v
 * TODO [#2] Expand :noexport:
 - This is related to "choose simple solutions", or "complex systems are brittle", and "[[id:335314f6-0958-4d7e-a0bd-76b83bee3044][Don't make me think]]", and "people won't do X as often if X is hard", and "if X is complicated then there are more chances for it to go wrong"
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

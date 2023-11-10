@@ -41,3 +41,5 @@ A collection of elements each identified by an index which is stored in such a w
 
 *** Source
 [cite:@ArrayDataStructure2022]
+* Bibliography
+#+print_bibliography:

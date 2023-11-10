@@ -30,3 +30,5 @@ An l-value is an object that occupies some identifiable location in memory (i.e.
 An object that occupies some identifiable location in memory and persists beyond a single expression.
 *** Source
 [cite:@ValueComputerScience2023]
+* Bibliography
+#+print_bibliography:

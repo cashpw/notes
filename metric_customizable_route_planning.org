@@ -35,3 +35,5 @@ The metric encodes the actual cost of traversing a road segment or taking a turn
 That which encodes the actual cost of traversing a road segment, or of making a turn.
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
+* Bibliography
+#+print_bibliography:

@@ -59,3 +59,5 @@ In contrast to [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][reasoning from first p
 *** Back
 The technique of crafting an argument from higher-order principles.
 *** Source
+* Bibliography
+#+print_bibliography:

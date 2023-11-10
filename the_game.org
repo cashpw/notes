@@ -16,3 +16,5 @@ Adjacent ideas:
 - [[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]]
 * TODO [#3] :noexport:
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

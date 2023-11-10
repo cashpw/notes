@@ -104,3 +104,5 @@ To find the =k=-th smallest element in a =list=:
 3. If =Partition(...)= returns =k=: =return list[k]=
 4. Else if =Partition(...) < k=: Apply =Quicksort= to the left set
 5. Else: Apply =Quicksort= to the right set
+* Bibliography
+#+print_bibliography:

@@ -29,3 +29,5 @@
 
 - A trade, profession, or occupation
 - An outstanding or advantageous characteristic
+* Bibliography
+#+print_bibliography:

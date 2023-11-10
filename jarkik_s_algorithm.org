@@ -141,3 +141,5 @@ Time complexity of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm
 #+end_quote
 *** Source
 [cite:@PrimAlgorithm2022]
+* Bibliography
+#+print_bibliography:

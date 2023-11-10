@@ -97,3 +97,5 @@ A method for winning arguments where you seek to convince the audience you won o
 
 *** Source
 [cite:@danskinNeverPlayDefense2017]
+* Bibliography
+#+print_bibliography:

@@ -101,3 +101,5 @@ The fundamental operation in {{[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functi
 
 *** Source
 [cite:@ThereAreExactlyThreeParadigms]
+* Bibliography
+#+print_bibliography:

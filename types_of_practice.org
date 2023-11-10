@@ -15,3 +15,5 @@ According to K. Anders Ericsson:
 - [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

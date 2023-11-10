@@ -69,3 +69,5 @@ And so it is, although it is nothing but a description of the modern workplace.
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

@@ -72,3 +72,5 @@ $h'(x)=$ {{$af'(x)+bg'(x)$}@0}
 
 *** Source
 [cite:@DifferentiationRules2022]
+* Bibliography
+#+print_bibliography:

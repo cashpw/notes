@@ -15,3 +15,5 @@ Org-noter's purpose is to let you create notes that are kept in sync when you sc
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

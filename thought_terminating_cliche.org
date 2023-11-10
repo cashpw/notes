@@ -49,3 +49,5 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 *** Back
 - "It's just human nature"
 - Veganism isn't natural, look at the food chain. Animals eat other animals.
+* Bibliography
+#+print_bibliography:

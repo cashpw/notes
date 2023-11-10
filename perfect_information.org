@@ -87,3 +87,5 @@ A game in which each player is informed of all the events which have previously 
 *** Source
 - [cite:@PerfectInformation2022]
 - [cite:@CompleteInformation2021]
+* Bibliography
+#+print_bibliography:

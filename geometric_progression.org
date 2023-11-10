@@ -85,3 +85,5 @@ The multiplicative factor in a [[id:0a3c8553-f631-4eca-8e2c-957419ebb8ac][Geomet
 - $a,ar,ar^{2},ar^{3},ar^{4},\ldots$
 *** Source
 [cite:@GeometricProgression2022]
+* Bibliography
+#+print_bibliography:

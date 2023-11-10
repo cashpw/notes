@@ -40,3 +40,5 @@ Focusing techniques bridge the gap between a desired state of mind and your pres
 *** Back
 Techniques which bridge the gap between a desired state of mind and one's present state.
 *** Source
+* Bibliography
+#+print_bibliography:

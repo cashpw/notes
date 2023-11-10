@@ -42,3 +42,5 @@ The top-tier.
 The top tier, the best of a group
 *** Source
 [cite:@TierList2022]
+* Bibliography
+#+print_bibliography:

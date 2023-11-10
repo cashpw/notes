@@ -43,3 +43,5 @@ For varying levels of seniority, from senior, to staff, and beyond.
 23. How to take negative feedback gracefully
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

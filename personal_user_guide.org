@@ -32,3 +32,5 @@ The [[id:68cc0b1b-a85b-4406-a65b-72baacbc9552][act of writing the guide]] may pr
 *** Back
 A guide on how best to interact with an individual; written by the individual.
 *** Source
+* Bibliography
+#+print_bibliography:

@@ -42,3 +42,5 @@ Books which consist of a single idea which is padded out with examples, extrapol
 
 *** Source
 [cite:@chinThreeKindsNonfictionBooks2018]
+* Bibliography
+#+print_bibliography:

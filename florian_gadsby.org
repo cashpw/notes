@@ -15,3 +15,5 @@ Among other things:
 
 - [[https://www.youtube.com/c/FlorianGadsbyCeramics][On YouTube]]
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

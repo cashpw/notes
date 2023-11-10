@@ -61,3 +61,5 @@ The study of the nitty-gritty in boring, everyday systems -- the kind that peopl
 - Learning about your continuous integration service
 *** Source
 [cite:@kuhnDefenseBlubStudies]
+* Bibliography
+#+print_bibliography:

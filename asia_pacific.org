@@ -32,3 +32,5 @@
 
 *** Source
 [cite:@AsiaPacific2023]
+* Bibliography
+#+print_bibliography:

@@ -31,3 +31,5 @@ The periphery is where the future reveals itself.
 |        0 | 2.50 |   7 |   282.26 | 2024-03-02T02:26:19Z |
 |        1 | 2.50 |   7 |   210.10 | 2023-12-05T19:19:39Z |
 :END:
+* Bibliography
+#+print_bibliography:

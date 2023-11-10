@@ -17,3 +17,5 @@ In [[id:5664432e-6bb3-4670-9669-08ee70b5ca6d][Agile (Software development)]] pri
 Related: [[id:0c40f4d8-2ae6-4cc1-9109-f4852d3b2160][Contiguous time blocks]] and [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loop]].
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

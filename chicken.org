@@ -38,3 +38,5 @@ The name "chicken" has its origins in a game in which two drivers drive toward e
 A game modeling conflict between two players in which they both achieve the best outcome when one of them yields. However, neither wants to yield as doing so is shameful or embarrassing. The worst outcome occurs when neither yields.
 *** Source
 [cite:@ChickenGame2022]
+* Bibliography
+#+print_bibliography:

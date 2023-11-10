@@ -53,3 +53,5 @@ For $f(x) = \dots x$:
 2. Solve for $f^{-1}(x)$
 *** Source
 [cite:@InverseFunction2022]
+* Bibliography
+#+print_bibliography:

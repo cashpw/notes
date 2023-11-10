@@ -181,3 +181,5 @@ For those of you using [[https://github.com/hlissner/doom-emacs][=doom emacs=]],
 :END:
 
 
+* Bibliography
+#+print_bibliography:

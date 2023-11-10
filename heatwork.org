@@ -35,3 +35,5 @@ Heatwork is the combined effect of temperature and time.
 The combined effect of temperature and time.
 *** Source
 [cite:@Heatwork2022]
+* Bibliography
+#+print_bibliography:

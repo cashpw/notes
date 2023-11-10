@@ -82,3 +82,5 @@ Contrast with a [[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]].
 A game in which all players choose their actions without knowledge of the actions chosen by the other players.
 *** Source
 [cite:@SimultaneousGame2022]
+* Bibliography
+#+print_bibliography:

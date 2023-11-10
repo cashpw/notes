@@ -11,3 +11,5 @@
 
 A generative AI released by Google.
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

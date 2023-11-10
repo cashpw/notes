@@ -18,3 +18,5 @@
     - 1:1 split? Sounds extereme (How will I get anything done?) but encourages you to really focus during execution time and forces you to think/learn/read/etc.
 
 * TODO [#3] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

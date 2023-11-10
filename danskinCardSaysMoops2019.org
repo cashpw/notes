@@ -58,3 +58,5 @@ If you operate as though there is no truth, just competing opinions, and as thou
 ** [[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

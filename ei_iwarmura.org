@@ -16,3 +16,5 @@ Among other things:
 - [[instagram:eniwamura][@eniwamura]]
 - [[https://www.youtube.com/channel/UCiJjYQgwpKzAMlZFND8G5lg][YouTube]]
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

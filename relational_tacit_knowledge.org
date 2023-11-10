@@ -91,3 +91,5 @@ In principle, /all/ ... tacit knowledge may be made explicit, with enough time a
 #+end_quote
 *** Source
 [cite:@chinThreeKindsTacit2020]
+* Bibliography
+#+print_bibliography:

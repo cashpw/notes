@@ -49,3 +49,5 @@ The Principles Sequence is centered around Parts One and Two, the two most valua
 * TODO Summary / Key points / Take-aways
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

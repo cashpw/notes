@@ -58,3 +58,5 @@ The following share a property:
 - Language speakers
 *** Source
 [cite:@NetworkEffect2022]
+* Bibliography
+#+print_bibliography:

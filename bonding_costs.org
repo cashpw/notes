@@ -56,3 +56,5 @@ Costs borne by the agent to build trust with their principal.
 - Getting a license or accreditation
 *** Source
 [cite:@AgencyCost2022]
+* Bibliography
+#+print_bibliography:

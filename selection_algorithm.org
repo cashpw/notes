@@ -58,3 +58,5 @@ In computer science, a selection algorithm is an algorithm for finding the kth s
 Category of algorithms for finding the k-th entry in a sorted version of a list.
 *** Source
 [cite:@SelectionAlgorithm2022]
+* Bibliography
+#+print_bibliography:

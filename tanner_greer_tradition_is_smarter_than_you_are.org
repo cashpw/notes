@@ -31,3 +31,5 @@ None of Scott's works are in Henrich's bibliography, but it is hard to imagine H
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

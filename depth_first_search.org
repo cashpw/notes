@@ -246,3 +246,5 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4
 TODO
 *** Source
 [cite:@DepthfirstSearch2022]
+* Bibliography
+#+print_bibliography:

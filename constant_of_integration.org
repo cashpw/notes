@@ -38,3 +38,5 @@ More specifically, if a function $f(x)$ is defined on an interval, and $F(x)$(x)
 $C$ in $\int f(x)\,dx=F(x)+C$
 *** Source
 [cite:@ConstantIntegration2022]
+* Bibliography
+#+print_bibliography:

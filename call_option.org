@@ -56,3 +56,5 @@ Covered call
 A financial transaction in which the investor selling call options owns an equivalent amount of the underlying security.
 *** TODO [#4] Source
 https://www.investopedia.com/terms/c/coveredcall.asp
+* Bibliography
+#+print_bibliography:

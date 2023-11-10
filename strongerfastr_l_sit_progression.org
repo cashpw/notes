@@ -55,3 +55,5 @@ Alternate feet every 10 seconds or so.
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

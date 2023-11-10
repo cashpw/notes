@@ -48,3 +48,5 @@ Communication Transport may be implemented as part of protocols and services at 
 A time-delimited two-way link which enables interactive expression and information exchange between two or more communication devices or ends – be they computers, automated systems, or live active users (see login session).
 *** Source
 [cite:@SessionComputerScience2023]
+* Bibliography
+#+print_bibliography:

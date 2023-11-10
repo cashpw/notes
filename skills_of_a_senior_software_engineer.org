@@ -54,3 +54,5 @@ I've sought out common traits of "senior" roles and collected them here to help 
 :END:
 
 
+* Bibliography
+#+print_bibliography:

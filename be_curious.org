@@ -13,3 +13,5 @@ Curiosity is key to expanding your understanding of the world.
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

@@ -21,3 +21,5 @@ to a more beautiful and equitable world
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

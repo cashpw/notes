@@ -18,3 +18,5 @@ Just as [[id:0571b617-64e7-4d60-8cd8-e557f845057b][space is big]], time is also 
 :ANKI_DECK: Default
 :END:
 
+* Bibliography
+#+print_bibliography:

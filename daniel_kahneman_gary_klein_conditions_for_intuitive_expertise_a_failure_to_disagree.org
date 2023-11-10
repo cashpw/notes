@@ -99,3 +99,5 @@ Two conditions must be satisfied for skilled intuition to develop: an environmen
 - We agree that the weak regularities available in low-validity situations can sometimes support the development of algorithms that do better than chance. These algorithms only achieve limited accuracy, but they outperform humans because of their advantage of consistency. However, the introduction of algorithms to replace human judgment is likely to evoke substantial resistance and sometimes has undesirable side effects.
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

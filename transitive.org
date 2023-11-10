@@ -71,3 +71,5 @@ eg: $(A \to B$ and $B \to C) \implies$ $A \to C$
 
 *** Source
 [cite:@TransitiveDependency2022]
+* Bibliography
+#+print_bibliography:

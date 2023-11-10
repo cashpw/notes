@@ -35,3 +35,5 @@ An r-value is a temporary value that does not persist beyond the expression that
 A temporary value that does not persist beyond the expression that uses it.
 *** Source
 [cite:@ValueComputerScience2023]
+* Bibliography
+#+print_bibliography:

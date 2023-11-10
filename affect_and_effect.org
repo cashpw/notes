@@ -63,3 +63,5 @@ Affect and Effect
 *** Source
 - [cite:@Affect2023]
 - [cite:@Effect2023]
+* Bibliography
+#+print_bibliography:

@@ -156,3 +156,5 @@ I believe DiBello when she says that the Profiler is able to detect blindspots i
 #+end_quote
 
 * TODO [#1] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

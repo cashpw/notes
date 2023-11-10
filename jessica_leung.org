@@ -25,3 +25,5 @@
 
 *** Back
 [[id:2a445fab-e52e-4402-af16-3c67f29be582][Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares]]
+* Bibliography
+#+print_bibliography:

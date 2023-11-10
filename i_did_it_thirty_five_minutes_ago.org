@@ -14,3 +14,5 @@ Do it? Dan, I'm not a republic serial villain. Do you seriously think I'd explai
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

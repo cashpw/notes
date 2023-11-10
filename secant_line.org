@@ -66,3 +66,5 @@ A line which intersects a curve at a minimum of two distinct points.
 #+end_quote
 *** Source
 [cite:@SecantLine2022]
+* Bibliography
+#+print_bibliography:

@@ -94,3 +94,5 @@ A note which is
 
 *** Source
 [cite:@matuschakEvergreenNotes]
+* Bibliography
+#+print_bibliography:

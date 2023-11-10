@@ -58,3 +58,5 @@ $\sigma$
 The degree of variation in a trading price series over time.
 *** Source
 [cite:@VolatilityFinance2022]
+* Bibliography
+#+print_bibliography:

@@ -70,3 +70,5 @@ The highest degree of the polynomial's monomials.
 
 *** Source
 [cite:@DegreePolynomial2022]
+* Bibliography
+#+print_bibliography:

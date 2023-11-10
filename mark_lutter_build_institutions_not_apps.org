@@ -57,3 +57,5 @@ Getting there, however, requires politics. It is not enough to build apps. We mu
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

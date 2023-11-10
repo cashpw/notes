@@ -56,3 +56,5 @@ Interoperability between the base product, A, and an interoperable product, B, w
 *** Back
 - A car's cigarette lighter when they were first introduced
 *** Source
+* Bibliography
+#+print_bibliography:

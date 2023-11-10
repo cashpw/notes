@@ -51,3 +51,5 @@ Tsuyoko naritai
 
 *** Back
 I want to become stronger.
+* Bibliography
+#+print_bibliography:

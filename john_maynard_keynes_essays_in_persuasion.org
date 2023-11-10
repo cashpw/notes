@@ -39,3 +39,5 @@ Let me remind you of the Professor in Sylvie and Bruno:
 "Never, my child!" the Professor replied emphatically. "He'll go on doubling it till he dies. You see, it's always worth while waiting another year to get twice as much money!"
 #+end_quote
 * TODO [#4] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -28,3 +28,5 @@ Related: [[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][Valar morghulis]]
 |        0 | 2.65 |   8 |   527.83 | 2025-01-07T10:53:53Z |
 |        1 | 2.50 |   7 |   248.81 | 2023-11-17T10:26:41Z |
 :END:
+* Bibliography
+#+print_bibliography:

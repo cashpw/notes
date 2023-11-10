@@ -32,3 +32,5 @@ The current price of an asset.
 The current price of an asset.
 *** Source
 [cite:@SpotContract2021]
+* Bibliography
+#+print_bibliography:

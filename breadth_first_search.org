@@ -180,3 +180,5 @@ Computer science
 | front    | 2.35 |   3 |     6.00 | 2023-08-14T14:58:37Z |
 :END:
 [[id:50d70056-c314-40bd-b9d2-64e254fe3f50][Breadth-first search in python]]
+* Bibliography
+#+print_bibliography:

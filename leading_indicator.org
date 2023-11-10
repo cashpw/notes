@@ -44,3 +44,5 @@ Leading indicators are indicators that usually, but not always, change before th
 A measure of change which predicts change.
 *** Source
 [cite:@EconomicIndicator2021]
+* Bibliography
+#+print_bibliography:

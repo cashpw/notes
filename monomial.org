@@ -63,3 +63,5 @@ eg: $x$, $2y^2$, $\frac{1}{2}x^2{y}$
 
 *** Source
 [cite:@DegreePolynomial2022]
+* Bibliography
+#+print_bibliography:

@@ -61,3 +61,5 @@ A situation in which all individuals would be better off cooperating but fail to
 
 *** Source
 Me
+* Bibliography
+#+print_bibliography:

@@ -47,3 +47,5 @@ Also see [[id:f1e1fb6c-5dbd-45fa-85cb-6d7fc7551486][Split "Lessons learned" into
 :CREATED: [2023-07-29 17:50]
 :END:
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

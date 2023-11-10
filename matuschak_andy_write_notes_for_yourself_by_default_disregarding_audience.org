@@ -26,3 +26,5 @@ C. Why do I often find myself stuck when I try to write evergreen notes as publi
 D. When a topic is hard enough to distill on its own, the extra cognitive load of considering a reader overwhelms me.
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

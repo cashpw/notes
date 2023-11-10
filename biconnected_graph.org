@@ -39,3 +39,5 @@ The property of being 2-connected [[[id:78c49f16-1956-4ffb-9207-f72f79025d5b][k-
 - A graph with a [[id:12de8109-6022-476c-ac21-9381115a0bc4][Vertex-connectivity]] of 2
 *** Source
 [cite:@BiconnectedGraph2022]
+* Bibliography
+#+print_bibliography:

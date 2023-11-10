@@ -37,3 +37,5 @@ The term is often used in contrast to declarative programming [[[id:f234a51d-23e
 A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] in which the author writes statements which change a program's state; describes how the program operates step by step.
 *** Source
 [cite:@ImperativeProgramming2023]
+* Bibliography
+#+print_bibliography:

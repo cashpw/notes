@@ -10,3 +10,5 @@
 * TODO [#0]
 See [cite:@kleinSeeingWhatOthersDonRemarkableWaysWeGainInsights2015] and [cite:@streetGaryKleinTriplePathModelInsight2013]
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

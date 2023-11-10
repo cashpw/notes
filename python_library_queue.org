@@ -260,3 +260,5 @@ Flip the sign of the =priority= either (1) manually or (2) by subclassing =Prior
 A [[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap property]] =PriorityQueue= implementation via subclassing required overriding the following methods of =PriorityQueue=: {{=put= and =get=}@0}.
 
 *** Source
+* Bibliography
+#+print_bibliography:

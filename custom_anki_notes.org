@@ -114,3 +114,5 @@ The =Equivalence= note includes six pairs of fields for an expression and label:
 
 
 
+* Bibliography
+#+print_bibliography:

@@ -48,3 +48,5 @@ Algorithms designed to process data that can fit into a single computer's main m
 - [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]], with respect to memory
 *** Source
 [cite:@ExternalMemoryAlgorithm2021]
+* Bibliography
+#+print_bibliography:

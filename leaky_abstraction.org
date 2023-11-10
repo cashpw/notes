@@ -24,3 +24,5 @@ One real-world example is a printed bus schedule. Usually this is a fine abstrac
 
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

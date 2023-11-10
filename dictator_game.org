@@ -75,3 +75,5 @@ A two-player game in which the first player decides how to split an amount of mo
 - The second player has *no* agency in the [[id:4c05e5da-c14c-45b8-9284-af1dda8dd3a6][Dictator game]].
 *** Source
 [cite:@DictatorGame2022]
+* Bibliography
+#+print_bibliography:

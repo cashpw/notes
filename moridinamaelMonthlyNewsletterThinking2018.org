@@ -35,3 +35,5 @@ And the final and most important distinction between a monthly newsletter and a 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

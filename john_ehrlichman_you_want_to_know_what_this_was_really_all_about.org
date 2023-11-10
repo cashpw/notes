@@ -46,3 +46,5 @@ We knew we couldn't make it illegal to be either against the war or black, but b
 #+end_quote
 *** Source
 [cite:@DrugWarConfessional]
+* Bibliography
+#+print_bibliography:

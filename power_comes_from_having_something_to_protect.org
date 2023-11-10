@@ -24,3 +24,5 @@ See [[id:ad3762f0-6d77-4289-baa7-4c3192b9c4b1][Eliezer Yudkowsky | Something to 
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   256.45 | 2024-03-01T01:04:50Z |
 :END:
+* Bibliography
+#+print_bibliography:

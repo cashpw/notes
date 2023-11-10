@@ -20,3 +20,5 @@ digraph {
 [[file:dot-example.png]]
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

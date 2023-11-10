@@ -31,3 +31,5 @@ Concurrent training is a combination of cardio and resistance training.
 
 A fitness program which combines cardio and resistance training to gain the benefits of both.
 *** Source
+* Bibliography
+#+print_bibliography:

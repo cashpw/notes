@@ -38,3 +38,5 @@ As a winner-take-all method, FPTP often produces disproportional results (when e
 Voting system in which voters cast a single vote for a single candidate. The winner is the candidate who receives a plurality of votes.
 *** Source
 [cite:@FirstpastthepostVoting2023]
+* Bibliography
+#+print_bibliography:

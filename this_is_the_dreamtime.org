@@ -36,3 +36,5 @@ The current era has a relative abundance of resources and exponential(-ish) tech
 *** Source
 [cite:@hansonThisDreamTime]
 
+* Bibliography
+#+print_bibliography:

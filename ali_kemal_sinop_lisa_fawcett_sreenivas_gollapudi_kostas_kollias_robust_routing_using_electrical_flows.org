@@ -39,3 +39,5 @@ Daniel A. Spielman and Shang-Hua Teng. 2004. Nearly-linear time algorithms for g
 ** TODO Read Alternative routes in road networks
 Ittai Abraham, Daniel Delling, Andrew V. Goldberg, and Renato F. Werneck. 2013. Alternative routes in road networks. ACM J. Exp. Algorithmics 18 (2013).
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

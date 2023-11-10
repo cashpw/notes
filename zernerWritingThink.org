@@ -25,3 +25,5 @@ Here's the problem though. The act of writing can help you to resolve the issues
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

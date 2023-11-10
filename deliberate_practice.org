@@ -97,3 +97,5 @@ Ericson
 *** Source
 [cite:@chinProblemsDeliberatePractice2019]
 
+* Bibliography
+#+print_bibliography:

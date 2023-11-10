@@ -142,3 +142,5 @@ print(h.peek())
 :END:
 *** Back
 [[id:8178ba27-6553-4e8e-b7d4-125e72278029][Binary heap implementation in python]]
+* Bibliography
+#+print_bibliography:

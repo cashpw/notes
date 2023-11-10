@@ -19,3 +19,5 @@
 
 * TODO [#2] Flashcards :noexport:
 ** TODO [#2] Describe authoritarians from Altemeyer's perspective
+* Bibliography
+#+print_bibliography:

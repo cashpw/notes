@@ -28,3 +28,5 @@ The old way is to maintain your "status" by hoarding information. You are the on
 :END:
 
 
+* Bibliography
+#+print_bibliography:

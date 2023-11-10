@@ -40,3 +40,5 @@ Example:
 - A cookie with ~Domain=example.com~ on =https://www.google.com=.
 *** Source
 [cite:@mdnUsingHTTPCookies]
+* Bibliography
+#+print_bibliography:

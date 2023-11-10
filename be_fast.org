@@ -36,3 +36,5 @@ As you scale that up even more you might now take significant resources for a no
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

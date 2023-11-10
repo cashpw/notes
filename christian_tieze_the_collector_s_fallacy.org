@@ -67,3 +67,5 @@ To form a habit, you have to set yourself actionable limits and keep score.
 Repeat the cycle and keep track of your perceived productivity until you establish a feedback-supported routine which suits your needs.
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

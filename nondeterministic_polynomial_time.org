@@ -57,3 +57,5 @@ In computational complexity theory [[[id:235c1171-e8bd-4b52-820c-109f34a0bc80][C
 A complexity class of problems which have solutions that are verifiable in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]].
 *** Source
 [cite:@NPComplexity2022]
+* Bibliography
+#+print_bibliography:

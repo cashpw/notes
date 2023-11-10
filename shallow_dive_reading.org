@@ -11,3 +11,5 @@
 Shallow-dive reading is my term for reading a single source on a particular topic. This is in contrast to [[id:165037bc-129d-4cab-97ab-c257733539af][Deep-dive reading]].
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

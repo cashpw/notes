@@ -15,3 +15,5 @@ Related:
 
 - [[id:8590b3b6-678c-460e-be3d-eb1856d1df43][Feedback]]
 * TODO [#3] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

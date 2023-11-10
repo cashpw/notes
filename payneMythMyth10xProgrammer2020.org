@@ -38,3 +38,5 @@ I think 10x developers, like world-class athletes, musicians, and authors, absol
 :END:
 
 
+* Bibliography
+#+print_bibliography:

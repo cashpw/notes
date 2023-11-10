@@ -59,3 +59,5 @@ Note that I'm counting working-days rather; so the first 100 days amounts to 20 
 
 
 * TODO [#3] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

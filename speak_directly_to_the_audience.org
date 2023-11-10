@@ -68,3 +68,5 @@ Nick Naylor: It's that… I'm not after you. I'm after them (all people around)
 [[id:246566c2-5b4b-479a-9e1d-522fd85903d9][Speak directly to the audience]]
 *** Back
 A technique which re-frames a discussion between yourself and another group to a discussion between yourself and the audience watching the first discussion. Implicitly redefines the goal of the original discussion from "Convince the /person I'm arguing with/ of something" to "Convince the /audience watching us/ of something", which is often a more correct goal than the former.
+* Bibliography
+#+print_bibliography:

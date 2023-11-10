@@ -36,3 +36,5 @@ In graph theory, a planar graph is a graph that can be embedded in the plane, i.
 A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] that one can draw such that no edges cross.
 *** Source
 [cite:@PlanarGraph2023]
+* Bibliography
+#+print_bibliography:

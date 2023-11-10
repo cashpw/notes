@@ -63,3 +63,5 @@ The important thing is that we play dumb. You have to be pretty smart to do that
 ** [[id:162ff5b9-ad28-45b4-9ffb-4dd5f00e2c09][Ask the right questions]]
 
 ** [[id:3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9][Give the right answers]]
+* Bibliography
+#+print_bibliography:

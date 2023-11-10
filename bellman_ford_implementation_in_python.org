@@ -85,3 +85,5 @@ Implement [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] in
 [[id:1e2daf6b-a3b6-471c-b273-b91f3e1f745d][Bellman-Ford implementation in Python]]
 *** Source
 [cite:@BellmanFordAlgorithm2022]
+* Bibliography
+#+print_bibliography:

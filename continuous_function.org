@@ -56,3 +56,5 @@ Differentiable functions {{$\implies}@0} [[id:753a3fe1-3576-4549-8a5d-a8c901f6a7
 
 *** Source
 [cite:@ContinuousFunction2023]
+* Bibliography
+#+print_bibliography:

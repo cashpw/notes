@@ -58,3 +58,5 @@ A way of thinking which builds higher-order assertions from fundamental proven a
 - Reviewing the financial fundamentals of a company rather than listening to pundits
 ** Compare and contrast
 See [[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][Reasoning from analogies]]
+* Bibliography
+#+print_bibliography:

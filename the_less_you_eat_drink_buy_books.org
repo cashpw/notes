@@ -15,3 +15,5 @@ The less you eat, drink, buy books, go to the theatre or to balls, or to the pub
 #+end_quote
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

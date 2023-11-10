@@ -42,3 +42,5 @@ This is all coupled with [[id:be380da4-4720-4978-a3f8-c99a9470f509][Embrace disc
 Also coupled with [[id:6a2ada0e-607b-419c-8137-cfd7fa113bfe][Seek out feedback and accept with gratitude]].
 
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

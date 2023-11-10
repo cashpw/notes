@@ -17,3 +17,5 @@ Yoda: The right path? No. The only path? Yes. Designed by the dark lord of the s
 #+end_quote
 
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

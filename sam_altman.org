@@ -15,3 +15,5 @@ Among other things:
 :END:
 
 
+* Bibliography
+#+print_bibliography:

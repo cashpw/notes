@@ -59,3 +59,5 @@ Discards the least recently used items first. This algorithm requires keeping tr
 A [[id:f1a77c99-0bb1-4972-a462-7ac47735faa8][Cache replacement policy]] which discards the items in the [[id:0bd96e38-6a09-4053-b5e8-cf707b03a3e5][Cache]] which haven't been accessed in the longest time.
 *** Source
 [cite:@CacheReplacementPolicies2023]
+* Bibliography
+#+print_bibliography:

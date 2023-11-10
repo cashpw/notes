@@ -90,3 +90,5 @@ Problems with [[id:2c7820cc-7523-447e-924b-3f9340c3c29b][Least frequently used]]
 - New items entering the cache, even though they may be accessed frequently, are subject to removal as they initially have a low access count
 *** Source
 [cite:@LeastFrequentlyUsed2022]
+* Bibliography
+#+print_bibliography:

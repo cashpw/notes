@@ -67,3 +67,5 @@ Term referring to geologic scales of time.
 
 *** Source
 [cite:@DeepTime2021]
+* Bibliography
+#+print_bibliography:

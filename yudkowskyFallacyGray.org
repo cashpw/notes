@@ -37,3 +37,5 @@ That which I cannot eliminate may be well worth reducing [].
 :END:
 
 
+* Bibliography
+#+print_bibliography:

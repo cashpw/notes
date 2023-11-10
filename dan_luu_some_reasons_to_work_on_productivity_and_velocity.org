@@ -90,3 +90,5 @@ The last major argument I see against working on velocity assigns negative moral
 A related idea, one that Holden Karnofsky has been talking about for a while, is that if you ever want to make a difference in the world in some way, it's useful to work on your skills even in jobs where it's not obvious that being better at the job is useful, because the developed skills will give you more leverage on the world when you switch to something that's more aligned with you want to achieve.
 #+end_quote
 * Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

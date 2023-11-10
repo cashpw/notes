@@ -116,3 +116,5 @@ Backlinks are the backbone of a powerful [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a697
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* Bibliography
+#+print_bibliography:

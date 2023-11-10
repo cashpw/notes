@@ -85,3 +85,5 @@ A collection of elements, maintained in [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f
 2. Pop: Removes the most recently added element
 *** Source
 [cite:@StackAbstractDataType2022]
+* Bibliography
+#+print_bibliography:
