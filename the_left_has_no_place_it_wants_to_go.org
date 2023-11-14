@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       89f17c46-04dc-42ba-bda2-7ac14c5cbae0
-:LAST_MODIFIED: [2023-09-18 Mon 08:53]
+:LAST_MODIFIED: [2023-11-13 Mon 08:40]
 :END:
 #+title: The left has no place it wants to go
 #+hugo_custom_front_matter: :slug "89f17c46-04dc-42ba-bda2-7ac14c5cbae0"
@@ -15,6 +15,8 @@ The left has no particular place it wants to go. And, to rehash an old quip, if 
 #+end_quote
 
 This is in part (in the context of politics in the US) because those on the left want what the rich/powerful don't want and yet the left must at some level appeal to the rich/powerful in order to maintain their own power.
+
+See also [[id:1165158c-add0-4564-a962-7a30c223f477][Murc's law]] and [[id:78f46d61-571d-4e3f-912b-177c3fc9b205][The purpose of a system is what it does]].
 
 * Flashcards :noexport:
 :PROPERTIES:
@@ -70,7 +72,7 @@ The left has no clear direction -- they careen from this oppressed group or cris
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |  11 |    55.31 | 2023-11-12T23:12:46Z |
+|        0 | 1.30 |  12 |    64.88 | 2024-01-17T13:45:44Z |
 :END:
 
 *** Source

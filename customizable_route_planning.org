@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-11-09 Thu 08:30]
+:LAST_MODIFIED: [2023-11-13 Mon 08:32]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -380,7 +380,7 @@ Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    80.97 | 2023-12-16T14:38:08Z |
-| back     | 2.50 |   2 |     2.00 | 2023-09-20T15:48:15Z |
+| back     | 2.35 |   3 |     6.00 | 2023-11-19T16:32:54Z |
 :END:
 
 Nested partitions

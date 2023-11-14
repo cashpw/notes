@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-11-09 Thu 08:33]
+:LAST_MODIFIED: [2023-11-13 Mon 08:29]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -629,7 +629,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   1 |     1.00 | 2023-11-09T16:27:22Z |
+| front    | 1.45 |   2 |     2.00 | 2023-11-15T16:29:16Z |
 | back     | 1.75 |   5 |    19.05 | 2023-03-29T04:07:28Z |
 :END:
 - unwilling to spend money or use resources; stingy or frugal

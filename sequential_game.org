@@ -2,7 +2,7 @@
 :ID:       bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b
 :ROAM_REFS: [cite:@SequentialGame2021]
 :ROAM_ALIASES: "Dynamic game"
-:LAST_MODIFIED: [2023-11-02 Thu 08:35]
+:LAST_MODIFIED: [2023-11-13 Mon 08:27]
 :END:
 #+title: Sequential game
 #+hugo_custom_front_matter: :slug "bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b"
@@ -27,7 +27,7 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 :PROPERTIES:
 :CREATED: [2022-09-30 Fri 15:35]
 :FC_CREATED: 2022-09-30T22:35:44Z
-:FC_TYPE:  cloze
+:FC_TYPE:  double
 :ID:       aab21c17-622e-42e1-a82a-4d888a4924dc
 :FC_CLOZE_MAX: 1
 :FC_CLOZE_TYPE: deletion
@@ -39,9 +39,10 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 |        1 | 2.95 |   7 |   518.93 | 2025-01-25T13:24:27Z |
 :END:
 
-{{[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]}@0}
+[[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]]
 
-- {{Chess}@1}
+*** Back
+- Chess
 
 *** Source
 [cite:@SequentialGame2021]

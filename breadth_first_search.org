@@ -2,7 +2,7 @@
 :ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
 :ROAM_REFS: [cite:@BreadthfirstSearch2022]
 :ROAM_ALIASES: BFS
-:LAST_MODIFIED: [2023-09-30 Sat 00:58]
+:LAST_MODIFIED: [2023-11-13 Mon 08:34]
 :END:
 #+title: Breadth-first search
 #+hugo_custom_front_matter: :slug "cff4f06c-6179-423d-aa1d-ba54d85615e2"
@@ -45,9 +45,6 @@ Based on the algorithm in [cite:@BreadthfirstSearch2022].
 | Space | \(O(\vert V \vert)\)                 |
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 
 ** Describe :fc:
 
@@ -104,10 +101,8 @@ Computer science
 |        0 | 2.65 |   7 |   242.45 | 2023-11-12T02:03:55Z |
 :END:
 
-*** Extra
-
 *** Source
-
+[cite:@BreadthfirstSearch2022]
 
 ** {{[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}@0} follows {{[[id:fe9b846a-00fb-4311-8103-0ab31dd65275][Level-order]]}{traversal order}@1} :fc:
 :PROPERTIES:

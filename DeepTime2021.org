@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@DeepTime2021]
 :ID:       607e152b-fce5-4e83-a88e-58c0f1f5571d
 :ROAM_ALIASES: "Geologic time"
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-11-13 Mon 08:32]
 :END:
 #+title: Deep time
 #+hugo_custom_front_matter: :slug "607e152b-fce5-4e83-a88e-58c0f1f5571d"
@@ -36,7 +36,7 @@ Consider the Earth's history as the old measure of the English yard, the distanc
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   195.62 | 2023-11-11T05:27:00Z |
+| front    | 2.35 |   8 |   464.23 | 2025-02-19T22:03:06Z |
 | back     | 2.50 |   7 |   199.42 | 2023-11-17T09:34:06Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-11-10 Fri 10:05]
+:LAST_MODIFIED: [2023-11-13 Mon 08:26]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -652,7 +652,7 @@ A vector/matrix in which most of the values are non-zero.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |   7 |    38.68 | 2023-10-17T08:34:22Z |
+| back     | 1.45 |   8 |    51.22 | 2024-01-03T21:49:14Z |
 | front    | 2.65 |   8 |   287.85 | 2023-12-27T11:30:22Z |
 :END:
 

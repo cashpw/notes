@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d0a89ea1-4add-495b-8df4-1f27e9de71c6
-:LAST_MODIFIED: [2023-10-12 Thu 23:56]
+:LAST_MODIFIED: [2023-11-13 Mon 08:30]
 :END:
 #+title: Floyd-Warshall algorithm
 #+hugo_custom_front_matter: :slug "d0a89ea1-4add-495b-8df4-1f27e9de71c6"
@@ -152,7 +152,7 @@ Nested iteration in [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall al
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   7 |    24.80 | 2023-11-07T02:02:40Z |
+| front    | 1.45 |   8 |    39.49 | 2023-12-23T04:12:01Z |
 :END:
 
 [[id:d0a89ea1-4add-495b-8df4-1f27e9de71c6][Floyd-Warshall algorithm]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8163639a-02be-4d0e-9aad-b2f4c676f125
-:LAST_MODIFIED: [2023-11-09 Thu 08:26]
+:LAST_MODIFIED: [2023-11-13 Mon 08:38]
 :ROAM_REFS: [cite:@Coefficient2022]
 :END:
 #+title: Coefficient
@@ -28,11 +28,11 @@ For example, the polynomial $2x^{2}-x+3$ has coefficients 2, −1, and 3, and th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   2 |     2.00 | 2023-11-11T16:26:26Z |
+| back     | 2.20 |   3 |     6.00 | 2023-11-19T16:38:20Z |
 | front    | 2.05 |   8 |   289.81 | 2024-06-20T08:59:45Z |
 :END:
 
-Coefficient
+[[id:8163639a-02be-4d0e-9aad-b2f4c676f125][Coefficient]]
 
 *** Back
 A multiplicative factor in some term of an expression; usually a number though it can also be another expression.

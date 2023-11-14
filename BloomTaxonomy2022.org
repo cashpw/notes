@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-11-09 Thu 08:36]
+:LAST_MODIFIED: [2023-11-13 Mon 08:33]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -254,7 +254,7 @@ Learning objective concerned with retaining facts, terms, and basic concepts
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   132.05 | 2023-11-10T02:50:00Z |
+| front    | 2.05 |   8 |   264.15 | 2024-08-03T20:06:51Z |
 | back     | 2.05 |   8 |   234.82 | 2024-05-01T18:52:30Z |
 :END:
 
