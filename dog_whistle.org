@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-11-14 Tue 07:30]
 :END:
 #+title: Dog whistle
 #+hugo_custom_front_matter: :slug "fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
@@ -44,9 +44,11 @@ The use of coded or suggestive language to garner support from a particular grou
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   334.61 | 2024-04-05T08:10:43Z |
-| back     | 2.35 |   7 |   187.84 | 2023-11-13T12:59:43Z |
+| back     | 2.35 |   8 |   431.14 | 2025-01-18T18:58:31Z |
 :END:
+
 [[id:fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff][Dog whistle]]
+
 *** Back
 - States rights: Racism and/or racist policies
 - Family values: Christian, often a specific set of white-Christian, values

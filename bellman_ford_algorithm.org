@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2fe284fb-7fbc-4956-9857-db90b66e504e
 :ROAM_REFS: [cite:@BellmanFordAlgorithm2022]
-:LAST_MODIFIED: [2023-11-13 Mon 08:29]
+:LAST_MODIFIED: [2023-11-14 Tue 07:14]
 :END:
 #+title: Bellman-Ford algorithm
 #+hugo_custom_front_matter: :slug "2fe284fb-7fbc-4956-9857-db90b66e504e"
@@ -147,7 +147,7 @@ Failure cases for {{[[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   8 |    59.96 | 2023-11-03T12:23:41Z |
+|        0 | 1.60 |   9 |    90.31 | 2024-02-12T22:41:49Z |
 :END:
 
 Time complexity of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algorithm]] is {{$\bigtheta{|V||E|}$}@0}.

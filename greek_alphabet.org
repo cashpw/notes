@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-11-09 Thu 08:39]
+:LAST_MODIFIED: [2023-11-14 Tue 07:17]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -667,7 +667,7 @@ Pronounced: /psy/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   8 |   301.64 | 2023-11-06T06:13:42Z |
+|        0 | 2.80 |   9 |   873.00 | 2026-04-05T15:21:53Z |
 |        1 | 2.50 |   8 |   366.04 | 2024-03-27T17:09:17Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dc929031-e15a-4566-a7bd-7331768ee02f
 :ROAM_ALIASES: "Sorted binary tree" "Ordered search tree"
-:LAST_MODIFIED: [2023-11-13 Mon 08:30]
+:LAST_MODIFIED: [2023-11-14 Tue 07:20]
 :END:
 #+title: Binary search tree
 #+hugo_custom_front_matter: :slug "dc929031-e15a-4566-a7bd-7331768ee02f"
@@ -145,7 +145,7 @@ A binary tree in which satisfies the binary search property. That is, the nodes 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   1 |     1.00 | 2023-11-14T16:30:22Z |
-|        1 | 1.90 |   6 |    38.83 | 2023-11-05T11:54:56Z |
+|        1 | 1.90 |   7 |    76.40 | 2024-01-30T00:55:35Z |
 |        2 | 2.50 |   8 |   356.19 | 2024-06-13T06:21:45Z |
 :END:
 

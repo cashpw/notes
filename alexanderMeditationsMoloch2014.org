@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderMeditationsMoloch2014]
 :ID:       1bba449a-48eb-479a-be4d-a4d7f8095b6a
-:LAST_MODIFIED: [2023-11-03 Fri 08:31]
+:LAST_MODIFIED: [2023-11-14 Tue 07:22]
 :END:
 #+title: Scott Alexander | Meditations On Moloch
 #+hugo_custom_front_matter: :slug "1bba449a-48eb-479a-be4d-a4d7f8095b6a"
@@ -330,11 +330,15 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   303.27 | 2024-03-31T07:30:08Z |
-| back     | 1.30 |   0 |     0.00 | 2023-10-30T15:16:16Z |
+| back     | 1.30 |   0 |     0.00 | 2023-11-14T15:22:36Z |
 :END:
+
 [[id:ee4dffcd-da64-4404-b765-4f6cb30e918b][Utility maximization (Moloch)]]
+
 *** Back
+
 [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] can lead to a garden so long as the optimal strategy produces a garden.
+
 *** Source
 [cite:@alexanderMeditationsMoloch2014]
 ** Describe :fc:

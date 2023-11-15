@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f690a8ad-4069-4e96-a707-2a57f638c493
-:LAST_MODIFIED: [2023-10-16 Mon 00:28]
+:LAST_MODIFIED: [2023-11-14 Tue 07:19]
 :ROAM_REFS: [cite:@FunctionalProgramming2023]
 :END:
 #+title: Functional programming
@@ -34,7 +34,7 @@ Functional programming has its roots in academia, evolving from the lambda calcu
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   107.25 | 2023-11-07T09:45:32Z |
+|        0 | 2.65 |   7 |   267.92 | 2024-08-08T13:28:43Z |
 :END:
 
 [[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]] has a {{[[id:f234a51d-23e4-4050-bf2c-60895a99ee12][Declarative programming]]}@0} style.

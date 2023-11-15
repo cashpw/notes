@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2023-11-06 Mon 06:51]
+:LAST_MODIFIED: [2023-11-14 Tue 07:32]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -195,7 +195,7 @@ A divide-and-conquer sorting algorithm which recursively sorts a list by selecti
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   6 |    27.51 | 2023-11-12T19:41:22Z |
+| front    | 1.60 |   7 |    44.16 | 2023-12-28T19:25:58Z |
 :END:
 
 Implementation of [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]

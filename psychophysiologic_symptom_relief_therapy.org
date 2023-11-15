@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e0a2cbe3-df33-431b-8740-c6455681414c
 :ROAM_ALIASES: PSRT
-:LAST_MODIFIED: [2023-10-30 Mon 08:10]
+:LAST_MODIFIED: [2023-11-14 Tue 07:12]
 :END:
 #+title: Psychophysiologic symptom relief therapy
 #+hugo_custom_front_matter: :slug "e0a2cbe3-df33-431b-8740-c6455681414c"
@@ -24,7 +24,7 @@ Psychophysiologic Symptom Relief Therapy (PSRT) is a program for pain relief fir
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   4 |    10.76 | 2023-11-10T09:25:09Z |
+|        0 | 1.60 |   5 |    15.63 | 2023-11-30T06:17:32Z |
 :END:
 
 *** Source

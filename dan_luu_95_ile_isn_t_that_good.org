@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@luu95IleIsnThatGood]
 :ID:       d5f8a83b-1516-4f74-97f4-996a2b1bc8f4
-:LAST_MODIFIED: [2023-11-02 Thu 08:25]
+:LAST_MODIFIED: [2023-11-14 Tue 07:19]
 :END:
 #+title: Dan Luu | 95%-Ile Isn't That Good
 #+hugo_custom_front_matter: :slug "d5f8a83b-1516-4f74-97f4-996a2b1bc8f4"
@@ -62,13 +62,14 @@ Kevin Burke has noted that when he coaches youth basketball, some children don't
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-11-03T15:25:42Z |
+| front    | 2.50 |   2 |     2.00 | 2023-11-16T15:19:00Z |
 | back     |  2.5 |  -1 |        0 | 2023-11-08T15:07:14Z |
 :END:
 
 [[id:d5f8a83b-1516-4f74-97f4-996a2b1bc8f4][Dan Luu | 95%-Ile Isn't That Good]]
 
 *** Back
+
 Achieving a high degree of skill, among those who participate in some activity, isn't as hard as it seems because most people don't practice or try to improve in a way that's both purposeful and effective.
 * Bibliography
 #+print_bibliography:

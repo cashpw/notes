@@ -2,7 +2,7 @@
 :ID:       bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b
 :ROAM_REFS: [cite:@SequentialGame2021]
 :ROAM_ALIASES: "Dynamic game"
-:LAST_MODIFIED: [2023-11-13 Mon 08:27]
+:LAST_MODIFIED: [2023-11-14 Tue 07:23]
 :END:
 #+title: Sequential game
 #+hugo_custom_front_matter: :slug "bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b"
@@ -79,7 +79,7 @@ A game in which one player chooses their action before the others choose theirs.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   8 |   163.10 | 2023-11-09T18:30:05Z |
+|        0 | 1.90 |   9 |   283.22 | 2024-08-23T20:34:15Z |
 |        1 | 2.80 |   7 |   331.53 | 2024-05-21T02:03:51Z |
 :END:
 

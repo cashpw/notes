@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1fcb7aa-11d1-4a2c-ae57-ac2d4f33868a
-:LAST_MODIFIED: [2023-10-30 Mon 08:14]
+:LAST_MODIFIED: [2023-11-14 Tue 07:22]
 :ROAM_REFS: [cite:@MatrixMultiplication2023]
 :END:
 #+title: Matrix multiplication
@@ -192,7 +192,7 @@ $c_{i,j}=$ {{$\sum\limits_{k = 1}^{n}a_{i,k}b_{k,j}$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    29.22 | 2023-11-10T02:30:03Z |
+| front    | 2.20 |   6 |    63.29 | 2024-01-16T22:14:27Z |
 | back     | 2.35 |   7 |   207.89 | 2024-03-01T12:04:44Z |
 :END:
 

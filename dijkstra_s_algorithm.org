@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       668cbbcc-170b-42c8-b92b-75f6868a0138
-:LAST_MODIFIED: [2023-10-16 Mon 00:28]
+:LAST_MODIFIED: [2023-11-14 Tue 07:18]
 :ROAM_REFS: [cite:@DijkstraAlgorithm2022]
 :END:
 #+title: Dijkstra's algorithm
@@ -160,7 +160,7 @@ Time complexity of [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorit
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   8 |    22.30 | 2023-11-07T14:34:29Z |
+|        0 | 1.30 |   9 |    27.15 | 2023-12-11T18:56:46Z |
 |        1 | 2.50 |   7 |   179.35 | 2024-01-19T12:22:11Z |
 :END:
 

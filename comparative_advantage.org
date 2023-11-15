@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-14 Tue 07:31]
 :END:
 #+title: Comparative advantage
 #+hugo_custom_front_matter: :slug "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
@@ -52,7 +52,7 @@ One's ability to produce a given good or service in a more efficient and economi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   421.12 | 2024-09-12T16:25:41Z |
-| back     | 2.20 |   7 |   171.71 | 2023-10-20T16:25:33Z |
+| back     | 2.20 |   8 |   406.37 | 2024-12-25T00:30:48Z |
 :END:
 
 [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]]

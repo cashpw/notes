@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       650f4577-c1ec-46c9-b7a6-af8d90756bcd
 :ROAM_ALIASES: "Space-efficient data structure"
-:LAST_MODIFIED: [2023-10-30 Mon 08:16]
+:LAST_MODIFIED: [2023-11-14 Tue 07:13]
 :END:
 #+title: Implicit data structure
 #+hugo_custom_front_matter: :slug "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
@@ -26,10 +26,12 @@ In computer science, an implicit data structure or space-efficient data structur
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   288.43 | 2023-11-14T13:01:50Z |
+| back     | 2.50 |   0 |     0.00 | 2023-11-14T15:13:15Z |
 | front    | 1.75 |   8 |   154.25 | 2024-01-27T20:49:55Z |
 :END:
+
 [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]
+
 *** Back
 A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z + O(1)\) space to store some data where \(Z\) is the information-theoretical optimal number of bits needed to store the data.
 *** Source

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-11-09 Thu 08:37]
+:LAST_MODIFIED: [2023-11-14 Tue 07:26]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -878,7 +878,7 @@ Don't put time into tasks which will make no difference to anyone or tasks which
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   189.78 | 2023-11-05T09:08:27Z |
+| front    | 2.50 |   8 |   495.17 | 2025-03-23T19:35:19Z |
 | back     | 2.50 |   7 |   218.08 | 2024-01-04T17:45:26Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       af1ca7da-bebf-4161-8162-057cae4a0951
 :ROAM_ALIASES: "Tell all the truth but tell it slant"
-:LAST_MODIFIED: [2023-11-10 Fri 10:12]
+:LAST_MODIFIED: [2023-11-14 Tue 07:29]
 :END:
 #+title: Emily Dickinson | Tell all the truth but tell it slant
 #+hugo_custom_front_matter: :slug "af1ca7da-bebf-4161-8162-057cae4a0951"
@@ -104,9 +104,11 @@ Or every man be blind —
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 3.10 |   7 |   264.71 | 2023-11-04T10:35:50Z |
+| front    | 3.10 |   8 |   814.17 | 2026-02-05T19:37:40Z |
 :END:
+
 [[id:af1ca7da-bebf-4161-8162-057cae4a0951][Tell all the truth but tell it slant]]
+
 *** Back
 [[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]]
 * Bibliography

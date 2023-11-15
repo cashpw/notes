@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dc62ed50-4dcc-4b1b-ba02-7e5870f0a76c
-:LAST_MODIFIED: [2023-11-02 Thu 08:18]
+:LAST_MODIFIED: [2023-11-14 Tue 07:25]
 :ROAM_REFS: [cite:@Earth2023]
 :END:
 #+title: Earth
@@ -60,7 +60,7 @@ Earth's surface is roughly {{70%}{percent}@0} water.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   6 |   146.82 | 2023-11-12T10:02:03Z |
+|        0 | 2.80 |   7 |   439.75 | 2025-01-27T09:23:55Z |
 :END:
 
 Earth's surface is roughly {{30%}{percent}@0} land.

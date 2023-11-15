@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-11-13 Mon 08:29]
+:LAST_MODIFIED: [2023-11-14 Tue 07:13]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1527,7 +1527,7 @@ The points on a curve where the curvature changes its sign; between concave and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.90 |   2 |     2.00 | 2023-10-04T06:53:32Z |
+| back     | 1.75 |   3 |     6.00 | 2023-11-20T15:13:32Z |
 | front    | 2.65 |   8 |   306.09 | 2024-01-08T20:37:10Z |
 :END:
 

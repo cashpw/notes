@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13
-:LAST_MODIFIED: [2023-11-03 Fri 07:40]
+:LAST_MODIFIED: [2023-11-14 Tue 07:25]
 :END:
 #+title: Lagrange's notation
 #+hugo_custom_front_matter: :slug "b92d8ad5-fe15-4a28-b9a7-0b8e9e1bcd13"
@@ -63,7 +63,7 @@ The first derivative of $f(x)$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   169.86 | 2023-11-04T11:58:06Z |
+|        0 | 2.35 |   8 |   421.67 | 2025-01-09T07:36:16Z |
 |        1 | 2.35 |   8 |   311.64 | 2024-09-10T06:05:08Z |
 :END:
 

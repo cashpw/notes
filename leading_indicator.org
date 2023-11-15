@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       31eaa796-a578-43ae-a119-a1d8505cbe72
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/31eaa796-a578-43ae-a119-a1d8505cbe72
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-11-14 Tue 07:25]
 :END:
 #+title: Leading indicator
 #+hugo_custom_front_matter: :slug "31eaa796-a578-43ae-a119-a1d8505cbe72"
@@ -35,7 +35,7 @@ Leading indicators are indicators that usually, but not always, change before th
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   335.79 | 2024-06-02T19:49:24Z |
-| back     | 2.35 |   7 |   175.17 | 2023-11-01T20:09:05Z |
+| back     | 2.35 |   8 |   439.75 | 2025-01-27T09:19:21Z |
 :END:
 
 [[id:31eaa796-a578-43ae-a119-a1d8505cbe72][Leading indicator]]

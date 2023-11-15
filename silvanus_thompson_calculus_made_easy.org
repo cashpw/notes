@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-10-30 Mon 08:14]
+:LAST_MODIFIED: [2023-11-14 Tue 07:19]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -491,7 +491,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    69.02 | 2023-11-12T13:52:18Z |
+| front    | 2.35 |   7 |   158.89 | 2024-04-21T12:47:59Z |
 | back     | 3.25 |   7 |   380.47 | 2024-08-24T11:55:55Z |
 :END:
 

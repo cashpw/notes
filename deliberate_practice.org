@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       a1d74568-61f0-4a01-8aab-184d1b7a9752
-:LAST_MODIFIED: [2023-10-19 Thu 17:31]
+:LAST_MODIFIED: [2023-11-14 Tue 07:21]
 :END:
 #+title: Deliberate practice
 #+hugo_custom_front_matter: :slug "a1d74568-61f0-4a01-8aab-184d1b7a9752"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-07 Wed 08:37]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
 "Deliberate practice is [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] that knows where it is going and how to get there".
 
@@ -65,7 +65,7 @@ One of Ericsson's core findings was that how expert one becomes at a skill has m
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 1.75 |   7 |    57.44 | 2023-11-21T23:47:22Z |
-|        1 | 2.05 |   6 |    67.73 | 2023-11-03T07:18:54Z |
+|        1 | 2.05 |   7 |   140.23 | 2024-04-02T20:47:35Z |
 :END:
 
 {{[[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]}@0} is {{[[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] that knows where its going}{coloquially}@1}.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b3c25e15-f426-41d3-ae97-925da325ed73
-:LAST_MODIFIED: [2023-11-03 Fri 07:47]
+:LAST_MODIFIED: [2023-11-14 Tue 07:18]
 :END:
 #+title: C++ class
 #+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
@@ -134,7 +134,7 @@ A class with at least one method which another class must implement.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    82.22 | 2023-11-13T22:00:57Z |
+|        0 | 1.90 |   0 |     0.00 | 2023-11-14T15:18:42Z |
 :END:
 
 =Foo= implements =Bar=
