@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d8ff4c8c-4032-473b-9060-8bd7903784c8
-:LAST_MODIFIED: [2023-11-14 Tue 07:19]
+:LAST_MODIFIED: [2023-11-15 Wed 07:24]
 :END:
 #+title: Why is it always the libs?
 #+hugo_custom_front_matter: :slug "d8ff4c8c-4032-473b-9060-8bd7903784c8"
@@ -38,7 +38,7 @@ People will tell you, "I don't care about anything, I just like triggering the l
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   271.76 | 2024-02-08T10:11:54Z |
-| back     | 2.20 |   7 |   186.94 | 2023-11-03T17:08:29Z |
+| back     | 2.20 |   8 |   380.01 | 2024-11-29T15:41:53Z |
 :END:
 
 [[id:d8ff4c8c-4032-473b-9060-8bd7903784c8][Why is it always the libs?]]

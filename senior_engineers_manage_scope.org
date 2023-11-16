@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ed7a098d-d242-4cce-bd09-d27874d9a002
+:LAST_MODIFIED: [2023-11-15 Wed 09:55]
+:END:
+#+title: Senior engineers manage scope
+#+hugo_custom_front_matter: :slug "ed7a098d-d242-4cce-bd09-d27874d9a002"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-15 Wed 09:49]
+#+filetags: :hastodo:concept:
+
+Senior software engineers manage the scope of their projects:
+
+- Avoid [[id:9a90c09a-ca87-49ec-8867-d56de23fd33f][Scope creep]] and [[id:15b20b89-9fde-416c-a7af-3d2cafae5ebb][Feature creep]]
+- Trim the scope down with an eye to the [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][Pareto principle]]
+
+* TODO Reference some blog post I remember which emphasized a senior engineer can identify the bits of a project that are going to take 80% effort to deliver 20% results and remove those bits :noexport:
+
+* Flashcards :noexport:

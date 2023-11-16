@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-11-14 Tue 07:17]
+:LAST_MODIFIED: [2023-11-15 Wed 07:16]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -931,7 +931,7 @@ Pronounced: /khee/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.50 |   8 |   299.49 | 2023-11-08T02:49:18Z |
+|        1 | 2.50 |   9 |   769.56 | 2025-12-24T04:43:36Z |
 |        0 | 2.80 |   8 |   384.22 | 2024-03-14T09:03:43Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c27e7511-da0f-4a63-91d5-902078d0add5
 :ROAM_REFS: [cite:@HigherorderFunction2022]
-:LAST_MODIFIED: [2023-09-28 Thu 21:18]
+:LAST_MODIFIED: [2023-11-15 Wed 07:18]
 :END:
 #+title: Higher-order function
 #+hugo_custom_front_matter: :slug "c27e7511-da0f-4a63-91d5-902078d0add5"
@@ -52,7 +52,7 @@ A function which takes function(s) as argument(s) and/or returns a function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |   7 |    44.55 | 2023-11-12T17:28:13Z |
+|        0 | 1.45 |   8 |    60.48 | 2024-01-15T02:54:12Z |
 :END:
 
 Functions which are not [[id:c27e7511-da0f-4a63-91d5-902078d0add5][Higher-order functions]] are {{first-order functions}@0}.

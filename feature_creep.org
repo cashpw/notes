@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15b20b89-9fde-416c-a7af-3d2cafae5ebb
+:ROAM_REFS: [cite:@FeatureCreep2023]
+:LAST_MODIFIED: [2023-11-15 Wed 09:52]
+:END:
+#+title: Feature creep
+#+hugo_custom_front_matter: :slug "15b20b89-9fde-416c-a7af-3d2cafae5ebb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-15 Wed 09:51]
+#+filetags: :concept:
+
+#+begin_quote
+Feature creep is the excessive ongoing expansion or addition of new features in a product,[1] especially in computer software, video games and consumer and business electronics. These extra features go beyond the basic function of the product and can result in software bloat and over-complication, rather than simple design.
+
+[cite:@FeatureCreep2023]
+#+end_quote
+
+See also [[id:9a90c09a-ca87-49ec-8867-d56de23fd33f][Scope creep]].
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:

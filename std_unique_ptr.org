@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       442a1e1b-97dd-4c64-b2ae-696c750ad288
 :ROAM_REFS: [cite:@StdUniquePtr]
-:LAST_MODIFIED: [2023-11-09 Thu 08:38]
+:LAST_MODIFIED: [2023-11-15 Wed 07:22]
 :END:
 #+title: std::unique_ptr
 #+hugo_custom_front_matter: :slug "442a1e1b-97dd-4c64-b2ae-696c750ad288"
@@ -18,7 +18,7 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 #+end_quote
 
 * Flashcards :noexport:
-** Definition :fc:
+** Definition (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 10:04]
 :FC_CREATED: 2023-05-18T17:05:34Z
@@ -29,7 +29,7 @@ A part of the [[id:768671c9-ba24-4e1b-bf17-2d1ecf773c3f][Standard Library (C++)]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   277.66 | 2024-08-13T08:29:20Z |
-| back     | 2.50 |   6 |    99.92 | 2023-11-12T13:26:23Z |
+| back     | 2.50 |   7 |   257.82 | 2024-07-30T11:07:05Z |
 :END:
 
 [[id:442a1e1b-97dd-4c64-b2ae-696c750ad288][std::unique_ptr]]

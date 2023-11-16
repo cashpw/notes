@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-11-14 Tue 07:15]
+:LAST_MODIFIED: [2023-11-15 Wed 07:15]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -813,7 +813,7 @@ The set of all possible outcomes.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.00 |   7 |    96.03 | 2023-11-29T15:37:13Z |
-| front    | 2.00 |   7 |   120.28 | 2023-09-14T19:10:16Z |
+| front    | 1.70 |   0 |     0.00 | 2023-11-15T15:15:42Z |
 :END:
 
 Sampling distribution

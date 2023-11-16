@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ThereWillComeSoftRains2022]
 :ID:       afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1
-:LAST_MODIFIED: [2023-11-14 Tue 07:27]
+:LAST_MODIFIED: [2023-11-15 Wed 07:15]
 :END:
 #+title: There will come soft rains
 #+hugo_custom_front_matter: :slug "afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1"
@@ -129,9 +129,11 @@ Would scarcely know that we were gone.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   5 |    23.04 | 2023-11-02T07:54:54Z |
+| front    | 1.90 |   6 |    45.95 | 2023-12-31T14:05:55Z |
 :END:
+
 [[id:afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1][There Will Come Soft Rains (poem)]]
+
 *** Back
 [[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]]
 * Bibliography

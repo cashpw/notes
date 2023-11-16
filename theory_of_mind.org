@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       10453cfb-8266-404d-93e6-768747d30b74
 :ROAM_REFS: [cite:@TheoryMind2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-11-15 Wed 07:22]
 :END:
 #+title: Theory of mind
 #+hugo_custom_front_matter: :slug "10453cfb-8266-404d-93e6-768747d30b74"
@@ -33,7 +33,7 @@ Maybe the most famous of these is "theory of mind", the ability to view things f
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   329.46 | 2024-06-29T02:10:47Z |
-| back     | 2.20 |   7 |   152.86 | 2023-10-23T16:58:35Z |
+| back     | 2.35 |   8 |   333.36 | 2024-10-13T23:55:05Z |
 :END:
 
 [[id:10453cfb-8266-404d-93e6-768747d30b74][Theory of mind]]

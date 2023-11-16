@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a707abfd-b17d-40d0-a1c2-1caa14e2de47
-:LAST_MODIFIED: [2023-10-11 Wed 14:15]
+:LAST_MODIFIED: [2023-11-15 Wed 07:26]
 :ROAM_REFS: [cite:@StdInitializerList]
 :END:
 #+title: std::initializer_list
@@ -63,7 +63,7 @@ std::vector v = {1, 2, 3};
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   6 |    50.94 | 2023-11-09T22:28:18Z |
+|        0 | 2.05 |   7 |   112.77 | 2024-03-07T09:54:35Z |
 :END:
 
 #+begin_src C++

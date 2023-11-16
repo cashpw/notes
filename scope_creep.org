@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9a90c09a-ca87-49ec-8867-d56de23fd33f
+:ROAM_REFS: [cite:@ScopeCreep2023]
+:LAST_MODIFIED: [2023-11-15 Wed 09:52]
+:END:
+#+title: Scope creep
+#+hugo_custom_front_matter: :slug "9a90c09a-ca87-49ec-8867-d56de23fd33f"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-15 Wed 09:51]
+#+filetags: :concept:
+
+#+begin_quote
+Scope creep (also called requirement creep, or kitchen sink syndrome) in project management is continuous or uncontrolled growth in a project's scope, at any point after the project begins. This can occur when the scope of a project is not properly defined, documented, or controlled. It is generally considered harmful. It is related to but distinct from feature creep, because feature creep refers to features, and scope creep refers to the whole project.
+
+[cite:@ScopeCreep2023]
+#+end_quote
+
+See also: [[id:15b20b89-9fde-416c-a7af-3d2cafae5ebb][Feature creep]].
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:

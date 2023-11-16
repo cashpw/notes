@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f690a8ad-4069-4e96-a707-2a57f638c493
-:LAST_MODIFIED: [2023-11-14 Tue 07:19]
+:LAST_MODIFIED: [2023-11-15 Wed 07:20]
 :ROAM_REFS: [cite:@FunctionalProgramming2023]
 :END:
 #+title: Functional programming
@@ -54,7 +54,7 @@ Functional programming has its roots in academia, evolving from the lambda calcu
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   189.79 | 2024-04-17T01:42:00Z |
-|        1 | 2.35 |   6 |    81.61 | 2023-10-25T05:55:12Z |
+|        1 | 2.35 |   7 |   181.03 | 2024-05-14T16:09:02Z |
 :END:
 
 {{[[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]}@0} evolved from {{[[id:a81fbc80-350e-4c7a-8332-09861e34b5bf][Lambda calculus]]}@1}.

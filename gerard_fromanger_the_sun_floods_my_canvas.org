@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@fromangerSunFloodsMyCanvas1966]
 :ID:       9c9d6fc6-3e75-416e-b5aa-ae6362c0ba9b
-:LAST_MODIFIED: [2023-11-03 Fri 07:27]
+:LAST_MODIFIED: [2023-11-15 Wed 07:20]
 :END:
 #+title: Gérard Fromanger | The Sun Floods My Canvas
 #+hugo_custom_front_matter: :slug "9c9d6fc6-3e75-416e-b5aa-ae6362c0ba9b"
@@ -26,7 +26,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |   107.60 | 2024-02-19T04:56:41Z |
-| back     | 2.35 |   5 |    37.24 | 2023-11-09T12:15:09Z |
+| back     | 2.20 |   6 |    83.33 | 2024-02-06T23:17:25Z |
 :END:
 
 [[id:9c9d6fc6-3e75-416e-b5aa-ae6362c0ba9b][Gérard Fromanger | The Sun Floods My Canvas]]

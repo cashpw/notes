@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
 :DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-15 Wed 09:53]
 :END:
 #+title: Skills of a senior software engineer
 #+hugo_custom_front_matter: :slug "973e037c-6ae7-4c6a-abf8-57339feb49f9"
@@ -15,6 +15,8 @@ I've sought out common traits of "senior" roles and collected them here to help 
 
 * TODO [#2] Incorporate Sources; expand
 
+- [cite:@allspawBeingSeniorEngineer]
+- [cite:@littleblahSeniorEngineerCheckList2019]
 - [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][Tanya Reilly | The Staff Engineer's Path]]
 - [[id:e7753777-506e-490e-b79e-59dede5dce2e][Zach Tellman | Senior Engineers Reduce Risk]]
 - [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][John Allspaw | On Being A Senior Engineer]]
@@ -47,6 +49,7 @@ I've sought out common traits of "senior" roles and collected them here to help 
   - [[id:b5246b0f-685b-4408-b79e-3b2b5e0eb601][Delegate]] whenever possible to ensure you're working on something that only you can do
 - Networking
   - Maintain mutually beneficial relationships with peers within your organization, company, and externally
+- [[id:ed7a098d-d242-4cce-bd09-d27874d9a002][Senior engineers manage scope]]
 
 * TODO [#2] Flashcards :noexport:
 :PROPERTIES:

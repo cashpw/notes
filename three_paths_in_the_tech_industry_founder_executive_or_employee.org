@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       548362c8-b5a6-4d50-b459-543d321e49b6
 :ROAM_REFS: [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-11-15 Wed 07:17]
 :END:
 #+title: Michael Seibel | Three Paths in the Tech Industry: Founder, Executive, or Employee
 #+hugo_custom_front_matter: :slug "548362c8-b5a6-4d50-b459-543d321e49b6"
@@ -188,13 +188,15 @@ The three career paths in the tech industry as defined by Michael Seibel
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   178.84 | 2023-10-27T19:42:55Z |
+| front    | 2.50 |   8 |   428.66 | 2025-01-17T07:09:51Z |
 :END:
 
 [[id:d9db2f68-9973-472e-800d-a995192a140d][Founder (Tech career pathway)]]
 
 *** Back
+
 Create a new product/business/etc
+
 *** Source
 [cite:@seibelThreePathsTechIndustryFounderExecutiveEmployee]
 ** Describe :fc:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bfc5100c-d70d-4829-9798-7a90b5edea9b
 :ROAM_REFS: [cite:@MapTerritoryRelation2022] [cite:@farnumstreetMapNotTerritory2015]
-:LAST_MODIFIED: [2023-10-30 Mon 08:07]
+:LAST_MODIFIED: [2023-11-15 Wed 07:21]
 :END:
 #+title: The map is not the territory
 #+hugo_custom_front_matter: :slug "bfc5100c-d70d-4829-9798-7a90b5edea9b"
@@ -31,7 +31,7 @@ Related: [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]],
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   360.30 | 2024-03-09T22:24:54Z |
-| back     | 1.90 |   3 |     6.00 | 2023-11-05T15:07:55Z |
+| back     | 1.90 |   4 |    11.86 | 2023-11-27T12:06:40Z |
 :END:
 [[id:bfc5100c-d70d-4829-9798-7a90b5edea9b][The map is not the territory]]
 *** Back

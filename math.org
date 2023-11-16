@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-11-14 Tue 07:13]
+:LAST_MODIFIED: [2023-11-15 Wed 07:12]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -518,7 +518,7 @@ eg: $(a + b) + c = a + (b + c)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   311.44 | 2023-11-14T01:11:12Z |
+| back     | 2.80 |   9 |   845.39 | 2026-03-10T00:40:02Z |
 | front    | 2.65 |   9 |   504.61 | 2024-10-26T06:13:41Z |
 :END:
 

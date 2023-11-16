@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-11-14 Tue 07:23]
+:LAST_MODIFIED: [2023-11-15 Wed 07:19]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -277,7 +277,7 @@ Steps involved in [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   5 |    42.33 | 2023-12-22T00:28:41Z |
-|        1 |  2.5 |  -1 |        0 | 2023-09-18T13:49:41Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-11-16T15:19:15Z |
 :END:
 
 {{[[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]}@0} is a simpler form of {{[[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]}@1}.

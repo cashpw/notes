@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0a8c2a35-590e-4f8b-9d98-40a44e15dfb7
-:LAST_MODIFIED: [2023-11-03 Fri 07:32]
+:LAST_MODIFIED: [2023-11-15 Wed 07:13]
 :END:
 #+title: Path (graph theory)
 #+hugo_custom_front_matter: :slug "0a8c2a35-590e-4f8b-9d98-40a44e15dfb7"
@@ -45,7 +45,7 @@ A [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which all
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   179.54 | 2023-11-14T04:10:41Z |
+| front    | 2.35 |   8 |   422.66 | 2025-01-11T07:03:55Z |
 :END:
 
 - [[id:91be2f5b-d873-4cd0-b7fb-d077329380ad][Walk (Graph theory)]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6db3dc17-f091-4c31-ab22-74d8ec0ebb5e
-:LAST_MODIFIED: [2023-10-31 Tue 09:17]
+:LAST_MODIFIED: [2023-11-15 Wed 07:18]
 :END:
 #+title: 1% rule
 #+hugo_custom_front_matter: :slug "6db3dc17-f091-4c31-ab22-74d8ec0ebb5e"
@@ -26,7 +26,7 @@ In Internet culture, the 1% rule is a rule of thumb pertaining to participation 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   326.95 | 2024-04-21T15:03:03Z |
-| back     | 2.50 |   7 |   188.53 | 2023-11-14T05:27:00Z |
+| back     | 2.50 |   8 |   440.67 | 2025-01-29T07:25:02Z |
 :END:
 
 [[id:6db3dc17-f091-4c31-ab22-74d8ec0ebb5e][1% rule]]

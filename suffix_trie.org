@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2a01a221-0aa9-493b-b690-c15c11f16831
-:LAST_MODIFIED: [2023-11-14 Tue 07:17]
+:LAST_MODIFIED: [2023-11-15 Wed 07:20]
 :ROAM_REFS: [cite:@SuffixTree2022]
 :END:
 #+title: Suffix tree
@@ -57,7 +57,7 @@ The construction of such a tree for the string $S$ takes time and space linear i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   0 |     0.00 | 2023-11-14T15:17:06Z |
+| front    | 1.30 |   1 |     1.00 | 2023-11-16T15:20:11Z |
 | back     | 2.50 |   7 |   216.29 | 2023-12-15T23:29:58Z |
 :END:
 

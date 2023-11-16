@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       abfd840c-6815-4565-91bd-4b58661b9b62
-:LAST_MODIFIED: [2023-10-02 Mon 23:16]
+:LAST_MODIFIED: [2023-11-15 Wed 07:27]
 :END:
 #+title: Respirators
 #+hugo_custom_front_matter: :slug "abfd840c-6815-4565-91bd-4b58661b9b62"
@@ -131,7 +131,7 @@ See [[id:7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f][Use the right respirator]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   435.77 | 2024-12-07T22:44:16Z |
-|        1 | 2.20 |   5 |    30.41 | 2023-11-02T16:13:51Z |
+|        1 | 2.20 |   6 |    60.85 | 2024-01-15T11:46:43Z |
 :END:
 
 ([[id:abfd840c-6815-4565-91bd-4b58661b9b62][Respirators]]) {{P}@0} stands for {{oil proof}@1}

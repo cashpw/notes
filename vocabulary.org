@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-11-14 Tue 07:13]
+:LAST_MODIFIED: [2023-11-15 Wed 07:15]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -725,7 +725,7 @@ Grimly mocking or cynical
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    59.39 | 2023-11-09T22:05:25Z |
+| front    | 2.20 |   7 |   138.57 | 2024-04-02T05:02:57Z |
 | back     | 2.80 |   6 |   150.87 | 2024-01-02T11:55:11Z |
 :END:
 #+begin_quote
