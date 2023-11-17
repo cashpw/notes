@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 :ID:       bc1937f1-31ce-41cc-ba0b-dedaac9334b5
-:LAST_MODIFIED: [2023-10-17 Tue 01:08]
+:LAST_MODIFIED: [2023-11-16 Thu 09:02]
 :END:
 #+title: Tanya Reilly | The Staff Engineer's Path
 #+hugo_custom_front_matter: :slug "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
@@ -22,7 +22,7 @@ Wait to do this for a month or two. I'm not at a senior/staff level yet and I ca
 - [[id:66f9b635-a07d-43c0-963b-46878ded5183][Execution (Staff Engineer's Path)]]
 - [[id:3910de4c-e0b0-4bad-93b9-334af4256906][Leveling up (Staff Engineer's Path)]]
 * TODO [#2] Thoughts
-* INPROGRESS [#2] Notes :ATTACH:
+* TODO [#2] Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/bc/1937f1-31ce-41cc-ba0b-dedaac9334b5/tanya-reilly-the-staff-engineers-path.pdf
 :NOTER_PAGE: 197
@@ -107,7 +107,6 @@ And a lot more. Check out Camille Fournier's article "An Incomplete List of Skil
 :PROPERTIES:
 :NOTER_PAGE: (24 . 0.711174)
 :END:
-
 
 ** I. The Big Picture
 :PROPERTIES:
@@ -423,7 +422,7 @@ Over time, you'll get used to how news travels in your org
 and what you should pay attention to. [...] Think of
 gathering context as a skill to build as part of your job.
 #+end_quote
-*** The Locator Map: Getting Perspective
+*** TODO [#1] The Locator Map: Getting Perspective
 :PROPERTIES:
 :NOTER_PAGE: (77 . 0.318182)
 :END:

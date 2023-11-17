@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2bb656cd-6834-4534-95e2-c77df28ffccb
-:LAST_MODIFIED: [2023-10-30 Mon 08:03]
+:LAST_MODIFIED: [2023-11-16 Thu 08:13]
 :END:
 #+title: Purposeful practice
 #+hugo_custom_front_matter: :slug "2bb656cd-6834-4534-95e2-c77df28ffccb"
@@ -30,7 +30,7 @@ Purposeful practice consists of the following principles:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   8 |    16.20 | 2023-11-15T19:58:49Z |
+| front    | 1.30 |   9 |    20.70 | 2023-12-07T08:56:05Z |
 | back     | 2.50 |   6 |    94.62 | 2023-12-09T06:27:57Z |
 :END:
 

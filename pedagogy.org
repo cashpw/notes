@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       85cfa8c4-9c7b-47d9-a593-8548385027f7
-:LAST_MODIFIED: [2023-11-03 Fri 07:34]
+:LAST_MODIFIED: [2023-11-16 Thu 08:14]
 :END:
 #+title: Pedagogy
 #+hugo_custom_front_matter: :slug "85cfa8c4-9c7b-47d9-a593-8548385027f7"
@@ -33,7 +33,7 @@ Pedagogy, most commonly understood as the approach to teaching, is the theory an
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |   7 |   240.50 | 2023-12-27T06:50:27Z |
-| front    | 1.75 |   4 |    11.35 | 2023-11-14T23:03:51Z |
+| front    | 1.75 |   5 |    20.92 | 2023-12-07T14:15:21Z |
 :END:
 The theory and practice of learning
 *** Extra

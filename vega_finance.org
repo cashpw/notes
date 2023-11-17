@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f54153f5-fc44-41ce-b4dd-4274c95fbcec
-:LAST_MODIFIED: [2023-11-14 Tue 07:28]
+:LAST_MODIFIED: [2023-11-16 Thu 08:12]
 :END:
 #+title: Vega (finance)
 #+hugo_custom_front_matter: :slug "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
@@ -56,7 +56,7 @@ Vega can be an important Greek to monitor for an option trader, especially in vo
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   195.69 | 2023-11-27T09:54:58Z |
-| back     | 2.20 |   7 |   175.97 | 2023-11-15T19:26:52Z |
+| back     | 2.20 |   8 |   377.20 | 2024-11-27T21:06:06Z |
 :END:
 
 [[id:f54153f5-fc44-41ce-b4dd-4274c95fbcec][Vega (finance)]]

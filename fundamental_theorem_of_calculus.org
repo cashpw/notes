@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       adda1031-550c-4f65-9384-1ee018532adc
 :ROAM_REFS: [cite:@FundamentalTheoremCalculus2022]
-:LAST_MODIFIED: [2023-11-15 Wed 07:18]
+:LAST_MODIFIED: [2023-11-16 Thu 08:07]
 :END:
 #+title: Fundamental theorem of calculus
 #+hugo_custom_front_matter: :slug "adda1031-550c-4f65-9384-1ee018532adc"
@@ -180,7 +180,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   0 |     0.00 | 2023-11-14T15:30:36Z |
+| front    | 1.60 |   1 |     1.00 | 2023-11-17T16:07:30Z |
 | back     | 2.35 |   5 |    34.55 | 2023-11-13T20:05:26Z |
 :END:
 

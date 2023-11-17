@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2fe284fb-7fbc-4956-9857-db90b66e504e
 :ROAM_REFS: [cite:@BellmanFordAlgorithm2022]
-:LAST_MODIFIED: [2023-11-15 Wed 07:23]
+:LAST_MODIFIED: [2023-11-16 Thu 08:13]
 :END:
 #+title: Bellman-Ford algorithm
 #+hugo_custom_front_matter: :slug "2fe284fb-7fbc-4956-9857-db90b66e504e"
@@ -183,7 +183,7 @@ Time complexity of [[id:2fe284fb-7fbc-4956-9857-db90b66e504e][Bellman-Ford algor
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   0 |     0.00 | 2023-11-15T15:23:09Z |
+| front    | 1.90 |   1 |     1.00 | 2023-11-17T16:13:29Z |
 | back     | 2.80 |   7 |   409.31 | 2024-10-20T22:23:57Z |
 :END:
 

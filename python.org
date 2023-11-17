@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-11-15 Wed 07:22]
+:LAST_MODIFIED: [2023-11-16 Thu 08:08]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -532,7 +532,7 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   451.53 | 2025-02-08T03:56:56Z |
-|        1 | 2.05 |   6 |    63.71 | 2023-10-24T06:25:52Z |
+|        1 | 2.05 |   7 |   127.36 | 2024-03-23T00:46:45Z |
 :END:
 
 {{=random.randint(a, b)=}@0} is an alias for {{=random.randrange(a, b+1)=}@1}.

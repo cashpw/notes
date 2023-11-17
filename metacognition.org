@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       efe31d96-34a6-439a-a34d-fdff9df0e51a
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-11-16 Thu 08:09]
 :END:
 #+title: Metacognition
 #+hugo_custom_front_matter: :slug "efe31d96-34a6-439a-a34d-fdff9df0e51a"
@@ -27,7 +27,7 @@ Metacognition is an awareness of one's thought processes and an understanding of
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   209.66 | 2023-11-26T10:29:25Z |
-| back     | 2.35 |   7 |   182.96 | 2023-11-09T15:15:20Z |
+| back     | 2.20 |   8 |   423.01 | 2025-01-12T16:23:08Z |
 :END:
 
 [[id:efe31d96-34a6-439a-a34d-fdff9df0e51a][Metacognition]]

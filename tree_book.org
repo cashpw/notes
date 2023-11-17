@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3784b9a9-ad2f-4537-864a-7362f21cd014
-:LAST_MODIFIED: [2023-10-17 Tue 01:14]
+:LAST_MODIFIED: [2023-11-16 Thu 08:14]
 :END:
 #+title: Tree book
 #+hugo_custom_front_matter: :slug "3784b9a9-ad2f-4537-864a-7362f21cd014"
@@ -31,7 +31,7 @@ Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:065a0
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   509.20 | 2024-11-08T19:09:34Z |
-| front    | 2.65 |   8 |   282.25 | 2023-11-16T05:58:53Z |
+| front    | 2.65 |   9 |   697.13 | 2025-10-13T19:25:45Z |
 :END:
 [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
 *** Back

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       be3d36b2-8fb7-4917-b739-5717643a35b3
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-16 Thu 08:12]
 :END:
 #+title: Inverse function
 #+hugo_custom_front_matter: :slug "be3d36b2-8fb7-4917-b739-5717643a35b3"
@@ -41,7 +41,7 @@ $f^{-1}(y)={\frac {{\sqrt[{3}]{y}}-8}{2}}$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   186.60 | 2023-11-01T13:15:36Z |
+| front    | 2.35 |   8 |   418.19 | 2025-01-07T20:40:41Z |
 :END:
 
 How to find the [[id:be3d36b2-8fb7-4917-b739-5717643a35b3][Inverse function]] of $f\colon \mathbf{R}\to \mathbf{R}$, $f(x) = y$

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b08bf4f7-76cd-41e9-973f-83d2a60de9aa
 :ROAM_REFS: [cite:@GritPersonalityTrait2022]
-:LAST_MODIFIED: [2023-10-25 Wed 19:11]
+:LAST_MODIFIED: [2023-11-16 Thu 08:05]
 :END:
 #+title: Grit
 #+hugo_custom_front_matter: :slug "b08bf4f7-76cd-41e9-973f-83d2a60de9aa"
@@ -28,7 +28,7 @@ In psychology, grit is a positive, non-cognitive trait based on an individual's 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   187.05 | 2023-11-15T17:16:46Z |
+| front    | 2.50 |   8 |   441.18 | 2025-01-30T20:30:02Z |
 | back     | 2.80 |   7 |   362.23 | 2024-07-31T20:52:45Z |
 :END:
 

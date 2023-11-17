@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ThereWillComeSoftRains2022]
 :ID:       afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1
-:LAST_MODIFIED: [2023-11-15 Wed 07:15]
+:LAST_MODIFIED: [2023-11-16 Thu 08:14]
 :END:
 #+title: There will come soft rains
 #+hugo_custom_front_matter: :slug "afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1"
@@ -51,7 +51,7 @@ Would scarcely know that we were gone.
 |        3 | 1.30 |   9 |    27.00 | 2023-12-11T15:33:00Z |
 |        4 | 1.90 |   7 |   103.33 | 2023-12-13T22:13:49Z |
 |        5 | 2.35 |   7 |   277.60 | 2024-06-18T05:36:14Z |
-|        6 | 1.30 |   6 |    13.73 | 2023-11-16T09:04:10Z |
+|        6 | 1.30 |   7 |    18.82 | 2023-12-05T12:01:27Z |
 |        7 | 2.20 |   7 |   129.89 | 2024-01-29T11:44:21Z |
 |        8 | 2.05 |   5 |    26.16 | 2023-08-21T18:53:31Z |
 |        9 | 2.35 |   4 |    14.52 | 2023-08-23T03:48:07Z |

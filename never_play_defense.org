@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f331c0a1-39b2-4752-84a9-f9656d1750c5
-:LAST_MODIFIED: [2023-10-09 Mon 23:55]
+:LAST_MODIFIED: [2023-11-16 Thu 08:14]
 :END:
 #+title: Never play defense
 #+hugo_custom_front_matter: :slug "f331c0a1-39b2-4752-84a9-f9656d1750c5"
@@ -47,9 +47,11 @@ A method for winning arguments where you seek to convince the audience you won o
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |  20 |   162.81 | 2023-12-06T11:45:07Z |
-| back     | 2.05 |   8 |   165.16 | 2023-10-30T19:14:23Z |
+| back     | 1.75 |   0 |     0.00 | 2023-11-16T16:14:06Z |
 :END:
+
 [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]
+
 *** Back
 - Responding with something short, quipy, and wrong
 - Favoring accusations over questions

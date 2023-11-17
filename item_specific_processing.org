@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e860a606-84d0-47a0-8230-a702e86c363a
-:LAST_MODIFIED: [2023-10-06 Fri 00:37]
+:LAST_MODIFIED: [2023-11-16 Thu 08:06]
 :END:
 #+title: Item-specific processing
 #+hugo_custom_front_matter: :slug "e860a606-84d0-47a0-8230-a702e86c363a"
@@ -74,7 +74,7 @@ Examples:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   191.33 | 2023-11-09T07:32:57Z |
+| front    | 2.35 |   8 |   409.21 | 2024-12-29T21:05:30Z |
 :END:
 
 [[id:e860a606-84d0-47a0-8230-a702e86c363a][Item-specific processing]] and [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]

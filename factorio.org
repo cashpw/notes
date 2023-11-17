@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       331af804-01a3-4e64-b87a-25bbd90416bb
+:LAST_MODIFIED: [2023-11-16 Thu 19:35]
+:ROAM_REFS: [cite:@Factorio2023]
+:END:
+#+title: Factorio
+#+hugo_custom_front_matter: :slug "331af804-01a3-4e64-b87a-25bbd90416bb"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-16 Thu 16:51]
+#+filetags: :concept:
+
+#+begin_quote
+Factorio is a construction and management simulation game developed and published by Czech studio Wube Software. [...]
+
+The game follows an engineer who crash-lands on an alien planet and must harvest resources and create industry to build a rocket; however, as it is a sandbox game, players can continue the game past the end of the storyline. There are both single-player and multiplayer modes.
+
+[cite:@Factorio2023]
+#+end_quote
+
+* Blueprints
+- [[https://www.factorio.school/view/-Kn2afLokZdBO-uHcIAF][Electricity]]
+
+** Firearm magazine (T1 bullets)
+
+[[file:firearm-magazine.png]]
+
+#+begin_quote
+0eJydldFugzAMRf/Fz6EiAUrhcb8xVVOgGY0UAkrSaV3Fvy+0XYXI1GLegNjn2vhGvkClTqI3UjsoLyDrTlso3y9gZaO5Gr+5cy+gBOlECwQ0b8c3Z7i2fWdcVAnlYCAg9UF8Q0kH8jKZWyvaSkndRC2vj1KLiE4QbNgTENpJJ8WtmGd5BPrO+tBOj3o+PaKbjMDZP8SbzFMP0oj6dh7fuecPfWorYXy5BPypvBb56QO5aT274T8eDmMrKGmMMluoLLUVxvmMsNH4LkfnammgluCIEXuNTBchMcQMRVzQ9XYCtC1XKhLKRxtZR32nxJMBBtWGA8y9n4VsjlV3MqNNd3us2sOpQSuh2m6mlk/VZrcxFGJ/fSVzJRYoFRgwRYBpjCHHGDJFkFFghgCj/kWCAGOmR9M1vgjs/g84W+OLJeDtGlssAecrXLGEu1thiiVczM1DTI7F40K9ruBysu4JfAljbzk7muYFy1NWFEnhd6LiXtVHvz2ih+EXwyesAw==
+#+end_quote
+
+* Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:

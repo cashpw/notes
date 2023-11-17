@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-11-15 Wed 07:15]
+:LAST_MODIFIED: [2023-11-16 Thu 08:05]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1488,7 +1488,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   8 |   311.83 | 2024-01-14T13:19:14Z |
-|        1 | 2.35 |   7 |   142.22 | 2023-04-01T21:44:28Z |
+|        1 | 2.35 |   8 |   359.93 | 2024-11-10T14:19:59Z |
 :END:
 
 - {{Parametric model}@0}

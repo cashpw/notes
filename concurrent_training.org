@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       be21c5df-1559-4d50-8efb-6bd1b5db104f
-:LAST_MODIFIED: [2023-11-15 Wed 07:24]
+:LAST_MODIFIED: [2023-11-16 Thu 08:07]
 :END:
 #+title: Concurrent training
 #+hugo_custom_front_matter: :slug "be21c5df-1559-4d50-8efb-6bd1b5db104f"
@@ -22,7 +22,7 @@ Concurrent training is a combination of cardio and resistance training.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   191.25 | 2024-05-24T21:21:49Z |
-| back     | 1.75 |   5 |    15.45 | 2023-10-27T08:12:27Z |
+| back     | 1.60 |   6 |    24.46 | 2023-12-11T03:04:56Z |
 :END:
 
 [[id:be21c5df-1559-4d50-8efb-6bd1b5db104f][Concurrent training]]

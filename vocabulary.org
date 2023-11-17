@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-11-15 Wed 07:15]
+:LAST_MODIFIED: [2023-11-16 Thu 08:05]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -310,7 +310,7 @@ Exaggerated, dramatic, behavior designed to attract attention.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   309.40 | 2024-04-28T23:01:49Z |
-| back     | 1.90 |   1 |     1.00 | 2023-06-26T17:48:29Z |
+| back     | 1.90 |   2 |     2.00 | 2023-11-18T16:05:13Z |
 :END:
 - worshiping idols
 - treating someone or something as an idol
