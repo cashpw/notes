@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       23c8e47c-cafc-4d08-8018-14f6d22a1c82
-:LAST_MODIFIED: [2023-10-27 Fri 15:30]
+:LAST_MODIFIED: [2023-11-22 Wed 11:43]
 :END:
 #+title: On productivity
 #+hugo_custom_front_matter: :slug "23c8e47c-cafc-4d08-8018-14f6d22a1c82"
@@ -13,18 +13,19 @@ A summary of what I know and have read about productivity. Note the goal here is
 - [[id:fa7eb146-fe4a-4a3e-a6df-d9b05328b4f4][Work on the right thing]]
 - [[id:fe2cc1fb-720e-4c0c-8ab3-87520a1bce39][Be fast]]
 - [[id:b00a62dd-b06c-4943-81d7-140b11e15c8b][Solve the problem]]
--
+- [[id:35e4a53b-35c7-4702-b784-304c22e32147][Work smart and hard]]
 
-* TODO Collect key points from [[id:3626303a-41d6-4d8c-98ee-186e6f59cb44][Sam Altman | Productivity]]
-* TODO Collect key points from [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
-* TODO Collect key points from [[id:d09c5404-88ea-42c5-9928-03e170625ec9][Alexey Guzey | Every Productivity Thought I've Ever Had, as Concisely as Possible]]
-* TODO Collect key points from [[id:d144c357-a486-416a-8c07-482c1c38f8e4][antirez | The Mythical 10x Programmer]]
-* TODO Collect key points from
-* TODO Collect key points from [[id:2a4a8e7e-7b3e-4942-9fb9-19a5f57549c8][Caleb Schoepp | Productivity Porn]]
-* TODO Collect key points from [cite:@soaresHabitualProductivity2014]
-* [cite:@hurfordHowAmProductive2013]
-* [cite:@matthewsaltzSimpleDynamicMethodConsistentProductivity2020]
-* [cite:@betzAttentionMyMostValuableAssetProductivitySoftwareDeveloper2020]
+* [#2] Expand :noexport:
+** TODO Collect key points from [[id:3626303a-41d6-4d8c-98ee-186e6f59cb44][Sam Altman | Productivity]]
+** TODO Collect key points from [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
+** TODO Collect key points from [[id:d09c5404-88ea-42c5-9928-03e170625ec9][Alexey Guzey | Every Productivity Thought I've Ever Had, as Concisely as Possible]]
+** TODO Collect key points from [[id:d144c357-a486-416a-8c07-482c1c38f8e4][antirez | The Mythical 10x Programmer]]
+** TODO Collect key points from
+** TODO Collect key points from [[id:2a4a8e7e-7b3e-4942-9fb9-19a5f57549c8][Caleb Schoepp | Productivity Porn]]
+** TODO Collect key points from [cite:@soaresHabitualProductivity2014]
+** [cite:@hurfordHowAmProductive2013]
+** [cite:@matthewsaltzSimpleDynamicMethodConsistentProductivity2020]
+** [cite:@betzAttentionMyMostValuableAssetProductivitySoftwareDeveloper2020]
 * TODO [#2] Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

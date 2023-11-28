@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba4b74e8-2d33-43ec-bd03-b9ff320ed65a
-:LAST_MODIFIED: [2023-10-30 Mon 07:58]
+:LAST_MODIFIED: [2023-11-19 Sun 06:38]
 :END:
 #+title: Clay shrinkage
 #+hugo_custom_front_matter: :slug "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
@@ -26,9 +26,6 @@ Average clay contains about 20% water and 9% organic matter, thus, finished pots
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       83f7b276-da21-4613-894b-ce62e960b211
@@ -39,7 +36,7 @@ Average clay contains about 20% water and 9% organic matter, thus, finished pots
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   7 |   198.15 | 2023-11-17T19:24:55Z |
+| back     | 2.20 |   8 |   472.66 | 2025-03-06T06:26:09Z |
 | front    | 2.80 |   7 |   266.65 | 2023-11-05T07:12:04Z |
 :END:
 

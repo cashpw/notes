@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
 :DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
-:LAST_MODIFIED: [2023-11-15 Wed 09:53]
+:LAST_MODIFIED: [2023-11-19 Sun 07:00]
 :END:
 #+title: Skills of a senior software engineer
 #+hugo_custom_front_matter: :slug "973e037c-6ae7-4c6a-abf8-57339feb49f9"
@@ -50,6 +50,8 @@ I've sought out common traits of "senior" roles and collected them here to help 
 - Networking
   - Maintain mutually beneficial relationships with peers within your organization, company, and externally
 - [[id:ed7a098d-d242-4cce-bd09-d27874d9a002][Senior engineers manage scope]]
+- [cite:@16xEngineer]
+- [cite:@StoriesReachingStaffplus]
 
 * TODO [#2] Flashcards :noexport:
 :PROPERTIES:

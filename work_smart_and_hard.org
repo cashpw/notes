@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       35e4a53b-35c7-4702-b784-304c22e32147
+:LAST_MODIFIED: [2023-11-22 Wed 11:42]
+:END:
+#+title: Work smart and hard
+#+hugo_custom_front_matter: :slug "35e4a53b-35c7-4702-b784-304c22e32147"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-22 Wed 11:42]
+#+filetags: :concept:
+* [#2] Expand :noexport:
+** [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
+*** [cite:@argumateFuckingThreeDaysThenMaking]
+** [[id:bdbd9f73-c91e-4979-ae15-f5682ebca630][Jacob Kaplan-Moss | Embrace the Grind]]
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@tellmanSeniorEngineersReduceRisk]
 :ID:       e7753777-506e-490e-b79e-59dede5dce2e
 :DIR:      /home/cashweaver/proj/roam/attachments/e7753777-506e-490e-b79e-59dede5dce2e
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-11-19 Sun 06:25]
 :END:
 #+title: Zach Tellman | Senior Engineers Reduce Risk
 #+hugo_custom_front_matter: :slug "e7753777-506e-490e-b79e-59dede5dce2e"
@@ -36,9 +36,6 @@ Every company has different risks, and so every company expects something differ
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** ([[id:cf4225ad-fa19-419e-90a6-bac3b45d1764][Zach Tellman]]) Senior engineers {{reduce risk}{what they do}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-12 Sat 16:55]
@@ -51,7 +48,7 @@ Every company has different risks, and so every company expects something differ
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   6 |   104.89 | 2023-11-19T12:10:48Z |
+|        0 | 2.65 |   7 |   254.41 | 2024-07-31T00:17:58Z |
 :END:
 *** Source
 [cite:@tellmanSeniorEngineersReduceRisk]

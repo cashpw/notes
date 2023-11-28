@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       47d756da-f670-4377-83ae-3ea0fc25bc1b
-:LAST_MODIFIED: [2023-11-09 Thu 08:38]
+:LAST_MODIFIED: [2023-11-17 Fri 07:46]
 :END:
 #+title: Object level
 #+hugo_custom_front_matter: :slug "47d756da-f670-4377-83ae-3ea0fc25bc1b"
@@ -47,7 +47,7 @@ Level of abstraction which is directly about the specifics of the issue at hand
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   170.73 | 2023-11-17T09:50:45Z |
+| front    | 2.35 |   8 |   397.73 | 2024-12-19T09:16:51Z |
 :END:
 
 [[id:47d756da-f670-4377-83ae-3ea0fc25bc1b][Object level]] and [[id:c5f0758f-1499-4284-bb87-77ee55819c3c][Meta level]]

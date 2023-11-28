@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
 :DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
-:LAST_MODIFIED: [2023-11-09 Thu 10:15]
+:LAST_MODIFIED: [2023-11-27 Mon 11:39]
 :END:
 #+title: Todos
 #+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
@@ -1389,5 +1389,18 @@ Fahrenheit to Celsius and back
 :CREATED: [2023-09-04 Mon 14:59]
 :END:
 [cite:@lopez-altBestItalianAmericanTomatoSauceRecipe]
+
+* TODO [#2] What is stoneware, earthenware, etc
+SCHEDULED: <2023-11-26 Sun>
+:PROPERTIES:
+:CREATED:  [2023-10-09 Mon 17:07]
+:END:
+
+* TODO [#2] Vining plants for overhead atmospheric garden
+SCHEDULED: <2023-11-26 Sun>
+:PROPERTIES:
+:CREATED:  [2023-10-12 Thu 16:55]
+:END:
+
 * Bibliography
 #+print_bibliography:

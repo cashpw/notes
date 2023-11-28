@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9624e845-4338-414c-ae4b-8cdf8adbc0ef
 :DIR:      /home/cashweaver/proj/roam/attachments/9624e845-4338-414c-ae4b-8cdf8adbc0ef
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-17 Fri 07:55]
 :END:
 #+title: Relational processing
 #+hugo_custom_front_matter: :slug "9624e845-4338-414c-ae4b-8cdf8adbc0ef"
@@ -52,14 +52,16 @@ A studying/learning technique in which one emphasizes the connections between pi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   218.84 | 2023-12-08T11:44:22Z |
-| back     | 2.20 |   6 |    72.30 | 2023-11-05T22:26:41Z |
+| back     | 2.20 |   7 |   150.42 | 2024-04-16T01:56:11Z |
 :END:
 
 [[id:9624e845-4338-414c-ae4b-8cdf8adbc0ef][Relational processing]]
 
 *** Back
+
 - sorting words into categories
 - Do-re-me-fa-so-la-ti-da
+
 *** Source
 [cite:@marshMemoryEducationalSettings2013]
 ** Compare and contrast

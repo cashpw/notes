@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ec797dab-adc7-4a83-bc31-7daeab0d4ffc
 :ROAM_REFS: [cite:@PerfectInformation2022]
-:LAST_MODIFIED: [2023-09-08 Fri 09:18]
+:LAST_MODIFIED: [2023-11-19 Sun 06:39]
 :END:
 #+title: Perfect information
 #+hugo_custom_front_matter: :slug "ec797dab-adc7-4a83-bc31-7daeab0d4ffc"
@@ -54,7 +54,7 @@ Also see [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], [[id:f9c7b1f9
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   217.07 | 2023-12-02T16:18:15Z |
-| back     | 2.35 |   7 |   192.32 | 2023-11-18T00:30:00Z |
+| back     | 2.20 |   8 |   402.61 | 2024-12-26T05:19:34Z |
 :END:
 
 [[id:ec797dab-adc7-4a83-bc31-7daeab0d4ffc][Perfect information]]

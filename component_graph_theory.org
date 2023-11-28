@@ -2,7 +2,7 @@
 :ID:       d3439626-492b-4165-836e-efd890096225
 :ROAM_ALIASES: "Connected components"
 :ROAM_REFS: [cite:@ComponentGraphTheory2023]
-:LAST_MODIFIED: [2023-09-17 Sun 16:12]
+:LAST_MODIFIED: [2023-11-19 Sun 06:38]
 :END:
 #+title: Component (Graph theory)
 #+hugo_custom_front_matter: :slug "d3439626-492b-4165-836e-efd890096225"
@@ -57,7 +57,7 @@ A connected subgraph that isn't a part of any larger connected subgraph.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |    97.29 | 2023-11-17T06:04:28Z |
+| front    | 2.05 |   8 |   200.98 | 2024-06-07T14:16:23Z |
 | back     | 2.95 |   7 |   393.14 | 2024-10-15T02:36:08Z |
 :END:
 

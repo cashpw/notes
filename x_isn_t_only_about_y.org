@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4
-:LAST_MODIFIED: [2023-11-03 Fri 15:00]
+:LAST_MODIFIED: [2023-11-24 Fri 15:47]
 :END:
 #+title: X isn't (only) about Y
 #+hugo_custom_front_matter: :slug "064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4"
@@ -42,6 +42,7 @@ The above summarizes much of my contrarian world view.  (What else should go on 
 - We can do things for more than one reason
 - People tend to say they're doing X because of Y. However, in truth, the reasons are more complex. While they may do X because Y, that often isn't the only reason and may not even by the primary reason. People may do X not because of Y, but rather because it's not polite, practical, politically-savvy ([[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]]), etc to say the real reason. Or because X is only effective if the true reason isn't said out loud ([[id:9492381f-6af9-4d35-abd6-4c1773149ecc][Taboo games]]) In fact, people might not know the real reason ([[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]).
   - That said, it's also not correct, in my strong opinion, to say "People who do X say it's about Y when it's really about Z, so their actual only reason for doing it is Z". No. [[id:a2e19c5c-0969-49ae-a0c2-740fc61279c3][Yes, and]]. In addition to. Someone can put on makeup for both (1) [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]] and (2) enjoyment. The reduction to biological terms (i.e. reproduction, safety, alliances, resources, etc) seems [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]].
+- Employers forcing return-to-office isn't only about bringing people into the office but also about firing those who don't return without having to explicitly do more lay-offs
 
 Related: [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]] and [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]].
 

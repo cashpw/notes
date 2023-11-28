@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       477fb65f-3351-4154-a270-08c58cdcaf88
-:LAST_MODIFIED: [2023-11-02 Thu 08:38]
+:LAST_MODIFIED: [2023-11-19 Sun 06:35]
 :END:
 #+title: Single-pair shortest path problem
 #+hugo_custom_front_matter: :slug "477fb65f-3351-4154-a270-08c58cdcaf88"
@@ -22,7 +22,7 @@ Find the [[id:555129b5-299e-4605-a2cd-9f77ebcede3d][shortest path]] from the sou
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   307.81 | 2024-05-10T19:47:48Z |
-| back     | 2.35 |   7 |   175.49 | 2023-11-02T03:50:51Z |
+| back     | 2.35 |   8 |   387.03 | 2024-12-10T15:14:42Z |
 :END:
 
 [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]]

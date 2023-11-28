@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       976fb83d-ae8c-427d-b47e-f0089b4d9ce1
 :ROAM_ALIASES: "Symbolic expressions" S-expression Sexp
-:LAST_MODIFIED: [2023-10-09 Mon 23:50]
+:LAST_MODIFIED: [2023-11-19 Sun 06:40]
 :END:
 #+title: Symbolic expression
 #+hugo_custom_front_matter: :slug "976fb83d-ae8c-427d-b47e-f0089b4d9ce1"
@@ -43,7 +43,7 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   408.82 | 2024-06-20T12:49:28Z |
 |        1 | 2.50 |   7 |   243.38 | 2023-12-30T03:52:01Z |
-|        2 | 2.50 |   7 |   185.99 | 2023-11-05T21:26:59Z |
+|        2 | 2.50 |   8 |   503.69 | 2025-04-06T07:13:08Z |
 :END:
 
 - {{[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expression]]}@0}

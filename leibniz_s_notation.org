@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80c7fef7-aa9e-439f-a02f-be3edb85d8f5
-:LAST_MODIFIED: [2023-10-12 Thu 23:58]
+:LAST_MODIFIED: [2023-11-17 Fri 07:56]
 :END:
 #+title: Leibniz's notation
 #+hugo_custom_front_matter: :slug "80c7fef7-aa9e-439f-a02f-be3edb85d8f5"
@@ -33,7 +33,7 @@ was, according to Leibniz, the quotient of an infinitesimal increment of y by an
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   168.03 | 2023-11-17T15:01:45Z |
+| front    | 2.35 |   8 |   372.73 | 2024-11-24T09:26:11Z |
 | back     | 2.65 |   7 |   303.16 | 2024-06-24T18:45:39Z |
 :END:
 

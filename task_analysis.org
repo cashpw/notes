@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       6f26873c-19de-47e1-a395-88f75438e202
-:LAST_MODIFIED: [2023-10-06 Fri 00:34]
+:LAST_MODIFIED: [2023-11-17 Fri 07:55]
 :END:
 #+title: Task analysis
 #+hugo_custom_front_matter: :slug "6f26873c-19de-47e1-a395-88f75438e202"
@@ -26,12 +26,13 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   6 |    63.47 | 2023-12-08T18:48:07Z |
-| back     | 2.20 |   5 |    30.07 | 2023-10-21T16:00:13Z |
+| back     | 2.20 |   6 |    63.31 | 2024-01-19T23:17:33Z |
 :END:
 
 [[id:6f26873c-19de-47e1-a395-88f75438e202][Task analysis]]
 
 *** Back
+
 The process of breaking down the internal and external details of how one accomplishes a piece of work.
 *** Source
 [cite:@TaskAnalysis2023]

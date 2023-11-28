@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b0f01042-9128-4189-a344-033496d5ce24
 :ROAM_ALIASES: "\"Hope\" is the thing with feathers" "Hope is the thing with feathers"
-:LAST_MODIFIED: [2023-11-16 Thu 08:11]
+:LAST_MODIFIED: [2023-11-19 Sun 06:39]
 :END:
 #+title: Emily Dickinson | "Hope" is the thing with feathers
 #+hugo_custom_front_matter: :slug "b0f01042-9128-4189-a344-033496d5ce24"
@@ -29,7 +29,6 @@ It asked a crumb - of me.
 [[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonHopeThingFeathers2022]
 
 * Flashcards :noexport:
-
 ** Poem :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-09-16T03:06:38Z
@@ -45,7 +44,7 @@ It asked a crumb - of me.
 |        1 | 2.80 |   7 |   347.94 | 2024-06-01T18:52:07Z |
 |        2 | 2.80 |   7 |   471.88 | 2025-01-01T20:07:11Z |
 |        3 | 2.80 |   7 |   352.01 | 2024-07-17T00:18:35Z |
-|        4 | 1.30 |   2 |     2.00 | 2023-11-18T16:11:04Z |
+|        4 | 1.45 |   3 |     6.00 | 2023-11-25T14:39:38Z |
 |        5 | 2.80 |   7 |   383.24 | 2024-10-05T21:42:29Z |
 |        6 | 2.35 |   7 |   230.48 | 2024-04-14T01:15:17Z |
 |        7 | 2.80 |   7 |   368.03 | 2024-10-08T08:18:37Z |

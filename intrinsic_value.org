@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       04af40d8-212f-471a-acb7-8d68aabfa2ed
 :ROAM_REFS: [cite:@IntrinsicValueFinance2022]
-:LAST_MODIFIED: [2023-11-03 Fri 07:42]
+:LAST_MODIFIED: [2023-11-19 Sun 06:37]
 :END:
 #+title: Intrinsic value (finance)
 #+hugo_custom_front_matter: :slug "04af40d8-212f-471a-acb7-8d68aabfa2ed"
@@ -27,7 +27,7 @@ In finance, the intrinsic value of an asset usually refers to a value calculated
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   8 |   299.98 | 2024-06-16T12:49:10Z |
-| back     | 1.30 |   6 |    15.97 | 2023-11-19T13:59:54Z |
+| back     | 1.30 |   7 |    22.49 | 2023-12-12T02:20:06Z |
 :END:
 
 [[id:04af40d8-212f-471a-acb7-8d68aabfa2ed][Intrinsic value (finance)]]

@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-11-02 Thu 13:24]
+:LAST_MODIFIED: [2023-11-19 Sun 06:34]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -275,7 +275,7 @@ An evidence-based learning technique, usually performed with flashcards, which e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   202.86 | 2023-11-17T19:13:43Z |
+|        0 | 2.65 |   8 |   567.44 | 2025-06-09T01:13:58Z |
 |        1 | 2.50 |   7 |   201.72 | 2023-12-01T09:41:22Z |
 |        2 | 2.80 |   7 |   387.07 | 2024-08-06T15:46:13Z |
 :END:

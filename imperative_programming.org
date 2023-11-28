@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a
-:LAST_MODIFIED: [2023-10-30 Mon 08:13]
+:LAST_MODIFIED: [2023-11-17 Fri 07:48]
 :ROAM_REFS: [cite:@ImperativeProgramming2023]
 :END:
 #+title: Imperative programming
@@ -28,12 +28,13 @@ The term is often used in contrast to declarative programming [[[id:f234a51d-23e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   201.14 | 2024-05-05T11:35:41Z |
-| back     | 1.45 |   6 |    15.19 | 2023-11-14T19:53:34Z |
+| back     | 1.45 |   7 |    22.51 | 2023-12-10T04:06:43Z |
 :END:
 
 [[id:fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a][Imperative programming]]
 
 *** Back
+
 A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] in which the author writes statements which change a program's state; describes how the program operates step by step.
 *** Source
 [cite:@ImperativeProgramming2023]

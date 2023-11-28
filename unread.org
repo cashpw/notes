@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-11-09 Thu 10:14]
+:LAST_MODIFIED: [2023-11-27 Mon 10:48]
 :END:
 #+TITLE: Unread
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -11875,5 +11875,32 @@ If you understand these errors, you will know what questions to ask to avoid str
 :PROPERTIES:
 :CREATED: [2023-11-09 Thu 10:14]
 :END:
+
+** TODO [#2] https://github.com/LappleApple/awesome-leading-and-managing#readme
+:PROPERTIES:
+:CREATED:  [2023-11-25 Sat 21:10]
+:END:
+
+** TODO [#2] You Don't Need to Quit Your Job to Make | Hacker News
+:PROPERTIES:
+:CREATED:  [2023-11-25 Sat 21:11]
+:END:
+
+https://news.ycombinator.com/item?id=19163316
+
+** TODO [#2] Ask HN: How to find profitable side project idea? | Hacker News
+:PROPERTIES:
+:CREATED:  [2023-11-25 Sat 21:12]
+:END:
+
+https://news.ycombinator.com/item?id=19164037
+
+** TODO [#2] Going Solo, Successfully | Hacker News
+:PROPERTIES:
+:CREATED:  [2023-11-25 Sat 21:15]
+:END:
+
+https://news.ycombinator.com/item?id=19181931
+
 * Bibliography
 #+print_bibliography:

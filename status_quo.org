@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dd143af0-9e37-4b8c-8d9a-53a96b43cf53
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-19 Sun 06:20]
 :ROAM_REFS: [cite:@StatusQuo2022]
 :END:
 #+title: Status quo
@@ -28,7 +28,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   192.15 | 2023-11-16T20:44:08Z |
+|        0 | 2.35 |   8 |   443.52 | 2025-02-05T02:46:54Z |
 |        1 | 2.50 |   7 |   226.18 | 2024-01-11T20:35:15Z |
 :END:
 

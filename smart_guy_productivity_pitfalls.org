@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SmartGuyProductivityPitfalls]
 :ID:       9ed16182-a4a5-4bf6-a5c7-b6196c6eca97
-:LAST_MODIFIED: [2023-11-03 Fri 07:41]
+:LAST_MODIFIED: [2023-11-17 Fri 07:51]
 :END:
 #+title: Smart Guy Productivity Pitfalls
 #+hugo_custom_front_matter: :slug "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
@@ -24,6 +24,8 @@ An overinflated sense of your own abilities creates a constant state of producti
 #+end_quote
 
 That's been me for years now. It's powerful to see it written out.
+
+Related: [[id:bdbd9f73-c91e-4979-ae15-f5682ebca630][Jacob Kaplan-Moss | Embrace the Grind]]
 
 * Notes
 #+begin_quote
@@ -122,7 +124,7 @@ I disagree with the author's assessment that solutions such as "turning off the 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    88.83 | 2023-11-17T11:56:19Z |
+| front    | 2.50 |   7 |   230.58 | 2024-07-05T05:39:18Z |
 | back     | 2.20 |   6 |    70.05 | 2024-01-12T15:46:56Z |
 :END:
 

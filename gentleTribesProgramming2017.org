@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@gentleTribesProgramming2017]
 :ID:       2f62e8c7-6d64-4820-9b12-3949627c2386
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-11-19 Sun 06:35]
 :END:
 #+title: Joseph Gentle | Three Tribes of Programming
 #+hugo_custom_front_matter: :slug "2f62e8c7-6d64-4820-9b12-3949627c2386"
@@ -117,7 +117,7 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   296.24 | 2024-03-28T20:24:42Z |
-| back     | 2.35 |   7 |   177.62 | 2023-11-09T08:15:36Z |
+| back     | 2.50 |   8 |   469.04 | 2025-03-02T15:33:16Z |
 :END:
 
 [[id:f1b52515-ce90-451f-8b58-281cc314a693][Programming as applied mathematics]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-11-16 Thu 08:03]
+:LAST_MODIFIED: [2023-11-19 Sun 06:22]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -740,7 +740,7 @@ A property of a matrix whose rank equals the number of columns.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   9 |   262.01 | 2023-11-04T05:09:24Z |
+| back     | 2.50 |  10 |   714.34 | 2025-11-02T22:27:29Z |
 | front    | 2.80 |   8 |   312.93 | 2024-01-05T14:07:53Z |
 :END:
 
@@ -1300,7 +1300,7 @@ For rows $1...n-1$, ${row}_i$, if ${row}_i$ is nonzero:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   8 |   278.83 | 2023-10-14T11:18:59Z |
+| front    | 2.50 |   9 |   655.18 | 2025-09-02T20:02:05Z |
 | back     | 2.80 |   8 |   382.27 | 2024-03-05T09:57:32Z |
 :END:
 

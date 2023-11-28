@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-11-16 Thu 08:03]
+:LAST_MODIFIED: [2023-11-17 Fri 07:44]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -632,7 +632,7 @@ We should contract vertices with {{fewer}{comparison}@0} contracted neighbors fi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    64.72 | 2023-11-04T11:54:34Z |
+| front    | 2.20 |   7 |   130.70 | 2024-03-27T08:31:39Z |
 | back     | 2.50 |   2 |     2.00 | 2023-08-25T16:36:13Z |
 :END:
 

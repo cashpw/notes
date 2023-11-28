@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-11-16 Thu 08:06]
+:LAST_MODIFIED: [2023-11-19 Sun 06:26]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -830,7 +830,7 @@ Roughly, "To be evaluated at compile time"
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   175.44 | 2024-05-07T03:02:41Z |
-|        1 | 2.20 |   6 |    63.83 | 2023-11-08T11:23:37Z |
+|        1 | 2.20 |   7 |   133.63 | 2024-04-01T05:26:26Z |
 :END:
 
 {{=consteval= and =constexpr=}@0} denote {{C++'s notion of [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]]}{functions}@1}

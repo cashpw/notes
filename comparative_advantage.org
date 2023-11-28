@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f
-:LAST_MODIFIED: [2023-11-14 Tue 07:31]
+:LAST_MODIFIED: [2023-11-19 Sun 06:37]
 :END:
 #+title: Comparative advantage
 #+hugo_custom_front_matter: :slug "673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f"
@@ -32,7 +32,7 @@ In an economic model, agents have a comparative advantage over others in produci
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   338.92 | 2024-05-18T22:49:16Z |
-| back     | 2.35 |   7 |   188.10 | 2023-11-16T18:25:06Z |
+| back     | 2.50 |   8 |   500.25 | 2025-04-02T20:30:45Z |
 :END:
 
 [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]]

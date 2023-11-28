@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff
-:LAST_MODIFIED: [2023-11-14 Tue 07:30]
+:LAST_MODIFIED: [2023-11-17 Fri 07:56]
 :END:
 #+title: Dog whistle
 #+hugo_custom_front_matter: :slug "fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff"
@@ -26,11 +26,15 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   537.92 | 2025-01-18T21:59:22Z |
-| front    | 2.20 |   8 |   224.43 | 2023-11-16T02:49:15Z |
+| front    | 2.20 |   9 |   452.12 | 2025-02-11T18:53:15Z |
 :END:
+
 [[id:fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff][Dog whistle]]
+
 *** Back
+
 The use of coded or suggestive language to garner support from a particular group without provoking opposition; appears normal to the majority but communicates specific things to intended audiences.
+
 *** Source
 [cite:@DogWhistlePolitics2022]
 ** Example(s) :fc:
