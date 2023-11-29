@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       14876c69-a161-4b59-976a-d659cfe9435c
-:LAST_MODIFIED: [2023-10-31 Tue 09:21]
+:LAST_MODIFIED: [2023-11-28 Tue 07:13]
 :END:
 #+title: Balanced binary tree
 #+hugo_custom_front_matter: :slug "14876c69-a161-4b59-976a-d659cfe9435c"
@@ -52,9 +52,11 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which the left and
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   550.47 | 2025-03-11T02:19:44Z |
-| back     | 2.65 |   7 |   283.62 | 2023-11-18T13:37:22Z |
+| back     | 2.65 |   8 |   739.38 | 2025-12-07T00:19:19Z |
 :END:
+
 [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+
 *** Back
 [[file:balanced-binary-tree.png]]
 *** Source

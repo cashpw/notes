@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8775762c-d5aa-434d-9e89-0488841eb1ea
 :ROAM_REFS: [cite:@CycleGraphTheory2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-11-28 Tue 07:10]
 :END:
 #+title: Cycle (Graph theory)
 #+hugo_custom_front_matter: :slug "8775762c-d5aa-434d-9e89-0488841eb1ea"
@@ -79,7 +79,7 @@ A non-empty [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   185.77 | 2023-11-20T09:18:15Z |
+| front    | 2.50 |   8 |   491.65 | 2025-04-03T06:48:11Z |
 :END:
 
 [[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]] and [[id:8775762c-d5aa-434d-9e89-0488841eb1ea][Cycle (Graph theory)]]

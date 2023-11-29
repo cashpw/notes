@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-11-17 Fri 07:44]
+:LAST_MODIFIED: [2023-11-28 Tue 06:51]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -665,7 +665,7 @@ Query phase
   - Backward search on downward graph from $t$
 *** Source
 [cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
-** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:suspended:
 :PROPERTIES:
 :CREATED: [2023-06-20 Tue 08:37]
 :FC_CREATED: 2023-06-20T15:38:35Z
@@ -685,7 +685,7 @@ Query phase
 
 *** Source
 [cite:@lazarsfeldCoreComponentsCHModifiedBidirectionalQuery]
-** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:
+** Cloze ([[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]) :fc:suspended:
 :PROPERTIES:
 :CREATED: [2023-06-20 Tue 08:38]
 :FC_CREATED: 2023-06-20T15:39:08Z
@@ -697,7 +697,7 @@ Query phase
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   3 |     6.00 | 2023-11-22T16:03:35Z |
+|        0 | 2.65 |   4 |    15.02 | 2023-12-13T15:19:55Z |
 |        1 |  2.5 |  -1 |        0 | 2023-06-20T15:39:08Z |
 :END:
 

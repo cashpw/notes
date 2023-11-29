@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dfdbbec2-dd72-47bf-a450-2de66cfd8755
-:LAST_MODIFIED: [2023-10-26 Thu 08:38]
+:LAST_MODIFIED: [2023-11-28 Tue 07:38]
 :END:
 #+title: Track org-mode TODOs across devices
 #+hugo_custom_front_matter: :slug "dfdbbec2-dd72-47bf-a450-2de66cfd8755"
@@ -8,7 +8,7 @@
 #+date: [2023-10-26 Thu 08:37]
 #+filetags: :hastodo:concept:
 
-In short: use [[https://syncthing.net/][Syncthing]].
+I keep my dotfiles, [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]] TODOs, and some project files (including my [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]] files) in sync across devices with [[https://syncthing.net/][Syncthing]].
 
 * TODO [#2] Describe how I sync org-mode across devices
 * Flashcards :noexport:

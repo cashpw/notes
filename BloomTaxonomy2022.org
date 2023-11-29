@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-11-17 Fri 07:46]
+:LAST_MODIFIED: [2023-11-28 Tue 07:11]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -368,7 +368,7 @@ Learning objective concerned with building a structure or pattern from diverse e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   302.36 | 2024-03-15T23:49:38Z |
-| back     | 1.75 |   8 |   154.57 | 2023-11-15T04:27:31Z |
+| back     | 1.75 |   9 |   247.87 | 2024-08-02T12:00:30Z |
 :END:
 
 [[id:ef9484a8-00e1-4ae7-b01e-05dc13cba6c8][Remember (Bloom's Taxonomy)]] (Apples)

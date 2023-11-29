@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-10-30 Mon 08:07]
+:LAST_MODIFIED: [2023-11-28 Tue 06:57]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -133,7 +133,7 @@ Refers to instances where a taxpayer can delay paying taxes to some future perio
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   5 |    28.52 | 2023-11-28T03:35:49Z |
+| back     | 2.20 |   6 |    60.77 | 2024-01-28T09:23:19Z |
 | front    | 2.65 |  11 |   370.90 | 2024-03-16T02:52:13Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24cb7271-441f-447e-9150-b4f44fc6d947
-:LAST_MODIFIED: [2023-11-16 Thu 08:09]
+:LAST_MODIFIED: [2023-11-28 Tue 06:57]
 :END:
 #+title: Control the conversation
 #+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
@@ -60,10 +60,12 @@ Treat your opponent as if they've already agreed to your position and make the n
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   7 |    74.70 | 2023-11-22T09:07:36Z |
+| front    | 1.90 |   8 |   140.96 | 2024-04-17T14:00:28Z |
 | back     | 2.00 |   6 |    49.65 | 2023-11-18T23:37:09Z |
 :END:
+
 [[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]]
+
 *** Back
 - Moving the entire debate to something you and your opponent will never agree on so you can look firm in front of an adversary.
 - [[id:b2575705-10cd-4523-aaa6-153360d7bd07][Moving the goalposts]] toward a subject or mode of conversation in which you can win.

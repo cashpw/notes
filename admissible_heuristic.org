@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bb89b03a-068d-49b1-a25f-d9c4924558b3
 :ROAM_REFS: [cite:@AdmissibleHeuristic2022]
-:LAST_MODIFIED: [2023-11-03 Fri 07:43]
+:LAST_MODIFIED: [2023-11-28 Tue 07:15]
 :END:
 #+title: Admissible heuristic
 #+hugo_custom_front_matter: :slug "bb89b03a-068d-49b1-a25f-d9c4924558b3"
@@ -28,7 +28,7 @@ See also [[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   184.06 | 2023-11-21T02:03:30Z |
+| front    | 2.35 |   8 |   402.10 | 2025-01-03T17:33:00Z |
 | back     | 1.90 |   8 |   156.93 | 2024-04-08T13:07:36Z |
 :END:
 

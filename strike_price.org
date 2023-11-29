@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a4a360b0-9898-4d9b-a0f0-c84a6ae07f42
 :ROAM_ALIASES: "Exercise price"
-:LAST_MODIFIED: [2023-11-16 Thu 08:03]
+:LAST_MODIFIED: [2023-11-28 Tue 07:03]
 :END:
 #+title: Strike price
 #+hugo_custom_front_matter: :slug "a4a360b0-9898-4d9b-a0f0-c84a6ae07f42"
@@ -48,7 +48,7 @@ The price in a derivative contract at which the owner can buy or sell the underl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   3 |     6.00 | 2023-11-22T16:03:14Z |
+|        0 | 2.20 |   4 |    12.99 | 2023-12-11T14:42:50Z |
 |        1 | 2.80 |   8 |   337.31 | 2024-01-27T11:22:36Z |
 :END:
 

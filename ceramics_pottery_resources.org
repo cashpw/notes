@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0b2473da-3953-457c-b68c-4abc7a235d17
 :DIR:      /home/cashweaver/proj/roam/attachments/0b2473da-3953-457c-b68c-4abc7a235d17
-:LAST_MODIFIED: [2023-11-06 Mon 10:01]
+:LAST_MODIFIED: [2023-11-28 Tue 15:53]
 :ROAM_ALIASES: "Pottery resources"
 :END:
 #+title: Ceramics Resources
@@ -19,7 +19,6 @@ A collection of [[id:eefb478b-2083-4445-884d-755005a26f2f][Ceramics]] resources.
 - Mastering The Potter's Wheel
 ** [[id:a500c749-aab9-4150-876f-6f40c76bba35][Ceramics Exercises]]
 ** [[id:e7250e96-5732-4a4c-8c74-69de2eadf977][Wedging]]
-Tip: Wedge all the clay at once before dividing it into smaller balls. Example: I want to throw ten 450g balls of clay. Wedge a single 4500g ball instead of wedging the ten balls individually.
 * Community
 ** Conferences
 - [[https://nceca.net/][National Council on Education for the Ceramics Arts (NCECA)]], [[https://www.youtube.com/c/WatchNCECA][WatchNCECA]]
@@ -36,6 +35,14 @@ Tip: Wedge all the clay at once before dividing it into smaller balls. Example: 
 ** Inspiration
 - [[https://www.pinterest.com/cashbweaver/ceramics/forms/][Forms]]
 - [[https://www.pinterest.com/cashbweaver/ceramics/glazes-and-decor/][Glaze and decor]]
+* Unorganized thoughts/tips
+
+- Thickness
+  - The rim of the form when it's on the wheel will be the thickness post-trimming
+
+    Example: [[file:large-bowl-cross-section-silhouette.jpeg]] [cite:@floriangadsbyThrowingTrimmingLargePotteryStonewareBowlNarrated2021]
+- The thickness of the rim of the form when it's on the wheel is the same which you'll aim to trim the body down to
+
 * Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

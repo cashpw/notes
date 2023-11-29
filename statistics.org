@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-11-19 Sun 06:23]
+:LAST_MODIFIED: [2023-11-28 Tue 06:57]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -489,10 +489,12 @@ Indicate probability based on the absence of other information. Describes the pe
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   8 |   295.23 | 2023-11-03T20:11:19Z |
+| front    | 2.50 |   9 |   694.72 | 2025-10-23T08:10:43Z |
 | back     | 2.35 |   9 |   321.47 | 2024-02-02T01:26:46Z |
 :END:
+
 Confusion matrix
+
 *** Back
 - A $N\times N$ matrix which describes the performance of an algorithm.
 - Rows correspond to predicted classes.

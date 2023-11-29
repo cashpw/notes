@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-11-19 Sun 06:24]
+:LAST_MODIFIED: [2023-11-28 Tue 06:57]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -263,7 +263,7 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   4 |    11.87 | 2023-11-21T13:26:08Z |
+| front    | 2.05 |   5 |    26.43 | 2023-12-25T01:18:43Z |
 :END:
 
 [[id:0fb85eb1-d3f9-4f69-9258-70b6839aed86][Transport layer (OSI model)]] and [[id:3c1ce87f-29cd-46ae-bfdf-457d251e9536][Network layer (OSI model)]]

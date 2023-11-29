@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed12d1ad-074f-491b-aa65-74926c83a235
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-11-28 Tue 07:10]
 :ROAM_REFS: [cite:@DryingOil2022]
 :END:
 #+title: Drying oil
@@ -23,7 +23,7 @@ A drying oil is an oil that hardens to a tough, solid film after a period of exp
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   212.02 | 2023-11-27T15:05:31Z |
+| front    | 2.50 |   8 |   485.02 | 2025-03-27T15:36:43Z |
 | back     | 2.50 |   7 |   274.45 | 2024-03-28T02:12:05Z |
 :END:
 

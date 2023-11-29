@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1d74568-61f0-4a01-8aab-184d1b7a9752
-:LAST_MODIFIED: [2023-11-14 Tue 07:21]
+:LAST_MODIFIED: [2023-11-28 Tue 07:15]
 :END:
 #+title: Deliberate practice
 #+hugo_custom_front_matter: :slug "a1d74568-61f0-4a01-8aab-184d1b7a9752"
@@ -82,7 +82,7 @@ Ericson
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    95.36 | 2023-11-24T00:36:39Z |
+| front    | 2.35 |   7 |   210.98 | 2024-06-26T14:52:19Z |
 | back     | 2.35 |   6 |    83.18 | 2023-11-23T18:40:09Z |
 :END:
 

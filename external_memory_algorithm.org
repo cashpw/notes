@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f240189-7ede-4505-a900-21330b55f4c9
 :ROAM_REFS: [cite:@ExternalMemoryAlgorithm2021]
-:LAST_MODIFIED: [2023-09-09 Sat 16:15]
+:LAST_MODIFIED: [2023-11-28 Tue 07:12]
 :END:
 #+title: External memory algorithm
 #+hugo_custom_front_matter: :slug "0f240189-7ede-4505-a900-21330b55f4c9"
@@ -47,11 +47,15 @@ Algorithms designed to process data that are too large to fit into a single comp
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   614.11 | 2025-05-14T18:52:15Z |
-| back     | 2.80 |   7 |   282.67 | 2023-11-26T17:48:07Z |
+| back     | 2.80 |   8 |   762.64 | 2025-12-30T06:40:16Z |
 :END:
+
 [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+
 *** Back
+
 - [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+
 *** Source
 [cite:@MergeSort2022]
 * Bibliography

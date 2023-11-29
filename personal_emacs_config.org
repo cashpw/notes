@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a875dc68-73f7-44c6-9ee2-09e131e2778b
+:LAST_MODIFIED: [2023-11-28 Tue 08:17]
+:END:
+#+title: Personal emacs config
+#+hugo_custom_front_matter: :slug "a875dc68-73f7-44c6-9ee2-09e131e2778b"
+#+author: Cash Prokop-Weaver
+#+date: [2023-11-28 Tue 08:17]
+#+filetags: :concept:
+
+[[https://github.com/cashpw/dotfiles/blob/main/config/doom/config-personal.org][Personal emacs config]]
+
+* Flashcards :noexport:

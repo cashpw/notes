@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-11-19 Sun 06:22]
+:LAST_MODIFIED: [2023-11-28 Tue 07:00]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -515,7 +515,7 @@ Space conversions underlying $A_{3 \times 4} B_{4 \times 2} \vec{x}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   6 |    21.18 | 2023-11-23T19:34:56Z |
+| front    | 1.45 |   7 |    28.75 | 2023-12-27T09:07:11Z |
 | back     | 2.65 |  11 |   322.66 | 2024-02-08T05:49:33Z |
 :END:
 

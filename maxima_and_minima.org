@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2023-11-02 Thu 08:26]
+:LAST_MODIFIED: [2023-11-28 Tue 07:01]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -76,7 +76,7 @@ The maxima and the minima
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   322.49 | 2023-11-28T01:58:41Z |
+| back     | 2.80 |  10 |   976.18 | 2026-07-31T19:23:38Z |
 | front    | 2.80 |   9 |   391.21 | 2024-03-25T20:04:30Z |
 :END:
 

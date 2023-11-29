@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9d43bd11-f7b0-42b3-8621-3f47ce7e08cd
-:LAST_MODIFIED: [2023-10-17 Tue 01:12]
+:LAST_MODIFIED: [2023-11-28 Tue 06:57]
 :END:
 #+title: Central route processing
 #+hugo_custom_front_matter: :slug "9d43bd11-f7b0-42b3-8621-3f47ce7e08cd"
@@ -44,12 +44,16 @@ A person's careful and thoughtful consideration of the facts or true merits of a
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.95 |   7 |   268.83 | 2023-11-19T23:30:44Z |
+| front    | 2.95 |   8 |   835.90 | 2026-03-13T12:37:56Z |
 | back     | 2.35 |   8 |   452.33 | 2024-12-28T14:18:09Z |
 :END:
+
 [[id:9d43bd11-f7b0-42b3-8621-3f47ce7e08cd][Central route processing]]
+
 *** Back
+
 - Deciding which car to purchase based on cost, reliability, fuel efficiency, etc.
+
 *** Source
 [cite:@ElaborationLikelihoodModel2022]
 * Bibliography

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       162d37be-0ce1-4ba1-baff-101ba72fa811
 :ROAM_REFS: [cite:@MasteryLearning2022]
-:LAST_MODIFIED: [2023-09-18 Mon 08:50]
+:LAST_MODIFIED: [2023-11-28 Tue 07:10]
 :END:
 #+title: Mastery learning
 #+hugo_custom_front_matter: :slug "162d37be-0ce1-4ba1-baff-101ba72fa811"
@@ -43,7 +43,7 @@ Since its conception, mastery learning has empirically been demonstrated to be e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   272.52 | 2024-03-19T03:41:42Z |
-| back     | 2.50 |   7 |   196.19 | 2023-11-23T19:45:49Z |
+| back     | 2.50 |   8 |   485.64 | 2025-03-28T06:38:49Z |
 :END:
 
 [[id:162d37be-0ce1-4ba1-baff-101ba72fa811][Mastery learning]]

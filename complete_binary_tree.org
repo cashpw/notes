@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
-:LAST_MODIFIED: [2023-10-02 Mon 23:19]
+:LAST_MODIFIED: [2023-11-28 Tue 07:16]
 :END:
 #+title: Complete binary tree
 #+hugo_custom_front_matter: :slug "cce89d10-ff69-4756-b9fa-9b713b4cb33b"
@@ -48,10 +48,12 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which every level,
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    99.04 | 2023-11-28T13:35:17Z |
+| front    | 2.50 |   7 |   233.90 | 2024-07-19T12:46:47Z |
 | back     | 2.20 |   7 |   147.03 | 2024-02-27T07:00:50Z |
 :END:
+
 [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+
 *** Back
 [[file:complete-binary-tree.png]]
 *** Extra

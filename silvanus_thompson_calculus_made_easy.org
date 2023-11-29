@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-11-19 Sun 06:23]
+:LAST_MODIFIED: [2023-11-28 Tue 07:15]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -593,7 +593,7 @@ $\frac{dy}{dx}=$ {{$3x^2$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   2 |     2.00 | 2023-11-21T14:23:48Z |
+| front    | 1.30 |   3 |     6.00 | 2023-12-04T15:15:10Z |
 :END:
 
 How to find the first derivative of $y = z \times w$ with respect to $x$ where $z,w$ are expressions in terms of $x$
