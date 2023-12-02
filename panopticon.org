@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bd91ce7a-9b16-4c0c-9b42-0fac236a1364
 :ROAM_REFS: [cite:@Panopticon2022]
-:LAST_MODIFIED: [2023-09-08 Fri 09:19]
+:LAST_MODIFIED: [2023-12-01 Fri 08:45]
 :END:
 #+title: Panopticon
 #+hugo_custom_front_matter: :slug "bd91ce7a-9b16-4c0c-9b42-0fac236a1364"
@@ -47,7 +47,7 @@ A building design and system of control which compels those within it to regulat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   206.86 | 2023-11-26T18:24:21Z |
+| front    | 2.50 |   8 |   494.84 | 2025-04-09T12:50:15Z |
 | back     | 2.50 |   7 |   206.61 | 2023-12-11T06:09:55Z |
 :END:
 

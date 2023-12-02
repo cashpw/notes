@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a075c129-c708-4f5b-bbe7-4b5b85f3b475
-:LAST_MODIFIED: [2023-10-30 Mon 07:52]
+:LAST_MODIFIED: [2023-12-01 Fri 08:38]
 :END:
 #+title: Peripheral route processing
 #+hugo_custom_front_matter: :slug "a075c129-c708-4f5b-bbe7-4b5b85f3b475"
@@ -49,10 +49,12 @@ A person's consideration of the secondary characteristics of an argument (i.e fr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   277.74 | 2023-12-01T09:38:03Z |
+| front    | 2.65 |   8 |   790.74 | 2026-01-30T10:23:40Z |
 | back     | 2.95 |   7 |   321.92 | 2023-12-31T15:36:22Z |
 :END:
+
 [[id:a075c129-c708-4f5b-bbe7-4b5b85f3b475][Peripheral route processing]]
+
 *** Back
 - Deciding which car to purchase based on:
   - the cool-factor

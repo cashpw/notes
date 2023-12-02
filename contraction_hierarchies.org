@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-11-28 Tue 06:51]
+:LAST_MODIFIED: [2023-12-01 Fri 08:38]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -529,7 +529,7 @@ We store a pointer to the interim vertex, $v$, when we contract $u, v, w$ into $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   0 |     0.00 | 2023-11-02T15:16:14Z |
+| front    | 2.20 |   0 |     0.00 | 2023-12-01T16:38:48Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:19:16Z |
 :END:
 

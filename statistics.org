@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-11-28 Tue 06:57]
+:LAST_MODIFIED: [2023-12-01 Fri 08:40]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -310,10 +310,10 @@ Follow these steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   6 |    71.00 | 2023-11-10T18:26:04Z |
+|        0 | 2.20 |   7 |   153.62 | 2024-05-03T07:29:23Z |
 :END:
 
-Clusters are represented by {{representative vectors}@0}.
+Clusters are represented by {{vectors}@0}.
 
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       89f17c46-04dc-42ba-bda2-7ac14c5cbae0
-:LAST_MODIFIED: [2023-11-13 Mon 08:40]
+:LAST_MODIFIED: [2023-12-01 Fri 08:48]
 :END:
 #+title: The left has no place it wants to go
 #+hugo_custom_front_matter: :slug "89f17c46-04dc-42ba-bda2-7ac14c5cbae0"
@@ -14,14 +14,11 @@ The left has no particular place it wants to go. And, to rehash an old quip, if 
 [[id:26b5b285-6345-4c27-bdd6-26ae906aefdb][Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures Read More]]
 #+end_quote
 
-This is in part (in the context of politics in the US) because those on the left want what the rich/powerful don't want and yet the left must at some level appeal to the rich/powerful in order to maintain their own power.
+This is in part --- in the context of politics in the US --- because those on the left want what the rich/powerful don't want and yet the left must at some level appeal to the rich/powerful in order to maintain their own power.
 
 See also [[id:1165158c-add0-4564-a962-7a30c223f477][Murc's law]] and [[id:78f46d61-571d-4e3f-912b-177c3fc9b205][The purpose of a system is what it does]].
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 09:29]
@@ -33,13 +30,15 @@ See also [[id:1165158c-add0-4564-a962-7a30c223f477][Murc's law]] and [[id:78f46d
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   305.64 | 2024-04-10T06:47:56Z |
-| back     | 2.35 |   7 |   170.18 | 2023-11-17T20:02:31Z |
+| back     | 2.35 |   8 |   374.32 | 2024-12-10T00:31:28Z |
 :END:
 
 [[id:89f17c46-04dc-42ba-bda2-7ac14c5cbae0][The left has no place it wants to go]]
 
 *** Back
+
 The left has no clear direction -- they careen from this oppressed group or crisis moment to that one. It lacks focus and stability; its métier is bearing witness, demonstrating solidarity, and the event or the gesture. It's reflex is to "send messages" to those in power, to make statements, and to stand with or for the oppressed.
+
 *** Source
 [cite:@reedNothingLeftAlwaysPresentExaminingQuotidianLifeJimCrowReveal2014]
 ** [The left] lacks {{focus and stability; ...}{short}@0} :fc:

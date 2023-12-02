@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d10d6ecb-87e1-446a-81a0-6afe74eddb78
 :ROAM_REFS: [cite:@CutGraphTheory2022]
-:LAST_MODIFIED: [2023-10-02 Mon 23:23]
+:LAST_MODIFIED: [2023-12-01 Fri 08:43]
 :END:
 #+title: Cut (Graph theory)
 #+hugo_custom_front_matter: :slug "d10d6ecb-87e1-446a-81a0-6afe74eddb78"
@@ -44,7 +44,7 @@ A partition of vertices in a graph into two disjoint sets.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   7 |    56.77 | 2023-11-22T09:57:52Z |
+| front    | 1.60 |   8 |    82.24 | 2024-02-21T22:35:35Z |
 | back     | 2.50 |   7 |   156.86 | 2023-12-21T10:39:55Z |
 :END:
 

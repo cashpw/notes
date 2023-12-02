@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@luu95IleIsnThatGood]
 :ID:       d5f8a83b-1516-4f74-97f4-996a2b1bc8f4
-:LAST_MODIFIED: [2023-11-19 Sun 06:25]
+:LAST_MODIFIED: [2023-12-01 Fri 08:42]
 :END:
 #+title: Dan Luu | 95%-Ile Isn't That Good
 #+hugo_custom_front_matter: :slug "d5f8a83b-1516-4f74-97f4-996a2b1bc8f4"
@@ -62,7 +62,7 @@ Kevin Burke has noted that when he coaches youth basketball, some children don't
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-11-22T15:45:02Z |
+| front    | 2.50 |   4 |    16.46 | 2023-12-18T03:51:10Z |
 | back     | 2.50 |   1 |     1.00 | 2023-11-20T14:25:52Z |
 :END:
 

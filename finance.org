@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-11-28 Tue 06:57]
+:LAST_MODIFIED: [2023-12-01 Fri 08:41]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -19,7 +19,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   302.00 | 2023-11-30T16:27:25Z |
+| back     | 2.50 |   9 |   726.76 | 2025-11-27T10:55:56Z |
 | front    | 2.65 |   8 |   307.09 | 2023-12-21T05:35:51Z |
 :END:
 

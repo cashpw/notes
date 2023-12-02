@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-11-03 Fri 07:38]
+:LAST_MODIFIED: [2023-12-01 Fri 08:45]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -42,14 +42,20 @@ To determine whether a difficulty is desirable, use the following three guidelin
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 3.10 |   8 |   276.83 | 2023-11-21T11:02:35Z |
+| back     | 3.10 |   9 |   922.18 | 2026-06-10T20:57:14Z |
 | front    | 2.20 |   8 |   368.40 | 2024-10-05T15:50:07Z |
 :END:
+
 [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
+
 *** Back
+
 A description of a learning task which requires a considerable, but good, amount of effort.
+
 *** Extra
+
 The requisite effort improves long-term performance.
+
 *** Source
 [cite:@DesirableDifficulty2022]
 
