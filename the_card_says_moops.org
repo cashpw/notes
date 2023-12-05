@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7e543b7d-8335-45e9-94ec-1392c0c91ce0
-:LAST_MODIFIED: [2023-10-16 Mon 00:30]
+:LAST_MODIFIED: [2023-12-04 Mon 06:53]
 :END:
 #+title: The card says moops
 #+hugo_custom_front_matter: :slug "7e543b7d-8335-45e9-94ec-1392c0c91ce0"
@@ -41,11 +41,14 @@ Performative irony used to win arguments and obfuscate the underlying guiding be
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   248.82 | 2023-12-01T12:47:42Z |
+| front    | 2.50 |   8 |   640.62 | 2025-09-05T05:45:50Z |
 | back     | 2.35 |   8 |   419.70 | 2024-11-07T08:03:30Z |
 :END:
+
 [[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]
+
 *** Back
+
 - I just want to watch the world burn
 - I'm just here to trigger the libs ([[id:d8ff4c8c-4032-473b-9060-8bd7903784c8][Why is it always the libs?]])
 

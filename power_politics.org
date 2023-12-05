@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2e9a36f6-43e0-4f9a-af7e-64a4ef069a19
-:LAST_MODIFIED: [2023-10-30 Mon 08:07]
+:LAST_MODIFIED: [2023-12-04 Mon 06:56]
 :END:
 #+title: Power politics
 #+hugo_custom_front_matter: :slug "2e9a36f6-43e0-4f9a-af7e-64a4ef069a19"
@@ -48,7 +48,7 @@ A way of understanding international relations which focuses on power dynamics -
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.30 |   5 |    33.08 | 2023-12-02T17:04:08Z |
+| back     | 2.30 |   6 |    75.90 | 2024-02-18T12:26:59Z |
 | front    | 2.35 |   8 |   537.36 | 2025-01-15T23:52:57Z |
 :END:
 

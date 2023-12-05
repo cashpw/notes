@@ -2,7 +2,7 @@
 :ID:       1a499a31-7ecb-4f80-95a5-22d748a0c634
 :ROAM_REFS: [cite:@NCComplexity2022]
 :ROAM_ALIASES: "NC (Complexity)"
-:LAST_MODIFIED: [2023-10-30 Mon 08:15]
+:LAST_MODIFIED: [2023-12-04 Mon 06:53]
 :END:
 #+title: Nick's class
 #+hugo_custom_front_matter: :slug "1a499a31-7ecb-4f80-95a5-22d748a0c634"
@@ -29,14 +29,16 @@ Just as the class P [[[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][P (Complexity)]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    33.83 | 2023-12-03T11:04:42Z |
+| front    | 2.50 |   6 |    79.16 | 2024-02-21T18:46:44Z |
 | back     | 2.50 |   7 |   216.95 | 2024-02-28T13:54:48Z |
 :END:
 
 [[id:1a499a31-7ecb-4f80-95a5-22d748a0c634][NC (Complexity)]] (informal)
 
 *** Back
+
 A complexity class of problems which can be solved in [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]] on a parallel computer.
+
 *** Source
 [cite:@NCComplexity2022]
 ** Definition :fc:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1d74568-61f0-4a01-8aab-184d1b7a9752
-:LAST_MODIFIED: [2023-11-28 Tue 07:15]
+:LAST_MODIFIED: [2023-12-04 Mon 06:58]
 :END:
 #+title: Deliberate practice
 #+hugo_custom_front_matter: :slug "a1d74568-61f0-4a01-8aab-184d1b7a9752"
@@ -64,7 +64,7 @@ One of Ericsson's core findings was that how expert one becomes at a skill has m
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   7 |    57.44 | 2023-11-21T23:47:22Z |
+|        0 | 1.75 |   8 |    96.20 | 2024-03-09T19:49:34Z |
 |        1 | 2.05 |   7 |   140.23 | 2024-04-02T20:47:35Z |
 :END:
 

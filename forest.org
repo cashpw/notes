@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       326df302-a17b-4f2c-8bcd-027be7a459f5
-:LAST_MODIFIED: [2023-10-09 Mon 23:44]
+:LAST_MODIFIED: [2023-12-04 Mon 07:09]
 :END:
 #+title: Forest
 #+hugo_custom_front_matter: :slug "326df302-a17b-4f2c-8bcd-027be7a459f5"
@@ -45,10 +45,12 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b252
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   9 |   626.83 | 2025-06-21T01:58:30Z |
-|        1 | 2.80 |   7 |   296.37 | 2023-12-01T03:12:56Z |
+|        1 | 2.80 |   8 |   887.69 | 2026-05-10T07:36:09Z |
 :END:
+
 - {{[[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]}@0}
 - {{Disjoint union of [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Trees]]}@1}
+
 *** Source
 [cite:@TreeGraphTheory2022]
 * Bibliography

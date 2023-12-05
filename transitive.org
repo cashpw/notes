@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       57d94e2b-f842-483e-bcdb-c4d8e91a6ab5
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
-:ROAM_ALIASES: "Transative dependency"
+:LAST_MODIFIED: [2023-12-04 Mon 07:06]
+:ROAM_ALIASES: "Transitive dependency"
 :END:
 #+title: Transitive relation
 #+hugo_custom_front_matter: :slug "57d94e2b-f842-483e-bcdb-c4d8e91a6ab5"
@@ -58,10 +58,10 @@ Eg: "ancestor of"
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.95 |   8 |   308.72 | 2024-01-24T10:51:41Z |
-| front    | 2.35 |   8 |   206.73 | 2023-10-21T20:42:16Z |
+| front    | 2.35 |   9 |   533.82 | 2025-05-21T10:47:16Z |
 :END:
 
-[[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transative dependency]]
+[[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive dependency]]
 
 *** Back
 An indirect dependency through one or more other objects.

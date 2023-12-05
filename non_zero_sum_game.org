@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9f52c68a-3302-47bc-a4a4-3a4ff20d41be
-:LAST_MODIFIED: [2023-12-01 Fri 08:45]
+:LAST_MODIFIED: [2023-12-04 Mon 07:06]
 :END:
 #+title: Non-zero-sum game
 #+hugo_custom_front_matter: :slug "9f52c68a-3302-47bc-a4a4-3a4ff20d41be"
@@ -27,7 +27,7 @@ The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   428.67 | 2024-08-29T07:13:05Z |
-| back     | 1.30 |   6 |    12.69 | 2023-11-21T09:07:05Z |
+| back     | 1.30 |   7 |    15.28 | 2023-12-19T21:54:59Z |
 :END:
 [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
 *** Back

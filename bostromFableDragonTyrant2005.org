@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@bostromFableDragonTyrant2005]
 :ID:       2a13c6a7-c74c-408b-b30e-69a18c9ad9ab
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-04 Mon 07:01]
 :END:
 #+title: Nick Bostrom | The Fable of the Dragon Tyrant
 #+hugo_custom_front_matter: :slug "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
@@ -167,10 +167,13 @@ A parable which contextualizes human death as something to be defeated.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   256.21 | 2023-11-21T08:17:50Z |
+| front    | 2.50 |   0 |     0.00 | 2023-12-04T15:01:31Z |
 :END:
+
 [[id:2a13c6a7-c74c-408b-b30e-69a18c9ad9ab][The Fable of the Dragon Tyrant]]
+
 *** Back
+
 [[id:c4ab056e-de36-4ff5-8f41-e634b6b9431c][Nick Bostrom]]
 * Bibliography
 #+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8
-:LAST_MODIFIED: [2023-10-11 Wed 14:18]
+:LAST_MODIFIED: [2023-12-04 Mon 07:12]
 :ROAM_REFS: [cite:@StdVariant]
 :END:
 #+title: std::variant
@@ -57,7 +57,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   218.38 | 2024-05-17T06:20:05Z |
-|        1 | 2.50 |   6 |    97.01 | 2023-11-06T01:35:13Z |
+|        1 | 2.50 |   7 |   244.63 | 2024-08-05T06:18:04Z |
 :END:
 
 Prefer {{[[id:cd536767-14e7-4cc2-a7f1-d4b0cffbc1c8][std::variant]]}@0} to {{naked [[id:6f967c9a-b981-43f8-86cb-0f096639bdfb][C++ union]]}@1}.

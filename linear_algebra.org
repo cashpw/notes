@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-01 Fri 08:42]
+:LAST_MODIFIED: [2023-12-04 Mon 06:52]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -783,14 +783,16 @@ A property of a matrix whose rank equals the number of rows.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |  12 |   264.05 | 2023-10-17T16:02:17Z |
+| back     | 2.50 |  13 |   649.22 | 2025-09-13T20:14:07Z |
 | front    | 2.65 |   8 |   349.44 | 2024-02-26T01:06:57Z |
 :END:
 
 Gram-Schmidt Process
 
 *** Back
+
 A method for orthonormalizing a linearly independent set of vectors.
+
 
 *** Source
 [cite:@GramSchmidtProcess2022]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-11-28 Tue 07:15]
+:LAST_MODIFIED: [2023-12-04 Mon 07:01]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -554,7 +554,7 @@ To {{[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiate]]}@0} is to find t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   8 |   304.87 | 2024-08-30T12:06:41Z |
-|        1 | 2.35 |   7 |   159.16 | 2023-11-14T20:12:23Z |
+|        1 | 2.20 |   8 |   371.21 | 2024-12-09T20:03:50Z |
 :END:
 
 $f(x)=$ {{$x^n + C$}@1}

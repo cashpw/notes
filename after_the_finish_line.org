@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       d83ff790-f983-4581-a5dd-f5d27be45893
+:LAST_MODIFIED: [2023-12-04 Mon 16:35]
+:ROAM_ALIASES: "The last 10%"
+:END:
+#+title: The last 10%
+#+hugo_custom_front_matter: :slug "d83ff790-f983-4581-a5dd-f5d27be45893"
+#+author: Cash Prokop-Weaver
+#+date: [2023-12-04 Mon 07:57]
+#+filetags: :hastodo:concept:
+
+A software project isn't done at launch. That said, you should balance these potential to-dos with doing a [[id:3dd67ed4-d1d5-47f4-982d-164f55c8a4ff][Good enough]] job when appropriate (also, the [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][Pareto principle]]).
+
+Inspiration, and line items, taken from [cite:@henleyStopping90] and [cite:@ramseyLast]. "Evangelism, documentation, and polish are often just as important as the core project" [cite:@henleyStopping90].
+
+* Documentation
+
+[[id:53ea2468-bd6b-4a1e-a18e-daa7ac4dd5d0][Write to solve problems at scale]].
+
+- Write outward-facing documentation (e.g. From the perspective of someone trying to use/integrate/etc the project)
+- Write inward-facing documentation (e.g. From the perspective of someone trying to maintain/improve/extend/fix the project)
+- Write on the things you learned by going through the project (e.g. project management, interpersonal relationships, internal politics, processes, programming, etc). You don't have to publish/broadcast these --- they can just be for you.
+- "Sketch out a next-steps document, even if you have no plans to continue, that explains what you would do next and why" [cite:@henleyStopping90]
+  - Could anything be rewritten or extracted into a [[id:a436ac99-5134-4c86-94ca-9c91be32324c][library]], service, pure function, etc?
+
+* Automation
+
+Reduce toil for those who will use and support the work in the future.
+
+- Add metrics (performance, reliability/uptime, errors, usage rate, resource usage) and dashboard(s) to show these metrics [cite:@ramseyLast]
+- Add alerts for cases when maintainers need to take a closer look [cite:@ramseyLast]
+
+* Retrospective
+
+Hold [[id:0b3c28aa-ab9a-4a99-8dbf-4f22a6e7dee9][Retrospective]](s).
+
+- Discuss the project with those who worked on it; where were the pain points?
+- Seek out feedback, document it, and make improvements
+- How would you do the project differently if you had to do it all over again?
+
+* Communicate
+
+They won't come once you build it. They'll come when you sell them on why they should come.
+
+- "Present the work to other teams" [cite:@henleyStopping90]
+- Recognize and congratulate the team and individuals who worked on the project in a public forum ([[id:7c35c514-f4dd-4ed6-b071-b8be133e23b2][Praise in public]])
+- "Look for adjacent projects that could benefit [and reach out]" [cite:@henleyStopping90]
+- Broadcast to the larger community by writing a blog post and submitting it to a forum (e.g. Hacker News, Reddit)
+- "Broadcast an email with the takeaways so that the rest of your organization knows about it" [cite:@henleyStopping90]
+
+* Misc
+
+- Fix the backlog of bugs
+- Pay down technical debt
+- Measure the success of the feature and schedule a check-in after N months to guage effectiveness
+
+* TODO [#2] Extend :noexport:
+- https://news.ycombinator.com/item?id=37055280
+- https://news.ycombinator.com/item?id=36967594
+- Is there a way to find "web pages similar to X" for these two blog posts?
+- Bard/ChatGPT
+* Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:

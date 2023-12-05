@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-12-01 Fri 08:41]
+:LAST_MODIFIED: [2023-12-04 Mon 07:08]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -176,7 +176,7 @@ A tax-advantaged, defined-contribution retirement account offered by employers t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   361.43 | 2024-02-09T02:35:49Z |
-| front    | 2.30 |  11 |   238.46 | 2023-12-03T02:06:25Z |
+| front    | 2.30 |  12 |   579.85 | 2025-07-06T11:32:30Z |
 :END:
 
 Bear market

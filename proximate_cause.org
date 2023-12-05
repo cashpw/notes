@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b17c08ec-80de-45e5-8a8e-529b0f31142c
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-12-04 Mon 07:09]
 :END:
 #+title: Proximate cause
 #+hugo_custom_front_matter: :slug "b17c08ec-80de-45e5-8a8e-529b0f31142c"
@@ -45,15 +45,17 @@ A cause for an event which is closest to, or immediately responsible for, some o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   184.48 | 2023-12-01T03:56:31Z |
+| front    | 2.35 |   8 |   430.94 | 2025-02-07T13:44:08Z |
 :END:
 
 [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]] and [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]
 
 *** Back
+
 - They're both "true"
 - [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]: The cause which is closest to, or immediately responsible for causeing, some observed result
 - [[id:9245a0f6-660f-4820-9e03-793dc5978686][Ultimate cause]]: The "real", underlying, cause
+
 *** Source
 [cite:@ProximateUltimateCausation2022]
 ** Describe :fc:

@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ramseyLast]
+:ID:       099d031e-60c7-4527-95bc-84d9c8b56854
+:LAST_MODIFIED: [2023-12-04 Mon 08:09]
+:END:
+#+title: Jared Ramsey | The Last 1%
+#+hugo_custom_front_matter: :slug "099d031e-60c7-4527-95bc-84d9c8b56854"
+#+author: Cash Weaver
+#+date: [2023-12-04 Mon 08:08]
+#+filetags: :reference:
+[[id:d5f813cf-d566-43d7-8bf5-a40d0121bc5b][Jared Ramsey]], [cite:@ramseyLast]
+
+* Summary
+* Thoughts
+[[id:d83ff790-f983-4581-a5dd-f5d27be45893][After the finish line]]
+* Notes
+#+begin_quote
+You've done it. You've launched the next great feature. You've spent months working with your team to design, build, and test. It's in users' hands. You're done.
+
+But are you really? Probably not.
+
+I've seen (and been on) so many projects that claim success and move on to the next thing when they are 99% done and fail to complete the last 1%. This last 1% isn't just what separates a great product from a good product, it's what separates a product that might not eventually fail from one that will eventually fail.
+
+So what's in this last 1%? Here are some of the most frequently skipped things I've seen:
+
+- Internal (maintenance) documentation
+- External (how-to/FAQ) documentation
+- Performance metric instrumentation
+- Easy-to-decipher performance metric dashboard
+- Usage metric instrumentation
+- Easy-to-decipher usage metric dashboard
+- Error metric instrumentation
+- Easy-to-decipher error metric dashboard
+- Alerting
+- Automated testing
+
+I know the temptation. I've been there many times myself. After months of hard work and sleepless nights, you want to put it behind you and move on to the next thing. But don't. Take the time to finish the last 1%. It's worth it.
+#+end_quote
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:

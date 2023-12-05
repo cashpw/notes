@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@AmygdalaHijack2022]
 :ID:       d3077e94-b0b6-4880-b17f-0cd06fd06008
 :ROAM_ALIASES: "Affective override"
-:LAST_MODIFIED: [2023-11-19 Sun 06:22]
+:LAST_MODIFIED: [2023-12-04 Mon 06:58]
 :END:
 #+title: Amygdala hijack
 #+hugo_custom_front_matter: :slug "d3077e94-b0b6-4880-b17f-0cd06fd06008"
@@ -49,7 +49,7 @@ An amygdala hijack is an emotional response that is immediate, overwhelming, and
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   162.12 | 2024-03-10T10:51:28Z |
-|        1 | 2.50 |   7 |   207.99 | 2023-12-03T16:29:15Z |
+|        1 | 2.50 |   8 |   508.23 | 2025-04-25T20:29:26Z |
 :END:
 
 - {{[[id:d3077e94-b0b6-4880-b17f-0cd06fd06008][Amygdala hijack]]}@0}

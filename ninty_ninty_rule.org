@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       3f4360a0-926e-4fb5-83c4-50b4416e2c7d
+:ROAM_REFS: [cite:@NinetyNinetyRule2023]
+:LAST_MODIFIED: [2023-12-04 Mon 16:34]
+:END:
+#+title: Ninety-ninety rule
+#+hugo_custom_front_matter: :slug "3f4360a0-926e-4fb5-83c4-50b4416e2c7d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-12-04 Mon 10:49]
+#+filetags: :concept:
+
+#+begin_quote
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+
+[[id:7539ce32-f3c5-486d-a7e7-414da5be7546][Tom Cargill]]
+#+end_quote
+
+See [[id:d83ff790-f983-4581-a5dd-f5d27be45893][The last 10%]].
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-12-04 Mon 10:51]
+:FC_CREATED: 2023-12-04T18:52:10Z
+:FC_TYPE:  double
+:ID:       94025a11-f366-46f2-ada6-c3cb40fa8979
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-04T18:52:10Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-11T18:52:10Z |
+:END:
+
+[[id:3f4360a0-926e-4fb5-83c4-50b4416e2c7d][Ninety-ninety rule]]
+
+*** Back
+The first 90% of a project accounts for the first 90% of development time. The remaining 10% accounts for the second 90% of development time.
+*** Source
+[cite:@NinetyNinetyRule2023]

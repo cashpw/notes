@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e943172b-03c0-4a37-881d-5c8e620c9ec7
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-04 Mon 06:50]
 :END:
 #+title: Burton Malkiel
 #+hugo_custom_front_matter: :slug "e943172b-03c0-4a37-881d-5c8e620c9ec7"
@@ -18,12 +18,13 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |  10 |   113.20 | 2023-11-25T19:57:36Z |
+| front    | 1.30 |  11 |   149.40 | 2024-05-02T00:20:37Z |
 :END:
 
 [[id:e943172b-03c0-4a37-881d-5c8e620c9ec7][Burton Malkiel]]
 
 *** Back
-[[id:d5216a1b-5838-4518-aab4-f0521ae6fc21][A Random Walk Down Wall Street]]
+
+- [[id:d5216a1b-5838-4518-aab4-f0521ae6fc21][A Random Walk Down Wall Street]]
 * Bibliography
 #+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0f240189-7ede-4505-a900-21330b55f4c9
 :ROAM_REFS: [cite:@ExternalMemoryAlgorithm2021]
-:LAST_MODIFIED: [2023-11-28 Tue 07:12]
+:LAST_MODIFIED: [2023-12-04 Mon 06:53]
 :END:
 #+title: External memory algorithm
 #+hugo_custom_front_matter: :slug "0f240189-7ede-4505-a900-21330b55f4c9"
@@ -28,11 +28,14 @@ See [[id:8c0c78bf-ef9f-48c5-bcab-1e8f67aa67fc][Internal memory algorithm]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   7 |   290.55 | 2023-11-26T07:34:43Z |
+| back     | 2.80 |   8 |   825.50 | 2026-03-09T02:46:20Z |
 | front    | 2.35 |   8 |   566.73 | 2025-03-29T16:43:46Z |
 :END:
+
 [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+
 *** Back
+
 Algorithms designed to process data that are too large to fit into a single computer's main memory at once. Instead, the algorithm processes data from external memory (e.g. hard disk, tapes, network/delegation).
 *** Source
 [cite:@ExternalMemoryAlgorithm2021]

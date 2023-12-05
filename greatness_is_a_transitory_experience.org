@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       58146c27-37cf-4270-bb24-ab1f6bed8e9f
-:LAST_MODIFIED: [2023-11-15 Wed 07:25]
+:LAST_MODIFIED: [2023-12-04 Mon 07:11]
 :END:
 #+title: Greatness is a transitory experience
 #+hugo_custom_front_matter: :slug "58146c27-37cf-4270-bb24-ab1f6bed8e9f"
@@ -29,7 +29,7 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   8 |   148.66 | 2023-12-02T06:33:11Z |
+|        0 | 1.75 |   9 |   273.12 | 2024-09-02T18:00:19Z |
 :END:
 
 Greatness is {{a transitory experience}{short}@0}.

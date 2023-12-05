@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-12-01 Fri 08:38]
+:LAST_MODIFIED: [2023-12-04 Mon 06:52]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -615,7 +615,7 @@ We should contract vertices in {{ascending order}{direction}@0} of edge differen
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   3 |     6.00 | 2023-09-07T14:14:53Z |
+|        0 | 2.50 |   4 |    13.80 | 2023-12-18T10:02:33Z |
 :END:
 
 We should contract vertices with {{fewer}{comparison}@0} contracted neighbors first.

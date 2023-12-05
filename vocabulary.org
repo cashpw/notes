@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-12-01 Fri 08:40]
+:LAST_MODIFIED: [2023-12-04 Mon 06:50]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -613,10 +613,12 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   5 |    38.15 | 2023-11-13T10:58:11Z |
+| front    | 2.35 |   6 |    87.83 | 2024-03-01T10:53:01Z |
 | back     | 2.35 |   6 |    72.27 | 2023-05-31T00:31:41Z |
 :END:
+
 - Conducive to success; favorable
+
 *** Source
 
 ** Parsimonious :fc:

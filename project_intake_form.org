@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       ba1c8bfe-7353-4fac-9202-768763ba4692
-:LAST_MODIFIED: [2023-10-19 Thu 14:43]
+:LAST_MODIFIED: [2023-12-04 Mon 08:00]
 :END:
-#+title: Project intake form
+#+title: Software project management
 #+hugo_custom_front_matter: :slug "ba1c8bfe-7353-4fac-9202-768763ba4692"
 #+author: Cash Prokop-Weaver
 #+date: [2022-10-27 Thu 10:06]
@@ -33,6 +33,12 @@ Include things like:
 - What is the last 1%/10% of the project? (see below)
 
 Also see [[id:f1e1fb6c-5dbd-45fa-85cb-6d7fc7551486][Split "Lessons learned" into nodes]].
+
+Stages of a project
+
+- First 10%: Understand: the project, scope, stakeholders, requirements, etc
+- 80%: Do: the project (e.g. launch)
+- Last 10%: Finish: All the finishing details
 
 ** TODO [#2] [[https://jaredramsey.com/blog/20230808.html][The Last 1%]] :project_management:
 :PROPERTIES:

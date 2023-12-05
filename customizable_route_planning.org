@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-12-01 Fri 08:42]
+:LAST_MODIFIED: [2023-12-04 Mon 06:51]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -275,7 +275,7 @@ To accelerate queries, we can use multiple levels of overlay graphs, a common te
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    82.75 | 2023-11-29T08:36:11Z |
+| front    | 2.35 |   7 |   208.26 | 2024-06-29T20:59:23Z |
 | back     | 2.50 |   3 |     6.00 | 2023-10-22T06:29:15Z |
 :END:
 

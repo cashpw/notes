@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bd9daffc-f556-4bdc-975e-e35c3c98ebee
-:LAST_MODIFIED: [2023-11-03 Fri 07:41]
+:LAST_MODIFIED: [2023-12-04 Mon 07:11]
 :END:
 #+title: Cognitive task analysis
 #+hugo_custom_front_matter: :slug "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
@@ -40,14 +40,16 @@ Also see [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analy
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    36.76 | 2023-11-24T08:01:54Z |
+| front    | 2.50 |   6 |    91.94 | 2024-03-05T13:38:06Z |
 | back     | 2.35 |   5 |    28.82 | 2023-12-02T10:26:35Z |
 :END:
 
 [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]
 
 *** Back
+
 [[id:6f26873c-19de-47e1-a395-88f75438e202][Task analysis]] applied to modern work environments such as supervisory control where little physical work occurs, but the tasks are more related to situation assessment, decision making, and response planning and execution.
+
 *** Source
 [cite:@TaskAnalysis2023]
 * Bibliography

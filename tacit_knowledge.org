@@ -2,7 +2,7 @@
 :ID:       d636dfa7-428d-457c-8db6-15fa61e03bef
 :ROAM_ALIASES: "Implicit knowledge"
 :ROAM_REFS: [cite:@TacitKnowledge2022]
-:LAST_MODIFIED: [2023-10-02 Mon 23:17]
+:LAST_MODIFIED: [2023-12-04 Mon 07:12]
 :END:
 #+title: Tacit knowledge
 #+hugo_custom_front_matter: :slug "d636dfa7-428d-457c-8db6-15fa61e03bef"
@@ -30,13 +30,16 @@ For example, knowing that London is in the United Kingdom is a piece of explicit
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   210.16 | 2023-11-26T22:19:58Z |
+| front    | 2.35 |   8 |   485.44 | 2025-04-03T01:44:12Z |
 | back     | 3.25 |   7 |   462.73 | 2024-10-20T07:43:16Z |
 :END:
+
 [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
 
 *** Back
+
 Knowledge which is difficult to express or extract and is thus more difficult to transfer to others by writing/speaking.
+
 *** Source
 [cite:@TacitKnowledge2022]
 ** AKA :fc:

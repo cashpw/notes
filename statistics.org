@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-12-01 Fri 08:40]
+:LAST_MODIFIED: [2023-12-04 Mon 06:53]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1699,14 +1699,16 @@ The difference between an estimator's expected value and the true value of the p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   6 |    12.02 | 2023-11-25T17:04:47Z |
+| back     | 1.30 |   7 |    14.25 | 2023-12-18T20:49:52Z |
 | front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
 :END:
 
 Correlation
 
 *** Back
+
 Any statistical relationship, whether causal or not, between two random variables or bivariate data.
+
 
 *** Source
 [cite:@Correlation2022]

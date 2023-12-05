@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7c49d995-a4d4-4c95-84c0-9dae9d8ab498
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/7c49d995-a4d4-4c95-84c0-9dae9d8ab498
-:LAST_MODIFIED: [2023-11-03 Fri 07:32]
+:LAST_MODIFIED: [2023-12-04 Mon 06:57]
 :END:
 #+title: The first lesson
 #+hugo_custom_front_matter: :slug "7c49d995-a4d4-4c95-84c0-9dae9d8ab498"
@@ -48,7 +48,7 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   6 |    44.26 | 2023-11-29T13:34:44Z |
+|        0 | 1.90 |   7 |    78.86 | 2024-02-21T11:28:32Z |
 :END:
 *** Source
 [cite:@herbertDune1999]

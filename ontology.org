@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       05cb0686-d54a-46c6-90d3-8679156b4139
-:LAST_MODIFIED: [2023-11-28 Tue 07:01]
+:LAST_MODIFIED: [2023-12-04 Mon 06:55]
 :END:
 #+title: Ontology
 #+hugo_custom_front_matter: :slug "05cb0686-d54a-46c6-90d3-8679156b4139"
@@ -26,15 +26,17 @@ Ontology addresses questions of how entities are grouped into categories and whi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   2 |     2.00 | 2023-11-30T15:01:27Z |
+| front    | 1.30 |   3 |     6.00 | 2023-12-10T14:55:47Z |
 | back     | 2.20 |   7 |   210.50 | 2024-01-01T12:06:36Z |
 :END:
 
 [[id:05cb0686-d54a-46c6-90d3-8679156b4139][Ontology]]
 
 *** Back
+
 1. Branch of [[id:afbde4fc-8907-4d5e-87c7-19a9c5b78b6e][Metaphysics]] dealing with the nature of being
 2. A set of concepts and categories in a subject area or domain that shows their properties and the relations between them
+
 *** Source
 [cite:@Ontology2022]
 * Bibliography

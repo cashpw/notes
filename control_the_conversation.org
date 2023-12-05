@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24cb7271-441f-447e-9150-b4f44fc6d947
-:LAST_MODIFIED: [2023-11-28 Tue 06:57]
+:LAST_MODIFIED: [2023-12-04 Mon 07:00]
 :END:
 #+title: Control the conversation
 #+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
@@ -40,7 +40,7 @@ Make sure people are talking about what you want them to talk about and in ways 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   3 |     6.00 | 2023-11-22T16:09:36Z |
+| front    | 2.20 |   4 |    13.50 | 2023-12-18T02:56:07Z |
 | back     | 2.35 |   8 |   362.88 | 2024-09-18T11:26:09Z |
 :END:
 

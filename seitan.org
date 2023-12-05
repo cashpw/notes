@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       2caa9715-d216-41c4-babb-c6e66364ac6d
 :ROAM_REFS: [cite:@Seitan2022]
-:LAST_MODIFIED: [2023-11-15 Wed 07:18]
+:LAST_MODIFIED: [2023-12-04 Mon 07:09]
 :END:
 #+title: Seitan
 #+hugo_custom_front_matter: :slug "2caa9715-d216-41c4-babb-c6e66364ac6d"
@@ -27,7 +27,7 @@ Seitan is a food made from gluten, the main protein of wheat. [...] It is made b
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   542.92 | 2025-05-11T13:16:49Z |
-| back     | 2.50 |   7 |   195.65 | 2023-11-26T06:26:10Z |
+| back     | 2.50 |   8 |   452.09 | 2025-02-28T17:24:55Z |
 :END:
 
 [[id:2caa9715-d216-41c4-babb-c6e66364ac6d][Seitan]]

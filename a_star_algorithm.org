@@ -2,7 +2,7 @@
 :ID:       4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087
 :ROAM_REFS: [cite:@SearchAlgorithm2022]
 :ROAM_ALIASES: "A* search algorithm" A*
-:LAST_MODIFIED: [2023-11-15 Wed 07:13]
+:LAST_MODIFIED: [2023-12-04 Mon 06:59]
 :END:
 #+title: A-star search algorithm
 #+hugo_custom_front_matter: :slug "4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087"
@@ -55,7 +55,7 @@ By the way, in this context, "optimal" doesn't mean that it reaches the optimal 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   204.76 | 2023-11-30T11:03:44Z |
+| front    | 2.50 |   8 |   465.95 | 2025-03-14T13:43:56Z |
 :END:
 
 Heuristics for [[id:4d3cbeb6-ea82-4e4f-96bb-3e950ebc2087][A-star search algorithm]]

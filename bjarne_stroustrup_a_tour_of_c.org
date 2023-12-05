@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-11-19 Sun 06:26]
+:LAST_MODIFIED: [2023-12-04 Mon 07:09]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -943,7 +943,7 @@ py == &y;
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   218.67 | 2024-05-23T00:13:44Z |
-| back     | 2.35 |   6 |    82.53 | 2023-11-19T01:25:58Z |
+| back     | 2.35 |   7 |   183.14 | 2024-06-04T18:33:16Z |
 :END:
 
 Types composed of fundamental types (e.g. =bool=), the =const= modifier, and declarator operators.
