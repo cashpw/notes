@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba4b74e8-2d33-43ec-bd03-b9ff320ed65a
-:LAST_MODIFIED: [2023-12-04 Mon 07:10]
+:LAST_MODIFIED: [2023-12-05 Tue 06:37]
 :END:
 #+title: Clay shrinkage
 #+hugo_custom_front_matter: :slug "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
@@ -37,13 +37,15 @@ Average clay contains about 20% water and 9% organic matter, thus, finished pots
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |   8 |   472.66 | 2025-03-06T06:26:09Z |
-| front    | 2.80 |   7 |   266.65 | 2023-11-05T07:12:04Z |
+| front    | 2.80 |   8 |   812.46 | 2026-02-25T01:34:48Z |
 :END:
 
 [[id:ba4b74e8-2d33-43ec-bd03-b9ff320ed65a][Clay shrinkage]]
 
 *** Back
+
 The volume change in a clay body between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] and [[id:c23949a7-63c4-4c3f-9101-8d1d233684f4][Glazeware]].
+
 *** Source
 [cite:@FiringShrinkage]
 

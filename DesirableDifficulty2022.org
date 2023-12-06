@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-12-01 Fri 08:45]
+:LAST_MODIFIED: [2023-12-05 Tue 06:29]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -113,13 +113,17 @@ Too difficult a task may dissuade the learner and prevent full processing.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   220.08 | 2023-12-05T00:51:41Z |
+| front    | 2.20 |   1 |     1.00 | 2023-12-06T14:29:00Z |
 | back     | 2.50 |   8 |   476.19 | 2025-02-21T19:07:48Z |
 :END:
+
 Guidelines for [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable difficulty]]
+
 *** Back
+
 - The process at encoding should be the same process at both retrieval and during practice.
 - The task must be able to be accomplished -- too hard a task may dissuade the learner and prevent full learning.
+
 *** Source
 [cite:@DesirableDifficulty2022]
 * Bibliography

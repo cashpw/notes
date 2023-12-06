@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-12-04 Mon 06:58]
+:LAST_MODIFIED: [2023-12-05 Tue 06:35]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -789,7 +789,7 @@ Schedule important work for the time of day when you are most productive/alert/e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   8 |   301.00 | 2024-07-14T23:10:41Z |
-| back     | 2.50 |   7 |   210.79 | 2023-12-03T12:56:43Z |
+| back     | 2.50 |   8 |   561.42 | 2025-06-19T00:39:02Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
@@ -797,9 +797,12 @@ Schedule important work for the time of day when you are most productive/alert/e
 [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loop]]
 
 *** Back
+
 - Set a time limit, start working, and see how far you are into the task when the time limit is up
 - Break a large task down and perform short sprints to assess the complexity and time requirements of the overall task.
+
 *** Source
+
 [cite:@kileBusyPersonPatterns2006]
 ** Describe :fc:
 :PROPERTIES:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-12-04 Mon 07:07]
+:LAST_MODIFIED: [2023-12-05 Tue 06:37]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -512,7 +512,7 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   181.16 | 2023-12-13T17:35:10Z |
-|        1 | 2.35 |   6 |    81.08 | 2023-12-02T14:35:24Z |
+|        1 | 2.35 |   7 |   173.34 | 2024-05-26T22:46:46Z |
 :END:
 
 {{=random.randint(a, b)=}{[[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]}@0} returns a random integer in the range {{$[a, b]$}@1}

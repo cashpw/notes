@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       846cdec4-5f6c-4dd9-99a4-d30ea0b61180
 :ROAM_REFS: [cite:@PassiveHouse2022]
-:LAST_MODIFIED: [2023-11-03 Fri 07:28]
+:LAST_MODIFIED: [2023-12-05 Tue 06:33]
 :END:
 #+title: Passive house
 #+hugo_custom_front_matter: :slug "846cdec4-5f6c-4dd9-99a4-d30ea0b61180"
@@ -30,7 +30,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   154.44 | 2024-04-06T00:58:04Z |
-| back     | 2.35 |   6 |    81.28 | 2023-11-16T20:38:02Z |
+| back     | 2.35 |   7 |   177.45 | 2024-05-31T01:18:42Z |
 :END:
 
 [[id:846cdec4-5f6c-4dd9-99a4-d30ea0b61180][Passive house]]

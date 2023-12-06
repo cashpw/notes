@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d83ff790-f983-4581-a5dd-f5d27be45893
-:LAST_MODIFIED: [2023-12-04 Mon 16:35]
+:LAST_MODIFIED: [2023-12-05 Tue 13:30]
 :ROAM_ALIASES: "The last 10%"
 :END:
 #+title: The last 10%
@@ -55,8 +55,6 @@ They won't come once you build it. They'll come when you sell them on why they s
 - Measure the success of the feature and schedule a check-in after N months to guage effectiveness
 
 * TODO [#2] Extend :noexport:
-- https://news.ycombinator.com/item?id=37055280
-- https://news.ycombinator.com/item?id=36967594
 - Is there a way to find "web pages similar to X" for these two blog posts?
 - Bard/ChatGPT
 * Flashcards :noexport:

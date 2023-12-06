@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d4e2cdbd-7eef-4be4-8457-697115848884
-:LAST_MODIFIED: [2023-10-09 Mon 23:59]
+:LAST_MODIFIED: [2023-12-05 Tue 06:16]
 :ROAM_ALIASES: "Phrasal template"
 :END:
 #+title: Snowclone
@@ -54,7 +54,7 @@ A phrasal template that can be used and recognized in multiple variants; a meme 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   215.06 | 2023-12-04T17:06:11Z |
+| front    | 2.65 |   8 |   542.68 | 2025-05-31T06:39:14Z |
 | back     | 2.05 |   8 |   325.75 | 2024-08-31T00:56:13Z |
 :END:
 

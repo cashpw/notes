@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       526d55d9-0b10-4385-9d87-4860f787e4d0
-:LAST_MODIFIED: [2023-11-28 Tue 09:43]
+:LAST_MODIFIED: [2023-12-05 Tue 16:45]
 :END:
 #+title: Time tracking in Emacs with org-mode
 #+hugo_custom_front_matter: :slug "526d55d9-0b10-4385-9d87-4860f787e4d0"
@@ -12,7 +12,7 @@ Tracking time is key to my [[id:0b3c28aa-ab9a-4a99-8dbf-4f22a6e7dee9][Retrospect
 
 Key points (to expand on later):
 
-- Everything is a TODO (or at least [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][80%]] of things)
+- Everything is a TODO (or at least [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][80\%]] of things)
 - Different files for different flows
   - =todos.org=: Catch-all for TODOs
   - =retrospective.org=: Contains daily/weekly/etc retrospectives
@@ -64,19 +64,19 @@ Items have just the one =SCHEUDLED= property. They can have more than one timest
 My hack-ish fix is to have duplicate TODOs. That is, for an event that has a different time on weekdays and weekends:
 
 #+begin_src org
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-11-27 Mon 10:00-10:30 ++1w>
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-11-28 Tue 10:00-10:30 ++1w>
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-11-29 Wed 10:00-10:30 ++1w>
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-11-30 Thu 10:00-10:30 ++1w>
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-12-01 Fri 10:00-10:30 ++1w>
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-12-02 Sat 08:00-08:30 ++1w>
-* Do the thing
+,* Do the thing
 SCHEDULED: <2023-12-03 Sun 08:00-08:30 ++1w>
 #+end_src
 

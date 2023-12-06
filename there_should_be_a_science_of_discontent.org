@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       92b87e35-87c9-4911-a95e-200ca365361d
-:LAST_MODIFIED: [2023-12-04 Mon 07:00]
+:LAST_MODIFIED: [2023-12-05 Tue 06:25]
 :END:
 #+title: There should be a science of discontent
 #+hugo_custom_front_matter: :slug "92b87e35-87c9-4911-a95e-200ca365361d"
@@ -60,7 +60,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   194.17 | 2023-12-02T18:03:27Z |
+|        0 | 2.35 |   8 |   461.91 | 2025-03-11T12:20:13Z |
 :END:
 
 *** Source

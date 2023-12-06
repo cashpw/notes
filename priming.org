@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4843cffc-e15a-48c2-8244-df6d92622a1c
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-12-05 Tue 06:26]
 :END:
 #+title: Priming
 #+hugo_custom_front_matter: :slug "4843cffc-e15a-48c2-8244-df6d92622a1c"
@@ -20,9 +20,11 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  11 |   403.10 | 2024-06-05T01:03:22Z |
-| front    | 2.20 |   8 |   274.12 | 2023-11-27T19:13:00Z |
+| front    | 2.05 |   9 |   577.89 | 2025-07-05T11:53:23Z |
 :END:
+
 A phenomenon whereby exposure to one stimulus influences a response to a subsequent stimulus without conscious guidance or intention.
+
 *** Source
 [cite:@PrimingPsychology2022]
 * Bibliography

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
 :ROAM_REFS: [cite:@Determinant2022]
-:LAST_MODIFIED: [2023-12-04 Mon 07:12]
+:LAST_MODIFIED: [2023-12-05 Tue 06:38]
 :END:
 #+title: Determinant
 #+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
@@ -155,7 +155,7 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   347.81 | 2024-04-20T12:34:18Z |
-|        1 | 1.90 |   8 |   162.88 | 2023-12-05T14:23:22Z |
+|        1 | 1.90 |   9 |   331.60 | 2024-11-01T05:06:31Z |
 :END:
 
 {{$|\operatorname{det}(A)|$}@0} represents {{the factor by which $A$ scales areas/volumes}{geometric}@1}.

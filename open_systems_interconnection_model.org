@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-12-04 Mon 06:55]
+:LAST_MODIFIED: [2023-12-05 Tue 06:32]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -130,12 +130,13 @@ A conceptual model for abstract network connections.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   251.94 | 2024-05-28T22:20:54Z |
-| back     | 2.50 |   0 |     0.00 | 2023-11-08T16:28:52Z |
+| back     | 2.50 |   0 |     0.00 | 2023-12-05T14:32:23Z |
 :END:
 
 [[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
 
 *** Back
+
 Layer responsible for transmission and reception of unstructured raw data between a device (e.g. network switch) and a physical transmission medium (e.g. fiber optic cable).
 *** Source
 [cite:@OSIModel2023]
@@ -202,14 +203,16 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |   100.64 | 2023-11-17T06:21:18Z |
+| front    | 2.05 |   0 |     0.00 | 2023-12-05T14:21:53Z |
 | back     | 2.20 |   2 |     2.00 | 2023-09-10T16:18:09Z |
 :END:
 
 [[id:4776c8f6-742f-4a7e-b059-d1c2c421552e][Data link layer (OSI model)]]
 
 *** Back
+
 This layer provides node-to-node data transfer (e.g. network switch to network switch)
+
 *** Source
 [cite:@OSIModel2023]
 ** Describe :fc:

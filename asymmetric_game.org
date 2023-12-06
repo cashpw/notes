@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ad6e2800-e722-4fc0-90e7-a6f895c16100
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-05 Tue 06:39]
 :END:
 #+title: Asymmetric game
 #+hugo_custom_front_matter: :slug "ad6e2800-e722-4fc0-90e7-a6f895c16100"
@@ -48,7 +48,7 @@ A game in which the identities of the players are non-fungible; the players have
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   276.47 | 2024-05-03T12:34:44Z |
-| back     | 2.35 |   7 |   201.37 | 2023-12-01T01:17:04Z |
+| back     | 2.35 |   8 |   500.93 | 2025-04-19T12:53:19Z |
 :END:
 
 [[id:ad6e2800-e722-4fc0-90e7-a6f895c16100][Asymmetric game]]

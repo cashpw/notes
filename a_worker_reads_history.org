@@ -2,7 +2,7 @@
 :ID:       5ad7ef93-a1e3-4b69-85bc-b5c5c550df73
 :ROAM_REFS: [cite:@bertholtWorkerReadsHistory]
 :ROAM_ALIASES: "A worker reads history" "Who built the seven gates of Thebes?"
-:LAST_MODIFIED: [2023-11-16 Thu 08:08]
+:LAST_MODIFIED: [2023-12-05 Tue 06:30]
 :END:
 #+title: Bertolt Brecht | A worker reads history
 #+hugo_custom_front_matter: :slug "5ad7ef93-a1e3-4b69-85bc-b5c5c550df73"
@@ -78,7 +78,7 @@ One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   186.10 | 2023-12-03T17:52:44Z |
+|        0 | 2.05 |   8 |   377.82 | 2024-12-17T10:11:49Z |
 :END:
 
 *** Source

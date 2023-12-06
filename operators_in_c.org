@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-12-04 Mon 06:52]
+:LAST_MODIFIED: [2023-12-05 Tue 06:24]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -398,7 +398,7 @@ auto* p = &v[1];
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   3 |     6.00 | 2023-11-22T15:44:51Z |
+| front    | 1.60 |   4 |    10.16 | 2023-12-15T18:16:07Z |
 | back     | 2.50 |   2 |     2.00 | 2023-11-16T15:23:09Z |
 :END:
 

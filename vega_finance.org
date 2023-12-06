@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f54153f5-fc44-41ce-b4dd-4274c95fbcec
-:LAST_MODIFIED: [2023-11-17 Fri 07:55]
+:LAST_MODIFIED: [2023-12-05 Tue 06:35]
 :END:
 #+title: Vega (finance)
 #+hugo_custom_front_matter: :slug "f54153f5-fc44-41ce-b4dd-4274c95fbcec"
@@ -55,11 +55,12 @@ Vega can be an important Greek to monitor for an option trader, especially in vo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   195.69 | 2023-11-27T09:54:58Z |
+| front    | 2.50 |   8 |   500.10 | 2025-04-18T16:54:41Z |
 | back     | 2.20 |   8 |   377.20 | 2024-11-27T21:06:06Z |
 :END:
 
 [[id:f54153f5-fc44-41ce-b4dd-4274c95fbcec][Vega (finance)]]
+
 *** Back
 - The change in a [[id:7edbf731-5e0c-4eda-9803-1b1a88468f71][Derivative (finance)]] value per 1%-point change in the underlying asset's volatility
 - The [[id:555a96ec-560f-4087-939f-5985f0ad0cb6][Derivative (math)]] of the [[id:7edbf731-5e0c-4eda-9803-1b1a88468f71][Derivative (finance)]] value with respect to the underlying asset's volatility

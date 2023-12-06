@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1165158c-add0-4564-a962-7a30c223f477
-:LAST_MODIFIED: [2023-11-03 Fri 07:46]
+:LAST_MODIFIED: [2023-12-05 Tue 06:39]
 :END:
 #+title: Murc's law
 #+hugo_custom_front_matter: :slug "1165158c-add0-4564-a962-7a30c223f477"
@@ -32,15 +32,17 @@ In other words, Democrats are responsible for Republicans being the way they are
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   5 |    34.68 | 2023-12-08T07:09:32Z |
-| back     | 2.50 |   4 |    15.05 | 2023-11-01T09:15:54Z |
+| back     | 2.50 |   5 |    35.58 | 2024-01-10T04:32:33Z |
 :END:
 
 [[id:1165158c-add0-4564-a962-7a30c223f477][Murc's law]]
 
 *** Back
+
 #+begin_quote
 The widespread assumption that only Democrats have any agency or causal influence over American politics.
 #+end_quote
+
 *** Source
 [cite:@MurcLaw]
 * Bibliography

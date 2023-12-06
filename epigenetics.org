@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dfedabd5-be47-45ba-9182-f509e2f906fe
-:LAST_MODIFIED: [2023-09-27 Wed 09:08]
+:LAST_MODIFIED: [2023-12-05 Tue 06:20]
 :ROAM_REFS: [cite:@Epigenetics2023]
 :END:
 #+title: Epigenetics
@@ -26,14 +26,16 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   178.86 | 2023-12-05T12:21:32Z |
+| front    | 2.35 |   8 |   409.90 | 2025-01-18T11:58:20Z |
 | back     | 2.80 |   7 |   405.18 | 2024-11-05T20:23:50Z |
 :END:
 
 (Colloquially) [[id:dfedabd5-be47-45ba-9182-f509e2f906fe][Epigenetics]]
 
 *** Back
+
 Anything other than DNA sequence which influences the development of an organism.
+
 *** Source
 [cite:@Epigenetics2023]
 * Bibliography

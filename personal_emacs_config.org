@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a875dc68-73f7-44c6-9ee2-09e131e2778b
-:LAST_MODIFIED: [2023-11-28 Tue 08:17]
+:LAST_MODIFIED: [2023-12-05 Tue 16:47]
 :END:
 #+title: Personal emacs config
 #+hugo_custom_front_matter: :slug "a875dc68-73f7-44c6-9ee2-09e131e2778b"

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-04 Mon 06:52]
+:LAST_MODIFIED: [2023-12-05 Tue 06:34]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -893,13 +893,14 @@ $\vec{a} \otimes \vec{b}$ $=$ $\begin{bmatrix} \vec{a}_1 \vec{b}_1 & \vec{a}_1 \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   5 |    30.77 | 2023-11-18T08:05:15Z |
+| back     | 2.20 |   6 |    63.35 | 2024-02-06T22:46:54Z |
 | front    | 2.65 |   8 |   376.45 | 2024-03-20T13:47:30Z |
 :END:
 
 Rank deficient
 
 *** Back
+
 A matrix that does not have full rank; whose rank is less than the lesser of the number of its rows and columns.
 
 *** Source
@@ -1326,7 +1327,7 @@ Permutation matrix
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   8 |   595.21 | 2025-06-03T13:01:53Z |
-|        1 | 2.30 |  10 |   234.29 | 2023-10-05T00:27:53Z |
+|        1 | 2.30 |  11 |   574.67 | 2025-07-02T06:37:27Z |
 :END:
 *** Source
 [cite:@DotProduct2022]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-12-04 Mon 06:53]
+:LAST_MODIFIED: [2023-12-05 Tue 06:31]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -431,7 +431,7 @@ Asymptote
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    97.18 | 2023-12-04T19:19:35Z |
+|        0 | 2.50 |   7 |   245.66 | 2024-08-07T06:21:41Z |
 |        1 | 2.35 |   7 |   181.95 | 2023-10-08T14:28:50Z |
 :END:
 *** Source
@@ -1120,7 +1120,7 @@ Population variance
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   309.52 | 2023-12-03T02:41:15Z |
+|        0 | 2.65 |   9 |   790.39 | 2026-02-02T23:43:04Z |
 |        1 | 2.50 |   8 |   305.47 | 2024-01-04T02:13:36Z |
 :END:
 
@@ -1382,7 +1382,7 @@ The probability function of a probability space. The mathematical function that 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   281.26 | 2023-11-25T09:46:57Z |
+| back     | 2.50 |   9 |   769.46 | 2026-01-13T01:28:45Z |
 | front    | 2.35 |   3 |     6.00 | 2023-10-17T21:10:38Z |
 :END:
 

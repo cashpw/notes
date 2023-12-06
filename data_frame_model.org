@@ -1,12 +1,16 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2023-09-11 Mon 08:06]
+:LAST_MODIFIED: [2023-12-05 Tue 06:12]
+:ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
 #+hugo_custom_front_matter: :slug "98a0ed99-a6a1-4b05-aa8e-0261402cc961"
 #+author: Cash Prokop-Weaver
 #+date: [2023-09-11 Mon 07:57]
 #+filetags: :hastodo:concept:
+
+The way we understand the world ([[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]]) affects the information we perceive, and vice versa.
+
 * TODO [#0]
 see [[id:91231c59-e232-4c0a-8eeb-b3d681c88825][Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]]
 * TODO [#2] Flashcards :noexport:

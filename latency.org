@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-11-16 Thu 08:07]
+:LAST_MODIFIED: [2023-12-05 Tue 06:30]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -126,14 +126,16 @@ Amount of time required for a message to travel from the sender to receiver, whi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   4 |     9.96 | 2023-11-18T15:30:32Z |
+| front    | 1.75 |   5 |    18.86 | 2023-12-24T11:03:07Z |
 | back     | 2.20 |   0 |     0.00 | 2023-11-03T14:34:44Z |
 :END:
 
 Transmission delay
 
 *** Back
+
 Amount of time required to push all the packet's bits into the link, which is a function of the packet's length and data rate of the link.
+
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
 ** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:
@@ -146,7 +148,7 @@ Amount of time required to push all the packet's bits into the link, which is a 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   5 |    20.62 | 2023-12-05T06:14:08Z |
+| front    | 2.05 |   6 |    44.59 | 2024-01-19T04:44:48Z |
 | back     | 2.35 |   6 |    75.86 | 2023-11-11T10:18:30Z |
 :END:
 

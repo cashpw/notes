@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@bostromFableDragonTyrant2005]
 :ID:       2a13c6a7-c74c-408b-b30e-69a18c9ad9ab
-:LAST_MODIFIED: [2023-12-04 Mon 07:01]
+:LAST_MODIFIED: [2023-12-05 Tue 06:31]
 :END:
 #+title: Nick Bostrom | The Fable of the Dragon Tyrant
 #+hugo_custom_front_matter: :slug "2a13c6a7-c74c-408b-b30e-69a18c9ad9ab"
@@ -149,12 +149,16 @@ The king stepped off the platform and walked up to the young man in handcuffs, w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   294.20 | 2023-11-23T20:33:42Z |
+| front    | 2.65 |   8 |   769.84 | 2026-01-13T10:27:38Z |
 | back     | 2.80 |   7 |   294.20 | 2023-12-06T20:45:41Z |
 :END:
+
 [[id:2a13c6a7-c74c-408b-b30e-69a18c9ad9ab][The Fable of the Dragon Tyrant]]
+
 *** Back
+
 A parable which contextualizes human death as something to be defeated.
+
 *** Source
 [cite:@bostromFableDragonTyrant2005]
 ** Source :fc:
@@ -167,7 +171,7 @@ A parable which contextualizes human death as something to be defeated.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-12-04T15:01:31Z |
+| front    | 2.50 |   1 |     1.00 | 2023-12-06T14:31:56Z |
 :END:
 
 [[id:2a13c6a7-c74c-408b-b30e-69a18c9ad9ab][The Fable of the Dragon Tyrant]]
