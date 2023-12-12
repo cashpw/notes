@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@thompsonCalculusMadeEasy1914]
 :ID:       9486d469-bfc8-46d9-9096-cb9c00a2628c
-:LAST_MODIFIED: [2023-12-04 Mon 07:01]
+:LAST_MODIFIED: [2023-12-08 Fri 09:54]
 :END:
 #+title: Silvanus Thompson | Calculus Made Easy
 #+hugo_custom_front_matter: :slug "9486d469-bfc8-46d9-9096-cb9c00a2628c"
@@ -535,7 +535,7 @@ General, [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]], approach
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   427.91 | 2024-11-12T10:36:15Z |
-|        1 | 2.35 |   6 |    59.32 | 2023-12-08T14:42:02Z |
+|        1 | 2.35 |   7 |   151.94 | 2024-05-08T16:22:53Z |
 :END:
 
 To {{[[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiate]]}@0} is to find the {{differential [[id:8163639a-02be-4d0e-9aad-b2f4c676f125][Coefficient]]}@1}.
@@ -593,7 +593,7 @@ $\frac{dy}{dx}=$ {{$3x^2$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   3 |     6.00 | 2023-12-04T15:15:10Z |
+| front    | 1.45 |   4 |     9.20 | 2023-12-16T19:22:02Z |
 :END:
 
 How to find the first derivative of $y = z \times w$ with respect to $x$ where $z,w$ are expressions in terms of $x$

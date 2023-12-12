@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ad51c11-995b-4437-a218-82df11697f7a
-:LAST_MODIFIED: [2023-10-16 Mon 00:27]
+:LAST_MODIFIED: [2023-12-09 Sat 08:56]
 :END:
 #+title: Iterative deepening depth-first-search
 #+hugo_custom_front_matter: :slug "0ad51c11-995b-4437-a218-82df11697f7a"
@@ -80,12 +80,16 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   8 |   841.01 | 2026-02-03T07:36:36Z |
-| back     | 2.65 |   7 |   252.48 | 2023-12-05T03:47:35Z |
+| back     | 2.65 |   8 |   674.83 | 2025-10-14T12:49:36Z |
 :END:
+
 [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+
 *** Back
+
 - A modified version of [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] which is depth-limited and slowly expands its depth.
 - Has a lower memory requirement than [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]
+
 *** Source
 [cite:@IterativeDeepeningDepthfirstSearch2021]
 ** Implement :fc:implement:

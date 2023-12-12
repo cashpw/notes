@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       07bbf4c0-e3bb-4689-9009-2cdb0404944d
 :ROAM_REFS: [cite:@ProgressiveOverload2023]
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-12-08 Fri 09:51]
 :END:
 #+title: Progressive overload
 #+hugo_custom_front_matter: :slug "07bbf4c0-e3bb-4689-9009-2cdb0404944d"
@@ -26,12 +26,13 @@ Progressive overload is a method of strength training and hypertrophy training t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |   104.42 | 2023-12-14T04:41:27Z |
-| back     | 2.50 |   6 |    89.86 | 2023-11-27T11:52:34Z |
+| back     | 2.35 |   7 |   207.13 | 2024-07-02T20:53:19Z |
 :END:
 
 [[id:07bbf4c0-e3bb-4689-9009-2cdb0404944d][Progressive overload]]
 
 *** Back
+
 #+begin_quote
 [...] is a method of strength training and hypertrophy training that advocates for the gradual increase of the stress placed upon the musculoskeletal and nervous system.
 #+end_quote

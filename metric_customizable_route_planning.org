@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b349f179-9181-40e6-a6e9-b1f065ba6abe
-:LAST_MODIFIED: [2023-10-02 Mon 23:25]
+:LAST_MODIFIED: [2023-12-08 Fri 09:50]
 :END:
 #+title: Metric (Customizable route planning)
 #+hugo_custom_front_matter: :slug "b349f179-9181-40e6-a6e9-b1f065ba6abe"
@@ -25,13 +25,14 @@ The metric encodes the actual cost of traversing a road segment or taking a turn
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    98.10 | 2023-12-05T17:32:10Z |
-| back     | 2.20 |   5 |    29.25 | 2023-11-01T12:29:10Z |
+| front    | 2.50 |   7 |   255.91 | 2024-08-19T12:11:18Z |
+| back     | 2.20 |   6 |    69.74 | 2024-02-16T11:39:25Z |
 :END:
 
 [[id:b349f179-9181-40e6-a6e9-b1f065ba6abe][Metric (Customizable route planning)]]
 
 *** Back
+
 That which encodes the actual cost of traversing a road segment, or of making a turn.
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]

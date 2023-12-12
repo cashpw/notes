@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       054a9fb8-f19c-4bd6-8445-c5f8c3f30a25
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-12-09 Sat 08:54]
 :END:
 #+title: Projection (Linear algebra)
 #+hugo_custom_front_matter: :slug "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
@@ -38,7 +38,7 @@ Create notes for each of the links in the above quote. I think I have flashcards
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.20 |   8 |   230.04 | 2024-03-12T03:49:34Z |
-|        0 | 2.50 |   7 |   218.22 | 2023-12-08T22:06:28Z |
+|        0 | 2.50 |   8 |   562.90 | 2025-06-24T14:37:00Z |
 :END:
 
 - {{$\operatorname{proj}_{\vec{b}}(\vec{a})$}@1}
@@ -60,7 +60,7 @@ Create notes for each of the links in the above quote. I think I have flashcards
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   403.50 | 2024-09-15T02:55:42Z |
-|        1 | 2.35 |   7 |   198.30 | 2023-12-06T21:06:23Z |
+|        1 | 2.05 |   1 |     1.00 | 2023-12-09T17:55:09Z |
 :END:
 
 {{$\operatorname{proj}_{\vec{b}}(\vec{a})$}@0} $=$ {{$\frac{\vec{a} \cdot \vec{b}}{\vec{b} \cdot \vec{b}}\vec{b}$}@1}

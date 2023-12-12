@@ -2,7 +2,7 @@
 :ID:       19124270-bb87-450d-8726-fe6aae18716f
 :ROAM_REFS: [cite:@ExplicitKnowledge2022]
 :ROAM_ALIASES: "Expressive knowledge"
-:LAST_MODIFIED: [2023-11-17 Fri 07:55]
+:LAST_MODIFIED: [2023-12-08 Fri 09:50]
 :END:
 #+title: Explicit knowledge
 #+hugo_custom_front_matter: :slug "19124270-bb87-450d-8726-fe6aae18716f"
@@ -54,7 +54,7 @@ Knowledge which can be readily articulated, codified, stored, and accessed.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   334.91 | 2024-05-12T21:56:18Z |
-| back     | 1.75 |   1 |     1.00 | 2023-11-18T15:55:38Z |
+| back     | 1.75 |   2 |     2.00 | 2023-12-10T17:50:18Z |
 :END:
 
 [[id:19124270-bb87-450d-8726-fe6aae18716f][Explicit knowledge]]

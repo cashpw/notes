@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ef21ad22-553d-432e-a4e2-bdc404009c87
-:LAST_MODIFIED: [2023-11-03 Fri 07:44]
+:LAST_MODIFIED: [2023-12-08 Fri 09:49]
 :END:
 #+title: Delta (finance)
 #+hugo_custom_front_matter: :slug "ef21ad22-553d-432e-a4e2-bdc404009c87"
@@ -39,12 +39,13 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   250.95 | 2024-01-06T17:32:30Z |
-| back     | 2.65 |   7 |   209.60 | 2023-11-27T13:50:05Z |
+| back     | 2.65 |   8 |   538.92 | 2025-05-30T15:48:59Z |
 :END:
 
 [[id:ef21ad22-553d-432e-a4e2-bdc404009c87][Delta (options)]]
 
 *** Back
+
 - Estimates the change in price for a derivative given a 1-point change in its underlying security.
 - The first derivative of a derivative's value, $V$, with respect to the underlying instrument's price, $S$
 

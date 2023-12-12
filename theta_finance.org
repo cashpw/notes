@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       52a7a44e-dbca-4eae-974a-b7185c2c97b7
 :ROAM_ALIASES: "Time decay"
-:LAST_MODIFIED: [2023-11-03 Fri 07:43]
+:LAST_MODIFIED: [2023-12-07 Thu 06:22]
 :END:
 #+title: Theta (finance)
 #+hugo_custom_front_matter: :slug "52a7a44e-dbca-4eae-974a-b7185c2c97b7"
@@ -57,7 +57,7 @@ The value of an option can be analysed into two parts: the [[id:04af40d8-212f-47
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   418.59 | 2024-11-17T03:25:17Z |
-|        1 | 2.20 |   7 |   146.15 | 2023-12-07T04:28:11Z |
+|        1 | 2.05 |   8 |   292.30 | 2024-09-24T21:37:02Z |
 :END:
 
 *** Source

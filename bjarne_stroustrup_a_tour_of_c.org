@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-12-05 Tue 06:28]
+:LAST_MODIFIED: [2023-12-09 Sat 08:51]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -808,13 +808,15 @@ Roughly, "I promise not to change this value".
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   202.50 | 2024-06-06T04:03:14Z |
-| back     | 1.75 |   6 |    33.29 | 2023-11-20T20:48:18Z |
+| back     | 1.75 |   7 |    61.61 | 2024-02-08T08:33:23Z |
 :END:
 
 =constexpr= (C++)
 
 *** Back
+
 Roughly, "To be evaluated at compile time"
+
 *** Source
 [cite:@stroustrupTour2022]
 ** Cloze :fc:
@@ -847,7 +849,7 @@ Roughly, "To be evaluated at compile time"
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   2 |     2.00 | 2023-11-17T15:15:02Z |
+| front    | 2.05 |   3 |     6.00 | 2023-12-13T14:26:05Z |
 :END:
 
 =constexpr= and =consteval= (C++ functions)
@@ -980,7 +982,7 @@ Types composed of fundamental types (e.g. =bool=), the =const= modifier, and dec
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   197.10 | 2024-05-14T17:22:15Z |
-| back     | 2.05 |   6 |    55.65 | 2023-11-16T05:51:35Z |
+| back     | 2.05 |   7 |   121.66 | 2024-04-09T08:35:54Z |
 :END:
 
 Declarations

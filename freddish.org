@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       99e14785-13bb-420c-b0b5-b14bad1bd163
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-12-09 Sat 08:50]
 :END:
 #+title: Freddish
 #+hugo_custom_front_matter: :slug "99e14785-13bb-420c-b0b5-b14bad1bd163"
@@ -51,7 +51,7 @@ Per the pamphlet, there were nine steps for translating into Freddish:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   255.06 | 2023-12-09T04:37:49Z |
+|        0 | 2.65 |   8 |   718.31 | 2025-11-27T00:12:51Z |
 |        1 | 3.10 |   7 |   440.64 | 2024-10-12T06:25:50Z |
 :END:
 
@@ -110,7 +110,7 @@ A set of language patterns for talking with children which anticipates and prote
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   251.93 | 2023-12-17T14:01:05Z |
-|        1 | 2.20 |   7 |   197.56 | 2023-11-20T07:11:31Z |
+|        1 | 2.20 |   8 |   456.74 | 2025-03-09T11:36:57Z |
 :END:
 
 *** Source

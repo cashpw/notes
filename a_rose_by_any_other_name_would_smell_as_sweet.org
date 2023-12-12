@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8976f641-f94b-488f-8fbf-1679c0185957
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-07 Thu 06:30]
 :END:
 #+title: A rose by any other name would smell as sweet
 #+hugo_custom_front_matter: :slug "8976f641-f94b-488f-8fbf-1679c0185957"
@@ -14,9 +14,6 @@ The reference is used to state that the names of things do not affect what they 
 [cite:@RoseAnyOtherNameWouldSmellSweet2022]
 #+end_quote
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** A rose by {{any other name would smell as sweet.}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 11:38]
@@ -29,7 +26,7 @@ The reference is used to state that the names of things do not affect what they 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   202.36 | 2023-12-01T00:27:22Z |
+|        0 | 2.35 |   8 |   436.59 | 2025-02-16T04:43:57Z |
 :END:
 
 *** Source

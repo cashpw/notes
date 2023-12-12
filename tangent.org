@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44aea0ad-06fe-4c46-83c3-53b6a78591c3
-:LAST_MODIFIED: [2023-11-08 Wed 08:38]
+:LAST_MODIFIED: [2023-12-09 Sat 08:56]
 :END:
 #+title: Tangent (Trigonometry)
 #+hugo_custom_front_matter: :slug "44aea0ad-06fe-4c46-83c3-53b6a78591c3"
@@ -76,7 +76,7 @@ Graph \(f(x) = \tan(x)\)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   287.11 | 2024-02-10T17:12:45Z |
-|        1 | 2.35 |   7 |   216.57 | 2023-12-09T07:36:56Z |
+|        1 | 2.35 |   8 |   512.83 | 2025-05-05T12:48:43Z |
 :END:
 
 {{$\tan(\theta)$}{function}@0} \(=\) {{$\frac{\sin(\theta)}{\cos(\theta)}$}{functions}@1}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-12-05 Tue 06:31]
+:LAST_MODIFIED: [2023-12-09 Sat 08:50]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -33,7 +33,7 @@ A person who attacks cherished beliefs or institutions
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 3.25 |   6 |   257.52 | 2023-11-15T04:40:46Z |
+| back     | 3.25 |   7 |   805.49 | 2026-02-20T02:10:57Z |
 | front    | 2.50 |   6 |    79.25 | 2023-05-01T06:12:30Z |
 :END:
 - A person who reasons with cleaver but fallacious arguments
@@ -764,7 +764,7 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   6 |    34.15 | 2023-12-06T18:50:10Z |
+| front    | 1.75 |   7 |    63.26 | 2024-02-10T23:02:05Z |
 | back     | 2.35 |   4 |    15.45 | 2023-03-24T04:14:39Z |
 :END:
 
@@ -826,7 +826,7 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-12-06T14:24:54Z |
+| front    | 2.50 |   2 |     2.00 | 2023-12-10T17:40:14Z |
 | back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:45Z |
 :END:
 

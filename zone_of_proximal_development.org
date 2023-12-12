@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d85e93d5-5a6b-449e-b39e-e0f2609fd532
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2023-12-07 Thu 06:42]
 :END:
 #+title: Zone of proximal development
 #+hugo_custom_front_matter: :slug "d85e93d5-5a6b-449e-b39e-e0f2609fd532"
@@ -35,7 +35,7 @@ The zone of proximal development is an area of learning that occurs when a perso
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   454.29 | 2024-10-22T21:52:23Z |
-| back     | 1.90 |   7 |    75.48 | 2023-11-12T00:21:51Z |
+| back     | 1.75 |   8 |   141.01 | 2024-04-26T14:53:42Z |
 :END:
 
 [[id:d85e93d5-5a6b-449e-b39e-e0f2609fd532][Zone of proximal development]]

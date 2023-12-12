@@ -2,7 +2,7 @@
 :ID:       98aa84db-bb35-46c2-ae0e-c73b2a9c1666
 :ROAM_REFS: [cite:@SimultaneousGame2022]
 :ROAM_ALIASES: "Static game"
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-12-07 Thu 06:31]
 :END:
 #+title: Simultaneous game
 #+hugo_custom_front_matter: :slug "98aa84db-bb35-46c2-ae0e-c73b2a9c1666"
@@ -34,7 +34,7 @@ Contrast with a [[id:bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b][Sequential game]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   413.01 | 2024-08-11T17:43:46Z |
-|        1 | 2.20 |   7 |   196.12 | 2023-12-06T23:24:32Z |
+|        1 | 2.20 |   8 |   464.41 | 2025-03-16T00:28:45Z |
 :END:
 
 - {{[[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]]}@0}

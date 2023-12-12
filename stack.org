@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5ab783c7-9a13-42d2-920d-95f103ac677c
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-08 Fri 09:43]
 :END:
 #+title: Stack
 #+hugo_custom_front_matter: :slug "5ab783c7-9a13-42d2-920d-95f103ac677c"
@@ -75,14 +75,18 @@ Common API of a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   337.12 | 2024-02-23T18:38:15Z |
-| back     | 2.95 |   7 |   270.80 | 2023-12-01T12:37:47Z |
+| back     | 2.95 |   8 |   852.84 | 2026-04-09T13:53:31Z |
 :END:
+
 [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+
 *** Back
+
 A collection of elements, maintained in [[id:21c0c229-16c5-4eb8-bd12-e1947c5c47f3][Last in, first out]] order, with two main operations:
 
 1. Push: Adds an element to the collection
 2. Pop: Removes the most recently added element
+
 *** Source
 [cite:@StackAbstractDataType2022]
 * Bibliography

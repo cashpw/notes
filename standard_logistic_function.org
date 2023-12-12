@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a9bbc185-640a-4182-8bc8-ba43325f0c19
 :ROAM_REFS: [cite:@LogisticFunction2022]
-:LAST_MODIFIED: [2023-11-28 Tue 07:11]
+:LAST_MODIFIED: [2023-12-07 Thu 06:33]
 :END:
 #+title: Logistic function
 #+hugo_custom_front_matter: :slug "a9bbc185-640a-4182-8bc8-ba43325f0c19"
@@ -62,7 +62,7 @@ $\operatorname{fn}(x)$ $=$ $\displaystyle \frac{1}{1 + e^{-x}}$ $=$ $\displaysty
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.05 |  25 |   380.90 | 2024-09-29T12:53:59Z |
-| front    | 1.30 |   8 |    19.58 | 2023-12-07T05:51:43Z |
+| front    | 1.30 |   9 |    23.14 | 2023-12-30T17:58:42Z |
 :END:
 
 [[id:a9bbc185-640a-4182-8bc8-ba43325f0c19][Logistic function]]

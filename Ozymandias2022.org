@@ -3,7 +3,7 @@
 :ID:       7aa8dfb5-3aba-45b6-a6b5-0e718403d237
 :DIR:      /home/cashweaver/proj/roam/attachments/7aa8dfb5-3aba-45b6-a6b5-0e718403d237
 :ROAM_ALIASES: "Nothing beside remains" "The lone and level sands stretch far away" "Look on my works, ye Mighty, and despair!" "Ozymandias (Poem)"
-:LAST_MODIFIED: [2023-12-04 Mon 07:00]
+:LAST_MODIFIED: [2023-12-09 Sat 08:53]
 :END:
 #+title: Percy Bysshe Shelley | Ozymandias
 #+hugo_custom_front_matter: :slug "7aa8dfb5-3aba-45b6-a6b5-0e718403d237"
@@ -45,7 +45,7 @@ The lone and level sands stretch far away."
 |        0 | 2.95 |   7 |   407.85 | 2024-08-05T09:44:37Z |
 |        1 | 2.80 |   7 |   356.78 | 2024-06-08T22:47:13Z |
 |        2 | 1.30 |   9 |    26.44 | 2023-12-28T03:14:26Z |
-|        3 | 1.30 |   2 |     2.00 | 2023-12-06T15:00:23Z |
+|        3 | 1.30 |   3 |     6.00 | 2023-12-13T14:23:31Z |
 |        4 | 1.30 |  10 |    87.97 | 2023-12-15T15:04:04Z |
 |        5 | 1.30 |   8 |    24.30 | 2023-11-05T04:30:09Z |
 |        6 | 1.30 |   9 |    35.88 | 2023-11-21T04:38:04Z |
@@ -118,7 +118,7 @@ The lone and level sands stretch far away."
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   5 |    18.02 | 2023-12-07T14:49:48Z |
+|        0 | 2.05 |   6 |    34.67 | 2024-01-13T09:01:17Z |
 :END:
 * Bibliography
 #+print_bibliography:

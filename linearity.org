@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5180515a-c694-49fb-ac2e-9718fe501f38
 :ROAM_REFS: [cite:@Linearity2022]
-:LAST_MODIFIED: [2023-11-15 Wed 07:27]
+:LAST_MODIFIED: [2023-12-07 Thu 06:41]
 :ROAM_ALIASES: "Superposition principle"
 :END:
 #+title: Linearity
@@ -33,7 +33,7 @@ These properties are known as the superposition principle. In this definition, x
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |  16 |   317.79 | 2024-01-31T12:32:13Z |
-| front    | 2.35 |   4 |    13.32 | 2023-11-27T23:08:16Z |
+| front    | 2.35 |   5 |    32.22 | 2024-01-08T20:04:57Z |
 :END:
 
 [[id:5180515a-c694-49fb-ac2e-9718fe501f38][Superposition principle]]

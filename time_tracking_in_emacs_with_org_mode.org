@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       526d55d9-0b10-4385-9d87-4860f787e4d0
-:LAST_MODIFIED: [2023-12-05 Tue 16:45]
+:LAST_MODIFIED: [2023-12-09 Sat 14:37]
 :END:
 #+title: Time tracking in Emacs with org-mode
 #+hugo_custom_front_matter: :slug "526d55d9-0b10-4385-9d87-4860f787e4d0"
@@ -10,15 +10,15 @@
 
 Tracking time is key to my [[id:0b3c28aa-ab9a-4a99-8dbf-4f22a6e7dee9][Retrospective]] habit(s). I track my personal and professional time in [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]].
 
-Key points (to expand on later):
+Key points:
 
-- Everything is a TODO (or at least [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][80\%]] of things)
+- Everything is a =TODO= (or at least [[id:f49b7372-f38a-470e-8e1f-d26a64ff4992][80%]] of things)
 - Different files for different flows
   - =todos.org=: Catch-all for TODOs
   - =retrospective.org=: Contains daily/weekly/etc retrospectives
-- Use =org-clock= to track time
+- Track time with =org-clock=
 - [[id:a875dc68-73f7-44c6-9ee2-09e131e2778b][Personal emacs config]] provides agenda views, customized clock-in and clock-out behavior, [[github:cashpw/clocktable-by-category][=clocktable-by-category=]] for retrospectives
-- Use =org-agenda= and =org-super-agenda= for agenda views (see [[id:a875dc68-73f7-44c6-9ee2-09e131e2778b][Personal emacs config]])
+- View =TODO=s with =org-agenda= and =org-super-agenda= (see [[id:a875dc68-73f7-44c6-9ee2-09e131e2778b][Personal emacs config]])
 
 * Workflow
 ** Daily
@@ -49,7 +49,7 @@ Then, at the end of the day I do a brief retrospective:
 5. Open my agenda view for planning the week (see [[id:a875dc68-73f7-44c6-9ee2-09e131e2778b][Personal emacs config]])
 6. Schedule items such that I'm 60-80% booked each day; leave [[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]] in my schedule for unexpected items or for those which take more time than expected
 
-* Schedule events for multiple days
+* Scheduling [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]] events for different times on different days
 
 Some of my TODOs have schedules which don't mesh with [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]]'s model of deadlines and scheduling. [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]] doesn't support scheduling a TODO for more than one time:
 
@@ -59,7 +59,7 @@ Scheduling an item in Org mode should not be understood in the same way that we 
 [cite:@DeadlinesSchedulingOrgManual]
 #+end_quote
 
-Items have just the one =SCHEUDLED= property. They can have more than one timestamp; however, [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]] increments all of the timestamps when you mark the item as =DONE= (=org-auto-repeat-maybe=) --- not just today's timestamp.
+Items have just the one =SCHEUDLED= property. They can have more than one timestamp; however, [[id:4c8c9bb9-7cba-4a9e-89dc-4d0095438126][org-mode]] increments all of the timestamps when you mark the item as =DONE= (see =org-auto-repeat-maybe=) --- not just today's timestamp.
 
 My hack-ish fix is to have duplicate TODOs. That is, for an event that has a different time on weekdays and weekends:
 
@@ -102,7 +102,7 @@ This would be annoying if I used the built-in =clocktable= which would show a se
 Instead, I use [[github:cashpw/clocktable-by-category][=clocktable-by-category=]] which supports merging duplicate headings into one line-item with a duration equal to the sum of the duration of the duplicates:
 
 #+begin_src org
-,#+BEGIN: clocktable-by-category :block "2023-W48" ...
+,#+BEGIN: clocktable-by-category :block "2023-W48" ... :merge-duplicate-headlines t
 ,#+CAPTION: Clock summary at [2023-11-28 Tue 09:37], for week 2023-W48.
 | Category       | Headline         | Time   |
 |----------------+------------------+--------|
@@ -113,9 +113,8 @@ Instead, I use [[github:cashpw/clocktable-by-category][=clocktable-by-category=]
 ,#+END:
 #+end_src
 
-* TODO [#2] Expand :noexport:
-* TODO [#2] Flashcards :noexport:
-
+* TODO [#4] Expand :noexport:
+* Flashcards :noexport:
 * Footnotes
 
 [fn:1] Example:

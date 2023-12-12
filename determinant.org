@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
 :ROAM_REFS: [cite:@Determinant2022]
-:LAST_MODIFIED: [2023-12-05 Tue 06:38]
+:LAST_MODIFIED: [2023-12-09 Sat 08:58]
 :END:
 #+title: Determinant
 #+hugo_custom_front_matter: :slug "dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2"
@@ -117,7 +117,7 @@ Calculate [[id:dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2][Determinant]] of a matrix, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   179.89 | 2023-11-28T22:28:56Z |
+|        0 | 2.20 |   8 |   366.24 | 2024-12-09T22:39:32Z |
 :END:
 
 $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $=$ {{$a \determinant{\begin{bmatrix}e & f \\ h & i\end{bmatrix}}$ $-$ $b \determinant{\begin{bmatrix}d & f \\ g & i\end{bmatrix}}$ $+$ $c \determinant{\begin{bmatrix}d & e \\ g & h\end{bmatrix}}$}@0}
@@ -193,7 +193,7 @@ $\determinant{\begin{bmatrix}a & b &c \\ d & e & f \\ g & h & i\end{bmatrix}}$ $
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.05 |   8 |   260.48 | 2024-04-15T02:21:43Z |
-|        0 | 2.50 |   6 |   102.80 | 2023-12-06T10:22:54Z |
+|        0 | 2.50 |   7 |   242.13 | 2024-08-06T21:02:08Z |
 :END:
 
 *** Source

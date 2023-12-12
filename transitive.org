@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       57d94e2b-f842-483e-bcdb-c4d8e91a6ab5
-:LAST_MODIFIED: [2023-12-04 Mon 07:06]
+:LAST_MODIFIED: [2023-12-08 Fri 09:50]
 :ROAM_ALIASES: "Transitive dependency"
 :END:
 #+title: Transitive relation
@@ -33,7 +33,7 @@ $(a \, R \, b \; \text{and} \; b \, R \, c) \implies$ $a \, R \, c \; \forall \;
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   381.25 | 2024-03-15T10:40:09Z |
-| front    | 2.80 |   8 |   320.54 | 2023-12-07T06:15:20Z |
+| front    | 2.80 |   9 |   944.66 | 2026-07-10T09:33:52Z |
 :END:
 
 [[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive relation]]

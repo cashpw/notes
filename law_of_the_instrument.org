@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       cba59da8-e0d0-416a-8f61-833a92b47c1d
+:ROAM_REFS: [cite:@LawInstrument2023]
+:LAST_MODIFIED: [2023-12-09 Sat 13:48]
+:ROAM_ALIASES: "Everything looks like a nail when all you have is a hammer"
+:END:
+#+title: Law of the instrument
+#+hugo_custom_front_matter: :slug "cba59da8-e0d0-416a-8f61-833a92b47c1d"
+#+author: Cash Prokop-Weaver
+#+date: [2023-12-09 Sat 13:43]
+#+filetags: :concept:
+
+#+begin_quote
+The law of the instrument, law of the hammer, Maslow's hammer (or gavel), or golden hammer is a cognitive bias that involves an over-reliance on a familiar tool. Abraham Maslow wrote in 1966, "If the only tool you have is a hammer, it is tempting to treat everything as if it were a nail.
+
+[cite:@LawInstrument2023]
+#+end_quote
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-12-09 Sat 13:47]
+:FC_CREATED: 2023-12-09T21:48:35Z
+:FC_TYPE:  double
+:ID:       95caa645-a151-4d98-a4f9-4e9205e08539
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-09T21:48:35Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-16T21:48:35Z |
+:END:
+
+[[id:cba59da8-e0d0-416a-8f61-833a92b47c1d][Law of the instrument]]
+
+*** Back
+A cognitive bias that involves an over-reliance on a famliar tool.
+*** Extra
+[[id:cba59da8-e0d0-416a-8f61-833a92b47c1d][Everything looks like a nail when all you have is a hammer]]
+*** Source
+[cite:@LawInstrument2023]

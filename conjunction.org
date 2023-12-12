@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       14252b7a-a25c-4531-b701-2d1b074d2728
 :ROAM_REFS: [cite:@LogicalConjunction2023]
-:LAST_MODIFIED: [2023-10-30 Mon 07:59]
+:LAST_MODIFIED: [2023-12-08 Fri 09:45]
 :END:
 #+title: Conjunction
 #+hugo_custom_front_matter: :slug "14252b7a-a25c-4531-b701-2d1b074d2728"
@@ -29,7 +29,7 @@ In logic, mathematics and linguistics, And $\wedge$ is the truth-functional oper
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   203.58 | 2024-05-21T04:51:10Z |
-|        1 | 2.95 |   6 |   119.89 | 2023-12-08T12:01:33Z |
+|        1 | 2.80 |   7 |   351.14 | 2024-11-23T21:06:21Z |
 :END:
 
 - {{[[id:14252b7a-a25c-4531-b701-2d1b074d2728][Conjunction]]}@0}

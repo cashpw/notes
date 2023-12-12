@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2023-12-04 Mon 06:57]
+:LAST_MODIFIED: [2023-12-08 Fri 09:55]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -160,12 +160,13 @@ The smallest output of a function over some subset of the domain.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |   8 |   396.47 | 2024-10-26T00:25:19Z |
-| front    | 2.80 |   8 |   326.69 | 2023-12-07T10:50:17Z |
+| front    | 2.80 |   9 |   959.09 | 2026-07-24T20:01:06Z |
 :END:
 
 Global maxima
 
 *** Back
+
 The largest output of a function over the function's domain.
 
 *** Source

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a85bd4a5-3009-4995-a7be-082f26b5ef0c
-:LAST_MODIFIED: [2023-11-28 Tue 07:13]
+:LAST_MODIFIED: [2023-12-08 Fri 09:54]
 :END:
 #+title: Bonding costs
 #+hugo_custom_front_matter: :slug "a85bd4a5-3009-4995-a7be-082f26b5ef0c"
@@ -25,13 +25,15 @@ Costs borne by the agent to build trust with their principal. [...] Bonding cost
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   189.71 | 2023-12-11T16:58:32Z |
-| back     | 2.05 |   0 |     0.00 | 2023-11-28T15:13:01Z |
+| back     | 2.05 |   2 |     2.00 | 2023-12-10T17:54:25Z |
 :END:
 
 [[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]
 
 *** Back
+
 Costs borne by the agent to build trust with their principal.
+
 *** Source
 [cite:@AgencyCost2022]
 ** Example(s) :fc:

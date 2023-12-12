@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0f560f37-8170-46a9-8ec3-160de418eb7d
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-12-07 Thu 06:30]
 :ROAM_REFS: [cite:@GenerativeAdversarialNetwork2023]
 :END:
 #+title: Generative adversarial network
@@ -31,12 +31,13 @@ GANs are similar to mimicry in evolutionary biology, with an evolutionary arms r
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |   117.89 | 2024-01-01T12:55:48Z |
-| back     | 2.50 |   6 |    91.00 | 2023-11-30T18:34:19Z |
+| back     | 2.50 |   7 |   241.95 | 2024-08-05T13:21:34Z |
 :END:
 
 [[id:0f560f37-8170-46a9-8ec3-160de418eb7d][Generative adversarial network]]
 
 *** Back
+
 A machine learning framework which pits two agents against each other in a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]: one produces output and the other distinguishes the output as good or bad.
 *** Source
 [cite:@GenerativeAdversarialNetwork2023]

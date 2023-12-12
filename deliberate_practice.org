@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a1d74568-61f0-4a01-8aab-184d1b7a9752
-:LAST_MODIFIED: [2023-12-04 Mon 06:58]
+:LAST_MODIFIED: [2023-12-08 Fri 09:56]
 :END:
 #+title: Deliberate practice
 #+hugo_custom_front_matter: :slug "a1d74568-61f0-4a01-8aab-184d1b7a9752"
@@ -83,12 +83,13 @@ Ericson
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   210.98 | 2024-06-26T14:52:19Z |
-| back     | 2.35 |   6 |    83.18 | 2023-11-23T18:40:09Z |
+| back     | 2.35 |   7 |   183.55 | 2024-06-09T07:07:50Z |
 :END:
 
 [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]
 
 *** Back
+
 [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]] which additionally:
 
 1. is within a well-established domain (e.g. music, math) with known training techniques

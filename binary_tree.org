@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       323bf406-41e6-4e5f-9be6-689e1055b118
 :ROAM_ALIASES: "Binary trees"
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-12-08 Fri 09:45]
 :END:
 #+title: Binary tree
 #+hugo_custom_front_matter: :slug "323bf406-41e6-4e5f-9be6-689e1055b118"
@@ -67,7 +67,7 @@ Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   9 |   644.45 | 2025-05-31T02:01:44Z |
-| front    | 2.65 |   7 |   275.24 | 2023-11-14T23:14:43Z |
+| front    | 2.65 |   8 |   762.99 | 2026-01-09T17:29:32Z |
 :END:
 \(\operatorname{children}(i)\) \(\forall\) parent indexes, \(i\)
 *** Back

@@ -1,13 +1,14 @@
 :PROPERTIES:
 :ID:       a500c749-aab9-4150-876f-6f40c76bba35
 :DIR:      /home/cashweaver/proj/roam/attachments/a500c749-aab9-4150-876f-6f40c76bba35
-:LAST_MODIFIED: [2023-11-06 Mon 10:01]
-:ROAM_ALIASES: "Pottery exercises"
+:LAST_MODIFIED: [2023-12-08 Fri 10:12]
+:ROAM_ALIASES: "Ceramic exercises" "Pottery exercises"
 :END:
-#+title: Ceramics exercises
+#+title: How to improve at pottery
 #+hugo_custom_front_matter: :slug "a500c749-aab9-4150-876f-6f40c76bba35"
 #+author: Cash Prokop-Weaver
 #+date: [2022-01-10 Mon 19:13]
+#+filetags: :hastodo:
 
 #+begin_quote
 If you're looking to improve quickly, the most important thing is to throw as much as possible. Prepare as many balls of clay as you think you can throw in one sitting, wrap them up in plastic, get on the wheel and throw. Like everyone else says, cylinders are a good place to start.
@@ -17,13 +18,37 @@ If you're looking to improve quickly, the most important thing is to throw as mu
 
 Also see [[id:3f493f0a-aac1-43b6-be22-9711b921f6d8][Clary Illian | A Potter's Workbook]] and [[id:eefb478b-2083-4445-884d-755005a26f2f][Ceramics]].
 
-* Improve technique and consistency
+* Improve technique
 
-Generally speaking, the best advice is to create [[id:ce1622e0-9f93-47fd-a5b2-5acd981caabf][At least two of the same]] thing and then compare them. I recommend slicing the form in half, vertically, to judge things like wall or bottom thickness and consistency.
+Create [[id:ce1622e0-9f93-47fd-a5b2-5acd981caabf][At least two of the same]] thing and then compare them. I recommend slicing the form in half, vertically, to judge things like wall and bottom thickness.
 
-** Example: Walls
+#+begin_quote
+My first and foremost advice for students who don't have a lot of studio time is this: don't spend time finishing one pot. Make lots of pots. Focus on the process, not the result. Intend to recycle most of your work. The overwhelming majority of beginning students spend way too much time trying to fix flaws (e.g., heavy bottoms, asymmetrical rims, uneven walls, rough surfaces) rather than getting their technique to the point where those things don't happen in the first place. If you're spending more than a few minutes to refine your work, that is time you are not putting toward establishing basic throwing proficiency.
 
-1. Wedge six balls of the same weight and place in a [[id:7f52f95f-c2f1-450f-b729-5738e4664c44][Damp box]]
+When you study how production potters work, you can see that everything is geared toward time efficient processes, because their output is about achieving consistent results at high volume. For instance, they wedge a lot of clay, then throw off the hump. They have the ware board set up next to them so they don't have to waste time going back and forth with each piece. That's not to say you have to do things exactly the same way; but the point is that if you're wedging individual balls of clay, if you're going back and forth between steps and cleaning up in between, if you're doing throwing and trimming and glazing all in one day, you're not being efficient with your time. You should only ever need to set up once, and clean up once.
+
+As for the choice of form, the cylinder is fundamental. You should work towards the following goals: 4" cylinder with 1 pound of clay; 8" with 2 pounds, and 12" with 3 pounds--this last one is the most difficult. From the cylinder form, I would move on to the bowl. The goal here is to achieve a smooth interior profile curve for a variety of widths and heights. You will want to cut most of your finished work in half to see whether your walls are even and adequately supported, and to correlate this with your throwing process, so that when you trim your work, you have a sense of how much you can trim away.
+
+From the bowl form, I would recommend working on bottles or vases where more complex shaping and control of the clay's profile is done. Platters would be next; finally, assembled and altered forms such as teapots, mugs with handles, etc. would be relevant. But again, at each stage, the goal is to focus on the process and not the result: the refinement will come later.
+
+[cite:@hero_pupYouDidnSpecify2022]
+#+end_quote
+
+** Height
+
+#+begin_quote
+As for the choice of form, the cylinder is fundamental. You should work towards the following goals:
+
+- 4" cylinder with 1 pound of clay
+- 8" with 2 pounds
+- 12" with 3 pounds --- this last one is the most difficult.
+
+[cite:@hero_pupYouDidnSpecify2022] [formatting mine]
+#+end_quote
+
+** Walls
+
+1. Wedge N balls of the same weight and place in a [[id:7f52f95f-c2f1-450f-b729-5738e4664c44][Damp box]]
 2. Throw a ball into a cylinder and set aside; repeat for all the balls
 3. Cut the cylinders top-to-bottom down the middle using a wire
 4. Critique the walls:
@@ -32,7 +57,7 @@ Generally speaking, the best advice is to create [[id:ce1622e0-9f93-47fd-a5b2-5a
    - How similar are the six cylinders? Do some look different than the others? In what ways?
 5. If you notice anything you want to work on, go to step 1 and focus on that aspect of the cylinders when you throw them again.
 
-** Example: Pulls
+** Pulls
 
 Choose one or more of the following:
 
@@ -40,6 +65,17 @@ Choose one or more of the following:
 - "Pull as high as you can" [cite:@sinkingjunkIfYouReLooking2016]
 - "Pulling large amounts of clay (getting >50% of your height on your first pull)" [cite:@sinkingjunkIfYouReLooking2016]
 - "Try to make 6 inch cylinders from one pound of clay. Realistically you're not going to do it (it's not easy, Idk if I could do it consistently) But it gives you a goal. You want even pulls and consistent thickness the whole way through." [cite:@youre_being_creepyTryMakeInch2016]
+
+* Improve consistency
+
+Volume is the key to consistency. Pick a single form, throw [[id:ce1622e0-9f93-47fd-a5b2-5acd981caabf][At least two of the same]] (more like 50-100), and then compare them. I recommend slicing the form in half, vertically, to judge things like wall and bottom thickness.
+
+* Creativity and experimentation
+
+[[id:3619f0c9-baa8-44da-8667-c13b7dc3e3bd][Creativity is a product of volume]].
+
+- [cite:@schwartzGoodArtistsCopyGreatArtistsSteal2010]
+- Throw repeatedly for creativity: Throw 10/25/50/100/... different variations on the same form (eg: a vase). This exercise is about [[id:3619f0c9-baa8-44da-8667-c13b7dc3e3bd][pushing yourself to be creative]] and explore the form you're throwing.
 
 ** Example: Intention
 
@@ -52,11 +88,11 @@ Another thing is to first draw a silhouette, whatever type of piece and shape yo
 
 [[https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0g0qxj/?utm_source=share&utm_medium=web2x&context=3][... first draw a silhouette, whatever type of piece and shape you want, and try to make that shape. That will get you in the mode of visualizing before working, and also hones your skills in general so you can make the shapes you want.]]
 
-* Creativity and experimentation
 
-[[id:3619f0c9-baa8-44da-8667-c13b7dc3e3bd][Creativity is a product of volume]].
+* TODO [#4] Uncategorized tips and advice
 
-- Throw repeatedly for creativity: Throw 10/25/50/100/... different variations on the same form (eg: a vase). This exercise is about [[id:3619f0c9-baa8-44da-8667-c13b7dc3e3bd][pushing yourself to be creative]] and explore the form you're throwing.
+- Cut everything you throw in half with your wire tool so you can see the internal profile; push for consistent and thin walls
+-
 
 * Flashcards :noexport:
 

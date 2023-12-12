@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d98f1ce2-f350-4be7-a8b1-a5741f908cdd
-:LAST_MODIFIED: [2023-12-04 Mon 06:57]
+:LAST_MODIFIED: [2023-12-08 Fri 09:44]
 :ROAM_REFS: [cite:@NormMathematics2022]
 :END:
 #+title: Norm
@@ -30,7 +30,7 @@ Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-
 
 * Flashcards :noexport:
 
-** {{$\|\vec{x}\|_p$}@0} \(=\) {{$(\sum_{i = 1}^n {\lvert \vec{x}_i \rvert}^p)^{\frac{1}{p}}$}@1} :fc:
+** {{$\|\vec{x}\|_p$}@0} \(=\) {{$\sqrt[p]{\sum_{i = 1}^n {\lvert \vec{x}_i \rvert}^p)}$}@1} :fc:
 :PROPERTIES:
 :ID:       1e842d80-0bd0-44ea-a29d-a2a38b84509f
 :ANKI_NOTE_ID: 1640627863448
@@ -43,7 +43,7 @@ Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.15 |  14 |   476.64 | 2025-03-10T06:00:10Z |
-|        1 | 1.30 |   2 |     2.00 | 2023-11-19T15:46:26Z |
+|        1 | 1.30 |   3 |     6.00 | 2023-12-13T14:39:16Z |
 :END:
 
 ** {{$\|\vec{x}\|_{\infty}$}{norm}@0} \(=\) {{$\underset{i}{\text{max}} \; \vec{x}_i$}@1} :fc:
@@ -76,7 +76,7 @@ Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   685.47 | 2025-10-20T02:20:23Z |
-|        1 | 1.90 |   1 |     1.00 | 2023-11-16T15:20:24Z |
+|        1 | 1.90 |   2 |     2.00 | 2023-12-10T17:44:41Z |
 :END:
 
 *** Source

@@ -2,7 +2,7 @@
 :ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
 :ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
 :ROAM_REFS: [cite:@HashTable2022]
-:LAST_MODIFIED: [2023-11-09 Thu 08:23]
+:LAST_MODIFIED: [2023-12-08 Fri 09:49]
 :END:
 #+title: Hash table
 #+hugo_custom_front_matter: :slug "b8f1337e-8231-4ace-b003-bb988b4c39ee"
@@ -68,9 +68,6 @@ Well-known probe sequences include:
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition (Computer science) :fc:
 :PROPERTIES:
 :ID:       6ef3f7d4-87da-4736-ad16-6f9f541b9239
@@ -81,7 +78,7 @@ Well-known probe sequences include:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.95 |   8 |   290.62 | 2023-12-04T18:26:24Z |
+| back     | 2.95 |   9 |   772.34 | 2026-01-17T22:22:54Z |
 | front    | 2.65 |   8 |   629.58 | 2025-05-26T06:36:16Z |
 :END:
 [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]
@@ -160,7 +157,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   440.57 | 2024-08-30T03:48:02Z |
-| back     | 1.90 |   6 |    36.78 | 2023-11-23T02:49:13Z |
+| back     | 1.90 |   7 |    71.93 | 2024-02-18T16:07:49Z |
 :END:
 
 [[id:2e5f8a82-f9d2-42a2-bcea-de2d2a158097][Separate chaining]]
@@ -168,6 +165,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 *** Back
 
 A collision resolution algorithm in which each bucket in the [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]] is a linked list. The list is extended upon every collision and is traversed in order to find the target key.
+
 *** Source
 [cite:@HashTable2022]
 ** Definition ([[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]) :fc:

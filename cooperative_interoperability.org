@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d
-:LAST_MODIFIED: [2023-10-30 Mon 08:13]
+:LAST_MODIFIED: [2023-12-08 Fri 09:44]
 :END:
 #+title: Cooperative interoperability
 #+hugo_custom_front_matter: :slug "22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d"
@@ -70,7 +70,7 @@ One of the easiest ways to do this is to adopt a standard: [...] any phone manuf
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   8 |   534.02 | 2025-04-16T15:41:52Z |
-|        1 | 2.50 |   7 |   196.90 | 2023-11-22T14:17:28Z |
+|        1 | 2.65 |   8 |   488.47 | 2025-04-10T04:57:44Z |
 :END:
 *** Source
 [cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]

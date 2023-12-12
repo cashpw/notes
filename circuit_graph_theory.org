@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f063a5e6-62e1-44ae-9fac-7b30b4692afb
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-12-07 Thu 06:30]
 :END:
 #+title: Circuit (Graph theory)
 #+hugo_custom_front_matter: :slug "f063a5e6-62e1-44ae-9fac-7b30b4692afb"
@@ -26,7 +26,7 @@ A circuit is a non-empty trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   302.09 | 2024-04-26T19:15:15Z |
-| back     | 2.20 |   7 |   181.23 | 2023-11-27T21:43:38Z |
+| back     | 2.20 |   8 |   437.05 | 2025-02-16T15:44:04Z |
 :END:
 
 [[id:f063a5e6-62e1-44ae-9fac-7b30b4692afb][Circuit (Graph theory)]]

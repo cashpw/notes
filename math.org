@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-05 Tue 06:31]
+:LAST_MODIFIED: [2023-12-09 Sat 08:50]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -850,7 +850,7 @@ A property of a set under an operation for which performing the operation on mem
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   297.65 | 2023-11-24T08:06:14Z |
+| back     | 2.80 |  10 |   822.27 | 2026-03-10T00:07:27Z |
 | front    | 2.80 |   9 |   319.25 | 2023-12-02T20:27:34Z |
 :END:
 
@@ -1171,7 +1171,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   2 |     2.00 | 2023-09-29T16:00:45Z |
+|        0 | 1.90 |   3 |     6.00 | 2023-12-15T16:49:15Z |
 |        1 | 2.20 |   8 |   217.36 | 2023-09-07T01:34:02Z |
 :END:
 
@@ -2869,13 +2869,14 @@ A number written in the form $\text{significand} \times 10^{\text{exponent}}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   9 |   278.68 | 2023-12-02T08:17:39Z |
+| back     | 2.50 |  10 |   728.29 | 2025-12-06T23:50:41Z |
 | front    | 2.65 |   8 |   173.84 | 2023-05-09T10:13:30Z |
 :END:
 
 Seminorm
 
 *** Back
+
 A vector space norm that need not be positive definite.
 
 *** Source
@@ -3223,7 +3224,7 @@ The convolution of the underlying data points with a fixed weighting function; $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   8 |   284.86 | 2023-11-12T11:00:06Z |
+|        0 | 2.80 |   9 |   766.01 | 2026-01-11T14:36:41Z |
 |        1 | 2.65 |   8 |   221.65 | 2023-07-21T07:02:56Z |
 :END:
 

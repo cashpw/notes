@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-12-05 Tue 06:35]
+:LAST_MODIFIED: [2023-12-08 Fri 09:54]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -837,7 +837,7 @@ When you have more than one tasks with different levels of importance: do the wo
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   345.54 | 2024-05-19T04:46:15Z |
-| back     | 2.50 |   7 |   206.67 | 2023-12-03T08:02:30Z |
+| back     | 2.50 |   8 |   549.11 | 2025-06-09T20:30:12Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]

@@ -2,7 +2,7 @@
 :ID:       9c5f4644-6806-462f-9a54-eb67989a50a1
 :ROAM_REFS: [cite:@MereAdditionParadox2022]
 :ROAM_ALIASES: "Mere addition paradox"
-:LAST_MODIFIED: [2023-12-04 Mon 07:10]
+:LAST_MODIFIED: [2023-12-09 Sat 08:53]
 :END:
 #+title: Repugnant conclusion
 #+hugo_custom_front_matter: :slug "9c5f4644-6806-462f-9a54-eb67989a50a1"
@@ -29,7 +29,7 @@ For any perfectly equal population with very high positive welfare, there is a p
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   8 |   198.60 | 2024-01-04T11:07:38Z |
-| back     | 2.20 |   1 |     1.00 | 2023-12-05T15:10:41Z |
+| back     | 2.20 |   3 |     6.00 | 2023-12-15T16:53:37Z |
 :END:
 
 [[id:9c5f4644-6806-462f-9a54-eb67989a50a1][Repugnant conclusion]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-12-05 Tue 06:32]
+:LAST_MODIFIED: [2023-12-08 Fri 09:42]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -130,7 +130,7 @@ A conceptual model for abstract network connections.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   251.94 | 2024-05-28T22:20:54Z |
-| back     | 2.50 |   0 |     0.00 | 2023-12-05T14:32:23Z |
+| back     | 2.50 |   0 |     0.00 | 2023-12-07T14:21:25Z |
 :END:
 
 [[id:8f6fd595-a2ae-4bc6-a870-5fccb9616bc7][Physical layer (OSI model)]]
@@ -154,7 +154,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 |        0 | 2.20 |   7 |   142.95 | 2024-01-01T21:20:43Z |
 |        1 | 2.20 |   7 |   149.63 | 2024-02-14T14:11:26Z |
 |        2 | 2.35 |   6 |    78.53 | 2023-12-09T03:00:19Z |
-|        3 | 2.50 |   1 |     1.00 | 2023-10-04T06:26:15Z |
+|        3 | 2.50 |   2 |     2.00 | 2023-12-10T17:42:35Z |
 |        4 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        5 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        6 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |

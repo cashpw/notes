@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8b1fb8a2-b7b6-4ac5-b7b3-b84495e3a9d0
-:LAST_MODIFIED: [2023-09-06 Wed 08:12]
+:LAST_MODIFIED: [2023-12-09 Sat 13:33]
 :END:
 #+title: The person with the big teddy bear
 #+hugo_custom_front_matter: :slug "8b1fb8a2-b7b6-4ac5-b7b3-b84495e3a9d0"
@@ -8,6 +8,7 @@
 #+date: [2023-06-20 Tue 14:13]
 #+filetags: :hastodo:concept:
 * TODO [#0]
+
 * TODO [#2] Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

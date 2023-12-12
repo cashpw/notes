@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b07a1490-3847-4b65-80bb-17e3f4927cfb
 :ROAM_REFS: [cite:@BayesTheorem2022]
-:LAST_MODIFIED: [2023-12-04 Mon 07:02]
+:LAST_MODIFIED: [2023-12-09 Sat 08:58]
 :END:
 #+title: Bayes's theorem
 #+hugo_custom_front_matter: :slug "b07a1490-3847-4b65-80bb-17e3f4927cfb"
@@ -52,7 +52,7 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   8 |   770.61 | 2026-01-07T05:46:50Z |
-|        1 | 1.30 |   1 |     1.00 | 2023-12-05T15:02:59Z |
+|        1 | 1.30 |   1 |     1.00 | 2023-12-10T16:58:53Z |
 :END:
 
 *** Source
@@ -92,7 +92,7 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |  10 |   525.29 | 2025-01-27T20:09:50Z |
-|        1 | 2.50 |   3 |     6.00 | 2023-11-25T14:37:07Z |
+|        1 | 2.50 |   4 |    15.65 | 2023-12-24T09:16:18Z |
 :END:
 
 - {{$\operatorname{P}(M)$}@0}

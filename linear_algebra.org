@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-05 Tue 06:34]
+:LAST_MODIFIED: [2023-12-09 Sat 08:51]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -174,7 +174,7 @@ eg: $x+y^2$, $x+xy$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |  15 |   315.91 | 2023-11-27T14:09:30Z |
+| front    | 2.50 |   0 |     0.00 | 2023-12-07T14:18:31Z |
 :END:
 Describe the properties required for $U$ to be a subspace of a vector space $V$ over a field $F$, given $U \subset V$.
 *** Back
@@ -255,7 +255,7 @@ A function that assigns a strictly positive length or size to each vector in a v
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.90 |   2 |     2.00 | 2023-12-03T16:42:20Z |
+| back     | 1.60 |   0 |     0.00 | 2023-12-09T16:49:22Z |
 | front    | 2.50 |   8 |   233.09 | 2023-08-24T18:33:45Z |
 :END:
 
@@ -1119,7 +1119,7 @@ $\operatorname{tr}(A)$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   8 |   337.13 | 2024-02-04T18:26:29Z |
-|        1 | 2.50 |   8 |   247.14 | 2023-09-10T17:57:10Z |
+|        1 | 2.50 |   9 |   613.23 | 2025-08-12T23:15:35Z |
 :END:
 
 - {{$\vec{1}$}@0}
@@ -1496,7 +1496,7 @@ A morphism from a mathematical object to itself.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |  10 |    44.34 | 2023-11-23T14:53:33Z |
+| front    | 1.30 |  11 |    59.35 | 2024-02-07T01:15:13Z |
 | back     | 2.35 |   4 |    14.75 | 2023-11-06T09:41:57Z |
 :END:
 

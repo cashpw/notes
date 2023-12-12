@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2bb656cd-6834-4534-95e2-c77df28ffccb
-:LAST_MODIFIED: [2023-11-16 Thu 08:13]
+:LAST_MODIFIED: [2023-12-09 Sat 08:53]
 :END:
 #+title: Purposeful practice
 #+hugo_custom_front_matter: :slug "2bb656cd-6834-4534-95e2-c77df28ffccb"
@@ -30,19 +30,21 @@ Purposeful practice consists of the following principles:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   9 |    20.70 | 2023-12-07T08:56:05Z |
-| back     | 2.50 |   6 |    94.62 | 2023-12-09T06:27:57Z |
+| front    | 1.30 |  10 |    28.02 | 2024-01-04T14:51:18Z |
+| back     | 2.50 |   7 |   235.54 | 2024-08-01T05:44:54Z |
 :END:
 
 [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]]
 
 *** Back
+
 Practice which is:
 
 - specific
 - focused
 - takes you out of your comfort zone
 - involves feedback to guide future effort
+
 *** Source
 [cite:@chinProblemsDeliberatePractice2019]
 * Bibliography

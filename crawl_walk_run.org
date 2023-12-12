@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3f33e96a-915a-4561-be68-4cef17b84792
 :ROAM_ALIASES: "Iterative development"
-:LAST_MODIFIED: [2023-11-19 Sun 06:39]
+:LAST_MODIFIED: [2023-12-09 Sat 08:51]
 :END:
 #+title: Crawl, walk, run
 #+hugo_custom_front_matter: :slug "3f33e96a-915a-4561-be68-4cef17b84792"
@@ -39,14 +39,16 @@ Answering these follow-up questions ensures you and your team don't burn time so
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   109.71 | 2023-12-09T05:58:58Z |
+| front    | 2.50 |   7 |   278.58 | 2024-09-13T06:53:35Z |
 | back     | 2.35 |   7 |   188.22 | 2024-05-25T20:03:42Z |
 :END:
 
 [[id:3f33e96a-915a-4561-be68-4cef17b84792][Crawl, walk, run]]
 
 *** Back
+
 A phrase for taking an iterative or progressive approach to building something.
+
 *** Source
 * Bibliography
 #+print_bibliography:

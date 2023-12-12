@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       20ff7657-2f1f-459e-be7e-c59be0b042f0
 :ROAM_ALIASES: Legibility
-:LAST_MODIFIED: [2023-09-30 Sat 00:53]
+:LAST_MODIFIED: [2023-12-09 Sat 08:54]
 :END:
 #+title: Legible
 #+hugo_custom_front_matter: :slug "20ff7657-2f1f-459e-be7e-c59be0b042f0"
@@ -51,13 +51,15 @@ In The Image of the City, Kevin Lynch defines "legibility" as something that a c
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   301.03 | 2024-07-27T08:39:42Z |
-| back     | 2.35 |   7 |   192.14 | 2023-12-08T19:24:45Z |
+| back     | 2.35 |   8 |   484.82 | 2025-04-07T12:38:35Z |
 :END:
 
 [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (from the outside)
 
 *** Back
+
 A coercive abstraction imposed on people and resources; treating different people, places, ways of life, etc as the same and creating an environment which encourages people to forget those differences ever existed
+
 *** Source
 
 ** Definition :fc:

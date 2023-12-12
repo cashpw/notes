@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@alexanderEpistemicLearnedHelplessness2019]
 :ID:       71aa6edb-f5a1-4e8b-88b9-5e5e807edceb
-:LAST_MODIFIED: [2023-11-14 Tue 07:20]
+:LAST_MODIFIED: [2023-12-08 Fri 09:52]
 :ROAM_ALIASES: "Arguments? You can prove anything with arguments."
 :END:
 #+title: Scott Alexander | Epistemic Learned Helplessness
@@ -62,12 +62,13 @@ Responsible doctors are at the other end of the spectrum from terrorists here. I
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   308.07 | 2024-05-26T05:29:15Z |
-| back     | 1.60 |   5 |    15.64 | 2023-11-30T06:37:03Z |
+| back     | 1.45 |   6 |    20.84 | 2023-12-29T14:04:05Z |
 :END:
 
 Epistemic [[id:06b5c658-5513-4c18-a24d-9ed3fb4ad23b][Learned helplessness]]
 
 *** Back
+
 A condition in which the person is unable to discern a convincing argument from a true argument and resolves to ignore the argument, or at least its conclusions.
 *** Source
 [cite:@alexanderEpistemicLearnedHelplessness2019]

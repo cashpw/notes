@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@hallThirdThing2023]
 :ID:       5a6ea0e5-2b5c-4068-ab08-5e52cede1944
-:LAST_MODIFIED: [2023-10-30 Mon 08:14]
+:LAST_MODIFIED: [2023-12-09 Sat 08:58]
 :END:
 #+title: Donald Hall | The Third Thing
 #+hugo_custom_front_matter: :slug "5a6ea0e5-2b5c-4068-ab08-5e52cede1944"
@@ -12,10 +12,13 @@
 [[id:a20e0a19-3866-403c-8d1e-1d20bfb725b8][Donald Hall]], [cite:@hallThirdThing2023]
 
 * Summary
+
 #+begin_quote
 [...] most of the time our gazes met and entwined as they looked at a third thing.
 #+end_quote
+
 * TODO [#2] Thoughts
+
 * Notes
 #+begin_quote
 Jane Kenyon and I were married for twenty-three years. For two decades we inhabited the double solitude of my family farmhouse in New Hampshire, writing poems, loving the countryside. She was forty-seven when she died. If anyone had asked us, "Which year was the best, of your lives together?" we could have agreed on an answer: "the one we remember least." There were sorrowful years---the death of her father, my cancers, her depressions---and there were also years of adventure: a trip to China and Japan, two trips to India; years when my children married; years when the grandchildren were born; years of triumph as Jane began her public life in poetry: her first book, her first poem in the /New Yorker/. The best moment of our lives was one quiet repeated day of work in our house. Not everyone understood. Visitors, especially from New York, would spend a weekend with us and say as they left: "It's really pretty here" ("in Vermont," many added) "with your house, the pond, the hills, but . . . but . . . but . . . /what do you do/?"
@@ -48,6 +51,7 @@ We were each other's readers but we could not be each other's only readers. I mo
 
 Meantime we lived in the house of poetry, which was also the house of love and grief; the house of solitude and art; the house of Jane's depression and my cancers and Jane's leukemia. When someone died whom we loved, we went back to the poets of grief and outrage, as far back as /Gilgamesh/; often I read aloud Henry King's "The Exequy," written in the seventeenth century after the death of his young wife. Poetry gives the griever not release from grief but companionship in grief. Poetry embodies the complexities of feeling at their most intense and entangled, and therefore offers (over centuries, or over no time at all) the company of tears. As I sat beside Jane in her pain and weakness I wrote about pain and weakness. Once in a hospital I noticed that the leaves were turning. I realized that I had not noticed that they had come to the trees. It was a year without seasons, a year without punctuation. I began to write "Without" to embody the sensations of lives under dreary, monotonous assault. After I had drafted it many times I read it aloud to Jane. "That's it, Perkins," she said. "You've got it. That's it." Even in this poem written at her mortal bedside there was companionship.
 #+end_quote
+
 * Flashcards :noexport:
 ** Cloze :fc:
 :PROPERTIES:
@@ -61,7 +65,7 @@ Meantime we lived in the house of poetry, which was also the house of love and g
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   5 |    39.61 | 2023-12-09T05:49:08Z |
+|        0 | 2.50 |   6 |   105.04 | 2024-03-23T18:02:12Z |
 :END:
 
 #+begin_quote

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a707abfd-b17d-40d0-a1c2-1caa14e2de47
-:LAST_MODIFIED: [2023-11-15 Wed 07:26]
+:LAST_MODIFIED: [2023-12-08 Fri 09:52]
 :ROAM_REFS: [cite:@StdInitializerList]
 :END:
 #+title: std::initializer_list
@@ -38,7 +38,7 @@ class Vector {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   201.46 | 2024-04-30T08:18:42Z |
-| back     | 2.35 |   6 |    98.14 | 2023-11-11T19:16:02Z |
+| back     | 2.35 |   7 |   236.77 | 2024-08-01T12:19:13Z |
 :END:
 
 [[id:a707abfd-b17d-40d0-a1c2-1caa14e2de47][std::initializer_list]]

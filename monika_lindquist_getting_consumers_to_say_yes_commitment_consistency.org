@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 :ID:       ffc578c6-bf15-4d7f-816a-175206fc9e42
-:LAST_MODIFIED: [2023-09-10 Sun 06:39]
+:LAST_MODIFIED: [2023-12-07 Thu 06:22]
 :END:
 #+title: Monika Lindquist | Getting Consumers To Say Yes: Commitment Consistency
 #+hugo_custom_front_matter: :slug "ffc578c6-bf15-4d7f-816a-175206fc9e42"
@@ -25,7 +25,7 @@ TODO_AUTHOR, [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |  14 |   286.23 | 2023-12-05T20:34:32Z |
+| back     | 2.35 |  15 |   728.44 | 2025-12-05T00:51:49Z |
 | front    | 2.50 |   8 |   318.24 | 2024-01-26T21:06:29Z |
 :END:
 

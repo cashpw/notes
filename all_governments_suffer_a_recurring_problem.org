@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b77a6ff7-4eff-497f-90e4-81c9ed61263d
 :ROAM_ALIASES: "Power attracts pathological personalities"
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-12-07 Thu 06:28]
 :END:
 #+title: All governments suffer a recurring problem
 #+hugo_custom_front_matter: :slug "b77a6ff7-4eff-497f-90e4-81c9ed61263d"
@@ -9,13 +9,15 @@
 #+date: [2022-11-15 Tue 09:31]
 #+filetags: :quote:
 #+begin_quote
-All governments suffer a recurring problem: Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible [[[id:0336585d-7bce-4982-850d-986678bd6cd6][Power attracts the corruptible]]].
+All governments suffer a recurring problem: Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible
 
 [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]], [cite:@herbertChapterhouseDune2020]
 #+end_quote
 
+[[id:0336585d-7bce-4982-850d-986678bd6cd6][Power attracts the corruptible]].
+
 * Flashcards :noexport:
-** All governments suffer a recurring problem: {{Power attracts pathological personalities.}@0} :fc:
+** All governments suffer a recurring problem: {{Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible.}{full}@0} :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:32]
 :FC_CREATED: 2022-11-15T17:33:31Z
@@ -27,7 +29,7 @@ All governments suffer a recurring problem: Power attracts pathological personal
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   187.50 | 2023-11-23T04:33:09Z |
+|        0 | 2.05 |   8 |   380.59 | 2024-12-22T04:33:02Z |
 :END:
 
 *** Source

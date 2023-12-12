@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f690a8ad-4069-4e96-a707-2a57f638c493
-:LAST_MODIFIED: [2023-11-15 Wed 07:20]
+:LAST_MODIFIED: [2023-12-08 Fri 09:57]
 :ROAM_REFS: [cite:@FunctionalProgramming2023]
 :END:
 #+title: Functional programming
@@ -72,12 +72,13 @@ Functional programming has its roots in academia, evolving from the lambda calcu
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   216.59 | 2024-05-16T21:08:50Z |
-| back     | 2.35 |   6 |   104.59 | 2023-12-08T05:25:25Z |
+| back     | 2.05 |   1 |     1.00 | 2023-12-09T17:57:10Z |
 :END:
 
 [[id:f690a8ad-4069-4e96-a707-2a57f638c493][Functional programming]]
 
 *** Back
+
 A [[id:96f5c67c-bfb2-4089-b80e-7fd70e194778][Programming paradigm]] which models computation as the evaluation of expressions.
 *** Source
 [cite:@FunctionalProgrammingHaskellWiki]

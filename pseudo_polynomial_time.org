@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       890be1a5-820c-484e-acfa-16a6115c64c0
-:LAST_MODIFIED: [2023-10-11 Wed 14:20]
+:LAST_MODIFIED: [2023-12-08 Fri 09:54]
 :ROAM_REFS: [cite:@PseudopolynomialTime2022]
 :END:
 #+title: Pseudo-polynomial time
@@ -35,12 +35,13 @@ For example, the number of integers you can represent with $n$ bits grows expone
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   345.95 | 2024-08-09T13:51:56Z |
-| back     | 2.35 |   5 |    34.36 | 2023-11-15T05:54:06Z |
+| back     | 2.35 |   6 |    79.84 | 2024-02-26T14:05:50Z |
 :END:
 
 [[id:890be1a5-820c-484e-acfa-16a6115c64c0][Pseudo-polynomial time]]
 
 *** Back
+
 A running time which is polynomial in terms of the numeric value of the input. That is, the $n$ in $\bigo{n^k}$ is the value of the input rather than, as is more common, the length of the input.
 *** Source
 [cite:@PseudopolynomialTime2022]

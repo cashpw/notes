@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       335314f6-0958-4d7e-a0bd-76b83bee3044
-:LAST_MODIFIED: [2023-11-03 Fri 07:28]
+:LAST_MODIFIED: [2023-12-08 Fri 09:47]
 :ROAM_REFS: [cite:@DonMakeMeThink2023]
 :END:
 #+title: Don't make me think
@@ -25,15 +25,17 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   201.40 | 2024-05-22T23:59:11Z |
-| back     | 2.35 |   6 |    92.78 | 2023-11-26T09:55:52Z |
+| back     | 2.35 |   7 |   216.29 | 2024-07-12T00:46:27Z |
 :END:
 
 [[id:335314f6-0958-4d7e-a0bd-76b83bee3044][Don't make me think]]
 
 *** Back
+
 A product, service, solution, etc, should allow its users to accomplish their intended tasks as easily and directly as possible.
 
 You should set up the correct way to do X to also be the most obvious, simplest, way to do X.
+
 *** Source
 [cite:@DonMakeMeThink2023]
 * Bibliography

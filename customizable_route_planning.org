@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-12-05 Tue 06:35]
+:LAST_MODIFIED: [2023-12-09 Sat 08:52]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -298,13 +298,15 @@ Stages of [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   7 |    92.84 | 2024-02-17T12:07:41Z |
-| back     | 2.50 |   1 |     1.00 | 2023-09-30T04:19:44Z |
+| back     | 2.50 |   2 |     2.00 | 2023-12-10T17:41:57Z |
 :END:
 
 Metric-independent pre-processing
 
 *** Back
+
 Partitions the graph into [[id:d3439626-492b-4165-836e-efd890096225][Connected components]] (cells) with at most $U$ vertices, minimizing boundary edges.
+
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
 ** Describe ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
@@ -426,7 +428,7 @@ A technique for reducing query latency by building a hierarchical view of the gr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   172.82 | 2024-05-22T12:29:03Z |
-|        1 |  2.5 |  -1 |        0 | 2023-07-10T01:06:24Z |
+|        1 | 2.50 |   1 |     1.00 | 2023-12-10T16:52:27Z |
 :END:
 
 A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}@0} on {{the union of $H$, $C_s$, and $C_t$}@1}.
@@ -464,13 +466,16 @@ Cells containing the starting and target vertices
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   6 |    44.03 | 2023-12-17T15:19:53Z |
-| back     | 2.50 |   2 |     2.00 | 2023-11-11T16:30:33Z |
+| back     | 2.50 |   3 |     6.00 | 2023-12-13T14:34:16Z |
 :END:
 
 $H$
 
 *** Back
-An "overlay" graph which contains (1) all boundary vertices and (2) edges between boundary vertices (i.e. shortcuts)
+An "overlay" graph which contains
+
+1. all boundary vertices
+2. edges between boundary vertices (i.e. shortcuts)
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
 * Bibliography

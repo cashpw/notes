@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b14ec1e9-5ac3-4c1a-a309-643515a10d84
-:LAST_MODIFIED: [2023-10-17 Tue 01:07]
+:LAST_MODIFIED: [2023-12-07 Thu 06:22]
 :END:
 #+title: The challenge is to improve yourself
 #+hugo_custom_front_matter: :slug "b14ec1e9-5ac3-4c1a-a309-643515a10d84"
@@ -34,7 +34,7 @@ Related: [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Commu
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   371.05 | 2024-10-22T09:12:55Z |
-| back     | 2.50 |   7 |   213.62 | 2023-12-06T08:44:17Z |
+| back     | 2.35 |   8 |   500.66 | 2025-04-21T06:20:31Z |
 :END:
 
 [[id:b14ec1e9-5ac3-4c1a-a309-643515a10d84][The challenge is to improve yourself]]

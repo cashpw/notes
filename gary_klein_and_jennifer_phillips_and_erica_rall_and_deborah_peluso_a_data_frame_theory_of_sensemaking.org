@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kleinDataframeTheorySensemaking]
 :ID:       91231c59-e232-4c0a-8eeb-b3d681c88825
-:LAST_MODIFIED: [2023-12-05 Tue 06:10]
+:LAST_MODIFIED: [2023-12-09 Sat 14:51]
 :END:
 #+title: Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking
 #+hugo_custom_front_matter: :slug "91231c59-e232-4c0a-8eeb-b3d681c88825"
@@ -13,8 +13,7 @@
 
 * INPROGRESS [#0] Summary
 
-
-
+- [[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]
 - [[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]
 
 * TODO [#0] Thoughts
@@ -148,7 +147,7 @@ Our observations of sensemaking suggest that, as a deliberate activity, it conti
 :NOTER_PAGE: 14
 :END:
 
-See [[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]].
+See [[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]], [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]].
 
 #+begin_quote
 Klein et al. (2002) reported that expert information operations specialists performed at a much higher level than novices, but both groups employed the same types of logical and abductive inferencing. This finding is in accord with the literature (e.g., Barrows, Feightner, Neufeld, & Norman, 1978; Elstein, Shulman, & Sprafka, 1978; Simon, 1973) reporting that experts and novices showed no differences in their reasoning processes.
@@ -163,6 +162,7 @@ The mechanism of generating inferences was the same for experts and novices, but
 
 Generally, the novices were less certain about the relevance of messages, and were more likely to interpret messages that were noise in the scenario as important signals. Thus, in "Rebuilding the Schools," another message stated that three teenagers were found in a car with contraband cigarettes. One expert commented, "Business as usual." The second expert commented, "Don't care. You could spend a lot of resources on controlled cigarettes --- and why? Unless there is a larger issue, let it go." In contrast, the novices became concerned about this transgression. One wondered if the teenagers were part of a general smuggling gang. Another wanted more data about where the cigarettes came from. A third novice wanted to know what type of suspicious behavior had gotten the teenagers pulled over.
 #+end_quote
+
 *** Sensemaking is used to achieve a functional understanding
 :PROPERTIES:
 :NOTER_PAGE: 16
@@ -177,6 +177,7 @@ In many settings, experienced practitioners want a functional understanding as w
 
 Charness (1979) reported the results of a cognitive task analysis conducted with bridge players. The sensemaking of the skilled bridge players was based on what they could or could not achieve with a hand --- the affordances of the hand they were dealt. In contrast, the novices interpreted bridge hands according to more abstract features such as the number of points in the hand.
 #+end_quote
+
 *** People primarily rely on just-in-time mental models
 :PROPERTIES:
 :NOTER_PAGE: 18
@@ -191,6 +192,7 @@ We suggest that people primarily rely on JIT mental models --- building on the l
 
 We believe that in many domains, people do not have comprehensive mental models but can still perform effectively. The fragmentary mental models of experts are more complete than those of novices.
 #+end_quote
+
 *** Sensemaking takes different forms, each with its own dynamics
 :PROPERTIES:
 :NOTER_PAGE: 20
@@ -252,6 +254,7 @@ Problem detection (e.g., Klein, Pliske, Crandall, & Woods, in press) is a form o
 
 Example 4 [below] describes a fire captain questioning his frame for the progression of a fire involving a laundry chute (taken from Klein, 1998). He realizes that the data do not match his frame when he sees flames rolling along the ceiling of the fourth-floor landing; at this point he recognizes the fire is much more involved than he originally expected, and he is able to quickly adapt his strategies to accommodate the seriousness of the fire.
 #+end_quote
+
 *** Preserving the frame
 :PROPERTIES:
 :NOTER_PAGE: 26
@@ -387,19 +390,25 @@ Now that we have described the data–frame theory, we want to consider ways of 
 #+begin_quote
 Sensemaking is the deliberate effort to understand events. It serves a variety of functions, such as explaining anomalies, anticipating difficulties, detecting problems, guiding information search, and taking effective action. We have presented a data–frame theory of the process of sensemaking in natural settings.
 
-The theory contains a number of assertions. First, the theory posits that the interaction between the data and the frame is a central feature of sensemaking. The data, along with the goals, expertise, and stance of the sensemaker, combine to generate a relevant frame. The frame subsequently shapes which data from the environment will be recognized as pertinent, how the data will be interpreted, and what role they will play when incorporated into the evolving frame. Our view of the data–frame relationship mirrors Neisser's (1976) cyclical account of perception, in that available information, or data, modifies one's schema, or frame, of the present environment, which in turn directs one's exploration and/or sampling of that environment. The data are used to select and alter the frame. The frame is used to select and configure the data. In this manner, the frame and the data work in concert to generate an explanation. The implication of this continuous, two-way, causal interaction is that both sensemaking and data exploration suffer when the frame is inadequate. Second, our observations in several domains suggest that people select frames based on a small number of anchors—highly salient data elements. The initial few anchors seem to determine the type of explanatory account that is formed, with no more than three to four anchors active at any point in time.
+The theory contains a number of assertions.
 
-Third, our research is consistent with prior work (Barrows et al., 1978; Chase & Simon, 1973; Elstein, 1989) showing that expert–novice differences in sensemaking performance are not due to superior reasoning on the part of the expert or mastery of advanced reasoning strategies, but rather to the quality of the frame that is brought to bear. Experts have more factual knowledge about their domain, have built up more experiences, and have more knowledge about cause-and-effect relationships.
+1. The theory posits that the interaction between the data and the frame is a central feature of sensemaking. The data, along with the goals, expertise, and stance of the sensemaker, combine to generate a relevant frame. The frame subsequently shapes which data from the environment will be recognized as pertinent, how the data will be interpreted, and what role they will play when incorporated into the evolving frame. Our view of the data–frame relationship mirrors Neisser's (1976) cyclical account of perception, in that available information, or data, modifies one's schema, or frame, of the present environment, which in turn directs one's exploration and/or sampling of that environment. The data are used to select and alter the frame. The frame is used to select and configure the data. In this manner, the frame and the data work in concert to generate an explanation. The implication of this continuous, two-way, causal interaction is that both sensemaking and data exploration suffer when the frame is inadequate.
 
-Experts are more likely to generate a good explanation of the situation than novices because their frame enables them to select the right data from the environment, interpret them more accurately, and see more pertinent patterns and connections in the data stream.
+2. Our observations in several domains suggest that people select frames based on a small number of anchors—highly salient data elements. The initial few anchors seem to determine the type of explanatory account that is formed, with no more than three to four anchors active at any point in time.
 
-Fourth, we suggest that people more often construct JIT mental models from available knowledge than draw on comprehensive mental models. We have not found evidence that people often form comprehensive mental models. Instead, people rely on JIT models, constructed from fragments, in a way that is analogous to the construction of memory. In complex and open systems, a comprehensive mental model is unrealistic.
+3. Our research is consistent with prior work (Barrows et al., 1978; Chase & Simon, 1973; Elstein, 1989) showing that expert–novice differences in sensemaking performance are not due to superior reasoning on the part of the expert or mastery of advanced reasoning strategies, but rather to the quality of the frame that is brought to bear. Experts have more factual knowledge about their domain, have built up more experiences, and have more knowledge about cause-and-effect relationships.
 
-There is some evidence that in domains dealing with closed systems, such as medicine (i.e., the human body can be considered a roughly closed system), an expert can plausibly develop an adequately comprehensive mental model for some medical conditions. However, most people and even most experts rely on fragments of local cause–effect connections, rules of thumb, patterns of cues, and other linkages and relationships between cues and information to guide the sensemaking process (and indeed other high-level cognitive processes).
+   Experts are more likely to generate a good explanation of the situation than novices because their frame enables them to select the right data from the environment, interpret them more accurately, and see more pertinent patterns and connections in the data stream.
 
-The concept of JIT mental models is interesting for several reasons. We believe that the fragmentary knowledge (e.g., causal relationships, rules, principles) representing one domain can be applied to a sensemaking activity in a separate domain. If people have worked out complex and comprehensive mental models in a domain, they will have difficulty in generalizing this knowledge to another domain, whereas the generalization of fragmentary knowledge is much easier. Fragmentary knowledge contributes to the frame that is constructed by the sensemaker; fragmentary knowledge therefore helps to guide the selection and interpretation of data. We do not have to limit our study of mental models to the static constructs and beliefs that people hold; we can also study the process of compiling JIT mental models from a person's knowledge base.
+4. We suggest that people more often construct JIT mental models from available knowledge than draw on comprehensive mental models. We have not found evidence that people often form comprehensive mental models. Instead, people rely on JIT models, constructed from fragments, in a way that is analogous to the construction of memory. In complex and open systems, a comprehensive mental model is unrealistic.
 
-Fifth, the data–frame account of sensemaking is different from an information-processing description of generating inferences on data elements. Sensemaking is motivated by the person's goals and by the need to balance the data with the frame—a person experiences confusion in having to consider data that appear relevant and yet are not integrated. Successful sensemaking achieves a mental balance by fitting data into a well-framed relationship with other data. This balance will be temporary because dynamic conditions continually alter the landscape. Nevertheless, the balance, when achieved, is emotionally satisfying in itself. People do not merely churn out inferences. They are actively trying to experience a match, however fleeting, between data and frame.
+   There is some evidence that in domains dealing with closed systems, such as medicine (i.e., the human body can be considered a roughly closed system), an expert can plausibly develop an adequately comprehensive mental model for some medical conditions. However, most people and even most experts rely on fragments of local cause–effect connections, rules of thumb, patterns of cues, and other linkages and relationships between cues and information to guide the sensemaking process (and indeed other high-level cognitive processes).
+
+   The concept of JIT mental models is interesting for several reasons. We believe that the fragmentary knowledge (e.g., causal relationships, rules, principles) representing one domain can be applied to a sensemaking activity in a separate domain. If people have worked out complex and comprehensive mental models in a domain, they will have difficulty in generalizing this knowledge to another domain, whereas the generalization of fragmentary knowledge is much easier. Fragmentary knowledge contributes to the frame that is constructed by the sensemaker; fragmentary knowledge therefore helps to guide the selection and interpretation of data. We do not have to limit our study of mental models to the static constructs and beliefs that people hold; we can also study the process of compiling JIT mental models from a person's knowledge base.
+
+5. The data–frame account of sensemaking is different from an information-processing description of generating inferences on data elements. Sensemaking is motivated by the person's goals and by the need to balance the data with the frame—a person experiences confusion in having to consider data that appear relevant and yet are not integrated. Successful sensemaking achieves a mental balance by fitting data into a well-framed relationship with other data. This balance will be temporary because dynamic conditions continually alter the landscape. Nevertheless, the balance, when achieved, is emotionally satisfying in itself. People do not merely churn out inferences. They are actively trying to experience a match, however fleeting, between data and frame.
+
+[formatting mine]
 #+end_quote
 
 ** Example 1: The ominous airplanes
@@ -510,7 +519,44 @@ In this example, we see several of the sensemaking activities. The pilot started
 Example 6 illustrates most of the sensemaking types shown in Figure 6.1. The example shows the initial data–frame match: The pilot started off with a firm belief that he knew where he was. As he proceeded, he elaborated on his frame by incorporating various landmarks. His elaboration also helped him preserve his frame, as he explained away some potential discrepancies. Eventually, he did question his understanding. He did realize that he was lost. He had no alternate frame ready as a replacement, and no easy way to construct a new frame. But he was able to devise a strategy that would let him use a few anchors (the Ohio River and the configuration of factories) to find his position on his map. He used this new frame to locate his destination airport.
 #+end_quote
 
+* INPROGRESS [#0] Flashcards :noexport:
+** Compare/Contrast ([[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-12-09 Sat 13:59]
+:FC_CREATED: 2023-12-09T22:00:54Z
+:FC_TYPE:  normal
+:ID:       b9d7bb76-20c0-46ea-a522-3a2843ee97ce
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-09T22:00:54Z |
+:END:
 
-* TODO [#0] Flashcards :noexport:
+Novices and experts
+
+*** Back
+Experts reaosn the same way as novices; however, experts have a greater repertoire of frames.
+*** Source
+[cite:@kleinDataframeTheorySensemaking]
+** Compare/Contrast :fc:suspended:
+:PROPERTIES:
+:CREATED: [2023-12-09 Sat 14:49]
+:FC_CREATED: 2023-12-09T22:51:32Z
+:FC_TYPE:  normal
+:ID:       5fb63224-44f4-4923-9493-6beb63aa5eab
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-09T22:51:32Z |
+:END:
+
+Just-in-time and comperhensive [[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental models]]
+
+*** TODO [#0] Back
+- Comprehensive mental models captures essential relationships in a system (e.g. an automobile mechanic's understanding of engines)
+- Just-in-time mental models are constructed
+*** TODO [#0] Source
 * Bibliography
 #+print_bibliography:

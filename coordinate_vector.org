@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4b917306-e1fa-4d34-9d2b-5bb1eedab431
 :ROAM_REFS: [cite:@CoordinateVector2022]
-:LAST_MODIFIED: [2023-11-06 Mon 07:19]
+:LAST_MODIFIED: [2023-12-08 Fri 09:48]
 :END:
 #+title: Coordinate vector
 #+hugo_custom_front_matter: :slug "4b917306-e1fa-4d34-9d2b-5bb1eedab431"
@@ -29,7 +29,7 @@ $\begin{bmatrix}\vec{v}\end{bmatrix}_B$ denotes the coordinate vector $\vec{v}$ 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   8 |   325.11 | 2024-02-03T17:51:44Z |
-| front    | 2.80 |   8 |   324.50 | 2023-12-07T13:48:09Z |
+| front    | 2.80 |   9 |   940.17 | 2026-07-05T21:47:19Z |
 :END:
 
 Coordinate Vector

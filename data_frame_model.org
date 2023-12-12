@@ -1,18 +1,112 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2023-12-05 Tue 06:12]
+:LAST_MODIFIED: [2023-12-09 Sat 13:58]
 :ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
 #+hugo_custom_front_matter: :slug "98a0ed99-a6a1-4b05-aa8e-0261402cc961"
 #+author: Cash Prokop-Weaver
 #+date: [2023-09-11 Mon 07:57]
-#+filetags: :hastodo:concept:
+#+filetags: :concept:
 
-The way we understand the world ([[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental model]]) affects the information we perceive, and vice versa.
+The way we understand the world ([[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental models]]) affects which information we perceive, and vice versa (e.g. [[id:cba59da8-e0d0-416a-8f61-833a92b47c1d][Everything looks like a nail when all you have is a hammer]]). This bi-directional flow is the data-frame model.
 
-* TODO [#0]
-see [[id:91231c59-e232-4c0a-8eeb-b3d681c88825][Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking]]
-* TODO [#2] Flashcards :noexport:
+#+begin_quote
+Data are the interpreted signals of events; frames are the explanatory structures that account for the data. People react to data elements by trying to find or construct a story, script, a map, or some other type of structure to account for the data. At the same time, their repertoire of frames --- explanatory structures --- affects which data elements they consider and how they will interpret these data.
+
+[cite:@kleinDataframeTheorySensemaking]
+#+end_quote
+
+* Data
+
+#+begin_quote
+Data elements are not perfect representations of the world but are constructed --- the way we construct memories rather than remembering all of the events that took place. Different people viewing the same events can perceive and recall different things depending on their goals and experiences. (See Medin, Lynch, Coley, & Atran, 1997, and Wisniewski & Medin, 1994, for discussions of the construction of cues and categories.) A fireground commander, an arson investigator, and an insurance agent will all be aware of different cues and cue patterns in viewing the same house on fire. [...]
+
+Because the little things we call "data" are actually abstractions from the environment, they can be distortions of reality. Feltovich, Spiro, and Coulson (1997) described the ways we simplify the world in trying to make sense of it:
+
+- We define continuous processes as discrete steps
+- We treat dynamic processes as static
+- We treat simultaneous processes as sequential
+- We treat complex systems as simple and direct causal mechanisms
+- We separate processes that interact
+- We treat conditional relationships as universals
+- We treat heterogeneous components as homogeneous
+- We treat irregular cases as regular ones
+- We treat nonlinear functional relationships as linear
+- We attend to surface elements rather than deep ones
+- We converge on single interpretations rather than multiple interpretations
+
+[cite:@kleinDataframeTheorySensemaking]
+#+end_quote
+
+* Frame
+
+#+begin_quote
+We use the term frame to denote an explanatory structure that defines entities by describing their relationship to other entities. A frame can take the form of a story, explaining the chronology of events and the causal relationships between them; a map, explaining where we are by showing distances and directions to various landmarks and showing routes to destinations; a script, explaining our role or job as complementary to the roles or jobs of others; or a plan for describing a sequence of intended actions. Thus, a frame is a structure for accounting for the data and guiding the search for more data. It reflects a person's compiled experiences.
+
+[cite:@kleinDataframeTheorySensemaking]
+#+end_quote
+
+* Flashcards :noexport:
+** Definition ([[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-12-09 Sat 13:54]
+:FC_CREATED: 2023-12-09T21:55:37Z
+:FC_TYPE:  double
+:ID:       775b8abf-d7e0-4fec-aa9c-a86a0a747f41
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-09T21:55:37Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-16T21:55:37Z |
+:END:
+
+Data
+
+*** Back
+Interpreted, imperfect, signals of events
+*** Source
+[cite:@kleinDataframeTheorySensemaking]
+** Definition ([[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]) :fc:
+:PROPERTIES:
+:CREATED: [2023-12-09 Sat 13:55]
+:FC_CREATED: 2023-12-09T21:56:57Z
+:FC_TYPE:  double
+:ID:       ca81ccf1-2d0b-4023-9412-9efffe4d79eb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-09T21:56:57Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-16T21:56:57Z |
+:END:
+
+Frame(s)
+
+*** Back
+Explanatory structures that define entities by describing their relationships to other entities; a graph.
+*** Source
+[cite:@kleinDataframeTheorySensemaking]
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2023-12-09 Sat 13:57]
+:FC_CREATED: 2023-12-09T21:58:37Z
+:FC_TYPE:  double
+:ID:       cc925c46-df09-47d4-966e-e7f8a16a5b50
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-09T21:58:37Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-16T21:58:37Z |
+:END:
+
+[[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]
+
+*** Back
+The way we understand the world affects which information we perceive, and vice versa.
+*** Source
+[cite:@kleinDataframeTheorySensemaking]
 * Bibliography
 #+print_bibliography:

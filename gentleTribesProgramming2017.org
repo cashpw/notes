@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@gentleTribesProgramming2017]
 :ID:       2f62e8c7-6d64-4820-9b12-3949627c2386
-:LAST_MODIFIED: [2023-11-19 Sun 06:35]
+:LAST_MODIFIED: [2023-12-07 Thu 06:31]
 :END:
 #+title: Joseph Gentle | Three Tribes of Programming
 #+hugo_custom_front_matter: :slug "2f62e8c7-6d64-4820-9b12-3949627c2386"
@@ -142,12 +142,13 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   237.62 | 2023-12-27T12:59:39Z |
-| back     | 2.35 |   7 |   199.79 | 2023-11-25T11:34:02Z |
+| back     | 2.35 |   8 |   437.98 | 2025-02-17T14:02:45Z |
 :END:
 
 [[id:8aba3ca3-4de0-46cc-be4a-4e7c4611fafd][Programming as hardware hacking]]
 
 *** Back
+
 #+begin_quote
 - Source code: The code should be clean, but clean code is less important than a clean execution.
 - Execution: How the computer executes your code is paramount.
