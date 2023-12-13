@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bcb6a937-5921-4e25-97ac-8cb8277e4aa8
-:LAST_MODIFIED: [2023-12-07 Thu 06:22]
+:LAST_MODIFIED: [2023-12-12 Tue 19:31]
 :ROAM_ALIASES: "Newton's Cenotaph"
 :END:
 #+title: Cenotaph for Sir Isaac Newton
@@ -17,30 +17,7 @@ A piece of [[id:0b177377-113b-43c9-83aa-319703d38fb8][Visionary architecture]] b
 [cite:@EtienneLouisBoullee2023]
 #+end_quote
 
-#+begin_quote
-#+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b7701015b/f1/full/full/0/native.jpg @ 2023-07-25 14:28:25
-[[file:2023-07-25_14-28-25_newtons-cenotaph-plate-5.jpg]]
-
-#+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b7701015b/f2/full/full/0/native.jpg @ 2023-07-25 14:28:25
-[[file:2023-07-25_14-28-25_newtons-cenotaph-plate-6.jpg]]
-
-#+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b7701015b/f3/full/full/0/native.jpg @ 2023-07-25 14:28:25
-[[file:2023-07-25_14-28-25_newtons-cenotaph-plate-7.jpg]]
-
-#+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b7701015b/f4/full/full/0/native.jpg @ 2023-07-25 14:28:25
-[[file:2023-07-25_14-28-25_newtons-cenotaph-plate-8.jpg]]
-
-#+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b7701015b/f5/full/full/0/native.jpg @ 2023-07-25 14:28:25
-[[file:2023-07-25_14-28-25_newtons-cenotaph-plate-9.jpg]]
-
-#+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b7701015b/f6/full/full/0/native.jpg @ 2023-07-25 14:28:25
-[[file:2023-07-25_14-28-25_newtons-cenotaph-plate-10.jpg]]
-
-http://catalogue.bnf.fr/ark:/12148/cb402991186
-#+end_quote
-
-* Full resolution
-
+#+begin_hugogallery
 #+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b531645783/f1/full/full/0/native.jpg @ 2023-07-25 14:28:25
 [[file:2023-07-25_14-28-25_plan-of-newtons-cenotaph-plate-5.jpg]]
 
@@ -58,6 +35,7 @@ http://catalogue.bnf.fr/ark:/12148/cb402991186
 
 #+DOWNLOADED: https://gallica.bnf.fr/iiif/ark:/12148/btv1b531799418/f1/full/full/0/native.jpg @ 2023-07-25 14:28:25
 [[file:2023-07-25_14-28-25_plan-of-newtons-cenotaph-plate-10.jpg]]
+#+end_hugogallery
 
 * Flashcards :noexport:
 ** Image :fc:

@@ -1,30 +1,35 @@
+#    -*- mode: org -*-
 :PROPERTIES:
-:ID:       8a0cef6e-e26b-4aac-a260-34fb116f7952
-:LAST_MODIFIED: [2023-12-12 Tue 19:53]
+:LAST_MODIFIED: [2023-12-12 Tue 19:36]
 :END:
-#+title: Art inspiration
-#+hugo_custom_front_matter: :slug "8a0cef6e-e26b-4aac-a260-34fb116f7952"
-#+author: Cash Prokop-Weaver
-#+date: [2022-11-08 Tue 15:58]
-#+filetags: :hastodo:concept:
+#+hugo_custom_front_matter: 
 
-* Digital collections
 
-- [cite:@mccannAwesomedigitalcollections2022]
+Archived entries from file /home/cashweaver/proj/notes/art_inspiration.org
 
-* Art
-- [[https://imgsed.com/p/Cw1oWjCBekw/][Post - eniwamura - For new project#studio #wip #art #ceramics #clay #sculptu...]]
 
 * Ceramic inspiration
 :PROPERTIES:
 :ID: 6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf
 :ROAM_ALIASES: "Pottery inspiration"
+:ARCHIVE_TIME: 2023-12-12 Tue 19:36
+:ARCHIVE_FILE: ~/proj/notes/art_inspiration.org
+:ARCHIVE_CATEGORY: art_inspiration
+:ARCHIVE_ITAGS: hastodo concept
 :END:
+
+#+begin_hugogallery
+#+attr:
+[[file:my-favorite-piece-so-far.png]]
+#+end_hugogallery
 
 [[id:c73727bd-7ed8-4c50-bd08-524ebb2afbea][Ceramists I follow]]
 
 - https://honchar.org.ua/collections/view/keramika
+- [[https://www.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/][My favorite piece so far]]
+- https://www.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/
 - [[https://www.reddit.com/r/Ceramics/comments/14kkrjr/a_lunar_style_glaze_ive_been_trying_to_perfect/][A 'Lunar' style glaze I've been trying to perfect.]]
+- [[https://www.reddit.com/r/Ceramics/comments/14lgrg5/trash_teapot/]["Trash" teapot]]
 - [[https://www.reddit.com/r/Pottery/comments/14nigfz/wanted_to_share_my_first_coil_built_piece_it/][Wanted to share my first coil built piece, it started off as a pitcher but I wasn't loving the top so I pivoted to a vase. I can't wait to fire this puppy after a slow dry]]
 - [[https://www.reddit.com/r/Pottery/comments/14qyfd9/bouldering_cups_i_made_for_my_first_market_at_a/][Bouldering cups i made for my first market at a climbing gym]]
 - [[https://www.reddit.com/r/Ceramics/comments/14sa6z0/60s_floralinspired_plate_i_painted/][60s floral-inspired plate I painted]]
@@ -190,27 +195,3 @@
 - https://collection.powerhouse.com.au/object/118314
 - https://www.tumblr.com/design-is-fine/732174076776529920/eva-zeisel-museum-dinner-service-1945-1970?source=share
 
-** Forms
-#+begin_hugogallery
-#+DOWNLOADED: https://preview.redd.it/dvw5sw7yhkcb1.jpg?width=767&auto=webp&s=c584e8e3b526724a721f4c75ede275a1593b6176 @ 2023-12-12 19:48:22
-#+attr_html: :attr Rushsculpture :attrlink https://old.reddit.com/r/Ceramics/comments/1529n55/i_know_jug_i_know/
-[[file:2023-12-12_19-48-22_dvw5sw7yhkcb1.jpg.jpeg]]
-
-#+attr_html: :attr deedlelu :attrlink https://old.reddit.com/r/Pottery/comments/14nigfz/wanted_to_share_my_first_coil_built_piece_it/
-[[file:2023-12-12_19-52-00.png]]
-#+end_hugogallery
-
-** Glazes
-
-#+begin_hugogallery
-#+attr_html: :attr Norizan :attrlink https://old.reddit.com/r/Pottery/comments/152m6ur/my_favorite_piece_so_far/
-[[file:my-favorite-piece-so-far.png]]
-#+end_hugogallery
-
-
-* TODO [#4] Extract links into inspiration gallery to avoid link rot
-
-* Flashcards :noexport:
-
-* Bibliography
-#+print_bibliography:
