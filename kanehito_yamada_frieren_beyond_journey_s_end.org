@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@yamadaFrierenJourneyEndVolume2022]
 :ID:       9bace508-65f0-4fd5-9c93-338ccea13c56
-:LAST_MODIFIED: [2023-12-12 Tue 19:31]
+:LAST_MODIFIED: [2023-12-14 Thu 12:49]
 :END:
 #+title: Kanehito Yamada | Frieren: Beyond Journey's End
 #+hugo_custom_front_matter: :slug "9bace508-65f0-4fd5-9c93-338ccea13c56"
@@ -14,54 +14,30 @@
 * Summary
 The journey after a journey. A reflection on relationships and time, love, loss, entropy, and the melancholy of long life.
 * Thoughts
-- Potential spoiler: I think the ending will be a "the real solution was the journey and the friends made along the way". Flamme's way of helping Frieren will have been to force her on another difficult quest on which she'll bond with and form friendships with her adventure party.
+- Potential spoiler: I think the ending will be a "the real solution was the journey and the friends made along the way". Flamme's way of helping Frieren will have been to force her on another difficult quest on which she'll bond with and form friendships with her adventure party. I think such an ending is appropriate because her goal is exactly that --- to bond and learn about the people around her.
 - One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
-- I enjoy the montage pages Yamada includes without dialog ([[file:2023-12-07_06-47-54_p.jpg][example of a montage page]])
+- I enjoy the montage pages [[id:0348f865-551c-40ba-a46f-89d7b66af892][Yamada]] includes without dialog ([[file:2023-12-07_06-47-54_p.jpg][example of a montage page]])
 * Notes
 
 ** Spells
 
 - A spell to flip pancakes perfectly
 
-** Chapter 1
-#+begin_hugogallery
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1b3554c72afa436c686274ad41f4a6224ecf82ac35aba11aadce18ec61e8a75d1ecd3eef06906/r/p.jpg @ 2023-12-07 06:47:54
-[[file:2023-12-07_06-47-54_p.jpg]]
-
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1b3554c72afa436c686274ad41f4a6224ecf82ac05bba11aadce18ec61e8a75d1ecd3eef06906/r/p.jpg @ 2023-12-07 06:46:53
-[[file:2023-12-07_06-46-53_p.jpg]]
-#+end_hugogallery
-** Chapter 78
-
-#+begin_hugogallery
-[[file:just-trivial-things-about-his-journey.png]]
-#+end_hugogallery
-** Chapter 79
-#+begin_hugogallery
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1b7554172afa436c688254ad41f4a6226effe2ac25fba11aadce18ec61e8a75d1ecd3eef06906/r/p.jpg @ 2023-12-08 21:02:00
-[[file:2023-12-08_21-02-00_p.jpg]]
-#+end_hugogallery
-** Chapter 80
-#+begin_hugogallery
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1b1551672afa436c688254ad41f4a6226effd2ac25fba11aadce18ec61e8a75d1ecd3eef06906/r/p.jpg @ 2023-12-08 21:08:37
-[[file:2023-12-08_21-08-37_p.jpg]]
-#+end_hugogallery
-** Chapter 82
-#+begin_hugogallery
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1e2554c72afa436c688254ad41f4a6226effb2ac358ba11aadce18ec61e8a75d1ecd3eef06906/r/p.jpg @ 2023-12-09 05:19:15
-[[file:2023-12-09_05-19-15_p.jpg]]
-#+end_hugogallery
-** Chapter 107
-#+begin_hugogallery
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1b0554172aea53fc0823d54d01444612ce2e034c640fe0bbd9df480ca178b7fd6edd0e8f069/r/p.jpg @ 2023-12-09 07:13:53
-[[file:2023-12-09_07-13-53_p.jpg]]
-#+end_hugogallery
-** Chapter 108
-
-#+begin_hugogallery
-#+DOWNLOADED: https://c2.mangacdn.net/12a3db61f9105800ed8c394685aeeb0bca6cf91409fba1b7554072aea53fc0823d54d01444612ce3e034c540fe0bbd9df480ca178b7fd6edd0e8f069/r/p.jpg @ 2023-12-09 07:18:11
-[[file:2023-12-09_07-18-11_p.jpg]]
-#+end_hugogallery
+** Chapter 1 :gallery:
+*** [[file:2023-12-07_06-47-54_p.jpg]]
+*** [[file:2023-12-07_06-46-53_p.jpg]]
+** Chapter 78 :gallery:
+*** [[file:just-trivial-things-about-his-journey.png]]
+** Chapter 79 :gallery:
+*** [[file:2023-12-08_21-02-00_p.jpg]]
+** Chapter 80 :gallery:
+*** [[file:2023-12-08_21-08-37_p.jpg]]
+** Chapter 82 :gallery:
+*** [[file:2023-12-09_05-19-15_p.jpg]]
+** Chapter 107 :gallery:
+*** [[file:2023-12-09_07-13-53_p.jpg]]
+** Chapter 108 :gallery:
+*** [[file:2023-12-09_07-18-11_p.jpg]]
 * Bibliography
 #+print_bibliography:
 * Flashcards :noexport:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       668cbbcc-170b-42c8-b92b-75f6868a0138
-:LAST_MODIFIED: [2023-11-15 Wed 07:19]
+:LAST_MODIFIED: [2023-12-14 Thu 07:19]
 :ROAM_REFS: [cite:@DijkstraAlgorithm2022]
 :END:
 #+title: Dijkstra's algorithm
@@ -53,7 +53,7 @@ Same as the single-source solution, but stop when you've found the target node.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   192.82 | 2023-12-11T20:55:01Z |
+|        0 | 2.20 |   8 |   426.29 | 2025-02-12T22:15:15Z |
 :END:
 
 [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] can solve {{both the [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path problem]] and [[id:9d301c65-05c3-44f8-9660-90e0e963e6aa][Single-source shortest path problem]]}{[[id:555129b5-299e-4605-a2cd-9f77ebcede3d][Shortest path problem]]}@0}

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d
-:LAST_MODIFIED: [2023-10-12 Thu 23:57]
+:LAST_MODIFIED: [2023-12-14 Thu 07:15]
 :END:
 #+title: No half measures
 #+hugo_custom_front_matter: :slug "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
@@ -37,14 +37,16 @@ Related [[id:9e9ec4a3-93b8-4e7e-ba20-dbf557d989cb][Nate Soares | Half-Assing It 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    80.45 | 2023-12-11T00:56:11Z |
+| front    | 2.35 |   7 |   186.82 | 2024-06-18T11:02:39Z |
 | back     | 2.50 |   6 |    98.48 | 2024-01-19T18:22:29Z |
 :END:
 
 [[id:b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d][No half measures]]
 
 *** Back
+
 It's not worth doing things half-way. The result won't satisfy you, because it didn't go far enough, and it won't satisfy others because it went too far.
+
 *** Source
 [[id:b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d][No half measures]]
 

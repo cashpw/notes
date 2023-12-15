@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-12-09 Sat 08:52]
+:LAST_MODIFIED: [2023-12-14 Thu 07:06]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -302,7 +302,7 @@ int main() {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    94.71 | 2023-11-22T16:31:21Z |
+| front    | 2.50 |   7 |   230.23 | 2024-07-31T20:33:16Z |
 | back     | 2.50 |   2 |     2.00 | 2023-10-05T06:12:48Z |
 :END:
 

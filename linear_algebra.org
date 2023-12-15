@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-09 Sat 08:51]
+:LAST_MODIFIED: [2023-12-14 Thu 07:05]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1609,7 +1609,7 @@ Isomorphism of two vector spaces
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   9 |   484.63 | 2024-11-04T06:01:15Z |
-| back     | 2.20 |   3 |     6.00 | 2023-06-14T16:03:19Z |
+| back     | 2.20 |   4 |    13.42 | 2023-12-28T01:04:44Z |
 :END:
 
 Automorphism of a vector space

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
-:LAST_MODIFIED: [2023-11-28 Tue 07:09]
+:LAST_MODIFIED: [2023-12-14 Thu 07:12]
 :ROAM_REFS: [cite:@MinimumSpanningTree2022]
 :END:
 #+title: Minimum spanning tree
@@ -146,7 +146,7 @@ A graph has {{more than one}{count}@0} [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   5 |    15.96 | 2023-12-14T14:05:00Z |
+| front    | 1.60 |   6 |    24.85 | 2024-01-08T11:35:29Z |
 | back     | 2.65 |   7 |   300.76 | 2024-07-06T17:29:38Z |
 :END:
 

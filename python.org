@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2023-12-09 Sat 08:51]
+:LAST_MODIFIED: [2023-12-14 Thu 07:12]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -511,7 +511,7 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   181.16 | 2023-12-13T17:35:10Z |
+|        0 | 2.35 |   8 |   431.51 | 2025-02-18T03:25:00Z |
 |        1 | 2.35 |   7 |   173.34 | 2024-05-26T22:46:46Z |
 :END:
 

@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       98883a1b-a911-4c41-8cd8-6808943ed0bd
+:LAST_MODIFIED: [2023-12-14 Thu 18:01]
+:ROAM_REFS: [cite:@ronnenCrossroads2015]
+:COOK_MINUTES: 60
+:SERVINGS: 1
+:END:
+#+title: Crossroads | Balsamic reduction
+#+hugo_custom_front_matter: :cook_time "1h" :total_time "1h" :servings "1" :slug "98883a1b-a911-4c41-8cd8-6808943ed0bd"
+#+author: Cash Prokop-Weaver
+#+date: [2023-12-14 Thu 17:39]
+#+filetags: :recipe:
+
+A recipe from [[id:88a66df2-ca92-404c-bfaf-67fae1c3b161][Tal Ronnen and Scot Jones and Serafina Magnussen and JoAnn Cianciulli | Crossroads]].
+
+#+begin_quote
+Made from the slow reduction of balsamic vinegar and agave nectar, this intensely flavored condiment is tart and thick. Be sure to keep an eye on the syrupy reduction as it simmers to prevent it from burning.
+
+[cite:@ronnenCrossroads2015]
+#+end_quote
+
+Yields 0.5 cups.
+
+* Ingredients
+
+#+begin_ingredients
+| Ingredient       | Notes        | Quantity |
+|------------------+--------------+----------|
+| Agave nectar     |              | 0.5 cups |
+| Balsamic vinegar |              | 1 cup    |
+| Shallot          | Halved       | 1        |
+| Kosher salt      |              |          |
+| Black pepper     | Fresh ground |          |
+
+- 0.5 cups agave nectar
+- 1 cup balsamic vinegar
+- 1 shallot, halved
+- Kosher salt
+- Black pepper, freshly ground
+#+end_ingredients
+
+* Steps
+
+1. Heat the agave in a small saucepan over medium-low heat until it thins out and is warmed (about 5 minutes)
+2. Add vinegar and shallot; gently simmer, swirling the pan a few times, until the sauce has reduced and thickened to the consistency of maple syrup and coats the back of a spoon (about 50 minutes)
+
+* Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

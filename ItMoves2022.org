@@ -3,7 +3,7 @@
 :ID:       62c2da6b-ad55-4802-a334-f984b938b498
 :DIR:      /home/cashweaver/proj/roam/attachments/62c2da6b-ad55-4802-a334-f984b938b498
 :ROAM_ALIASES: "Eppur si muove"
-:LAST_MODIFIED: [2023-11-14 Tue 07:28]
+:LAST_MODIFIED: [2023-12-14 Thu 07:12]
 :END:
 #+title: And yet It moves
 #+hugo_custom_front_matter: :slug "62c2da6b-ad55-4802-a334-f984b938b498"
@@ -31,7 +31,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   227.73 | 2023-12-14T12:16:42Z |
+| front    | 2.35 |   8 |   531.07 | 2025-05-28T16:50:38Z |
 | back     | 2.20 |   8 |   427.48 | 2025-01-15T03:04:44Z |
 :END:
 

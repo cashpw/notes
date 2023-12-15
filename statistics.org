@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-12-09 Sat 08:50]
+:LAST_MODIFIED: [2023-12-14 Thu 07:11]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1341,7 +1341,7 @@ A descriptor of a model that contains more parameters than can be justified by t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   9 |   375.49 | 2024-03-19T14:53:06Z |
-| front    | 2.80 |   9 |   302.16 | 2023-12-11T21:21:56Z |
+| front    | 2.80 |  10 |   813.27 | 2026-03-06T21:38:58Z |
 :END:
 
 Parametric model

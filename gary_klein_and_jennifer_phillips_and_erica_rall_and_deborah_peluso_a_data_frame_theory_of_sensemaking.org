@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kleinDataframeTheorySensemaking]
 :ID:       91231c59-e232-4c0a-8eeb-b3d681c88825
-:LAST_MODIFIED: [2023-12-09 Sat 14:51]
+:LAST_MODIFIED: [2023-12-14 Thu 07:13]
 :END:
 #+title: Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking
 #+hugo_custom_front_matter: :slug "91231c59-e232-4c0a-8eeb-b3d681c88825"
@@ -530,13 +530,13 @@ Example 6 illustrates most of the sensemaking types shown in Figure 6.1. The exa
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-09T22:00:54Z |
+| front    | 2.50 |   1 |     1.00 | 2023-12-15T15:13:32Z |
 :END:
 
 Novices and experts
 
 *** Back
-Experts reaosn the same way as novices; however, experts have a greater repertoire of frames.
+Experts reason the same way as novices; however, experts have a greater repertoire of frames.
 *** Source
 [cite:@kleinDataframeTheorySensemaking]
 ** Compare/Contrast :fc:suspended:

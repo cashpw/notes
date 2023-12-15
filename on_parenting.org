@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3b7896cb-c4bd-4036-976b-ab5c92a2b453
-:LAST_MODIFIED: [2023-11-16 Thu 09:00]
+:LAST_MODIFIED: [2023-12-14 Thu 10:16]
 :END:
 #+title: On parenting
 #+hugo_custom_front_matter: :slug "3b7896cb-c4bd-4036-976b-ab5c92a2b453"
@@ -747,6 +747,14 @@ Sounds like you want the Army Ranger's Field Guide to Infant Civilians, which sa
 :CREATED: [2023-02-06 17:28]
 :END:
 ** TODO [cite:@AttachmentParenting2023]
+* Open questions
+
+** TODO What can I (father) do to be wanted by our baby as much as Mom, or is it a lost cause?
+SCHEDULED: <2023-12-14 Thu>
+:PROPERTIES:
+:CREATED:  [2023-12-07 Thu 11:20]
+:Effort:   2h
+:END:
 * Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

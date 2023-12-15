@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-09 Sat 08:50]
+:LAST_MODIFIED: [2023-12-14 Thu 07:08]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -3378,7 +3378,7 @@ The convolution of the underlying data points with a fixed weighting function; $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   9 |   302.82 | 2023-11-20T09:58:20Z |
+|        0 | 2.50 |  10 |   771.18 | 2026-01-23T19:32:31Z |
 |        1 | 2.20 |   8 |   229.15 | 2023-09-17T17:50:49Z |
 :END:
 

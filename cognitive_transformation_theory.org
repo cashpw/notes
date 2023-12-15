@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2023ecf7-2e79-4919-a356-264eecb3034b
-:LAST_MODIFIED: [2023-12-08 Fri 09:54]
+:LAST_MODIFIED: [2023-12-14 Thu 07:19]
 :END:
 #+title: Cognitive transformation theory
 #+hugo_custom_front_matter: :slug "2023ecf7-2e79-4919-a356-264eecb3034b"
@@ -24,7 +24,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.41 | 2023-12-13T01:00:12Z |
+| front    | 2.50 |   5 |    38.15 | 2024-01-21T18:51:01Z |
 | back     | 2.50 |   2 |     2.00 | 2023-12-10T17:54:57Z |
 :END:
 
@@ -33,6 +33,7 @@
 *** Back
 
 The idea that progress in mental skills depends on successively shedding outmoded sets of beliefs and adopting new beliefs.
+
 *** Source
 [cite:@kleinCognitiveTransformationTheoryContrastingCognitiveBehavioralLearning2006]
 * Bibliography

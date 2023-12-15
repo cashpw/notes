@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       097f418c-8af5-498a-a5e3-37bab614556e
-:LAST_MODIFIED: [2023-09-17 Sun 16:09]
+:LAST_MODIFIED: [2023-12-14 Thu 07:14]
 :END:
 #+title: Cognitive dissonance
 #+hugo_custom_front_matter: :slug "097f418c-8af5-498a-a5e3-37bab614556e"
@@ -46,13 +46,17 @@ The perception of contradictory information. Typically experienced when individu
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   8 |   237.88 | 2023-12-11T13:05:41Z |
+| front    | 2.05 |   9 |   521.59 | 2025-05-19T05:29:53Z |
 | back     | 2.50 |   9 |   327.05 | 2024-04-12T14:25:48Z |
 :END:
+
 [[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]]
+
 *** Back
+
 - Telling your family that you don't like apples before retiring to your bedroom to eat apples in secret.
 - Thinking of yourself as non-racist while belonging to a group which enacts racist policy.
+
 *** Source
 [cite:@CognitiveDissonance2022]
 * Bibliography

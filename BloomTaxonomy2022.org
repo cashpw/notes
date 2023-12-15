@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2023-12-08 Fri 09:42]
+:LAST_MODIFIED: [2023-12-14 Thu 07:09]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -294,7 +294,7 @@ Learning objective concerned with using acquired knowledge to solve problems in 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   9 |    40.50 | 2023-12-13T03:31:30Z |
+| front    | 1.30 |  10 |    52.85 | 2024-02-05T11:37:46Z |
 | back     | 2.65 |   7 |   369.65 | 2024-08-03T15:33:13Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ad8549b5-9c51-48c0-b3e9-462d18827bb4
-:LAST_MODIFIED: [2023-11-06 Mon 07:01]
+:LAST_MODIFIED: [2023-12-14 Thu 07:14]
 :END:
 #+title: Big-Omega notation
 #+hugo_custom_front_matter: :slug "ad8549b5-9c51-48c0-b3e9-462d18827bb4"
@@ -21,13 +21,14 @@ Big Omega notation, written as \(\bigomega{g(n)}\), indicates an worst-case asym
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   9 |    37.26 | 2023-12-13T21:21:51Z |
+| back     | 1.30 |  10 |    49.01 | 2024-02-01T15:30:58Z |
 | front    | 2.50 |   8 |   532.84 | 2024-12-29T10:19:29Z |
 :END:
 
 [[id:ad8549b5-9c51-48c0-b3e9-462d18827bb4][Big Omega notation]]
 
 *** Back
+
 The set of functions which have a specific asymptotic lower bound.
 
 *** Extra

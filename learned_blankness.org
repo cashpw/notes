@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5a824b91-5b0e-4e8e-9946-c7bd0d17d202
-:LAST_MODIFIED: [2023-11-16 Thu 08:11]
+:LAST_MODIFIED: [2023-12-14 Thu 07:18]
 :END:
 #+title: Learned blankness
 #+hugo_custom_front_matter: :slug "5a824b91-5b0e-4e8e-9946-c7bd0d17d202"
@@ -30,12 +30,13 @@ Related: [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   375.35 | 2024-06-29T23:40:00Z |
-| back     | 1.30 |   9 |    26.39 | 2023-12-13T01:37:59Z |
+| back     | 1.30 |  10 |    34.68 | 2024-01-18T07:32:35Z |
 :END:
 
 [[id:5a824b91-5b0e-4e8e-9946-c7bd0d17d202][Learned blankness]]
 
 *** Back
+
 A state of mind characterized by the lack of a drive to understand. Those exhibiting ... may still take action "but they do so as though carrying out rituals to an unknown god".
 *** Source
 [cite:@salamonLearnedBlankness2011]

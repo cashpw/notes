@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       99e14785-13bb-420c-b0b5-b14bad1bd163
-:LAST_MODIFIED: [2023-12-09 Sat 08:50]
+:LAST_MODIFIED: [2023-12-14 Thu 07:08]
 :END:
 #+title: Freddish
 #+hugo_custom_front_matter: :slug "99e14785-13bb-420c-b0b5-b14bad1bd163"
@@ -87,7 +87,7 @@ A set of language patterns for talking with children which anticipates and prote
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |  10 |   136.43 | 2023-12-10T01:21:12Z |
+| front    | 1.60 |  11 |   227.65 | 2024-07-29T06:46:41Z |
 | back     | 2.80 |   7 |   363.73 | 2024-06-23T11:22:42Z |
 :END:
 
