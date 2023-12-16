@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ad51c11-995b-4437-a218-82df11697f7a
-:LAST_MODIFIED: [2023-12-09 Sat 08:56]
+:LAST_MODIFIED: [2023-12-15 Fri 07:39]
 :END:
 #+title: Iterative deepening depth-first-search
 #+hugo_custom_front_matter: :slug "0ad51c11-995b-4437-a218-82df11697f7a"
@@ -60,7 +60,7 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        2 | 2.65 |   7 |   287.40 | 2023-12-11T01:58:01Z |
+|        2 | 2.50 |   8 |   767.08 | 2026-01-20T17:31:30Z |
 |        1 | 2.35 |   8 |   520.79 | 2025-01-28T09:52:49Z |
 |        0 | 2.65 |   8 |   371.74 | 2024-06-12T08:20:15Z |
 :END:

@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       9b56dca0-39e0-4dec-a269-dd7773257c2b
-:PREP_MINUTES: 15
-:COOK_MINUTES: 15
-:SERVINGS: 4
-:STARS:   5
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:recipe_prep_minutes: 15
+:recipe_cook_minutes: 15
+:recipe_servings: 4
+:recipe_stars:   5
+:LAST_MODIFIED: [2023-12-15 Fri 14:10]
 :END:
 #+title: Cayla's quarantine ramen
-#+hugo_custom_front_matter: :prep_time "15m" :cook_time "15m" :total_time "30m" :servings "4" :slug "9b56dca0-39e0-4dec-a269-dd7773257c2b" :stars "5"
+#+hugo_custom_front_matter: :prep_time "0:15" :cook_time "0:15" :total_time "0:30" :servings "4" :stars "5" :slug "9b56dca0-39e0-4dec-a269-dd7773257c2b"
 #+author: Cash Prokop-Weaver
 #+date: [2022-08-30 Tue 11:30]
 #+filetags: :recipe:

@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       0905eaa4-16e9-4abb-b78c-0b00f855e60d
-:SERVINGS: 8
-:STARS:    5
-:COOK_MINUTES: 45
-:LAST_MODIFIED: [2023-11-24 Fri 15:50]
+:recipe_servings: 8
+:recipe_stars:    5
+:recipe_cook_minutes: 45
+:LAST_MODIFIED: [2023-12-15 Fri 14:11]
 :END:
 #+title: Creamy vegan mushroom lasagna
-#+hugo_custom_front_matter: :cook_time "45m" :total_time "45m" :servings "8" :slug "0905eaa4-16e9-4abb-b78c-0b00f855e60d" :stars "5"
+#+hugo_custom_front_matter: :cook_time "0:45" :total_time "0:45" :servings "8" :stars "5" :slug "0905eaa4-16e9-4abb-b78c-0b00f855e60d"
 #+author: Cash Prokop-Weaver
 #+date: [2022-10-31 Mon 08:21]
 #+filetags: :recipe:

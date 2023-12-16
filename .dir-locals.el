@@ -4,10 +4,9 @@
 ((nil . ((org-hugo-base-dir . "~/proj/notes.cashpw.com")
          (org-hugo-section . "posts")
          (eval . (setq-local
-                  org-default-properties '("PREP_MINUTES"
-                                           "COOK_MINUTES"
-                                           "SERVINGS"
-                                           "STARS")
+                  org-default-properties (append
+                                          org-default-properties
+                                          org-roam-recipe--properties)
                  org-roam-directory (if (file-exists-p (concat default-directory ".dir-locals.el"))
                                                         (expand-file-name (locate-dominating-file default-directory ".dir-locals.el"))
                                                     nil)
@@ -51,57 +50,6 @@
              ))
    " "))
 
-(defun cashpw/get-prep-minutes ()
-  (string-to-number (or (save-excursion
-                          (goto-char (point-min))
-                          (org-entry-get (point)
-                                         "PREP_MINUTES"))
-                        "0")))
-
-(defun cashpw/get-cook-minutes ()
-  (string-to-number (or (save-excursion
-                          (goto-char (point-min))
-                          (org-entry-get (point)
-                                         "COOK_MINUTES"))
-                        "0")))
-
-(defun cashpw/get-cook-time ()
-  (let ((cook-minutes (cashpw/get-cook-minutes)))
-    (cashpw/get-recipe-time cook-minutes)))
-
-(defun cashpw/get-prep-time ()
-  (let ((prep-minutes (cashpw/get-prep-minutes)))
-    (cashpw/get-recipe-time prep-minutes)))
-
-(defun cashpw/get-total-time ()
-  (let* ((prep-minutes (cashpw/get-prep-minutes))
-        (cook-minutes (cashpw/get-cook-minutes))
-        (total-minutes (+ prep-minutes
-                          cook-minutes)))
-    (cashpw/get-recipe-time total-minutes)))
-
-(defun cashpw/get-recipe-time (minutes)
-  (let* ((minutes-in-hour 60)
-         (minutes-in-day (* 24
-                            minutes-in-hour))
-         (days (/ minutes
-                  minutes-in-day))
-         (minutes (if days
-                      (- minutes
-                         (* minutes-in-day
-                            days))
-                    minutes))
-         (hours (/ minutes
-                   minutes-in-hour))
-         (minutes (if hours
-                      (- minutes
-                         (* minutes-in-hour
-                            hours))
-                    minutes)))
-    (cashpw/format-days-hours-minutes days
-                                            hours
-                                            minutes)))
-
 (defun cashpw/get-property (property)
   (save-excursion
     (goto-char (point-min))
@@ -140,38 +88,33 @@
 
 (defun cashpw/set-custom-front-matter ()
   (interactive)
-  (let* ((prep-time (cashpw/get-prep-time))
-         (cook-time (cashpw/get-cook-time))
-         (total-time (cashpw/get-total-time))
-         (servings (cashpw/get-property "SERVINGS"))
+  (let* ((prep-duration (org-roam-recipe-get-prep-duration))
+         (cook-duration (org-roam-recipe-get-cook-duration))
+         (total-duration (org-roam-recipe-get-total-duration))
+         (yield (org-roam-recipe-get-yield))
+         (stars (org-roam-recipe-get-stars))
+         (servings (org-roam-recipe-get-servings))
          (id (cashpw/get-property "ID"))
-         ;; (aliases (cashpw/get-aliases))
-         (stars (cashpw/get-property "STARS"))
-         (front-matter (-filter
-                        (lambda (item)
-                          (destructuring-bind (label . value) item
-                            (length> value 0)))
-                        `(("prep_time" . ,prep-time)
-                          ("cook_time" . ,cook-time)
-                          ("total_time" . ,total-time)
-                          ("servings" . ,servings)
-                          ;; ("aliases" . ,aliases)
-                          ("slug" . ,id)
-                          ("stars" . ,stars)
-                          ))))
-    (cashpw/org-hugo--set-custom-front-matter
-     (string-join
-      (mapcar
-       (lambda (item)
-         (destructuring-bind (label . value) item
-           (s-lex-format
-            ":${label} \"${value}\"")))
-       front-matter)
-      " "))))
+         (properties `(("prep_time" . ,prep-duration)
+                            ("cook_time" . ,cook-duration)
+                            ("total_time" . ,total-duration)
+                            ("servings" . ,servings)
+                            ("stars" . ,stars)
+                            ("yield" . ,yield)
+                            ;; ("aliases" . ,aliases)
+                            ("slug" . ,id)))
+         (front-matter (string-join
+                        (mapcar
+                         (lambda (item)
+                           (destructuring-bind (label . value) item
+                             (s-lex-format
+                              ":${label} \"${value}\"")))
+                         (--filter
+                          (cdr it)
+                          properties))
+                        " ")))
+    (cashpw/org-hugo--set-custom-front-matter front-matter)))
 
-
-                        ;; (org-hugo-auto-export-mode)
-                        ;; (cashpw/enable-anki-editor-mode)
                         (add-hook! 'before-save-hook
                                  :local
                                  #'cashpw/org-roam-before-save)

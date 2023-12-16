@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@lopez-altEasyRoastedGarlicFocacciaRecipe]
 :ID:       ed25a76f-1614-4073-a894-8f68f91e6731
-:LAST_MODIFIED: [2023-12-14 Thu 17:59]
-:PREP_MINUTES: 10
-:COOK_MINUTES: 80
-:STARS: 5
-:SERVINGS: 6
+:LAST_MODIFIED: [2023-12-15 Fri 14:41]
+:recipe_prep_minutes: 10
+:recipe_cook_minutes: 80
+:recipe_stars: 5
+:recipe_servings: 6
 :END:
 #+title: James Kenji López-Alt | Easy Roasted-Garlic Focaccia Recipe
-#+hugo_custom_front_matter: :prep_time "10m" :cook_time "1h 20m" :total_time "1h 30m" :servings "6" :slug "ed25a76f-1614-4073-a894-8f68f91e6731" :stars "5"
+#+hugo_custom_front_matter: :prep_time "0:10" :cook_time "1:20" :total_time "1:30" :servings "6" :stars "5" :slug "ed25a76f-1614-4073-a894-8f68f91e6731"
 #+author: Cash Weaver
 #+date: [2023-08-07 Mon 19:03]
 #+filetags: :reference:recipe:
@@ -18,28 +18,33 @@
 #+begin_quote
 Roasted cloves and garlic butter make for a one-two punch in this simple riff on garlic bread.
 #+end_quote
+
 * Ingredients
 ** For the Focaccia
 
 #+begin_ingredients
-- 1 whole head garlic
-- 5 tablespoons (75ml) extra-virgin olive oil, divided
-- Kosher salt, for seasoning
-- 500g all-purpose or bread flour (17 1/2 ounces; about 3 1/4 cups)
-- 325g water (11 1/2 ounces; about 1 1/2 cups minus 1 tablespoon)
-- 15g kosher salt (1/2 ounce; about 1 tablespoon)
-- 4g instant yeast (0.15 ounce; about 1 teaspoon)
+| Ingredient             | Notes                | Quantity |
+|------------------------+----------------------+----------|
+| Head of garlic         | Whole                | 1        |
+| Extra-virgin olive oil | Divided              | 75ml     |
+| Salt                   | Seasoning            |          |
+| Flour                  | All-purpose or bread | 500g     |
+| Water                  |                      | 325g     |
+| Salt                   | Kosher               | 15g      |
+| Yeast                  | Instant              | 4g       |
 #+end_ingredients
 
 ** For the Garlic Butter
 
 #+begin_ingredients
-- 2 tablespoons (30g) unsalted butter
-- 2 teaspoons dried oregano
-- 1/2 teaspoon red pepper flakes
+| Ingredient        | Notes    | Quantity |
+|-------------------+----------+----------|
+| Butter            | Unsalted | 30g      |
+| Oregano           | Dried    | 2g       |
+| Red pepper flakes |          | 0.5g     |
 #+end_ingredients
 
-** Steps
+* Steps
 1. *For the Focaccia:* Adjust oven rack to center position and preheat oven to 350°F (180°C). Remove 4 cloves garlic from head and set aside. Place remaining head in the center of a sheet of aluminum foil. Drizzle with 1 tablespoon (15ml) olive oil and season with salt. Wrap tightly with foil and place in an oven-safe cast iron, carbon steel, or stainless steel skillet, then transfer to oven. Roast until garlic is completely tender, about 1 hour. Remove from oven and refrigerate until ready to use the next day.
 
    #+DOWNLOADED: https://www.seriouseats.com/thmb/vrVr2pS8wmqY-oepv6ot0H4pXVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/easy-roasted-garlic-focaccia-no-knead-bread-recipe-1-f4c0e17e1d884598b857c7be282678df.jpg @ 2023-08-07 19:12:40

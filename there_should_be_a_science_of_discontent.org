@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       92b87e35-87c9-4911-a95e-200ca365361d
-:LAST_MODIFIED: [2023-12-05 Tue 06:25]
+:LAST_MODIFIED: [2023-12-15 Fri 07:54]
 :END:
 #+title: There should be a science of discontent
 #+hugo_custom_front_matter: :slug "92b87e35-87c9-4911-a95e-200ca365361d"
@@ -13,7 +13,7 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 [[id:9f491719-8277-4aab-94fd-39c512730430][Paul Atreides]], [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]], [cite:@herbertDune1999]
 #+end_quote
 * Flashcards :noexport:
-** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) {{There should be a science of discontent. People need hard times to develop psychic muscles. The body and mind adapt to stress, without it they atrophy, like a tree's limbs without the wind.}{on adapting to stress; full}@0} :fc:
+** Cloze ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) :fc:
 :PROPERTIES:
 :CREATED: [2022-11-15 Tue 09:23]
 :FC_CREATED: 2022-11-15T17:25:09Z
@@ -26,9 +26,10 @@ There should be a [[id:1039c652-2f19-4c9f-b72d-04dea94e30ea][Science of disconte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   3 |     6.00 | 2023-12-10T15:00:16Z |
+|        0 | 1.30 |   1 |     1.00 | 2023-12-16T15:54:39Z |
 :END:
 
+{{There should be a science of discontent. People need hard times to develop psychic muscles. The body and mind adapt to stress, without it they atrophy, like a tree's limbs without the wind.}{on adapting to stress; full}@0}
 *** Source
 [cite:@herbertDune1999]
 ** ([[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]) There should be {{a science of discontent.}{short}@0} :fc:

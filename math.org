@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-14 Thu 07:08]
+:LAST_MODIFIED: [2023-12-15 Fri 07:37]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1643,13 +1643,14 @@ $\delta_{ij} = \begin{cases}0 & \text{if}\; i \neq j \\ 1 & \text{if}\; i = j\en
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.90 |   1 |     1.00 | 2023-11-29T14:51:42Z |
+| back     | 1.90 |   2 |     2.00 | 2023-12-17T15:37:07Z |
 | front    | 2.65 |   9 |   414.63 | 2024-07-25T05:35:13Z |
 :END:
 
 Monotonic function
 
 *** Back
+
 A function between ordered sets that preserves order
 
 *** Extra

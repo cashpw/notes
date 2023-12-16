@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@lopez-altBestItalianAmericanTomatoSauceRecipea]
+:ID:       b22e3ae5-8dfe-409d-876a-e9c26e516219
+:LAST_MODIFIED: [2023-12-15 Fri 15:02]
+:recipe_cook_minutes: 375
+:recipe_prep_minutes: 5
+:recipe_stars:    5
+:recipe_yield:    6.5 liters
+:recipe_servings:    6
+:END:
+#+title: James Kenji López-Alt | The Best Italian-American Tomato Sauce Recipe
+#+hugo_custom_front_matter: :prep_time "0:05" :cook_time "6:15" :total_time "6:20" :servings "6" :stars "5" :yield "6.5 liters" :slug "b22e3ae5-8dfe-409d-876a-e9c26e516219"
+#+author: Cash Weaver
+#+date: [2023-12-15 Fri 11:31]
+#+filetags: :recipe:
+
+[[id:3ddde7b8-01a1-4fd5-bc8f-76cd4cc5bc0a][James Kenji López-Alt]], [cite:@lopez-altBestItalianAmericanTomatoSauceRecipea]
+
+A [[id:d2d52bb9-b093-4491-8ab4-5dfa4cf86fa0][Red sauce]]. Make it vegan by either removing or substitute [[id:98580e59-250f-4004-8b8c-8cec29fd3b29][Vegan fish sauce]].
+
+* Ingredients
+#+begin_ingredients
+| Ingredient            | Notes                                        | Quantity |
+|-----------------------+----------------------------------------------+----------|
+| Whole peeled tomatoes | Preferably imported D.O.P. San Marzano[fn:1] | 3.3 l    |
+| Olive oil             | Extra-virgin                                 | 60 ml    |
+| Butter                |                                              | 55 g     |
+| Garlic                | Minced                                       | 45 g     |
+| Red pepper flakes     |                                              | 1 g      |
+| Oregano               | Dried                                        | 3 g      |
+| Carrot                | Medium; cut into large chunks                | 1        |
+| Onion                 | Medium; halved                               | 1        |
+| Basil                 | Stem; fresh                                  | 1        |
+| Fish sauce            |                                              | 15 ml    |
+| Parsley or Basil      | Fresh minced                                 | 5 g      |
+| Black pepper          | Fresh ground                                 | To taste |
+| Salt                  | Kosher                                       | To taste |
+#+end_ingredients
+* Steps
+
+1. Adjust oven rack to lower position and preheat oven to 300°F (165°C). Place tomatoes in a large bowl. Using your hands, crush the tomatoes by squeezing them in your fingers until pieces no larger than 1/2-inch remain. Transfer 3 cups of crushed tomatoes to a sealed container and reserve in the refrigerator until step 4.
+
+   #+DOWNLOADED: https://www.seriouseats.com/thmb/-M0LcQr7IhIOCyYQMLJdKufbmN4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-01-1-d7eb43482a3d4da891bacf5f473eb441.jpg @ 2023-12-15 14:59:47
+   [[file:2023-12-15_14-59-47_the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-01-1-d7eb43482a3d4da891bacf5f473eb441.jpg]]
+2. Heat olive oil and butter over medium heat in a large Dutch oven until butter is melted. Add garlic and cook, stirring, until softened and fragrant but not browned, about 2 minutes. Add pepper flakes and oregano and cook, stirring, until fragrant, about 1 minute. Add tomatoes, carrot, onion, and basil, and stir to combine. Season lightly with salt and pepper. Bring to a simmer over high heat.
+
+  #+DOWNLOADED: https://www.seriouseats.com/thmb/XGtMNqim7I_DaBceyFKLRGB2-2w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-02-2-d1d637d225c847948249dec81368ed5a.jpg @ 2023-12-15 15:00:30
+  [[file:2023-12-15_15-00-30_the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-02-2-d1d637d225c847948249dec81368ed5a.jpg]]
+
+3. Cover Dutch oven with lid slightly ajar and transfer to oven. Cook, stirring once every 1 to 2 hours, until reduced by about half and darkened to a deep red, 5 to 6 hours (reduce oven temperature if the sauce is bubbling too rapidly or the browned bits begin to turn too dark).
+
+   #+DOWNLOADED: https://www.seriouseats.com/thmb/dKVBbWDiLVKn_DYI3ZU0-Od2sBM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-03-1-ddcbb316c4f24517ab13e08cdc97ccd8.jpg @ 2023-12-15 15:00:46
+   [[file:2023-12-15_15-00-46_the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-03-1-ddcbb316c4f24517ab13e08cdc97ccd8.jpg]]
+
+4. Remove from oven. Using tongs, discard onion halves, carrots, and basil stems. Add reserved tomatoes to sauce and stir to combine. Add fish sauce, if using. Season generously with salt and pepper and stir in minced herbs along with additional olive oil as desired. Serve immediately, or allow to cool at room temperature, transfer to airtight containers, and refrigerate for up to 1 week. Sauce can also be frozen in sealed containers for up to 6 months. To reheat, warm very gently in a saucepan with 1/2 cup water, stirring until it all melts and heats through.
+
+   #+DOWNLOADED: https://www.seriouseats.com/thmb/i_VwuM2U6AsW4OWRGiUy_FE74oA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-04-2-a7c64d69e1954255bca448430f0eafee.jpg @ 2023-12-15 15:01:20
+   [[file:2023-12-15_15-01-20_the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe-step-04-2-a7c64d69e1954255bca448430f0eafee.jpg]]
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
+
+* Footnotes
+
+[fn:1] "This tomato sauce is only as good as the tomatoes you start out with. Look for whole peeled plum tomatoes packed in juice or puree. you'll never go wrong with D.O.P. San Marzano tomatoes imported from Italy, or go with a trusted brand of tomatoes if you have a favorite."

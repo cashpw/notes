@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-12-08 Fri 09:41]
+:LAST_MODIFIED: [2023-12-15 Fri 07:38]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -756,7 +756,7 @@ A path $u, \dots, w$ around $v$ with cost smaller than the cost of $u, v, w$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   4 |    15.92 | 2023-11-29T14:34:28Z |
+|        0 | 2.50 |   5 |    39.35 | 2024-01-23T23:56:23Z |
 :END:
 
 Contraction is {{iterative}{process}@0}

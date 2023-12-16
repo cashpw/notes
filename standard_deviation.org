@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f4de9f04-053d-4602-a81a-c4118e6ee3c2
-:LAST_MODIFIED: [2023-12-14 Thu 07:10]
+:LAST_MODIFIED: [2023-12-15 Fri 07:41]
 :END:
 #+title: Standard deviation
 #+hugo_custom_front_matter: :slug "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
@@ -27,7 +27,7 @@ $\operatorname{stddev}(x) = \sqrt{\frac{1}{n} \sum_{i = 1}^n (x_i - \bar{x})^2}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |  10 |   468.17 | 2024-10-11T05:51:17Z |
-| front    | 1.40 |   9 |    59.48 | 2023-12-14T18:52:34Z |
+| front    | 1.30 |  10 |    82.55 | 2024-03-07T04:47:14Z |
 :END:
 
 [[id:f4de9f04-053d-4602-a81a-c4118e6ee3c2][Standard deviation]]

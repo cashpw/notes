@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       94acace5-6bbb-44ee-9cb9-fef318283d57
-:SERVINGS: 1 cup
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:recipe_yield: 1 cup
+:recipe_servings: 1
+:LAST_MODIFIED: [2023-12-15 Fri 14:09]
 :END:
 #+title: Better than bullion: Seasoned vegetable base
-#+hugo_custom_front_matter: :servings "1 cup" :slug "94acace5-6bbb-44ee-9cb9-fef318283d57"
+#+hugo_custom_front_matter: :servings "1" :yield "1 cup" :slug "94acace5-6bbb-44ee-9cb9-fef318283d57"
 #+author: Cash Prokop-Weaver
 #+date: [2022-09-02 Fri 14:18]
 #+filetags: :recipe:

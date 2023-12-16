@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       75889b24-da04-4143-80d4-764020db6bc9
-:LAST_MODIFIED: [2023-12-08 Fri 09:42]
+:LAST_MODIFIED: [2023-12-15 Fri 07:52]
 :ROAM_REFS: [cite:@InternetMessageAccessProtocol2023]
 :END:
 #+title: IMAP
@@ -27,7 +27,7 @@ In computing, the Internet Message Access Protocol (IMAP) is an Internet standar
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   400.38 | 2024-04-20T23:16:09Z |
-| front    | 1.30 |   2 |     2.00 | 2023-12-10T17:42:44Z |
+| front    | 1.30 |   3 |     6.00 | 2023-12-21T15:52:09Z |
 :END:
 
 [[id:75889b24-da04-4143-80d4-764020db6bc9][IMAP]]

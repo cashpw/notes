@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-12-14 Thu 07:07]
+:LAST_MODIFIED: [2023-12-15 Fri 07:41]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -361,7 +361,7 @@ Query
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    66.88 | 2023-12-12T04:39:00Z |
+| front    | 2.35 |   7 |   171.34 | 2024-06-03T23:47:32Z |
 :END:
 
 Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]] handle changing edge weights (due to traffic, etc) better than [[id:8d0bb3d4-18fb-4c38-a89e-11745614c640][Contraction hierarchies]]?

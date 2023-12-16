@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       966f6682-54bf-4958-816c-fcd7482ccf79
 :DIR:      /home/cashweaver/proj/roam/attachments/966f6682-54bf-4958-816c-fcd7482ccf79
-:LAST_MODIFIED: [2023-12-08 Fri 09:56]
+:LAST_MODIFIED: [2023-12-15 Fri 07:52]
 :END:
 #+title: The periphery is where the future reveals itself
 #+hugo_custom_front_matter: :slug "966f6682-54bf-4958-816c-fcd7482ccf79"
@@ -16,7 +16,7 @@ The periphery is where the future reveals itself.
 #+end_quote
 
 * Flashcards :noexport:
-** The {{periphery}@0} {{is where the future reveals itself}@1} :fc:
+** Cloze :fc:
 :PROPERTIES:
 :CREATED: [2022-11-16 Wed 09:46]
 :FC_CREATED: 2022-11-16T17:47:51Z
@@ -29,7 +29,9 @@ The periphery is where the future reveals itself.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   282.26 | 2024-03-02T02:26:19Z |
-|        1 | 2.20 |   1 |     1.00 | 2023-12-09T17:56:08Z |
+|        1 | 2.20 |   2 |     2.00 | 2023-12-17T15:52:44Z |
 :END:
+
+The {{periphery}@0} {{is where the future reveals itself}@1}
 * Bibliography
 #+print_bibliography:

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e1506f58-c519-4b04-a7fd-6bc821514a30
 :ROAM_REFS: [cite:@PrincipalAgentProblem2023]
-:LAST_MODIFIED: [2023-09-19 Tue 16:56]
+:LAST_MODIFIED: [2023-12-15 Fri 07:46]
 :END:
 #+title: Principle-agent problem
 #+hugo_custom_front_matter: :slug "e1506f58-c519-4b04-a7fd-6bc821514a30"
@@ -78,7 +78,7 @@ A problem referring to the conflict of interests between two entities in which o
 
 *** Source
 [cite:@PrincipalAgentProblem2023]
-** Cloze :fc:
+** Cloze ([[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-01-17 Tue 07:54]
 :FC_CREATED: 2023-01-17T15:55:26Z
@@ -93,7 +93,7 @@ A problem referring to the conflict of interests between two entities in which o
 |        0 | 2.35 |   7 |   190.86 | 2023-12-13T11:34:25Z |
 :END:
 
-([[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]) The {{principal}@0} is represented by another entity
+The {{principal}@0} is represented by another entity
 
 *** Source
 [cite:@PrincipalAgentProblem2023]

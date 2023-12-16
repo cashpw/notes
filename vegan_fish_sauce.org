@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       98580e59-250f-4004-8b8c-8cec29fd3b29
+:ROAM_REFS: [cite:@baker5IngredientVeganFishSauce2019]
+:LAST_MODIFIED: [2023-12-15 Fri 14:58]
+:recipe_yield: 230 ml
+:recipe_servings: 1
+:recipe_prep_minutes: 5
+:recipe_cook_minutes: 15
+:END:
+#+title: Vegan fish sauce
+#+hugo_custom_front_matter: :prep_time "0:05" :cook_time "0:15" :total_time "0:20" :servings "1" :yield "230 ml" :slug "98580e59-250f-4004-8b8c-8cec29fd3b29"
+#+author: Cash Prokop-Weaver
+#+date: [2023-12-15 Fri 14:48]
+#+filetags: :recipe:
+
+[cite:@baker5IngredientVeganFishSauce2019]
+
+* Ingredients
+
+#+begin_ingredients
+| Ingredients        | Notes           | Quantity |
+|--------------------+-----------------+----------|
+| Water              |                 | 300 ml   |
+| Seaweed            | Dulce, or kombu | 5 g      |
+| Shiitake mushrooms | Dried           | 5 g      |
+| Salt               |                 | 2 g      |
+| Miso               | Yellow, light   | 8 g      |
+| Tamari             |                 | 20 ml    |
+#+end_ingredients
+
+* Steps
+
+1. Add water, seaweed, shiitake mushrooms, and salt to a small saucepan and bring to a boil.
+2. Cover, reduce heat and simmer for 15-20 minutes.
+3. Remove from heat and let cool.
+4. Pour through fine mesh strainer into a bowl. Press on the mushrooms to squeeze out any remaining liquid.
+5. Add miso and tamari.
+6. Taste and adjust as needed.
+7. Store in sealed contain in refrigerator for up to 1 month. Shake well before use. Freezer safe up to 2 months.
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:

@@ -2,7 +2,7 @@
 :ID:       bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b
 :ROAM_REFS: [cite:@SequentialGame2021]
 :ROAM_ALIASES: "Dynamic game"
-:LAST_MODIFIED: [2023-11-14 Tue 07:23]
+:LAST_MODIFIED: [2023-12-15 Fri 07:41]
 :END:
 #+title: Sequential game
 #+hugo_custom_front_matter: :slug "bb1bb6ce-d6dc-4948-8e1b-29437ed3b75b"
@@ -56,7 +56,7 @@ Contrast with a [[id:98aa84db-bb35-46c2-ae0e-c73b2a9c1666][Simultaneous game]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   221.90 | 2023-12-09T21:14:26Z |
+| front    | 2.50 |   8 |   573.04 | 2025-07-10T16:41:48Z |
 | back     | 2.50 |   8 |   382.43 | 2024-11-19T01:58:46Z |
 :END:
 

@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       aec8ffce-c854-4800-8a3d-bf8ac3616eef
-:ROAM_ALIASES: "WTF seitan" "WTF method" "Wash the flour method"
+:ROAM_ALIASES: "WTF seitan" "WTF method" "Wash the flour method" "Washed flour seitan"
 :ROAM_REFS: [cite:@seitansocietyWashFlourMethod] [cite:@leWashedFlourSeitanMethod2021]
-:LAST_MODIFIED: [2023-11-02 Thu 08:23]
+:LAST_MODIFIED: [2023-12-15 Fri 14:44]
 :END:
 #+title: Wash the flour seitan
 #+hugo_custom_front_matter: :slug "aec8ffce-c854-4800-8a3d-bf8ac3616eef"
@@ -12,10 +12,16 @@
 
 Wash the flour method is a way to make [[id:2caa9715-d216-41c4-babb-c6e66364ac6d][Seitan]] from high-gluten flour.
 
+* Ingredients
+
 #+begin_ingredients
-- 3 parts high-gluten flour (>= 11% protein content)
-- 1 part water (may need to be higher depending on the flour you use)
+| Ingredient | Notes                       | Quantity |
+|------------+-----------------------------+----------|
+| Flour      | High-gluten (>=11% protein) | 3 parts  |
+| Water      |                             | 1 part   |
 #+end_ingredients
+
+* Steps
 
 1. Combine ingredients
 

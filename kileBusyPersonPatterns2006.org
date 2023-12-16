@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2023-12-08 Fri 09:54]
+:LAST_MODIFIED: [2023-12-15 Fri 07:46]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -860,7 +860,7 @@ Consider [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]] when
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   564.99 | 2025-05-27T16:08:15Z |
-| back     | 2.35 |   7 |   212.57 | 2023-12-10T04:59:39Z |
+| back     | 2.20 |   8 |   475.59 | 2025-04-04T06:00:42Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
@@ -868,7 +868,9 @@ Consider [[id:673dba4f-4d5c-4f50-9adb-ba3d5f7f2b9f][Comparative advantage]] when
 [[id:d1afad48-d95d-4ea6-bce3-a3b88a28b995][Drop unimportant tasks]]
 
 *** Back
+
 Don't put time into tasks which will make no difference to anyone or tasks which distract or are significantly less impactful compared to others.
+
 *** Source
 [cite:@kileBusyPersonPatterns2006]
 ** Describe :fc:

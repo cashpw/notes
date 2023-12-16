@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       682e1968-6d7c-4689-a627-5a9903323194
 :ROAM_ALIASES: LRU
-:LAST_MODIFIED: [2023-11-16 Thu 08:11]
+:LAST_MODIFIED: [2023-12-15 Fri 07:41]
 :END:
 #+title: Least recently used
 #+hugo_custom_front_matter: :slug "682e1968-6d7c-4689-a627-5a9903323194"
@@ -31,7 +31,7 @@ Discards the least recently used items first. This algorithm requires keeping tr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   329.13 | 2024-09-23T18:21:27Z |
-|        1 | 2.80 |   6 |   146.77 | 2023-12-14T09:57:46Z |
+|        1 | 2.80 |   7 |   431.36 | 2025-02-19T00:17:43Z |
 :END:
 
 - {{[[id:682e1968-6d7c-4689-a627-5a9903323194][LRU]]}@0}

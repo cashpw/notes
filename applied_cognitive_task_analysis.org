@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2023-12-14 Thu 07:09]
+:LAST_MODIFIED: [2023-12-15 Fri 07:37]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -294,7 +294,7 @@ Steps involved in [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    32.90 | 2023-12-12T14:06:02Z |
+| front    | 2.50 |   6 |    90.31 | 2024-03-14T22:59:03Z |
 | back     | 2.50 |   2 |     2.00 | 2023-12-11T16:51:16Z |
 :END:
 
