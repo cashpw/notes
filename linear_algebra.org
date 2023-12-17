@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-15 Fri 07:38]
+:LAST_MODIFIED: [2023-12-16 Sat 13:57]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -673,13 +673,14 @@ A set of eigenvectors of a vector space, $V$, which span $V$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   323.31 | 2023-12-10T21:56:21Z |
+| back     | 2.50 |   1 |     1.00 | 2023-12-17T21:57:57Z |
 | front    | 2.80 |   8 |   288.63 | 2023-10-24T06:40:23Z |
 :END:
 
 Eigenvalue
 
 *** Back
+
 The factor by which an associated eigenvector is scaled.
 
 *** Source

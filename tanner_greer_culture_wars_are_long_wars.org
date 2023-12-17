@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@greerCultureWarsAreLongWars2021]
 :ID:       cec64d96-d0ea-4073-a74d-efb5a0588d93
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-12-16 Sat 13:46]
 :END:
 #+title: Tanner Greer | Culture Wars Are Long Wars
 #+hugo_custom_front_matter: :slug "cec64d96-d0ea-4073-a74d-efb5a0588d93"
@@ -53,7 +53,7 @@ I suppose I'm a member of the cohort discussed here and don't see eye-to-eye wit
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   192.43 | 2023-12-16T00:57:33Z |
+|        0 | 2.50 |   8 |   461.84 | 2025-03-22T18:00:38Z |
 :END:
 
 Culture wars are {{long wars}@0}.

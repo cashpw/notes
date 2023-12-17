@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-12-09 Sat 08:52]
+:LAST_MODIFIED: [2023-12-16 Sat 13:47]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -113,7 +113,7 @@ Too difficult a task may dissuade the learner and prevent full processing.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   3 |     6.00 | 2023-12-15T16:52:59Z |
+| front    | 2.20 |   4 |    13.31 | 2023-12-30T05:06:40Z |
 | back     | 2.50 |   8 |   476.19 | 2025-02-21T19:07:48Z |
 :END:
 

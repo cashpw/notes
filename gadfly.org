@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ef091c65-8db5-40c8-b577-e34b3070143d
-:LAST_MODIFIED: [2023-11-15 Wed 07:19]
+:LAST_MODIFIED: [2023-12-16 Sat 13:56]
 :END:
 #+title: Gadfly
 #+hugo_custom_front_matter: :slug "ef091c65-8db5-40c8-b577-e34b3070143d"
@@ -26,7 +26,7 @@ A gadfly is a person who interferes with the status quo of a society or communit
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |  10 |   291.42 | 2024-01-03T00:22:33Z |
-| front    | 1.75 |   6 |    30.26 | 2023-12-15T21:29:41Z |
+| front    | 1.90 |   7 |    62.91 | 2024-02-17T19:45:14Z |
 :END:
 - An annoying person, especially one who provokes others into action by criticism
 - A person who interferes with the status quo of a society or community by posing novel, potentially upsetting, questions, usually directed at authorities.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-12-15 Fri 07:38]
+:LAST_MODIFIED: [2023-12-16 Sat 13:47]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -203,7 +203,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   1 |     1.00 | 2023-12-15T15:07:05Z |
+| front    | 2.05 |   2 |     2.00 | 2023-12-18T21:47:51Z |
 | back     | 2.20 |   2 |     2.00 | 2023-09-10T16:18:09Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ab54f3ea-b019-482e-8af3-3ff03c495635
-:LAST_MODIFIED: [2023-12-09 Sat 08:56]
+:LAST_MODIFIED: [2023-12-16 Sat 13:56]
 :ROAM_ALIASES: "Monotone heuristic"
 :ROAM_REFS: [cite:@ConsistentHeuristic2022]
 :END:
@@ -50,7 +50,7 @@ A heuristic function whose estimate is always less than or equal to the estimate
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   7 |   208.19 | 2024-01-15T20:21:58Z |
-|        1 | 1.75 |   3 |     6.00 | 2023-12-15T16:56:33Z |
+|        1 | 1.75 |   4 |    10.62 | 2023-12-27T12:46:38Z |
 :END:
 
 - {{[[id:ab54f3ea-b019-482e-8af3-3ff03c495635][Consistent heuristic]]}@0}

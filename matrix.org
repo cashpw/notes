@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7a43b0c7-b933-4e37-81b8-e5ecf9a83956
 :ROAM_REFS: [cite:@MatrixMathematics2022]
-:LAST_MODIFIED: [2023-11-03 Fri 08:05]
+:LAST_MODIFIED: [2023-12-16 Sat 13:53]
 :END:
 #+title: Matrix
 #+hugo_custom_front_matter: :slug "7a43b0c7-b933-4e37-81b8-e5ecf9a83956"
@@ -55,10 +55,12 @@ A rectangular array of numbers/symbols/expressions arranged in rows and columns 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   158.33 | 2023-12-15T23:34:52Z |
+| front    | 2.20 |   8 |   330.07 | 2024-11-10T23:35:25Z |
 | back     | 2.80 |   8 |   436.40 | 2024-06-03T02:42:56Z |
 :END:
+
 Matrix equivalence
+
 *** Back
 A generalized form of row equivalence for matrices.
 

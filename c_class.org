@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b3c25e15-f426-41d3-ae97-925da325ed73
-:LAST_MODIFIED: [2023-12-15 Fri 07:41]
+:LAST_MODIFIED: [2023-12-16 Sat 13:56]
 :END:
 #+title: C++ class
 #+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
@@ -91,7 +91,7 @@ class Foo : public Container {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-12-10T17:40:54Z |
+| front    | 2.50 |   3 |     6.00 | 2023-12-22T21:56:01Z |
 | back     | 2.35 |   7 |   170.28 | 2024-05-27T23:34:03Z |
 :END:
 

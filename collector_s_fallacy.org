@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb
-:LAST_MODIFIED: [2023-10-20 Fri 11:21]
+:LAST_MODIFIED: [2023-12-16 Sat 13:50]
 :ROAM_REFS: [cite:@tiezeCollectorFallacy0100]
 :ROAM_ALIASES: "Info gorging"
 :END:
@@ -48,7 +48,7 @@ In many ways, information is like fast food in that it can overstimulate you, ye
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    71.49 | 2023-12-16T19:30:08Z |
+| front    | 2.35 |   7 |   153.52 | 2024-05-18T10:12:50Z |
 | back     | 2.20 |   6 |    64.95 | 2023-12-20T06:23:35Z |
 :END:
 

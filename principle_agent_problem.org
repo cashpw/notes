@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e1506f58-c519-4b04-a7fd-6bc821514a30
 :ROAM_REFS: [cite:@PrincipalAgentProblem2023]
-:LAST_MODIFIED: [2023-12-15 Fri 07:46]
+:LAST_MODIFIED: [2023-12-16 Sat 13:56]
 :END:
 #+title: Principle-agent problem
 #+hugo_custom_front_matter: :slug "e1506f58-c519-4b04-a7fd-6bc821514a30"
@@ -90,7 +90,7 @@ A problem referring to the conflict of interests between two entities in which o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   190.86 | 2023-12-13T11:34:25Z |
+|        0 | 2.35 |   8 |   488.27 | 2025-04-18T04:18:20Z |
 :END:
 
 The {{principal}@0} is represented by another entity

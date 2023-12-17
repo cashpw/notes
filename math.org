@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-15 Fri 07:37]
+:LAST_MODIFIED: [2023-12-16 Sat 13:46]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -494,7 +494,7 @@ eg: $f(a, b)$ has an arity of 2; 2-ary, binary, dyadic.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   273.74 | 2023-11-07T15:17:46Z |
+| back     | 2.50 |   9 |   633.45 | 2025-09-10T08:32:11Z |
 | front    | 2.50 |   8 |   300.30 | 2023-12-14T22:08:04Z |
 :END:
 
