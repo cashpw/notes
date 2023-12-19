@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-12-16 Sat 13:47]
+:LAST_MODIFIED: [2023-12-18 Mon 06:06]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -381,7 +381,7 @@ Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    80.97 | 2023-12-16T14:38:08Z |
+| front    | 2.50 |   7 |   220.28 | 2024-07-25T20:56:23Z |
 | back     | 2.35 |   4 |    13.69 | 2023-12-12T07:27:43Z |
 :END:
 

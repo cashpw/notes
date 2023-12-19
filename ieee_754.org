@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
 :ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
-:LAST_MODIFIED: [2023-10-12 Thu 23:54]
+:LAST_MODIFIED: [2023-12-18 Mon 06:09]
 :END:
 #+title: IEEE 754
 #+hugo_custom_front_matter: :slug "23e97230-9b73-4232-a76e-a1223b9bb70e"
@@ -84,7 +84,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        3 | 2.80 |  10 |   348.19 | 2024-01-31T08:00:30Z |
-|        2 | 2.35 |   8 |   282.72 | 2023-12-17T20:29:06Z |
+|        2 | 2.35 |   9 |   616.87 | 2025-08-26T11:08:17Z |
 |        1 | 2.80 |   9 |   325.23 | 2024-01-24T22:52:02Z |
 |        0 | 2.80 |   7 |   336.23 | 2024-04-21T18:38:24Z |
 :END:

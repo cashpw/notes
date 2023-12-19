@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       eb88f117-4925-42c7-a9cf-5789987fd933
 :DIR:      /home/cashweaver/proj/roam/attachments/eb88f117-4925-42c7-a9cf-5789987fd933
-:LAST_MODIFIED: [2023-12-04 Mon 07:04]
+:LAST_MODIFIED: [2023-12-18 Mon 06:17]
 :END:
 #+title: Evergreen notes
 #+hugo_custom_front_matter: :slug "eb88f117-4925-42c7-a9cf-5789987fd933"
@@ -12,7 +12,7 @@
 [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s idea of an evergreen note is one which is [[id:eb5965f1-211b-45cb-9f56-b8e85c48bb6d]["written and organized to evolve, contribute, and accumulate over time, across projects"]]. I see it as the [[id:4ab64054-a7a8-432e-bd5b-da1d8a01ae16][Unix philosophy]] applied to writing and note taking.
 
 * Flashcards :noexport:
-** Describre :fc:
+** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 10:57]
 :FC_CREATED: 2022-11-22T18:58:46Z
@@ -24,17 +24,19 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   331.92 | 2024-05-24T13:35:27Z |
-| back     | 2.35 |   7 |   197.66 | 2023-12-17T06:10:35Z |
+| back     | 2.35 |   8 |   470.22 | 2025-04-01T19:36:50Z |
 :END:
 
 [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]]
 
 *** Back
+
 A note which is
 
 - atomic, concept-oriented
 - densely linked
 - which one writes and organizes with the intent to accumulate over time across projects
+
 *** Source
 [cite:@matuschakEvergreenNotes]
 ** Cloze :fc:

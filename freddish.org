@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       99e14785-13bb-420c-b0b5-b14bad1bd163
-:LAST_MODIFIED: [2023-12-14 Thu 07:08]
+:LAST_MODIFIED: [2023-12-18 Mon 06:14]
 :END:
 #+title: Freddish
 #+hugo_custom_front_matter: :slug "99e14785-13bb-420c-b0b5-b14bad1bd163"
@@ -67,7 +67,7 @@ Per the pamphlet, there were nine steps for translating into Freddish:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   231.39 | 2023-12-16T23:40:46Z |
+| front    | 2.50 |   8 |   531.45 | 2025-06-02T01:09:40Z |
 | back     | 3.25 |   7 |   557.37 | 2025-02-08T10:13:00Z |
 :END:
 

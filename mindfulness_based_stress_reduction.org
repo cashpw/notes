@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
 :ROAM_REFS: [cite:@MindfulnessbasedStressReduction2022]
 :ROAM_ALIASES: MBSR
-:LAST_MODIFIED: [2023-12-15 Fri 07:50]
+:LAST_MODIFIED: [2023-12-18 Mon 06:16]
 :END:
 #+title: Mindfulness-based stress reduction
 #+hugo_custom_front_matter: :slug "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
@@ -50,7 +50,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |  10 |    98.79 | 2024-01-24T03:14:30Z |
-| back     | 1.30 |   2 |     2.00 | 2023-12-17T15:50:36Z |
+| back     | 1.30 |   3 |     6.00 | 2023-12-24T14:16:36Z |
 :END:
 
 [[id:92eb61e0-5437-4fbf-80aa-d042c0ba6d1e][Mindfulness-based stress reduction]]

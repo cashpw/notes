@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eba86939-f427-419c-a5d9-8115ed6f0e65
-:LAST_MODIFIED: [2023-11-19 Sun 06:35]
+:LAST_MODIFIED: [2023-12-18 Mon 06:12]
 :END:
 #+title: Sine
 #+hugo_custom_front_matter: :slug "eba86939-f427-419c-a5d9-8115ed6f0e65"
@@ -53,7 +53,7 @@ Graph \(f(x) = \sin(x)\)
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   300.01 | 2024-02-05T16:36:48Z |
-|        1 | 2.05 |   5 |    28.76 | 2023-12-18T08:56:10Z |
+|        1 | 2.05 |   6 |    62.27 | 2024-02-18T20:40:30Z |
 :END:
 *** Source
 [cite:@SineCosine2022]

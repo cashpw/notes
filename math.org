@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-16 Sat 13:46]
+:LAST_MODIFIED: [2023-12-18 Mon 06:05]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -2707,7 +2707,7 @@ Eg: $x + y + z = 0$ has 2 degrees of freedom
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   9 |   269.88 | 2023-10-13T23:12:51Z |
+|        0 | 2.35 |  10 |   630.44 | 2025-09-09T00:39:29Z |
 |        1 | 2.50 |   8 |   249.50 | 2023-09-06T04:55:14Z |
 :END:
 

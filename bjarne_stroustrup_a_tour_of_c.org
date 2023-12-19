@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-12-16 Sat 13:52]
+:LAST_MODIFIED: [2023-12-18 Mon 06:07]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -872,7 +872,7 @@ Roughly, "To be evaluated at compile time"
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    86.28 | 2023-12-09T21:50:59Z |
+| front    | 2.35 |   7 |   204.76 | 2024-07-10T08:18:48Z |
 :END:
 
 #+begin_src C++

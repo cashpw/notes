@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       089751fe-6770-4c69-8cb3-699c072a65dd
-:LAST_MODIFIED: [2023-12-14 Thu 07:18]
+:LAST_MODIFIED: [2023-12-18 Mon 06:09]
 :END:
 #+title: Syncretism
 #+hugo_custom_front_matter: :slug "089751fe-6770-4c69-8cb3-699c072a65dd"
@@ -25,7 +25,7 @@ Syncretism (/ˈsɪŋkrəˌtɪzəm, ˈsɪn-/)[1] is the practice of combining dif
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   5 |     9.68 | 2023-12-17T07:05:02Z |
+| front    | 1.30 |   6 |    13.39 | 2023-12-31T23:35:47Z |
 | back     | 2.05 |   3 |     6.00 | 2023-12-20T15:18:57Z |
 :END:
 

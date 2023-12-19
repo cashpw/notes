@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d9f04c73-1238-4e6b-a370-8a23ac755610
-:LAST_MODIFIED: [2023-12-15 Fri 07:48]
+:LAST_MODIFIED: [2023-12-18 Mon 06:17]
 :END:
 #+title: Correlation coefficient of vectors
 #+hugo_custom_front_matter: :slug "d9f04c73-1238-4e6b-a370-8a23ac755610"
@@ -31,7 +31,7 @@ See [[id:4c405ac3-8a98-4e14-a2fd-44867a785071][De-meaned vector]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   8 |   311.39 | 2024-07-25T08:27:48Z |
-|        1 | 1.75 |   2 |     2.00 | 2023-12-17T15:48:35Z |
+|        1 | 1.75 |   3 |     6.00 | 2023-12-24T14:17:21Z |
 :END:
 *** Source
 [cite:@boydIntroductionAppliedLinearAlgebraVectorsMatricesLeastSquares2018 page 60]

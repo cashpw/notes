@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-12-16 Sat 13:46]
+:LAST_MODIFIED: [2023-12-18 Mon 06:08]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -827,7 +827,7 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   3 |     6.00 | 2023-12-22T21:46:37Z |
-| back     |  2.5 |  -1 |        0 | 2023-07-27T18:50:45Z |
+| back     | 2.50 |   1 |     1.00 | 2023-12-19T14:08:06Z |
 :END:
 
 1. Excessively eager and attentive to please or to obey instructions; fawning, subservient, servile.

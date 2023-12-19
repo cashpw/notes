@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DesirableDifficulty2022]
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
-:LAST_MODIFIED: [2023-12-16 Sat 13:47]
+:LAST_MODIFIED: [2023-12-18 Mon 06:15]
 :END:
 #+title: Desirable difficulty
 #+hugo_custom_front_matter: :slug "89eb6adc-d8f8-4033-bc46-7fed725c3c01"
@@ -71,7 +71,7 @@ The requisite effort improves long-term performance.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   301.43 | 2023-12-16T01:17:38Z |
+|        0 | 2.50 |   8 |   683.49 | 2025-11-01T01:54:32Z |
 |        1 | 2.20 |   9 |   263.52 | 2024-01-22T10:19:32Z |
 |        2 | 2.50 |   8 |   532.85 | 2025-02-12T11:42:26Z |
 :END:

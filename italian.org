@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768e1b87-efef-4024-a356-e399d27cc98f
-:LAST_MODIFIED: [2023-12-16 Sat 13:45]
+:LAST_MODIFIED: [2023-12-18 Mon 06:04]
 :END:
 #+title: Italian
 #+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
@@ -61,7 +61,7 @@ Goodbye
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    76.31 | 2024-01-14T22:20:26Z |
-| back     | 2.20 |   5 |    30.76 | 2023-12-17T09:54:12Z |
+| back     | 2.20 |   6 |    68.54 | 2024-02-25T03:01:15Z |
 :END:
 
 Fine, thank you

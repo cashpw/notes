@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2023-12-09 Sat 08:53]
+:LAST_MODIFIED: [2023-12-18 Mon 06:15]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -107,13 +107,15 @@ Components of [[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   152.35 | 2024-03-18T22:12:50Z |
-| back     | 2.05 |   6 |    55.95 | 2023-11-09T13:55:19Z |
+| back     | 2.05 |   7 |   112.60 | 2024-04-09T04:35:09Z |
 :END:
 
 Propagation delay
 
 *** Back
+
 Amount of time required for a message to travel from the sender to receiver, which is a function of distance over speed with which the signal travels.
+
 *** Source
 [cite:@grigorikNetworking101PrimerLatencyBandwidthHighPerformanceBrowserNetworking]
 ** Definition ([[id:53999225-665e-4d16-9a0d-60c49293ccab][Latency]]) :fc:

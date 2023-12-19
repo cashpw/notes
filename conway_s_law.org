@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d46b30b9-7aca-4b2b-8d08-bd22bdb63394
 :ROAM_REFS: [cite:@ConwayLaw2022]
-:LAST_MODIFIED: [2023-11-28 Tue 07:02]
+:LAST_MODIFIED: [2023-12-18 Mon 06:18]
 :END:
 #+title: Conway's law
 #+hugo_custom_front_matter: :slug "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"
@@ -41,13 +41,15 @@ The law is based on the reasoning that in order for a product to function, the a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    95.70 | 2024-03-03T07:55:41Z |
-| back     | 2.20 |   7 |   174.28 | 2023-12-17T23:04:18Z |
+| back     | 1.90 |   1 |     1.00 | 2023-12-19T14:18:07Z |
 :END:
 
 [[id:d46b30b9-7aca-4b2b-8d08-bd22bdb63394][Conway's law]]
 
 *** Back
+
 Systems mirror the communication structures of the organizations which design them.
+
 *** Source
 [cite:@ConwayLaw2022]
 

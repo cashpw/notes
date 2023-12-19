@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-12-16 Sat 13:47]
+:LAST_MODIFIED: [2023-12-18 Mon 06:04]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -330,7 +330,7 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   8 |    61.18 | 2023-12-02T11:12:40Z |
+| front    | 1.60 |   9 |    91.87 | 2024-03-19T10:53:48Z |
 | back     | 2.05 |   5 |    29.48 | 2023-10-09T10:37:29Z |
 :END:
 

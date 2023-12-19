@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b1b88ef5-f272-47d7-80c3-de9038e2eeb2
 :ROAM_ALIASES: "Positive right"
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2023-12-18 Mon 06:16]
 :END:
 #+title: Positive rights
 #+hugo_custom_front_matter: :slug "b1b88ef5-f272-47d7-80c3-de9038e2eeb2"
@@ -54,12 +54,13 @@ A right which obliges action.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   293.88 | 2023-12-23T12:16:54Z |
-| back     | 2.80 |   7 |   240.80 | 2023-12-17T11:15:22Z |
+| back     | 2.80 |   8 |   663.79 | 2025-10-12T09:12:14Z |
 :END:
 
 [[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]]
 
 *** Back
+
 - Right to counsel
 - Right to housing
 - Right to food
