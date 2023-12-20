@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cbe60cda-fc7d-4188-9cb3-4715ae550b3d
-:LAST_MODIFIED: [2023-11-28 Tue 06:56]
+:LAST_MODIFIED: [2023-12-19 Tue 14:55]
 :END:
 #+title: Pure virtual function
 #+hugo_custom_front_matter: :slug "cbe60cda-fc7d-4188-9cb3-4715ae550b3d"
@@ -39,7 +39,7 @@ class Container {
 ~=0;~ at the end of the function's declaration.
 *** Source
 [cite:@stroustrupTour2022]
-** Definition :fc:
+** Definition (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-18 Thu 09:39]
 :FC_CREATED: 2023-05-18T16:40:09Z
@@ -50,13 +50,15 @@ class Container {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   312.16 | 2024-10-05T18:40:11Z |
-| back     | 1.90 |   7 |    63.98 | 2023-12-19T07:05:56Z |
+| back     | 1.60 |   1 |     1.00 | 2023-12-20T22:55:09Z |
 :END:
 
 [[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]
 
 *** Back
-(C++) A function which the implementing class *must* implement.
+
+A function which the implementing class *must* implement.
+
 *** Source
 [cite:@stroustrupTour2022]
 * Bibliography

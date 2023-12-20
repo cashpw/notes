@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       650f4577-c1ec-46c9-b7a6-af8d90756bcd
 :ROAM_ALIASES: "Space-efficient data structure"
-:LAST_MODIFIED: [2023-12-16 Sat 13:56]
+:LAST_MODIFIED: [2023-12-19 Tue 14:55]
 :END:
 #+title: Implicit data structure
 #+hugo_custom_front_matter: :slug "650f4577-c1ec-46c9-b7a6-af8d90756bcd"
@@ -49,7 +49,7 @@ A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 1.90 |   9 |   312.00 | 2024-09-06T15:11:40Z |
-|        1 | 1.60 |   2 |     2.00 | 2023-12-18T21:56:06Z |
+|        1 | 1.60 |   3 |     6.00 | 2023-12-25T22:55:28Z |
 :END:
 
 - {{[[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]}@0}

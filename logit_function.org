@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d0545243-563c-4745-8efa-04c0508293e9
 :ROAM_REFS: [cite:@Logit2022]
-:LAST_MODIFIED: [2023-12-16 Sat 13:54]
+:LAST_MODIFIED: [2023-12-19 Tue 14:51]
 :END:
 #+title: Logit function
 #+hugo_custom_front_matter: :slug "d0545243-563c-4745-8efa-04c0508293e9"
@@ -31,7 +31,7 @@ $\operatorname{logit}$ is defined as the [[id:be3d36b2-8fb7-4917-b739-5717643a35
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   215.17 | 2023-12-18T16:28:05Z |
+|        0 | 2.50 |   8 |   491.92 | 2025-04-24T20:57:13Z |
 |        1 | 1.30 |   2 |     2.00 | 2023-12-18T21:54:34Z |
 :END:
 

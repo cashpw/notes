@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cce498c6-3fd2-40e1-9aee-fbc273d7fb32
 :ROAM_REFS: [cite:@Akrasia2022]
-:LAST_MODIFIED: [2023-11-03 Fri 07:32]
+:LAST_MODIFIED: [2023-12-19 Tue 14:45]
 :END:
 #+title: Akrasia
 #+hugo_custom_front_matter: :slug "cce498c6-3fd2-40e1-9aee-fbc273d7fb32"
@@ -26,10 +26,12 @@ Akrasia is a lack of self-control, or acting against one's better judgment.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.15 |   6 |    45.49 | 2023-12-19T02:14:04Z |
+| back     | 2.15 |   7 |   106.46 | 2024-04-04T09:43:01Z |
 | front    | 2.20 |   9 |   468.77 | 2024-10-14T20:05:32Z |
 :END:
+
 A lack of self-control or the state of acting against one's better judgment.
+
 *** Source
 [cite:@Akrasia2022]
 * Bibliography

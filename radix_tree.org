@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e00b9c0f-103f-4c55-8938-e777f58d04fb
 :ROAM_ALIASES: "Radix trie" "Patricia tree"
-:LAST_MODIFIED: [2023-10-16 Mon 00:29]
+:LAST_MODIFIED: [2023-12-19 Tue 14:46]
 :END:
 #+title: Radix tree
 #+hugo_custom_front_matter: :slug "e00b9c0f-103f-4c55-8938-e777f58d04fb"
@@ -35,14 +35,16 @@ In computer science, a radix tree (also radix trie or compact prefix tree or com
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   7 |    69.58 | 2023-12-18T20:54:30Z |
+| front    | 1.60 |   1 |     1.00 | 2023-12-20T22:46:01Z |
 | back     | 2.20 |   8 |   352.98 | 2024-10-03T07:05:08Z |
 :END:
 
 [[id:e00b9c0f-103f-4c55-8938-e777f58d04fb][Radix tree]]
 
 *** Back
+
 A space-optimized [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Prefix tree]] who's edges can be labeled with sequences of elements -- not just single elements.
+
 *** Source
 [cite:@RadixTree2022]
 ** [[id:e00b9c0f-103f-4c55-8938-e777f58d04fb][Radix tree]] nodes have {{$x$ children where $x \mod 2 = 0$}{number of children}@0} :fc:

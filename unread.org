@@ -1,8 +1,8 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2023-11-27 Mon 10:48]
+:LAST_MODIFIED: [2023-12-19 Tue 15:46]
 :END:
-#+TITLE: Unread
+#+TITLE: Reading list
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
 #+AUTHOR: cashweaver
 #+STARTUP: showeverything
@@ -39,7 +39,75 @@ Examples:
 - ❌ (With discretion) Things bigger than me that I cannot affect (e.g. climate change)
 - ❌ Write-ups on specific technologies I don't expect to read (e.g. latest front-end hotness). I'll look these up on-demand if necessary.
 
-* Unread
+
+* PROJ To watch
+** Movies
+
+- My big gay Italian wedding! (comedy/romance)
+- [cite:@Playtime2023] (comedy)
+- Roman Holiday (comedy/romance)
+- [cite:@NeverCryWolfFilm2023] (drama)
+- [cite:@EverythingEverywhereAllOnce2023] (absurd/comedy/drama)
+- [cite:@BrightFutureFilm2023] (drama)
+- [cite:@BigNight2023] (comedy/drama)
+- [cite:@HeartwornHighways2023] (documentary)
+  "captured some of the founders of the Outlaw Country movement in Texas and Tennessee in the last weeks of 1975 and the first weeks of 1976"
+- [cite:@BlockIslandSound2023] (sci-fi/horror/thriller)
+- [cite:@Akira1988Film2023]
+
+** Series
+
+- [cite:@DrHorribleSingAlongBlog2023] (comedy/romance/musical)
+- [cite:@Pantheon2023] (sci-fi/drama)
+- [cite:@ScavengersReign2023] (adventure/drama/sci-fi)
+- [cite:@MidnightGospel2023] (sci-fi/surreal/dark comedy/adventure/animated)
+- [cite:@BlueEyeSamurai2023] (action/animated)
+- [cite:@LoveDeathRobots2023] (sci-fi/black humor/drama/animated)
+- [cite:@PrimalTVSeries2023] (action/adventure/animated)
+- [cite:@ArcaneTVSeries2023] (action/adventure/drama/animated)
+- Superjail!
+- Heavenly Delusion
+- Upload (Amazon)
+- Boondocks
+
+** Misc
+
+- Whirlyball world championship (sports)
+
+* PROJ To read
+
+Possibly read again!
+
+** Books
+
+- [cite:@wattsWisdomInsecurity1951]
+- The World-Ending Fire
+- Enchiridion of Epictetus
+- The Creative Act
+- The Psychology of Money
+- Narrative of the Life of Frederick Douglass
+- Shop Class as Soulcraft
+
+
+** Graphic narrative
+
+- [cite:@20thCenturyBoys2023] (mystery/sci-fi/thriller)
+- [cite:@Frieren2023] (drama/adventure/fantasy)
+- [cite:@Maus2023] (drama/holocaust)
+- [cite:@AkiraManga2023] (cyberpunk/sci-fi/political)
+- [cite:@SandmanComicBook2023] (dark fantasy/supernatural horror)
+- [cite:@GoodnightPunpun2023] (coming of age/drama)
+- [cite:@BlueGiantManga2023] (music/drama)
+- [cite:@ChainsawMan2023] (action/comedy horror/dark fantasy)
+- [cite:@Yotsuba2023] (comedy/slice of life)
+- [cite:@SpyFamily2023] (action/comedy/spy)
+- [cite:@BerserkManga2023] (action/drama)
+- [cite:@StrongFemaleProtagonist2023]
+  https://strongfemaleprotagonist.com/issue-3/page-16-2/
+- [cite:@sakuraiAjinDemihuman2014] (action/dark fantasy/supernatural thriller)
+- [cite:@hayashidaDorohedoroVol2010] (action/dark fantasy/science fiction)
+
+* Misc
 ** TODO [#2] https://fs.blog/compounding-knowledge/
 ** TODO [#2] Flashcards
 ** TODO [#2] [[https://threethingsdaily.xyz/][Show HN: Three Things Daily – Make gratitude a daily habit]] :advice:

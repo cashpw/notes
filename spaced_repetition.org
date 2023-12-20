@@ -2,7 +2,7 @@
 :ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
 :ROAM_ALIASES: SRS "Spaced repetition system"
-:LAST_MODIFIED: [2023-12-04 Mon 06:56]
+:LAST_MODIFIED: [2023-12-19 Tue 14:47]
 :END:
 #+title: Spaced repetition
 #+hugo_custom_front_matter: :slug "a72eecfc-c64a-438a-ae26-d18c5725cd5c"
@@ -253,14 +253,16 @@ Hacker News discussion: [[https://www.gwern.net/docs/www/news.ycombinator.com/d9
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   8 |   178.13 | 2023-12-18T17:22:55Z |
+| front    | 2.05 |   9 |   376.85 | 2024-12-30T19:17:12Z |
 | back     | 2.95 |   7 |   409.96 | 2024-10-03T14:57:31Z |
 :END:
 
 [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
 
 *** Back
+
 An evidence-based learning technique, usually performed with flashcards, which exploits the [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing effect]] and [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing effect]]. New and difficult cards are shown more often while older and less difficult cards are shown less frequently.
+
 *** Source
 [cite:@SpacedRepetition2022]
 ** Cloze :fc:

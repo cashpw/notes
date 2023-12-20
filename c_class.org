@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b3c25e15-f426-41d3-ae97-925da325ed73
-:LAST_MODIFIED: [2023-12-16 Sat 13:56]
+:LAST_MODIFIED: [2023-12-19 Tue 14:44]
 :END:
 #+title: C++ class
 #+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
@@ -61,7 +61,7 @@ class Foo : public Container {
 
 
 * Flashcards :noexport:
-** Cloze :fc:
+** Cloze (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 09:47]
 :FC_CREATED: 2023-05-11T16:47:53Z
@@ -74,10 +74,10 @@ class Foo : public Container {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   278.90 | 2024-08-21T13:46:01Z |
-|        1 | 2.50 |   6 |   116.25 | 2023-12-19T21:17:04Z |
+|        1 | 2.50 |   7 |   269.14 | 2024-09-14T02:05:17Z |
 :END:
 
-(C++) {{=class=}@0} members are {{private}{visibility}@1} by default.
+{{=class=}@0} members are {{private}{visibility}@1} by default.
 
 *** Source
 [cite:@stroustrupTour2022]

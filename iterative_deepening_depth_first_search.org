@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0ad51c11-995b-4437-a218-82df11697f7a
-:LAST_MODIFIED: [2023-12-15 Fri 07:39]
+:LAST_MODIFIED: [2023-12-19 Tue 14:56]
 :END:
 #+title: Iterative deepening depth-first-search
 #+hugo_custom_front_matter: :slug "0ad51c11-995b-4437-a218-82df11697f7a"
@@ -104,7 +104,9 @@ Worst-case: $\bigo{b^d}$ where $b$ is the branching factor (e.g. 2 for [[id:323b
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |   0 |     0.00 | 2023-09-11T12:42:52Z |
 :END:
+
 Implement [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+
 *** Back
 [[id:7c092555-c1f9-4c9d-9d02-c31d8096ce51][Iterative deepening depth-first-search implementation in Python]]
 *** Source

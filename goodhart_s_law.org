@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       94518754-f455-406d-a67b-bc01f214a272
-:LAST_MODIFIED: [2023-12-16 Sat 13:54]
+:LAST_MODIFIED: [2023-12-19 Tue 14:37]
 :ROAM_REFS: [cite:@GoodhartLaw2022]
 :END:
 #+title: Goodhart's law
@@ -26,7 +26,7 @@ Goodhart's law is an adage often stated as: "When a measure becomes a target, it
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   2 |     2.00 | 2023-12-18T21:54:20Z |
+| front    | 1.30 |   3 |     6.00 | 2023-12-25T22:37:19Z |
 | back     | 2.35 |   7 |   235.83 | 2024-01-27T10:57:00Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8c1b0569-db17-41af-90a3-7f2c75dc8923
-:LAST_MODIFIED: [2023-12-16 Sat 13:51]
+:LAST_MODIFIED: [2023-12-19 Tue 14:35]
 :END:
 #+title: Realpolitik
 #+hugo_custom_front_matter: :slug "8c1b0569-db17-41af-90a3-7f2c75dc8923"
@@ -24,13 +24,15 @@ Also see [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   2 |     2.00 | 2023-12-18T21:51:11Z |
+| back     | 2.20 |   3 |     6.00 | 2023-12-25T22:35:23Z |
 | front    | 2.80 |   7 |   338.21 | 2024-05-18T05:47:37Z |
 :END:
 *** Back
+
 Politics through the lens of the current circumstances as opposed to moral, ideological, or ethical premises.
 
 Informally: A pejorative used to signal the public-facing rationale for a political action isn't the true rationale.
+
 *** Source
 [cite:@Realpolitik2022]
 * Bibliography

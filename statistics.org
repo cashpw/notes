@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-12-18 Mon 06:05]
+:LAST_MODIFIED: [2023-12-19 Tue 14:54]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -189,7 +189,7 @@ The difference between $f$ and $\hat{f}$.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |  12 |   372.71 | 2024-03-24T07:19:21Z |
-|        1 | 2.05 |   2 |     2.00 | 2023-12-18T21:46:52Z |
+|        1 | 2.05 |   3 |     6.00 | 2023-12-25T22:46:38Z |
 |        2 | 1.40 |   5 |    12.23 | 2023-03-31T23:01:46Z |
 |        3 | 2.95 |   6 |   118.16 | 2023-04-15T22:27:24Z |
 |        4 | 2.80 |   6 |   148.87 | 2023-07-29T11:20:25Z |
@@ -243,7 +243,7 @@ The difference between $f$ and $\hat{f}$.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |  11 |   806.59 | 2026-01-18T04:35:21Z |
-|        1 | 2.20 |   7 |   165.75 | 2023-09-13T09:28:23Z |
+|        1 | 2.20 |   8 |   380.88 | 2025-01-03T20:03:25Z |
 |        2 | 2.80 |   8 |   281.02 | 2023-12-02T04:15:26Z |
 :END:
 
@@ -698,7 +698,7 @@ Parametric model
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   8 |   417.24 | 2024-09-28T20:58:26Z |
-|        1 | 2.35 |   7 |   239.25 | 2023-11-04T09:19:33Z |
+|        1 | 2.35 |   8 |   557.21 | 2025-06-29T03:50:22Z |
 :END:
 ** {{$\operatorname{rms}(\vec{x})$}{function}@0} $=$ {{$\operatorname{avg}(\vec{x})$ $+$ $\operatorname{stddev}(\vec{x})$}{functions}@1} :fc:suspended:
 :PROPERTIES:
@@ -1403,13 +1403,14 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   4 |     7.67 | 2023-12-17T08:57:59Z |
+| back     | 1.30 |   5 |     9.88 | 2023-12-29T19:55:31Z |
 | front    | 2.65 |   7 |   360.53 | 2024-08-01T03:29:13Z |
 :END:
 
 Probability space
 
 *** Back
+
 A mathematical construct that provides a formal model of a random process or "experiment"
 
 *** Source
@@ -1554,7 +1555,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   9 |   701.41 | 2025-09-03T16:02:42Z |
-|        1 | 2.80 |   8 |   320.79 | 2023-12-08T09:17:36Z |
+|        1 | 2.80 |   9 |   942.14 | 2026-07-19T02:05:01Z |
 :END:
 
 - {{Standard error of $\hat{\mu}$}@0}
@@ -1699,7 +1700,7 @@ The difference between an estimator's expected value and the true value of the p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   7 |    14.25 | 2023-12-18T20:49:52Z |
+| back     | 1.30 |   8 |    17.98 | 2024-01-06T22:17:50Z |
 | front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
 :END:
 

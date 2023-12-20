@@ -1,10 +1,12 @@
 :PROPERTIES:
+:LAST_MODIFIED: [2023-12-19 Tue 13:40]
+:END:
+PROPERTIES:
 :ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
 :DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
 :LAST_MODIFIED: [2023-11-27 Mon 11:39]
 :END:
 #+title: Todos
-#+hugo_custom_front_matter: :slug "29171a49-1148-45e0-b2d4-26d2066b51b7"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-07 Mon 16:30]
 #+filetags: :hastodo:

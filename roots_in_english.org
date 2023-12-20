@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-12-18 Mon 06:08]
+:LAST_MODIFIED: [2023-12-19 Tue 14:53]
 :ROAM_ALIASES: "Greek roots"
 :END:
 #+title: Roots in English
@@ -69,12 +69,13 @@ Away from, down, off
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   4 |    16.15 | 2023-12-30T18:48:57Z |
-| back     | 2.20 |   1 |     1.00 | 2023-12-10T16:58:39Z |
+| back     | 2.20 |   2 |     2.00 | 2023-12-21T22:53:59Z |
 :END:
 
 Endo-
 
 *** Back
+
 - within
 - inner
 - absorbing
@@ -345,14 +346,16 @@ Anthro-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   453.14 | 2025-01-05T10:01:01Z |
-| back     | 2.20 |   5 |    28.75 | 2023-11-28T09:19:53Z |
+| back     | 2.20 |   6 |    67.05 | 2024-02-24T23:50:39Z |
 :END:
 
 Morph-, -morph
 
 *** Back
+
 - Form
 - Shape
+
 *** Source
 [cite:@ListGreekLatinRootsEnglish2023a]
 * Bibliography

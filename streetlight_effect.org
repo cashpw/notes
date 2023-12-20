@@ -2,7 +2,7 @@
 :ID:       d553899d-ac5d-4ecf-bf57-9eabb3407b6e
 :ROAM_REFS: [cite:@StreetlightEffect2022]
 :ROAM_ALIASES: "Where the light is"
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-12-19 Tue 14:37]
 :END:
 #+title: Streetlight effect
 #+hugo_custom_front_matter: :slug "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
@@ -28,12 +28,16 @@ A policeman sees a drunk man searching for something under a streetlight and ask
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   231.27 | 2023-12-19T05:32:11Z |
+| front    | 2.65 |   8 |   588.75 | 2025-07-30T16:34:14Z |
 | back     | 2.95 |   7 |   338.22 | 2024-05-23T20:33:26Z |
 :END:
+
 [[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Streetlight effect]]
+
 *** Back
+
 Observational bias wherein people tend to only search for something where it is easiest to look.
+
 *** Source
 [cite:@StreetlightEffect2022]
 ** Describe :fc:
