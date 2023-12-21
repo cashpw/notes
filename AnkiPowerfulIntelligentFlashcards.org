@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@AnkiPowerfulIntelligentFlashcards]
 :ID:       6472f018-ab80-4c73-b973-adb8417939db
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2023-12-20 Wed 19:56]
 :END:
 #+title: Anki
 #+hugo_custom_front_matter: :slug "6472f018-ab80-4c73-b973-adb8417939db"
@@ -18,18 +18,5 @@ Anki is a program which makes remembering things easy. Because it's a lot more e
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-
-
-
-
-
-
-
-
-
 * Bibliography
 #+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-12-19 Tue 14:55]
+:LAST_MODIFIED: [2023-12-20 Wed 07:34]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -888,7 +888,7 @@ Pronounced: /up-sil-on/
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.20 |   9 |   467.33 | 2024-11-09T07:27:46Z |
-|        0 | 1.30 |  12 |    59.40 | 2023-11-25T01:12:42Z |
+|        0 | 1.30 |  13 |    78.70 | 2024-03-08T08:24:00Z |
 :END:
 
 *** Extra

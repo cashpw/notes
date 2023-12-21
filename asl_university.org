@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       47022708-7415-46b0-8d1b-bcfb05603e72
+:ROAM_ALIASES: ASLU
+:ROAM_REFS: [cite:@asluniversityASLAmericanSignLanguage]
+:LAST_MODIFIED: [2023-12-20 Wed 19:41]
+:END:
+#+title: ASL University
+#+hugo_custom_front_matter: :slug "47022708-7415-46b0-8d1b-bcfb05603e72"
+#+author: Cash Prokop-Weaver
+#+date: [2023-12-20 Wed 19:38]
+#+filetags: :concept:
+
+#+begin_quote
+ASLU is an online American Sign Language curriculum resource center.  ASLU provides many free self-study materials, lessons, and information as well as formal tuition-based courses.
+
+[cite:@asluniversityAmericanSignLanguageASLUniversity]
+#+end_quote
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:

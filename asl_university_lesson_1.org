@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@asluniversityLesson01]
+:ID:       fdf0dacf-eec1-432c-9e19-f00b2cc7f556
+:LAST_MODIFIED: [2023-12-20 Wed 19:51]
+:END:
+#+title: ASL University | Lesson 1
+#+hugo_custom_front_matter: :slug "fdf0dacf-eec1-432c-9e19-f00b2cc7f556"
+#+author: Cash Weaver
+#+date: [2023-12-20 Wed 19:42]
+#+filetags: :hastodo:reference:
+
+[[id:47022708-7415-46b0-8d1b-bcfb05603e72][ASL University]], [cite:@asluniversityLesson01]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+* Bibliography
+#+print_bibliography:
+* TODO [#2] Flashcards :noexport:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-12-19 Tue 14:53]
+:LAST_MODIFIED: [2023-12-20 Wed 07:31]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -303,7 +303,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   230.23 | 2024-07-31T20:33:16Z |
-| back     | 2.50 |   2 |     2.00 | 2023-10-05T06:12:48Z |
+| back     | 2.50 |   3 |     6.00 | 2023-12-26T15:31:52Z |
 :END:
 
 =[]= in the following:
@@ -313,6 +313,7 @@ char v[6];
 #+end_src
 
 *** Back
+
 (C++) Array of
 *** Source
 [cite:@stroustrupTour2022]

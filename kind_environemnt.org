@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       da636d9e-c77c-41be-b109-b84a06c63713
-:LAST_MODIFIED: [2023-12-04 Mon 06:57]
+:LAST_MODIFIED: [2023-12-20 Wed 07:32]
 :END:
 #+title: Kind environment
 #+hugo_custom_front_matter: :slug "da636d9e-c77c-41be-b109-b84a06c63713"
@@ -28,12 +28,13 @@ Inference involves two settings: In the first, information is acquired (learning
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    85.31 | 2024-02-27T22:24:27Z |
-| back     | 2.50 |   5 |    35.46 | 2023-12-20T02:29:37Z |
+| back     | 2.50 |   6 |    86.56 | 2024-03-16T04:55:52Z |
 :END:
 
 [[id:da636d9e-c77c-41be-b109-b84a06c63713][Kind environment]]
 
 *** Back
+
 A learning environment in which learning is useful and applicable.
 *** Source
 [cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]

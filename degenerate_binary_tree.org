@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a15a6edb-dbe2-496f-bdc7-92b14e1f5566
 :ROAM_ALIASES: "Pathological binary tree"
-:LAST_MODIFIED: [2023-12-09 Sat 08:50]
+:LAST_MODIFIED: [2023-12-20 Wed 07:32]
 :END:
 #+title: Degenerate binary tree
 #+hugo_custom_front_matter: :slug "a15a6edb-dbe2-496f-bdc7-92b14e1f5566"
@@ -57,7 +57,7 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   330.39 | 2024-03-13T01:17:54Z |
-| back     | 2.35 |   7 |   214.73 | 2023-12-20T10:06:08Z |
+| back     | 2.35 |   8 |   518.74 | 2025-05-22T09:11:49Z |
 :END:
 [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
 *** Back

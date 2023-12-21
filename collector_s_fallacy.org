@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb
-:LAST_MODIFIED: [2023-12-16 Sat 13:50]
+:LAST_MODIFIED: [2023-12-20 Wed 07:32]
 :ROAM_REFS: [cite:@tiezeCollectorFallacy0100]
 :ROAM_ALIASES: "Info gorging"
 :END:
@@ -49,12 +49,13 @@ In many ways, information is like fast food in that it can overstimulate you, ye
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   153.52 | 2024-05-18T10:12:50Z |
-| back     | 2.20 |   6 |    64.95 | 2023-12-20T06:23:35Z |
+| back     | 2.20 |   7 |   144.07 | 2024-05-12T17:09:24Z |
 :END:
 
 [[id:ed6bc3fb-c6a6-45fe-9405-e4c74b02a5bb][Collector's fallacy]]
 
 *** Back
+
 The practice of collecting knowledge, or references to knowledge (links, books, articles, etc), without internalizing said knowledge.
 *** Source
 [cite:@tiezeCollectorFallacy0100]

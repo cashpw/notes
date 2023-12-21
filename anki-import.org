@@ -1,0 +1,3317 @@
+:PROPERTIES:
+:LAST_MODIFIED: [2023-12-20 Wed 20:50]
+:END:
+#+title: Anki Import
+#+hugo_custom_front_matter:
+#+filetags: :hastodo:
+* TODO [#2] Flashcards :noexport:
+
+
+#+begin_src emacs-lisp
+(defun cashpw/org-clear-subtree ()
+  "Delete the subtree.
+
+Reference: https://emacs.stackexchange.com/a/38352/37010"
+  (org-mark-subtree)
+  (forward-line)
+  (delete-region (region-beginning)
+                 (region-end)))
+
+(defun cashpw/org-get-subtree-contents ()
+  "Get the content text of the subtree at point and add it to the `kill-ring'.
+Excludes the heading and any child subtrees.
+
+Reference: https://hungyi.net/posts/org-mode-subtree-contents/"
+  ;; (org-mark-subtree)
+  ;; (forward-line)
+  ;; (buffer-substring-no-properties (region-beginning)
+                                  ;; (region-end))
+  (unless (org-before-first-heading-p)
+    (save-excursion
+      ;; If inside heading contents, move the point back to the heading
+      ;; otherwise `org-agenda-get-some-entry-text' won't work.
+      (unless (org-on-heading-p)
+        (org-previous-visible-heading 1))
+      (substring-no-properties
+       (org-agenda-get-some-entry-text
+        (point-marker)
+        most-positive-fixnum))))
+  )
+
+(defun cashpw/foo ()
+  (org-map-entries (lambda ()
+                     (let* ((headline-text (org-entry-get (point) "ITEM"))
+                            (file-path (replace-regexp-in-string ".*:\\(.*\\)\\]"
+                                                                 "\\1"
+                                                                 headline-text))
+                            (front-text (s-lex-format "[[file:${file-path}]]"))
+                            (back-text (cashpw/org-get-subtree-contents))
+                            (padded-lesson-number (replace-regexp-in-string ":Lesson_\\(.*\\):"
+                                                                            "\\1"
+                                                                            (org-get-tags-string)))
+                            (get-source (lambda (padded-lesson-number)
+                                            (s-lex-format "[cite:@asluniversityLesson${padded-lesson-number}]"))))
+                       (org-edit-headline "ASL")
+
+                       (org-delete-property "ANKI_NOTE_ID")
+                       (org-delete-property "ANKI_NOTE_TYPE")
+
+                       (cashpw/org-clear-subtree)
+                       (newline)
+                       (insert front-text)
+
+                       (org-insert-todo-subheading nil)
+                       (org-todo "")
+                       (insert "Back")
+                       (newline)
+                       (newline)
+                       (insert back-text)
+
+                       (org-insert-heading-respect-content)
+                       (insert "Source")
+                       (newline)
+                       (insert (funcall get-source padded-lesson-number))
+
+                       ;; (org-fc-type-double-init)
+                       ))
+                   "+ANKI_NOTE_ID={.}"))
+(cashpw/foo)
+#+end_src
+#+ANKI_DECK: LIFEPRINT ASL (American Sign Language)::Lessons 1 - 11
+
+* [sound:AGAIN, NAME YOU_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811235
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AGAIN, NAME YOU
+* [sound:AGAIN_repeat_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811244
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AGAIN_repeat
+* [sound:ASL TEACHER YOU_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811257
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ASL TEACHER YOU
+* [sound:B-O-B-{fs} WHERE_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811260
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+B-O-B-[fs] WHERE
+* [sound:DEAF YOU_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811263
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DEAF YOU
+* [sound:DEAF_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811266
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DEAF
+* [sound:don't-UNDERSTAND_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811269
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+don't-UNDERSTAND
+* [sound:HEARING-person are-YOU_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811272
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HEARING-person are-YOU
+* [sound:HEARING-{hearing-person-culturally}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811275
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HEARING-[hearing-person-culturally]
+* [sound:Hi, I'm John Smith! ... (brief narrative)_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811279
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+Hi, I'm John Smith! ... (brief narrative)
+* [sound:INDEX-{that-person} WHO (Who is he_she_that person)_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811282
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+INDEX-[that-person] WHO (Who is he_she_that person)
+* [sound:LEARN_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811285
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LEARN
+* [sound:LIKE-{affection-for}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811288
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIKE-[affection-for]
+* [sound:mean_meaning of sake intent purpose_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811292
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+mean_meaning of sake intent purpose
+* [sound:meet_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811294
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+meet
+* [sound:NAME_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811296
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NAME
+* [sound:NICE-to me-MEET-you (IT'S NICE TO MEET YOU)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811299
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NICE-to me-MEET-you (IT'S NICE TO MEET YOU)
+* [sound:NICE_CLEAN_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811301
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NICE_CLEAN
+* [sound:NO-{opposite-of-yes}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811303
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NO-[opposite-of-yes]
+* [sound:SIGN-{signing-version}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811306
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SIGN-[signing-version]
+* [sound:slow, slowly (version of slow)_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811366
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+slow, slowly (version of slow)
+* [sound:STUDENT YOU_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811369
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STUDENT YOU
+* [sound:STUDENT _ learner {casual version}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811371
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STUDENT _ learner [casual version]
+* [sound:STUDENT, HE_SHE_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811373
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STUDENT, HE_SHE
+* [sound:STUDENT-{full-version}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811376
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STUDENT-[full-version]
+* [sound:S_HE STUDENT S_HE_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811378
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+S_HE STUDENT S_HE
+* [sound:T-H-A-N-K-S how-SIGN_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811380
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+T-H-A-N-K-S how-SIGN
+* [sound:TEACHER_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811382
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TEACHER
+* [sound:THANK-YOU_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811384
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THANK-YOU
+* [sound:THEY LEARN SIGN_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811387
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THEY LEARN SIGN
+* [sound:THIS YOUR_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811389
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THIS YOUR
+* [sound:UNDERSTAND _ got it _ I get it _ comprehend _ grasp _ fathom_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811391
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+UNDERSTAND _ got it _ I get it _ comprehend _ grasp _ fathom
+* [sound:what_LIFEPRINT-ASL_1656573811183.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811394
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+what
+* [sound:where_LIFEPRINT-ASL_1656573811183.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811396
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+where
+* [sound:WHO_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811398
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WHO
+* [sound:WHY_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811400
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WHY
+* [sound:yeah yes_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811402
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+yeah yes
+* [sound:YOU LEARN SIGN WHY-{version}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811404
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LEARN SIGN WHY-[version]
+* [sound:YOU LEARN SIGN WHY_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811406
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LEARN SIGN WHY
+* [sound:YOU LEARN SIGN, WHERE-{version}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811409
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LEARN SIGN, WHERE-[version]
+* [sound:YOU LIKE LEARN SIGN_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811411
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE LEARN SIGN
+* [sound:YOU NAME-{what}_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811413
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU NAME-[what]
+* [sound:YOU UNDERSTAND HE_SHE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811415
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU UNDERSTAND HE_SHE
+* [sound:YOUR TEACHER what-NAME_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811418
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR TEACHER what-NAME
+* [sound:your teacher who_LIFEPRINT-ASL.mp4] :Lesson_01:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811420
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+your teacher who
+* [sound:YOUR _ belongs to you _ yours (possessive)_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811422
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR _ belongs to you _ yours (possessive)
+* [sound:BOY_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811424
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BOY
+* [sound:BROTHER YOU how-MANY_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811426
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BROTHER YOU how-MANY
+* [sound:BROTHER_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811429
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BROTHER
+* [sound:CHILDREN YOU_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811431
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CHILDREN YOU
+* [sound:CHILD_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811433
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CHILD
+* [sound:DAD_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811435
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DAD
+* [sound:DIVORCE_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811438
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DIVORCE
+* [sound:FINGERSPELL_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811440
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FINGERSPELL
+* [sound:girl-{FEMALE-SHORT-version} _ little girl _ female child_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811442
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+girl-[FEMALE-SHORT-version] _ little girl _ female child
+* [sound:GRANDMA_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811444
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GRANDMA
+* [sound:GRANDPA_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811448
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GRANDPA
+* [sound:HAVE-{1h version}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811453
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HAVE-[1h version]
+* [sound:HAVE-{possess-2-hand-version}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811455
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HAVE-[possess-2-hand-version]
+* [sound:HEY, NAME YOU_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811458
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HEY, NAME YOU
+* [sound:HEY-{visual-method-of-getting-attention}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811461
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HEY-[visual-method-of-getting-attention]
+* [sound:how many_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811463
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+how many
+* [sound:how version_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811465
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+how version
+* [sound:how_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811468
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+how
+* [sound:husband_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811471
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+husband
+* [sound:lady_woman_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811472
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+lady_woman
+* [sound:LIVE-{version}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811474
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIVE-[version]
+* [sound:man_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811476
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+man
+* [sound:MARRIAGE-marry-married_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811479
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MARRIAGE-marry-married
+* [sound:MOM_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811480
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MOM
+* [sound:PARENTS-{casual-version}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811482
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PARENTS-[casual-version]
+* [sound:PARENTS_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811484
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PARENTS
+* [sound:possessive-adjective-{his_her_hers_its}-{belongs-to-that-person}-{singular-THEY_THEIR}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811486
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+possessive-adjective-[his_her_hers_its]-[belongs-to-that-person]-[singular-THEY_THEIR]
+* [sound:POSSESSIVES - MY, MINE_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811488
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+POSSESSIVES - MY, MINE
+* [sound:POSSESSIVES - OUR_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811490
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+POSSESSIVES - OUR
+* [sound:SINGLE-{alone-something-someone}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811492
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SINGLE-[alone-something-someone]
+* [sound:SISTER YOU HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811494
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SISTER YOU HOW-MANY
+* [sound:SISTER_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811496
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SISTER
+* [sound:T-H-E-Y HOW SIGN_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811498
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+T-H-E-Y HOW SIGN
+* [sound:their_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811500
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+their
+* [sound:THIS HIS_HERS_theirs_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811503
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THIS HIS_HERS_theirs
+* [sound:W-E HOW SIGN_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811505
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+W-E HOW SIGN
+* [sound:wife_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811508
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+wife
+* [sound:WORK _ labor _ employment_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811510
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WORK _ labor _ employment
+* [sound:YOU DIVORCED YOU-{initialized-version}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811513
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU DIVORCED YOU-[initialized-version]
+* [sound:YOU HAVE SISTER_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811517
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU HAVE SISTER
+* [sound:YOU LIVE WHERE_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811518
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE WHERE
+* [sound:YOU MARRIED_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811520
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU MARRIED
+* [sound:YOU MEET MY BROTHER YOU_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811522
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU MEET MY BROTHER YOU
+* [sound:YOU NAME B-O-B YOU_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811525
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU NAME B-O-B YOU
+* [sound:YOU WORK WHERE_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811527
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WORK WHERE
+* [sound:YOUR DAD DEAF_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811528
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR DAD DEAF
+* [sound:YOUR DAD NAME, FINGERSPELL SLOW_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811531
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR DAD NAME, FINGERSPELL SLOW
+* [sound:YOUR GRANDMA what-NAME_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811533
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR GRANDMA what-NAME
+* [sound:YOUR MOM NAME WHAT_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811536
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR MOM NAME WHAT
+* [sound:YOUR SISTER SINGLE-{version}_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811538
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR SISTER SINGLE-[version]
+* [sound:YOUR WIFE what-NAME_LIFEPRINT-ASL.mp4] :Lesson_02:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811540
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR WIFE what-NAME
+* [sound:A-L-L HOW SIGN_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811563
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+A-L-L HOW SIGN
+* [sound:ALL-{lexicalized}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811564
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ALL-[lexicalized]
+* [sound:ASK-to-{that-person} NAME. (Ask him_her_that-person his_her_their name.)_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811566
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ASK-to-[that-person] NAME. (Ask him_her_that-person his_her_their name.)
+* [sound:ASK-to_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811567
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ASK-to
+* [sound:bad_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811569
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+bad
+* [sound:BATHROOM _ toilet _ restroom_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811570
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BATHROOM _ toilet _ restroom
+* [sound:best_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811572
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+best
+* [sound:BETTER_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811573
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BETTER
+* [sound:CHILDREN, YOU HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811575
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CHILDREN, YOU HOW-MANY
+* [sound:CITY YOU LIVE_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811577
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CITY YOU LIVE
+* [sound:city_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811578
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+city
+* [sound:CLASS_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811580
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CLASS
+* [sound:come to here_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811581
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+come to here
+* [sound:critical-must_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811583
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+critical-must
+* [sound:DON'T-{version_2h} _ no more _ that's it {neg} _ discontinue_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811585
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DON'T-[version_2h] _ no more _ that's it [neg] _ discontinue
+* [sound:entire all whole_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811586
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+entire all whole
+* [sound:F-I-N-E HOW SIGN_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811588
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+F-I-N-E HOW SIGN
+* [sound:FAMILY DEAF_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811590
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FAMILY DEAF
+* [sound:FAMILY {initialized version}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811592
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FAMILY [initialized version]
+* [sound:FINE-{good}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811596
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FINE-[good]
+* [sound:FROM_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811597
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FROM
+* [sound:GO-to_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811599
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GO-to
+* [sound:GOOD-{well}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811600
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GOOD-[well]
+* [sound:GROW-UP-{RAISED}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811602
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GROW-UP-[RAISED]
+* [sound:HERE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811604
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HERE
+* [sound:HE_SHE WHO_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811606
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HE_SHE WHO
+* [sound:house version_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811607
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+house version
+* [sound:house_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811609
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+house
+* [sound:large (non inflected version)_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811610
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+large (non inflected version)
+* [sound:little small_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811614
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+little small
+* [sound:MORE_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811615
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MORE
+* [sound:NEED-{1-movement}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811617
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NEED-[1-movement]
+* [sound:negative_minus_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811619
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+negative_minus
+* [sound:not like, don't like, dislike_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811621
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+not like, don't like, dislike
+* [sound:NOT_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811623
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NOT
+* [sound:NO_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811624
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NO
+* [sound:NYB!-{None of your business!}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811626
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NYB!-[None of your business!]
+* [sound:prefer, favorite_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811627
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+prefer, favorite
+* [sound:request_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811629
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+request
+* [sound:SCHOOL_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811630
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SCHOOL
+* [sound:SO-SO_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811632
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SO-SO
+* [sound:think_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811633
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+think
+* [sound:WANT MORE CHILDREN YOU-{version-1}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811635
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WANT MORE CHILDREN YOU-[version-1]
+* [sound:want_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811637
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+want
+* [sound:YOU CHILDREN HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811638
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU CHILDREN HOW-MANY
+* [sound:YOU FROM WHERE_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811640
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FROM WHERE
+* [sound:YOU GO-to SCHOOL YOU_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811641
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU GO-to SCHOOL YOU
+* [sound:YOU LIKE YOUR WORK_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811644
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE YOUR WORK
+* [sound:YOU LIVE HERE_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811646
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE HERE
+* [sound:YOU NEED BATHROOM_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811647
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU NEED BATHROOM
+* [sound:YOU THINK I SIGN BAD_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811649
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU THINK I SIGN BAD
+* [sound:YOU THINK I SIGN GOOD-{version-2}_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811650
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU THINK I SIGN GOOD-[version-2]
+* [sound:YOUR HOUSE BATHROOM how-MANY_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811655
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOUSE BATHROOM how-MANY
+* [sound:YOUR HOUSE BIG-cha_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811657
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOUSE BIG-cha
+* [sound:YOUR HOUSE SMALL_LIFEPRINT-ASL.mp4] :Lesson_03:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811658
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOUSE SMALL
+* [sound:A-S-K--T-O HOW YOU SIGN (HOW DO YOU SIGN ASK-TO)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811660
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+A-S-K--T-O HOW YOU SIGN (HOW DO YOU SIGN ASK-TO)
+* [sound:aid-{HELP}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811661
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+aid-[HELP]
+* [sound:ANGRY -{anger, rage}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811663
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ANGRY -[anger, rage]
+* [sound:AUNT YOU, HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811664
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AUNT YOU, HOW-MANY
+* [sound:AUNT_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811666
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AUNT
+* [sound:BABY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811667
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BABY
+* [sound:BEDROOM_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811669
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BEDROOM
+* [sound:BED_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811671
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BED
+* [sound:BRUSH-TEETH_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811672
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BRUSH-TEETH
+* [sound:CL - V - GET-UP (V version)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811674
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CL - V - GET-UP (V version)
+* [sound:CL - V - JUMP_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811675
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CL - V - JUMP
+* [sound:CL - V - LIE DOWN_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811677
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CL - V - LIE DOWN
+* [sound:CL - V - TOSS AND TURN_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811678
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CL - V - TOSS AND TURN
+* [sound:CL - V - WALK-TO-{version}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811680
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CL - V - WALK-TO-[version]
+* [sound:CRY-{version}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811681
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CRY-[version]
+* [sound:DAUGHTER_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811683
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DAUGHTER
+* [sound:dive-{CL -V}-{version-1}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811684
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+dive-[CL -V]-[version-1]
+* [sound:dive-{CL -V}-{version-2}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811687
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+dive-[CL -V]-[version-2]
+* [sound:don't-WANT_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811688
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+don't-WANT
+* [sound:EXCUSE_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811690
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+EXCUSE
+* [sound:feeling_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811691
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+feeling
+* [sound:friend_LIFEPRINT-ASL_1656573811183.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811693
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+friend
+* [sound:H-E-A-R-I-N-G how-SIGN (HOW DO YOU SIGN HEARING)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811694
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+H-E-A-R-I-N-G how-SIGN (HOW DO YOU SIGN HEARING)
+* [sound:HAPPY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811696
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HAPPY
+* [sound:I NEED BRUSH-TEETH_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811697
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+I NEED BRUSH-TEETH
+* [sound:IDEA_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811699
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+IDEA
+* [sound:IF TEACHER SPELL SLOW, YOU UNDERSTAND S_HE_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811701
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+IF TEACHER SPELL SLOW, YOU UNDERSTAND S_HE
+* [sound:LEARN SIGN, NEED HELP YOU_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811703
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LEARN SIGN, NEED HELP YOU
+* [sound:love_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811704
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+love
+* [sound:MY NAME BILL YOU what-NAME (My name is Bill. What's your name)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811706
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MY NAME BILL YOU what-NAME (My name is Bill. What's your name)
+* [sound:pain_jab version, hurt_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811709
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+pain_jab version, hurt
+* [sound:room_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811710
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+room
+* [sound:SAD_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811712
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SAD
+* [sound:SMALL CITY, YOU LIKE (DO YOU LIKE SMALL CITIES)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811713
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SMALL CITY, YOU LIKE (DO YOU LIKE SMALL CITIES)
+* [sound:son_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811716
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+son
+* [sound:SORRY-{version-1}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811718
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SORRY-[version-1]
+* [sound:SORRY-{version-2}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811720
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SORRY-[version-2]
+* [sound:stand-{CL -V}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811723
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+stand-[CL -V]
+* [sound:STOP_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811725
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STOP
+* [sound:STUDENTS HERE, YOU LIKE ALL YOU (DO YOU LIKE ALL OF THE STUDENTS HERE)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811726
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STUDENTS HERE, YOU LIKE ALL YOU (DO YOU LIKE ALL OF THE STUDENTS HERE)
+* [sound:SUPPOSE-{if_what-if}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811728
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SUPPOSE-[if_what-if]
+* [sound:THIS CITY, YOU THINK NICE (DO YOU THINK THIS CITY IS NICE)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811729
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THIS CITY, YOU THINK NICE (DO YOU THINK THIS CITY IS NICE)
+* [sound:UNCLE, YOU HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811731
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+UNCLE, YOU HOW-MANY
+* [sound:UNCLE_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811733
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+UNCLE
+* [sound:W-A-S-H how-SIGN_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811734
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+W-A-S-H how-SIGN
+* [sound:WANT MEET MY MOM (DO YOU WANT TO MEET MY MOTHER)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811736
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WANT MEET MY MOM (DO YOU WANT TO MEET MY MOTHER)
+* [sound:WASH_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811739
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WASH
+* [sound:YOU FEEL HAPPY, WHEN_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811741
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FEEL HAPPY, WHEN
+* [sound:YOU FEEL WANT CRY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811742
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FEEL WANT CRY
+* [sound:YOU FROM HERE (ARE YOU FROM HERE)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811744
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FROM HERE (ARE YOU FROM HERE)
+* [sound:YOU HAPPY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811745
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU HAPPY
+* [sound:YOU HAVE BABY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811747
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU HAVE BABY
+* [sound:YOU HAVE EXCUSE_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811749
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU HAVE EXCUSE
+* [sound:YOU HURT WHERE_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811750
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU HURT WHERE
+* [sound:YOU LIKE BIG CITY do-YOU (DO YOU LIKE BIG CITIES)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811752
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE BIG CITY do-YOU (DO YOU LIKE BIG CITIES)
+* [sound:YOU LIKE COME+ HERE (DO YOU LIKE COMING HERE)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811754
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE COME+ HERE (DO YOU LIKE COMING HERE)
+* [sound:YOU LIKE GO WORK (DO YOU LIKE GOING TO WORK)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811757
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE GO WORK (DO YOU LIKE GOING TO WORK)
+* [sound:YOU LIKE SHE {POINT AT A STUDENT} (DO YOU LIKE HER)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811758
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE SHE [POINT AT A STUDENT] (DO YOU LIKE HER)
+* [sound:YOU LIKE {HE_SHE} TEACHER (DO YOU LIKE THE TEACHER)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811760
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE [HE_SHE] TEACHER (DO YOU LIKE THE TEACHER)
+* [sound:YOU LIVE WHERE {Where do you live}_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811761
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE WHERE [Where do you live]
+* [sound:YOU LOVE WHO_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811763
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LOVE WHO
+* [sound:YOU SAD WHY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811766
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU SAD WHY
+* [sound:YOU SINGLE are-YOU (ARE YOU SINGLE)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811767
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU SINGLE are-YOU (ARE YOU SINGLE)
+* [sound:YOU SORRY COME CLASS_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811769
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU SORRY COME CLASS
+* [sound:YOU WANT BABY_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811771
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WANT BABY
+* [sound:YOU WANT STOP LEARN SIGN_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811773
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WANT STOP LEARN SIGN
+* [sound:YOU WORK what-CITY (IN WHAT CITY DO YOU WORK)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811774
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WORK what-CITY (IN WHAT CITY DO YOU WORK)
+* [sound:YOUR BEDROOM BIG_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811776
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BEDROOM BIG
+* [sound:YOUR BOY-FRIEND NAME_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811777
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BOY-FRIEND NAME
+* [sound:YOUR EXCUSE WHAT_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811779
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR EXCUSE WHAT
+* [sound:YOUR FATHER, HOW-MANY SONS_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811781
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR FATHER, HOW-MANY SONS
+* [sound:YOUR NAME, how-SPELL (HOW DO YOU SPELL YOUR NAME)_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811782
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR NAME, how-SPELL (HOW DO YOU SPELL YOUR NAME)
+* [sound:YOUR TEACHER HAVE DAUGHTER_LIFEPRINT-ASL.mp4] :Lesson_04:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811784
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR TEACHER HAVE DAUGHTER
+* [sound:ADDRESS_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811786
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ADDRESS
+* [sound:BIKE _ BICYCLE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811790
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BIKE _ BICYCLE
+* [sound:BOB SIT WHERE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811791
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BOB SIT WHERE
+* [sound:bus-{fingerspelled}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811793
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+bus-[fingerspelled]
+* [sound:bus_bent v hand version_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811794
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+bus_bent v hand version
+* [sound:CAN YOU DRIVE YOU_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811796
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CAN YOU DRIVE YOU
+* [sound:car_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811797
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+car
+* [sound:chess you like play_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811799
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+chess you like play
+* [sound:CHURCH_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811800
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CHURCH
+* [sound:COMPUTER-{version}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811802
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+COMPUTER-[version]
+* [sound:DESKTOP COMPUTER_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811803
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DESKTOP COMPUTER
+* [sound:Do what _ what-DO _ What to do_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811805
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+Do what _ what-DO _ What to do
+* [sound:doctor_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811807
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+doctor
+* [sound:drive to here_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811808
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+drive to here
+* [sound:DRIVE-there {drive to}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811810
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRIVE-there [drive to]
+* [sound:EMAIL (flat c hand version)_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811811
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+EMAIL (flat c hand version)
+* [sound:favorite_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811813
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+favorite
+* [sound:feel_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811814
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+feel
+* [sound:FRIEND_LIFEPRINT-ASL_1656573811183.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811816
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FRIEND
+* [sound:GIVE-you {give you from me, a gift to you from me} {GIVE}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811819
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GIVE-you [give you from me, a gift to you from me] [GIVE]
+* [sound:have_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811823
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+have
+* [sound:HOW-{version-1-single-movement}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811826
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HOW-[version-1-single-movement]
+* [sound:internet (contact in passing version)_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811828
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+internet (contact in passing version)
+* [sound:INTERNET S-I-T-E YOUR FAVORITE WHAT_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811829
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+INTERNET S-I-T-E YOUR FAVORITE WHAT
+* [sound:IN_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811831
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+IN
+* [sound:LIKE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811832
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIKE
+* [sound:MOVIE, YOUR FAVORITE WHAT_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811837
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MOVIE, YOUR FAVORITE WHAT
+* [sound:movie_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811839
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+movie
+* [sound:need_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811840
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+need
+* [sound:network internet version 1_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811842
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+network internet version 1
+* [sound:nurse_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811843
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+nurse
+* [sound:out_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811845
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+out
+* [sound:PLAY -{playing}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811846
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PLAY -[playing]
+* [sound:PLAY YOU LIKE what-DO_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811848
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PLAY YOU LIKE what-DO
+* [sound:possible, can (double movement version)_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811850
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+possible, can (double movement version)
+* [sound:PRONOUN - YOU_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811853
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PRONOUN - YOU
+* [sound:seat sit_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811856
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+seat sit
+* [sound:SIGN WITH FRIEND, YOU LIKE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811858
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SIGN WITH FRIEND, YOU LIKE
+* [sound:site_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811861
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+site
+* [sound:STAND_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811863
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STAND
+* [sound:STAY_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811864
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STAY
+* [sound:STORE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811866
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STORE
+* [sound:TRAIN_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811870
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TRAIN
+* [sound:video movie_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811873
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+video movie
+* [sound:video-RECORD (webcam version)_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811874
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+video-RECORD (webcam version)
+* [sound:video-{a-video_MOVIE}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811876
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+video-[a-video_MOVIE]
+* [sound:WALK_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811877
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WALK
+* [sound:WATCH-{casual}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811879
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WATCH-[casual]
+* [sound:WHAT_LIFEPRINT-ASL_1656573811183.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811880
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WHAT
+* [sound:WHERE_LIFEPRINT-ASL_1656573811183.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811882
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WHERE
+* [sound:WITH _ together _ side-by-side _ alongside _ beside_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811885
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WITH _ together _ side-by-side _ alongside _ beside
+* [sound:would-like-{want}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811887
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+would-like-[want]
+* [sound:WRISTWATCH, WHO GIVE-you_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811889
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WRISTWATCH, WHO GIVE-you
+* [sound:WRISTWATCH_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811890
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WRISTWATCH
+* [sound:YOU COME HERE HOW_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811892
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU COME HERE HOW
+* [sound:YOU DRIVE HERE FROM HOME_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811894
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU DRIVE HERE FROM HOME
+* [sound:YOU how-FEEL_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811896
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU how-FEEL
+* [sound:YOU LIKE SIGN WITH WHO_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811898
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE SIGN WITH WHO
+* [sound:YOU NEED GO DOCTOR_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811899
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU NEED GO DOCTOR
+* [sound:YOU WALK SCHOOL YOU-{version}_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811903
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WALK SCHOOL YOU-[version]
+* [sound:YOU WALK SCHOOL YOU_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811905
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WALK SCHOOL YOU
+* [sound:YOU WANT GO-to WHERE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811907
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WANT GO-to WHERE
+* [sound:YOUR COMPUTER HAVE WEB-CAM_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811908
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR COMPUTER HAVE WEB-CAM
+* [sound:YOUR EMAIL ADDRESS WHAT_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811910
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR EMAIL ADDRESS WHAT
+* [sound:YOUR FAVORITE STORE WHAT_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811912
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR FAVORITE STORE WHAT
+* [sound:YOUR HOME WHERE_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811913
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOME WHERE
+* [sound:YOUR MOM what-DO_LIFEPRINT-ASL.mp4] :Lesson_05:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656573811915
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR MOM what-DO
+* [sound:black_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355931
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+black
+* [sound:BLUE_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355940
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BLUE
+* [sound:brown_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355953
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+brown
+* [sound:color_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355956
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+color
+* [sound:do-YOU WANT GO HOME NOW_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355959
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+do-YOU WANT GO HOME NOW
+* [sound:draw_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355962
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+draw
+* [sound:FINISH-{done}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355965
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FINISH-[done]
+* [sound:FUTURE-{WILL}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355967
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FUTURE-[WILL]
+* [sound:green_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355970
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+green
+* [sound:how-SIGN W-A-I-T_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355972
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+how-SIGN W-A-I-T
+* [sound:LONG -{length}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355975
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LONG -[length]
+* [sound:NAME SOMETHING ITSELF BLACK WHITE._LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355977
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NAME SOMETHING ITSELF BLACK WHITE.
+* [sound:NOW-{1-movement}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355980
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NOW-[1-movement]
+* [sound:OLD-{age}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355983
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+OLD-[age]
+* [sound:ORANGE_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355986
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ORANGE
+* [sound:page-{PAPER}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355988
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+page-[PAPER]
+* [sound:PAST _ before now _ previously _ prior to this point in time _ ago_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355991
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PAST _ before now _ previously _ prior to this point in time _ ago
+* [sound:RED_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355993
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+RED
+* [sound:SELF _ itself _ automatically _ on its own _ auto-{self}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355995
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SELF _ itself _ automatically _ on its own _ auto-[self]
+* [sound:TOMORROW YOU GO SCHOOL_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574355998
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TOMORROW YOU GO SCHOOL
+* [sound:TOMORROW_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356000
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TOMORROW
+* [sound:WAIT_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356002
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WAIT
+* [sound:WHEN_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356066
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WHEN
+* [sound:white_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356068
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+white
+* [sound:YEAR_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356071
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YEAR
+* [sound:YELLOW_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356073
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YELLOW
+* [sound:YOU DRAW well-{GOOD}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356075
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU DRAW well-[GOOD]
+* [sound:YOU FINISH WATCH MOVIE TITANIC_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356077
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FINISH WATCH MOVIE TITANIC
+* [sound:YOU GO DOCTOR, WAIT-{long}, YOU SIT-anxious YOU_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356080
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU GO DOCTOR, WAIT-[long], YOU SIT-anxious YOU
+* [sound:YOU how-OLD_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356082
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU how-OLD
+* [sound:YOU LIKE COLOR BROWN_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356085
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE COLOR BROWN
+* [sound:YOU LIKE RED CAR_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356087
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE RED CAR
+* [sound:YOU LIVE BIG CITY PAST YOU_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356089
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE BIG CITY PAST YOU
+* [sound:YOU LIVE HERE HOW-MANY YEAR_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356091
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE HERE HOW-MANY YEAR
+* [sound:YOU LIVE THERE-{point-index} HOW-LONG_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356094
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE THERE-[point-index] HOW-LONG
+* [sound:YOU LIVE what-CITY_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356096
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE what-CITY
+* [sound:YOU LIVE WHERE (WHERE DO YOU LIVE)_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356099
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE WHERE (WHERE DO YOU LIVE)
+* [sound:YOU MOVE-{to-here} WHEN_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356101
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU MOVE-[to-here] WHEN
+* [sound:YOU THINK FUTURE YOU TEACH ASL_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356103
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU THINK FUTURE YOU TEACH ASL
+* [sound:YOUR CHAIR GREEN_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356106
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR CHAIR GREEN
+* [sound:YOUR FAVORITE COLOR, WHAT_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356108
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR FAVORITE COLOR, WHAT
+* [sound:YOUR PAPER what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356110
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR PAPER what-COLOR
+* [sound:YOUR PARENTS DIVORCED-{version}_LIFEPRINT-ASL.mp4] :Lesson_06:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356113
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR PARENTS DIVORCED-[version]
+* [sound:AND_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356115
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AND
+* [sound:APPLE, GREEN, YOU LIKE EAT_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356118
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+APPLE, GREEN, YOU LIKE EAT
+* [sound:APPLE, RED, YOU LIKE EAT YOU_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356120
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+APPLE, RED, YOU LIKE EAT YOU
+* [sound:APPLE_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356122
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+APPLE
+* [sound:CANDY (treat)_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356124
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CANDY (treat)
+* [sound:CANDY, YOU LIKE WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356127
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CANDY, YOU LIKE WHAT-KIND
+* [sound:CEREAL, YOU LIKE WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356129
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CEREAL, YOU LIKE WHAT-KIND
+* [sound:CEREAL_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356132
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CEREAL
+* [sound:CHEESE_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356134
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CHEESE
+* [sound:COOKIE, YOU LIKE WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356136
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+COOKIE, YOU LIKE WHAT-KIND
+* [sound:COOKIE_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356138
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+COOKIE
+* [sound:CUP _ GLASS-(drink) _ CAN-(container)_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356140
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CUP _ GLASS-(drink) _ CAN-(container)
+* [sound:DRINK-{C-hand-version}-{general-sign-for-non-alcoholic-drinks}_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356143
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRINK-[C-hand-version]-[general-sign-for-non-alcoholic-drinks]
+* [sound:EAT_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356146
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+EAT
+* [sound:EGG_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356150
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+EGG
+* [sound:EVERYDAY YOU DRINK, WATER HOW-MANY CUP_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356153
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+EVERYDAY YOU DRINK, WATER HOW-MANY CUP
+* [sound:fed up _ had it up to here _ {idiomatic}_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356155
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+fed up _ had it up to here _ [idiomatic]
+* [sound:FULL-{stomach}_ stuffed_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356158
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FULL-[stomach]_ stuffed
+* [sound:FULL_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356160
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FULL
+* [sound:GREEN EGG AND H-A-M YOU LIKE YOU_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356162
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GREEN EGG AND H-A-M YOU LIKE YOU
+* [sound:HAMBURGER_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356165
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HAMBURGER
+* [sound:HOTDOG -{sausage}_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356167
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HOTDOG -[sausage]
+* [sound:HUNGRY YOU_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356169
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HUNGRY YOU
+* [sound:HUNGRY _ starving _ famished _ desire _ appetite _ wish_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356171
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HUNGRY _ starving _ famished _ desire _ appetite _ wish
+* [sound:MILK_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356173
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MILK
+* [sound:ORANGES, YOU LIKE EAT do-YOU_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356175
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ORANGES, YOU LIKE EAT do-YOU
+* [sound:PIZZA, YOU LIKE WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356177
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PIZZA, YOU LIKE WHAT-KIND
+* [sound:PIZZA-{version-2}_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356179
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PIZZA-[version-2]
+* [sound:PIZZA-{version-3}_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356181
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PIZZA-[version-3]
+* [sound:PIZZA_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356183
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PIZZA
+* [sound:POPCORN_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356185
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+POPCORN
+* [sound:SOUP, YOU LIKE WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356187
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SOUP, YOU LIKE WHAT-KIND
+* [sound:SOUP_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356188
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SOUP
+* [sound:SUPPOSE YOU EAT 3 HAMBURGER, WILL FULL YOU_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356191
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SUPPOSE YOU EAT 3 HAMBURGER, WILL FULL YOU
+* [sound:SUPPOSE YOU GO MOVIE, YOU LIKE EAT POPCORN_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356193
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SUPPOSE YOU GO MOVIE, YOU LIKE EAT POPCORN
+* [sound:taste_take a taste_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356195
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+taste_take a taste
+* [sound:water_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356197
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+water
+* [sound:what-KIND_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356200
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+what-KIND
+* [sound:YOU DON'T LIKE CANDY_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356204
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU DON'T LIKE CANDY
+* [sound:YOU FAVORITE-{prefer} APPLE {bodyshift-'or'} ORANGES_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356208
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FAVORITE-[prefer] APPLE [bodyshift-'or'] ORANGES
+* [sound:YOU FAVORITE-{prefer}, HAMBURGER {body-shift-'or'} HOTDOG_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356210
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FAVORITE-[prefer], HAMBURGER [body-shift-'or'] HOTDOG
+* [sound:YOU FULL_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356212
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU FULL
+* [sound:YOU LIKE COOKIES WITH MILK_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356214
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE COOKIES WITH MILK
+* [sound:YOUR FAVORITE FOOD WHAT_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356216
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR FAVORITE FOOD WHAT
+* [sound:YOUR SISTER LIKE EGG_LIFEPRINT-ASL.mp4] :Lesson_07:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356218
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR SISTER LIKE EGG
+* [sound:BACKPACK, YOU HAVE_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356220
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BACKPACK, YOU HAVE
+* [sound:BACKPACK-{A-hand version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356222
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BACKPACK-[A-hand version]
+* [sound:BACKPACK-{C-hand version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356224
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BACKPACK-[C-hand version]
+* [sound:BACKPACK-{modified-C-hand version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356226
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BACKPACK-[modified-C-hand version]
+* [sound:BACKPACK-{small-C-hand version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356228
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BACKPACK-[small-C-hand version]
+* [sound:BACKPACK-{straps version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356230
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BACKPACK-[straps version]
+* [sound:BASKET-{version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356232
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BASKET-[version]
+* [sound:BATTERY, ELECTRIC_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356234
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BATTERY, ELECTRIC
+* [sound:belt-tie-on_pockets_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356236
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+belt-tie-on_pockets
+* [sound:BELT_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356239
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BELT
+* [sound:CLOTHES DIRTY, SHOULD PUT WHERE_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356241
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CLOTHES DIRTY, SHOULD PUT WHERE
+* [sound:clothes_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356243
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+clothes
+* [sound:DOCTOR L-A-B COAT, COLOR_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356245
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DOCTOR L-A-B COAT, COLOR
+* [sound:DRESS_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356247
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRESS
+* [sound:GALLAUDET_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356249
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GALLAUDET
+* [sound:GLASSES_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356251
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GLASSES
+* [sound:HEARING-AID, WHO HAVE_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356252
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HEARING-AID, WHO HAVE
+* [sound:jacket_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356255
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+jacket
+* [sound:laundry, washing-machine, wash fabric_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356259
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+laundry, washing-machine, wash fabric
+* [sound:locate, find_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356260
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+locate, find
+* [sound:OFF-{fingerspelled version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356262
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+OFF-[fingerspelled version]
+* [sound:ON-{fingerspelled version)_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356264
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ON-[fingerspelled version)
+* [sound:PANTS, SPELL_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356266
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PANTS, SPELL
+* [sound:PANTS_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356268
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PANTS
+* [sound:PIZZA {bodyshift}-OR HAMBURGER YOU FAVORITE-{prefer} WHICH_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356270
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PIZZA [bodyshift]-OR HAMBURGER YOU FAVORITE-[prefer] WHICH
+* [sound:reform-change_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356272
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+reform-change
+* [sound:SASH-{tie-belt-version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356275
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SASH-[tie-belt-version]
+* [sound:SCHOOL FINISH, YOUR MOM PICK-UP YOU, what-TIME_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356277
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SCHOOL FINISH, YOUR MOM PICK-UP YOU, what-TIME
+* [sound:SHIRT_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356279
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SHIRT
+* [sound:SHOES, YOU HAVE HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356282
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SHOES, YOU HAVE HOW-MANY
+* [sound:shoes_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356284
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+shoes
+* [sound:SOCKS_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356286
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SOCKS
+* [sound:SUPPOSE YOU GO CHURCH, PANTS {bodyshift}-OR DRESS WHICH YOU_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356288
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SUPPOSE YOU GO CHURCH, PANTS [bodyshift]-OR DRESS WHICH YOU
+* [sound:THIS ROOM WHO HAVE GLASSES_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356290
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THIS ROOM WHO HAVE GLASSES
+* [sound:UNDERWEAR (version 02)_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356293
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+UNDERWEAR (version 02)
+* [sound:UNDERWEAR_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356295
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+UNDERWEAR
+* [sound:which_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356297
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+which
+* [sound:YOU CHANGE CLOTHES, WHEN_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356299
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU CHANGE CLOTHES, WHEN
+* [sound:YOU LIKE WASHING-MACHINE CLOTHES_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356301
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIKE WASHING-MACHINE CLOTHES
+* [sound:YOU THINK CHILDREN SHOULD CHANGE UNDERWEAR DAILY_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356303
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU THINK CHILDREN SHOULD CHANGE UNDERWEAR DAILY
+* [sound:YOU WANT GO GALLAUDET FUTURE-{someday}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356305
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU WANT GO GALLAUDET FUTURE-[someday]
+* [sound:YOUR BACKPACK HAVE ZIPPER_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356308
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BACKPACK HAVE ZIPPER
+* [sound:YOUR BELT, what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356311
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BELT, what-COLOR
+* [sound:YOUR HEARING-AID, BATTERY, WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356314
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HEARING-AID, BATTERY, WHAT-KIND
+* [sound:YOUR HOUSE, CLOTHES DIRTY, PUT-in BASKET WHO_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356317
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOUSE, CLOTHES DIRTY, PUT-in BASKET WHO
+* [sound:YOUR SHIRT what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356319
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR SHIRT what-COLOR
+* [sound:YOUR SOCKS, what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356321
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR SOCKS, what-COLOR
+* [sound:ZIP-LIPS-{zip-your-lips}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356323
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ZIP-LIPS-[zip-your-lips]
+* [sound:ZIP-up-{general-version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356325
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ZIP-up-[general-version]
+* [sound:ZIP-up-{jacket version}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356327
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ZIP-up-[jacket version]
+* [sound:ZIP-{Z-I-P}_LIFEPRINT-ASL.mp4] :Lesson_08:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356329
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+ZIP-[Z-I-P]
+* [sound:AMBULANCE BEFORE-past YOU_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356331
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AMBULANCE BEFORE-past YOU
+* [sound:AMBULANCE_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356333
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+AMBULANCE
+* [sound:BASEMENT_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356335
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BASEMENT
+* [sound:BATH, SHOWER, YOU PREFER WHICH_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356337
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BATH, SHOWER, YOU PREFER WHICH
+* [sound:BATHTUB_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356339
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BATHTUB
+* [sound:BRIGHT-{clearly_clear_obvious}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356341
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BRIGHT-[clearly_clear_obvious]
+* [sound:CAR HAVE DOORS HOW-MANY_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356343
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CAR HAVE DOORS HOW-MANY
+* [sound:close door_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356345
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+close door
+* [sound:close window_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356347
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+close window
+* [sound:CLOSET {DOOR}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356349
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CLOSET [DOOR]
+* [sound:couch (sectional couch configuration) (01) ASL depiction (cl-cc) classifier-c_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356351
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+couch (sectional couch configuration) (01) ASL depiction (cl-cc) classifier-c
+* [sound:couch (sectional couch configuration) (02) ASL depiction (cl-cc) classifier-c_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356353
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+couch (sectional couch configuration) (02) ASL depiction (cl-cc) classifier-c
+* [sound:COUCH_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356355
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+COUCH
+* [sound:CUPBOARD {CABINET}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356357
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CUPBOARD [CABINET]
+* [sound:DEAF PREFER KITCHEN, WHY_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356359
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DEAF PREFER KITCHEN, WHY
+* [sound:door_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356361
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+door
+* [sound:DRAWER {DRESSER}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356363
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRAWER [DRESSER]
+* [sound:DRYER-{DRY-DRY-version}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356365
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRYER-[DRY-DRY-version]
+* [sound:DRYER-{DRY-spin-around-version}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356367
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRYER-[DRY-spin-around-version]
+* [sound:DRY_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356368
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+DRY
+* [sound:GARAGE HAVE_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356370
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GARAGE HAVE
+* [sound:garage_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356372
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+garage
+* [sound:GARBAGE_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356374
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GARBAGE
+* [sound:HEADLIGHTS _ two lights signing forward_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356376
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HEADLIGHTS _ two lights signing forward
+* [sound:KITCHEN ('cook' variation)_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356380
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+KITCHEN ('cook' variation)
+* [sound:KITCHEN-{one-handed-version}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356383
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+KITCHEN-[one-handed-version]
+* [sound:LAMP_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356385
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LAMP
+* [sound:light a match _ strike a match_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356386
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+light a match _ strike a match
+* [sound:LIGHT, light device, lighting, a light (low context sign for light) vs overhead lighting_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356388
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIGHT, light device, lighting, a light (low context sign for light) vs overhead lighting
+* [sound:LIGHT-weight_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356390
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIGHT-weight
+* [sound:LIGHT-{off}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356392
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIGHT-[off]
+* [sound:LIGHTS-FLASH-{version}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356394
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIGHTS-FLASH-[version]
+* [sound:LIGHTS-FLASH_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356396
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIGHTS-FLASH
+* [sound:LIGHTS-ON_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356398
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LIGHTS-ON
+* [sound:MICROWAVE-{version}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356400
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MICROWAVE-[version]
+* [sound:open door_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356402
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+open door
+* [sound:open_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356404
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+open
+* [sound:REFRIGERATOR-{R-E-F}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356405
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+REFRIGERATOR-[R-E-F]
+* [sound:SAY_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356407
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SAY
+* [sound:SHOWER_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356409
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SHOWER
+* [sound:SINK {version 2} _ to become submerged _ to descend into liquid_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356411
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SINK [version 2] _ to become submerged _ to descend into liquid
+* [sound:SINK-{fingerspelled-version}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356413
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SINK-[fingerspelled-version]
+* [sound:SOME-{something_someone_single_just_alone}_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356415
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SOME-[something_someone_single_just_alone]
+* [sound:STOVE_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356417
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+STOVE
+* [sound:table_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356419
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+table
+* [sound:THAT TABLE, what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356421
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+THAT TABLE, what-COLOR
+* [sound:there_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356423
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+there
+* [sound:TOOTHPASTE YOU, what-KIND_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356426
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TOOTHPASTE YOU, what-KIND
+* [sound:TOOTHPASTE_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356428
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TOOTHPASTE
+* [sound:WINDOW-OPEN_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356452
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WINDOW-OPEN
+* [sound:window_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356453
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+window
+* [sound:WITH _ together _ side-by-side _ alongside _ beside_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356455
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+WITH _ together _ side-by-side _ alongside _ beside
+* [sound:YESTERDAY YOU SHOWER_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356456
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YESTERDAY YOU SHOWER
+* [sound:YESTERDAY_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356458
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YESTERDAY
+* [sound:YOU LIVE BASEMENT APT_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356460
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LIVE BASEMENT APT
+* [sound:YOU PREFER STOVE, MICROWAVE, WHICH_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356462
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU PREFER STOVE, MICROWAVE, WHICH
+* [sound:YOU TOGETHER-{with-long-term_go-steady} SOMEONE are-YOU_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356463
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU TOGETHER-[with-long-term_go-steady] SOMEONE are-YOU
+* [sound:YOUR BATHROOM HAVE TUB_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356465
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BATHROOM HAVE TUB
+* [sound:YOUR BEDROOM HAVE WINDOW_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356468
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BEDROOM HAVE WINDOW
+* [sound:YOUR COUCH, COLOR_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356471
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR COUCH, COLOR
+* [sound:YOUR DRYER, G-A-S, {bodyshift} ELECTRIC WHICH_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356473
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR DRYER, G-A-S, [bodyshift] ELECTRIC WHICH
+* [sound:YOUR HOUSE BATHROOM how-MANY_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356475
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOUSE BATHROOM how-MANY
+* [sound:YOUR HOUSE, GARBAGE, WHO 'throw out'_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356477
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR HOUSE, GARBAGE, WHO 'throw out'
+* [sound:YOUR PANTS, YOU PUT DRESSER, 'HANG-UP' WHICH_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356479
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR PANTS, YOU PUT DRESSER, 'HANG-UP' WHICH
+* [sound:YOUR REFRIGERATOR, what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356480
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR REFRIGERATOR, what-COLOR
+* [sound:YOUR S-I-N-K what-COLOR_LIFEPRINT-ASL.mp4] :Lesson_09:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356482
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR S-I-N-K what-COLOR
+* [sound:3 o clock version_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356484
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+3 o clock version
+* [sound:A-S-L CLASS, YOU PAST TAKE_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356485
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+A-S-L CLASS, YOU PAST TAKE
+* [sound:aspect-part-some_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356487
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+aspect-part-some
+* [sound:BIRD LIKE EAT FISH_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356489
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BIRD LIKE EAT FISH
+* [sound:BIRD_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356491
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BIRD
+* [sound:BOOK YOU LIKE READ, WHAT-KIND_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356493
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BOOK YOU LIKE READ, WHAT-KIND
+* [sound:book_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356494
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+book
+* [sound:BUG, insect, ANT+(context), critter_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356496
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+BUG, insect, ANT+(context), critter
+* [sound:CAT ('F'-hand-version)_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356497
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CAT ('F'-hand-version)
+* [sound:CAT LIKE EAT BIRD_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356499
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+CAT LIKE EAT BIRD
+* [sound:COW_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356500
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+COW
+* [sound:dog {Lexicalized fingerspelling version - #DOG}_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356502
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+dog [Lexicalized fingerspelling version - #DOG]
+* [sound:FISH LIKE EAT BUG_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356504
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FISH LIKE EAT BUG
+* [sound:FISH-{version-1}_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356506
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+FISH-[version-1]
+* [sound:GET_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356507
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+GET
+* [sound:HAVE PET YOU {if so} NAME_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356509
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HAVE PET YOU [if so] NAME
+* [sound:HORSE LIKE EAT FISH_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356511
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HORSE LIKE EAT FISH
+* [sound:HORSE YOU WANT_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356512
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HORSE YOU WANT
+* [sound:HORSE_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356514
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+HORSE
+* [sound:know_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356515
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+know
+* [sound:like-same same as-similar to_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356517
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+like-same same as-similar to
+* [sound:LOOK-LIKE_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356518
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+LOOK-LIKE
+* [sound:MILK, WHERE FROM, HOW GET_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356520
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+MILK, WHERE FROM, HOW GET
+* [sound:NAME SOMETHING DOG CHASE._LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356522
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+NAME SOMETHING DOG CHASE.
+* [sound:PET-{fingerspell}_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356524
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PET-[fingerspell]
+* [sound:PET_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356525
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+PET
+* [sound:pony {SMALL HORSE}_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356527
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+pony [SMALL HORSE]
+* [sound:READ bodyshift-OR WATCH-casual TV, YOU PREFER WHICH_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356529
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+READ bodyshift-OR WATCH-casual TV, YOU PREFER WHICH
+* [sound:READ_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356530
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+READ
+* [sound:SOME CAT LIKE WATER_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356532
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+SOME CAT LIKE WATER
+* [sound:TAKE-up_evaporate_adopt_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356534
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TAKE-up_evaporate_adopt
+* [sound:TEACHER HIS_HER WIFE, YOU KNOW NAME_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356535
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TEACHER HIS_HER WIFE, YOU KNOW NAME
+* [sound:TELL-me HOW YOU FEEL._LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356538
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TELL-me HOW YOU FEEL.
+* [sound:TELL-{tell-to, TELL-you}_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356541
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+TELL-[tell-to, TELL-you]
+* [sound:time_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356543
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+time
+* [sound:truly, true_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356544
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+truly, true
+* [sound:YOU GO ASL CLASS, what-TIME_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356546
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU GO ASL CLASS, what-TIME
+* [sound:YOU LOOK-LIKE YOUR DAD_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356548
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU LOOK-LIKE YOUR DAD
+* [sound:YOU PAST TAKE-up COOK CLASS YOU_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356550
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU PAST TAKE-up COOK CLASS YOU
+* [sound:YOU THINK COW GOOD PET_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356551
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOU THINK COW GOOD PET
+* [sound:YOUR BEDROOM UPSTAIRS_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356553
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR BEDROOM UPSTAIRS
+* [sound:YOUR FAVORITE BOOK, NAME_LIFEPRINT-ASL.mp4] :Lesson_10:
+:PROPERTIES:
+:ANKI_NOTE_ID: 1656574356555
+:ANKI_NOTE_TYPE: Basic (and reversed card)+
+:END:
+YOUR FAVORITE BOOK, NAME
+* Bibliography
+#+print_bibliography:

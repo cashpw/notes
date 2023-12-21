@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a32b0bd9-5555-4630-b486-4d070fb5c7f0
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-12-20 Wed 19:55]
 :END:
 #+title: Custom Anki Notes
 #+hugo_custom_front_matter: :slug "a32b0bd9-5555-4630-b486-4d070fb5c7f0"
@@ -108,11 +108,5 @@ The =Equivalence= note includes six pairs of fields for an expression and label:
 [[https://drive.google.com/file/d/1pF_iPI5bSd7xfmgyVj1D6T4Xb7P1Wmtm/view?usp=sharing][Download Equivalence note]]
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
-
-
 * Bibliography
 #+print_bibliography:
