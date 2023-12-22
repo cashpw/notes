@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-12-20 Wed 07:32]
+:LAST_MODIFIED: [2023-12-21 Thu 08:25]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -240,10 +240,12 @@ Providing moral or intellectual instruction
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.60 |  27 |   385.44 | 2024-06-19T02:23:25Z |
-| front    | 1.30 |   8 |    30.67 | 2023-03-31T07:12:51Z |
+| front    | 1.30 |   1 |     1.00 | 2023-12-22T16:25:10Z |
 :END:
+
 1. erase (a mark) from a surface
 2. make oneself appear insignificant or inconspicuous
+
 *** Source
 ** Finite :fc:
 :PROPERTIES:

@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@salamonHumansAreNotAutomaticallyStrategic2010]
 :ID:       3bac7cee-9146-45df-be28-bb51ac48be68
 :DIR:      /home/cashweaver/proj/roam/attachments/3bac7cee-9146-45df-be28-bb51ac48be68
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-12-21 Thu 08:22]
 :END:
 #+title:  Anna Salamon | Humans Are Not Automatically Strategic
 #+hugo_custom_front_matter: :slug "3bac7cee-9146-45df-be28-bb51ac48be68"
@@ -54,12 +54,13 @@ But there are clearly also heuristics that would be useful to goal-achievement (
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   8 |   264.39 | 2024-05-17T00:24:20Z |
-| back     | 2.50 |   7 |   209.52 | 2023-12-21T02:46:23Z |
+| back     | 2.50 |   8 |   510.93 | 2025-05-15T14:46:20Z |
 :END:
 
 [[id:3bac7cee-9146-45df-be28-bb51ac48be68][Anna Salamon | Humans Are Not Automatically Strategic]]
 
 *** Back
+
 - People "mostly just do things. We act from habit; we act from impulse ... but we do not systematically choose the narrow set of actions that would effectively optimize for our claimed goals ..."
 - We act with thought, but rarely do we act with [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Meta]]-level thought
 *** Source

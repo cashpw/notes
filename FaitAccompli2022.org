@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@FaitAccompli2022]
 :ID:       ecc8e89c-b85e-454f-a67a-dded3fbb7587
-:LAST_MODIFIED: [2023-12-15 Fri 07:50]
+:LAST_MODIFIED: [2023-12-21 Thu 08:24]
 :END:
 #+title: Fait accompli
 #+hugo_custom_front_matter: :slug "ecc8e89c-b85e-454f-a67a-dded3fbb7587"
@@ -29,7 +29,7 @@ Often said of something irreversible and/or performed without going through stan
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   8 |   261.30 | 2024-04-21T22:31:56Z |
-| back     | 1.30 |   3 |     6.00 | 2023-12-21T15:50:54Z |
+| back     | 1.30 |   4 |     7.08 | 2023-12-28T18:13:12Z |
 :END:
 
 Term referring to something irreversible and/or performed without going through standard procedure; completed before those affected by it are in a position to query or reverse it.

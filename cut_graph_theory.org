@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d10d6ecb-87e1-446a-81a0-6afe74eddb78
 :ROAM_REFS: [cite:@CutGraphTheory2022]
-:LAST_MODIFIED: [2023-12-01 Fri 08:43]
+:LAST_MODIFIED: [2023-12-21 Thu 08:23]
 :END:
 #+title: Cut (Graph theory)
 #+hugo_custom_front_matter: :slug "d10d6ecb-87e1-446a-81a0-6afe74eddb78"
@@ -45,12 +45,13 @@ A partition of vertices in a graph into two disjoint sets.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |   8 |    82.24 | 2024-02-21T22:35:35Z |
-| back     | 2.50 |   7 |   156.86 | 2023-12-21T10:39:55Z |
+| back     | 2.50 |   8 |   365.09 | 2024-12-20T18:28:45Z |
 :END:
 
 Cut-set
 
 *** Back
+
 The set of edges which have one endpoint in each subset of a [[id:d10d6ecb-87e1-446a-81a0-6afe74eddb78][Cut (Graph theory)]].
 *** Source
 [cite:@CutGraphTheory2022]

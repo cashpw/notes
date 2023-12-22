@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-20 Wed 20:27]
+:LAST_MODIFIED: [2023-12-21 Thu 08:19]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -735,13 +735,14 @@ Eg: $f: \mathbb{R}^2 \to \mathbb{R}^2$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   313.56 | 2023-11-17T04:46:32Z |
+| back     | 2.80 |   9 |   858.46 | 2026-04-28T03:19:50Z |
 | front    | 2.65 |  10 |   558.37 | 2024-12-29T05:09:00Z |
 :END:
 
 Bijective function
 
 *** Back
+
 An injective (one-to-one) and surjective (onto) mapping between two sets.
 
 *** Extra

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2023-12-20 Wed 07:34]
+:LAST_MODIFIED: [2023-12-21 Thu 08:22]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -315,7 +315,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   1 |     1.00 | 2023-12-21T15:34:24Z |
+|        0 | 2.80 |   2 |     2.00 | 2023-12-23T16:22:35Z |
 :END:
 
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{[[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable]]}{stability}@0}

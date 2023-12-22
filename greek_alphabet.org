@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2023-12-20 Wed 07:34]
+:LAST_MODIFIED: [2023-12-21 Thu 08:22]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -206,7 +206,7 @@ Pronounced: /del-tah/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        1 | 2.50 |   8 |   299.06 | 2023-12-21T05:39:10Z |
+|        1 | 2.50 |   9 |   809.73 | 2026-03-10T10:00:42Z |
 |        0 | 2.35 |   9 |   586.72 | 2025-06-28T07:53:28Z |
 :END:
 

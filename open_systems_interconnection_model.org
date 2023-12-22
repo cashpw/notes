@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-12-19 Tue 14:54]
+:LAST_MODIFIED: [2023-12-21 Thu 08:23]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -288,12 +288,13 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   7 |   127.77 | 2024-01-06T12:59:55Z |
-| back     | 2.35 |   5 |    33.34 | 2023-11-14T05:26:17Z |
+| back     | 2.35 |   6 |    78.26 | 2024-03-08T22:43:35Z |
 :END:
 
 [[id:68b61c7b-c05c-4aee-8f9a-1e1a4612dac7][Session layer (OSI model)]]
 
 *** Back
+
 This layer handles setup, teardown, and controls the connections between two or more computers.
 
 *** Source

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-19 Tue 14:53]
+:LAST_MODIFIED: [2023-12-21 Thu 08:20]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1241,7 +1241,7 @@ How to find the inverse of a matrix, $M_{n \times n}$, using Gauss-Jordan elimin
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   416.23 | 2024-05-01T05:57:21Z |
-| back     | 2.80 |   8 |   309.45 | 2023-12-09T02:38:36Z |
+| back     | 2.80 |   9 |   905.96 | 2026-06-14T15:18:39Z |
 :END:
 
 How to find the row space of a matrix

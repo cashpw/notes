@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-12-20 Wed 07:32]
+:LAST_MODIFIED: [2023-12-21 Thu 08:20]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -469,12 +469,13 @@ Cells containing the starting and target vertices
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   7 |    86.57 | 2024-03-15T12:21:54Z |
-| back     | 2.50 |   3 |     6.00 | 2023-12-13T14:34:16Z |
+| back     | 2.50 |   4 |    14.33 | 2024-01-05T00:13:31Z |
 :END:
 
 $H$
 
 *** Back
+
 An "overlay" graph which contains
 
 1. all boundary vertices

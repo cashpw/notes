@@ -2,7 +2,7 @@
 :ID:       47022708-7415-46b0-8d1b-bcfb05603e72
 :ROAM_ALIASES: ASLU
 :ROAM_REFS: [cite:@asluniversityASLAmericanSignLanguage]
-:LAST_MODIFIED: [2023-12-20 Wed 19:41]
+:LAST_MODIFIED: [2023-12-21 Thu 16:16]
 :END:
 #+title: ASL University
 #+hugo_custom_front_matter: :slug "47022708-7415-46b0-8d1b-bcfb05603e72"
@@ -15,6 +15,8 @@ ASLU is an online American Sign Language curriculum resource center.  ASLU provi
 
 [cite:@asluniversityAmericanSignLanguageASLUniversity]
 #+end_quote
+
+Free, online, resources for learning [[id:1056a7fd-6e6c-4c83-9910-a3528277ab0b][American sign language]].
 
 * Bibliography
 #+print_bibliography:
