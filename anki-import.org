@@ -1,8 +1,10 @@
 :PROPERTIES:
-:LAST_MODIFIED: [2023-12-21 Thu 16:05]
+:LAST_MODIFIED: [2023-12-22 Fri 06:18]
+:ID:       482a1d27-d3a8-40eb-b171-e9938c57985c
 :END:
 #+title: Anki Import
-#+hugo_custom_front_matter:
+#+hugo_custom_front_matter: :slug "482a1d27-d3a8-40eb-b171-e9938c57985c"
+#+hugo_draft: t
 #+filetags: :hastodo:
 
 #+begin_src emacs-lisp
