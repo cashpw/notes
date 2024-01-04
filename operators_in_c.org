@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-12-21 Thu 08:19]
+:LAST_MODIFIED: [2023-12-31 Sun 10:33]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -106,7 +106,7 @@ auto [weight, age] = Foo();
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   6 |    53.06 | 2024-01-23T18:11:54Z |
-| back     | 2.50 |   1 |     1.00 | 2023-09-02T14:21:57Z |
+| back     | 2.50 |   2 |     2.00 | 2023-12-30T14:20:54Z |
 :END:
 
 Bitwise left shift operator (C++)
@@ -210,7 +210,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   7 |   189.29 | 2024-06-15T00:37:36Z |
-|        1 | 2.50 |   1 |     1.00 | 2023-10-14T06:58:59Z |
+|        1 | 2.50 |   2 |     2.00 | 2024-01-02T18:33:18Z |
 :END:
 
 - {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Put-to operator]]}@0}
@@ -228,7 +228,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   7 |   111.98 | 2024-02-29T15:48:36Z |
-| back     | 2.50 |   1 |     1.00 | 2023-12-19T14:08:12Z |
+| back     | 2.50 |   2 |     2.00 | 2023-12-31T21:52:42Z |
 :END:
 
 [[id:f9237075-e0c0-4edc-88ca-efcd846e6f5f][Indirection operator]] (C++)
@@ -263,7 +263,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 1.60 |   6 |    26.26 | 2024-01-04T23:06:17Z |
-|        1 |  2.5 |  -1 |        0 | 2023-05-05T15:14:31Z |
+|        1 | 2.50 |   2 |     2.00 | 2024-01-02T18:25:34Z |
 :END:
 
 - {{[[id:f9237075-e0c0-4edc-88ca-efcd846e6f5f][Indirection operator]]}@0}
@@ -327,8 +327,8 @@ char v[6];
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    87.23 | 2023-12-25T09:53:13Z |
-| back     | 2.50 |   2 |     2.00 | 2023-12-21T22:53:52Z |
+| front    | 2.35 |   7 |   208.07 | 2024-07-21T19:04:20Z |
+| back     | 2.50 |   3 |     6.00 | 2024-01-03T05:44:40Z |
 :END:
 
 =*= in:
@@ -353,7 +353,7 @@ auto* p;
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   6 |    63.41 | 2024-02-06T00:37:39Z |
-| back     | 2.50 |   1 |     1.00 | 2023-11-16T15:14:36Z |
+| back     | 2.50 |   2 |     2.00 | 2023-12-26T17:32:09Z |
 :END:
 
 =*= in:
@@ -363,6 +363,7 @@ auto x = *p;
 #+end_src
 
 *** Back
+
 (C++) contents of
 *** Source
 [cite:@stroustrupTour2022]
@@ -425,12 +426,13 @@ auto& p = v[5];
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   154.82 | 2024-05-22T18:38:20Z |
-| back     | 2.50 |   1 |     1.00 | 2023-07-21T15:17:24Z |
+| back     | 2.50 |   2 |     2.00 | 2023-12-30T05:46:43Z |
 :END:
 
 Function definition with an argument which isn't copied, but also isn't modified.
 
 *** Back
+
 #+begin_src C++
 void sort(const std::vector<double>& numbers);
 #+end_src
@@ -466,13 +468,14 @@ void sort(const std::vector<double>& numbers);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   105.64 | 2023-12-22T05:38:16Z |
-| back     | 2.50 |   2 |     2.00 | 2023-11-21T14:26:16Z |
+| front    | 2.50 |   7 |   273.40 | 2024-09-22T02:15:58Z |
+| back     | 2.50 |   3 |     6.00 | 2024-01-06T18:31:41Z |
 :END:
 
 [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]]
 
 *** Back
+
 =auto [var1, var2, ...]=
 *** Source
 [cite:@StructuredBindingDeclaration17]

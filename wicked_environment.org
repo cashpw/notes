@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27c588de-fa05-48cc-99c3-17c4e7689aad
-:LAST_MODIFIED: [2023-11-28 Tue 07:11]
+:LAST_MODIFIED: [2023-12-31 Sun 10:33]
 :END:
 #+title: Wicked environment
 #+hugo_custom_front_matter: :slug "27c588de-fa05-48cc-99c3-17c4e7689aad"
@@ -28,12 +28,13 @@ Inference involves two settings: In the first, information is acquired (learning
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    94.63 | 2024-03-02T06:15:11Z |
-| back     | 2.65 |   5 |    45.27 | 2023-12-30T22:01:09Z |
+| back     | 2.65 |   6 |   118.22 | 2024-04-27T23:56:16Z |
 :END:
 
 [[id:27c588de-fa05-48cc-99c3-17c4e7689aad][Wicked environment]]
 
 *** Back
+
 A learning environment in which lessons *don't* help in future applications.
 *** Source
 [cite:@hogarthTwoSettingsKindWickedLearningEnvironments2015]

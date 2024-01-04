@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c3e94338-47df-4fa4-9e2b-1bdd7069f032
 :ROAM_REFS: [cite:@AlphaFinance2022]
-:LAST_MODIFIED: [2023-11-03 Fri 07:42]
+:LAST_MODIFIED: [2023-12-23 Sat 08:42]
 :END:
 #+title: Alpha (finance)
 #+hugo_custom_front_matter: :slug "c3e94338-47df-4fa4-9e2b-1bdd7069f032"
@@ -24,12 +24,13 @@ Alpha is a measure of the active return on an investment, the performance of tha
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   313.50 | 2024-04-13T11:56:34Z |
-| back     | 2.50 |   7 |   216.98 | 2023-12-22T16:05:54Z |
+| back     | 2.35 |   8 |   490.07 | 2025-04-26T18:23:59Z |
 :END:
 
 [[id:c3e94338-47df-4fa4-9e2b-1bdd7069f032][Alpha (finance)]]
 
 *** Back
+
 A measure of the performance of an investment compared against a suitable market index.
 *** Source
 [cite:@AlphaFinance2022]

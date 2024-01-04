@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       78f46d61-571d-4e3f-912b-177c3fc9b205
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-12-23 Sat 08:33]
 :END:
 #+title: The purpose of a system is what it does
 #+hugo_custom_front_matter: :slug "78f46d61-571d-4e3f-912b-177c3fc9b205"
@@ -27,7 +27,7 @@ Related: [[id:9aade3e8-6ddb-475d-b31f-6e5dccee15a3][Duck test]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   221.65 | 2023-12-22T06:24:59Z |
+| front    | 2.50 |   8 |   564.00 | 2025-07-09T16:32:02Z |
 | back     | 2.65 |   7 |   289.42 | 2024-04-06T01:50:53Z |
 :END:
 

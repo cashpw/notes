@@ -1,10 +1,270 @@
 :PROPERTIES:
 :ID:       272be2b9-20b1-4fb2-8933-33a8052f001e
-:LAST_MODIFIED: [2023-12-21 Thu 17:10]
+:LAST_MODIFIED: [2023-12-31 Sun 10:32]
+:ROAM_REFS: [cite:@asluniversityNumbersASLAmericanSignLanguage]
 :END:
 #+title: American sign language: Numbers
 #+hugo_custom_front_matter: :slug "272be2b9-20b1-4fb2-8933-33a8052f001e"
 #+author: Cash Prokop-Weaver
 #+date: [2023-12-21 Thu 16:52]
-#+filetags: :hastodo:concept:
-* TODO [#0] Flashcards :noexport:
+#+filetags: :concept:
+
+* Flashcards :noexport:
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       b1783bec-a34d-4494-b33d-74ac8b53950e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-12-27T17:23:36Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-50-04_number01.jpg]]
+
+*** Back
+
+1
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       89a650ed-002e-43b9-9fef-65ddf56ad16d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-12-28T17:26:34Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-50-19_number02.jpg]]
+
+*** Back
+
+2
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       2d0b4619-ccdc-4e8b-80cf-fc158eace5cf
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2024-01-02T18:30:35Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+
+[[file:2023-12-24_10-44-11_number03.jpg]]
+
+*** Back
+
+3
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       f60fb05f-819f-4e18-bde7-912cf0e4d1f2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-24T18:43:24Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-44-31_number04.jpg]]
+
+*** Back
+
+4
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       812ad86b-1473-4ebd-9b05-5576ea643d7d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2024-01-01T18:32:01Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-44-44_number05.jpg]]
+
+*** Back
+
+5
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       6c945170-e92d-48d8-81c2-169e2aebd78d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-12-29T14:20:00Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+
+[[file:2023-12-24_10-45-08_number06.jpg]]
+
+*** Back
+
+6
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       e36d1069-45e2-4761-bd58-9b050672f5e6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.35 |   3 |     6.00 | 2024-01-06T18:18:41Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-45-25_number07.jpg]]
+
+*** Back
+
+7
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       27ff3564-226a-4d4b-9e9d-420c4d513ebe
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-12-30T05:36:56Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-45-38_number08.jpg]]
+
+*** Back
+
+8
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       ec6e3f2c-39c3-445a-9ce0-aebb1663b5e9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     1.00 | 2023-12-29T05:46:17Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-46-04_number09.jpg]]
+
+*** Back
+
+9
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       b9c212d5-1f6e-4133-956d-cc7c170ccbc2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2024-01-02T18:21:09Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-46-20_10.gif]]
+
+*** Back
+
+10
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+** ASL :fc:
+:PROPERTIES:
+:CREATED: [2023-12-24 Sun 10:42]
+:FC_CREATED: 2023-12-24T18:43:24Z
+:FC_TYPE:  double
+:ID:       c82852be-bb12-41b8-aee5-05c9a8aff996
+:FC_BLOCKED_BY: b9c212d5-1f6e-4133-956d-cc7c170ccbc2,ec6e3f2c-39c3-445a-9ce0-aebb1663b5e9,27ff3564-226a-4d4b-9e9d-420c4d513ebe,e36d1069-45e2-4761-bd58-9b050672f5e6,6c945170-e92d-48d8-81c2-169e2aebd78d,812ad86b-1473-4ebd-9b05-5576ea643d7d,f60fb05f-819f-4e18-bde7-912cf0e4d1f2,2d0b4619-ccdc-4e8b-80cf-fc158eace5cf,89a650ed-002e-43b9-9fef-65ddf56ad16d,b1783bec-a34d-4494-b33d-74ac8b53950e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2023-12-24T18:43:24Z |
+| back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
+:END:
+
+[[file:2023-12-24_10-50-04_number01.jpg]] [[file:2023-12-24_10-50-19_number02.jpg]] [[file:2023-12-24_10-44-11_number03.jpg]] [[file:2023-12-24_10-44-31_number04.jpg]] [[file:2023-12-24_10-44-44_number05.jpg]] [[file:2023-12-24_10-45-08_number06.jpg]] [[file:2023-12-24_10-45-25_number07.jpg]] [[file:2023-12-24_10-45-38_number08.jpg]] [[file:2023-12-24_10-46-04_number09.jpg]] [[file:2023-12-24_10-46-20_10.gif]]
+
+*** Back
+
+1 through 10
+
+*** Source
+[cite:@asluniversityNumbersASLAmericanSignLanguage]
+
+* Bibliography
+#+print_bibliography:

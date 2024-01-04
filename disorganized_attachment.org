@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       80396b6d-d572-4437-ab2d-698c62a3038b
-:LAST_MODIFIED: [2023-09-25 Mon 06:28]
+:LAST_MODIFIED: [2023-12-27 Wed 21:39]
 :END:
 #+title: Disorganized attachment
 #+hugo_custom_front_matter: :slug "80396b6d-d572-4437-ab2d-698c62a3038b"
@@ -19,9 +19,6 @@ This creates a kind of emotional chaos, where you can't predict when you will be
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :ID:       f579214b-6177-4f5f-8c48-7ecb311967dd
@@ -33,10 +30,13 @@ This creates a kind of emotional chaos, where you can't predict when you will be
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   9 |   659.31 | 2025-07-15T20:51:40Z |
-| back     | 2.35 |   7 |   223.08 | 2023-12-21T18:05:52Z |
+| back     | 1.90 |   3 |     6.00 | 2024-01-03T05:39:44Z |
 :END:
+
 [[id:80396b6d-d572-4437-ab2d-698c62a3038b][Disorganized attachment]]
+
 *** Back
+
 - An unhealthy attachment pattern in which the individual cannot predict when or where comfort and discomfort will come from.
 - They often adapt a malleable worldview which attempts to justify or retroactively explain the comfort and discomfort when it arrives.
 *** Source

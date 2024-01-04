@@ -1,22 +1,25 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kleinDataframeTheorySensemaking]
 :ID:       91231c59-e232-4c0a-8eeb-b3d681c88825
-:LAST_MODIFIED: [2023-12-18 Mon 06:09]
+:LAST_MODIFIED: [2023-12-26 Tue 11:58]
 :END:
 #+title: Gary Klein and Jennifer Phillips and Erica Rall and Deborah Peluso | A Data-Frame Theory of Sensemaking
 #+hugo_custom_front_matter: :slug "91231c59-e232-4c0a-8eeb-b3d681c88825"
 #+author: Cash Weaver
 #+date: [2023-09-11 Mon 08:05]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:9319614c-f7cb-4ee9-af12-af474563c654][Gary Klein]], et al, [cite:@kleinDataframeTheorySensemaking]
 
-* INPROGRESS [#0] Summary
+* Summary
 
 - [[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]
 - [[id:10a23a67-c60d-4591-8bb2-e87ca50b0e94][Sensemaking]]
 
-* TODO [#0] Thoughts
+* Thoughts
+
+The theory and concepts of data and frames make intuitive sense to me. Maybe I've heard about this theory already by other names? It's nice to have a framework and terms to go with these concepts as well as a way of understanding differences between novices and experts.
+
 * Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/91/231c59-e232-4c0a-8eeb-b3d681c88825/2007ADataFrameTheoryofSensemaking.pdf
@@ -219,6 +222,7 @@ Also see Example 6.
 :PROPERTIES:
 :NOTER_PAGE: 22
 :END:
+
 #+begin_quote
 The specific frame a person uses depends on the data or information that are available and also on the person's goals, the repertoire of the person's frames, and the person's stance (e.g., current workload, fatigue level, and commitment to an activity).
 
@@ -519,7 +523,7 @@ In this example, we see several of the sensemaking activities. The pilot started
 Example 6 illustrates most of the sensemaking types shown in Figure 6.1. The example shows the initial data–frame match: The pilot started off with a firm belief that he knew where he was. As he proceeded, he elaborated on his frame by incorporating various landmarks. His elaboration also helped him preserve his frame, as he explained away some potential discrepancies. Eventually, he did question his understanding. He did realize that he was lost. He had no alternate frame ready as a replacement, and no easy way to construct a new frame. But he was able to devise a strategy that would let him use a few anchors (the Ohio River and the configuration of factories) to find his position on his map. He used this new frame to locate his destination airport.
 #+end_quote
 
-* INPROGRESS [#0] Flashcards :noexport:
+* Flashcards :noexport:
 ** Compare/Contrast ([[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-12-09 Sat 13:59]
@@ -530,7 +534,7 @@ Example 6 illustrates most of the sensemaking types shown in Figure 6.1. The exa
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-12-24T14:09:57Z |
+| front    | 2.50 |   4 |    15.68 | 2024-01-09T09:57:21Z |
 :END:
 
 Novices and experts
@@ -556,9 +560,10 @@ Experts reason the same way as novices; however, experts have a greater repertoi
 
 Just-in-time and comperhensive [[id:787214e0-5941-4c6f-9a61-e79b9b40baea][Mental models]]
 
-*** TODO [#0] Back
+*** Back
 - Comprehensive mental models captures essential relationships in a system (e.g. an automobile mechanic's understanding of engines)
-- Just-in-time mental models are constructed
-*** TODO [#0] Source
+- Just-in-time mental models are constructed as necessary based on assumptions and related knowledge rather than a deep and specific understanding
+*** Source
+[cite:@kleinDataframeTheorySensemaking]
 * Bibliography
 #+print_bibliography:

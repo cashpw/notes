@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@stroustrupTour2022]
 :ID:       29c58f6a-4c43-45f2-8cf3-86a53cb36978
-:LAST_MODIFIED: [2023-12-19 Tue 14:44]
+:LAST_MODIFIED: [2023-12-29 Fri 13:48]
 :END:
 #+title: Bjarne Stroustrup | A Tour of C++
 #+hugo_custom_front_matter: :slug "29c58f6a-4c43-45f2-8cf3-86a53cb36978"
@@ -853,7 +853,7 @@ Roughly, "To be evaluated at compile time"
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   4 |    12.68 | 2023-12-28T07:55:00Z |
+| front    | 2.05 |   5 |    27.97 | 2024-01-26T20:58:38Z |
 :END:
 
 =constexpr= and =consteval= (C++ functions)
@@ -1029,12 +1029,13 @@ C++'s built-in types reflect {{the capabilities of conventional computer hardwar
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   247.20 | 2024-07-13T21:09:31Z |
-| back     | 1.90 |   6 |    42.63 | 2023-12-27T06:40:26Z |
+| back     | 1.90 |   7 |    86.90 | 2024-03-24T03:17:55Z |
 :END:
 
 User-defined types
 
 *** Back
+
 Types built from built-in types and other [...].
 *** Source
 [cite:@stroustrupTour2022]

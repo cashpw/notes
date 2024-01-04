@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e3806f4b-94b7-443e-8e7e-278fe8a2781c
-:LAST_MODIFIED: [2023-12-19 Tue 14:43]
+:LAST_MODIFIED: [2023-12-26 Tue 09:32]
 :END:
 #+title: Binomial theorem
 #+hugo_custom_front_matter: :slug "e3806f4b-94b7-443e-8e7e-278fe8a2781c"
@@ -60,7 +60,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   3 |     6.00 | 2023-12-25T22:43:01Z |
+| front    | 1.45 |   4 |     8.52 | 2024-01-04T05:56:33Z |
 | back     | 2.20 |   7 |   207.64 | 2024-02-23T15:21:23Z |
 :END:
 

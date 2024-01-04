@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cb4d578c-d0d4-4056-aad1-c6ee153eb42f
 :DIR:      /home/cashweaver/proj/roam/attachments/cb4d578c-d0d4-4056-aad1-c6ee153eb42f
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-12-29 Fri 13:50]
 :END:
 #+title: Theory of change
 #+hugo_custom_front_matter: :slug "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
@@ -82,12 +82,13 @@ Based on [cite:@tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatter2019]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   304.35 | 2024-04-11T01:39:40Z |
-| back     | 2.50 |   7 |   218.53 | 2023-12-27T02:38:12Z |
+| back     | 2.20 |   2 |     2.00 | 2023-12-31T21:50:31Z |
 :END:
 
 Steps to create a [[id:cb4d578c-d0d4-4056-aad1-c6ee153eb42f][Theory of change]]
 
 *** Back
+
 1. Goals
 
    Identify and agree upon long term goal(s)

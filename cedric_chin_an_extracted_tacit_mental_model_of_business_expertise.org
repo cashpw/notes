@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinExtractedTacitMentalModelBusinessExpertise2021]
 :ID:       731b4023-79ea-4671-9de9-2079008f14df
-:LAST_MODIFIED: [2023-09-11 Mon 16:52]
+:LAST_MODIFIED: [2023-12-29 Fri 17:43]
 :END:
 #+title: Cedric Chin | An Extracted Tacit Mental Model of Business Expertise
 #+hugo_custom_front_matter: :slug "731b4023-79ea-4671-9de9-2079008f14df"
@@ -14,6 +14,7 @@
 * TODO [#1] Summary
 * TODO [#1] Thoughts
 * Notes
+
 #+begin_quote
 it's nearly always more fruitful to mine the literature for /already/-extracted mental models of expertise. A few weeks ago, I learnt of Lia DiBello, an NDM researcher who specialises in the extraction of /tacit mental models of business expertise./
 
@@ -27,6 +28,7 @@ After several years using different methods, we noticed that highly talented bus
 
 I dove into DiBello's publication history [[[id:165037bc-129d-4cab-97ab-c257733539af][Deep-dive reading]]]. This turned out to be relatively easy --- I quickly learnt that DiBello has published a relatively small number of papers, especially when compared against the research output of some expertise researchers. Initially, I found this frustrating, but then I realised that she has spent the bulk of the past 20 years consulting for big companies, /applying her research to the real world/. (During her [[https://www.listennotes.com/podcasts/naturalistic/episode-28-interview-with-ydLRG3pAaB0/][interview on the NDM podcast]], she says (54:04) somewhat ruefully, "Because of how I wanted to get a lot of data, I ended up selling my soul to big business, and I made a lot of rich people richer. But it was how I got to prove that what we do works."). She spends more time today attempting to adapt her training methods for broader uses, to make them available to businesspeople who might not be able to afford a full consultation. To my mind, this makes her more, not less, [[https://commoncog.com/believability/][believable]].
 #+end_quote
+
 ** DiBello's main ideas
 
 #+begin_quote
@@ -42,6 +44,7 @@ I've highlighted the most immediately useful elements of her work above, but I w
 2. Her company, Workplace Technology Research Inc (WTRI), has spent years implementing company training simulations in virtual worlds. Apart from the obvious technical effort (she explains [3] that they decided to code a full world of their own, on a game engine of their choice, mostly because existing companies they collaborated with kept getting acquired or shut down) --- she has novel insights on the pedagogical effectiveness of using virtual game worlds to teach business simulations.
 3. Last, but perhaps most importantly, DiBello argues that business expertise is primarily a matter of /organisation/. She writes, in the /Oxford Handbook/: "Like experts in other domains, business experts rely not on greater analysis or greater information, but /better ways of structuring or organising their knowledge/. Further, a business expert differs in the /manner in which he or she looks at the business landscape, particularly with regard to what is linked with what and what is important to manipulate/." As a result, the bulk of DiBello's training methods aim to do what is called 'cognitive reorganisation' --- that is, WTRI does not seek to teach business people new concepts about their domain per se, but to instead reorganise existing domain-specific mental models in their heads.
 #+end_quote
+
 ** The mental model of business
 
 #+begin_quote
@@ -119,6 +122,7 @@ But it turns out that /DiBello had thought of this, and more, a full decade befo
   The CEO of the company was aware that *there is a qualitative difference between competent managers, who do very well in interviews or on personality tests, and experts, who can perform under challenging conditions*. He wanted to protect himself from (mere) competence at a time when his industry was in a high growth phase. *He was afraid that a favourable market might be masking a lack of skill---and cognitive agility in particular---among his senior staff.* /(emphasis added)./
 #+end_quote2
 #+end_quote
+
 ** The FutureView Profiler
 
 #+begin_quote

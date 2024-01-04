@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a6d989de-a309-479e-91ab-9327b8fdf874
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-12-23 Sat 08:35]
 :END:
 #+title: Don't feed the trolls
 #+hugo_custom_front_matter: :slug "a6d989de-a309-479e-91ab-9327b8fdf874"
@@ -11,9 +11,6 @@
 Trolls seek to derail conversations, inject negativity, and generally be a nuisance [[id:54072a82-9f61-443d-b51e-af74fc18e895][for the lulz]]. How do you deal with them? How do you refute their bullshit or drive them out of your communities? Ignore them. Their goal is attention -- don't give it to them. This isn't a foolproof plan. It'll reduce the number of trolls but not all the way to zero.
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 15:20]
@@ -24,14 +21,16 @@ Trolls seek to derail conversations, inject negativity, and generally be a nuisa
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   220.46 | 2023-12-22T04:27:25Z |
+| front    | 2.50 |   8 |   513.65 | 2025-05-20T08:11:29Z |
 | back     | 2.95 |   7 |   419.93 | 2024-09-27T13:44:26Z |
 :END:
 
 [[id:a6d989de-a309-479e-91ab-9327b8fdf874][Don't feed the trolls]]
 
 *** Back
+
 Trolls seek attention -- don't give it to them. It's not a foolproof plan for dealing with them but it's a necessary component.
+
 *** Source
 * Bibliography
 #+print_bibliography:

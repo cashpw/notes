@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2023-12-21 Thu 08:19]
+:LAST_MODIFIED: [2023-12-31 Sun 10:34]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -62,7 +62,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   0 |     0.00 | 2023-11-17T15:44:01Z |
+|        0 | 2.50 |   2 |     2.00 | 2024-01-02T18:34:37Z |
 |        1 | 2.15 |   7 |   156.36 | 2024-02-01T23:35:13Z |
 :END:
 
@@ -171,7 +171,7 @@ eg: $3$ and $2$ in $3+2$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   7 |   162.96 | 2023-10-26T13:42:24Z |
+| back     | 2.50 |   8 |   444.12 | 2025-03-19T21:21:33Z |
 | front    | 2.30 |  11 |   266.35 | 2023-12-16T01:26:41Z |
 :END:
 
@@ -711,7 +711,7 @@ A line such that the distance between a curve and the line approaches zero as th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   276.06 | 2023-10-13T17:12:30Z |
+| back     | 2.50 |   9 |   675.12 | 2025-11-02T17:16:57Z |
 | front    | 2.80 |   9 |   328.99 | 2024-01-10T15:39:58Z |
 :END:
 
@@ -831,13 +831,14 @@ A mathematical expression expressed using a finite number of standard operations
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   7 |   225.30 | 2023-12-10T05:46:24Z |
+| back     | 2.35 |   1 |     1.00 | 2023-12-29T05:46:13Z |
 | front    | 2.65 |   8 |   309.92 | 2024-02-14T13:10:35Z |
 :END:
 
 Closure
 
 *** Back
+
 A property of a set under an operation for which performing the operation on members of the set always produces an element of that set.
 
 *** Source
@@ -878,13 +879,14 @@ $f((1-t)x_1 + tx_2) \geq (1-t)f(x_1) + tf(x_2) \;|\; \forall \; x_1, x_2 \in X,\
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   8 |   288.61 | 2023-12-14T05:32:37Z |
+| back     | 2.35 |   9 |   715.08 | 2025-12-09T18:49:43Z |
 | front    | 2.80 |   8 |   311.46 | 2023-11-18T02:57:47Z |
 :END:
 
 Conditional probability
 
 *** Back
+
 A measure of the probability of an event occurring, given that another event has already occurred.
 
 *** Extra
@@ -1020,7 +1022,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   1 |     1.00 | 2023-11-17T16:03:07Z |
+|        0 | 2.20 |   2 |     2.00 | 2023-12-27T16:49:10Z |
 |        1 | 2.80 |   8 |   412.38 | 2024-04-24T03:08:14Z |
 :END:
 
@@ -1194,8 +1196,8 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |  10 |   303.54 | 2023-11-15T05:25:38Z |
-|        1 | 1.90 |   1 |     1.00 | 2023-07-28T14:18:24Z |
+|        0 | 2.80 |  11 |   853.72 | 2026-04-26T10:45:33Z |
+|        1 | 1.90 |   2 |     2.00 | 2023-12-28T17:26:40Z |
 |        2 | 2.35 |   8 |   284.60 | 2023-12-21T14:44:33Z |
 :END:
 
@@ -1282,7 +1284,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   0 |     0.00 | 2023-12-19T22:36:31Z |
+|        0 | 2.05 |   2 |     2.00 | 2023-12-31T21:48:14Z |
 |        1 | 2.50 |  11 |   219.89 | 2023-07-23T18:04:28Z |
 :END:
 
@@ -1306,7 +1308,7 @@ $A \subset B$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   252.39 | 2023-12-09T00:57:08Z |
+|        0 | 2.50 |   8 |   612.51 | 2025-09-04T06:52:46Z |
 |        1 | 2.80 |   1 |     1.00 | 2023-08-11T00:49:32Z |
 :END:
 
@@ -1394,13 +1396,14 @@ $\operatorname{f}(x) = \begin{cases} 0 & \text{if}\; x < 0 \\ \text{various} & \
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    59.99 | 2023-12-10T20:47:35Z |
+| back     | 2.05 |   7 |   117.74 | 2024-04-22T11:12:58Z |
 | front    | 2.50 |   8 |   282.96 | 2023-11-16T22:45:49Z |
 :END:
 
 Homomorphism
 
 *** Back
+
 A structure-preserving map between two algebraic structures of the same type.
 
 *** Extra
@@ -1736,13 +1739,14 @@ $\mathbb{N}$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |  12 |   296.85 | 2023-12-17T23:58:35Z |
+| back     | 2.20 |  13 |   624.88 | 2025-09-10T13:49:59Z |
 | front    | 2.50 |   3 |     6.00 | 2023-07-10T01:41:28Z |
 :END:
 
 Partition of a set
 
 *** Back
+
 A grouping of the elements of some set, $X$, into non-empty subsets in such a way that every element in $X$ is included in exactly one sub-set.
 
 *** Source
@@ -2394,7 +2398,7 @@ Unit ramp function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   8 |   225.29 | 2023-12-15T04:28:45Z |
+|        0 | 2.05 |   9 |   433.83 | 2025-03-09T14:13:53Z |
 |        1 | 2.20 |   7 |   160.70 | 2023-06-30T09:35:48Z |
 :END:
 
@@ -2565,7 +2569,7 @@ A function that maps from events to real numbers which represent the "cost" asso
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   6 |    57.53 | 2023-09-26T12:33:30Z |
+|        0 | 2.50 |   7 |   136.90 | 2024-05-08T14:14:31Z |
 |        1 |  2.5 |   5 |       23 | 2022-10-02T13:00:00Z |
 :END:
 ** {{$(x-y)^2$}@0} $=$ {{$x^2 - 2xy + y^2$}@1} :fc:
@@ -3360,7 +3364,7 @@ The convolution of the underlying data points with a fixed weighting function; $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   324.41 | 2023-12-28T07:34:17Z |
+|        0 | 2.65 |   9 |   858.93 | 2026-05-08T16:49:23Z |
 |        1 | 2.65 |   7 |   144.36 | 2023-03-31T00:57:54Z |
 :END:
 

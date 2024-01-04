@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SMARTCriteria2022]
 :ID:       68f0244e-a6f4-42d5-ac41-2d2001987ea3
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-29 Fri 17:30]
 :END:
 #+title: SMART criteria
 #+hugo_custom_front_matter: :slug "68f0244e-a6f4-42d5-ac41-2d2001987ea3"
@@ -22,9 +22,6 @@ SMART goals are:
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 12:05]

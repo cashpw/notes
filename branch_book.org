@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       065a0303-c2d3-40a0-a8fb-793f19f02526
-:LAST_MODIFIED: [2023-10-06 Fri 00:38]
+:LAST_MODIFIED: [2023-12-24 Sun 09:31]
 :END:
 #+title: Branch book
 #+hugo_custom_front_matter: :slug "065a0303-c2d3-40a0-a8fb-793f19f02526"
@@ -31,13 +31,14 @@ Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:3784b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   312.00 | 2023-12-24T04:52:26Z |
+| back     | 2.80 |   9 |   927.43 | 2026-07-09T03:54:15Z |
 | front    | 2.35 |   9 |   609.84 | 2025-06-07T03:53:47Z |
 :END:
 
 [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
 
 *** Back
+
 Books which consist of a single idea which is padded out with examples, extrapolations, and implications.
 
 *** Source

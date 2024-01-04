@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bfc5100c-d70d-4829-9798-7a90b5edea9b
 :ROAM_REFS: [cite:@MapTerritoryRelation2022] [cite:@farnumstreetMapNotTerritory2015]
-:LAST_MODIFIED: [2023-12-08 Fri 09:56]
+:LAST_MODIFIED: [2023-12-31 Sun 10:28]
 :END:
 #+title: The map is not the territory
 #+hugo_custom_front_matter: :slug "bfc5100c-d70d-4829-9798-7a90b5edea9b"
@@ -31,9 +31,11 @@ Related: [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]],
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   360.30 | 2024-03-09T22:24:54Z |
-| back     | 1.90 |   5 |    21.26 | 2023-12-30T00:12:42Z |
+| back     | 1.90 |   6 |    37.57 | 2024-02-07T08:12:37Z |
 :END:
+
 [[id:bfc5100c-d70d-4829-9798-7a90b5edea9b][The map is not the territory]]
+
 *** Back
 
 A description of a thing is not the thing itself.

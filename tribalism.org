@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4cb7f185-7fc0-47aa-8a6a-9454de9a999c
 :ROAM_REFS: [cite:@toobyCoalitionalInstincts] [cite:@lesswrongTribalism] [cite:@Tribalism2022]
-:LAST_MODIFIED: [2023-12-20 Wed 07:32]
+:LAST_MODIFIED: [2023-12-23 Sat 08:38]
 :ROAM_ALIASES: "Coalitional instincts"
 :END:
 #+title: Tribalism
@@ -43,12 +43,13 @@ Ancestrally, evolving the neural code to crack these problems supercharged the a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   446.07 | 2025-02-04T17:52:18Z |
-| back     | 2.50 |   7 |   222.74 | 2023-12-22T10:23:54Z |
+| back     | 2.50 |   8 |   512.53 | 2025-05-19T05:27:12Z |
 :END:
 
 [[id:4cb7f185-7fc0-47aa-8a6a-9454de9a999c][Tribalism]]
 
 *** Back
+
 Discriminatory behavior or attitudes towards out-groups based on in-group loyalty
 *** Source
 [cite:@Tribalism2022]

@@ -2,7 +2,7 @@
 :ID:       78cc7b2d-7eb9-4387-aa91-c7fe435b7c35
 :ROAM_ALIASES: Cluster
 :ROAM_REFS: [cite:@ComputerCluster2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-27 Wed 21:48]
 :END:
 #+title: Computer cluster
 #+hugo_custom_front_matter: :slug "78cc7b2d-7eb9-4387-aa91-c7fe435b7c35"
@@ -28,12 +28,13 @@ A computer cluster is a set of computers that work together so that they can be 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   324.07 | 2024-05-04T02:14:55Z |
-| back     | 2.50 |   7 |   223.57 | 2023-12-27T02:04:17Z |
+| back     | 2.50 |   8 |   600.77 | 2025-08-20T00:20:37Z |
 :END:
 
 [[id:78cc7b2d-7eb9-4387-aa91-c7fe435b7c35][Computer cluster]]
 
 *** Back
+
 A set of computers that work together such that one can view them as a single system.
 *** Source
 [cite:@ComputerCluster2022]

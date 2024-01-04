@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2023-12-21 Thu 08:20]
+:LAST_MODIFIED: [2023-12-31 Sun 10:33]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -299,7 +299,7 @@ Stages of [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   7 |    92.84 | 2024-02-17T12:07:41Z |
-| back     | 2.50 |   3 |     6.00 | 2023-12-25T22:43:45Z |
+| back     | 2.50 |   4 |    14.58 | 2024-01-10T07:23:45Z |
 :END:
 
 Metric-independent pre-processing
@@ -320,17 +320,19 @@ Partitions the graph into [[id:d3439626-492b-4165-836e-efd890096225][Connected c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   6 |    37.52 | 2023-12-27T02:45:05Z |
-| back     | 2.50 |   2 |     2.00 | 2023-12-16T15:07:43Z |
+| front    | 1.75 |   7 |    65.20 | 2024-03-02T10:30:14Z |
+| back     | 2.50 |   4 |    13.90 | 2024-01-14T16:06:05Z |
 :END:
 
 Metric customization
 
 *** Back
+
 - Build an "overlay" graph, $H$, containing (1) all boundary vertices and (2) edges between boundary vertices (i.e. shortcuts)
 - Compute length of shortcuts as [[id:477fb65f-3351-4154-a270-08c58cdcaf88][Single-pair shortest path]] between each pair of $(\text{entry}, \text{exit})$ nodes
 *** Source
 [cite:@dellingCustomizableRoutePlanning2011]
+
 ** Describe ([[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-06-27 Tue 15:03]
@@ -342,12 +344,13 @@ Metric customization
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    89.82 | 2024-01-09T16:56:06Z |
-| back     | 2.65 |   4 |    16.45 | 2023-12-22T01:29:58Z |
+| back     | 2.65 |   5 |    43.42 | 2024-02-05T02:37:02Z |
 :END:
 
 Query
 
 *** Back
+
 - Perform a bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] on the union of $H$, $C_s$, and $C_t$.
   - Optionally over the hierarchy of $H$ instances if you're using nested partitions
 *** Source
@@ -430,7 +433,7 @@ A technique for reducing query latency by building a hierarchical view of the gr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   172.82 | 2024-05-22T12:29:03Z |
-|        1 | 2.50 |   2 |     2.00 | 2023-12-18T21:47:26Z |
+|        1 | 2.50 |   3 |     6.00 | 2023-12-30T17:32:15Z |
 :END:
 
 A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}@0} on {{the union of $H$, $C_s$, and $C_t$}@1}.

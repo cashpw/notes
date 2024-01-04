@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cf4068b9-bda6-49c1-812a-0314945c4425
 :ROAM_REFS: [cite:@Permutation2022]
-:LAST_MODIFIED: [2023-11-06 Mon 07:19]
+:LAST_MODIFIED: [2023-12-29 Fri 13:51]
 :END:
 #+title: Permutation
 #+hugo_custom_front_matter: :slug "cf4068b9-bda6-49c1-812a-0314945c4425"
@@ -34,7 +34,7 @@ Also see: [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   163.24 | 2023-12-28T19:36:02Z |
+| front    | 2.20 |   8 |   335.74 | 2024-11-29T15:43:17Z |
 :END:
 
 [[id:39eb3ed8-8d95-4f99-9595-de8683301288][Combination]] and [[id:cf4068b9-bda6-49c1-812a-0314945c4425][Permutation]]

@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       4c407900-03c1-40f0-85c6-9852da004f16
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2023-12-26 Tue 12:03]
+:ROAM_ALIASES: "How to learn math"
 :END:
 #+title: Learn math
 #+hugo_custom_front_matter: :slug "4c407900-03c1-40f0-85c6-9852da004f16"
@@ -9,6 +10,7 @@
 #+filetags: :hastodo:concept:
 
 * TODO [#4] Expand
+
 List math learning resources. Perhaps generalize this into a series of "How to learn X" notes which can track what I've used to learn subjects, or at least the primary resources which would then link off to the rest of it.
 
 [cite:@MathAcademy]

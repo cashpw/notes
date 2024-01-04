@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d98f1ce2-f350-4be7-a8b1-a5741f908cdd
-:LAST_MODIFIED: [2023-12-21 Thu 08:21]
+:LAST_MODIFIED: [2023-12-23 Sat 08:41]
 :ROAM_REFS: [cite:@NormMathematics2022]
 :END:
 #+title: Norm
@@ -43,7 +43,7 @@ Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.15 |  14 |   476.64 | 2025-03-10T06:00:10Z |
-|        1 | 1.30 |   4 |     7.32 | 2023-12-21T22:59:17Z |
+|        1 | 1.30 |   5 |     9.70 | 2024-01-02T09:27:59Z |
 :END:
 
 ** {{$\|\vec{x}\|_{\infty}$}{norm}@0} \(=\) {{$\underset{i}{\text{max}} \; \vec{x}_i$}@1} :fc:

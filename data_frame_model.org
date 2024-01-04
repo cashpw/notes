@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2023-12-21 Thu 08:21]
+:LAST_MODIFIED: [2023-12-31 Sun 10:31]
 :ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
@@ -58,8 +58,8 @@ We use the term frame to denote an explanatory structure that defines entities b
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-12-27T16:21:30Z |
-| back     | 2.50 |   1 |     1.00 | 2023-12-20T22:53:49Z |
+| front    | 2.50 |   4 |    14.94 | 2024-01-12T12:52:09Z |
+| back     | 2.50 |   2 |     2.00 | 2024-01-02T18:31:59Z |
 :END:
 
 Data
@@ -80,8 +80,8 @@ Interpreted, imperfect, signals of events
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2023-12-20T22:45:04Z |
-| back     |  2.5 |  -1 |        0 | 2023-12-16T21:56:57Z |
+| front    | 2.50 |   3 |     6.00 | 2024-01-03T05:41:01Z |
+| back     | 2.50 |   3 |     6.00 | 2024-01-06T18:25:56Z |
 :END:
 
 Frame(s)
@@ -102,7 +102,7 @@ Explanatory structures that define entities by describing their relationships to
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-12-22T15:17:45Z |
+| front    | 2.50 |   4 |    14.69 | 2024-01-13T14:28:55Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-16T21:58:37Z |
 :END:
 

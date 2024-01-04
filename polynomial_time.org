@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       9abc3978-c42a-42ad-a309-9f50c3698c0f
 :ROAM_ALIASES: "P (Complexity)" P
-:LAST_MODIFIED: [2023-11-13 Mon 08:38]
+:LAST_MODIFIED: [2023-12-29 Fri 13:53]
 :ROAM_REFS: [cite:@Complexity2022]
 :END:
 #+title: Polynomial time
@@ -49,14 +49,16 @@ Cobham's thesis holds that P is the class of computational problems that are "ef
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   184.28 | 2023-12-28T22:03:28Z |
+| front    | 2.35 |   8 |   427.08 | 2025-02-28T23:50:12Z |
 | back     | 2.50 |   7 |   284.38 | 2024-08-24T01:43:16Z |
 :END:
 
 [[id:9abc3978-c42a-42ad-a309-9f50c3698c0f][Polynomial time]]
 
 *** Back
+
 A fundamental complexity class for problems which can be solved in $\bigo{n^{\bigo{1}}}$ time.
+
 *** Source
 [cite:@Complexity2022]
 * Bibliography

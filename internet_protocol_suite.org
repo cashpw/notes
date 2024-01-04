@@ -1,37 +1,42 @@
 :PROPERTIES:
 :ID:       b691f9f9-f9ac-4c1c-95ef-7d04a3b777af
 :ROAM_ALIASES: TCP/IP
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2023-12-31 Sun 10:30]
 :ROAM_REFS: [cite:@InternetProtocolSuite2023]
 :END:
 #+title: Internet protocol suite
 #+hugo_custom_front_matter: :slug "b691f9f9-f9ac-4c1c-95ef-7d04a3b777af"
 #+author: Cash Prokop-Weaver
 #+date: [2023-03-17 Fri 08:23]
-#+filetags: :hastodo:concept:
+#+filetags: :concept:
+
 #+begin_quote
 The Internet protocol suite, commonly known as TCP/IP, is a framework for organizing the set of communication protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the Transmission Control Protocol (TCP), the User Datagram Protocol (UDP), and the Internet Protocol (IP).
 
 [cite:@InternetProtocolSuite2023]
 #+end_quote
 
-* Layers
+* Flashcards :noexport:
+** AKA :fc:
+:PROPERTIES:
+:CREATED: [2023-12-29 Fri 17:25]
+:FC_CREATED: 2023-12-30T01:25:26Z
+:FC_TYPE:  cloze
+:ID:       786a2a82-e928-4e16-9327-76ee6a4429af
+:FC_CLOZE_MAX: 1
+:FC_CLOZE_TYPE: deletion
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.50 |   1 |     1.00 | 2024-01-01T18:30:38Z |
+|        1 |  2.5 |  -1 |        0 | 2024-01-06T01:25:26Z |
+:END:
 
-#+begin_quote
-#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/UDP_encapsulation.svg/1920px-UDP_encapsulation.svg.png @ 2023-03-17 08:32:54
-[[file:2023-03-17_08-32-54_1920px-UDP_encapsulation.svg.png]]
+- {{[[id:b691f9f9-f9ac-4c1c-95ef-7d04a3b777af][Internet protocol suite]]}@0}
+- {{TCP/IP}@1}
 
+*** Source
 [cite:@InternetProtocolSuite2023]
-#+end_quote
-
-** Link layer
-
-** Internet layer
-
-** Transport layer
-
-** Application layer
-* TODO [#1]
-* TODO [#2] Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

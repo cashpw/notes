@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       56bf2582-14f9-47dd-beeb-dd7342c910dd
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2023-12-31 Sun 10:29]
 :END:
 #+title: Leverage point
 #+hugo_custom_front_matter: :slug "56bf2582-14f9-47dd-beeb-dd7342c910dd"
@@ -25,14 +25,16 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   200.78 | 2023-12-31T09:25:27Z |
+| front    | 2.35 |   8 |   462.70 | 2025-04-07T11:12:34Z |
 | back     | 2.65 |   7 |   222.77 | 2024-01-23T19:14:51Z |
 :END:
 
 [[id:56bf2582-14f9-47dd-beeb-dd7342c910dd][Leverage point]]
 
 *** Back
+
 Places within complex systems where a small shift in one thing can produce big changes in the system.
+
 *** Source
 [cite:@meadowsLeveragePointsPlacesInterveneSystem]
 ** Example(s) :fc:

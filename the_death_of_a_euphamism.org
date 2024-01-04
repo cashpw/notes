@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       75a95d65-3fcd-4f92-8d9a-26fe88fbcd01
-:LAST_MODIFIED: [2023-12-04 Mon 06:52]
+:LAST_MODIFIED: [2023-12-25 Mon 08:51]
 :END:
 #+title: Death of a euphamism
 #+hugo_custom_front_matter: :slug "75a95d65-3fcd-4f92-8d9a-26fe88fbcd01"
@@ -47,14 +47,16 @@ The point at which those who would have previously used a euphemism instead of s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   313.48 | 2023-12-25T16:18:34Z |
+| front    | 2.80 |   8 |   807.73 | 2026-03-12T10:20:05Z |
 | back     | 2.50 |   8 |   541.19 | 2025-05-08T19:49:20Z |
 :END:
 
 [[id:75a95d65-3fcd-4f92-8d9a-26fe88fbcd01][Death of a euphamism]]
 
 *** Back
+
 - "Border security" for keeping Mexicans from entering the USA; "When Mexico sends its people, they're not sending their best. [...] They're bringing drugs. They're bringing crime. They're rapists."
+
 *** Source
 [cite:@danskinDeathEuphemism2018]
 * Bibliography

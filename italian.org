@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768e1b87-efef-4024-a356-e399d27cc98f
-:LAST_MODIFIED: [2023-12-18 Mon 06:04]
+:LAST_MODIFIED: [2023-12-31 Sun 10:19]
 :END:
 #+title: Italian
 #+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
@@ -442,7 +442,7 @@ Monday
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    73.69 | 2024-01-19T07:20:36Z |
-| back     | 1.30 |   3 |     6.00 | 2023-12-22T21:45:33Z |
+| back     | 1.30 |   4 |     8.35 | 2024-01-01T00:55:19Z |
 :END:
 
 Tuesday
@@ -479,7 +479,7 @@ Wednesday
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    58.93 | 2023-12-28T13:08:38Z |
+| front    | 2.20 |   7 |   120.83 | 2024-04-27T10:13:34Z |
 | back     | 1.90 |   6 |    38.47 | 2024-01-09T03:49:36Z |
 :END:
 
@@ -653,7 +653,7 @@ Meat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   2 |     2.00 | 2023-12-09T14:17:48Z |
+|        0 | 1.90 |   1 |     1.00 | 2024-01-01T18:19:13Z |
 :END:
 
 Days of the week: {{Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato, Domenica}{Italian}@0}

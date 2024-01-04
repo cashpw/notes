@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3f4360a0-926e-4fb5-83c4-50b4416e2c7d
 :ROAM_REFS: [cite:@NinetyNinetyRule2023]
-:LAST_MODIFIED: [2023-12-18 Mon 06:13]
+:LAST_MODIFIED: [2023-12-31 Sun 10:18]
 :END:
 #+title: Ninety-ninety rule
 #+hugo_custom_front_matter: :slug "3f4360a0-926e-4fb5-83c4-50b4416e2c7d"
@@ -30,8 +30,8 @@ See [[id:d83ff790-f983-4581-a5dd-f5d27be45893][The last 10%]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    13.51 | 2023-12-30T09:58:42Z |
-| back     | 2.50 |   3 |     6.00 | 2023-12-24T14:13:32Z |
+| front    | 2.50 |   5 |    36.48 | 2024-02-06T05:43:03Z |
+| back     | 2.50 |   4 |    15.23 | 2024-01-08T23:04:54Z |
 :END:
 
 [[id:3f4360a0-926e-4fb5-83c4-50b4416e2c7d][Ninety-ninety rule]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b1b88ef5-f272-47d7-80c3-de9038e2eeb2
 :ROAM_ALIASES: "Positive right"
-:LAST_MODIFIED: [2023-12-18 Mon 06:16]
+:LAST_MODIFIED: [2023-12-23 Sat 08:37]
 :END:
 #+title: Positive rights
 #+hugo_custom_front_matter: :slug "b1b88ef5-f272-47d7-80c3-de9038e2eeb2"
@@ -53,7 +53,7 @@ A right which obliges action.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   293.88 | 2023-12-23T12:16:54Z |
+| front    | 2.80 |   8 |   786.49 | 2026-02-17T04:18:08Z |
 | back     | 2.80 |   8 |   663.79 | 2025-10-12T09:12:14Z |
 :END:
 

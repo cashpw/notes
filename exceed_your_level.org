@@ -2,7 +2,7 @@
 :ID:       6981e213-aaad-4356-8968-abc1766bfb39
 :DIR:      /home/cashweaver/proj/roam/attachments/6981e213-aaad-4356-8968-abc1766bfb39
 :ROAM_ALIASES: "If it kills you, it kills you" "A man must constantly exceed his level"
-:LAST_MODIFIED: [2023-12-04 Mon 07:07]
+:LAST_MODIFIED: [2023-12-27 Wed 21:48]
 :END:
 #+title: Exceed your Level
 #+hugo_custom_front_matter: :slug "6981e213-aaad-4356-8968-abc1766bfb39"
@@ -32,7 +32,7 @@ Related: [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   204.73 | 2023-12-22T09:00:31Z |
+|        0 | 2.05 |   3 |     6.00 | 2024-01-03T05:48:19Z |
 :END:
 
 *** Source

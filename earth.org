@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dc62ed50-4dcc-4b1b-ba02-7e5870f0a76c
-:LAST_MODIFIED: [2023-11-14 Tue 07:25]
+:LAST_MODIFIED: [2023-12-31 Sun 10:30]
 :ROAM_REFS: [cite:@Earth2023]
 :END:
 #+title: Earth
@@ -21,7 +21,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   6 |    51.64 | 2023-12-24T06:42:31Z |
+|        0 | 1.90 |   3 |     6.00 | 2024-01-06T18:30:04Z |
 :END:
 
 Earth's equatorial circumference is {{40,075 kilometers}@0}.

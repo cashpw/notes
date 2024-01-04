@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dafe179-aeb8-4718-9eb8-ac96a27f9a58
-:LAST_MODIFIED: [2023-12-15 Fri 07:49]
+:LAST_MODIFIED: [2023-12-26 Tue 09:33]
 :ROAM_ALIASES: "Indefinite integral"
 :END:
 #+title: Antiderivative
@@ -118,7 +118,7 @@ $F(x)=$ {{$\frac{x^3}{3} + c$}@0}
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   6 |    89.93 | 2024-02-01T12:55:25Z |
-|        1 | 1.90 |   4 |    10.51 | 2023-12-26T04:01:39Z |
+|        1 | 1.90 |   5 |    20.85 | 2024-01-16T13:57:14Z |
 :END:
 
 {{$F(x)$}@0} $=$ {{$\int_a^x f(t)dt$, where $x$ is in $[a,b]$}@1}

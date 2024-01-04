@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4c7bf5db-dc29-44a1-bb77-36d560b38688
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2023-12-26 Tue 09:28]
 :END:
 #+title: Skewed binary tree
 #+hugo_custom_front_matter: :slug "4c7bf5db-dc29-44a1-bb77-36d560b38688"
@@ -56,9 +56,11 @@ A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   362.05 | 2024-02-23T17:09:58Z |
-| back     | 2.05 |   8 |   204.61 | 2023-12-25T19:12:26Z |
+| back     | 2.05 |   9 |   415.24 | 2025-02-13T23:09:20Z |
 :END:
+
 [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
+
 *** Back
 [[file:skewed-binary-tree.png]]
 *** Source

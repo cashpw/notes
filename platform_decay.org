@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       54e1f321-30e8-42d1-9df5-3e22a26706ad
 :ROAM_ALIASES: Enshittification
-:LAST_MODIFIED: [2023-11-01 Wed 10:43]
+:LAST_MODIFIED: [2023-12-29 Fri 13:51]
 :ROAM_REFS: [cite:@Enshittification2023]
 :END:
 #+title: Platform decay
 #+hugo_custom_front_matter: :slug "54e1f321-30e8-42d1-9df5-3e22a26706ad"
 #+author: Cash Prokop-Weaver
 #+date: [2023-11-01 Wed 10:40]
-#+filetags: :hastodo:concept:
+#+filetags: :concept:
 
 #+begin_quote
 Enshittification, also known as platform decay, is the pattern of decreasing quality of online platforms that act as two-sided markets. Enshittification can be seen as a form of rent-seeking [[[id:7b600674-2c87-4532-b676-a6e025fca18e][Rent-seeking]]].
@@ -29,6 +29,31 @@ Here is how platforms die:
 [cite:@doctorowEnshittificationTikTok]
 #+end_quote
 
-* TODO [#2] Flashcards :noexport:
+* Flashcards :noexport:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2023-12-25 Mon 11:03]
+:FC_CREATED: 2023-12-25T19:05:22Z
+:FC_TYPE:  double
+:ID:       00851d50-5bf7-471c-a7ed-5f442a4c4605
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     2.00 | 2023-12-31T21:51:18Z |
+| back     |  2.5 |  -1 |        0 | 2024-01-01T19:05:22Z |
+:END:
+
+[[id:54e1f321-30e8-42d1-9df5-3e22a26706ad][Platform decay]]
+
+*** Back
+
+1. They are good to their users;
+2. They abuse their users to make things better for their business customers;
+3. They abuse those business customers to claw back all the value for themselves.
+4. They die.
+   
+*** Source
+[cite:@Enshittification2023]
 * Bibliography
 #+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4d1bdced-1025-4985-8bef-3e34109fb47d
-:LAST_MODIFIED: [2023-10-09 Mon 23:40]
+:LAST_MODIFIED: [2023-12-23 Sat 08:42]
 :END:
 #+title: Zero-sum game
 #+hugo_custom_front_matter: :slug "4d1bdced-1025-4985-8bef-3e34109fb47d"
@@ -51,12 +51,13 @@ A situation involving two or more sides in which any gain by one side is a loss 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   428.87 | 2024-11-28T12:17:09Z |
-| back     | 2.50 |   7 |   273.67 | 2023-12-23T10:08:40Z |
+| back     | 2.50 |   8 |   666.40 | 2025-10-20T02:21:47Z |
 :END:
 
 [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]
 
 *** Back
+
 - The division of finite resources (e.g. Cutting a cake)
 *** Source
 [cite:@ZerosumGame2022]

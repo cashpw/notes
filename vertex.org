@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1b2526af-676d-4c0f-aa85-1ba05b8e7a93
 :ROAM_ALIASES: Nodes Node Vertices
-:LAST_MODIFIED: [2023-12-08 Fri 09:53]
+:LAST_MODIFIED: [2023-12-25 Mon 08:50]
 :END:
 #+title: Vertex
 #+hugo_custom_front_matter: :slug "1b2526af-676d-4c0f-aa85-1ba05b8e7a93"
@@ -16,9 +16,6 @@ In mathematics, and more specifically in graph theory, a vertex (plural vertices
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition ([[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]) :fc:
 :PROPERTIES:
 :ID:       1f0268ec-2f36-4beb-b246-6ff078e51798
@@ -29,7 +26,7 @@ In mathematics, and more specifically in graph theory, a vertex (plural vertices
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.95 |   7 |   302.62 | 2023-12-24T18:50:28Z |
+| back     | 2.95 |   8 |   888.01 | 2026-05-31T17:10:47Z |
 | front    | 2.95 |   8 |   848.70 | 2026-04-05T10:45:08Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f454378e-9a94-4c15-b8b2-44f486077626
-:LAST_MODIFIED: [2023-12-20 Wed 07:33]
+:LAST_MODIFIED: [2023-12-26 Tue 09:31]
 :END:
 #+title: Thought-terminating cliché
 #+hugo_custom_front_matter: :slug "f454378e-9a94-4c15-b8b2-44f486077626"
@@ -24,7 +24,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   3 |     6.00 | 2023-12-25T22:44:02Z |
+| back     | 1.30 |   4 |     7.58 | 2024-01-03T07:24:35Z |
 | front    | 1.30 |  12 |    98.30 | 2024-03-27T22:51:03Z |
 :END:
 
@@ -46,10 +46,13 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |  10 |   807.16 | 2025-12-25T10:41:00Z |
-| back     | 2.65 |   7 |   298.28 | 2023-12-21T22:40:48Z |
+| back     | 2.65 |   8 |   838.14 | 2026-04-09T20:01:57Z |
 :END:
+
 [[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]
+
 *** Back
+
 - "It's just human nature"
 - Veganism isn't natural, look at the food chain. Animals eat other animals.
 * Bibliography

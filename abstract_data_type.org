@@ -2,7 +2,7 @@
 :ID:       2eae74ba-4003-45cf-8425-7291aaa7a537
 :ROAM_ALIASES: "Abstract data types" ADT
 :ROAM_REFS: [cite:@AbstractDataType2022]
-:LAST_MODIFIED: [2023-12-16 Sat 13:57]
+:LAST_MODIFIED: [2023-12-29 Fri 13:51]
 :END:
 #+title: Abstract data type
 #+hugo_custom_front_matter: :slug "2eae74ba-4003-45cf-8425-7291aaa7a537"
@@ -94,7 +94,7 @@ Both concepts relate to how the system stores and interacts with data.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   224.13 | 2023-12-28T18:18:33Z |
+|        0 | 2.50 |   8 |   516.45 | 2025-05-29T08:45:24Z |
 :END:
 *** Extra
 *** Source

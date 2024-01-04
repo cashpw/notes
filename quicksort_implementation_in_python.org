@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed982b37-6f8e-4b89-bb51-ac608510325e
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2023-12-31 Sun 10:36]
 :END:
 #+title: Quicksort implementation in Python
 #+hugo_custom_front_matter: :slug "ed982b37-6f8e-4b89-bb51-ac608510325e"
@@ -54,9 +54,6 @@ print(quick_sort(a, lambda a, b: a <= b))
 #+end_src
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Implement :fc:implement:
 :PROPERTIES:
 :ID:       1cd3c833-4fdc-4107-b362-15a71577398e

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       60abd5dd-30f8-482c-8de7-421e25ed847e
 :DIR:      /home/cashweaver/proj/roam/attachments/60abd5dd-30f8-482c-8de7-421e25ed847e
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-12-29 Fri 17:43]
 :END:
 #+title: Goals for 2021
 #+hugo_custom_front_matter: :slug "60abd5dd-30f8-482c-8de7-421e25ed847e"
@@ -25,6 +25,7 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 - [[https://apps.ankiweb.net/][Remember]] what I've learned.
 - Continue [[https://news.ycombinator.com/item?id=25595583][studying math]] and, eventually, ML/AI.
 - Continue [[https://docs.google.com/spreadsheets/d/1y0rATMeou3hKTt7yDgbNwvtOitZSVFEbjeZBH3AZ5Gs/edit?usp=sharing][lifting]] and working out generally.
+
 * Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

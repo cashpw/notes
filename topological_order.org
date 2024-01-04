@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       518c35ac-35d7-4c12-9522-efb13e5be1e8
-:LAST_MODIFIED: [2023-12-09 Sat 08:52]
+:LAST_MODIFIED: [2023-12-27 Wed 21:49]
 :ROAM_ALIASES: "Topological sorting"
 :ROAM_REFS: [cite:@TopologicalSorting2022]
 :END:
@@ -64,12 +64,13 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   229.16 | 2024-02-18T05:37:08Z |
-| back     | 1.75 |   6 |    29.13 | 2023-12-27T18:24:14Z |
+| back     | 1.45 |   1 |     1.00 | 2023-12-29T05:49:02Z |
 :END:
 
 [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]
 
 *** Back
+
 - Graph traversal in which each node is only visited /after/ all of its dependencies are visited
 - Linear ordering of vertices in a [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]] such that for all edges $u \to v$, the [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] $u$ comes before $v$
 - Only possible for [[id:ee7fcae8-6322-4b71-91b0-704b7c21ae3a][Directed acyclic graph]]

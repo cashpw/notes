@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9
 :DIR:      /home/cashweaver/proj/roam/attachments/3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2023-12-25 Mon 08:51]
 :END:
 #+title: Give the right answers
 #+hugo_custom_front_matter: :slug "3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9"
@@ -47,12 +47,13 @@ A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to Win]] strategy which employ
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   298.48 | 2024-03-29T11:33:27Z |
-| back     | 2.35 |   7 |   218.11 | 2023-12-25T15:43:47Z |
+| back     | 2.35 |   8 |   515.34 | 2025-05-24T01:02:39Z |
 :END:
 
 [[id:3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9][Give the right answers]]
 
 *** Back
+
 - "Good." as an answer to "How's it going?" to avoid getting into the weeds on how it's actually going for you.
 - "<a strength>" as an answer to "What's your greatest weakness?"
 - Shut the fuck up when talking to the police [cite:@ShutFuckFriday]

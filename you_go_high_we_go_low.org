@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       740ee074-bbfc-4b26-9909-376c9725b57d
-:LAST_MODIFIED: [2023-10-16 Mon 00:28]
+:LAST_MODIFIED: [2023-12-25 Mon 08:48]
 :END:
 #+title: You go high, we go low
 #+hugo_custom_front_matter: :slug "740ee074-bbfc-4b26-9909-376c9725b57d"
@@ -40,10 +40,12 @@ A victory-oriented, ends justify the means, [[id:4398317e-6aa1-4dd4-b2a5-6334256
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.45 |  10 |   283.00 | 2023-12-25T14:13:00Z |
+| front    | 2.45 |  11 |   717.76 | 2025-12-12T11:03:27Z |
 | back     | 2.50 |   6 |    94.12 | 2024-01-05T09:02:13Z |
 :END:
+
 [[id:740ee074-bbfc-4b26-9909-376c9725b57d][You go high, we go low]]
+
 *** Back
 - Refusing to hold a vote to seat Obama's appointee for the Supreme Court (Merrick Garland) and promising to hold the seat open until a Republican president appoints someone instead.
 *** Source

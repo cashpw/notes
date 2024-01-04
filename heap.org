@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       70cbebc9-8936-4d52-885a-76d747c6577f
-:LAST_MODIFIED: [2023-12-18 Mon 06:17]
+:LAST_MODIFIED: [2023-12-24 Sun 09:35]
 :END:
 #+title: Heap
 #+hugo_custom_front_matter: :slug "70cbebc9-8936-4d52-885a-76d747c6577f"
@@ -37,7 +37,7 @@ The [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] is one maximally efficient
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.60 |   9 |   200.61 | 2024-03-13T05:38:51Z |
-| front    | 2.20 |   3 |     6.00 | 2023-12-24T14:17:45Z |
+| front    | 2.20 |   4 |    12.76 | 2024-01-06T11:54:22Z |
 :END:
 
 [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f4de9f04-053d-4602-a81a-c4118e6ee3c2
-:LAST_MODIFIED: [2023-12-16 Sat 13:47]
+:LAST_MODIFIED: [2023-12-23 Sat 08:39]
 :END:
 #+title: Standard deviation
 #+hugo_custom_front_matter: :slug "f4de9f04-053d-4602-a81a-c4118e6ee3c2"
@@ -50,7 +50,7 @@ A measure of the amount of variation or dispersion of a set of values.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   3 |     6.00 | 2023-12-22T21:47:19Z |
+|        0 | 2.35 |   4 |    14.47 | 2024-01-07T04:00:53Z |
 :END:
 
 - {{$s$}@0}

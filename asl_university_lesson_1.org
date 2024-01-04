@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@asluniversityLesson01]
 :ID:       fdf0dacf-eec1-432c-9e19-f00b2cc7f556
-:LAST_MODIFIED: [2023-12-21 Thu 16:17]
+:LAST_MODIFIED: [2023-12-31 Sun 10:34]
 :END:
 #+title: ASL University | Lesson 1
 #+hugo_custom_front_matter: :slug "fdf0dacf-eec1-432c-9e19-f00b2cc7f556"
@@ -38,7 +38,7 @@ AGAIN, NAME YOU
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:14Z
 :FC_TYPE:  double
@@ -122,7 +122,7 @@ DEAF YOU
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:14Z
 :FC_TYPE:  double
@@ -248,7 +248,7 @@ INDEX-[that-person] WHO (Who is he_she_that person)
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -257,7 +257,7 @@ INDEX-[that-person] WHO (Who is he_she_that person)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-21T22:33:15Z |
+| front    | 2.50 |   1 |     1.00 | 2024-01-01T18:32:34Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-28T22:33:15Z |
 :END:
 
@@ -269,7 +269,7 @@ LEARN
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -278,7 +278,7 @@ LEARN
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-21T22:33:15Z |
+| front    | 2.50 |   1 |     1.00 | 2024-01-01T18:24:23Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-28T22:33:15Z |
 :END:
 
@@ -290,7 +290,7 @@ mean_meaning of sake intent purpose
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -299,7 +299,7 @@ mean_meaning of sake intent purpose
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-21T22:33:15Z |
+| front    | 2.50 |   0 |     0.00 | 2023-12-31T18:34:44Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-28T22:33:15Z |
 :END:
 
@@ -311,7 +311,7 @@ meet
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -332,7 +332,7 @@ NAME
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -341,7 +341,7 @@ NAME
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-21T22:33:15Z |
+| front    | 2.50 |   0 |     0.00 | 2023-12-31T18:19:55Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-28T22:33:15Z |
 :END:
 
@@ -353,7 +353,7 @@ NICE_CLEAN
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -374,7 +374,7 @@ NO-[opposite-of-yes]
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:15Z
 :FC_TYPE:  double
@@ -458,7 +458,7 @@ STUDENT, HE_SHE
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:16Z
 :FC_TYPE:  double
@@ -521,7 +521,7 @@ T-H-A-N-K-S how-SIGN
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:16Z
 :FC_TYPE:  double
@@ -542,7 +542,7 @@ TEACHER
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:16Z
 :FC_TYPE:  double
@@ -551,7 +551,7 @@ TEACHER
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-21T22:33:16Z |
+| front    | 2.50 |   1 |     1.00 | 2024-01-01T18:30:31Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-28T22:33:16Z |
 :END:
 
@@ -605,7 +605,7 @@ THIS YOUR
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:17Z
 :FC_TYPE:  double
@@ -626,7 +626,7 @@ what
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:17Z
 :FC_TYPE:  double
@@ -647,7 +647,7 @@ where
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:17Z
 :FC_TYPE:  double
@@ -668,7 +668,7 @@ WHY
 
 *** Source
 [cite:@asluniversityLesson01]
-** ASL :fc:suspended:
+** ASL :fc:
 :PROPERTIES:
 :FC_CREATED: 2023-12-21T22:33:17Z
 :FC_TYPE:  double

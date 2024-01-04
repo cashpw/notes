@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@danskinAlwaysBiggerFish2019]
 :ID:       c0564758-b90d-42a6-be58-44d8985330ad
-:LAST_MODIFIED: [2023-11-14 Tue 07:24]
+:LAST_MODIFIED: [2023-12-29 Fri 13:52]
 :END:
 #+title: Ian Danskin | Always a Bigger Fish
 #+hugo_custom_front_matter: :slug "c0564758-b90d-42a6-be58-44d8985330ad"
@@ -146,12 +146,16 @@ If you want to fight fascism, move left.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   267.27 | 2023-12-28T23:03:29Z |
+| front    | 2.50 |   8 |   645.79 | 2025-10-05T16:44:04Z |
 | back     | 2.80 |   7 |   362.59 | 2024-05-28T05:45:10Z |
 :END:
+
 Hierarchies are recursive
+
 *** Back
+
 Those at the top of the hierarchy have power over those lower in the hierarchy. This relationship is recursive. Those in the middle have power over those lower than themselves, etc.
+
 *** Source
 [cite:@danskinAlwaysBiggerFish2019]
 ** Summarize :fc:

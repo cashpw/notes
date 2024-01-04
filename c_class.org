@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b3c25e15-f426-41d3-ae97-925da325ed73
-:LAST_MODIFIED: [2023-12-19 Tue 14:44]
+:LAST_MODIFIED: [2023-12-27 Wed 21:39]
 :END:
 #+title: C++ class
 #+hugo_custom_front_matter: :slug "b3c25e15-f426-41d3-ae97-925da325ed73"
@@ -91,7 +91,7 @@ class Foo : public Container {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2023-12-22T21:56:01Z |
+| front    | 2.50 |   4 |    16.09 | 2024-01-08T18:49:26Z |
 | back     | 2.35 |   7 |   170.28 | 2024-05-27T23:34:03Z |
 :END:
 
@@ -136,7 +136,7 @@ A class with at least one method which another class must implement.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   4 |    11.41 | 2023-12-27T01:38:25Z |
+|        0 | 2.05 |   5 |    24.06 | 2024-01-21T07:10:13Z |
 :END:
 
 =Foo= implements =Bar=

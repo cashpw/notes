@@ -2,7 +2,7 @@
 :ID:       5b235c79-d75b-4e4e-808a-b43f532b6226
 :ROAM_ALIASES: "Prefix trie" "Prefix tree"
 :ROAM_REFS: [cite:@Trie2022]
-:LAST_MODIFIED: [2023-12-21 Thu 08:21]
+:LAST_MODIFIED: [2023-12-27 Wed 21:48]
 :END:
 #+title: Trie
 #+hugo_custom_front_matter: :slug "5b235c79-d75b-4e4e-808a-b43f532b6226"
@@ -24,7 +24,6 @@ In computer science, a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]], also c
 #+end_quote
 
 * Flashcards :noexport:
-
 ** Describe :fc:
 :PROPERTIES:
 :FC_CREATED: 2022-09-27T16:44:32Z
@@ -35,7 +34,7 @@ In computer science, a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]], also c
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   296.96 | 2024-06-21T14:13:20Z |
-| back     | 2.35 |   7 |   210.06 | 2023-12-20T21:53:53Z |
+| back     | 2.05 |   3 |     6.00 | 2024-01-03T05:48:41Z |
 :END:
 
 [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
@@ -72,13 +71,14 @@ A k-ary search tree for locating keys within a set.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   120.98 | 2023-12-26T13:19:40Z |
+| front    | 2.05 |   8 |   246.46 | 2024-08-29T04:36:43Z |
 | back     | 2.35 |   8 |   312.59 | 2024-07-01T06:54:49Z |
 :END:
 
 Applications of a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]
 
 *** Back
+
 - Full text search
 - Spell checking
 - Autocomplete or predictive text

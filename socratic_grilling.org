@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       25f5faeb-aeeb-4ae6-998c-08940cb60c3f
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2023-12-26 Tue 09:32]
 :END:
 #+title: Socratic grilling
 #+hugo_custom_front_matter: :slug "25f5faeb-aeeb-4ae6-998c-08940cb60c3f"
@@ -15,9 +15,6 @@
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Definition :fc:
 :PROPERTIES:
 :ID:       6fdd6f11-ed71-4ab3-877b-bf1387182aff
@@ -28,12 +25,16 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   7 |   120.91 | 2023-12-26T11:29:17Z |
+| back     | 2.20 |   8 |   275.88 | 2024-09-27T14:45:30Z |
 | front    | 2.80 |   7 |   286.57 | 2024-03-19T04:15:48Z |
 :END:
+
 [[id:25f5faeb-aeeb-4ae6-998c-08940cb60c3f][Socratic grilling]]
+
 *** Back
+
 Related to [[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]] but a littler harsher and more confrontational in order to get to the point quickly.
+
 *** Source
 [cite:@alexanderSocraticGrilling2020]
 * Bibliography

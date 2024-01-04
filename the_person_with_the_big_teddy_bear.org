@@ -1,14 +1,21 @@
 :PROPERTIES:
 :ID:       8b1fb8a2-b7b6-4ac5-b7b3-b84495e3a9d0
-:LAST_MODIFIED: [2023-12-09 Sat 13:33]
+:LAST_MODIFIED: [2023-12-24 Sun 10:56]
 :END:
 #+title: The person with the big teddy bear
 #+hugo_custom_front_matter: :slug "8b1fb8a2-b7b6-4ac5-b7b3-b84495e3a9d0"
 #+author: Cash Prokop-Weaver
 #+date: [2023-06-20 Tue 14:13]
-#+filetags: :hastodo:concept:
-* TODO [#0]
+#+filetags: :concept:
 
-* TODO [#2] Flashcards :noexport:
+#+begin_quote
+If you go down to the midway at your county fair, you'll spot some poor sucker walking around all day with a giant teddy bear that they won by throwing three balls in a peach basket.
+
+The peach-basket is a rigged game. The carny can use a hidden switch to force the balls to bounce out of the basket. No one wins a giant teddy bear unless the carny wants them to win it. Why did the carny let the sucker win the giant teddy bear? So that he'd carry it around all day, convincing other suckers to put down five bucks for their chance to win one.
+
+[cite:@doctorowPluralisticTiktokEnshittification2023]
+#+end_quote
+
+* Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

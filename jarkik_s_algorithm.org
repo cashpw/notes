@@ -2,7 +2,7 @@
 :ID:       2e340461-20cb-4d63-afdb-cac74fbea013
 :ROAM_ALIASES: "DJP algorithm" "Prim's algorithm"
 :ROAM_REFS: [cite:@PrimAlgorithm2022]
-:LAST_MODIFIED: [2023-11-16 Thu 08:10]
+:LAST_MODIFIED: [2023-12-31 Sun 10:29]
 :END:
 #+title: Jarnik's algorithm
 #+hugo_custom_front_matter: :slug "2e340461-20cb-4d63-afdb-cac74fbea013"
@@ -85,7 +85,7 @@ Discovery of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |  10 |    40.99 | 2023-12-27T15:54:30Z |
+| front    | 1.45 |  11 |    62.49 | 2024-02-28T17:29:42Z |
 | back     | 2.65 |   7 |   392.62 | 2024-10-29T21:00:53Z |
 :END:
 
@@ -127,7 +127,7 @@ Time complexity of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   129.83 | 2023-12-29T08:49:59Z |
+| front    | 2.05 |   8 |   244.22 | 2024-08-31T23:48:43Z |
 | back     | 2.65 |   7 |   364.24 | 2024-09-24T21:15:05Z |
 :END:
 

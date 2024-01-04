@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d46b30b9-7aca-4b2b-8d08-bd22bdb63394
 :ROAM_REFS: [cite:@ConwayLaw2022]
-:LAST_MODIFIED: [2023-12-19 Tue 14:51]
+:LAST_MODIFIED: [2023-12-29 Fri 13:51]
 :END:
 #+title: Conway's law
 #+hugo_custom_front_matter: :slug "d46b30b9-7aca-4b2b-8d08-bd22bdb63394"
@@ -41,7 +41,7 @@ The law is based on the reasoning that in order for a product to function, the a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    95.70 | 2024-03-03T07:55:41Z |
-| back     | 1.90 |   2 |     2.00 | 2023-12-21T22:51:34Z |
+| back     | 1.75 |   4 |    11.23 | 2024-01-10T03:26:57Z |
 :END:
 
 [[id:d46b30b9-7aca-4b2b-8d08-bd22bdb63394][Conway's law]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       76c57b75-4cc3-4d66-b5fb-4fd6cc9be039
-:LAST_MODIFIED: [2023-12-19 Tue 14:53]
+:LAST_MODIFIED: [2023-12-31 Sun 10:28]
 :ROAM_ALIASES: "Greek roots"
 :END:
 #+title: Roots in English
@@ -68,8 +68,8 @@ Away from, down, off
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    16.15 | 2023-12-30T18:48:57Z |
-| back     | 2.20 |   2 |     2.00 | 2023-12-21T22:53:59Z |
+| front    | 2.50 |   5 |    36.82 | 2024-02-06T14:12:32Z |
+| back     | 1.90 |   4 |    11.15 | 2024-01-10T01:26:55Z |
 :END:
 
 Endo-
@@ -218,7 +218,7 @@ Epi-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   3 |     6.00 | 2023-12-24T14:08:54Z |
+| front    | 1.60 |   4 |     9.52 | 2024-01-03T06:03:39Z |
 | back     | 2.35 |   7 |   207.32 | 2024-03-04T22:06:06Z |
 :END:
 
