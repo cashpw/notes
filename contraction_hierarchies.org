@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2023-12-31 Sun 10:24]
+:LAST_MODIFIED: [2024-01-08 Mon 08:22]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -464,13 +464,14 @@ Steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   2 |     2.00 | 2023-12-26T17:30:11Z |
+| front    | 2.20 |   3 |     6.00 | 2024-01-14T16:22:45Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:30:07Z |
 :END:
 
 When do we contract a vertex, $v$?
 
 *** Back
+
 - Given a given vertex, $v$
 - Let $U$ be the set of vertices with edges going to $v$
 - Let $W$ be the set of vertices with edges coming from $v$

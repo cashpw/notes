@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c9e0ef8d-dace-4826-8d45-83605f4ec7e2
 :ROAM_REFS: [cite:@EquivalenceRelation2022]
-:LAST_MODIFIED: [2023-12-23 Sat 08:37]
+:LAST_MODIFIED: [2024-01-08 Mon 08:29]
 :END:
 #+title: Equivalence relation
 #+hugo_custom_front_matter: :slug "c9e0ef8d-dace-4826-8d45-83605f4ec7e2"
@@ -26,7 +26,7 @@ In mathematics, an equivalence relation is a binary relation that is reflexive [
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  10 |   399.43 | 2024-04-20T00:25:09Z |
-| front    | 1.90 |   4 |    11.09 | 2024-01-03T18:50:56Z |
+| front    | 1.75 |   5 |    20.08 | 2024-01-28T18:18:54Z |
 :END:
 
 [[id:c9e0ef8d-dace-4826-8d45-83605f4ec7e2][Equivalence relation]]

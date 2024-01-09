@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9032f4f9-c2f4-4af5-9f69-4840c3bbbce8
-:LAST_MODIFIED: [2023-10-26 Thu 08:41]
+:LAST_MODIFIED: [2024-01-08 Mon 08:19]
 :END:
 #+title: A beginning
 #+hugo_custom_front_matter: :slug "9032f4f9-c2f4-4af5-9f69-4840c3bbbce8"
@@ -30,7 +30,7 @@ A beginning is the time for taking the most delicate care that the balances are 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.75 |   8 |   178.99 | 2024-01-05T15:30:23Z |
+|        0 | 1.75 |   9 |   315.92 | 2024-11-19T14:20:52Z |
 :END:
 
 *** Source

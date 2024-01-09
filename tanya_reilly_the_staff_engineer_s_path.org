@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 :ID:       bc1937f1-31ce-41cc-ba0b-dedaac9334b5
-:LAST_MODIFIED: [2023-12-27 Wed 21:47]
+:LAST_MODIFIED: [2024-01-08 Mon 08:22]
 :END:
 #+title: Tanya Reilly | The Staff Engineer's Path
 #+hugo_custom_front_matter: :slug "bc1937f1-31ce-41cc-ba0b-dedaac9334b5"
@@ -2318,7 +2318,7 @@ Staff+ engineering is a {{leadership}@0} role.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |   9 |    76.26 | 2024-01-01T14:29:38Z |
+|        0 | 1.45 |  10 |   115.27 | 2024-05-02T22:50:16Z |
 |        1 | 2.50 |   7 |   288.78 | 2024-07-21T02:13:15Z |
 |        2 | 2.80 |   7 |   282.88 | 2024-07-22T03:58:50Z |
 :END:

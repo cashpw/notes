@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2023-12-27 Wed 21:39]
+:LAST_MODIFIED: [2024-01-08 Mon 08:25]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -74,13 +74,14 @@ An investment plan wherein money is contributed to an investment vehicle by an i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |  11 |   354.38 | 2024-01-06T11:04:28Z |
+| back     | 2.80 |  12 |  1022.96 | 2026-10-27T15:26:23Z |
 | front    | 1.90 |   7 |    79.12 | 2024-02-25T20:44:40Z |
 :END:
 
 Earnings per share
 
 *** Back
+
 $\frac{\text{net income - preferred dividends}}{\text{end-of-period common shares outstanding}}$
 
 *** Source

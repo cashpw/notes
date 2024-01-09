@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e1506f58-c519-4b04-a7fd-6bc821514a30
 :ROAM_REFS: [cite:@PrincipalAgentProblem2023]
-:LAST_MODIFIED: [2023-12-16 Sat 13:56]
+:LAST_MODIFIED: [2024-01-08 Mon 08:33]
 :END:
 #+title: Principle-agent problem
 #+hugo_custom_front_matter: :slug "e1506f58-c519-4b04-a7fd-6bc821514a30"
@@ -59,7 +59,7 @@ A problem referring to the conflict of interests between two entities in which o
 - Elected officials and citizens
 *** Source
 [cite:@PrincipalAgentProblem2023]
-** Cloze :fc:
+** Cloze ([[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-01-17 Tue 07:53]
 :FC_CREATED: 2023-01-17T15:54:25Z
@@ -74,7 +74,7 @@ A problem referring to the conflict of interests between two entities in which o
 |        0 | 2.50 |   7 |   203.15 | 2024-01-07T07:46:47Z |
 :END:
 
-([[id:e1506f58-c519-4b04-a7fd-6bc821514a30][Principle-agent problem]]) The {{Agent}@0} takes action on behalf of another entity.
+The {{Agent}@0} takes action on behalf of another entity.
 
 *** Source
 [cite:@PrincipalAgentProblem2023]

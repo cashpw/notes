@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2023-12-31 Sun 10:32]
+:LAST_MODIFIED: [2024-01-08 Mon 08:17]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -656,7 +656,7 @@ A vector/matrix in which most of the values are non-zero.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |   8 |    51.22 | 2024-01-03T21:49:14Z |
+| back     | 1.45 |   9 |    71.94 | 2024-03-20T14:47:14Z |
 | front    | 2.65 |   8 |   287.85 | 2023-12-27T11:30:22Z |
 :END:
 
@@ -1011,7 +1011,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   0 |     0.00 | 2023-12-31T18:30:47Z |
+|        0 | 2.20 |   1 |     1.00 | 2024-01-09T16:17:36Z |
 |        1 | 2.35 |   3 |     6.00 | 2023-07-20T13:16:05Z |
 :END:
 

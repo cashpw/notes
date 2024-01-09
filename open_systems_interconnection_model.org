@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2023-12-31 Sun 10:31]
+:LAST_MODIFIED: [2024-01-08 Mon 08:18]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -203,7 +203,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   4 |    11.35 | 2024-01-07T01:58:29Z |
+| front    | 2.05 |   5 |    21.75 | 2024-01-30T10:23:09Z |
 | back     | 2.20 |   3 |     6.00 | 2023-12-31T16:50:57Z |
 :END:
 
@@ -287,7 +287,7 @@ Nodes and hosts in the [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   127.77 | 2024-01-06T12:59:55Z |
+| front    | 2.20 |   8 |   258.09 | 2024-09-22T18:21:50Z |
 | back     | 2.35 |   6 |    78.26 | 2024-03-08T22:43:35Z |
 :END:
 

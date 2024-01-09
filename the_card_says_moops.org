@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7e543b7d-8335-45e9-94ec-1392c0c91ce0
-:LAST_MODIFIED: [2023-12-04 Mon 06:53]
+:LAST_MODIFIED: [2024-01-08 Mon 08:18]
 :END:
 #+title: The card says moops
 #+hugo_custom_front_matter: :slug "7e543b7d-8335-45e9-94ec-1392c0c91ce0"
@@ -23,12 +23,16 @@ See [[id:d23a7621-32c5-4cf6-8f2e-e9a84bb55eec][Ian Danskin | The Card Says Moops
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.45 |   7 |   219.46 | 2024-01-07T12:15:33Z |
+| front    | 2.45 |   8 |   520.30 | 2025-06-11T23:31:13Z |
 | back     | 2.65 |   8 |   675.38 | 2025-08-21T16:38:19Z |
 :END:
+
 [[id:7e543b7d-8335-45e9-94ec-1392c0c91ce0][The card says moops]]
+
 *** Back
+
 Performative irony used to win arguments and obfuscate the underlying guiding beliefs from the public and, often, themselves.
+
 *** Source
 [cite:@danskinCardSaysMoops2019]
 ** Example(s) ([[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]]) :fc:

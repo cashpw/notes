@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2023-12-31 Sun 10:33]
+:LAST_MODIFIED: [2024-01-08 Mon 08:21]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -489,7 +489,7 @@ void sort(const std::vector<double>& numbers);
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |    82.33 | 2024-01-07T16:08:07Z |
+| front    | 2.50 |   7 |   188.46 | 2024-07-15T03:27:51Z |
 :END:
 
 - [[id:986d71fd-c44f-4cd8-899f-9701f75d6c06][Structured binding]] (C++)

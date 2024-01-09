@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9b054cbc-f7f4-4443-b28a-65d66eef4880
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2024-01-08 Mon 08:23]
 :END:
 #+title: Lowercase-a accurate without being capital-T True
 #+hugo_custom_front_matter: :slug "9b054cbc-f7f4-4443-b28a-65d66eef4880"
@@ -27,14 +27,16 @@ Describes a condition in which a certain framing is correct in that acting as if
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   209.98 | 2023-12-31T23:36:00Z |
+| front    | 2.35 |   8 |   458.18 | 2025-04-10T20:44:39Z |
 | back     | 2.80 |   7 |   284.25 | 2024-04-15T10:08:45Z |
 :END:
 
 [[id:9b054cbc-f7f4-4443-b28a-65d66eef4880][Lowercase-a accurate without being capital-T True]]
 
 *** Back
+
 Describes a condition in which a certain framing is correct in that acting as if it is true will grant useful results. However, it's not the whole picture. It doesn't capture /all/ the truth. Or perhaps it is deficient in some other way.
+
 *** Source
 [cite:@danskinCardSaysMoops2019]
 * Bibliography

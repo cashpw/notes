@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b691f9f9-f9ac-4c1c-95ef-7d04a3b777af
 :ROAM_ALIASES: TCP/IP
-:LAST_MODIFIED: [2023-12-31 Sun 10:30]
+:LAST_MODIFIED: [2024-01-08 Mon 08:26]
 :ROAM_REFS: [cite:@InternetProtocolSuite2023]
 :END:
 #+title: Internet protocol suite
@@ -29,7 +29,7 @@ The Internet protocol suite, commonly known as TCP/IP, is a framework for organi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   1 |     1.00 | 2024-01-01T18:30:38Z |
+|        0 | 2.50 |   2 |     2.00 | 2024-01-10T16:26:15Z |
 |        1 |  2.5 |  -1 |        0 | 2024-01-06T01:25:26Z |
 :END:
 

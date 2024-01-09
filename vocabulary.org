@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2023-12-31 Sun 10:32]
+:LAST_MODIFIED: [2024-01-08 Mon 08:18]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -768,10 +768,12 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   5 |    34.47 | 2024-01-09T01:47:26Z |
-| back     | 2.95 |   6 |   138.58 | 2023-11-18T14:55:23Z |
+| back     | 2.95 |   7 |   369.31 | 2025-01-11T23:49:32Z |
 :END:
+
 - At right angles; perpendicular
 - Independent; able to be treated separately
+
 *** Source
 [cite:@Orthogonal2023]
 ** Dilettante :fc:

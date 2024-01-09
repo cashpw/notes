@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       966f6682-54bf-4958-816c-fcd7482ccf79
 :DIR:      /home/cashweaver/proj/roam/attachments/966f6682-54bf-4958-816c-fcd7482ccf79
-:LAST_MODIFIED: [2023-12-24 Sun 09:38]
+:LAST_MODIFIED: [2024-01-08 Mon 08:26]
 :END:
 #+title: The periphery is where the future reveals itself
 #+hugo_custom_front_matter: :slug "966f6682-54bf-4958-816c-fcd7482ccf79"
@@ -29,7 +29,7 @@ The periphery is where the future reveals itself.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   7 |   282.26 | 2024-03-02T02:26:19Z |
-|        1 | 2.20 |   4 |    12.17 | 2024-01-05T21:45:52Z |
+|        1 | 2.20 |   5 |    27.41 | 2024-02-05T02:12:40Z |
 :END:
 
 The {{periphery}@0} {{is where the future reveals itself}@1}

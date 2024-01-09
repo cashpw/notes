@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       be5ebd31-6655-4f99-9325-2c41becd4dab
 :ROAM_REFS: [cite:@BinomialCoefficient2023]
-:LAST_MODIFIED: [2023-12-23 Sat 08:40]
+:LAST_MODIFIED: [2024-01-08 Mon 08:23]
 :END:
 #+title: Binomial coefficient
 #+hugo_custom_front_matter: :slug "be5ebd31-6655-4f99-9325-2c41becd4dab"
@@ -61,7 +61,7 @@ $\binom{n}{k}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   234.66 | 2024-03-02T04:54:02Z |
-|        1 | 2.05 |   4 |    12.89 | 2024-01-03T13:37:28Z |
+|        1 | 2.05 |   5 |    25.85 | 2024-02-03T12:51:48Z |
 :END:
 
 {{$\binom{n}{k}$}@0} $=$ {{$\frac{n!}{k!(n-k)!}$}{factorial}@1}

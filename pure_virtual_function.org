@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cbe60cda-fc7d-4188-9cb3-4715ae550b3d
-:LAST_MODIFIED: [2023-12-23 Sat 08:36]
+:LAST_MODIFIED: [2024-01-08 Mon 08:22]
 :END:
 #+title: Pure virtual function
 #+hugo_custom_front_matter: :slug "cbe60cda-fc7d-4188-9cb3-4715ae550b3d"
@@ -29,14 +29,16 @@ class Container {
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    97.03 | 2024-01-04T05:04:36Z |
+| front    | 2.05 |   0 |     0.00 | 2024-01-08T16:22:22Z |
 | back     | 2.80 |   6 |   138.03 | 2024-01-12T14:23:56Z |
 :END:
 
 [[id:cbe60cda-fc7d-4188-9cb3-4715ae550b3d][Pure virtual function]]
 
 *** Back
+
 ~=0;~ at the end of the function's declaration.
+
 *** Source
 [cite:@stroustrupTour2022]
 ** Definition (C++) :fc:

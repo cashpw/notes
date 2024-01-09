@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2023-12-31 Sun 10:33]
+:LAST_MODIFIED: [2024-01-08 Mon 08:19]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1408,7 +1408,7 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   5 |     9.88 | 2023-12-29T19:55:31Z |
+| back     | 1.30 |   6 |    12.87 | 2024-01-21T13:17:36Z |
 | front    | 2.65 |   7 |   360.53 | 2024-08-01T03:29:13Z |
 :END:
 

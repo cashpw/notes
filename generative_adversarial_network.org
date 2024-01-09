@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0f560f37-8170-46a9-8ec3-160de418eb7d
-:LAST_MODIFIED: [2023-12-07 Thu 06:30]
+:LAST_MODIFIED: [2024-01-08 Mon 08:29]
 :ROAM_REFS: [cite:@GenerativeAdversarialNetwork2023]
 :END:
 #+title: Generative adversarial network
@@ -30,7 +30,7 @@ GANs are similar to mimicry in evolutionary biology, with an evolutionary arms r
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   117.89 | 2024-01-01T12:55:48Z |
+| front    | 2.50 |   7 |   308.59 | 2024-11-12T06:36:51Z |
 | back     | 2.50 |   7 |   241.95 | 2024-08-05T13:21:34Z |
 :END:
 

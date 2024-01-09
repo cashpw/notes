@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ef21ad22-553d-432e-a4e2-bdc404009c87
-:LAST_MODIFIED: [2023-12-08 Fri 09:49]
+:LAST_MODIFIED: [2024-01-08 Mon 08:27]
 :END:
 #+title: Delta (finance)
 #+hugo_custom_front_matter: :slug "ef21ad22-553d-432e-a4e2-bdc404009c87"
@@ -38,7 +38,7 @@ Delta is the sensitivity of the derivative's spot price to the underlying value.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   250.95 | 2024-01-06T17:32:30Z |
+| front    | 2.35 |   8 |   558.66 | 2025-07-20T08:23:59Z |
 | back     | 2.65 |   8 |   538.92 | 2025-05-30T15:48:59Z |
 :END:
 

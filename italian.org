@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768e1b87-efef-4024-a356-e399d27cc98f
-:LAST_MODIFIED: [2023-12-31 Sun 10:19]
+:LAST_MODIFIED: [2024-01-08 Mon 08:07]
 :END:
 #+title: Italian
 #+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
@@ -194,7 +194,7 @@ My name is _.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    68.61 | 2024-01-07T05:24:07Z |
+| front    | 2.20 |   7 |   157.58 | 2024-06-14T06:01:08Z |
 | back     | 2.20 |   6 |    67.47 | 2024-02-10T02:02:55Z |
 :END:
 
@@ -403,7 +403,7 @@ Eleven
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    66.89 | 2024-01-05T12:10:11Z |
+| front    | 2.20 |   7 |   156.26 | 2024-06-12T22:22:26Z |
 | back     | 2.20 |   6 |    52.70 | 2024-01-23T09:25:39Z |
 :END:
 
@@ -422,7 +422,7 @@ Twelve
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   6 |    69.27 | 2024-01-07T21:23:51Z |
+| front    | 2.35 |   7 |   163.07 | 2024-06-19T17:47:08Z |
 | back     | 2.35 |   6 |   100.92 | 2024-03-08T13:02:31Z |
 :END:
 
@@ -442,7 +442,7 @@ Monday
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    73.69 | 2024-01-19T07:20:36Z |
-| back     | 1.30 |   4 |     8.35 | 2024-01-01T00:55:19Z |
+| back     | 1.30 |   5 |    10.69 | 2024-01-19T08:42:10Z |
 :END:
 
 Tuesday
@@ -653,7 +653,7 @@ Meat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   1 |     1.00 | 2024-01-01T18:19:13Z |
+|        0 | 1.90 |   2 |     2.00 | 2024-01-10T16:07:29Z |
 :END:
 
 Days of the week: {{Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato, Domenica}{Italian}@0}
