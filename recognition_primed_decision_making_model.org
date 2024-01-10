@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4a42aa6f-413f-4144-86df-5c0f0b174777
 :ROAM_ALIASES: RPD
-:LAST_MODIFIED: [2023-12-27 Wed 21:40]
+:LAST_MODIFIED: [2024-01-09 Tue 08:17]
 :ROAM_REFS: [cite:@RecognitionprimedDecision2023]
 :END:
 #+title: Recognition-primed decision
@@ -151,7 +151,7 @@ A model describing how experienced individuals make quick, effective, decisions 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   200.61 | 2024-07-13T07:18:02Z |
-| back     | 2.05 |   6 |    54.79 | 2024-01-08T10:30:34Z |
+| back     | 1.90 |   7 |    94.55 | 2024-04-13T05:22:53Z |
 :END:
 
 Steps in making a [[id:4a42aa6f-413f-4144-86df-5c0f0b174777][Recognition-primed decision]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-01-08 Mon 08:18]
+:LAST_MODIFIED: [2024-01-09 Tue 08:14]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -395,7 +395,7 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   5 |    11.89 | 2024-01-07T14:52:28Z |
+| front    | 1.45 |   6 |    17.38 | 2024-01-27T01:13:16Z |
 | back     | 2.35 |   5 |    32.35 | 2023-04-14T23:11:01Z |
 :END:
 
@@ -664,7 +664,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   5 |    28.82 | 2024-01-03T10:02:40Z |
+| front    | 2.20 |   6 |    62.56 | 2024-03-12T05:47:55Z |
 | back     | 2.80 |   6 |   120.01 | 2024-04-26T06:03:35Z |
 :END:
 

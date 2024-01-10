@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1e9fa224-0c4d-4b1b-aee5-4075fe9f900a
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2024-01-09 Tue 11:24]
 :END:
 #+title: One-click
 #+hugo_custom_front_matter: :slug "1e9fa224-0c4d-4b1b-aee5-4075fe9f900a"
@@ -9,8 +9,11 @@
 #+filetags: :hastodo:concept:
 
 A one-click $X$ is something that one can perform by taking a single action. I've seen the phrase used most commonly in the context of one-click software deployments.
+
 * TODO [#2] Expand :noexport:
+
 - This is related to "choose simple solutions", or "complex systems are brittle", and "[[id:335314f6-0958-4d7e-a0bd-76b83bee3044][Don't make me think]]", and "people won't do X as often if X is hard", and "if X is complicated then there are more chances for it to go wrong"
+
 * Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

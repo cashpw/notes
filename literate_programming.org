@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5c82bd2b-141a-420f-8289-4fff9514b769
-:LAST_MODIFIED: [2023-12-07 Thu 06:19]
+:LAST_MODIFIED: [2024-01-09 Tue 08:06]
 :END:
 #+title: Literate programming
 #+hugo_custom_front_matter: :slug "5c82bd2b-141a-420f-8289-4fff9514b769"
@@ -25,14 +25,16 @@ Literate programming is a programming paradigm introduced in 1984 by Donald Knut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   237.37 | 2024-01-03T00:29:14Z |
+| front    | 2.50 |   8 |   589.89 | 2025-08-21T13:25:01Z |
 | back     | 1.30 |  11 |    66.96 | 2024-02-12T13:18:42Z |
 :END:
 
 [[id:5c82bd2b-141a-420f-8289-4fff9514b769][Literate programming]]
 
 *** Back
+
 A programming paradigm which intersperses source code in written natural language and provides a compilation path for the embedded source code.
+
 *** Source
 [cite:@LiterateProgramming2022]
 * Bibliography

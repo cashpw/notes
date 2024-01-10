@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       bf247454-b50e-448c-9c60-cee9b3969983
 :ROAM_REFS: [cite:@WillNoOneRidMeThisTurbulentPriest2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2024-01-09 Tue 08:12]
 :END:
 #+title: Will no one rid me of this turbulent priest?
 #+hugo_custom_front_matter: :slug "bf247454-b50e-448c-9c60-cee9b3969983"
@@ -29,14 +29,16 @@ Will no one rid me of this turbulent priest?
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   230.28 | 2024-01-04T23:15:20Z |
+| front    | 2.50 |   8 |   579.31 | 2025-08-10T23:39:12Z |
 | back     | 2.65 |   7 |   316.38 | 2024-05-19T09:21:41Z |
 :END:
 
 [[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbulent priest?]]
 
 *** Back
+
 A call for [[id:774196ec-f2f7-48d1-b3f9-e7c253378746][Stochastic terrorism]] by Henry the Second of England against the church.
+
 *** Source
 [cite:@WillNoOneRidMeThisTurbulentPriest2022]
 * Bibliography

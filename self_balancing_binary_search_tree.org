@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b3fc99fa-5b7e-4e45-83c2-6d283aecca9a
 :ROAM_ALIASES: "Self-balancing binary search trees"
-:LAST_MODIFIED: [2023-12-15 Fri 07:42]
+:LAST_MODIFIED: [2024-01-09 Tue 08:16]
 :END:
 #+title: Self-balancing binary search tree
 #+hugo_custom_front_matter: :slug "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
@@ -32,13 +32,14 @@ In computer science, a self-balancing binary search tree (BST) is any node-based
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |  10 |    36.40 | 2024-01-07T02:16:47Z |
+| back     | 1.30 |   0 |     0.00 | 2024-01-09T16:16:09Z |
 | front    | 2.60 |  10 |   741.92 | 2025-12-26T13:44:19Z |
 :END:
 
 [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]
 
 *** Back
+
 A node-based [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] which automatically keeps its height small after an arbitrary number of insertions and deletions.
 
 *** Source

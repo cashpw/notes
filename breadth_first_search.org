@@ -2,7 +2,7 @@
 :ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
 :ROAM_REFS: [cite:@BreadthfirstSearch2022]
 :ROAM_ALIASES: BFS
-:LAST_MODIFIED: [2023-11-14 Tue 07:17]
+:LAST_MODIFIED: [2024-01-09 Tue 08:20]
 :END:
 #+title: Breadth-first search
 #+hugo_custom_front_matter: :slug "cff4f06c-6179-423d-aa1d-ba54d85615e2"
@@ -136,7 +136,7 @@ Computer science
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   8 |   146.97 | 2023-12-30T14:54:01Z |
+|        0 | 1.90 |   9 |   294.60 | 2024-10-30T06:43:33Z |
 :END:
 *** Extra
 *** Source

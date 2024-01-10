@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@StringLiteral2022]
 :ID:       7cf9c5ed-29ac-4f1a-a88c-61253c72c5b8
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2024-01-09 Tue 08:21]
 :END:
 #+title: String literal
 #+hugo_custom_front_matter: :slug "7cf9c5ed-29ac-4f1a-a88c-61253c72c5b8"
@@ -27,7 +27,7 @@ A string literal or anonymous string is a string value in the source code of a c
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.25 |   7 |   470.72 | 2024-09-16T21:34:01Z |
-| back     | 2.50 |   7 |   233.42 | 2024-01-02T02:45:53Z |
+| back     | 2.50 |   8 |   561.39 | 2025-07-24T01:39:53Z |
 :END:
 
 [[id:7cf9c5ed-29ac-4f1a-a88c-61253c72c5b8][String literal]]

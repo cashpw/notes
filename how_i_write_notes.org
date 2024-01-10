@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       5140bc26-825e-4e26-aec6-3738a5fe2ab1
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2024-01-09 Tue 19:20]
 :END:
 #+title: How I write notes
 #+hugo_custom_front_matter: :slug "5140bc26-825e-4e26-aec6-3738a5fe2ab1"
@@ -19,9 +19,5 @@
 Also see [[id:7add4362-8a4e-4148-ac25-185213327b33][Why I write notes]].
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 * Bibliography
 #+print_bibliography:

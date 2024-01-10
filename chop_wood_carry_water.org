@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       465e012a-7d64-4f19-8f52-f872ba68680c
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2024-01-09 Tue 08:21]
 :END:
 #+title: Chop wood, carry water
 #+hugo_custom_front_matter: :slug "465e012a-7d64-4f19-8f52-f872ba68680c"
@@ -30,7 +30,7 @@ Zen Proverb
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   8 |   180.22 | 2024-01-06T20:54:34Z |
+|        0 | 1.90 |   9 |   368.83 | 2025-01-12T12:12:09Z |
 :END:
 
 *** Source

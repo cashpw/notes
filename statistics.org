@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-01-08 Mon 08:19]
+:LAST_MODIFIED: [2024-01-09 Tue 08:15]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -45,7 +45,7 @@ A model that captures the relationship between $Y$ and $X$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   9 |   300.87 | 2024-01-08T11:59:29Z |
+|        0 | 2.20 |  10 |   611.64 | 2025-09-12T07:30:57Z |
 :END:
 
 *** Extra
@@ -1082,7 +1082,7 @@ Population mean
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   2 |     2.00 | 2024-01-02T18:30:52Z |
+|        0 | 1.60 |   3 |     6.00 | 2024-01-15T16:15:01Z |
 :END:
 
 - {{$s^2$}@0}

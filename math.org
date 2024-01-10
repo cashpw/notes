@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-01-08 Mon 08:18]
+:LAST_MODIFIED: [2024-01-09 Tue 08:15]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1022,7 +1022,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   2 |     2.00 | 2023-12-27T16:49:10Z |
+|        0 | 2.35 |   3 |     6.00 | 2024-01-15T16:15:19Z |
 |        1 | 2.80 |   8 |   412.38 | 2024-04-24T03:08:14Z |
 :END:
 
@@ -2546,13 +2546,14 @@ Unit ramp function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   3 |     6.00 | 2023-12-11T14:16:00Z |
+| back     | 2.20 |   4 |    12.36 | 2024-01-22T00:48:55Z |
 | front    | 2.80 |   8 |   341.44 | 2024-01-14T14:31:49Z |
 :END:
 
 Loss function
 
 *** Back
+
 A function that maps from events to real numbers which represent the "cost" associated with the event.
 
 *** Source

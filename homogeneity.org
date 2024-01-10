@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       65f61fff-628e-484a-baf5-785b37f7f28e
 :ROAM_REFS: [cite:@HomogeneousFunction2022]
-:LAST_MODIFIED: [2023-12-27 Wed 21:36]
+:LAST_MODIFIED: [2024-01-09 Tue 08:07]
 :END:
 #+title: Homogeneity
 #+hugo_custom_front_matter: :slug "65f61fff-628e-484a-baf5-785b37f7f28e"
@@ -36,7 +36,7 @@ $f(s\mathbf {v} )=s^{k}f(\mathbf {v})$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   3 |     6.00 | 2024-01-03T05:36:49Z |
+| back     | 1.30 |   4 |     7.62 | 2024-01-17T07:00:13Z |
 | front    | 2.60 |  11 |   319.12 | 2024-03-18T00:35:37Z |
 :END:
 

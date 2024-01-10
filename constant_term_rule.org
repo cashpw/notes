@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d37ecd9a-ade3-44f3-add3-5a124aad3fb2
 :ROAM_REFS: [cite:@DifferentiationRules2022]
-:LAST_MODIFIED: [2023-10-09 Mon 23:50]
+:LAST_MODIFIED: [2024-01-09 Tue 08:06]
 :END:
 #+title: Constant term rule
 #+hugo_custom_front_matter: :slug "d37ecd9a-ade3-44f3-add3-5a124aad3fb2"
@@ -28,7 +28,7 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   191.52 | 2024-01-06T05:35:40Z |
+| front    | 2.50 |   8 |   444.68 | 2025-03-29T08:22:57Z |
 | back     | 2.80 |   7 |   398.69 | 2024-10-28T06:05:12Z |
 :END:
 

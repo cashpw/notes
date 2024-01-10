@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       50751f5a-e3b9-48cb-9745-26b79a3d3fe9
 :ROAM_REFS: [cite:@SymmetricGame2022]
-:LAST_MODIFIED: [2023-10-06 Fri 00:36]
+:LAST_MODIFIED: [2024-01-09 Tue 08:14]
 :END:
 #+title: Symmetric game
 #+hugo_custom_front_matter: :slug "50751f5a-e3b9-48cb-9745-26b79a3d3fe9"
@@ -59,13 +59,14 @@ A game where the payoffs are independent of the person playing them -- the strat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   254.88 | 2024-01-08T19:46:01Z |
+| front    | 2.50 |   8 |   575.12 | 2025-08-06T19:06:07Z |
 | back     | 1.90 |   8 |   240.98 | 2024-04-24T13:22:53Z |
 :END:
 
 [[id:50751f5a-e3b9-48cb-9745-26b79a3d3fe9][Symmetric game]]
 
 *** Back
+
 - [[id:f6a0fed6-fb7a-4c5d-b4ba-4425cf31f44a][Chicken]]
 - [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]]
 - [[id:23bf567f-d642-4b20-93cf-9adf39789da2][Stag hunt]]
