@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4398317e-6aa1-4dd4-b2a5-6334256ca2cc
 :DIR:      /home/cashweaver/proj/roam/attachments/4398317e-6aa1-4dd4-b2a5-6334256ca2cc
-:LAST_MODIFIED: [2023-10-25 Wed 19:11]
+:LAST_MODIFIED: [2024-01-10 Wed 07:39]
 :END:
 #+title: Play to win
 #+hugo_custom_front_matter: :slug "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
@@ -18,6 +18,8 @@
 - https://commoncog.com/blog/playing-to-play-playing-to-win/
 - https://news.ycombinator.com/item?id=28608436
 - https://www.sirlin.net/articles/playing-to-win
+  - [cite:@sirlinIntroducingScrub2014]
+  - [cite:@sirlinPlayingWin]
 - Greedy algorithms
 - Local, rather than global, maxima
 - Unwritten rules or, perhaps another way of stating it, the penumbra of the rule set

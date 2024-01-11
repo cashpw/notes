@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ID:       6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf
 :ROAM_ALIASES: "Pottery inspiration"
-:LAST_MODIFIED: [2023-12-14 Thu 11:29]
+:LAST_MODIFIED: [2024-01-10 Wed 19:32]
 :END:
 #+title: Ceramic inspiration
 #+hugo_custom_front_matter: :slug "6c839f6a-f3df-4ad5-aa6f-0eeb5766ddaf"
 #+author: Cash Prokop-Weaver
 #+date: [2023-12-13 Wed 06:40]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
 #+begin_src emacs-lisp
 (cashpw/org-roam--get-gallery-heading-positions "gallery")
@@ -131,7 +131,48 @@
 :CITATION: [cite:@scaping-the-goatSuperDifficultForms2023]
 :END:
 
+* TODO Grab images for gallery :noexport:
 
+** TODO [#2] [[https://www.reddit.com/r/Ceramics/comments/17uvo39/prebisque_this_will_be_lit_from_within/][Pre-bisque, this will be lit from within]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-14 05:53]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/17yjh1u/parallel_line_carving_tool/][Parallel line carving tool??]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-18 23:41]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/17zgbnm/excited_about_my_newest_carved_piece/][Excited about my newest carved piece]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-20 04:31]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/17zwntt/ginkgo/][Ginkgo 🍂]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-20 19:28]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/180694t/new_to_pottery_what_am_i_doing_wrong_with_glazing/][New to pottery. What am I doing wrong with glazing? Inspo vs my piece]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-21 02:28]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Ceramics/comments/17xmtad/a_fellow_trapped_souls/][A fellow trapped souls]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-17 19:23]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/181cc9f/glaze_advice/][Glaze advice]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-22 15:54]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Ceramics/comments/183iv2a/how_to_achieve_this_effect/][How to achieve this effect?]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-25 12:36]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Ceramics/comments/183r0so/circling_fish_plate/][Circling fish plate]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-25 19:10]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/Pottery/comments/18648jf/might_be_my_favorite_piece_so_far_but/][might be my favorite piece so far, but…]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-11-28 19:22]
+:END:
 * Flashcards :noexport:
 
 * Bibliography
