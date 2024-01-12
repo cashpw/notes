@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-01-09 Tue 08:16]
+:LAST_MODIFIED: [2024-01-11 Thu 09:20]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -131,7 +131,7 @@ int foo(int bar) {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   7 |    73.28 | 2024-02-09T21:44:32Z |
-| back     |  2.5 |  -1 |        0 | 2023-05-04T23:28:36Z |
+| back     | 2.50 |   1 |     1.00 | 2024-01-12T17:20:50Z |
 :END:
 
 [[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Put-to operator]] (C++)

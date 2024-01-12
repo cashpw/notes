@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-01-09 Tue 08:14]
+:LAST_MODIFIED: [2024-01-11 Thu 09:19]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -133,7 +133,7 @@ A dislike of humankind.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.75 |   7 |    68.41 | 2024-01-11T00:51:42Z |
+| back     | 1.75 |   8 |   122.50 | 2024-05-13T05:21:22Z |
 | front    | 2.60 |  12 |   413.50 | 2024-11-01T03:08:33Z |
 :END:
 1. Forming a small remnant of something that was once much larger or more noticeable

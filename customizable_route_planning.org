@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2024-01-09 Tue 08:21]
+:LAST_MODIFIED: [2024-01-11 Thu 09:22]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -299,7 +299,7 @@ Stages of [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   7 |    92.84 | 2024-02-17T12:07:41Z |
-| back     | 2.50 |   4 |    14.58 | 2024-01-10T07:23:45Z |
+| back     | 2.50 |   5 |    32.81 | 2024-02-13T12:53:04Z |
 :END:
 
 Metric-independent pre-processing

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44df8020-9272-455c-91ea-268daf7c08d5
-:LAST_MODIFIED: [2023-09-08 Fri 09:23]
+:LAST_MODIFIED: [2024-01-11 Thu 09:34]
 :END:
 #+title: This is water
 #+hugo_custom_front_matter: :slug "44df8020-9272-455c-91ea-268daf7c08d5"
@@ -28,12 +28,13 @@ The point of the fish story is merely that the most obvious, important realities
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   8 |   209.94 | 2024-02-11T12:37:42Z |
-| back     | 2.65 |   6 |   119.39 | 2024-01-06T01:50:42Z |
+| back     | 2.65 |   7 |   339.85 | 2024-12-16T14:05:01Z |
 :END:
 
 [[id:44df8020-9272-455c-91ea-268daf7c08d5][This is water]]
 
 *** Back
+
 The most obvious and important realities are often the ones which are hardest to notice and to talk about.
 *** Source
 [cite:@davidfosterwallaceThisWater]

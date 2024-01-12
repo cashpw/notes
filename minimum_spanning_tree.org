@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       eb6b18c0-f0ff-45e9-a747-2b7516ddef52
-:LAST_MODIFIED: [2024-01-09 Tue 08:07]
+:LAST_MODIFIED: [2024-01-11 Thu 09:22]
 :ROAM_REFS: [cite:@MinimumSpanningTree2022]
 :END:
 #+title: Minimum spanning tree
@@ -213,12 +213,13 @@ If the minimum cost edge e of a graph is unique, then this edge is included in a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   6 |    72.84 | 2024-01-26T11:23:12Z |
-| back     | 1.45 |   8 |    63.14 | 2024-01-05T17:47:39Z |
+| back     | 1.45 |   9 |    85.43 | 2024-04-06T03:41:15Z |
 :END:
 
 Algorithms which generate a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]
 
 *** Back
+
 - [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]
 *** Source
 [cite:@MinimumSpanningTree2022]

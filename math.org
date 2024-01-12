@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-01-09 Tue 08:15]
+:LAST_MODIFIED: [2024-01-11 Thu 09:18]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1487,13 +1487,14 @@ A function defined on a set, $X$, that indicates membership in a subset of $X$, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   288.27 | 2023-10-17T10:40:07Z |
+| back     | 2.80 |   9 |   804.59 | 2026-03-26T07:34:01Z |
 | front    | 2.80 |   8 |   364.92 | 2024-02-26T14:03:52Z |
 :END:
 
 Infix notation
 
 *** Back
+
 A mathematical notation in which operands surround their operators.
 
 *** Extra

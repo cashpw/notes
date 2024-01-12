@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       054a9fb8-f19c-4bd6-8445-c5f8c3f30a25
-:LAST_MODIFIED: [2023-12-24 Sun 09:39]
+:LAST_MODIFIED: [2024-01-11 Thu 09:22]
 :END:
 #+title: Projection (Linear algebra)
 #+hugo_custom_front_matter: :slug "054a9fb8-f19c-4bd6-8445-c5f8c3f30a25"
@@ -60,7 +60,7 @@ Create notes for each of the links in the above quote. I think I have flashcards
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   403.50 | 2024-09-15T02:55:42Z |
-|        1 | 2.05 |   4 |    12.26 | 2024-01-06T00:00:26Z |
+|        1 | 2.05 |   5 |    25.67 | 2024-02-06T09:28:23Z |
 :END:
 
 {{$\operatorname{proj}_{\vec{b}}(\vec{a})$}@0} $=$ {{$\frac{\vec{a} \cdot \vec{b}}{\vec{b} \cdot \vec{b}}\vec{b}$}@1}

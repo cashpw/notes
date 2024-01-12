@@ -1,13 +1,13 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@yamadaFrierenJourneyEndVolume2022]
 :ID:       9bace508-65f0-4fd5-9c93-338ccea13c56
-:LAST_MODIFIED: [2023-12-14 Thu 12:49]
+:LAST_MODIFIED: [2024-01-11 Thu 18:32]
 :END:
 #+title: Kanehito Yamada | Frieren: Beyond Journey's End
 #+hugo_custom_front_matter: :slug "9bace508-65f0-4fd5-9c93-338ccea13c56"
 #+author: Cash Weaver
 #+date: [2023-12-07 Thu 06:43]
-#+filetags: :reference:
+#+filetags: :hastodo:reference:
 
 [[id:0348f865-551c-40ba-a46f-89d7b66af892][Kanehito Yamada]], [cite:@yamadaFrierenJourneyEndVolume2022]
 
@@ -17,6 +17,9 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 - Potential spoiler: I think the ending will be a "the real solution was the journey and the friends made along the way". Flamme's way of helping Frieren will have been to force her on another difficult quest on which she'll bond with and form friendships with her adventure party. I think such an ending is appropriate because her goal is exactly that --- to bond and learn about the people around her.
 - One of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
 - I enjoy the montage pages [[id:0348f865-551c-40ba-a46f-89d7b66af892][Yamada]] includes without dialog ([[file:2023-12-07_06-47-54_p.jpg][example of a montage page]])
+
+** TODO Relate this to Heiter's quote (in flashback?) about only pretending to be an adult for Fern
+*** TODO [#2] [[https://www.thecut.com/2023/11/adulthood-is-a-mirage.html][Adulthood Is a Mirage]]
 * Notes
 
 ** Spells
@@ -40,4 +43,7 @@ The journey after a journey. A reflection on relationships and time, love, loss,
 *** [[file:2023-12-09_07-18-11_p.jpg]]
 * Bibliography
 #+print_bibliography:
+:PROPERTIES:
+:CREATED: [2023-11-13 16:48]
+:END:
 * Flashcards :noexport:

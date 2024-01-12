@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       770dd4d3-6890-4db0-a9c0-868b0c1d9f92
+:LAST_MODIFIED: [2024-01-11 Thu 13:41]
+:END:
+#+title: Matcha latte
+#+hugo_custom_front_matter: :slug "770dd4d3-6890-4db0-a9c0-868b0c1d9f92"
+#+author: Cash Prokop-Weaver
+#+date: [2024-01-11 Thu 13:32]
+#+filetags: :recipe:
+
+* Ingredients
+
+#+begin_ingredients
+| Ingredients              | Notes | Quantity        |
+|--------------------------+-------+-----------------|
+| Milk                     |       | 0.75 cups       |
+| [[id:ad68b9dd-b196-405b-8e69-ee9437f0bed5][Matcha latte concentrate]] |       | 2.5 Tablespoons |
+#+end_ingredients
+
+* Steps
+
+1. (optional) Steam the milk if you want a hot latte; otherwise add ice to the cup
+2. Combine milk and concentrate
+
+* Flashcards :noexport:

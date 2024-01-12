@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-01-09 Tue 08:15]
+:LAST_MODIFIED: [2024-01-11 Thu 09:18]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -677,7 +677,7 @@ A set of eigenvectors of a vector space, $V$, which span $V$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   3 |     6.00 | 2023-12-30T17:31:45Z |
+| back     | 2.20 |   0 |     0.00 | 2024-01-11T17:18:52Z |
 | front    | 2.80 |   8 |   288.63 | 2023-10-24T06:40:23Z |
 :END:
 
