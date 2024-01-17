@@ -1,18 +1,22 @@
 :PROPERTIES:
 :ID:       ae90e912-84eb-4964-8795-a721cf7376fc
-:LAST_MODIFIED: [2024-01-11 Thu 18:35]
+:LAST_MODIFIED: [2024-01-14 Sun 06:11]
 :END:
 #+title: On negotiating
 #+hugo_custom_front_matter: :slug "ae90e912-84eb-4964-8795-a721cf7376fc"
 #+author: Cash Prokop-Weaver
 #+date: [2024-01-11 Thu 18:33]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
 A mega-note for all the negotiation related topics I want to keep for future reference. My goal is to collect thoughts here and split topics off into [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][atomic]] notes as such atomic concepts emerge.
 
 - [cite:@pxrage1personAgencyLessonsNegotiationYears2023]
 - https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start
 - [cite:@mckenzieSalaryNegotiationMakeMoreMoneyBeMoreValuedKalzumeusSoftware]
+* TODO [#2] [[https://www.reddit.com/r/cscareerquestions/comments/183sj2j/new_hire_will_earn_as_much_as_the_tech_lead_or/][New hire will earn as much as the Tech Lead, or maybe even more... How to get pay increase as high as 60%.]] :career:
+:PROPERTIES:
+:CREATED: [2023-11-25 20:19]
+:END:
 
 * Bibliography
 #+print_bibliography:

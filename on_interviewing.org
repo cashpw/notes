@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dab3f3c1-9065-40e9-ab93-a0fed22a4f25
+:LAST_MODIFIED: [2024-01-14 Sun 06:48]
+:END:
+#+title: On interviewing
+#+hugo_custom_front_matter: :slug "dab3f3c1-9065-40e9-ab93-a0fed22a4f25"
+#+author: Cash Prokop-Weaver
+#+date: [2024-01-14 Sun 06:41]
+#+filetags: :hastodo:concept:
+
+A mega-note for all the interviewing related topics I want to keep for future reference. My goal is to collect thoughts here and split topics off into [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][atomic]] notes as such atomic concepts emerge.
+
+* TODO [#3] Expand
+** TODO [#2] [[https://github.com/donnemartin/system-design-primer][GitHub – system-design-primer: Learn how to design large-scale systems]] :systems:software_engineering:
+:PROPERTIES:
+:CREATED: [2023-10-29 07:41]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/17dm8eg/interviewing_a_new_potential_boss/][Interviewing a new potential boss.]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-10-22 05:39]
+:END:
+* Flashcards :noexport:

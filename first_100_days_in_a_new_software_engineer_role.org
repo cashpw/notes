@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4bb10022-d6c2-4ad5-9513-03be3d26a54c
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2024-01-14 Sun 06:35]
 :END:
 #+title: First 100 days in a new software engineer role
 #+hugo_custom_front_matter: :slug "4bb10022-d6c2-4ad5-9513-03be3d26a54c"
@@ -58,6 +58,14 @@ Note that I'm counting working-days rather; so the first 100 days amounts to 20 
 - https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html
 
 
+* TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/17kr74h/starting_a_new_job_your_checklist/][Starting a new job, your checklist?]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2023-10-31 18:02]
+:END:
+* TODO [#2] [[https://www.reddit.com/r/cscareerquestions/comments/17kqovg/what_are_some_good_rules_of_thumb_when_starting_a/][What are some good rules of thumb when starting a new job?]] :career:
+:PROPERTIES:
+:CREATED: [2023-10-31 17:40]
+:END:
 * TODO [#3] Flashcards :noexport:
 * Bibliography
 #+print_bibliography:
