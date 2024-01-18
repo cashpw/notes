@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
-:LAST_MODIFIED: [2023-11-09 Thu 08:32]
+:LAST_MODIFIED: [2024-01-17 Wed 06:40]
 :END:
 #+title: Computer science
 #+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
@@ -96,7 +96,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   8 |   337.61 | 2024-01-15T06:10:31Z |
+|        0 | 2.80 |   9 |  1010.83 | 2026-10-24T10:38:04Z |
 |        1 | 2.25 |  14 |   340.44 | 2024-05-12T01:20:43Z |
 :END:
 

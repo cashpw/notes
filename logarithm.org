@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       68df1a7c-9c9f-42f1-b270-56ab4b51e214
 :ROAM_REFS: [cite:@Logarithm2022]
-:LAST_MODIFIED: [2023-12-19 Tue 14:45]
+:LAST_MODIFIED: [2024-01-17 Wed 06:49]
 :END:
 #+title: Logarithm
 #+hugo_custom_front_matter: :slug "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
@@ -27,7 +27,7 @@ In mathematics, the logarithm is the inverse function to exponentiation. That me
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   419.74 | 2024-04-21T09:38:06Z |
-| back     | 2.80 |  10 |   326.77 | 2024-01-06T08:44:17Z |
+| back     | 2.65 |  11 |   826.62 | 2026-04-23T05:38:47Z |
 :END:
 
 $f(x) = \log_b(x)$

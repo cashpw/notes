@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-01-08 Mon 08:22]
+:LAST_MODIFIED: [2024-01-17 Wed 06:47]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -554,7 +554,7 @@ Heuristics for choosing the order to contract vertices.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   3 |     6.00 | 2024-01-03T05:42:42Z |
+| front    | 2.20 |   4 |    12.42 | 2024-01-30T00:57:25Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-16T23:22:44Z |
 :END:
 

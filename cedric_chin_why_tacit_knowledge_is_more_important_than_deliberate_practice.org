@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
 :ID:       bcba3e46-9cde-4555-accb-ec73e4f0fc4c
-:LAST_MODIFIED: [2023-11-15 Wed 07:27]
+:LAST_MODIFIED: [2024-01-17 Wed 06:52]
 :END:
 #+title: Cedric Chin | Why Tacit Knowledge Is More Important Than Deliberate Practice
 #+hugo_custom_front_matter: :slug "bcba3e46-9cde-4555-accb-ec73e4f0fc4c"
@@ -171,14 +171,16 @@ If tacit knowledge exists --- and I believe it does --- then the most useful too
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    60.85 | 2024-01-13T12:53:48Z |
+| front    | 2.20 |   7 |   130.48 | 2024-05-27T02:25:07Z |
 :END:
 
 [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] and [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]
 
 *** Back
+
 - [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]] is only possible in domains with long pedagogical histories (e.g. math or music)
 - [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]] exists in /all/ domains, is difficult to scale, but is more useful
+
 *** Source
 [cite:@chinWhyTacitKnowledgeMoreImportantDeliberatePractice2020]
 * Bibliography

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SmartGuyProductivityPitfalls]
 :ID:       9ed16182-a4a5-4bf6-a5c7-b6196c6eca97
-:LAST_MODIFIED: [2023-11-17 Fri 07:51]
+:LAST_MODIFIED: [2024-01-17 Wed 06:52]
 :END:
 #+title: Smart Guy Productivity Pitfalls
 #+hugo_custom_front_matter: :slug "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
@@ -125,12 +125,13 @@ I disagree with the author's assessment that solutions such as "turning off the 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   230.58 | 2024-07-05T05:39:18Z |
-| back     | 2.20 |   6 |    70.05 | 2024-01-12T15:46:56Z |
+| back     | 2.20 |   7 |   144.31 | 2024-06-09T22:24:57Z |
 :END:
 
 [[id:9ed16182-a4a5-4bf6-a5c7-b6196c6eca97][Smart Guy Productivity Pitfalls]]
 
 *** Back
+
 - "Work smart, not hard" is better phrased as: "Work smart *and* hard"
 - Don't waste your effort but recognize you *still need to put in effort*
 - An overinflated sense of your own abilities creates a constant state of production deficit, because you assume that you can make it up with a burst of brilliance and/or crunch.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-01-11 Thu 09:19]
+:LAST_MODIFIED: [2024-01-17 Wed 06:49]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -682,7 +682,7 @@ Having a harmful effect, especially in a gradual or subtle way
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   207.22 | 2024-01-29T19:56:17Z |
-| back     | 2.65 |   6 |   104.72 | 2023-09-19T07:47:57Z |
+| back     | 2.65 |   7 |   276.97 | 2024-10-20T14:04:45Z |
 :END:
 Movement away from the body's midline.
 *** Source

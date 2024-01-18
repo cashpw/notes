@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-01-11 Thu 09:20]
+:LAST_MODIFIED: [2024-01-17 Wed 06:53]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -210,7 +210,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   7 |   189.29 | 2024-06-15T00:37:36Z |
-|        1 | 2.50 |   2 |     2.00 | 2024-01-02T18:33:18Z |
+|        1 | 2.35 |   3 |     6.00 | 2024-01-23T14:53:47Z |
 :END:
 
 - {{[[id:3eb13661-f8fc-4e19-9736-f5569efdf854][Put-to operator]]}@0}

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc
 :ROAM_REFS: [cite:@IntervalMathematics2022]
-:LAST_MODIFIED: [2024-01-11 Thu 09:22]
+:LAST_MODIFIED: [2024-01-17 Wed 06:57]
 :ROAM_ALIASES: "Open interval" "Closed interval"
 :END:
 #+title: Interval
@@ -50,7 +50,7 @@ Closed interval
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   8 |   307.15 | 2024-01-13T04:00:18Z |
+|        0 | 2.35 |   9 |   653.38 | 2025-11-01T00:09:54Z |
 |        1 | 2.80 |   7 |   351.40 | 2024-05-17T01:14:41Z |
 :END:
 

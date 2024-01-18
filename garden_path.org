@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3f513197-b379-4b8b-b918-21100005e18a
-:LAST_MODIFIED: [2023-12-05 Tue 06:37]
+:LAST_MODIFIED: [2024-01-17 Wed 06:58]
 :END:
 #+title: Garden path
 #+hugo_custom_front_matter: :slug "3f513197-b379-4b8b-b918-21100005e18a"
@@ -69,7 +69,7 @@ In a garden path scenario a parson is lead to accept a proposition that seems ob
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   6 |    66.02 | 2024-02-05T17:07:15Z |
-| back     | 2.50 |   5 |    33.98 | 2024-01-08T14:11:15Z |
+| back     | 2.50 |   6 |    87.11 | 2024-04-13T17:40:37Z |
 :END:
 
 To lead someone down/up the [[id:3f513197-b379-4b8b-b918-21100005e18a][Garden path]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2024-01-11 Thu 09:22]
+:LAST_MODIFIED: [2024-01-17 Wed 06:53]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -844,7 +844,7 @@ Pronounced: /thee-tah, th-ay-tah/
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |   7 |   261.09 | 2024-05-07T01:41:55Z |
-|        1 | 2.65 |   8 |   321.48 | 2024-01-12T15:37:34Z |
+|        1 | 2.65 |   9 |   932.65 | 2026-08-07T06:26:38Z |
 :END:
 
 *** Extra
