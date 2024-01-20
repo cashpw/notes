@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2024-01-17 Wed 06:57]
+:LAST_MODIFIED: [2024-01-19 Fri 08:13]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -150,7 +150,7 @@ Amount of time required to push all the packet's bits into the link, which is a 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   6 |    44.59 | 2024-01-19T04:44:48Z |
+| front    | 1.90 |   7 |    85.19 | 2024-04-13T20:52:26Z |
 | back     | 2.35 |   7 |   183.35 | 2024-06-09T01:58:49Z |
 :END:
 

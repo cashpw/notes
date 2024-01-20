@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2024-01-17 Wed 06:54]
+:LAST_MODIFIED: [2024-01-19 Fri 08:18]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -219,7 +219,7 @@ A huge company with an excellent reputation.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   9 |   334.99 | 2024-01-18T03:02:04Z |
+|        0 | 2.80 |  10 |   998.35 | 2026-10-14T00:49:18Z |
 :END:
 * Bibliography
 #+print_bibliography:

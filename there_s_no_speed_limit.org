@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d737d99b-5154-41f2-8b31-7c3ba860d4e0
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2024-01-19 Fri 08:15]
 :END:
 #+title: There's no speed limit
 #+hugo_custom_front_matter: :slug "d737d99b-5154-41f2-8b31-7c3ba860d4e0"
@@ -23,14 +23,16 @@ A [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]] strategy.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   233.59 | 2024-01-19T06:16:38Z |
+| front    | 2.50 |   8 |   595.28 | 2025-09-05T23:04:07Z |
 | back     | 2.80 |   7 |   309.32 | 2024-04-20T23:21:33Z |
 :END:
 
 [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]]
 
 *** Back
+
 Accepted wisdom around how long something takes to accomplish is based on the general case. You don't have to be the general case.
+
 *** Source
 [cite:@siversThereNoSpeedLimit2009]
 * Bibliography

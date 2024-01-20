@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID: c93dd7bb-1281-4651-863e-679d10a29984
-:LAST_MODIFIED: [2023-10-20 Fri 06:58]
+:LAST_MODIFIED: [2024-01-18 Thu 20:56]
 :END:
 #+title: Silence
 #+hugo_custom_front_matter: :slug "c93dd7bb-1281-4651-863e-679d10a29984"
@@ -8,6 +8,7 @@
 #+date: [2023-10-20 Fri 06:57]
 #+filetags: :concept:
 
-
 * Bibliography
 #+print_bibliography:
+
+* Flashcards :noexport:

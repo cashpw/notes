@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       272be2b9-20b1-4fb2-8933-33a8052f001e
-:LAST_MODIFIED: [2024-01-17 Wed 06:47]
+:LAST_MODIFIED: [2024-01-19 Fri 08:12]
 :ROAM_REFS: [cite:@asluniversityNumbersASLAmericanSignLanguage]
 :END:
 #+title: American sign language: Numbers
@@ -183,7 +183,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2024-01-14T16:19:17Z |
+| front    | 2.35 |   4 |    15.22 | 2024-02-03T21:26:59Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-31T18:43:24Z |
 :END:
 

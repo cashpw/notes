@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2024-01-17 Wed 06:52]
+:LAST_MODIFIED: [2024-01-19 Fri 08:16]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -225,7 +225,7 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   125.39 | 2024-01-18T00:13:01Z |
+| front    | 2.20 |   8 |   277.26 | 2024-10-22T22:35:33Z |
 | back     | 2.50 |   6 |    98.61 | 2024-03-12T05:37:23Z |
 :END:
 
@@ -234,6 +234,7 @@ This layer provides node-to-node data transfer (e.g. network switch to network s
 *** Back
 
 This layer provides functional and procedural means of transferring packets from one node to another connected in "different networks".
+
 *** Source
 [cite:@OSIModel2023]
 ** Compare and contrast :fc:

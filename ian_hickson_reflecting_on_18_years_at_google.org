@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@hicksonReflecting18YearsGoogle]
+:ID:       2b45df36-a0b4-4de6-81fd-4e3823557164
+:LAST_MODIFIED: [2024-01-19 Fri 19:52]
+:END:
+#+title: Ian Hickson | Reflecting on 18 Years at Google
+#+hugo_custom_front_matter: :slug "2b45df36-a0b4-4de6-81fd-4e3823557164"
+#+author: Cash Weaver
+#+date: [2024-01-19 Fri 19:47]
+#+filetags: :hastodo:reference:
+
+[[id:e8909f4a-6f9f-4846-bdec-3a8cfe0d0b94][Ian Hickson]], [cite:@hicksonReflecting18YearsGoogle]
+
+* TODO Summary
+* TODO Thoughts
+- [[https://news.ycombinator.com/item?id=38381573][Discussion on hacker news]]
+- A [[id:479d79c7-3ee4-435f-b5bf-e035a49676d5][Layoff letter]].
+* TODO [#1] Notes
+* Bibliography
+#+print_bibliography:
+* TODO [#2] Flashcards :noexport:

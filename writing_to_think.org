@@ -2,7 +2,7 @@
 :ID:       bfc1e54d-2c91-4514-ad99-54e6494268bb
 :DIR:      /home/cashweaver/proj/roam/attachments/bfc1e54d-2c91-4514-ad99-54e6494268bb
 :ROAM_ALIASES: "Write to think"
-:LAST_MODIFIED: [2023-10-26 Thu 19:28]
+:LAST_MODIFIED: [2024-01-18 Thu 20:45]
 :END:
 #+title: Writing to think
 #+hugo_custom_front_matter: :slug "bfc1e54d-2c91-4514-ad99-54e6494268bb"
@@ -12,6 +12,9 @@
 #+filetags: :hastodo:
 
 * TODO [#3] Expand
+:PROPERTIES:
+:ID:       15278abd-2cfd-42b6-a927-91f18c7a26b1
+:END:
 
 See:
 
@@ -24,6 +27,7 @@ See:
 * TODO [#3] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
+:ID:       7e56c0f4-702a-4110-9fae-ec335070c568
 :END:
 
 

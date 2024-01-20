@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2024-01-09 Tue 08:07]
+:LAST_MODIFIED: [2024-01-19 Fri 09:52]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -26,12 +26,9 @@ In order from least complex to most complex:
 5. Synthesis
 6. Evaluation
 
-#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/7/72/BloomsTaxonomy.png @ 2021-12-31 12:30:10
-[[file:2021-12-31_12-30-10_BloomsTaxonomy.png]]
-
 * Revised taxonomy
 
-Bloom proposed a revision in 2001 ([cite:@andersonTaxonomyLearningTeachingAssessingRevisionBloomTaxonomyEducationalObjectives2001]).
+Bloom proposed a revision in 2001 [cite:@andersonTaxonomyLearningTeachingAssessingRevisionBloomTaxonomyEducationalObjectives2001].
 
 #+begin_quote
 #+DOWNLOADED: https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg @ 2022-11-15 06:48:11
@@ -87,6 +84,7 @@ Summarize the identifying characteristics of a Golden Delicious apple and a Gran
 
 #+begin_quote
 [...] involves using acquired knowledge to solve problems in new situations. This involves applying acquired knowledge, facts, techniques and rules. Learners should be able to use prior knowledge to solve problems, identify connections and relationships and how they apply in new situations.
+
 [cite:@BloomTaxonomy2022]
 #+end_quote
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2024-01-17 Wed 06:43]
+:LAST_MODIFIED: [2024-01-19 Fri 08:13]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -32,6 +32,8 @@ This isn't the first time I've seen these concepts (e.g. [[id:82d1d3b6-dd55-43bf
 :NOTER_PAGE: (5 . 0.090909)
 :ID:       630c804a-cef5-42e6-a168-5a233a0acbed
 :END:
+
+Also see [[id:fb16dedc-15d0-418a-83e2-0ed84e5e2504][Just do it]].
 
 #+begin_quote
 You have a task that cannot wait until you have all the information about it to begin. It may be time sensitive, you may have a deadline, or part of the task may be to identify its parts. Most important, you feel internal or external pressure to begin and have some level of confidence about the task's overall direction.
@@ -814,7 +816,7 @@ Schedule important work for the time of day when you are most productive/alert/e
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   254.99 | 2024-01-10T18:33:57Z |
+| front    | 2.35 |   8 |   559.58 | 2025-08-01T06:03:34Z |
 | back     | 2.80 |   7 |   273.00 | 2024-02-14T12:26:41Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7fbcef27-68c4-4793-8fc0-e10114318765
-:LAST_MODIFIED: [2023-09-14 Thu 08:06]
+:LAST_MODIFIED: [2024-01-19 Fri 08:15]
 :END:
 #+title: Selection algorithm
 #+hugo_custom_front_matter: :slug "7fbcef27-68c4-4793-8fc0-e10114318765"
@@ -48,7 +48,7 @@ In computer science, a selection algorithm is an algorithm for finding the kth s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   125.00 | 2024-01-17T15:11:05Z |
+| front    | 2.05 |   8 |   237.86 | 2024-09-13T12:49:41Z |
 | back     | 2.05 |   8 |   263.37 | 2024-05-15T23:46:46Z |
 :END:
 

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@collins-sussmanCultureChangeGoogle]
+:ID:       c1a1a577-4b0b-4ac7-8375-21861cdd321e
+:LAST_MODIFIED: [2024-01-19 Fri 19:55]
+:END:
+#+title: Ben Collins-Sussman | Culture Change at Google
+#+hugo_custom_front_matter: :slug "c1a1a577-4b0b-4ac7-8375-21861cdd321e"
+#+author: Cash Weaver
+#+date: [2024-01-19 Fri 19:54]
+#+filetags: :hastodo:reference:
+
+[[id:d21b7711-9534-4389-95ab-0bcb8411d7ee][Ben Collins-Sussman]], [cite:@collins-sussmanCultureChangeGoogle]
+
+* TODO Summary
+* TODO Thoughts
+- [[https://news.ycombinator.com/item?id=39051655][Discussion on hacker news]]
+- A [[id:479d79c7-3ee4-435f-b5bf-e035a49676d5][Layoff letter]].
+* TODO [#1] Notes
+* Bibliography
+#+print_bibliography:
+* TODO [#2] Flashcards :noexport:

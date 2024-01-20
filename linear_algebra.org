@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-01-17 Wed 06:43]
+:LAST_MODIFIED: [2024-01-19 Fri 08:11]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1012,7 +1012,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   1 |     1.00 | 2024-01-09T16:17:36Z |
+|        0 | 2.20 |   2 |     2.00 | 2024-01-21T16:11:47Z |
 |        1 | 2.35 |   3 |     6.00 | 2023-07-20T13:16:05Z |
 :END:
 
