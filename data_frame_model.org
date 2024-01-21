@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2024-01-17 Wed 06:45]
+:LAST_MODIFIED: [2024-01-20 Sat 12:28]
 :ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
@@ -81,7 +81,7 @@ Interpreted, imperfect, signals of events
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   4 |    15.66 | 2024-01-24T08:09:05Z |
-| back     | 2.50 |   3 |     6.00 | 2024-01-06T18:25:56Z |
+| back     | 2.35 |   4 |    12.83 | 2024-02-02T16:28:32Z |
 :END:
 
 Frame(s)

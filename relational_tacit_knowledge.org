@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       146ab42b-21a9-4d5a-85fe-2eba12347ca5
-:LAST_MODIFIED: [2024-01-09 Tue 08:16]
+:LAST_MODIFIED: [2024-01-20 Sat 12:16]
 :END:
 #+title: Relational tacit knowledge
 #+hugo_custom_front_matter: :slug "146ab42b-21a9-4d5a-85fe-2eba12347ca5"
@@ -72,7 +72,7 @@ In principle, one could make all {{[[id:146ab42b-21a9-4d5a-85fe-2eba12347ca5][Re
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   6 |    65.63 | 2024-01-20T06:24:25Z |
+| front    | 2.20 |   7 |   130.53 | 2024-05-30T09:00:32Z |
 | back     | 2.35 |   6 |    79.01 | 2024-03-28T16:28:19Z |
 :END:
 

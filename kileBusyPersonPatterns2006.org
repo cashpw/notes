@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2024-01-19 Fri 08:13]
+:LAST_MODIFIED: [2024-01-20 Sat 12:18]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -682,7 +682,7 @@ Isolate important tasks and perform them separately, without multitasking, so yo
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   284.33 | 2024-02-22T00:26:42Z |
-| back     | 1.75 |   8 |   182.29 | 2024-01-12T07:48:41Z |
+| back     | 1.45 |   0 |     0.00 | 2024-01-20T20:18:55Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
@@ -690,6 +690,7 @@ Isolate important tasks and perform them separately, without multitasking, so yo
 [[id:aa27e79d-c327-42ad-af7f-2455aaee9c48][Seek clarification]]
 
 *** Back
+
 Ensure you have the requisite information to start the task. This doesn't mean you'll have answers for /everything/ related to the task -- there will still be some level of ambiguity.
 *** Source
 [cite:@kileBusyPersonPatterns2006]

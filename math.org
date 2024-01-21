@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-01-19 Fri 08:13]
+:LAST_MODIFIED: [2024-01-20 Sat 12:11]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1696,7 +1696,7 @@ A structure-preserving map from one mathematical structure to another of the sam
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   9 |   308.27 | 2024-01-12T09:32:53Z |
+| back     | 2.35 |  10 |   701.48 | 2025-12-22T07:48:12Z |
 | front    | 3.10 |   7 |   372.33 | 2024-08-07T22:49:07Z |
 :END:
 

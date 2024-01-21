@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b17c08ec-80de-45e5-8a8e-529b0f31142c
-:LAST_MODIFIED: [2023-12-04 Mon 07:09]
+:LAST_MODIFIED: [2024-01-20 Sat 12:33]
 :END:
 #+title: Proximate cause
 #+hugo_custom_front_matter: :slug "b17c08ec-80de-45e5-8a8e-529b0f31142c"
@@ -26,12 +26,13 @@ A proximate cause is an event which is closest to, or immediately responsible fo
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   274.91 | 2024-04-10T13:28:51Z |
-| back     | 2.50 |   7 |   208.60 | 2024-01-11T05:58:20Z |
+| back     | 2.50 |   8 |   481.21 | 2025-05-16T01:38:00Z |
 :END:
 
 [[id:b17c08ec-80de-45e5-8a8e-529b0f31142c][Proximate cause]]
 
 *** Back
+
 A cause for an event which is closest to, or immediately responsible for, some observed result
 *** Source
 [cite:@ProximateUltimateCausation2022]

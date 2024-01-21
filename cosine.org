@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8f39b616-dc89-4597-b689-c65aecde4a05
-:LAST_MODIFIED: [2023-12-31 Sun 10:19]
+:LAST_MODIFIED: [2024-01-20 Sat 12:18]
 :END:
 #+title: Cosine
 #+hugo_custom_front_matter: :slug "8f39b616-dc89-4597-b689-c65aecde4a05"
@@ -86,7 +86,7 @@ Graph \(f(x) = \cos(x)\)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.35 |   7 |   161.32 | 2024-01-13T23:09:44Z |
+|        0 | 2.35 |   8 |   359.56 | 2025-01-14T09:40:09Z |
 |        1 | 2.65 |   7 |   275.93 | 2024-08-05T12:57:25Z |
 :END:
 *** Source

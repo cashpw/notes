@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       ef6148e5-0f53-4535-89fa-1f67b3c557b7
 :ROAM_REFS: [cite:@nandaMeaningfulRest]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2024-01-20 Sat 12:35]
 :END:
 #+title: Meaningful rest
 #+hugo_custom_front_matter: :slug "ef6148e5-0f53-4535-89fa-1f67b3c557b7"
@@ -68,14 +68,16 @@ A type of rest which rejuvenates the individual.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   260.99 | 2024-01-17T23:15:54Z |
+| front    | 2.65 |   8 |   720.43 | 2026-01-10T06:57:40Z |
 :END:
 
 [[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] and default actions
 
 *** Back
-- Activities which provide [[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] leaves one feeling rejuvenated but are usually less desirable when you're tired
+
+- Activities which provide [[id:ef6148e5-0f53-4535-89fa-1f67b3c557b7][Meaningful rest]] leave one feeling rejuvenated but are usually less desirable when you're tired
 - Default actions are the rest activities you "reflexively reach for" but are also likely to be those which don't rejuvenate you
+
 *** Source
 [cite:@nandaMeaningfulRest]
 * Bibliography

@@ -2,7 +2,7 @@
 :ID:       d0894b60-0827-4644-9d21-f6ae9c9e5041
 :ROAM_ALIASES: "Invertible matrix" "Non-degenerate matrix"
 :ROAM_REFS: [cite:@InvertibleMatrix2022]
-:LAST_MODIFIED: [2023-12-24 Sun 09:37]
+:LAST_MODIFIED: [2024-01-20 Sat 12:33]
 :END:
 #+title: Non-singular matrix
 #+hugo_custom_front_matter: :slug "d0894b60-0827-4644-9d21-f6ae9c9e5041"
@@ -27,7 +27,7 @@ A [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] \(A\) for which there is a
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |  13 |   416.52 | 2024-06-18T11:20:41Z |
 |        1 | 2.65 |   8 |   351.40 | 2024-02-24T12:29:32Z |
-|        2 | 2.50 |   4 |    16.02 | 2024-01-09T18:11:33Z |
+|        2 | 2.50 |   5 |    39.30 | 2024-02-29T03:51:38Z |
 :END:
 
 - {{[[id:d0894b60-0827-4644-9d21-f6ae9c9e5041][Non-singular matrix]]}@0}

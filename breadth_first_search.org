@@ -2,7 +2,7 @@
 :ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
 :ROAM_REFS: [cite:@BreadthfirstSearch2022]
 :ROAM_ALIASES: BFS
-:LAST_MODIFIED: [2024-01-09 Tue 08:20]
+:LAST_MODIFIED: [2024-01-20 Sat 12:28]
 :END:
 #+title: Breadth-first search
 #+hugo_custom_front_matter: :slug "cff4f06c-6179-423d-aa1d-ba54d85615e2"
@@ -72,7 +72,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   257.53 | 2024-01-11T11:34:23Z |
+| front    | 2.50 |   8 |   674.85 | 2025-11-25T16:51:12Z |
 :END:
 
 *** Context

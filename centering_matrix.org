@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       87b4549f-d8f7-44ec-b11e-4fa14166f157
-:LAST_MODIFIED: [2024-01-17 Wed 06:58]
+:LAST_MODIFIED: [2024-01-20 Sat 12:31]
 :END:
 #+title: Centering matrix
 #+hugo_custom_front_matter: :slug "87b4549f-d8f7-44ec-b11e-4fa14166f157"
@@ -29,7 +29,7 @@ In mathematics and multivariate statistics, the centering matrix is a [[id:30dd1
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |  14 |   569.22 | 2025-01-17T22:31:39Z |
-|        1 | 2.05 |   7 |    72.02 | 2024-01-14T15:05:55Z |
+|        1 | 2.05 |   8 |   155.55 | 2024-06-24T09:47:09Z |
 :END:
 
 [[id:87b4549f-d8f7-44ec-b11e-4fa14166f157][Centering matrix]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-01-19 Fri 08:15]
+:LAST_MODIFIED: [2024-01-20 Sat 12:13]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -741,7 +741,7 @@ Store a pointer to the contracted node, $v$, whenever we contract $u, v, w$ into
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   1 |     1.00 | 2023-12-27T17:27:31Z |
+| front    | 2.20 |   2 |     2.00 | 2024-01-22T20:13:34Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-20T15:44:41Z |
 :END:
 

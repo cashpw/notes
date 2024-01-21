@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d
-:LAST_MODIFIED: [2023-12-14 Thu 07:15]
+:LAST_MODIFIED: [2024-01-20 Sat 12:37]
 :END:
 #+title: No half measures
 #+hugo_custom_front_matter: :slug "b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d"
@@ -38,7 +38,7 @@ Related [[id:9e9ec4a3-93b8-4e7e-ba20-dbf557d989cb][Nate Soares | Half-Assing It 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   186.82 | 2024-06-18T11:02:39Z |
-| back     | 2.50 |   6 |    98.48 | 2024-01-19T18:22:29Z |
+| back     | 2.35 |   7 |   218.31 | 2024-08-26T04:09:57Z |
 :END:
 
 [[id:b4b247dc-bca3-4368-8e0d-f8bf2e0e5c0d][No half measures]]

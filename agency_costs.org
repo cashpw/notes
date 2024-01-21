@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0cb1f49e-83a7-43ce-a32f-7ba772e7686c
-:LAST_MODIFIED: [2024-01-08 Mon 08:28]
+:LAST_MODIFIED: [2024-01-20 Sat 12:32]
 :ROAM_REFS: [cite:@AgencyCost2022]
 :END:
 #+title: Agency costs
@@ -74,15 +74,17 @@ Why [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]] exist
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   210.56 | 2024-01-23T05:48:19Z |
-| back     | 2.20 |   6 |    68.16 | 2024-01-10T18:32:37Z |
+| back     | 2.20 |   7 |   157.60 | 2024-06-26T11:00:29Z |
 :END:
 
 Types of [[id:0cb1f49e-83a7-43ce-a32f-7ba772e7686c][Agency costs]]
 
 *** Back
+
 - [[id:76f1aa23-b553-4eca-9e18-7b038f444dbb][Monitoring costs]]: Costs borne by principal
 - [[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]: Costs borne by agent
 - [[id:c65bf1a1-0c55-4361-afc9-34fa828ecd83][Residual costs]]: Costs due to agent acts contrary to the best interest of their principal
+
 *** Source
 [cite:@AgencyCost2022]
 * Bibliography

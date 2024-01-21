@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-01-19 Fri 08:18]
+:LAST_MODIFIED: [2024-01-20 Sat 12:12]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -848,7 +848,7 @@ An amateur, someone who dabbles in a field out of casual interest rather than as
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    14.52 | 2024-01-08T06:00:35Z |
+| front    | 2.50 |   5 |    32.98 | 2024-02-22T19:41:30Z |
 | back     | 2.50 |   2 |     2.00 | 2024-01-02T18:19:38Z |
 :END:
 

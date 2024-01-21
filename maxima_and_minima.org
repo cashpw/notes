@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2023-12-26 Tue 09:23]
+:LAST_MODIFIED: [2024-01-20 Sat 12:34]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -230,7 +230,7 @@ The largest output of a function over some subset of the domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   8 |   326.56 | 2024-01-19T05:56:20Z |
+|        0 | 2.80 |   9 |   942.83 | 2026-08-20T16:33:36Z |
 |        1 | 2.65 |   9 |   569.66 | 2025-02-12T19:49:52Z |
 :END:
 

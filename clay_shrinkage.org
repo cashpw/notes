@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ba4b74e8-2d33-43ec-bd03-b9ff320ed65a
-:LAST_MODIFIED: [2024-01-08 Mon 08:24]
+:LAST_MODIFIED: [2024-01-20 Sat 12:35]
 :END:
 #+title: Clay shrinkage
 #+hugo_custom_front_matter: :slug "ba4b74e8-2d33-43ec-bd03-b9ff320ed65a"
@@ -120,7 +120,7 @@ The weight loss between [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]] a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        1 | 2.50 |   8 |   626.52 | 2025-06-27T19:28:36Z |
-|        0 | 2.35 |   4 |    15.31 | 2024-01-08T00:14:37Z |
+|        0 | 2.35 |   5 |    38.34 | 2024-02-28T04:51:55Z |
 :END:
 *** Extra
 *** Source

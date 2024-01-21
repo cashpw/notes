@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       d5355c3a-2137-46b2-af5a-10f9c3a6705f
 :ROAM_REFS: [cite:@DifferentialCalculus2023]
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2024-01-20 Sat 12:17]
 :ROAM_ALIASES: Differentiation Differentiate
 :END:
 #+title: Differential calculus
@@ -63,7 +63,7 @@ Properties of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   7 |   176.44 | 2024-01-10T00:36:50Z |
+|        0 | 2.05 |   8 |   393.39 | 2025-02-17T05:32:58Z |
 :END:
 
 $h(x)=af(x)+bg(x)$

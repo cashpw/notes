@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9256ca69-2a7c-48a8-9c44-3a078e187e20
-:LAST_MODIFIED: [2023-10-30 Mon 08:16]
+:LAST_MODIFIED: [2024-01-20 Sat 12:36]
 :END:
 #+title: r-value
 #+hugo_custom_front_matter: :slug "9256ca69-2a7c-48a8-9c44-3a078e187e20"
@@ -15,7 +15,7 @@ An r-value is a temporary value that does not persist beyond the expression that
 #+end_quote
 
 * TODO [#2] Flashcards :noexport:
-** Definition :fc:
+** Definition (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-20 Sat 05:55]
 :FC_CREATED: 2023-05-20T12:56:13Z
@@ -32,6 +32,7 @@ An r-value is a temporary value that does not persist beyond the expression that
 [[id:9256ca69-2a7c-48a8-9c44-3a078e187e20][r-value]]
 
 *** Back
+
 A temporary value that does not persist beyond the expression that uses it.
 *** Source
 [cite:@ValueComputerScience2023]
