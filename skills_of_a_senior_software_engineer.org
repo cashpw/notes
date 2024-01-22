@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
 :DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
-:LAST_MODIFIED: [2023-11-19 Sun 07:00]
+:LAST_MODIFIED: [2024-01-21 Sun 09:59]
 :END:
 #+title: Skills of a senior software engineer
 #+hugo_custom_front_matter: :slug "973e037c-6ae7-4c6a-abf8-57339feb49f9"
@@ -17,6 +17,7 @@ I've sought out common traits of "senior" roles and collected them here to help 
 
 - [cite:@allspawBeingSeniorEngineer]
 - [cite:@littleblahSeniorEngineerCheckList2019]
+- [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]]
 - [[id:bc1937f1-31ce-41cc-ba0b-dedaac9334b5][Tanya Reilly | The Staff Engineer's Path]]
 - [[id:e7753777-506e-490e-b79e-59dede5dce2e][Zach Tellman | Senior Engineers Reduce Risk]]
 - [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][John Allspaw | On Being A Senior Engineer]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9d43bd11-f7b0-42b3-8621-3f47ce7e08cd
-:LAST_MODIFIED: [2023-11-28 Tue 06:57]
+:LAST_MODIFIED: [2024-01-21 Sun 10:02]
 :END:
 #+title: Central route processing
 #+hugo_custom_front_matter: :slug "9d43bd11-f7b0-42b3-8621-3f47ce7e08cd"
@@ -29,7 +29,9 @@ A way of processing an argument that involves weighing the facts. Requires that 
 | back     | 2.20 |   7 |   142.51 | 2024-03-07T20:23:05Z |
 | front    | 2.80 |   7 |   332.85 | 2024-01-17T13:46:17Z |
 :END:
+
 [[id:9d43bd11-f7b0-42b3-8621-3f47ce7e08cd][Central route processing]]
+
 *** Back
 A person's careful and thoughtful consideration of the facts or true merits of an argument.
 *** Source

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cc3f6c45-87ed-4979-bc83-9940ae5c7014
 :ROAM_ALIASES: "All men must die"
-:LAST_MODIFIED: [2023-11-16 Thu 08:08]
+:LAST_MODIFIED: [2024-01-21 Sun 09:55]
 :END:
 #+title: Valar morghulis
 #+hugo_custom_front_matter: :slug "cc3f6c45-87ed-4979-bc83-9940ae5c7014"
@@ -13,9 +13,6 @@
 
 Related: [[id:8991f579-2d7a-4c2a-8207-f360145cd587][Valar dohaeris]]
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** {{[[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][Valar morghulis]]}{Valyrian}@0}: {{[[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][All men must die]]}{English}@1} :fc:
 :PROPERTIES:
 :ID:       9b08d608-7adb-4fc5-85df-01616f2a28df
@@ -29,7 +26,7 @@ Related: [[id:8991f579-2d7a-4c2a-8207-f360145cd587][Valar dohaeris]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.95 |   8 |   881.28 | 2026-04-15T22:45:32Z |
-| front    | 2.95 |   7 |   327.68 | 2024-01-18T20:00:04Z |
+| front    | 2.95 |   8 |  1009.55 | 2026-10-27T07:13:47Z |
 :END:
 * Bibliography
 #+print_bibliography:

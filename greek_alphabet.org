@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2024-01-17 Wed 06:53]
+:LAST_MODIFIED: [2024-01-21 Sun 09:33]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -799,7 +799,7 @@ Pronounced: /taw/
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   8 |   314.89 | 2024-01-14T14:36:11Z |
+|        0 | 2.20 |   9 |   699.69 | 2025-12-21T10:07:57Z |
 |        1 | 2.80 |   8 |   338.73 | 2024-01-31T09:23:39Z |
 :END:
 

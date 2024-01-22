@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       14876c69-a161-4b59-976a-d659cfe9435c
-:LAST_MODIFIED: [2023-11-28 Tue 07:13]
+:LAST_MODIFIED: [2024-01-21 Sun 09:58]
 :END:
 #+title: Balanced binary tree
 #+hugo_custom_front_matter: :slug "14876c69-a161-4b59-976a-d659cfe9435c"
@@ -28,7 +28,7 @@ A balanced binary tree is a binary tree structure in which the left and right su
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.90 |   8 |   342.54 | 2024-09-09T19:13:13Z |
-| front    | 2.50 |   7 |   248.40 | 2024-01-16T01:39:26Z |
+| front    | 2.50 |   8 |   611.95 | 2025-09-24T16:48:15Z |
 :END:
 
 [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]

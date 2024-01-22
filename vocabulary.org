@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-01-20 Sat 12:12]
+:LAST_MODIFIED: [2024-01-21 Sun 09:59]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -226,7 +226,7 @@ In agreement or harmony
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |  12 |   303.90 | 2024-01-12T12:37:58Z |
+| back     | 2.05 |   1 |     1.00 | 2024-01-22T17:59:10Z |
 | front    | 2.50 |   6 |    97.55 | 2023-05-07T08:39:27Z |
 :END:
 Providing moral or intellectual instruction

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7c9624d9-8abd-4581-b0df-c5db61516818
-:LAST_MODIFIED: [2024-01-20 Sat 12:27]
+:LAST_MODIFIED: [2024-01-21 Sun 09:32]
 :ROAM_ALIASES: S-curve "Sigmoid curve"
 :ROAM_REFS: [cite:@SigmoidFunction2022]
 :END:
@@ -27,13 +27,14 @@ A sigmoid function is a mathematical function having a characteristic "S"-shaped
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   0 |     0.00 | 2024-01-20T20:27:36Z |
+| back     | 2.50 |   1 |     1.00 | 2024-01-22T17:32:03Z |
 | front    | 2.00 |  16 |   260.69 | 2024-01-25T09:22:39Z |
 :END:
 
 [[id:7c9624d9-8abd-4581-b0df-c5db61516818][Sigmoid function]]
 
 *** Back
+
 A bounded, differentiable, real function defined for all $\mathbb{R}$ which has a non-negative derivative at each point and has exactly one inflection point.
 
 *** Source

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kuhnBeImpatient2020]
 :ID:       2149d460-f6e0-4696-b34d-c2cc2228d8db
-:LAST_MODIFIED: [2023-11-17 Fri 07:54]
+:LAST_MODIFIED: [2024-01-21 Sun 09:59]
 :END:
 #+title: Ben Kuhn | Be Impatient
 #+hugo_custom_front_matter: :slug "2149d460-f6e0-4696-b34d-c2cc2228d8db"
@@ -68,13 +68,15 @@ That means that moving quickly is an advantage that compounds. Being twice as fa
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   363.13 | 2024-09-23T18:36:50Z |
-| back     | 2.50 |   7 |   235.34 | 2024-01-15T22:29:14Z |
+| back     | 2.50 |   8 |   573.85 | 2025-08-17T14:26:53Z |
 :END:
 
 [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]]
 
 *** Back
+
 The faster you process information, the faster you can incorporate the result into what you'll do next.
+
 *** Source
 [cite:@kuhnBeImpatient2020]
 

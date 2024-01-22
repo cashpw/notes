@@ -2,7 +2,7 @@
 :ID:       29d30938-ecd0-4f44-a86b-5bd7f7734f08
 :ROAM_REFS: [cite:@PowerLaw2022]
 :ROAM_ALIASES: "Power law distribution"
-:LAST_MODIFIED: [2024-01-09 Tue 08:16]
+:LAST_MODIFIED: [2024-01-21 Sun 09:57]
 :END:
 #+title: Power law
 #+hugo_custom_front_matter: :slug "29d30938-ecd0-4f44-a86b-5bd7f7734f08"
@@ -28,7 +28,7 @@ In statistics, a power law is a functional relationship between two quantities, 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   582.57 | 2025-08-14T05:55:19Z |
-| back     | 2.20 |   4 |    14.51 | 2023-12-31T09:57:25Z |
+| back     | 2.20 |   5 |    34.27 | 2024-02-25T00:31:35Z |
 :END:
 
 [[id:29d30938-ecd0-4f44-a86b-5bd7f7734f08][Power law]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       86c3b62f-4766-4c76-856b-bebe9fe6d125
-:LAST_MODIFIED: [2023-12-27 Wed 21:47]
+:LAST_MODIFIED: [2024-01-21 Sun 09:51]
 :END:
 #+title: Height-balanced binary tree
 #+hugo_custom_front_matter: :slug "86c3b62f-4766-4c76-856b-bebe9fe6d125"
@@ -25,7 +25,7 @@ For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   759.09 | 2025-12-29T18:59:54Z |
-| front    | 1.90 |   5 |    23.70 | 2024-01-20T22:31:18Z |
+| front    | 1.90 |   6 |    40.84 | 2024-03-02T14:08:19Z |
 :END:
 
 [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-01-20 Sat 12:11]
+:LAST_MODIFIED: [2024-01-21 Sun 09:30]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -62,7 +62,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   2 |     2.00 | 2024-01-02T18:34:37Z |
+|        0 | 2.50 |   3 |     6.00 | 2024-01-27T17:30:48Z |
 |        1 | 2.15 |   7 |   156.36 | 2024-02-01T23:35:13Z |
 :END:
 

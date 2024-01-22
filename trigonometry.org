@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0d69fc06-1179-402b-8231-922986e486fc
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2024-01-21 Sun 09:55]
 :END:
 #+title: Trigonometry
 #+hugo_custom_front_matter: :slug "0d69fc06-1179-402b-8231-922986e486fc"
@@ -26,7 +26,7 @@ Trigonometry (from Ancient Greek τρίγωνον (trígōnon) 'triangle', and �
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   256.88 | 2024-02-01T21:46:51Z |
-| back     | 2.50 |   7 |   233.56 | 2024-01-03T04:13:04Z |
+| back     | 2.50 |   8 |   529.74 | 2025-07-04T11:46:42Z |
 :END:
 
 [[id:0d69fc06-1179-402b-8231-922986e486fc][Trigonometry]]

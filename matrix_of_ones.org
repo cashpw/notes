@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c0af4445-3f47-49bf-a5f3-f6d730c440bb
 :ROAM_REFS: [cite:@MatrixOnes2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2024-01-21 Sun 09:57]
 :END:
 #+title: Matrix of ones
 #+hugo_custom_front_matter: :slug "c0af4445-3f47-49bf-a5f3-f6d730c440bb"
@@ -48,7 +48,7 @@ In mathematics, a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] of ones or
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   9 |   323.31 | 2024-01-21T22:26:49Z |
-|        1 | 2.50 |   8 |   315.03 | 2024-01-17T19:22:13Z |
+|        1 | 2.35 |   9 |   765.07 | 2026-02-24T19:40:29Z |
 |        2 | 3.10 |   7 |   545.15 | 2024-12-29T04:51:15Z |
 :END:
 

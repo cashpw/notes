@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2024-01-21 Sun 10:01]
 :ROAM_REFS: [cite:@Polynomial2022]
 :END:
 #+title: Polynomial
@@ -60,12 +60,13 @@ eg: $2x^2 + 3$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  11 |   548.14 | 2025-01-12T04:07:59Z |
-| front    | 2.50 |   8 |   312.79 | 2024-01-12T12:12:28Z |
+| front    | 2.20 |   1 |     1.00 | 2024-01-22T18:01:10Z |
 :END:
 
 Degree of a polynomial
 
 *** Back
+
 The highest degree of the polynomial's monomials.
 
 *** Source

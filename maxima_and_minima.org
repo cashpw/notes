@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2024-01-20 Sat 12:34]
+:LAST_MODIFIED: [2024-01-21 Sun 09:54]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -59,7 +59,7 @@ The largest over a subset of the domain.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |  10 |   778.36 | 2026-02-12T02:04:52Z |
-| front    | 2.80 |   8 |   331.22 | 2024-01-14T08:39:49Z |
+| front    | 2.80 |   9 |   939.35 | 2026-08-18T02:22:12Z |
 :END:
 
 Extrema

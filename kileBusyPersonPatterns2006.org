@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2024-01-20 Sat 12:18]
+:LAST_MODIFIED: [2024-01-21 Sun 09:56]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -615,7 +615,7 @@ Start work on a task if it's initially vague and see if the steps you need to ta
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   654.73 | 2025-11-02T08:13:21Z |
-| back     | 1.90 |   8 |   192.17 | 2024-01-14T18:42:53Z |
+| back     | 1.75 |   9 |   345.55 | 2025-01-01T07:04:13Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
@@ -623,7 +623,8 @@ Start work on a task if it's initially vague and see if the steps you need to ta
 [[id:0c40f4d8-2ae6-4cc1-9109-f4852d3b2160][Contiguous time blocks]]
 
 *** Back
-Isolate important tasks and perform them separately -- eliminating distraction as much as is possible -- so you can concentrate and produce high quality output in the required amount of time.
+
+Isolate important tasks and perform them separately --- eliminating distraction as much as is possible --- so you can concentrate and produce high quality output in the required amount of time.
 *** Source
 [cite:@kileBusyPersonPatterns2006]
 ** Describe :fc:

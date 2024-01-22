@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10fb7c4a-8922-4d5f-aa1b-1251e34804e9
-:LAST_MODIFIED: [2023-10-30 Mon 07:59]
+:LAST_MODIFIED: [2024-01-21 Sun 09:55]
 :ROAM_REFS: [cite:@Sushi2022]
 :END:
 #+title: Sushi
@@ -39,12 +39,13 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   399.56 | 2024-03-20T18:19:20Z |
-| front    | 2.05 |   7 |    85.52 | 2024-01-09T19:50:32Z |
+| front    | 2.05 |   8 |   185.05 | 2024-07-24T19:09:14Z |
 :END:
 
 [[id:36088370-5640-48b7-b42f-0b8d083068c8][Maki]]
 
 *** Back
+
 Rice cylinder filled with ingredients
 
 *** Source

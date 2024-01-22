@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-01-20 Sat 12:13]
+:LAST_MODIFIED: [2024-01-21 Sun 09:31]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -942,13 +942,14 @@ The span of the row vectors of a matrix.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   9 |   316.36 | 2024-01-13T00:34:27Z |
+| back     | 2.35 |  10 |   684.10 | 2025-12-05T19:49:50Z |
 | front    | 2.80 |   8 |   339.98 | 2024-02-03T14:27:33Z |
 :END:
 
 Block matrices
 
 *** Back
+
 A matrix that is interpreted as having been broken into sections or submatrices.
 
 *** Extra

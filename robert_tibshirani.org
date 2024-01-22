@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       29b3cfe2-55ed-45d5-92e5-e604808b72bb
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2024-01-21 Sun 09:49]
 :END:
 #+title: Robert Tibshirani
 #+hugo_custom_front_matter: :slug "29b3cfe2-55ed-45d5-92e5-e604808b72bb"
@@ -18,12 +18,13 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   9 |   334.95 | 2024-01-19T15:59:06Z |
+| front    | 2.65 |  10 |   829.66 | 2026-04-30T09:42:09Z |
 :END:
 
 [[id:29b3cfe2-55ed-45d5-92e5-e604808b72bb][Robert Tibshirani]]
 
 *** Back
-[[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]
+
+- [[id:94bcb9cb-d5b8-49d7-a169-891808910a65][An Introduction to Statistical Learning: With Applications in R]]
 * Bibliography
 #+print_bibliography:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a
-:LAST_MODIFIED: [2023-12-15 Fri 07:50]
+:LAST_MODIFIED: [2024-01-21 Sun 09:52]
 :ROAM_REFS: [cite:@ImperativeProgramming2023]
 :END:
 #+title: Imperative programming
@@ -28,7 +28,7 @@ The term is often used in contrast to declarative programming [[[id:f234a51d-23e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   201.14 | 2024-05-05T11:35:41Z |
-| back     | 1.45 |   8 |    31.20 | 2024-01-15T20:34:15Z |
+| back     | 1.45 |   9 |    42.13 | 2024-03-03T21:01:04Z |
 :END:
 
 [[id:fbcd8e5c-6ab5-4bf4-85d6-76dba84d7b5a][Imperative programming]]
