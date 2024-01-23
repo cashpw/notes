@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       54e1f321-30e8-42d1-9df5-3e22a26706ad
 :ROAM_ALIASES: Enshittification
-:LAST_MODIFIED: [2024-01-19 Fri 08:18]
+:LAST_MODIFIED: [2024-01-22 Mon 17:38]
 :ROAM_REFS: [cite:@Enshittification2023]
 :END:
 #+title: Platform decay
@@ -41,7 +41,7 @@ Here is how platforms die:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   4 |    16.03 | 2024-02-04T17:07:54Z |
-| back     | 2.50 |   1 |     1.00 | 2024-01-18T14:50:27Z |
+| back     | 2.50 |   2 |     2.00 | 2024-01-25T01:38:50Z |
 :END:
 
 [[id:54e1f321-30e8-42d1-9df5-3e22a26706ad][Platform decay]]

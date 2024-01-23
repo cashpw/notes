@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c826a9e6-fcf5-4b94-81cb-0495f6aaa866
-:LAST_MODIFIED: [2024-01-20 Sat 12:34]
+:LAST_MODIFIED: [2024-01-22 Mon 17:39]
 :END:
 #+title: Collective tacit knowledge
 #+hugo_custom_front_matter: :slug "c826a9e6-fcf5-4b94-81cb-0495f6aaa866"
@@ -26,7 +26,7 @@ Collective tacit knowledge — Knowledge that is tacit because it is embedded in
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |   101.45 | 2024-03-12T03:21:30Z |
-| back     | 1.90 |   1 |     1.00 | 2024-01-21T20:34:42Z |
+| back     | 1.90 |   2 |     2.00 | 2024-01-25T01:39:44Z |
 :END:
 
 [[id:c826a9e6-fcf5-4b94-81cb-0495f6aaa866][Collective tacit knowledge]]

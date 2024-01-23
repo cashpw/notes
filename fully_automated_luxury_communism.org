@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       043438c3-d647-4fe0-a29b-cd1c44e9e3e7
-:LAST_MODIFIED: [2024-01-08 Mon 08:21]
+:LAST_MODIFIED: [2024-01-22 Mon 17:38]
 :END:
 #+title: Fully automated luxury communism
 #+hugo_custom_front_matter: :slug "043438c3-d647-4fe0-a29b-cd1c44e9e3e7"
@@ -22,12 +22,13 @@ A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] ac
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   8 |   826.32 | 2026-04-14T00:04:53Z |
-| back     | 2.80 |   7 |   283.34 | 2024-01-21T21:38:38Z |
+| back     | 2.80 |   8 |   727.40 | 2026-01-19T11:15:48Z |
 :END:
 
 [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully automated luxury communism]]
 
 *** Back
+
 A vision of a [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][Post-scarcity Society]] -- achieved through technological automation of production -- in which that surplus is equitably distributed among the people such that everyone is taken care of no matter what.
 
 *** Source

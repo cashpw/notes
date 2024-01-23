@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-01-21 Sun 09:31]
+:LAST_MODIFIED: [2024-01-22 Mon 19:38]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -217,7 +217,7 @@ How to search the contraction hierarchy?
 [cite:@haraborIntroductionContractionHierarchies]
 #+end_quote
 
-*** TODO FIX; up/down is backward here. Check against [cite:@geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008]
+*** TODO [#4] FIX; up/down is backward here. Check against [cite:@geisbergerContractionHierarchiesFasterSimplerHierarchicalRoutingRoadNetworks2008]
 #+begin_quote
 - The upward graph only contains edges from $v$ to $w$ where we contracted $v$ *after* $w$.
 - The downward graph only contains edges from $v$ to $w$ where we contracted $v$ *before* $w$.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-01-21 Sun 09:31]
+:LAST_MODIFIED: [2024-01-22 Mon 17:28]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -540,7 +540,7 @@ Describe how to solve $\{f: V \to W \; | \; V \in \mathbb{R}^n; \; W \in \mathbb
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   8 |   187.86 | 2024-01-01T11:48:54Z |
+| front    | 1.90 |   9 |   347.52 | 2025-01-04T13:53:23Z |
 | back     | 2.65 |   8 |   390.50 | 2024-06-09T05:15:18Z |
 :END:
 

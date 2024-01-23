@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@sinopRobustRoutingUsingElectricalFlows2021]
 :ID:       5db2d60d-f58e-43ed-80d8-b1826abaccd1
-:LAST_MODIFIED: [2023-12-09 Sat 13:39]
+:LAST_MODIFIED: [2024-01-22 Mon 19:41]
 :END:
 #+title: Ali Kemal Sinop, Lisa Fawcett, Sreenivas Gollapudi, Kostas Kollias | Robust Routing Using Electrical Flows
 #+hugo_custom_front_matter: :slug "5db2d60d-f58e-43ed-80d8-b1826abaccd1"
@@ -9,11 +9,11 @@
 #+date: [2023-03-24 Fri 16:56]
 #+filetags: :hastodo:reference:
 
-TODO_AUTHOR, [cite:@sinopRobustRoutingUsingElectricalFlows2021]
+[[id:d27e763b-d33a-451a-b43c-5c116c66e7f9][Ali Kemal Sinop]], [[id:510378ff-ca48-4bc9-92b6-15db371706e6][Lisa Fawcett]], [[id:aedcab0b-7da2-433d-9b65-62d4acdece45][Sreenivas Gollapudi]], [[id:e84d862a-bd50-4bb5-beb6-4545e380918f][Kostas Kollias]] [cite:@sinopRobustRoutingUsingElectricalFlows2021]
 
 * TODO Summary
 * TODO Thoughts
-* TODO [#0] Notes :ATTACH:
+* TODO [#1] Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/5d/b2d60d-f58e-43ed-80d8-b1826abaccd1/Sinop et al. - 2021 - Robust Routing Using Electrical Flows.pdf
 :NOTER_PAGE: 1

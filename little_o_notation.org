@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       96e6cece-bfe4-4f80-b526-9578d2431364
-:LAST_MODIFIED: [2024-01-21 Sun 10:01]
+:LAST_MODIFIED: [2024-01-22 Mon 17:36]
 :END:
 #+title: Little-o notation
 #+hugo_custom_front_matter: :slug "96e6cece-bfe4-4f80-b526-9578d2431364"
@@ -55,7 +55,7 @@ To use an analogy:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 3.10 |   7 |   432.25 | 2024-09-16T18:56:26Z |
-|        1 | 2.80 |   7 |   257.74 | 2024-01-16T15:32:14Z |
+|        1 | 2.80 |   8 |   738.48 | 2026-01-30T13:11:01Z |
 :END:
 
 - {{$o(n)$}@0}

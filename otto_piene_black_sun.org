@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@pieneBlackSun1969]
 :ID:       c9f6c9b1-2e47-44e4-96f9-22e1f5643299
-:LAST_MODIFIED: [2024-01-21 Sun 10:01]
+:LAST_MODIFIED: [2024-01-22 Mon 17:36]
 :END:
 #+title: Otto Piene | Black Sun
 #+hugo_custom_front_matter: :slug "c9f6c9b1-2e47-44e4-96f9-22e1f5643299"
@@ -30,7 +30,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   6 |   111.38 | 2024-02-29T01:40:18Z |
-| back     | 1.90 |   1 |     1.00 | 2024-01-22T18:01:26Z |
+| back     | 1.90 |   2 |     2.00 | 2024-01-25T01:36:31Z |
 :END:
 
 [[id:c9f6c9b1-2e47-44e4-96f9-22e1f5643299][Otto Piene | Black Sun]]

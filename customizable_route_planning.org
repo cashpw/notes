@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2024-01-21 Sun 09:55]
+:LAST_MODIFIED: [2024-01-22 Mon 17:32]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -451,7 +451,7 @@ A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][D
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   209.32 | 2024-08-17T04:02:16Z |
-| back     | 2.50 |   5 |    33.87 | 2024-01-22T19:54:19Z |
+| back     | 2.35 |   6 |    82.29 | 2024-04-14T08:31:20Z |
 :END:
 
 $C_s$ and $C_t$

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-01-21 Sun 09:59]
+:LAST_MODIFIED: [2024-01-22 Mon 17:30]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -647,7 +647,7 @@ Portmanteau
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   0 |     0.00 | 2024-01-19T16:18:40Z |
+| front    | 1.30 |   1 |     1.00 | 2024-01-24T01:30:50Z |
 | back     | 1.45 |   0 |     0.00 | 2023-12-31T18:25:49Z |
 :END:
 

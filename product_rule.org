@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d57fdb71-8ae6-4307-a255-bfeaeb50a5a9
-:LAST_MODIFIED: [2023-09-05 Tue 20:17]
+:LAST_MODIFIED: [2024-01-22 Mon 17:30]
 :END:
 #+title: Product rule
 #+hugo_custom_front_matter: :slug "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
@@ -62,7 +62,7 @@ $$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   208.42 | 2024-01-22T01:44:16Z |
+|        0 | 2.50 |   8 |   506.38 | 2025-06-12T10:34:03Z |
 :END:
 
 $h(x) = f(x)g(x)$
