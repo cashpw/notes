@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2023ecf7-2e79-4919-a356-264eecb3034b
-:LAST_MODIFIED: [2024-01-22 Mon 17:28]
+:LAST_MODIFIED: [2024-01-25 Thu 07:28]
 :END:
 #+title: Cognitive transformation theory
 #+hugo_custom_front_matter: :slug "2023ecf7-2e79-4919-a356-264eecb3034b"
@@ -25,7 +25,7 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    91.35 | 2024-04-23T09:59:26Z |
-| back     | 2.20 |   1 |     1.00 | 2024-01-22T17:53:35Z |
+| back     | 2.20 |   3 |     6.00 | 2024-01-31T15:28:54Z |
 :END:
 
 [[id:2023ecf7-2e79-4919-a356-264eecb3034b][Cognitive transformation theory]]

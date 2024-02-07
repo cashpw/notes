@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4e9a8cb2-e817-430b-a63c-0e492022ab79
 :ROAM_ALIASES: "Linked lists"
-:LAST_MODIFIED: [2023-10-02 Mon 23:20]
+:LAST_MODIFIED: [2024-01-27 Sat 10:37]
 :END:
 #+title: Linked list
 #+hugo_custom_front_matter: :slug "4e9a8cb2-e817-430b-a63c-0e492022ab79"
@@ -26,13 +26,14 @@ In computer science, a linked list is a linear collection of data elements whose
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |  10 |   324.80 | 2024-01-27T13:49:48Z |
+| back     | 2.80 |  11 |   906.90 | 2026-07-22T16:13:16Z |
 | front    | 2.35 |   8 |   476.73 | 2025-01-21T23:52:41Z |
 :END:
 
 [[id:4e9a8cb2-e817-430b-a63c-0e492022ab79][Linked list]]
 
 *** Back
+
 A sequential collection of nodes composed of data and one or more references to other nodes.
 
 *** Source

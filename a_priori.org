@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d794df81-0af5-41a2-a437-d02f5859b0ae
-:LAST_MODIFIED: [2023-11-06 Mon 07:01]
+:LAST_MODIFIED: [2024-02-05 Mon 08:45]
 :END:
 #+title: A priori
 #+hugo_custom_front_matter: :slug "d794df81-0af5-41a2-a437-d02f5859b0ae"
@@ -27,14 +27,16 @@ Also see [[id:5650a370-5c7a-4412-a38e-d9889bf23d0f][A posteriori]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   237.35 | 2024-01-30T23:22:11Z |
+| front    | 2.65 |   8 |   656.48 | 2025-11-23T04:20:07Z |
 | back     | 2.80 |   7 |   320.59 | 2024-05-10T03:31:27Z |
 :END:
 
 [[id:d794df81-0af5-41a2-a437-d02f5859b0ae][A priori]]
 
 *** Back
+
 Knowledge which is independent from current experience; self-evident or self-proving.
+
 *** Source
 [cite:@PrioriPosteriori2022]
 ** Cloze :fc:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       57d94e2b-f842-483e-bcdb-c4d8e91a6ab5
-:LAST_MODIFIED: [2023-12-08 Fri 09:50]
+:LAST_MODIFIED: [2024-01-24 Wed 07:52]
 :ROAM_ALIASES: "Transitive dependency"
 :END:
 #+title: Transitive relation
@@ -57,13 +57,14 @@ Eg: "ancestor of"
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.95 |   8 |   308.72 | 2024-01-24T10:51:41Z |
+| back     | 2.95 |   9 |   822.37 | 2026-04-26T00:45:07Z |
 | front    | 2.35 |   9 |   533.82 | 2025-05-21T10:47:16Z |
 :END:
 
 [[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive dependency]]
 
 *** Back
+
 An indirect dependency through one or more other objects.
 
 *** Extra

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-01-22 Mon 17:29]
+:LAST_MODIFIED: [2024-02-05 Mon 08:39]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -369,14 +369,16 @@ The task of grouping a set of objects in such a way that elements in the same gr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   336.13 | 2024-01-28T19:04:08Z |
-| back     | 2.65 |   8 |   232.07 | 2023-07-15T16:52:35Z |
+| front    | 2.65 |   9 |   876.14 | 2026-06-30T20:04:20Z |
+| back     | 2.65 |   9 |   599.41 | 2025-09-16T01:16:42Z |
 :END:
 
 $\hat{Y} = \hat{f}(\hat{X})$
 
 *** Back
+
 A model which represents our predictions, $\hat{Y}$, based on our estimate of $f$, $\hat{f}$, on the input data, $\hat{X}$.
+
 *** Extra
 The value $\epsilon$ is not included as we cannot influence/reduce the irreducible error.
 *** Source
@@ -470,13 +472,14 @@ A series of data points indexed in time-order.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   9 |   319.67 | 2024-02-03T08:24:41Z |
+| back     | 2.35 |  10 |   764.11 | 2026-03-10T19:14:50Z |
 | front    | 2.65 |   8 |   350.33 | 2024-07-10T10:51:55Z |
 :END:
 
 Base rate
 
 *** Back
+
 Indicate probability based on the absence of other information. Describes the percentage of a population that demonstrates some characteristic.
 
 *** Source
@@ -514,16 +517,18 @@ Confusion matrix
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   9 |   334.21 | 2024-01-17T06:45:12Z |
+| front    | 2.50 |  10 |   777.12 | 2026-03-13T17:24:20Z |
 | back     | 2.80 |  10 |   363.60 | 2024-02-27T18:34:35Z |
 :END:
 
 Non-parametric models
 
 *** Back
+
 - Doesn't make explicit assumptions about the functional form of $f$ in $Y = f(X) + \epsilon$
 - Complexity is unbounded given unbounded data
 - More data often implies more parameters
+
 *** Extra
 eg: k-nearest neighbors, support vector machines
 *** Source
@@ -606,15 +611,17 @@ The goal is to reduce the bias due to a finite sample size. The bias is more sig
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   8 |   334.15 | 2024-01-24T07:19:20Z |
+| front    | 2.80 |   9 |   876.52 | 2026-06-22T07:10:26Z |
 | back     | 2.35 |   9 |   496.32 | 2024-12-13T23:20:28Z |
 :END:
 
 Parametric model
 
 *** Back
+
 - $y = mx + b$; parameterized by $m$ and $b$
 - Logistic regression
+
 *** Source
 [cite:@ghahramaniParametricVsNonparametricModels]
 ** {{$n\operatorname{stddev}(\vec{a} + \vec{b})^2$}{function}@0} $=$ {{$\|\mathbf{C}\vec{a} + \mathbf{C}\vec{b}\|^2$}{norm}@1} :suspended:fc:
@@ -888,12 +895,13 @@ The standard deviation of a statistic's sampling distribution.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   8 |   335.06 | 2024-02-09T06:39:48Z |
-| front    | 2.20 |   8 |   221.95 | 2023-10-04T02:28:59Z |
+| front    | 1.90 |   1 |     1.00 | 2024-01-25T15:56:06Z |
 :END:
 
 Statistic
 
 *** Back
+
 A quantity computed from values in a sample.
 
 *** Source
@@ -1082,7 +1090,7 @@ Population mean
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   3 |     6.00 | 2024-01-15T16:15:01Z |
+|        0 | 1.60 |   4 |     8.89 | 2024-02-01T12:11:14Z |
 :END:
 
 - {{$s^2$}@0}
@@ -1389,7 +1397,7 @@ The probability function of a probability space. The mathematical function that 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   9 |   769.46 | 2026-01-13T01:28:45Z |
-| front    | 2.35 |   3 |     6.00 | 2023-10-17T21:10:38Z |
+| front    | 2.35 |   4 |    13.94 | 2024-02-07T14:21:06Z |
 :END:
 
 Probability function
@@ -1496,7 +1504,7 @@ A mathematical construct that provides a formal model of a random process or "ex
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   311.83 | 2024-01-14T13:19:14Z |
+|        0 | 2.65 |   9 |   802.00 | 2026-04-04T14:50:39Z |
 |        1 | 2.35 |   8 |   359.93 | 2024-11-10T14:19:59Z |
 :END:
 

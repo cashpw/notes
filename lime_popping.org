@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa
 :ROAM_REFS: [cite:@LimePopping]
-:LAST_MODIFIED: [2024-01-22 Mon 17:37]
+:LAST_MODIFIED: [2024-01-25 Thu 07:26]
 :END:
 #+title: Lime popping
 #+hugo_custom_front_matter: :slug "fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa"
@@ -26,14 +26,16 @@ A body firing problem where particles of calcium sulphate in the fired or bisque
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   2 |     2.00 | 2024-01-25T01:37:43Z |
+| front    | 1.75 |   3 |     6.00 | 2024-01-31T15:26:36Z |
 | back     | 2.50 |   7 |   357.82 | 2024-07-27T11:06:02Z |
 :END:
 
 [[id:fdb8621b-64af-4d22-a7e6-e83c0a2dd2fa][Lime popping]]
 
 *** Back
+
 A clay body firing problem in which particles of calcium sulphate in the body slowly expand, and pop out a section of the body.
+
 *** Source
 [cite:@LimePopping]
 * Bibliography

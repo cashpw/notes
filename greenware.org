@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d0d62414-0eb1-4036-aae9-da4db0eb1d52
-:LAST_MODIFIED: [2023-11-28 Tue 07:14]
+:LAST_MODIFIED: [2024-02-05 Mon 08:35]
 :END:
 #+title: Greenware
 #+hugo_custom_front_matter: :slug "d0d62414-0eb1-4036-aae9-da4db0eb1d52"
@@ -32,14 +32,16 @@ Greenware is clay before it's undergone [[id:546a8c28-18bb-4500-bb35-a18ca162ee1
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   258.48 | 2024-01-30T02:38:40Z |
+| front    | 2.50 |   8 |   603.22 | 2025-09-30T21:53:07Z |
 | back     | 2.50 |   8 |   437.75 | 2025-02-08T09:16:01Z |
 :END:
 
 [[id:d0d62414-0eb1-4036-aae9-da4db0eb1d52][Greenware]]
 
 *** Back
+
 Clay which has not undergone [[id:546a8c28-18bb-4500-bb35-a18ca162ee1f][Bisque firing]].
+
 *** Source
 [cite:@Pottery2022]
 * Bibliography

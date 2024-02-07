@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2024-01-22 Mon 17:32]
+:LAST_MODIFIED: [2024-01-27 Sat 10:48]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -386,7 +386,7 @@ Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   220.28 | 2024-07-25T20:56:23Z |
-| back     | 2.35 |   5 |    31.57 | 2024-01-21T05:10:40Z |
+| back     | 2.05 |   3 |     6.00 | 2024-02-02T18:48:01Z |
 :END:
 
 Nested partitions
@@ -433,7 +433,7 @@ A technique for reducing query latency by building a hierarchical view of the gr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   7 |   172.82 | 2024-05-22T12:29:03Z |
-|        1 | 2.50 |   4 |    14.11 | 2024-01-23T18:58:46Z |
+|        1 | 2.50 |   5 |    38.69 | 2024-03-03T08:25:30Z |
 :END:
 
 A query performs a {{bi-directional [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]]}@0} on {{the union of $H$, $C_s$, and $C_t$}@1}.

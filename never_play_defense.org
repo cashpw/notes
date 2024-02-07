@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f331c0a1-39b2-4752-84a9-f9656d1750c5
-:LAST_MODIFIED: [2024-01-21 Sun 09:53]
+:LAST_MODIFIED: [2024-01-26 Fri 06:40]
 :END:
 #+title: Never play defense
 #+hugo_custom_front_matter: :slug "f331c0a1-39b2-4752-84a9-f9656d1750c5"
@@ -43,7 +43,7 @@ A method for winning arguments where you seek to convince the audience you won o
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |  21 |   260.98 | 2024-08-25T17:22:02Z |
-| back     | 1.75 |   5 |    17.56 | 2024-01-26T05:51:39Z |
+| back     | 1.60 |   6 |    25.65 | 2024-02-21T06:23:08Z |
 :END:
 
 [[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]

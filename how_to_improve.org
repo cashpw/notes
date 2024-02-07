@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       aa291d37-5737-4ea0-9ea7-bf7b6b0840ba
+:LAST_MODIFIED: [2024-01-29 Mon 10:41]
+:END:
+#+title: How to improve
+#+hugo_custom_front_matter: :slug "aa291d37-5737-4ea0-9ea7-bf7b6b0840ba"
+#+author: Cash Prokop-Weaver
+#+date: [2024-01-29 Mon 10:33]
+#+filetags: :hastodo:concept:
+
+(in no particular order)
+
+- Meta
+  - [[id:be380da4-4720-4978-a3f8-c99a9470f509][Embrace discomfort]]
+- Learn
+  - [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analysis]]
+- Practice/study
+  - [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced repetition]]
+  - [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][Deliberate practice]]/[[id:2bb656cd-6834-4534-95e2-c77df28ffccb][Purposeful practice]]
+- Feedback
+  - [[id:9fbce18e-0a25-4876-a2e8-96acb60caab8][Record yourself]]
+  - [[id:8d489ad2-03d1-411b-a73b-4524147fecb6][Retrospectives]]
+  - [[id:6a2ada0e-607b-419c-8137-cfd7fa113bfe][Seek out feedback and accept with gratitude]]
+
+* TODO [#2] Flashcards :noexport:

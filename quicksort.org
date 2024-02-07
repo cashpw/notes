@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
-:LAST_MODIFIED: [2024-01-09 Tue 08:11]
+:LAST_MODIFIED: [2024-02-05 Mon 08:47]
 :END:
 #+title: Quicksort
 #+hugo_custom_front_matter: :slug "d7bcd831-6a3f-4885-a654-15f0b11c9966"
@@ -70,7 +70,7 @@ procedure partition(lowIndex, highIndex, list) is
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   8 |   840.72 | 2026-03-06T09:24:27Z |
-|        1 | 2.20 |   8 |   267.63 | 2024-02-01T07:40:35Z |
+|        1 | 2.20 |   9 |   647.36 | 2025-11-14T01:19:00Z |
 |        2 | 2.65 |   7 |   304.12 | 2024-02-03T19:17:46Z |
 |        3 | 2.80 |   7 |   337.72 | 2024-05-03T09:02:13Z |
 :END:
@@ -315,7 +315,7 @@ def partition(items: List[T], comparator: Callable[[id:T, T], int], low_index: i
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   4 |    15.28 | 2024-01-24T22:49:08Z |
+|        0 | 2.65 |   5 |    42.82 | 2024-03-08T11:10:58Z |
 :END:
 
 [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{[[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable]]}{stability}@0}

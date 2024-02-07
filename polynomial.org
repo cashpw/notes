@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b5f2c2d9-50a4-4b20-a32d-c1a9cbb584de
-:LAST_MODIFIED: [2024-01-22 Mon 17:39]
+:LAST_MODIFIED: [2024-01-25 Thu 07:41]
 :ROAM_REFS: [cite:@Polynomial2022]
 :END:
 #+title: Polynomial
@@ -60,7 +60,7 @@ eg: $2x^2 + 3$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  11 |   548.14 | 2025-01-12T04:07:59Z |
-| front    | 2.20 |   2 |     2.00 | 2024-01-25T01:39:08Z |
+| front    | 2.20 |   3 |     6.00 | 2024-01-31T15:41:54Z |
 :END:
 
 Degree of a polynomial

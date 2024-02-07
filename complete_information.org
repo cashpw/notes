@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d80fe9f3-c36e-4878-89fc-d7ad8d6e247f
-:LAST_MODIFIED: [2024-01-20 Sat 12:17]
+:LAST_MODIFIED: [2024-01-27 Sat 10:38]
 :END:
 #+title: Complete information
 #+hugo_custom_front_matter: :slug "d80fe9f3-c36e-4878-89fc-d7ad8d6e247f"
@@ -33,7 +33,7 @@ In a game of complete information, the structure of the game and the payoff func
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   3 |     6.00 | 2024-01-26T20:17:04Z |
+| front    | 2.05 |   4 |    11.95 | 2024-02-08T17:20:07Z |
 | back     | 2.65 |   7 |   278.71 | 2024-05-31T07:58:10Z |
 :END:
 

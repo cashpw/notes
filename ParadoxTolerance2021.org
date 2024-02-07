@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ParadoxTolerance2021]
 :ID:       b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2024-01-25 Thu 07:21]
 :END:
 #+title: Paradox of tolerance
 #+hugo_custom_front_matter: :slug "b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9"
@@ -29,14 +29,16 @@ The paradox of tolerance states that if a society is tolerant without limit, its
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   252.73 | 2024-01-25T05:55:19Z |
+| front    | 2.50 |   8 |   630.34 | 2025-10-16T23:25:16Z |
 | back     | 2.50 |   7 |   279.42 | 2024-03-06T01:47:16Z |
 :END:
 
 [[id:b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9][Paradox of tolerance]]
 
 *** Back
+
 Maintaining a tolerant society requires intolerance of intolerance. Tolerating intolerance begets intolerance.
+
 *** Source
 [cite:@ParadoxTolerance2021]
 * Bibliography

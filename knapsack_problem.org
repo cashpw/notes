@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24b10601-c88f-46fc-bbf9-3f7687c2d2ba
-:LAST_MODIFIED: [2023-10-09 Mon 23:51]
+:LAST_MODIFIED: [2024-01-23 Tue 06:57]
 :ROAM_REFS: [cite:@KnapsackProblem2023]
 :END:
 #+title: Knapsack problem
@@ -76,12 +76,13 @@ The subset sum problem [[[id:1590ca9a-06cb-4a3a-96c3-e52cbc31a0f3][Subset sum pr
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   442.63 | 2024-12-25T22:04:40Z |
-| back     | 2.20 |   7 |   179.70 | 2024-01-23T07:07:14Z |
+| back     | 2.20 |   8 |   392.07 | 2025-02-18T16:35:07Z |
 :END:
 
 [[id:24b10601-c88f-46fc-bbf9-3f7687c2d2ba][Knapsack problem]]
 
 *** Back
+
 Given a set of items, each with a weight and a value, determine which items to include in the collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
 *** Source
 [cite:@KnapsackProblem2023]

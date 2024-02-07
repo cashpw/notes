@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       774196ec-f2f7-48d1-b3f9-e7c253378746
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2024-02-05 Mon 08:32]
 :END:
 #+title: Stochastic terrorism
 #+hugo_custom_front_matter: :slug "774196ec-f2f7-48d1-b3f9-e7c253378746"
@@ -17,10 +17,6 @@ Since 2018, the term "stochastic terrorism" has become a popular term used when 
 See [[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbulent priest?]]
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 ** Example(s) :fc:
 :PROPERTIES:
 :ID:       5a8b9ecb-f262-48a4-bee0-5ee542afea6e
@@ -31,7 +27,7 @@ See [[id:bf247454-b50e-448c-9c60-cee9b3969983][Will no one rid me of this turbul
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   267.85 | 2024-01-29T13:56:16Z |
+| front    | 2.50 |   8 |   622.68 | 2025-10-20T08:51:03Z |
 | back     | 2.50 |   7 |   324.76 | 2024-04-23T22:37:17Z |
 :END:
 

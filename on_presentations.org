@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b123525c-6d7c-4153-aa79-b8bf8580e8c9
+:LAST_MODIFIED: [2024-01-25 Thu 07:45]
+:END:
+#+title: On presentations
+#+hugo_custom_front_matter: :slug "b123525c-6d7c-4153-aa79-b8bf8580e8c9"
+#+author: Cash Prokop-Weaver
+#+date: [2024-01-25 Thu 07:30]
+#+filetags: :concept:
+
+An [[id:2a6113b3-86e9-4e70-8b81-174c26bfeb01][On X]].
+
+- [cite:@naegleTenSimpleRulesEffectivePresentationSlides2021]
+
+* Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:

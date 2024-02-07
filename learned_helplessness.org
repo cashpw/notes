@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       06b5c658-5513-4c18-a24d-9ed3fb4ad23b
 :ROAM_REFS: [cite:@LearnedHelplessness2022]
-:LAST_MODIFIED: [2023-10-09 Mon 23:43]
+:LAST_MODIFIED: [2024-02-05 Mon 08:32]
 :END:
 #+title: Learned helplessness
 #+hugo_custom_front_matter: :slug "06b5c658-5513-4c18-a24d-9ed3fb4ad23b"
@@ -30,14 +30,16 @@ Research has found that a human's reaction to feeling a lack of control differs 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   6 |   111.78 | 2024-01-30T01:22:09Z |
+| front    | 2.50 |   7 |   287.13 | 2024-11-18T19:40:15Z |
 | back     | 2.35 |   8 |   335.79 | 2024-07-31T07:46:56Z |
 :END:
 
 [[id:06b5c658-5513-4c18-a24d-9ed3fb4ad23b][Learned helplessness]]
 
 *** Back
+
 A behavior characterized by "giving up" which the subject exhibits after enduring repeated adverse stimuli outside of their control.
+
 *** Source
 [cite:@LearnedHelplessness2022]
 * Bibliography

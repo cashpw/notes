@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8c1b0569-db17-41af-90a3-7f2c75dc8923
-:LAST_MODIFIED: [2024-01-09 Tue 08:06]
+:LAST_MODIFIED: [2024-02-05 Mon 08:38]
 :END:
 #+title: Realpolitik
 #+hugo_custom_front_matter: :slug "8c1b0569-db17-41af-90a3-7f2c75dc8923"
@@ -24,7 +24,7 @@ Also see [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   5 |    25.69 | 2024-02-04T08:32:35Z |
+| back     | 2.20 |   6 |    54.31 | 2024-03-31T00:02:25Z |
 | front    | 2.80 |   7 |   338.21 | 2024-05-18T05:47:37Z |
 :END:
 

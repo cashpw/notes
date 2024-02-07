@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@grahamHowWriteUsefully]
 :ID:       70afedd4-60d2-4e2e-87e1-04999d90079e
 :DIR:      /home/cashweaver/proj/roam/attachments/70afedd4-60d2-4e2e-87e1-04999d90079e
-:LAST_MODIFIED: [2024-01-20 Sat 12:12]
+:LAST_MODIFIED: [2024-01-27 Sat 10:48]
 :END:
 #+title: Paul Graham | How to Write Usefully
 #+hugo_custom_front_matter: :slug "70afedd4-60d2-4e2e-87e1-04999d90079e"
@@ -91,7 +91,7 @@ Sometimes the reason people don't know something is because they don't want to k
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.45 |  10 |   142.10 | 2024-01-27T17:27:26Z |
+|        0 | 1.45 |  11 |   185.48 | 2024-07-31T06:24:52Z |
 :END:
 
 *** Source

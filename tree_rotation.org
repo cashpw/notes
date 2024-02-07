@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f0deaa3b-c3bc-491d-adc3-6e6595cb558e
-:LAST_MODIFIED: [2023-12-06 Wed 05:54]
+:LAST_MODIFIED: [2024-02-05 Mon 08:28]
 :END:
 #+title: Tree rotation
 #+hugo_custom_front_matter: :slug "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
@@ -107,10 +107,12 @@ For a given [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   9 |   320.41 | 2024-02-01T00:04:28Z |
+| front    | 2.80 |  10 |   904.01 | 2026-07-28T16:42:09Z |
 | back     | 2.35 |   8 |   418.75 | 2024-08-27T22:10:03Z |
 :END:
+
 How to perform a [[id:8bc49224-0c9c-4200-a6cb-51ee0d08fa65][Right tree rotation]]
+
 *** Back
 For a given [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]:
 

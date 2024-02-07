@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad
 :ROAM_ALIASES: "Binary heaps"
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2024-01-27 Sat 10:36]
 :END:
 #+title: Binary heap
 #+hugo_custom_front_matter: :slug "a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad"
@@ -75,11 +75,15 @@ Example of a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] binary [[id:7
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.80 |   8 |   525.49 | 2024-12-30T15:42:10Z |
-| front    | 2.95 |   7 |   337.24 | 2024-01-27T09:27:50Z |
+| front    | 2.95 |   8 |   996.80 | 2026-10-20T13:45:36Z |
 :END:
+
 [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]]
+
 *** Back
+
 A [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that takes the form of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]].
+
 *** Source
 [cite:@BinaryHeap2022]
 ** {{[[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heaps]]}@0} are a common way of implementing {{[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queues]]}@1} :fc:

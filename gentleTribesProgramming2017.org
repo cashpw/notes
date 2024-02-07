@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@gentleTribesProgramming2017]
 :ID:       2f62e8c7-6d64-4820-9b12-3949627c2386
-:LAST_MODIFIED: [2023-12-27 Wed 21:47]
+:LAST_MODIFIED: [2024-02-05 Mon 08:34]
 :END:
 #+title: Joseph Gentle | Three Tribes of Programming
 #+hugo_custom_front_matter: :slug "2f62e8c7-6d64-4820-9b12-3949627c2386"
@@ -75,15 +75,10 @@ I think most professional software engineers are in this tribe - which makes sen
 
 In my experience people in this camp are better at community. They seem to be much more positive and encouraging of new members, and willing to help. I guess its because you can tell if you're doing a good job in the other two camps by simply taking a look yourself. If you make software for other humans, satisfaction comes from making the people around you happy.
 
-I can't help but feel that this place is a touch soulless. Taken to the extreme, this world view doesn't value the beauty in the engineering itself. Although you could probably make the opposite criticism against the other groups - they don't value how their software can impact the world.
+I can't help but feel that this place is a touch soulless. Taken to the extreme, this world view doesn't value the beauty in the engineering itself [see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]]. Although you could probably make the opposite criticism against the other groups - they don't value how their software can impact the world.
 #+end_quote
 
-Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
-
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** Describe :fc:
 :PROPERTIES:
 :CREATED: [2022-11-22 Tue 14:50]
@@ -94,16 +89,18 @@ Also see [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   232.94 | 2024-02-03T11:58:56Z |
+| front    | 2.35 |   8 |   511.86 | 2025-07-01T13:19:01Z |
 | back     | 2.80 |   7 |   314.68 | 2024-05-28T06:01:43Z |
 :END:
 
 [[id:2f62e8c7-6d64-4820-9b12-3949627c2386][Joseph Gentle | Three Tribes of Programming]]
 
 *** Back
+
 1. Poets and mathematicians: [[id:f1b52515-ce90-451f-8b58-281cc314a693][Programming as applied mathematics]]
 2. Hackers: [[id:8aba3ca3-4de0-46cc-be4a-4e7c4611fafd][Programming as hardware hacking]]
 3. Makers: [[id:d2918b36-ab82-4e9c-a7ee-ded62efb1d62][Programming as a tool to make things]]
+
 *** Source
 [cite:@gentleTribesProgramming2017]
 ** Describe :fc:

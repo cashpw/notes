@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       abfd840c-6815-4565-91bd-4b58661b9b62
-:LAST_MODIFIED: [2024-01-19 Fri 08:16]
+:LAST_MODIFIED: [2024-01-27 Sat 10:46]
 :END:
 #+title: Respirators
 #+hugo_custom_front_matter: :slug "abfd840c-6815-4565-91bd-4b58661b9b62"
@@ -78,7 +78,7 @@ R- or P-series filters can be used for protection against oil or non-oil aerosol
 See [[id:7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f][Use the right respirator]].
 
 * Flashcards :noexport:
-** Cloze :fc:
+** Cloze ([[id:abfd840c-6815-4565-91bd-4b58661b9b62][Respirators]]) :fc:
 :PROPERTIES:
 :CREATED: [2023-01-29 Sun 19:14]
 :FC_CREATED: 2023-01-30T03:15:31Z
@@ -94,7 +94,7 @@ See [[id:7cb8d111-f6ff-4b84-91b4-f7d6bcea7f3f][Use the right respirator]].
 |        1 | 2.50 |   7 |   281.19 | 2024-06-02T19:21:02Z |
 :END:
 
-([[id:abfd840c-6815-4565-91bd-4b58661b9b62][Respirators]]) {{N}@0} stands for {{not resistant to oil}@1}
+{{N}@0} stands for {{not resistant to oil}@1}
 
 *** Source
 [cite:@NIOSHGuideSelectionUseParticulateRespiratorsCertified42CFR842020]

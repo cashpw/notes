@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0fd22b02-281f-4a62-b60d-eded1a423c79
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2024-02-05 Mon 16:37]
 :END:
 #+title: The game
 #+hugo_custom_front_matter: :slug "0fd22b02-281f-4a62-b60d-eded1a423c79"
@@ -13,7 +13,9 @@ It's all in the game.
 Adjacent ideas:
 
 - [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]
+- [[id:eebb69ec-4bef-46e2-bf45-2b828fd9910a][Lie, sometimes]]
 - [[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]]
+
 * TODO [#3] :noexport:
 * Flashcards :noexport:
 * Bibliography

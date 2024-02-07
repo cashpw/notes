@@ -2,7 +2,7 @@
 :ID:       5d0c9c41-219f-4330-b2e6-0ae5daaa5355
 :ROAM_REFS: [cite:@Composability2021]
 :ROAM_ALIASES: Composable
-:LAST_MODIFIED: [2023-10-11 Wed 14:19]
+:LAST_MODIFIED: [2024-02-05 Mon 08:35]
 :END:
 #+title: Composability
 #+hugo_custom_front_matter: :slug "5d0c9c41-219f-4330-b2e6-0ae5daaa5355"
@@ -30,13 +30,14 @@ Composability is a system design principle that deals with the inter-relationshi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   9 |   161.92 | 2024-01-30T11:04:19Z |
+| front    | 1.60 |  10 |   263.22 | 2024-10-25T21:46:52Z |
 | back     | 1.90 |   8 |   293.74 | 2024-07-31T15:09:20Z |
 :END:
 
 [[id:5d0c9c41-219f-4330-b2e6-0ae5daaa5355][Composability]]
 
 *** Back
+
 A design principle relating to distinct, independent, units which can be assembled in various combinations. The essential features are usually:
 
 - self-contained / modular

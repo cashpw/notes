@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
 :ROAM_REFS: [cite:@MindfulnessbasedStressReduction2022]
 :ROAM_ALIASES: MBSR
-:LAST_MODIFIED: [2024-01-21 Sun 09:53]
+:LAST_MODIFIED: [2024-01-24 Wed 07:51]
 :END:
 #+title: Mindfulness-based stress reduction
 #+hugo_custom_front_matter: :slug "92eb61e0-5437-4fbf-80aa-d042c0ba6d1e"
@@ -49,7 +49,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |  10 |    98.79 | 2024-01-24T03:14:30Z |
+| front    | 1.60 |  11 |   166.73 | 2024-07-09T09:23:06Z |
 | back     | 1.30 |   6 |    12.76 | 2024-02-02T14:55:45Z |
 :END:
 
@@ -58,6 +58,7 @@
 *** Back
 
 An intensive mindfulness training program to assist people with stress, anxiety, depression, and pain.
+
 *** Source
 [cite:@MindfulnessbasedStressReduction2022]
 * Bibliography

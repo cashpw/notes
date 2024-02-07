@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2024-01-20 Sat 12:27]
+:LAST_MODIFIED: [2024-02-05 Mon 08:38]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -110,12 +110,13 @@ The physical layer is responsible for the transmission and reception of unstruct
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   306.56 | 2024-08-20T03:14:57Z |
-| back     | 2.20 |   6 |    67.08 | 2024-01-25T16:22:30Z |
+| back     | 2.20 |   7 |   146.52 | 2024-06-21T03:09:41Z |
 :END:
 
 [[id:582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6][OSI model]]
 
 *** Back
+
 A conceptual model for abstract network connections.
 *** Source
 [cite:@OSIModel2023]
@@ -155,7 +156,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 |        1 | 2.20 |   7 |   149.63 | 2024-02-14T14:11:26Z |
 |        2 | 2.35 |   7 |   181.97 | 2024-06-14T15:00:44Z |
 |        3 | 2.50 |   5 |    44.91 | 2024-03-02T12:48:35Z |
-|        4 | 2.50 |   1 |     1.00 | 2023-12-25T17:36:52Z |
+|        4 | 2.50 |   1 |     1.00 | 2024-01-24T15:00:10Z |
 |        5 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 |        6 |  2.5 |  -1 |        0 | 2023-03-18T14:57:36Z |
 :END:
@@ -203,7 +204,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   5 |    21.75 | 2024-01-30T10:23:09Z |
+| front    | 2.05 |   6 |    45.65 | 2024-03-22T08:14:24Z |
 | back     | 2.20 |   3 |     6.00 | 2023-12-31T16:50:57Z |
 :END:
 
@@ -333,13 +334,15 @@ The [...] handles protocol conversion, data encryption, data decryption, data co
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.60 |   9 |    91.87 | 2024-03-19T10:53:48Z |
-| back     | 2.05 |   5 |    29.48 | 2023-10-09T10:37:29Z |
+| back     | 1.90 |   6 |    59.03 | 2024-03-24T16:04:59Z |
 :END:
 
 [[id:28c1811a-bfe1-4910-8622-f1568dd7c388][Application layer (OSI model)]]
 
 *** Back
+
 Layer which provides protocols that allow software to send and receive information across the network (e.g. HTTP, FTP, SMTP).
+
 *** Source
 [cite:@WhatOSIModelLayersExplainedImperva]
 * Bibliography

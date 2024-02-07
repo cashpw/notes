@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fbc554fe-c7ba-479d-a23f-20917476fc19
-:LAST_MODIFIED: [2024-01-19 Fri 08:18]
+:LAST_MODIFIED: [2024-02-05 Mon 08:43]
 :END:
 #+title: Finance
 #+hugo_custom_front_matter: :slug "fbc554fe-c7ba-479d-a23f-20917476fc19"
@@ -96,7 +96,7 @@ $\frac{\text{net income - preferred dividends}}{\text{end-of-period common share
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   5 |     9.68 | 2024-01-27T07:14:20Z |
+| back     | 1.30 |   6 |    12.81 | 2024-02-09T14:15:43Z |
 | front    | 2.65 |   9 |   339.29 | 2024-02-12T09:48:35Z |
 :END:
 
@@ -136,7 +136,7 @@ Refers to instances where a taxpayer can delay paying taxes to some future perio
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   6 |    60.77 | 2024-01-28T09:23:19Z |
+| back     | 2.20 |   7 |   122.91 | 2024-06-07T14:38:13Z |
 | front    | 2.65 |  11 |   370.90 | 2024-03-16T02:52:13Z |
 :END:
 

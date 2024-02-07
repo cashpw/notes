@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dafe179-aeb8-4718-9eb8-ac96a27f9a58
-:LAST_MODIFIED: [2024-01-21 Sun 09:56]
+:LAST_MODIFIED: [2024-01-25 Thu 07:42]
 :ROAM_ALIASES: "Indefinite integral"
 :END:
 #+title: Antiderivative
@@ -98,7 +98,7 @@ $F(x)=$ {{$\frac{x^3}{3} + c$}@0}
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   8 |   250.22 | 2024-09-27T01:42:59Z |
-|        1 | 1.90 |   7 |    70.20 | 2024-01-24T20:17:34Z |
+|        1 | 1.90 |   8 |   145.40 | 2024-06-19T01:15:05Z |
 :END:
 
 {{$F(b) - F(a)$}@0} $=$ {{$\int_a^b f(x)dx$, where $x$ is in $[a,b]$}{terms of x}@1}

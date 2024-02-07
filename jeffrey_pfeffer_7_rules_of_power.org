@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 :ID:       8d42e706-7fa3-4910-a0be-db0fe90083a9
-:LAST_MODIFIED: [2024-01-22 Mon 19:30]
+:LAST_MODIFIED: [2024-02-06 Tue 11:09]
 :END:
 #+title: Jeffrey Pfeffer | 7 Rules of Power
 #+hugo_custom_front_matter: :slug "8d42e706-7fa3-4910-a0be-db0fe90083a9"
@@ -12,11 +12,214 @@
 [[id:64117fb2-9e71-4c73-8ff2-78fa053c4d48][Jeffrey Pfeffer]], [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 
 * TODO Summary
+
+Power comes from playing [[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]].
+
+** Rules
+
+1. [[id:47895906-e123-4c10-ae95-c073abcf0c58][Get out of your own way]]
+2. Break the rules
+3. Appear powerful
+4. Build a powerful brand
+5. Network relentlessly
+6. Use your power
+7. Success excuses (almost) everything
+
 * TODO Thoughts
+
+A primarily vibes-based book. Pfeffer does cite some studies but the main thrust is that the assertions are correct because they are self-evident, or that they're true based on the author's experience.
+
+A [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]].
+
 Also look at:
 
 - https://news.ycombinator.com/item?id=39084979
-* TODO [#2] Notes
+* Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/8d/42e706-7fa3-4910-a0be-db0fe90083a9/7-rules-power.pdf
+:NOTER_PAGE: 65
+:END:
+** Title Page
+:PROPERTIES:
+:NOTER_PAGE: (9 . 0.090909)
+:END:
+** Copyright
+:PROPERTIES:
+:NOTER_PAGE: (11 . 0.161932)
+:END:
+** Dedication
+:PROPERTIES:
+:NOTER_PAGE: (12 . 0.185606)
+:END:
+** Contents
+:PROPERTIES:
+:NOTER_PAGE: (13 . 0.229167)
+:END:
+** In the Beginning: The Challenge of Power
+:PROPERTIES:
+:NOTER_PAGE: (14 . 0.230114)
+:END:
+
+#+begin_quote
+I regularly suffer a form of what might be called intellectual whiplash. On the one hand, people—even a good friend and insightful editor—tell me my ideas about power don't fit the prevailing zeitgeist with its emphasis on collaboration, being nice, and enacting politically correct behavior. On the other hand, I get emails like the one from an individual enrolled in my online class on power. That person told me and his classmates that he learned that performance is not enough. Rather, he now knew he had to ask people in power in his company for what he wanted and needed to advance his career and achieve his job objectives and to flatter higher-ups; to believe in himself and act and speak with power; to build a network and support system; and, when confronting opposition and conflict, to be smart in how and when to fight his battles.
+#+end_quote
+
+Lamp-shading the complaints from those who espouse [[id:01a5a051-57c8-4d55-aca3-6da89521f5b9]['Nice' power]] against this book's subject: [[id:fd2773ca-e019-4712-a69a-6645e9d24c9b]['Mean' power]].
+
+** Introduction: Power, Getting Things Done, and Career Success
+:PROPERTIES:
+:NOTER_PAGE: (24 . 0.230114)
+:END:
+
+- "...power is a tool."
+** Rule 1 | Get Out of Your Own Way
+:PROPERTIES:
+:NOTER_PAGE: (39 . 0.230114)
+:END:
+
+#+begin_quote
+How people think of themselves invariably influences what they project to others and what behaviors they will enact. The lesson: use self-descriptive adjectives that convey power, and eschew attitudes that, even if accurate, fairly or unfairly, diminish your status.
+#+end_quote
+
+#+begin_quote
+Getting over imposter syndrome [[[id:0bca32c4-f7f9-416a-ab73-75025a933a36][Impostor syndrome]]] is a first step on a person's path to power.
+#+end_quote
+
+#+begin_quote
+Here's a practical exercise that you can do and then repeat occasionally as part of your personal development. Write down the adjectives you use to describe yourself, both to yourself and to others. Check with friends to see if your list is correct. Then ask yourself what descriptors you need to get rid of in order to project yourself in a more powerful way. Ask yourself what positive adjectives about yourself—language that gives credit to your accomplishments and credentials—you underutilize in your interactions with others.
+
+A related exercise: record yourself [[[id:9fbce18e-0a25-4876-a2e8-96acb60caab8][Record yourself]]] as you interact in professional settings throughout a day or week. Then analyze how many times you begin an interaction by apologizing for intruding, for interrupting, for taking the other person's time, for offering your ideas. Ask friends and colleagues how often you actively participate in discussion and forcefully offer your opinions, and how often you begin interactions by apologizing for offering them.
+
+And here's a third exercise you can and should do. As you describe yourself to others, as you articulate a narrative of your career so far, as you create a personal brand—a topic we will explore in more detail in Rule 4— do you talk about your accomplishments, your credentials, or what you have done successfully? Or do you attempt to appear modest and self-effacing, downplay your achievements, positions you have held, honors you have achieved, and your talents?
+#+end_quote
+
+*** Be willing to do whatever it takes --- don't run away from power
+:PROPERTIES:
+:NOTER_PAGE: (45 . 0.270979020979021)
+:END:
+
+#+begin_quote
+Different people are willing to do different things in order to succeed. Just because you won't network, or flatter, or self-promote, certainly does not mean that all of your competitors will be as circumspect. To the extent people opt out of doing things their colleagues are willing to do—tactics that build power—they put themselves at a disadvantage.
+
+The fundamental point: everyone has choices, not only about how they think of themselves, but about what they are willing or unwilling to do in the contest for power. You can opt in, or out. You can self-handicap, or, like Christina Troitino, "play the game [[[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]]] very differently."
+#+end_quote
+
+#+begin_quote
+An important part of being "willing to do what it takes" is sticking with efforts to build power and get things done in the face of opposition, criticism, obstacles, setbacks, and failures.
+#+end_quote
+
+See [[id:b08bf4f7-76cd-41e9-973f-83d2a60de9aa][Grit]].
+
+*** How low power perpetuates itself
+:PROPERTIES:
+:NOTER_PAGE: (48 . 0.47596153846153844)
+:END:
+
+#+begin_quote
+Belmi and Laurin identified two prototypical ways of achieving power. One is through behaving in a prosocial fashion such as working hard, helping coworkers, and striving in other ways on behalf of the collective good. The other is through politics— basically what I teach—which entails behaving strategically, flattering higher-ups, building helpful social relationships, and promoting one's accomplishments (the subject of chapter four, taking credit as you build a strong personal brand). They found no difference by class in people's beliefs about the usefulness of the two strategies—all people, regardless of their social origins, generally believed that both approaches were helpful. However, they uncovered class differences in people's willingness to actually use the two strategies, with people from lower social-class origins being much less willing to use political strategies.
+
+[...]
+
+Peter Belmi believes that one (but not the only) reason social class predicts willingness to use political-power-seeking behaviors is that there is considerable evidence that lower social class is associated with a more collective versus an individualistic orientation.
+#+end_quote
+
+#+begin_quote
+Some people argue that this line of argument "blames the victim" as these biases and stereotypes should not exist and people's preferences for power should not determine their career trajectories. My position, and Belmi's and Hewlett's, is that while the stereotypes and biases they represent are manifestly unfair and unjust, they exist with varying degrees of pervasiveness in many if not most organizations. Moreover, the only behavior individuals have any hope of truly controlling is their own. Therefore, the best way for people to achieve higher-level positions where they might have the leverage to change things is to recognize the rules of the game and understand what they need to do to succeed in the environment as it is presently constituted, even as they work to change that environment. And, most importantly, not to let assumptions arising from their gender, race, or social class interfere with or constrain their own definitions of who they are or what behaviors are permissible. To succeed, people need to be and feel agentic, and attempt to exercise influence and control.
+#+end_quote
+
+*** The curse of authenticity
+:PROPERTIES:
+:NOTER_PAGE: (53 . 0.5965909090909091)
+:END:
+
+#+begin_quote
+One reason people get in their own way as they reject implementing empirically demonstrated findings on the determinants of power is their embrace of the idea of authenticity and other scientifically sketchy but uplifting leadership ideas. In their quest to be their authentic selves and display their real feelings and true opinions to others, people tell me that engaging in activities such as networking, flattering those in power, spending time ensuring that others know of their accomplishments, asking for resources, or presenting themselves to the world in a powerful fashion would not be true to who they really are. Because these behaviors often inherently entail behaving strategically in their interactions with others, building power might require people to behave inauthentically.
+#+end_quote
+
+[[id:eebb69ec-4bef-46e2-bf45-2b828fd9910a][Lie, sometimes]]
+
+#+begin_quote
+One argument for being authentic I sometimes hear is that if you are not, your attempts at deception—for instance, flattering others or providing inaccurate information about your own motives—will be discerned, and others will hold your efforts to be anything other than your true self against you. Although a nice idea, there is precious little logic or evidence to support it.
+
+First, people believe—and see—what they want [[[id:b1a664cb-c661-4c44-bf55-fc407c528ad1][Wizard's first rule]]]. [...]
+
+Second, the empirical evidence on uncovering lies consistently reveals that people are largely terrible at this task.
+#+end_quote
+
+#+begin_quote
+Phrases like "Be true to yourself" and "Find your own true north" seem excessively self-referential and are not what leaders must do to succeed. Leaders need allies and supporters; one of the primary tasks of a leader is to recruit both. This task is more readily accomplished if the leader is true not to themselves but instead to the needs and motivations of those they seek to recruit.
+
+[...]
+
+If you want to have allies—always a good thing if you want influence— you obviously need to provide others with something so they will support you. [...] If you want others to support you, you need to be able to answer the question: What's in it for them if they do?
+#+end_quote
+
+Align [[id:deb3b467-3bb1-4000-9665-3a7347909ad6][Incentive]] structures such that what's good for them is also good for you.
+
+*** The paradox of "Likability"
+:PROPERTIES:
+:NOTER_PAGE: (58 . 0.5131118881118881)
+:END:
+
+It's impossible to make everyone like you, by definition. Doing X will offend those who want you to do Y, or Z, or just not-X. Thus, seeking 'likability' while pursuing power puts you at best at a disadvantage and at worse out of the running entirely.
+
+#+begin_quote
+[...] The first rule of power is about acknowledging and accepting who you are but not letting that identity define who you will be forever. It is about understanding the importance of social connection but not letting the need for acceptance overwhelm what you want to get done, and the necessity of pursuing your own interests and agenda. It is, in short, about getting out of your own way and getting on with the task of building the power base that will provide you the leverage to accomplish your goals.
+#+end_quote
+
+*** TODO Extract exercises
+
+** INPROGRESS Rule 2 | Break the Rules
+:PROPERTIES:
+:NOTER_PAGE: (62 . 0.230114)
+:END:
+*** Why and how rule breaking works to create power
+:PROPERTIES:
+:NOTER_PAGE: (65 . 0.11013986013986014)
+:END:
+
+** Rule 3 | Appear Powerful
+:PROPERTIES:
+:NOTER_PAGE: (79 . 0.230114)
+:END:
+** Rule 4 | Build a Powerful Brand
+:PROPERTIES:
+:NOTER_PAGE: (98 . 0.230114)
+:END:
+** Rule 5 | Network Relentlessly
+:PROPERTIES:
+:NOTER_PAGE: (117 . 0.230114)
+:END:
+** Rule 6 | Use Your Power
+:PROPERTIES:
+:NOTER_PAGE: (135 . 0.230114)
+:END:
+** Rule 7 | Success Excuses (Almost) Everything: Why This Is the Most Important Rule of All
+:PROPERTIES:
+:NOTER_PAGE: (149 . 0.230114)
+:END:
+** Coda: Staying on the Path to Power
+:PROPERTIES:
+:NOTER_PAGE: (176 . 0.230114)
+:END:
+** Acknowledgments
+:PROPERTIES:
+:NOTER_PAGE: (184 . 0.230114)
+:END:
+** Endnotes
+:PROPERTIES:
+:NOTER_PAGE: (187 . 0.230114)
+:END:
+** Index
+:PROPERTIES:
+:NOTER_PAGE: (203 . 0.230114)
+:END:
+** About the Author
+:PROPERTIES:
+:NOTER_PAGE: (219 . 0.229167)
+:END:
+
+
 * Bibliography
 #+print_bibliography:
 * TODO [#2] Flashcards :noexport:

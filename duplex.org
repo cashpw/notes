@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b04fc3f4-7bb8-4cc3-b2b7-029f60022d84
-:LAST_MODIFIED: [2024-01-21 Sun 09:48]
+:LAST_MODIFIED: [2024-02-05 Mon 08:45]
 :ROAM_REFS: [cite:@DuplexTelecommunications2023]
 :END:
 #+title: Duplex
@@ -108,7 +108,7 @@ A [[id:b04fc3f4-7bb8-4cc3-b2b7-029f60022d84][Duplex]] system in which the partie
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   163.33 | 2024-02-03T00:36:53Z |
+| front    | 2.20 |   8 |   384.52 | 2025-02-24T05:08:53Z |
 | back     | 2.35 |   7 |   191.31 | 2024-04-26T21:10:21Z |
 :END:
 

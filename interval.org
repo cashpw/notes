@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc
 :ROAM_REFS: [cite:@IntervalMathematics2022]
-:LAST_MODIFIED: [2024-01-17 Wed 06:57]
+:LAST_MODIFIED: [2024-01-26 Fri 06:39]
 :ROAM_ALIASES: "Open interval" "Closed interval"
 :END:
 #+title: Interval
@@ -136,13 +136,14 @@ $0 < x < 1$, $(0, 1)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |  10 |   335.87 | 2024-01-26T00:53:40Z |
+| back     | 2.50 |  11 |   758.76 | 2026-02-23T08:54:30Z |
 | front    | 2.65 |   9 |   381.11 | 2024-04-05T20:13:41Z |
 :END:
 
 Closed interval
 
 *** Back
+
 An interval which includes all its limit points.
 
 *** Extra

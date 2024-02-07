@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2024-01-22 Mon 17:37]
+:LAST_MODIFIED: [2024-02-05 Mon 08:31]
 :ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
@@ -80,7 +80,7 @@ Interpreted, imperfect, signals of events
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   4 |    15.66 | 2024-01-24T08:09:05Z |
+| front    | 2.20 |   2 |     2.00 | 2024-02-07T16:31:09Z |
 | back     | 2.35 |   4 |    12.83 | 2024-02-02T16:28:32Z |
 :END:
 
@@ -103,7 +103,7 @@ Explanatory structures that define entities by describing their relationships to
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   5 |    36.99 | 2024-02-23T14:34:33Z |
-| back     |  2.5 |  -1 |        0 | 2023-12-16T21:58:37Z |
+| back     | 2.50 |   2 |     2.00 | 2024-01-27T15:43:31Z |
 :END:
 
 [[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]

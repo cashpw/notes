@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 :ID:       ffc578c6-bf15-4d7f-816a-175206fc9e42
-:LAST_MODIFIED: [2023-12-07 Thu 06:22]
+:LAST_MODIFIED: [2024-01-27 Sat 10:47]
 :END:
 #+title: Monika Lindquist | Getting Consumers To Say Yes: Commitment Consistency
 #+hugo_custom_front_matter: :slug "ffc578c6-bf15-4d7f-816a-175206fc9e42"
@@ -26,12 +26,13 @@ TODO_AUTHOR, [cite:@lindquistGettingConsumersSayYesCommitmentConsistency]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.35 |  15 |   728.44 | 2025-12-05T00:51:49Z |
-| front    | 2.50 |   8 |   318.24 | 2024-01-26T21:06:29Z |
+| front    | 2.50 |   9 |   860.26 | 2026-06-06T01:01:48Z |
 :END:
 
 Commitment and consistency
 
 *** Back
+
 A principle that people will do as much as possible to appear consistent in their words and actions; even to the extent of doing things that are irrational.
 
 *** Source

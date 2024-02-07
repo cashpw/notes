@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       24cb7271-441f-447e-9150-b4f44fc6d947
-:LAST_MODIFIED: [2024-01-21 Sun 09:49]
+:LAST_MODIFIED: [2024-02-05 Mon 08:44]
 :END:
 #+title: Control the conversation
 #+hugo_custom_front_matter: :slug "24cb7271-441f-447e-9150-b4f44fc6d947"
@@ -24,10 +24,13 @@ See [[id:c718f301-2099-48b7-bad5-74fdebea137e][Ian Danskin | Control the Convers
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   468.27 | 2024-10-16T10:42:14Z |
-| back     | 2.80 |   7 |   259.34 | 2024-02-04T21:26:06Z |
+| back     | 2.80 |   8 |   707.40 | 2026-01-13T02:22:47Z |
 :END:
+
 [[id:24cb7271-441f-447e-9150-b4f44fc6d947][Control the conversation]] as a narrative strategy
+
 *** Back
+
 Make sure people are talking about what you want them to talk about and in ways that benefit you.
 *** Source
 [cite:@danskinControlConversation2017]

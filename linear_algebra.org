@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-01-22 Mon 17:28]
+:LAST_MODIFIED: [2024-02-05 Mon 08:39]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -174,7 +174,7 @@ eg: $x+y^2$, $x+xy$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2023-12-28T14:19:05Z |
+| front    | 2.50 |   0 |     0.00 | 2024-02-05T16:31:59Z |
 :END:
 
 Describe the properties required for $U$ to be a subspace of a vector space $V$ over a field $F$, given $U \subset V$.
@@ -258,7 +258,7 @@ A function that assigns a strictly positive length or size to each vector in a v
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.60 |   4 |     9.74 | 2024-01-19T09:56:12Z |
+| back     | 1.60 |   5 |    14.23 | 2024-02-06T20:12:47Z |
 | front    | 2.50 |   8 |   233.09 | 2023-08-24T18:33:45Z |
 :END:
 
@@ -677,7 +677,7 @@ A set of eigenvectors of a vector space, $V$, which span $V$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   1 |     1.00 | 2024-01-21T20:13:20Z |
+| back     | 2.20 |   2 |     2.00 | 2024-02-07T16:39:37Z |
 | front    | 2.80 |   8 |   288.63 | 2023-10-24T06:40:23Z |
 :END:
 
@@ -699,13 +699,14 @@ The factor by which an associated eigenvector is scaled.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   330.29 | 2024-01-22T23:11:27Z |
+| back     | 2.80 |  10 |   960.93 | 2026-09-13T12:59:02Z |
 | front    | 2.65 |   8 |   363.91 | 2024-03-15T11:57:57Z |
 :END:
 
 Eigenvector
 
 *** Back
+
 A vector in a vector space, $\vec{v} \in V$, with respect to some linear transformation, $f$, such that $f(\vec{v}) = c\vec{v}$.
 
 *** Extra
@@ -767,13 +768,14 @@ A matrix whose rank equals the largest possible for a matrix of its dimensions; 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |  10 |   288.80 | 2023-12-27T09:35:45Z |
+| back     | 2.65 |  11 |   699.21 | 2025-12-22T19:45:41Z |
 | front    | 2.65 |   8 |   304.65 | 2023-11-20T07:36:45Z |
 :END:
 
 Full row rank
 
 *** Back
+
 A property of a matrix whose rank equals the number of rows.
 
 *** Source
@@ -993,7 +995,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |   4 |     7.60 | 2024-01-06T12:15:35Z |
+|        0 | 1.30 |   5 |    10.77 | 2024-02-07T13:01:49Z |
 |        1 | 2.80 |  11 |   331.63 | 2023-12-10T06:06:10Z |
 :END:
 
@@ -1013,7 +1015,7 @@ $\begin{aligned} \mathbf{A} & = \begin{bmatrix} 1 \\ 4 \end{bmatrix} \\ \mathbf{
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   2 |     2.00 | 2024-01-21T16:11:47Z |
+|        0 | 2.20 |   3 |     6.00 | 2024-01-31T15:20:41Z |
 |        1 | 2.35 |   3 |     6.00 | 2023-07-20T13:16:05Z |
 :END:
 
@@ -1265,10 +1267,13 @@ How to find the row space of a matrix
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   201.76 | 2024-05-26T09:01:05Z |
-| back     | 2.80 |  11 |   237.47 | 2023-10-12T13:18:33Z |
+| back     | 2.80 |  12 |   633.38 | 2025-10-19T00:50:14Z |
 :END:
+
 How to parameterize the solution set for a system of linear equations
+
 *** Back
+
 1. Convert to reduced row echelon form so the basic and free variables are clear to see
 2. Write the solution vector ($\vec{s}$): An $n \times 1$ vector where $n$ is the number of variables and the $i\text{-th}$ entry in the row is equal to the expression that equals the $i\text{-th}$ variable, in terms of the free variables
 3. Break the solution vector, $\vec{s}$, into a linear combination of the free variables

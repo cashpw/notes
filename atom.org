@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b37a4585-be03-43ea-a55c-6a5f84e59c77
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2024-01-23 Tue 06:57]
 :END:
 #+title: Atom
 #+hugo_custom_front_matter: :slug "b37a4585-be03-43ea-a55c-6a5f84e59c77"
@@ -37,11 +37,12 @@ Technically speaking, a list in Lisp consists of parentheses surrounding atoms s
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   7 |   350.15 | 2024-01-23T03:44:27Z |
+| back     | 2.80 |   8 |   970.33 | 2026-09-19T22:58:00Z |
 | front    | 2.35 |   8 |   317.08 | 2024-03-21T18:43:35Z |
 :END:
 [[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]]
 *** Back
+
 Everything that isn't a list; an indivisible thing. Examples include numbers, strings, symbols, etc.
 *** Source
 [cite:@LispAtoms]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dab3f3c1-9065-40e9-ab93-a0fed22a4f25
-:LAST_MODIFIED: [2024-01-14 Sun 06:48]
+:LAST_MODIFIED: [2024-01-25 Thu 07:45]
 :END:
 #+title: On interviewing
 #+hugo_custom_front_matter: :slug "dab3f3c1-9065-40e9-ab93-a0fed22a4f25"
@@ -8,7 +8,7 @@
 #+date: [2024-01-14 Sun 06:41]
 #+filetags: :hastodo:concept:
 
-A mega-note for all the interviewing related topics I want to keep for future reference. My goal is to collect thoughts here and split topics off into [[id:6ae97f03-6ce3-437e-88cf-a9f965839477][atomic]] notes as such atomic concepts emerge.
+An [[id:2a6113b3-86e9-4e70-8b81-174c26bfeb01][On X]].
 
 * TODO [#3] Expand
 ** TODO [#2] [[https://github.com/donnemartin/system-design-primer][GitHub – system-design-primer: Learn how to design large-scale systems]] :systems:software_engineering:

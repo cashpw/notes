@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2024-01-21 Sun 09:53]
+:LAST_MODIFIED: [2024-02-05 Mon 08:29]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -321,7 +321,7 @@ Learning objective concerned with:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |  10 |    34.73 | 2024-02-04T11:59:27Z |
+| front    | 1.30 |  11 |    48.10 | 2024-03-24T18:50:44Z |
 | back     | 2.50 |   8 |   532.35 | 2025-05-22T22:59:41Z |
 :END:
 
@@ -418,7 +418,7 @@ Summarize the identifying characteristics of a Golden Delicious apple and a Gran
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   371.30 | 2024-09-01T20:35:37Z |
-| back     | 2.20 |   6 |    74.76 | 2024-01-23T10:44:11Z |
+| back     | 2.20 |   7 |   174.21 | 2024-07-15T20:08:04Z |
 :END:
 
 [[id:07273f6a-3b90-48eb-8341-05aa93fbe496][Apply (Bloom's Taxonomy)]] (Apples)

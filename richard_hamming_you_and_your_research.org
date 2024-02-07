@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@hammingYouYourResearch]
 :ID:       a37c9f95-bbfb-449c-8fd8-dbb2bc7dfe22
-:LAST_MODIFIED: [2024-01-19 Fri 20:05]
+:LAST_MODIFIED: [2024-01-26 Fri 07:22]
 :END:
 #+title: Richard Hamming | You and Your Research
 #+hugo_custom_front_matter: :slug "a37c9f95-bbfb-449c-8fd8-dbb2bc7dfe22"
@@ -13,7 +13,7 @@
 
 * TODO Summary
 * TODO Thoughts
-* TODO [#1] Notes :ATTACH:
+* TODO [#0] Notes :ATTACH:
 * Bibliography
 #+print_bibliography:
 * TODO [#2] Flashcards :noexport:

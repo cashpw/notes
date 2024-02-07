@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e6d8be33-22e9-4c94-808d-7347f7fc38ed
 :ROAM_REFS: [cite:@EternalReturn2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2024-01-26 Fri 06:42]
 :END:
 #+title: Eternal return
 #+hugo_custom_front_matter: :slug "e6d8be33-22e9-4c94-808d-7347f7fc38ed"
@@ -27,12 +27,16 @@ Eternal return relates to the philosophy of predeterminism in that people are pr
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   9 |   333.26 | 2024-01-25T22:13:15Z |
+| back     | 2.80 |  10 |   963.85 | 2026-09-16T11:08:58Z |
 | front    | 2.65 |   8 |   373.08 | 2024-04-07T17:39:34Z |
 :END:
+
 [[id:e6d8be33-22e9-4c94-808d-7347f7fc38ed][Eternal return]]
+
 *** Back
-A concept that the universe and all existence and energy has been recurring, and will continue to recur, in a self-similar form an infinite number of times across infinite time or space.
+
+A concept that the universe and all existence and energy cycles, and will continue to repeat, in a self-similar form an infinite number of times across infinite time or space.
+
 *** Source
 [cite:@EternalReturn2022]
 * Bibliography

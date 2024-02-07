@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]
 :ID:       893aff24-4682-45e6-8d50-e4d55f0aa0cf
-:LAST_MODIFIED: [2023-11-19 Sun 06:21]
+:LAST_MODIFIED: [2024-02-05 Mon 08:43]
 :END:
 #+title: James C. Scott | Seeing like a State
 #+hugo_custom_front_matter: :slug "893aff24-4682-45e6-8d50-e4d55f0aa0cf"
@@ -100,16 +100,18 @@ Benefits of [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (singular)
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   221.48 | 2024-02-02T05:14:36Z |
+| front    | 2.50 |   8 |   572.11 | 2025-08-30T19:20:23Z |
 | back     | 2.35 |   8 |   353.04 | 2024-11-06T15:18:20Z |
 :END:
 
 Detriments of [[id:20ff7657-2f1f-459e-be7e-c59be0b042f0][Legibility]] (singular)
 
 *** Back
+
 - Loss of local culture, religions, traditions, languages
 - Inability to hide/etc from the eye of the state
 - Standardization leading to a loss of experimentation and small-scale innovation
+
 *** Source
 [[id:893aff24-4682-45e6-8d50-e4d55f0aa0cf][James C. Scott | Seeing like a State]]
 * Bibliography

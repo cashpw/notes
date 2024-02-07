@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
 :ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
-:LAST_MODIFIED: [2024-01-21 Sun 09:53]
+:LAST_MODIFIED: [2024-02-05 Mon 08:45]
 :END:
 #+title: IEEE 754
 #+hugo_custom_front_matter: :slug "23e97230-9b73-4232-a76e-a1223b9bb70e"
@@ -83,9 +83,9 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        3 | 2.80 |  10 |   348.19 | 2024-01-31T08:00:30Z |
+|        3 | 2.80 |  11 |  1029.20 | 2026-11-30T21:32:03Z |
 |        2 | 2.35 |   9 |   616.87 | 2025-08-26T11:08:17Z |
-|        1 | 2.80 |   9 |   325.23 | 2024-01-24T22:52:02Z |
+|        1 | 2.80 |  10 |   939.22 | 2026-08-21T20:41:52Z |
 |        0 | 2.80 |   7 |   336.23 | 2024-04-21T18:38:24Z |
 :END:
 
@@ -249,8 +249,8 @@ Represents a number using a significand and an exponent: \(\text{significand} \t
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   278.61 | 2024-02-01T13:19:14Z |
-| back     | 2.50 |   7 |   268.25 | 2024-01-25T05:31:55Z |
+| front    | 2.50 |   8 |   756.80 | 2026-03-03T11:47:04Z |
+| back     | 2.50 |   8 |   709.70 | 2026-01-05T07:25:04Z |
 :END:
 
 [[id:f032f7df-4b61-4155-8edd-3808d76a1fa9][Single-precision floating-point number]]
