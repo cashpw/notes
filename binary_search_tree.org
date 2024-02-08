@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       dc929031-e15a-4566-a7bd-7331768ee02f
 :ROAM_ALIASES: "Sorted binary tree" "Ordered search tree"
-:LAST_MODIFIED: [2024-02-05 Mon 08:42]
+:LAST_MODIFIED: [2024-02-07 Wed 07:01]
 :END:
 #+title: Binary search tree
 #+hugo_custom_front_matter: :slug "dc929031-e15a-4566-a7bd-7331768ee02f"
@@ -61,7 +61,7 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   3 |     6.00 | 2024-01-31T15:24:11Z |
+|        0 | 2.65 |   4 |    16.67 | 2024-02-24T07:09:05Z |
 :END:
 
 *** Extra

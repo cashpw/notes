@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f1b60c4c-6161-435f-ae53-271f01264d7e
-:LAST_MODIFIED: [2024-01-27 Sat 10:45]
+:LAST_MODIFIED: [2024-02-07 Wed 07:01]
 :ROAM_REFS: [cite:@Sociotropy2023]
 :END:
 #+title: Sociotropy
@@ -28,7 +28,7 @@ People with sociotropy tend to have a strong need for social acceptance, which c
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |   3 |     6.00 | 2024-01-29T01:38:14Z |
+| front    | 1.30 |   4 |     7.56 | 2024-02-15T04:22:53Z |
 | back     | 1.75 |   6 |    29.49 | 2024-02-26T06:36:27Z |
 :END:
 

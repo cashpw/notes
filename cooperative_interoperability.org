@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d
-:LAST_MODIFIED: [2023-12-08 Fri 09:44]
+:LAST_MODIFIED: [2024-02-07 Wed 07:10]
 :END:
 #+title: Cooperative interoperability
 #+hugo_custom_front_matter: :slug "22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d"
@@ -26,14 +26,16 @@ One of the easiest ways to do this is to adopt a standard: [...] any phone manuf
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   280.65 | 2024-02-06T15:09:27Z |
+| front    | 2.80 |   8 |   791.20 | 2026-04-08T20:04:58Z |
 | back     | 2.50 |   7 |   308.16 | 2024-04-03T19:18:09Z |
 :END:
 
 [[id:22e66e33-e0e9-4b0c-acc0-95eeacaf3a2d][Cooperative interoperability]]
 
 *** Back
+
 [[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Interoperability]] achieved through intentional cooperation between makers.
+
 *** Source
 [cite:@doctorowInteroperabilityFixInternetNotTechCompanies2019]
 ** Example(s) :fc:

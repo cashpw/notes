@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       53999225-665e-4d16-9a0d-60c49293ccab
-:LAST_MODIFIED: [2024-02-05 Mon 08:44]
+:LAST_MODIFIED: [2024-02-07 Wed 07:07]
 :END:
 #+title: Latency
 #+hugo_custom_front_matter: :slug "53999225-665e-4d16-9a0d-60c49293ccab"
@@ -128,7 +128,7 @@ Amount of time required for a message to travel from the sender to receiver, whi
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   0 |     0.00 | 2024-02-05T16:44:08Z |
+| front    | 1.45 |   1 |     1.00 | 2024-02-08T15:07:35Z |
 | back     | 1.60 |   1 |     1.00 | 2024-01-24T01:40:09Z |
 :END:
 

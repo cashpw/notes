@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c74e3129-38af-45f8-bd2b-8a6fa5a0cad0
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c74e3129-38af-45f8-bd2b-8a6fa5a0cad0
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2024-02-07 Wed 06:32]
 :END:
 #+title: Document your work
 #+hugo_custom_front_matter: :slug "c74e3129-38af-45f8-bd2b-8a6fa5a0cad0"
@@ -25,6 +25,10 @@
 - Synthesize [[id:ffc0d2f1-9a41-4562-8625-a669a5110836][David Thompson | My Favourite Git Commit]] and [[id:89fb44ee-8994-4c6c-89db-bc210039a39b][Alexey Nikitin | My least favorite Git commit]]
 - Explicitly list the alternatives you considered and why you decided against them
 
+** TODO [#2] [[https://nicolasbouliane.com/blog/duty-to-document][Duty to Document]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2024-01-05 13:22]
+:END:
 * TODO [#4] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

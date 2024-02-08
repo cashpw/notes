@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4ab64054-a7a8-432e-bd5b-da1d8a01ae16
 :ROAM_REFS: [cite:@UnixPhilosophy2022]
-:LAST_MODIFIED: [2023-11-06 Mon 07:18]
+:LAST_MODIFIED: [2024-02-07 Wed 07:10]
 :END:
 #+title: Unix philosophy
 #+hugo_custom_front_matter: :slug "4ab64054-a7a8-432e-bd5b-da1d8a01ae16"
@@ -27,12 +27,13 @@ The Unix philosophy emphasizes building simple, compact, clear, modular, and ext
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   8 |   384.45 | 2024-11-25T02:04:12Z |
-| back     | 2.50 |   7 |   251.92 | 2024-01-31T18:40:59Z |
+| back     | 2.50 |   8 |   629.95 | 2025-10-29T14:01:10Z |
 :END:
 
 [[id:4ab64054-a7a8-432e-bd5b-da1d8a01ae16][Unix philosophy]]
 
 *** Back
+
 - Emphasizing simple, compact, clear, [[id:5d0c9c41-219f-4330-b2e6-0ae5daaa5355][Composable]], and extensible code
 *** Source
 [cite:@UnixPhilosophy2022]

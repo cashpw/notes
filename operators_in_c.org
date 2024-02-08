@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-02-05 Mon 08:44]
+:LAST_MODIFIED: [2024-02-07 Wed 07:11]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -292,7 +292,7 @@ int main() {
 #+end_src
 *** Source
 [cite:@Operators2023]
-** Denotes :fc:
+** Denotes (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 08:35]
 :FC_CREATED: 2023-05-11T15:36:27Z
@@ -303,7 +303,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   230.23 | 2024-07-31T20:33:16Z |
-| back     | 2.50 |   3 |     6.00 | 2023-12-26T15:31:52Z |
+| back     | 2.50 |   4 |    15.99 | 2024-02-23T15:03:19Z |
 :END:
 
 =[]= in the following:
@@ -314,7 +314,7 @@ char v[6];
 
 *** Back
 
-(C++) Array of
+Array of
 *** Source
 [cite:@stroustrupTour2022]
 ** Denotes :fc:

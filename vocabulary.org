@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-02-05 Mon 08:28]
+:LAST_MODIFIED: [2024-02-07 Wed 07:02]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -397,7 +397,7 @@ A person after whom a discovery, invention, place, etc., is named or thought to 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   6 |    17.38 | 2024-01-27T01:13:16Z |
+| front    | 1.45 |   7 |    26.21 | 2024-03-04T19:58:09Z |
 | back     | 2.35 |   5 |    32.35 | 2023-04-14T23:11:01Z |
 :END:
 

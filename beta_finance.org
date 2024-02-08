@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e9c9e62b-efe6-4348-898f-06ca2e03132c
 :ROAM_REFS: [cite:@BetaFinance2022]
-:LAST_MODIFIED: [2023-12-05 Tue 06:39]
+:LAST_MODIFIED: [2024-02-07 Wed 07:14]
 :END:
 #+title: Beta (finance)
 #+hugo_custom_front_matter: :slug "e9c9e62b-efe6-4348-898f-06ca2e03132c"
@@ -24,7 +24,7 @@ In finance, the beta (β or market beta or beta coefficient) is a measure of how
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   154.31 | 2024-01-30T22:37:49Z |
+| front    | 2.35 |   8 |   373.38 | 2025-02-15T00:22:54Z |
 | back     | 1.90 |   8 |   174.55 | 2024-05-28T03:50:36Z |
 :END:
 

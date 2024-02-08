@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       68df1a7c-9c9f-42f1-b270-56ab4b51e214
 :ROAM_REFS: [cite:@Logarithm2022]
-:LAST_MODIFIED: [2024-01-21 Sun 09:55]
+:LAST_MODIFIED: [2024-02-07 Wed 07:02]
 :END:
 #+title: Logarithm
 #+hugo_custom_front_matter: :slug "68df1a7c-9c9f-42f1-b270-56ab4b51e214"
@@ -74,7 +74,7 @@ $f(x) = \log_b(x)$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   9 |   324.42 | 2024-02-03T01:20:01Z |
+| back     | 2.65 |  10 |   844.00 | 2026-05-31T15:08:56Z |
 | front    | 2.35 |   8 |   318.47 | 2024-02-04T01:06:21Z |
 :END:
 

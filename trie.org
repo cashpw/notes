@@ -2,7 +2,7 @@
 :ID:       5b235c79-d75b-4e4e-808a-b43f532b6226
 :ROAM_ALIASES: "Prefix trie" "Prefix tree"
 :ROAM_REFS: [cite:@Trie2022]
-:LAST_MODIFIED: [2024-01-21 Sun 09:56]
+:LAST_MODIFIED: [2024-02-07 Wed 07:08]
 :END:
 #+title: Trie
 #+hugo_custom_front_matter: :slug "5b235c79-d75b-4e4e-808a-b43f532b6226"
@@ -34,7 +34,7 @@ In computer science, a [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]], also c
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   296.96 | 2024-06-21T14:13:20Z |
-| back     | 2.05 |   4 |    12.61 | 2024-02-03T08:41:38Z |
+| back     | 2.05 |   5 |    23.68 | 2024-03-02T07:26:54Z |
 :END:
 
 [[id:5b235c79-d75b-4e4e-808a-b43f532b6226][Trie]]

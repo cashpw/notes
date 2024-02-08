@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2aba17e5-6dca-46ae-ad64-1feb6e91a01d
-:LAST_MODIFIED: [2023-11-09 Thu 08:38]
+:LAST_MODIFIED: [2024-02-07 Wed 07:05]
 :END:
 #+title: I hate mondays
 #+hugo_custom_front_matter: :slug "2aba17e5-6dca-46ae-ad64-1feb6e91a01d"
@@ -46,13 +46,17 @@ Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   351.64 | 2024-02-03T18:59:53Z |
+| front    | 2.80 |   8 |   977.13 | 2026-10-11T18:10:36Z |
 | back     | 2.50 |   8 |   434.46 | 2024-09-05T04:21:59Z |
 :END:
+
 [[id:2aba17e5-6dca-46ae-ad64-1feb6e91a01d][I hate mondays]]
+
 *** Back
+
 - Mass shootings in USA political discourse
 - Death; [[id:2a13c6a7-c74c-408b-b30e-69a18c9ad9ab][Nick Bostrom | The Fable of the Dragon Tyrant]]
+
 *** Source
 [cite:@danskinHateMondays2020]
 * Bibliography

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@adlerHowReadBook1972]
 :ID:       52512c4c-d011-4cca-afd5-87db8442f9c3
-:LAST_MODIFIED: [2023-12-07 Thu 06:33]
+:LAST_MODIFIED: [2024-02-07 Wed 07:00]
 :END:
 #+title: Mortimer Jerome Adler, Charles Van Doren | How to Read a Book
 #+hugo_custom_front_matter: :slug "52512c4c-d011-4cca-afd5-87db8442f9c3"
@@ -25,7 +25,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.85 |   7 |    59.66 | 2024-02-05T06:20:27Z |
+| front    | 1.85 |   8 |   107.04 | 2024-05-24T15:59:54Z |
 :END:
 
 [[id:52512c4c-d011-4cca-afd5-87db8442f9c3][How to Read a Book]]

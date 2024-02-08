@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4b917306-e1fa-4d34-9d2b-5bb1eedab431
 :ROAM_REFS: [cite:@CoordinateVector2022]
-:LAST_MODIFIED: [2023-12-08 Fri 09:48]
+:LAST_MODIFIED: [2024-02-07 Wed 07:01]
 :END:
 #+title: Coordinate vector
 #+hugo_custom_front_matter: :slug "4b917306-e1fa-4d34-9d2b-5bb1eedab431"
@@ -28,13 +28,14 @@ $\begin{bmatrix}\vec{v}\end{bmatrix}_B$ denotes the coordinate vector $\vec{v}$ 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   325.11 | 2024-02-03T17:51:44Z |
+| back     | 2.65 |   9 |   823.57 | 2026-05-11T04:40:52Z |
 | front    | 2.80 |   9 |   940.17 | 2026-07-05T21:47:19Z |
 :END:
 
 Coordinate Vector
 
 *** Back
+
 A representation of a vector as an ordered list of numbers that describes the vector in terms of a particular ordered basis.
 
 *** Extra

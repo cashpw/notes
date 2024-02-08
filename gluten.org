@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       83bfa67e-8f43-45bd-b219-f920054bc016
 :ROAM_REFS: [cite:@Gluten2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2024-02-07 Wed 07:13]
 :END:
 #+title: Gluten
 #+hugo_custom_front_matter: :slug "83bfa67e-8f43-45bd-b219-f920054bc016"
@@ -27,12 +27,13 @@ Gluten is a structural protein naturally found in certain cereal grains.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   8 |   258.91 | 2024-05-08T14:28:24Z |
-| back     | 2.50 |   7 |   237.15 | 2024-02-01T19:07:37Z |
+| back     | 2.20 |   0 |     0.00 | 2024-02-07T15:13:02Z |
 :END:
 
 [[id:83bfa67e-8f43-45bd-b219-f920054bc016][Gluten]]
 
 *** Back
+
 A structural protein naturally found in certain cereal grains (e.g. wheat, barley, rye).
 *** Source
 [cite:@Gluten2022]

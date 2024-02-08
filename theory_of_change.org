@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cb4d578c-d0d4-4056-aad1-c6ee153eb42f
 :DIR:      /home/cashweaver/proj/roam/attachments/cb4d578c-d0d4-4056-aad1-c6ee153eb42f
-:LAST_MODIFIED: [2024-01-25 Thu 07:42]
+:LAST_MODIFIED: [2024-02-07 Wed 07:09]
 :END:
 #+title: Theory of change
 #+hugo_custom_front_matter: :slug "cb4d578c-d0d4-4056-aad1-c6ee153eb42f"
@@ -82,7 +82,7 @@ Based on [cite:@tyrrelTheoryChangeTheoryActionWhatDifferenceWhyDoesItMatter2019]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   304.35 | 2024-04-11T01:39:40Z |
-| back     | 1.90 |   3 |     6.00 | 2024-01-31T15:42:28Z |
+| back     | 1.90 |   4 |    12.20 | 2024-02-19T19:56:16Z |
 :END:
 
 Steps to create a [[id:cb4d578c-d0d4-4056-aad1-c6ee153eb42f][Theory of change]]

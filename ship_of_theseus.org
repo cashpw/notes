@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0e7c2358-2a89-4123-99a6-e55161ff8828
-:LAST_MODIFIED: [2024-01-25 Thu 07:42]
+:LAST_MODIFIED: [2024-02-07 Wed 07:14]
 :END:
 #+title: Ship of Theseus (argument)
 #+hugo_custom_front_matter: :slug "0e7c2358-2a89-4123-99a6-e55161ff8828"
@@ -42,7 +42,7 @@ How many words can you change in an argument before it's not the same argument a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   388.08 | 2024-07-02T17:59:25Z |
-| back     | 1.60 |   3 |     6.00 | 2024-01-31T15:42:14Z |
+| back     | 1.60 |   4 |     9.35 | 2024-02-16T23:40:49Z |
 :END:
 
 [[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]

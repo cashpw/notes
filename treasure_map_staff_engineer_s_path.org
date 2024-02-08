@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f3ca255f-a05d-4410-8a11-4fc48db1afe7
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2024-02-07 Wed 06:28]
 :END:
 #+title: Treasure map (Staff Engineer's Path)
 #+hugo_custom_front_matter: :slug "f3ca255f-a05d-4410-8a11-4fc48db1afe7"
@@ -13,6 +13,7 @@ Your treasure map can help you make sure everyone knows exactly what they're try
 
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 #+end_quote
+
 * TODO [#2] Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

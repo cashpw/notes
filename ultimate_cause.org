@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9245a0f6-660f-4820-9e03-793dc5978686
-:LAST_MODIFIED: [2023-12-08 Fri 09:49]
+:LAST_MODIFIED: [2024-02-07 Wed 07:04]
 :ROAM_ALIASES: "Distal cause"
 :END:
 #+title: Ultimate cause
@@ -45,7 +45,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   223.95 | 2024-01-30T13:54:28Z |
+| front    | 2.65 |   8 |   569.81 | 2025-08-30T10:26:23Z |
 | back     | 2.65 |   7 |   282.18 | 2024-05-01T08:06:37Z |
 :END:
 

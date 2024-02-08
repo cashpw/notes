@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-02-05 Mon 08:39]
+:LAST_MODIFIED: [2024-02-07 Wed 06:52]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1609,13 +1609,14 @@ $0 \leq x \leq 1$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   326.51 | 2024-01-20T16:59:01Z |
+| back     | 2.35 |   9 |   827.78 | 2026-05-15T09:31:01Z |
 | front    | 2.50 |   8 |   342.68 | 2024-01-05T05:59:16Z |
 :END:
 
 Isomorphism
 
 *** Back
+
 A mapping between two structures of the same type that can be reversed by an inverse mapping.
 
 *** Source

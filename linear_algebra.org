@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-02-05 Mon 08:39]
+:LAST_MODIFIED: [2024-02-07 Wed 06:59]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -174,7 +174,7 @@ eg: $x+y^2$, $x+xy$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   0 |     0.00 | 2024-02-05T16:31:59Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-08T14:59:38Z |
 :END:
 
 Describe the properties required for $U$ to be a subspace of a vector space $V$ over a field $F$, given $U \subset V$.

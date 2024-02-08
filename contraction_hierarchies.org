@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-02-05 Mon 08:40]
+:LAST_MODIFIED: [2024-02-07 Wed 07:06]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -579,12 +579,13 @@ Edge difference
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.20 |   6 |    67.93 | 2024-02-14T16:02:48Z |
-| back     |  2.5 |  -1 |        0 | 2023-06-16T23:23:36Z |
+| back     | 2.50 |   1 |     1.00 | 2024-02-08T15:06:13Z |
 :END:
 
 Contracted neighbors
 
 *** Back
+
 - Heuristic for deciding the order to contract vertices in a graph
 - Ranks vertices by the proximity of other contracted vertices
 *** Source

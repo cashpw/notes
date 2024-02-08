@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f89236e3-90bc-413f-a5da-173b2f71a17d
-:LAST_MODIFIED: [2024-01-20 Sat 12:31]
+:LAST_MODIFIED: [2024-02-07 Wed 07:13]
 :ROAM_ALIASES: "Not all those who wander are lost"
 :END:
 #+title: The Riddle of Strider
@@ -96,10 +96,13 @@ The crownless again shall be king.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   313.59 | 2024-02-03T03:47:54Z |
+| front    | 2.80 |   8 |   953.57 | 2026-09-18T04:47:18Z |
 :END:
+
 [[id:f89236e3-90bc-413f-a5da-173b2f71a17d][The Riddle of Strider]]
+
 *** Back
+
 [[id:c1905dd8-5117-45c8-9da3-e822c22a932e][J. R. R. Tolkien]]
 * Bibliography
 #+print_bibliography:

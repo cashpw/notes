@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       bd9daffc-f556-4bdc-975e-e35c3c98ebee
-:LAST_MODIFIED: [2023-12-07 Thu 06:40]
+:LAST_MODIFIED: [2024-02-07 Wed 07:12]
 :END:
 #+title: Cognitive task analysis
 #+hugo_custom_front_matter: :slug "bd9daffc-f556-4bdc-975e-e35c3c98ebee"
@@ -41,7 +41,7 @@ Also see [[id:31152f53-1769-454c-be11-643a5405eb5d][Applied cognitive task analy
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    91.94 | 2024-03-05T13:38:06Z |
-| back     | 2.20 |   6 |    57.07 | 2024-02-02T16:14:34Z |
+| back     | 2.05 |   7 |   109.84 | 2024-05-27T11:26:27Z |
 :END:
 
 [[id:bd9daffc-f556-4bdc-975e-e35c3c98ebee][Cognitive task analysis]]
