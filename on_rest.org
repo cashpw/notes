@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       9e9ac06f-c569-4f32-ba44-d342ee573757
+:LAST_MODIFIED: [2024-02-08 Thu 08:22]
+:ROAM_ALIASES: "On sabbath"
+:END:
+#+title: On rest
+#+hugo_custom_front_matter: :slug "9e9ac06f-c569-4f32-ba44-d342ee573757"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-08 Thu 08:20]
+#+filetags: :hastodo:concept:
+
+An [[id:2a6113b3-86e9-4e70-8b81-174c26bfeb01][On X]].
+
+#+begin_quote
+The Sabbath is a day for the sake of life. Man is not a beast of burden, and the Sabbath is not for the purpose of enhancing the efficiency of his work
+
+[cite:@heschelSabbathItsMeaningModernMan2005]
+#+end_quote
+
+- [cite:@benquoSabbathHardGoHome]
+- [cite:@heschelSabbathItsMeaningModernMan2005]
+
+* TODO [#3] Expand or split :noexport:
+* Bibliography
+#+print_bibliography:
+
+* Flashcards :noexport:

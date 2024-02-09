@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@SmartGuyProductivityPitfalls]
 :ID:       9ed16182-a4a5-4bf6-a5c7-b6196c6eca97
-:LAST_MODIFIED: [2024-01-17 Wed 06:52]
+:LAST_MODIFIED: [2024-02-08 Thu 08:16]
 :END:
 #+title: Smart Guy Productivity Pitfalls
 #+hugo_custom_front_matter: :slug "9ed16182-a4a5-4bf6-a5c7-b6196c6eca97"
@@ -12,7 +12,9 @@
 Unknown, [cite:@SmartGuyProductivityPitfalls]
 
 * Summary
+
 The simplicity of "Work smart, not hard" is deceptive. It's too easy to conclude that you don't need to work hard -- only smart. This is the pitfall.
+
 * Thoughts
 
 This is one of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].

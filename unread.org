@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2024-02-07 Wed 20:30]
+:LAST_MODIFIED: [2024-02-08 Thu 12:01]
 :ROAM_ALIASES: Unread
 :END:
 #+TITLE: Reading list
@@ -13627,309 +13627,53 @@ https://news.ycombinator.com/item?id=19181931
 :PROPERTIES:
 :CREATED: [2024-01-29 17:24]
 :END:
-** TODO [#2] [[https://www.fosskers.ca/en/blog/rounds-of-lisp][A Tour of the Lisps]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-29 21:15]
-:END:
-** TODO [#2] [[https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html][Penn Jillette wants to talk it all out]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-29 22:37]
-:END:
-** TODO [#2] [[https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that][How to do things if you're not that smart and don't have any talent]] :unlabeled:
+** TODO [#2] [[https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that][How to do things if you're not that smart and don't have any talent]] :advice:
 :PROPERTIES:
 :CREATED: [2024-01-29 23:01]
 :END:
-** TODO [#2] [[https://dl.acm.org/doi/10.1145/3623614][Protecting Secrets from Computers (2023)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-30 02:16]
-:END:
-** TODO [#2] [[https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia][There's So Much Data Even Spies Are Struggling to Find Secrets]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-30 06:42]
-:END:
-** TODO [#2] [[https://chadaustin.me/2024/01/truecolor-terminal-emacs/][I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals]] :unlabeled:
+** TODO [#2] [[https://chadaustin.me/2024/01/truecolor-terminal-emacs/][I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals]] :emacs:
 :PROPERTIES:
 :CREATED: [2024-01-30 13:32]
 :END:
-** TODO [#2] [[https://thezvi.wordpress.com/2024/01/30/childhood-and-education-roundup-4/][Childhood and Education Roundup #4]] :unlabeled:
+** TODO [#2] [[https://thezvi.wordpress.com/2024/01/30/childhood-and-education-roundup-4/][Childhood and Education Roundup #4]] :parenting:learning:art:link_group:
 :PROPERTIES:
 :CREATED: [2024-01-30 13:44]
 :END:
-** TODO [#2] [[https://innuendostudios.tumblr.com/post/740947261514727424][New video essay! On the Reverse Gish Gallop - how conservatives can ignore 90% of your argument and&hellip;]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-30 13:46]
-:END:
-** TODO [#2] [[https://akrl.sdf.org/#orgc15a10d][The original magic Emacs garbage collection hack (2019)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-30 13:54]
-:END:
-** TODO [#2] [[https://unherd.com/2024/01/how-safetyism-killed-playtime/][Safetyism killed playtime]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-30 15:16]
-:END:
-** TODO [#2] [[https://newsletter.pragmaticengineer.com/p/zirp-software-engineers][What the The end of 0% interest rates means for software engineers]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-30 17:57]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/1afgenv/what_outofprint_books_should_stripe_publish/][What out-of-print books should Stripe publish?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-31 12:09]
-:END:
-** TODO [#2] [[https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/][Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-31 19:32]
-:END:
-** TODO [#2] [[https://www.nateliason.com/blog/infomania][Fighting Infomania: Why 80% of Your Reading Is a Waste of Time (2016)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-31 20:03]
-:END:
-** TODO [#2] [[https://www.currentaffairs.org/2024/01/why-you-should-be-a-luddite][Why You Should Be a Luddite]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-01-31 22:58]
-:END:
-** TODO [#2] [[https://vitalik.eth.limo/general/2024/01/31/end.html][The End of My Childhood]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 00:12]
-:END:
-** TODO [#2] [[https://journals.sagepub.com/doi/full/10.1177/0269881120959637][Pivotal Mental States (2020)]] :unlabeled:
+** TODO [#0] [[https://journals.sagepub.com/doi/full/10.1177/0269881120959637][Pivotal Mental States (2020)]] :unlabeled:
 :PROPERTIES:
 :CREATED: [2024-02-01 04:49]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1ag4ima/impact_driven_development_is_the_curse_of_big_tech/][Impact Driven Development is the Curse of Big Tech]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 06:26]
-:END:
-** TODO [#2] [[https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html]['I should not have written 'A Clockwork Orange'']] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 13:56]
-:END:
-** TODO [#2] [[https://thezvi.wordpress.com/2024/02/01/ai-49-bioweapon-testing-begins/][AI #49: Bioweapon Testing Begins]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 15:27]
-:END:
-** TODO [#2] [[https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional][U.S. Corporations Are Openly Trying to Destroy Core Public Institutions]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 19:52]
-:END:
-** TODO [#2] [[https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx][Meta Reports Fourth Quarter and Full Year 2023 Results]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 21:07]
-:END:
-** TODO [#2] [[https://www.ethanalter.com/blog/motivation][We need motivation (good managers)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 21:45]
-:END:
-** TODO [#2] [[https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following][Everybody has to self-promote now. Nobody wants to]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-01 22:58]
-:END:
-** TODO [#2] [[https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep][The medieval habit of 'two sleeps' (2022)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 04:02]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1agyvxn/how_to_onboard_as_a_senior_dev/][How to onboard as a senior dev]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 08:20]
-:END:
-** TODO [#2] [[https://ruhlman.com/homemade-pasta/][Homemade Pasta. Now Is the Time (2021)]] :unlabeled:
+** TODO [#2] [[https://ruhlman.com/homemade-pasta/][Homemade Pasta. Now Is the Time (2021)]] :cooking:
 :PROPERTIES:
 :CREATED: [2024-02-02 12:23]
 :END:
-** TODO [#2] [[https://www.bls.gov/news.release/archives/empsit_02022024.htm][Payroll employment rises by 353K in January; unemployment rate remains at 3.7%]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 13:32]
-:END:
-** TODO [#2] [[https://vulncheck.com/blog/too-many-honeypots][There are too many damn honeypots]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 14:46]
-:END:
-** TODO [#2] [[https://www.shyamsankar.com/p/technology-is-the-problem][An alternative cause for the Great Stagnation: the cargo cult company]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 15:31]
-:END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=39230025][Tips for Remote Workers]] :unlabeled:
+** TODO [#2] [[https://news.ycombinator.com/item?id=39230025][Tips for Remote Workers]] :advice:
 :PROPERTIES:
 :CREATED: [2024-02-02 15:54]
 :END:
-** TODO [#2] [[https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/][Print off a QR code for guests to join your WiFi network]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 17:08]
-:END:
-** TODO [#2] [[https://thezvi.wordpress.com/2024/02/02/on-dwarkeshs-3rd-podcast-with-tyler-cowen/][On Dwarkesh's 3rd Podcast With Tyler Cowen]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 19:24]
-:END:
-** TODO [#2] [[https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492][Limitarianism: The Case Against Extreme Wealth]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 19:46]
-:END:
-** TODO [#2] [[https://zenhabits.net/slow/][Slow Down to Fall in Love Again]] :unlabeled:
+** TODO [#2] [[https://zenhabits.net/slow/][Slow Down to Fall in Love Again]] :advice:
 :PROPERTIES:
 :CREATED: [2024-02-02 21:34]
 :END:
-** TODO [#2] [[https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them][Daunting papers/books and how to read them]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 22:44]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/tumblr/comments/1ahgvey/art/][Art]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 22:57]
-:END:
-** TODO [#2] [[https://calnewport.com/heschel-on-the-joys-of-slowness/][Heschel on the Joys of Slowness]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-02 23:10]
-:END:
-** TODO [#2] [[https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/][The decline of hardware knowledge in the era of cloud native compute]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 05:50]
-:END:
-** TODO [#2] [[https://willbush.dev/blog/complex-appliances/][Goodbye Non-Kiss Appliances]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 06:24]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1ahwoyk/just_accepted_my_first_team_lead_position_any/][Just accepted my first team lead position. Any sage advice?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 13:58]
-:END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=39240608][Ask HN: Have humans always found socialising so challenging?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 14:28]
-:END:
-** TODO [#2] [[https://www.youtube.com/watch?v=Z0SJNkzOiq4][Current Software Engineers Have No Deep Knowledge (Jonathan Blow) [video]]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 15:17]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/1ahzg73/what_set_high_achievers_apart_from_other_people/][What set high achievers apart from other people?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 16:07]
-:END:
-** TODO [#2] [[https://alexharri.com/blog/vector-networks][The engineering behind Figma's vector networks (2019)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 16:26]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/1ai05w7/the_journal_of_dangerous_ideas/][The Journal of Dangerous Ideas]] :unlabeled:
+** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/1ai05w7/the_journal_of_dangerous_ideas/][The Journal of Dangerous Ideas]] :essay:
 :PROPERTIES:
 :CREATED: [2024-02-03 16:38]
 :END:
-** TODO [#2] [[https://faculty.wcas.northwestern.edu/mdo738/research/Doepke_Hannusch_Kindermann_Tertilt_Handbook_23.pdf][The economics of fertility: a new era (2023) [pdf]]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 17:50]
-:END:
-** TODO [#2] [[https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6][DIY MBA: My Reading List (2019)]] :unlabeled:
+** TODO [#2] [[https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6][DIY MBA: My Reading List (2019)]] :book:link_group:
 :PROPERTIES:
 :CREATED: [2024-02-03 18:10]
 :END:
-** TODO [#2] [[https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work][How much bigger could Earth be before rockets wouldn't work?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-03 18:36]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1aiddlc/how_do_you_shine_when_you_working_amongst_really/][How do you shine when you working amongst really smart people?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 02:41]
-:END:
-** TODO [#2] [[https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight][Why is the mouse cursor slightly tilted and not straight?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 06:57]
-:END:
-** TODO [#2] [[https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days][How to Replace Your CPAP in Only 666 Days]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 08:36]
-:END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=39248780][Ask HN: What are you reading Feb 2024]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 09:17]
-:END:
-** TODO [#2] [[https://gspanos.tech/posts/facts-1/][You are what you love]] :unlabeled:
+** TODO [#2] [[https://gspanos.tech/posts/facts-1/][You are what you love]] :advice:
 :PROPERTIES:
 :CREATED: [2024-02-04 09:57]
 :END:
-** TODO [#2] [[https://www.reddit.com/r/slatestarcodex/comments/1ailbbw/bloggers_or_thinkers_you_follow_that_are_not_from/][Bloggers or thinkers you follow that are not from North America or Anglophone countries?]] :unlabeled:
+** TODO [#2] https://gurwinder.substack.com/p/30-useful-principles-autumn-2023
 :PROPERTIES:
-:CREATED: [2024-02-04 10:50]
+:CREATED: [2024-02-04 09:57]
 :END:
-** TODO [#2] [[https://kill-the-newsletter.com/alternates/7gznfziqnhh8ea7x.html][Napoleon: a Cautionary Tale for Young Idealists (and other January 2024 updates)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 16:44]
-:END:
-** TODO [#2] [[https://deeshee.io/2024/02/04/digitopia-is-ruining.html][Digitopia is ruining our lives]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 17:50]
-:END:
-** TODO [#2] [[https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428][Gödel, Escher, Bach is the most influential book in my life (2022)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 18:48]
-:END:
-** TODO [#2] [[https://austinhenley.com/blog/copilotpainpoints.html][The pain points of building a copilot]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-04 21:50]
-:END:
-** TODO [#2] [[https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html][A practical guide to quitting your smartphone]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 01:03]
-:END:
-** TODO [#2] [[https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/][Tell me your most exotic selfhosted solution]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 12:47]
-:END:
-** TODO [#2] [[https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf][Report on the role of standardized test scores in undergraduate admissions [pdf]]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 16:35]
-:END:
-** TODO [#2] [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(02)08436-2/fulltext][Earl Grey tea intoxication (2022)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 16:52]
-:END:
-** TODO [#2] [[https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt][The road to hell is paved with asphalt]] :unlabeled:
+** TODO [#2] [[https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt][The road to hell is paved with asphalt]] :housing:
 :PROPERTIES:
 :CREATED: [2024-02-05 17:05]
-:END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=39263664][Ask HN: What have you built with LLMs?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 17:16]
-:END:
-** TODO [#2] [[https://www.youtube.com/watch?v=D81y-kh11oI][Bootstrap or VC? [video]]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 17:47]
-:END:
-** TODO [#2] [[https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/][WA House bill would make it illegal for police to lie during interrogations]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 18:03]
-:END:
-** TODO [#2] [[https://news.ycombinator.com/item?id=39264751][Ask HN: How to find time to learn after full-time job?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 18:25]
-:END:
-** TODO [#2] [[https://fs.blog/gates-law/][Gates' Law: How progress compounds and why it matters (2018)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 20:06]
-:END:
-** TODO [#2] [[https://dmytry.github.io/space/][Relativistic Spaceship]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 20:07]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1ajrm83/what_would_you_buy_with_the_yearly_learning/][What would you buy with the yearly "Learning budget" that your company gives you?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-05 21:07]
-:END:
-** TODO [#2] [[https://blog.appliedcomputing.io/p/okrs-are-bullshit][OKRs Are Bullshit]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-06 05:25]
-:END:
-** TODO [#2] [[https://arxiv.org/abs/2402.03239][Bluesky and the AT Protocol: Usable decentralized social media]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-06 15:25]
-:END:
-** TODO [#2] [[https://ourworldindata.org/much-better-awful-can-be-better][The world is awful. The world is much better. The world can be much better]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-06 18:46]
-:END:
-** TODO [#2] [[https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc][Why I Live in IRC (2015)]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-06 19:39]
-:END:
-** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1aklu0u/staff_engineers_how_many_of_you_regularly_write/][Staff+ engineers, how many of you regularly write code?]] :unlabeled:
-:PROPERTIES:
-:CREATED: [2024-02-06 21:52]
 :END:
 * Flashcards :noexport:
 * Bibliography

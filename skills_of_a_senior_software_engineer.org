@@ -1,13 +1,15 @@
 :PROPERTIES:
 :ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
 :DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
-:LAST_MODIFIED: [2024-01-21 Sun 09:59]
+:LAST_MODIFIED: [2024-02-08 Thu 11:38]
 :END:
-#+title: Skills of a senior software engineer
+#+title: On lead/senior, and staff, engineering
 #+hugo_custom_front_matter: :slug "973e037c-6ae7-4c6a-abf8-57339feb49f9"
 #+author: Cash Prokop-Weaver
 #+date: [2022-02-21 Mon 15:20]
 #+filetags: :hastodo:concept:
+
+An [[id:2a6113b3-86e9-4e70-8b81-174c26bfeb01][On X]].
 
 A senior software engineer is an amorphous title. Companies will often use their own term, or invent further terms above or below "senior". The definition or requirements will be different for each person you ask.
 
@@ -54,6 +56,14 @@ I've sought out common traits of "senior" roles and collected them here to help 
 - [cite:@16xEngineer]
 - [cite:@StoriesReachingStaffplus]
 
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1ahwoyk/just_accepted_my_first_team_lead_position_any/][Just accepted my first team lead position. Any sage advice?]] :unlabeled:
+:PROPERTIES:
+:CREATED: [2024-02-03 13:58]
+:END:
+** TODO [#2] [[https://www.reddit.com/r/ExperiencedDevs/comments/1aiddlc/how_do_you_shine_when_you_working_amongst_really/][How do you shine when you working amongst really smart people?]] :advice:career:
+:PROPERTIES:
+:CREATED: [2024-02-04 02:41]
+:END:
 * TODO [#2] Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

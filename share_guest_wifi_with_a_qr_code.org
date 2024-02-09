@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       17de4e61-655d-43aa-8d77-6236f27b6149
+:ROAM_ALIASES: "Print a QR code for your guest wi-fi"
+:LAST_MODIFIED: [2024-02-08 Thu 08:11]
+:END:
+#+title: Share guest wi-fi with a QR code
+#+hugo_custom_front_matter: :slug "17de4e61-655d-43aa-8d77-6236f27b6149"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-08 Thu 08:09]
+#+filetags: :concept:
+
+Inspired by [cite:@PrintQRCodeGuestsJoinYourWiFiNetork].
+
+1. Visit [[http://qifi.org][qifi.org]]
+2. Enter your wi-fi information
+3. Export/Print the code
+4. Stick it on your fridge/etc
+
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
