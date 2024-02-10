@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 :ID:       8d42e706-7fa3-4910-a0be-db0fe90083a9
-:LAST_MODIFIED: [2024-02-06 Tue 11:09]
+:LAST_MODIFIED: [2024-02-09 Fri 10:00]
 :END:
 #+title: Jeffrey Pfeffer | 7 Rules of Power
 #+hugo_custom_front_matter: :slug "8d42e706-7fa3-4910-a0be-db0fe90083a9"
@@ -19,7 +19,14 @@ Power comes from playing [[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]].
 
 1. [[id:47895906-e123-4c10-ae95-c073abcf0c58][Get out of your own way]]
 2. Break the rules
+
+   Rules reinforce existing power dynamics. Don't play by a set of rules which puts you at a disadvantage. Instead, find/create another path which works to your advantage.
+
+   See also [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]], [[id:ee79bad4-e57f-4b59-973f-5a2ccc6fd0f8][It's better to ask forgiveness than permission]]
 3. Appear powerful
+
+   First impressions matter. Others will judge you on your appearance, use of language, behavior, body language, and what/who surrounds you (just to name a few). Make it so they see you as you want to be seen.
+
 4. Build a powerful brand
 5. Network relentlessly
 6. Use your power
@@ -27,17 +34,16 @@ Power comes from playing [[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]].
 
 * TODO Thoughts
 
-A primarily vibes-based book. Pfeffer does cite some studies but the main thrust is that the assertions are correct because they are self-evident, or that they're true based on the author's experience.
-
-A [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]].
+A primarily vibes-based [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]. Pfeffer does cite some studies but the main thrust is that the assertions are correct because they are self-evident, or that they're true based on the author's experience.
 
 Also look at:
 
 - https://news.ycombinator.com/item?id=39084979
+
 * Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/8d/42e706-7fa3-4910-a0be-db0fe90083a9/7-rules-power.pdf
-:NOTER_PAGE: 65
+:NOTER_PAGE: 94
 :END:
 ** Title Page
 :PROPERTIES:
@@ -85,18 +91,15 @@ How people think of themselves invariably influences what they project to others
 Getting over imposter syndrome [[[id:0bca32c4-f7f9-416a-ab73-75025a933a36][Impostor syndrome]]] is a first step on a person's path to power.
 #+end_quote
 
-#+begin_quote
-Here's a practical exercise that you can do and then repeat occasionally as part of your personal development. Write down the adjectives you use to describe yourself, both to yourself and to others. Check with friends to see if your list is correct. Then ask yourself what descriptors you need to get rid of in order to project yourself in a more powerful way. Ask yourself what positive adjectives about yourself—language that gives credit to your accomplishments and credentials—you underutilize in your interactions with others.
-
-A related exercise: record yourself [[[id:9fbce18e-0a25-4876-a2e8-96acb60caab8][Record yourself]]] as you interact in professional settings throughout a day or week. Then analyze how many times you begin an interaction by apologizing for intruding, for interrupting, for taking the other person's time, for offering your ideas. Ask friends and colleagues how often you actively participate in discussion and forcefully offer your opinions, and how often you begin interactions by apologizing for offering them.
-
-And here's a third exercise you can and should do. As you describe yourself to others, as you articulate a narrative of your career so far, as you create a personal brand—a topic we will explore in more detail in Rule 4— do you talk about your accomplishments, your credentials, or what you have done successfully? Or do you attempt to appear modest and self-effacing, downplay your achievements, positions you have held, honors you have achieved, and your talents?
-#+end_quote
 
 *** Be willing to do whatever it takes --- don't run away from power
 :PROPERTIES:
 :NOTER_PAGE: (45 . 0.270979020979021)
 :END:
+
+#+begin_quote
+People who see power as evil or dirty may abjure power and be unwilling to "play the game."
+#+end_quote
 
 #+begin_quote
 Different people are willing to do different things in order to succeed. Just because you won't network, or flatter, or self-promote, certainly does not mean that all of your competitors will be as circumspect. To the extent people opt out of doing things their colleagues are willing to do—tactics that build power—they put themselves at a disadvantage.
@@ -167,21 +170,133 @@ It's impossible to make everyone like you, by definition. Doing X will offend th
 [...] The first rule of power is about acknowledging and accepting who you are but not letting that identity define who you will be forever. It is about understanding the importance of social connection but not letting the need for acceptance overwhelm what you want to get done, and the necessity of pursuing your own interests and agenda. It is, in short, about getting out of your own way and getting on with the task of building the power base that will provide you the leverage to accomplish your goals.
 #+end_quote
 
-*** TODO Extract exercises
+*** Exercises
 
+1. How do you describe yourself?
+
+   #+begin_quote
+Write down the adjectives you use to describe yourself, both to yourself and to others. Check with friends to see if your list is correct. Then ask yourself what descriptors you need to get rid of in order to project yourself in a more powerful way. Ask yourself what positive adjectives about yourself—language that gives credit to your accomplishments and credentials—you underutilize in your interactions with others.
+
+[cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
+#+end_quote
+
+2. [[id:9fbce18e-0a25-4876-a2e8-96acb60caab8][Record yourself]]
+
+3. How do you diminish yourself?
+
+   #+begin_quote
+As you describe yourself to others, as you articulate a narrative of your career so far, as you create a personal brand—a topic we will explore in more detail in Rule 4— do you talk about your accomplishments, your credentials, or what you have done successfully? Or do you attempt to appear modest and self-effacing, downplay your achievements, positions you have held, honors you have achieved, and your talents?
+#+end_quote
 ** INPROGRESS Rule 2 | Break the Rules
 :PROPERTIES:
 :NOTER_PAGE: (62 . 0.230114)
 :END:
+
+- [[id:ee79bad4-e57f-4b59-973f-5a2ccc6fd0f8][It's better to ask forgiveness than permission]]
+
 *** Why and how rule breaking works to create power
 :PROPERTIES:
 :NOTER_PAGE: (65 . 0.11013986013986014)
 :END:
 
+1. People associate powerful people with rule-breaking behaviors, so engaging in rule-breaking behaviors can make people think you're powerful
+
+   #+begin_quote
+[...] This heuristic association between power and rule breaking—the powerful are freer to defy social norms and conventions and get away with it, and thus, powerful people are more likely to enact socially inappropriate behavior—prompted University of Amsterdam–based social scientist Gerben van Kleef and colleagues to ask if breaking rules could actually cause the rule breakers to seem more powerful. In a series of experimental studies using multiple methods, including a scenario, a film clip, and face-to-face interaction, the answer was "yes."
+#+end_quote
+
+   Related: [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]], [[id:d1fa918e-df74-43e5-b430-211129a3208e][Act the part]]
+
+2. Breaking rules is a surprising behavior; it makes you stand out
+
+   #+begin_quote
+Okay, what works? Going to the top works... Everybody in between doesn't matter.
+
+/Jason Calacanis/
+#+end_quote
+
+3. [[id:ee79bad4-e57f-4b59-973f-5a2ccc6fd0f8][It's better to ask forgiveness than permission]]
+
+4. Rules reinforce existing power dynamics
+
+   #+begin_quote
+[...] rules and norms tend to favor those with the power to make them—who tend to be the entities in power. Why play by rules others have made that may disadvantage you?
+   #+end_quote
+
+#+begin_quote
+Here's the difficulty in the advice to disregard rules and social expectations. [...] People like to play by the rules, regardless of the results. [...] Asymmetric warfare and unconventional strategies may bring success and power, but to break
+the rules, people need to be able to stand the resulting social disapproval.
+#+end_quote
+
+*** The dilemma: To fit in or stand out
+:PROPERTIES:
+:NOTER_PAGE: (72 . 0.3995656894679696)
+:END:
+
+
+People want to fit in, but also they want to be distinct.
+
+*** Break the rules by asking for things
+:PROPERTIES:
+:NOTER_PAGE: (73 . 0.8496199782844734)
+:END:
+
+People like to help. Ask for help and you'll get it. It'll work more often than you think, so get over your apprehensions.
+
+*** Rule breaking and change
+:PROPERTIES:
+:NOTER_PAGE: (76 . 0.8398479913137894)
+:END:
+
+#+begin_quote
+To follow rules and adhere to social expectations that disadvantage you in your path to power is to consign yourself to unduly limited opportunities and prospects. Thus, for those who seek power, particularly those seeking it from positions of disadvantage, breaking the rules is the only possible, sensible option. Simply put, if you are going to win given the rules in place, by all means follow and advocate for those rules. For everyone else less guaranteed of inevitable success, rule breaking [...] provides an empirically validated — and virtually the only feasible — path to success.
+#+end_quote
+
+
 ** Rule 3 | Appear Powerful
 :PROPERTIES:
 :NOTER_PAGE: (79 . 0.230114)
 :END:
+
+
+#+begin_quote
+[...] if you want to attain and maintain power [...:] appear powerful, because others will treat you and make decisions about you depending on how you show up, and those decisions will often act in ways to make the initial impressions become true.
+#+end_quote
+
+#+begin_quote
+The first recommendation about showing up in a powerful way: don't use notes or a lot of other props or cues, particularly things that would cause you not to make eye contact with the person or people you are speaking with.
+#+end_quote
+
+#+begin_quote
+As I make clear in this chapter, language—and body language—matters for how others judge us, and those judgments have consequences.
+#+end_quote
+
+#+begin_quote
+Certain emotional displays convey strength; others do not. Therefore, it is important to convey powerful emotions and avoid expressing those that signal lower status. In this regard, many people find it counterintuitive that anger is a powerful emotion and that displaying it is often a smart power move—even when, or possibly particularly when, someone has made a mistake or has been uncovered in some malfeasance. By contrast, expressing sadness or remorse and apologizing conveys much less power— and therefore should be avoided under conditions when appearing powerful and competent is important, which is more frequently than most people think.
+
+[...]
+
+Social psychologist Larissa Tiedens noted that "people expressing anger are seen as dominant, strong, competent and smart" and that "people believe individuals with angry facial expressions occupy more powerful social positions than do individuals with sad facial expressions."
+#+end_quote
+
+[[id:f331c0a1-39b2-4752-84a9-f9656d1750c5][Never play defense]]
+
+Paraphrasing a good chunk: Con men are effective. Don't embody them but do study and understand /why/ they're effective so that you can use those techniques toward better ends.
+
+Signal power with body language:
+
+- Gesture more
+  - Use controlled arm and hand gestures
+- Hold an open body posture
+- Place yourself closer to others; have less interpersonal distance
+- Speak loudly
+- Interrupt others
+- Speak more than others
+- Hold others gazes
+
+Signal power with speach:
+
+- Simple speak (lower on the Flesch-Kincaid scale.)
 ** Rule 4 | Build a Powerful Brand
 :PROPERTIES:
 :NOTER_PAGE: (98 . 0.230114)

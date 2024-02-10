@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
 :ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
-:LAST_MODIFIED: [2024-02-05 Mon 08:45]
+:LAST_MODIFIED: [2024-02-09 Fri 06:16]
 :END:
 #+title: IEEE 754
 #+hugo_custom_front_matter: :slug "23e97230-9b73-4232-a76e-a1223b9bb70e"
@@ -276,7 +276,7 @@ Represents a number using a significand and an exponent: \(\text{significand} \t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   660.01 | 2025-08-03T07:05:49Z |
-| back     | 2.95 |   7 |   303.07 | 2024-01-30T18:43:17Z |
+| back     | 2.95 |   8 |   974.58 | 2026-10-11T04:08:44Z |
 :END:
 
 [[id:61d6d080-7462-46d7-8107-ed71b6296e30][Double-precision floating-point number]]

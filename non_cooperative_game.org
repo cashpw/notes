@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e826003f-a13e-4cce-9b80-30f8bd802374
 :ROAM_REFS: [cite:@NoncooperativeGameTheory2022]
-:LAST_MODIFIED: [2024-01-20 Sat 12:37]
+:LAST_MODIFIED: [2024-02-09 Fri 06:18]
 :END:
 #+title: Non-cooperative game
 #+hugo_custom_front_matter: :slug "e826003f-a13e-4cce-9b80-30f8bd802374"
@@ -29,7 +29,7 @@ The key distinguishing feature is the absence of external authority to establish
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   8 |   793.17 | 2026-03-14T21:24:17Z |
-| back     | 1.75 |   5 |    18.20 | 2024-02-08T01:28:12Z |
+| back     | 1.75 |   6 |    30.18 | 2024-03-10T18:34:18Z |
 :END:
 
 [[id:e826003f-a13e-4cce-9b80-30f8bd802374][Non-cooperative game]]

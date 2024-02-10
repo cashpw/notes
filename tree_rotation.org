@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f0deaa3b-c3bc-491d-adc3-6e6595cb558e
-:LAST_MODIFIED: [2024-02-05 Mon 08:28]
+:LAST_MODIFIED: [2024-02-09 Fri 06:20]
 :END:
 #+title: Tree rotation
 #+hugo_custom_front_matter: :slug "f0deaa3b-c3bc-491d-adc3-6e6595cb558e"
@@ -65,11 +65,15 @@ In discrete mathematics, tree rotation is an operation on a [[id:323bf406-41e6-4
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.95 |   7 |   353.90 | 2024-03-02T12:36:02Z |
-| front    | 2.65 |   7 |   264.83 | 2024-01-30T11:56:44Z |
+| front    | 2.50 |   8 |   725.17 | 2026-02-03T18:25:14Z |
 :END:
+
 [[id:f0deaa3b-c3bc-491d-adc3-6e6595cb558e][Tree rotation]]
+
 *** Back
+
 An operation on a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] that changes the structure without interfering with the order of the elements by moving one [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] up and one [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertex]] down.
+
 *** Source
 [cite:@TreeRotation2022]
 ** Describe :fc:

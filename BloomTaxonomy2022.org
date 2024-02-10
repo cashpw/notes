@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2024-02-07 Wed 07:08]
+:LAST_MODIFIED: [2024-02-09 Fri 06:11]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -392,7 +392,7 @@ Name three common varieties of apple.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   235.64 | 2024-02-08T19:18:29Z |
+| front    | 2.35 |   8 |   574.31 | 2025-09-05T21:30:40Z |
 | back     | 2.35 |   8 |   351.39 | 2024-11-03T01:14:52Z |
 :END:
 

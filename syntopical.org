@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       984c3205-5964-4fb3-894d-1bea4c5e3c41
-:LAST_MODIFIED: [2023-12-04 Mon 06:56]
+:LAST_MODIFIED: [2024-02-09 Fri 06:25]
 :END:
 #+title: Syntopical
 #+hugo_custom_front_matter: :slug "984c3205-5964-4fb3-894d-1bea4c5e3c41"
@@ -22,7 +22,7 @@ Syntopical: Referring to a type of analysis in which different works are compare
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   9 |   697.22 | 2025-10-31T20:12:42Z |
-| front    | 2.80 |   8 |   338.35 | 2024-02-01T23:23:30Z |
+| front    | 2.80 |   9 |   871.23 | 2026-06-29T19:49:56Z |
 :END:
 
 Syntopical

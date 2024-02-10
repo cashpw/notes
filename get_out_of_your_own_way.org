@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       47895906-e123-4c10-ae95-c073abcf0c58
-:LAST_MODIFIED: [2024-02-06 Tue 11:08]
+:LAST_MODIFIED: [2024-02-09 Fri 08:29]
 :END:
 #+title: Get out of your own way
 #+hugo_custom_front_matter: :slug "47895906-e123-4c10-ae95-c073abcf0c58"
@@ -8,11 +8,32 @@
 #+date: [2024-02-06 Tue 11:08]
 #+filetags: :hastodo:concept:
 
-* INPROGRESS Expand :noexport:
+The world will put obstacles in front of you. Don't add to those obstacles yourself. Achieving what you're aiming for is difficult enough on its own.
 
-- [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to win]]; don't play by a harder-than-necessary set of rules (i.e. I want power, but also for others to like me. Or, I want power and to be my authentic self)
+Examples:
+
+- Labeling effective behaviors/techniques/strategies as off-limits (e.g. exaggerating contact to draw a foul in football (soccer))
+- Requiring yourself to adhere to ineffective behaviors/strategies/techniques (e.g. never lie)
+- Rejecting treatment for mental health conditions due to pride/etc
+
+* Regarding acquiring power
+
+#+begin_quote
+People who see power as evil or dirty may abjure power and be unwilling to "play the game." [...]
+
+[...] Different people are willing to do different things in order to succeed. Just because you won't network, or flatter, or self-promote, certainly does not mean that all of your competitors will be as circumspect. To the extent people opt out of doing things their colleagues are willing to do—tactics that build power—they put themselves at a disadvantage.
+
+The fundamental point: everyone has choices, not only about how they think of themselves, but about what they are willing or unwilling to do in the contest for power. You can opt in, or out. You can self-handicap, or, like Christina Troitino, "play the game very differently."
+
+[cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
+#+end_quote
+
+* Related
+
+- [[id:fb16dedc-15d0-418a-83e2-0ed84e5e2504][Just do it]], [[id:630c804a-cef5-42e6-a168-5a233a0acbed][Just start]]
+- [[id:30450600-cc69-4beb-9560-c7721a04ecee][Minimum viable product]]
 - [[id:eebb69ec-4bef-46e2-bf45-2b828fd9910a][Lie, sometimes]]
 
-- INPROGRESS People decide certain behaviours/techniques/etc are off limits (e.g. exagerating injury in soccer, being mean, lying, LOOK FOR SPECIFICS FROM CHAPTER). Don't.
-
-* TODO [#2] Flashcards :noexport:
+* TODO [#0] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

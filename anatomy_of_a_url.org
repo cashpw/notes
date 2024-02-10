@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       56aebaa3-d4d6-4a06-98a2-186ed655d11e
-:LAST_MODIFIED: [2024-01-09 Tue 08:19]
+:LAST_MODIFIED: [2024-02-09 Fri 06:13]
 :END:
 #+title: Anatomy of a URL
 #+hugo_custom_front_matter: :slug "56aebaa3-d4d6-4a06-98a2-186ed655d11e"
@@ -32,7 +32,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.45 |   8 |    38.10 | 2024-02-04T08:09:18Z |
+| front    | 1.45 |   9 |    57.42 | 2024-04-07T00:12:20Z |
 | back     | 2.80 |   8 |   497.92 | 2025-01-05T13:03:34Z |
 :END:
 

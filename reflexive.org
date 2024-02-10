@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       48d05562-111f-4e9a-b005-013d54d4419e
 :ROAM_REFS: [cite:@ReflexiveRelation2022]
-:LAST_MODIFIED: [2024-01-25 Thu 07:43]
+:LAST_MODIFIED: [2024-02-09 Fri 06:25]
 :END:
 #+title: Reflexive relation
 #+hugo_custom_front_matter: :slug "48d05562-111f-4e9a-b005-013d54d4419e"
@@ -32,7 +32,7 @@ An example of a reflexive relation is the relation "is equal to" on the set of r
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.20 |   8 |   387.68 | 2024-09-26T09:04:23Z |
-| front    | 2.35 |   3 |     6.00 | 2024-01-31T15:43:09Z |
+| front    | 2.35 |   4 |    14.92 | 2024-02-24T12:33:00Z |
 :END:
 
 [[id:48d05562-111f-4e9a-b005-013d54d4419e][Reflexive relation]]

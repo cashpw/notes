@@ -1,11 +1,15 @@
 :PROPERTIES:
 :ID:       fbd34a6c-bbd8-4fd7-881c-80d03651fa98
-:LAST_MODIFIED: [2024-01-29 Mon 11:07]
+:LAST_MODIFIED: [2024-02-09 Fri 08:38]
 :END:
 #+title: Fake it 'till you make it
 #+hugo_custom_front_matter: :slug "fbd34a6c-bbd8-4fd7-881c-80d03651fa98"
 #+author: Cash Prokop-Weaver
 #+date: [2024-01-29 Mon 11:07]
 #+filetags: :hastodo:concept:
-* TODO [#2]
+* TODO [#2] Expand :noexport:
+Examples:
+
+- When asked to if you know how to do X, [[id:eebb69ec-4bef-46e2-bf45-2b828fd9910a][lie]] by saying you do, then study and learn how to do X
+
 * TODO [#2] Flashcards :noexport:

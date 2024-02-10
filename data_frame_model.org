@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2024-02-07 Wed 07:02]
+:LAST_MODIFIED: [2024-02-09 Fri 06:14]
 :ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
@@ -59,7 +59,7 @@ We use the term frame to denote an explanatory structure that defines entities b
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   5 |    38.51 | 2024-02-29T06:04:45Z |
-| back     | 2.50 |   4 |    13.55 | 2024-02-05T14:50:09Z |
+| back     | 2.35 |   5 |    31.52 | 2024-03-12T02:41:05Z |
 :END:
 
 Data
@@ -80,7 +80,7 @@ Interpreted, imperfect, signals of events
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   2 |     2.00 | 2024-02-07T16:31:09Z |
+| front    | 2.20 |   3 |     6.00 | 2024-02-15T14:04:43Z |
 | back     | 2.35 |   5 |    27.65 | 2024-03-06T06:36:26Z |
 :END:
 

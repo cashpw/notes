@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ed982b37-6f8e-4b89-bb51-ac608510325e
-:LAST_MODIFIED: [2023-12-31 Sun 10:36]
+:LAST_MODIFIED: [2024-02-09 Fri 06:33]
 :END:
 #+title: Quicksort implementation in Python
 #+hugo_custom_front_matter: :slug "ed982b37-6f8e-4b89-bb51-ac608510325e"
@@ -68,6 +68,7 @@ print(quick_sort(a, lambda a, b: a <= b))
 :END:
 
 [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
+
 *** Back
 [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
 *** Source

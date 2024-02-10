@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-02-07 Wed 07:02]
+:LAST_MODIFIED: [2024-02-09 Fri 06:10]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -226,7 +226,7 @@ In agreement or harmony
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.05 |   2 |     2.00 | 2024-01-25T14:46:19Z |
+| back     | 2.05 |   3 |     6.00 | 2024-02-15T14:04:55Z |
 | front    | 2.50 |   6 |    97.55 | 2023-05-07T08:39:27Z |
 :END:
 
@@ -545,7 +545,7 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   484.81 | 2025-01-18T08:22:04Z |
-| back     | 2.20 |   1 |     1.00 | 2024-01-27T14:38:51Z |
+| back     | 2.20 |   2 |     2.00 | 2024-02-11T14:10:08Z |
 :END:
 
 A word which blends the sounds and combines the meanings of two others; e.g motel from "motor" and "hotel", brunch from "breakfast" and "lunch"

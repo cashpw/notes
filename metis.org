@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0fb4e788-6220-4127-9175-761e6f1c1e16
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2024-02-09 Fri 06:24]
 :END:
 #+title: Metis
 #+hugo_custom_front_matter: :slug "0fb4e788-6220-4127-9175-761e6f1c1e16"
@@ -28,12 +28,13 @@ Related: [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   366.90 | 2024-08-22T10:21:50Z |
-| back     | 2.35 |   7 |   223.58 | 2024-01-29T10:35:21Z |
+| back     | 2.20 |   8 |   509.61 | 2025-07-03T05:08:27Z |
 :END:
 
 [[id:0fb4e788-6220-4127-9175-761e6f1c1e16][Metis]]
 
 *** Back
+
 Knowledge that can only come from practical experience; [[id:d636dfa7-428d-457c-8db6-15fa61e03bef][Tacit knowledge]]
 *** Source
 [cite:@scottSeeingStateHowCertainSchemesImproveHumanConditionHaveFailed2020]

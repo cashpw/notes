@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-02-07 Wed 07:11]
+:LAST_MODIFIED: [2024-02-09 Fri 06:07]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -367,7 +367,7 @@ auto x = *p;
 contents of
 *** Source
 [cite:@stroustrupTour2022]
-** Denotes :fc:
+** Denotes (C++) :fc:
 :PROPERTIES:
 :CREATED: [2023-05-11 Thu 08:40]
 :FC_CREATED: 2023-05-11T15:40:41Z
@@ -377,7 +377,7 @@ contents of
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   2 |     2.00 | 2024-02-07T16:44:26Z |
+| front    | 2.20 |   3 |     6.00 | 2024-02-15T14:07:40Z |
 | back     | 2.50 |   2 |     2.00 | 2023-12-17T15:38:53Z |
 :END:
 
@@ -388,7 +388,9 @@ auto* p = &v[1];
 #+end_src
 
 *** Back
-(C++) Address of
+
+Address of
+
 *** Source
 [cite:@stroustrupTour2022]
 ** Denotes :fc:

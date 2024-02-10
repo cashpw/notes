@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2aba17e5-6dca-46ae-ad64-1feb6e91a01d
-:LAST_MODIFIED: [2024-02-07 Wed 07:05]
+:LAST_MODIFIED: [2024-02-09 Fri 06:07]
 :END:
 #+title: I hate mondays
 #+hugo_custom_front_matter: :slug "2aba17e5-6dca-46ae-ad64-1feb6e91a01d"
@@ -26,14 +26,20 @@ See [[id:d15c77d7-fde1-4f65-a68d-59a6a51ed7d1][Ian Danskin | I Hate Mondays]] an
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   283.49 | 2024-02-08T06:37:53Z |
+| front    | 2.50 |   8 |   749.89 | 2026-02-28T11:31:00Z |
 | back     | 2.35 |   8 |   529.55 | 2025-04-22T05:46:27Z |
 :END:
+
 [[id:2aba17e5-6dca-46ae-ad64-1feb6e91a01d][I hate mondays]]
+
 *** Back
+
 Engaging in coping strategies (e.g. commiserate, thoughts and prayers) rather than taking action because of the belief that we cannot fix the underlying problem.
+
 *** Extra
+
 Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't believe anything can be done to change it.
+
 *** Source
 [cite:@danskinHateMondays2020]
 ** Example(s) :fc:

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2024-02-07 Wed 07:04]
+:LAST_MODIFIED: [2024-02-09 Fri 06:20]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -361,12 +361,13 @@ In [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]], ~a == b~ indicates {{val
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   297.57 | 2024-04-09T05:17:29Z |
-| back     | 2.50 |   7 |   235.14 | 2024-02-08T07:21:52Z |
+| back     | 2.65 |   8 |   616.34 | 2025-10-17T22:28:50Z |
 :END:
 
 Infinity in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
 
 *** Back
+
 =math.inf= and =-math.inf=
 *** Source
 [cite:@Python11Documentation]

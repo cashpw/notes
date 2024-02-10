@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60
-:LAST_MODIFIED: [2024-01-17 Wed 06:44]
+:LAST_MODIFIED: [2024-02-09 Fri 06:22]
 :END:
 #+title: Higher order questions
 #+hugo_custom_front_matter: :slug "dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60"
@@ -49,7 +49,7 @@ Questions which go beyond simple information; abstract language functions such a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |   8 |   613.93 | 2025-09-22T13:07:47Z |
-|        1 | 2.50 |   7 |   234.17 | 2024-02-04T17:42:00Z |
+|        1 | 2.50 |   8 |   563.82 | 2025-08-26T10:08:57Z |
 :END:
 
 {{[[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]]}{questions}@0} :: {{[[id:be2ec52a-7c21-46e0-92bb-c566a98b87cb][Understand (Bloom's Taxonomy)]] and above}{[[id:5fbaa05c-666f-4d45-b798-ff36ace22126][Bloom's taxonomy]]}@1}

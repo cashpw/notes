@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       780bd825-4c89-4eb6-ba02-de09fefc4694
 :ROAM_REFS: [cite:@PrisonerDilemma2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:16]
+:LAST_MODIFIED: [2024-02-09 Fri 06:23]
 :END:
 #+title: Prisoner's dilemma
 #+hugo_custom_front_matter: :slug "780bd825-4c89-4eb6-ba02-de09fefc4694"
@@ -82,7 +82,7 @@ The [...] a standard example of a game analyzed in [[id:e157ee7b-f36c-4ff8-bcb3-
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.50 |   7 |   269.58 | 2024-02-04T05:58:22Z |
+|        0 | 2.50 |   8 |   653.36 | 2025-11-23T22:56:16Z |
 :END:
 
 *** Source

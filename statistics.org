@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-02-07 Wed 07:02]
+:LAST_MODIFIED: [2024-02-09 Fri 06:07]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -894,7 +894,7 @@ The standard deviation of a statistic's sampling distribution.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   8 |   335.06 | 2024-02-09T06:39:48Z |
+| back     | 2.65 |   9 |   891.60 | 2026-07-20T04:29:40Z |
 | front    | 1.90 |   1 |     1.00 | 2024-01-25T15:56:06Z |
 :END:
 
@@ -1737,15 +1737,17 @@ Any statistical relationship, whether causal or not, between two random variable
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.45 |  11 |    52.21 | 2024-01-28T19:15:32Z |
+| back     | 1.45 |  12 |    78.69 | 2024-04-28T06:40:23Z |
 | front    | 1.45 |   8 |    78.74 | 2023-10-22T08:48:50Z |
 :END:
 
 Covariance
 
 *** Back
+
 - The joint variability of two random variables.
 - Measures how two random variables in a data set will change together. That is, a positive [...] implies that the second will also increase when the first increases.
+
 *** Source
 [cite:@Covariance2022]
 ** Denotes :fc:

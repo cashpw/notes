@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b123525c-6d7c-4153-aa79-b8bf8580e8c9
-:LAST_MODIFIED: [2024-01-25 Thu 07:45]
+:LAST_MODIFIED: [2024-02-09 Fri 10:54]
 :END:
 #+title: On presentations
 #+hugo_custom_front_matter: :slug "b123525c-6d7c-4153-aa79-b8bf8580e8c9"
@@ -11,6 +11,7 @@
 An [[id:2a6113b3-86e9-4e70-8b81-174c26bfeb01][On X]].
 
 - [cite:@naegleTenSimpleRulesEffectivePresentationSlides2021]
+- Depending on the importance of the presentation, get key people on-board before the presentation to strengthen the argument
 
 * Flashcards :noexport:
 

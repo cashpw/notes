@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2024-01-27 Sat 10:48]
+:LAST_MODIFIED: [2024-02-09 Fri 06:12]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -344,7 +344,7 @@ Metric customization
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   226.69 | 2024-08-31T07:20:50Z |
-| back     | 2.65 |   5 |    43.42 | 2024-02-05T02:37:02Z |
+| back     | 2.65 |   6 |   115.76 | 2024-06-04T08:22:38Z |
 :END:
 
 Query

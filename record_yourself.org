@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       9fbce18e-0a25-4876-a2e8-96acb60caab8
-:LAST_MODIFIED: [2024-01-29 Mon 10:31]
+:LAST_MODIFIED: [2024-02-09 Fri 08:27]
 :END:
 #+title: Record yourself
 #+hugo_custom_front_matter: :slug "9fbce18e-0a25-4876-a2e8-96acb60caab8"
@@ -8,5 +8,13 @@
 #+date: [2024-01-29 Mon 10:31]
 #+filetags: :hastodo:concept:
 
+#+begin_quote
+[...] record yourself as you interact in professional settings throughout a day or week. Then analyze how many times you begin an interaction by apologizing for intruding, for interrupting, for taking the other person's time, for offering your ideas. Ask friends and colleagues how often you actively participate in discussion and forcefully offer your opinions, and how often you begin interactions by apologizing for offering them.
+
+[cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
+#+end_quote
+
 * TODO [#3] Expand
 * TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

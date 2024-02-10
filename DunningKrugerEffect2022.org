@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@DunningKrugerEffect2022]
 :ID:       393d22dc-fb65-4f8c-9070-6973d6c9668e
-:LAST_MODIFIED: [2024-01-11 Thu 09:19]
+:LAST_MODIFIED: [2024-02-09 Fri 06:25]
 :END:
 #+title: Dunning-Kruger effect
 #+hugo_custom_front_matter: :slug "393d22dc-fb65-4f8c-9070-6973d6c9668e"
@@ -26,12 +26,13 @@
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   652.45 | 2025-10-25T04:10:03Z |
-| back     | 1.75 |   7 |    55.14 | 2024-01-28T18:20:43Z |
+| back     | 1.75 |   8 |   101.51 | 2024-05-21T02:44:02Z |
 :END:
 
 [[id:393d22dc-fb65-4f8c-9070-6973d6c9668e][Dunning-Kruger effect]]
 
 *** Back
+
 The [[id:e4086889-eae7-4924-931c-7d73626c94f9][Cognitive bias]] whereby people with low ability overestimate their ability. Those with high ability can also tend to underestimate their ability.
 *** Source
 [cite:@DunningKrugerEffect2022]

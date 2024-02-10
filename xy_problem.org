@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3403366f-af9a-42f8-9352-f4a7097be1f5
-:LAST_MODIFIED: [2023-12-27 Wed 21:47]
+:LAST_MODIFIED: [2024-02-09 Fri 06:17]
 :ROAM_REFS: [cite:@perlmonksXYProblem] [cite:@gregswikiXyProblem] [cite:@AnswerWhatXYProblem2010] [cite:@XYProblem2023]
 :END:
 #+title: XY problem
@@ -58,14 +58,15 @@ That is, you are trying to solve problem /X/, and you think solution /Y/ would w
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   212.12 | 2024-07-27T08:44:05Z |
-| back     | 2.50 |   6 |    93.44 | 2024-02-01T01:42:52Z |
+| back     | 2.50 |   7 |   225.91 | 2024-09-22T12:07:09Z |
 :END:
 
 [[id:3403366f-af9a-42f8-9352-f4a7097be1f5][XY problem]]
 
 *** Back
+
 #+begin_quote
-You want to do X, and you think Y is the best way of doing so. Instead of asking about X, you ask about Y.
+You want to do something and you think you know how to do it. Instead of asking about the thing directly; you ask about the way you think you should do it.
 #+end_quote
 *** Source
 [cite:@perlmonksXYProblem]

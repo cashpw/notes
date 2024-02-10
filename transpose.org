@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       df465332-f865-424c-9028-1776dddd1a58
-:LAST_MODIFIED: [2023-12-31 Sun 10:26]
+:LAST_MODIFIED: [2024-02-09 Fri 06:17]
 :END:
 #+title: Transpose
 #+hugo_custom_front_matter: :slug "df465332-f865-424c-9028-1776dddd1a58"
@@ -54,12 +54,13 @@ $(A^{\textsf{T}})^{\textsf{T}} = A$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   428.46 | 2025-01-01T01:56:25Z |
-| back     | 2.50 |   7 |   262.33 | 2024-01-31T22:41:33Z |
+| back     | 2.50 |   8 |   649.71 | 2025-11-20T07:24:50Z |
 :END:
 
 [[id:df465332-f865-424c-9028-1776dddd1a58][Transpose]]
 
 *** Back
+
 An operation on a [[id:7a43b0c7-b933-4e37-81b8-e5ecf9a83956][Matrix]] which flips the matrix over its diagonal.
 
 $A = \begin{bmatrix}1 & 2 \\ 3 & 4 \\ 5 & 6\end{bmatrix}$

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f234a51d-23e4-4050-bf2c-60895a99ee12
-:LAST_MODIFIED: [2024-01-24 Wed 07:52]
+:LAST_MODIFIED: [2024-02-09 Fri 06:24]
 :ROAM_REFS: [cite:@DeclarativeProgramming2023]
 :END:
 #+title: Declarative programming
@@ -35,7 +35,7 @@ Declarative programming is a non-imperative style of programming in which progra
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   221.77 | 2024-05-25T01:02:40Z |
-| back     | 1.30 |   3 |     6.00 | 2024-01-30T15:52:36Z |
+| back     | 1.30 |   4 |     7.52 | 2024-02-17T02:49:34Z |
 :END:
 
 [[id:f234a51d-23e4-4050-bf2c-60895a99ee12][Declarative programming]]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       42be7ce6-d83b-4717-86a0-0766565b2049
-:LAST_MODIFIED: [2023-11-15 Wed 07:23]
+:LAST_MODIFIED: [2024-02-09 Fri 06:25]
 :ROAM_REFS: [cite:@SessionComputerScience2023]
 :END:
 #+title: Session
@@ -38,14 +38,16 @@ Communication Transport may be implemented as part of protocols and services at 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   170.53 | 2024-02-08T01:56:09Z |
+| front    | 2.05 |   1 |     1.00 | 2024-02-10T14:25:58Z |
 | back     | 2.95 |   7 |   355.88 | 2024-11-05T12:26:06Z |
 :END:
 
 [[id:42be7ce6-d83b-4717-86a0-0766565b2049][Session]]
 
 *** Back
+
 A time-delimited two-way link which enables interactive expression and information exchange between two or more communication devices or ends – be they computers, automated systems, or live active users (see login session).
+
 *** Source
 [cite:@SessionComputerScience2023]
 * Bibliography

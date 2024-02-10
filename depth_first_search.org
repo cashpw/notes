@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       81c88eaa-3ec9-486c-bcdf-457dd40b4eba
 :ROAM_ALIASES: DFS
-:LAST_MODIFIED: [2024-01-20 Sat 12:30]
+:LAST_MODIFIED: [2024-02-09 Fri 06:26]
 :END:
 #+title: Depth-first search
 #+hugo_custom_front_matter: :slug "81c88eaa-3ec9-486c-bcdf-457dd40b4eba"
@@ -203,7 +203,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   9 |   203.76 | 2024-02-09T09:40:18Z |
+|        0 | 1.60 |   1 |     1.00 | 2024-02-10T14:26:43Z |
 :END:
 
 *** Extra

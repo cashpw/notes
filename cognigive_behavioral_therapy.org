@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c2ec1df9-f558-4bbf-990a-5dcb9e958c88
+:LAST_MODIFIED: [2024-02-09 Fri 08:21]
+:END:
+#+title: Cognigive behavioral therapy
+#+hugo_custom_front_matter: :slug "c2ec1df9-f558-4bbf-990a-5dcb9e958c88"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-09 Fri 08:19]
+#+filetags: :hastodo:concept:
+
+#+begin_quote
+Cognitive behavioral therapy (CBT) is a psycho-social intervention that aims to reduce symptoms of various mental health conditions, primarily depression and anxiety disorders. Cognitive behavioral therapy is one of the most effective means of treatment for substance abuse and co-occurring mental health disorders. CBT focuses on challenging and changing cognitive distortions (such as thoughts, beliefs, and attitudes) and their associated behaviors to improve emotional regulation and develop personal coping strategies that target solving current problems. Though it was originally designed to treat depression, its uses have been expanded to include many issues and the treatment of many mental health conditions, including anxiety, substance use disorders, marital problems, ADHD, and eating disorders.
+
+[cite:@wikipediaCognitiveBehavioralTherapy]
+#+end_quote
+* Bibliography
+#+print_bibliography:
+* TODO [#2] Flashcards :noexport:

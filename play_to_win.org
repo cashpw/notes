@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       4398317e-6aa1-4dd4-b2a5-6334256ca2cc
 :DIR:      /home/cashweaver/proj/roam/attachments/4398317e-6aa1-4dd4-b2a5-6334256ca2cc
-:LAST_MODIFIED: [2024-02-05 Mon 12:51]
+:LAST_MODIFIED: [2024-02-09 Fri 08:12]
 :END:
 #+title: Play to win
 #+hugo_custom_front_matter: :slug "4398317e-6aa1-4dd4-b2a5-6334256ca2cc"
@@ -9,12 +9,32 @@
 #+date: [2022-02-16 Wed 19:22]
 #+filetags: :hastodo:concept:
 
+To play to win is to recognize your goal and to work toward that goal. Sounds simple, but the point is to contrast situations in which you do not recognize your goal or are working towards a different goal.
+
+In short:
+
+1. Identify your goal and non-goals
+2. Make progress toward your chosen goal
+
+The complexity comes from what you don't do:
+
+- Don't do things that move you away from your goal
+- Don't focus your energy on non-goals
+- Don't [[id:47895906-e123-4c10-ae95-c073abcf0c58][make things more difficult for yourself]]
+
+I find examples helpful: consider schooling. What is your goal while you're going through school? The first step is recognizing that goal. Is it to get good grades? Or to learn the material? Or to network with people? Or to enjoy yourself? Or is it something else? Each of these goals has better and worse strategies for achieving them. If your goal is to get good grades, then learning the material deeply may be unnecessary. It may be enough to study for and pass the tests. If your goal is to network, then you probably want to get decent grades, but your focus should be on some combination of participating in clubs, attending parties, getting into a fraternity/sorority, making friends in classes, keeping in touch with the people you meet, and improving your social skills. The goal that you're aiming for should determine the strategies that you employ.
+
+More examples:
+
+- If your goal is to make money by selling clothing, then a non-goal could be "make the best quality clothing". You could, instead, focus on branding or marketing while producing low-quality clothing with higher margins.
+- If your goal is getting promoted, then a non-goal would be doing each project to perfection. A better strategy may be to do a few things to 80% rather than one thing to 100%.
+- If your goal is power, then a non-goal would be having everyone like you
+
+This is one of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
+
+* TODO [#3] Expand
+
 - Involves understanding your goals and non-goals and playing the game accordingly (i.e. Don't make the game harder than it needs to be. Don't add unnecessary constraints.)
-  - Examples
-    - If your goal is to make money by selling clothing, then a non-goal could be "make the best quality clothing". You could, instead, focus on branding or marketing while producing low-quality clothing.
-    - If your goal is to pass a class, then a non-goal would be to write the best essay. You need only write a good-enough essay such that you pass the class.
-    - If your goal is getting promoted, then a non-goal would be doing each project to perfection. A better strategy may be to do a few things to 80% rather than one thing to 100%.
-    - If your goal is power, then a non-goal would be having everyone like you
 - https://commoncog.com/blog/playing-to-play-playing-to-win/
 - https://news.ycombinator.com/item?id=28608436
 - https://www.sirlin.net/articles/playing-to-win
@@ -25,12 +45,6 @@
 - Unwritten rules or, perhaps another way of stating it, the penumbra of the rule set
 - As an extension: Play to win doesn't have to imply that you're trying to win for winning's sake. It is also reasonable to incorporate play to win strategies to serve a larger goal -- a goal that you set. Play to win strategies do not defin what "winning" is -- only you do. Yes, "scrub" playstyles can win the match but perhaps you're not trying to win the match but rather trying to win a loyal following or aclaim. Scrub playstyles, in these situations, may be sub-optimal. Play to win only requires you to identify the optimal strategies within the rule set, written or un-written, and employ those in pursuit of your goal.
 
-This is one of my [[id:2a586a0e-eddc-4903-9c90-7e3a91e3204c][Favorites]].
-
-* TODO [#3] Expand :noexport:
 * TODO [#3] Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 * Bibliography
 #+print_bibliography:

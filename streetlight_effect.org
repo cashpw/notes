@@ -2,7 +2,7 @@
 :ID:       d553899d-ac5d-4ecf-bf57-9eabb3407b6e
 :ROAM_REFS: [cite:@StreetlightEffect2022]
 :ROAM_ALIASES: "Where the light is"
-:LAST_MODIFIED: [2023-12-19 Tue 14:37]
+:LAST_MODIFIED: [2024-02-09 Fri 06:12]
 :END:
 #+title: Streetlight effect
 #+hugo_custom_front_matter: :slug "d553899d-ac5d-4ecf-bf57-9eabb3407b6e"
@@ -40,7 +40,7 @@ Observational bias wherein people tend to only search for something where it is 
 
 *** Source
 [cite:@StreetlightEffect2022]
-** Describe :fc:
+** Describe (Joke) :fc:
 :PROPERTIES:
 :CREATED: [2022-11-18 Fri 12:01]
 :FC_CREATED: 2022-11-18T20:01:55Z
@@ -50,13 +50,15 @@ Observational bias wherein people tend to only search for something where it is 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   261.35 | 2024-02-09T04:51:21Z |
+| front    | 2.80 |   8 |   721.90 | 2026-01-31T11:53:53Z |
 :END:
 
-[[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Where the light is]] (Joke)
+[[id:d553899d-ac5d-4ecf-bf57-9eabb3407b6e][Where the light is]]
 
 *** Back
+
 A policeman sees a drunk man searching for something under a streetlight and asks what the drunk has lost. He says he lost his keys and they both look under the streetlight together. After a few minutes the policeman asks if he is sure he lost them here, and the drunk replies, no, and that he lost them in the park. The policeman asks why he is searching here, and the drunk replies, "this is where the light is".
+
 *** Source
 [cite:@StreetlightEffect2022]
 * Bibliography

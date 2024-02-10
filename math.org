@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-02-07 Wed 06:52]
+:LAST_MODIFIED: [2024-02-09 Fri 06:06]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -41,7 +41,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   1 |     1.00 | 2024-01-25T15:44:11Z |
+|        0 | 2.20 |   2 |     2.00 | 2024-02-11T14:06:32Z |
 |        1 | 2.35 |   2 |     2.00 | 2023-06-09T14:44:41Z |
 :END:
 
@@ -1289,7 +1289,7 @@ Addition, subtraction, multiplication, and division
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   3 |     6.00 | 2024-01-14T16:18:26Z |
+|        0 | 2.05 |   4 |    12.99 | 2024-02-22T13:45:58Z |
 |        1 | 2.50 |  11 |   219.89 | 2023-07-23T18:04:28Z |
 :END:
 
