@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       361bcdb6-86e6-47e4-8262-5ebbca46cb6e
+:LAST_MODIFIED: [2024-02-10 Sat 19:46]
+:END:
+#+title: Create positive feedback loops
+#+hugo_custom_front_matter: :slug "361bcdb6-86e6-47e4-8262-5ebbca46cb6e"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-10 Sat 19:20]
+#+filetags: :hastodo:concept:
+
+Related: [[id:160f50d0-4d35-4f2b-b1ab-f6b6da5a7902][Flywheel effect]], [[id:c8ed5ee6-7756-41d2-9134-8baf2c3abe8f][Feedback loop]]
+
+Alternate names:
+
+- Pipe your outputs into your inputs
+
+* Examples
+
+- Content which leads to or generates more content
+  - Laura Chau as described in [[id:8d42e706-7fa3-4910-a0be-db0fe90083a9][Jeffrey Pfeffer | 7 Rules of Power]]: Podcast, clubhouse, and blogging -> networking and panels -> podcast, clubhouse, and blogging
+
+* TODO [#3] Expand
+* TODO [#2] Flashcards :noexport:

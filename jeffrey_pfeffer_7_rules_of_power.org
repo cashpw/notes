@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 :ID:       8d42e706-7fa3-4910-a0be-db0fe90083a9
-:LAST_MODIFIED: [2024-02-09 Fri 10:00]
+:LAST_MODIFIED: [2024-02-10 Sat 19:46]
 :END:
 #+title: Jeffrey Pfeffer | 7 Rules of Power
 #+hugo_custom_front_matter: :slug "8d42e706-7fa3-4910-a0be-db0fe90083a9"
@@ -27,6 +27,8 @@ Power comes from playing [[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]].
 
    First impressions matter. Others will judge you on your appearance, use of language, behavior, body language, and what/who surrounds you (just to name a few). Make it so they see you as you want to be seen.
 
+   Also, pessimistically: con artists are effective, so study and incorporate their techniques.
+
 4. Build a powerful brand
 5. Network relentlessly
 6. Use your power
@@ -43,7 +45,7 @@ Also look at:
 * Notes :ATTACH:
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/8d/42e706-7fa3-4910-a0be-db0fe90083a9/7-rules-power.pdf
-:NOTER_PAGE: 94
+:NOTER_PAGE: 100
 :END:
 ** Title Page
 :PROPERTIES:
@@ -187,7 +189,7 @@ Write down the adjectives you use to describe yourself, both to yourself and to 
    #+begin_quote
 As you describe yourself to others, as you articulate a narrative of your career so far, as you create a personal brand—a topic we will explore in more detail in Rule 4— do you talk about your accomplishments, your credentials, or what you have done successfully? Or do you attempt to appear modest and self-effacing, downplay your achievements, positions you have held, honors you have achieved, and your talents?
 #+end_quote
-** INPROGRESS Rule 2 | Break the Rules
+** Rule 2 | Break the Rules
 :PROPERTIES:
 :NOTER_PAGE: (62 . 0.230114)
 :END:
@@ -252,7 +254,6 @@ People like to help. Ask for help and you'll get it. It'll work more often than 
 To follow rules and adhere to social expectations that disadvantage you in your path to power is to consign yourself to unduly limited opportunities and prospects. Thus, for those who seek power, particularly those seeking it from positions of disadvantage, breaking the rules is the only possible, sensible option. Simply put, if you are going to win given the rules in place, by all means follow and advocate for those rules. For everyone else less guaranteed of inevitable success, rule breaking [...] provides an empirically validated — and virtually the only feasible — path to success.
 #+end_quote
 
-
 ** Rule 3 | Appear Powerful
 :PROPERTIES:
 :NOTER_PAGE: (79 . 0.230114)
@@ -294,13 +295,44 @@ Signal power with body language:
 - Speak more than others
 - Hold others gazes
 
-Signal power with speach:
+Signal power with speech:
 
-- Simple speak (lower on the Flesch-Kincaid scale.)
+- Speak [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][plainly]] (specifically: lower on the Flesch-Kincaid scale) and simply (conceptually simple)
+- Don't use qualifications (e.g. "perhaps", "sort of", "kind of")
+- Repeat yourself
+- Don't use hesitation words/sounds (e.g. "um", "er")
+
 ** Rule 4 | Build a Powerful Brand
 :PROPERTIES:
 :NOTER_PAGE: (98 . 0.230114)
 :END:
+
+#+begin_quote
+[...] "in order to succeed at a fund, you need to do the best deals possible. In order to do the best deals possible, you need to maximize your chances of actually seeing those deals. There's only so much you can do one on one, and brand felt like an incredible way of marketing, where you were able to be top of mind for people."
+#+end_quote
+
+A brand can give you more opportunities. More people can hear of or interact with your brand than can interact with you directly. Then you can select the most promising interactions for follow-ups.
+
+#+begin_quote
+One way to build a powerful brand is to associate with other people and organizations that are themselves prestigious.
+#+end_quote
+
+#+begin_quote
+Chau had started a podcast called WoVen, which stands for Women Who Venture. The podcast gave her "the opportunity and the right to ask women who were very senior in their careers or founders of public companies to talk for an hour." Because most people said yes to her invitations, Chau expanded her network strategically and significantly. [...]
+
+Chau not only used her podcast to connect with and become associated with prominent others, she also blogged regularly about topics that portrayed her as a thoughtful investor in the consumer space. She wrote a chapter for a book, a long-form thesis on social media. She commented that she was the only person to help get speaking gigs for the author's book tour. She notes that the writing made it possible for her to come across as someone founders should talk to, "instead of 'Hey, I'm this random woman, Laura, at some random venture fund, and you should talk to me about your next round of fundraising.'"
+
+Chau began running panels of about twenty people. "I'll pick a topic I'm trying to get smarter on," she says. "Then I'll find three senior operators, and I'll ask them to be a panelist. It's a way for me to build my network of operators, and then I'll go invite the twenty founders that are building companies in this space that I want to meet. In the panel, I get all of this content from the founders and the operators who are much more expert than I am, and develop it into a blog post I can put out."
+
+Chau also published a newsletter, called Taking Stock, that was opt-in for anyone she emailed with or who came to any of the events that she hosted. She uses the newsletter "as a way to stay loosely connected with the tech community." In it she shared resources, selected blog posts she wrote, and used it as a channel for feedback and nominations for people to attend her events. In 2021, Chau launched a weekly Clubhouse show called Hot Deal Time Machine, in which she did retrospectives on some of the hottest VC-backed deals. In her conversations with the founders and the VCs who backed them, she sought to learn from their experience. As she noted in an email to me, "It's been a fun way to build an audience on a new platform while building relationships with the guests on the show. I've also been documenting the highlights from the conversations in my newsletter."
+
+The podcast, the newsletter, the Clubhouse show, the blogging, the panels, and the conference appearances all helped Chau develop a presence in the venture community. "By being out there and having this kind of brand, it makes it much easier for people to then say, 'Come on my podcast,' or 'Will you sit on this panel, or do this keynote?' There's sort of this circuit of speakers where I think people just look at who spoke at the last conference and then invite them to their conference. It's the ones that people tend to see. So once you're in the circuit, you can stay on the circuit, and reach a much broader audience."
+
+Chau nicely described the many aspects of the flywheel effect [[[id:160f50d0-4d35-4f2b-b1ab-f6b6da5a7902][Flywheel effect]]] of personal branding—how one thing led to another, [...]
+#+end_quote
+
+[[id:361bcdb6-86e6-47e4-8262-5ebbca46cb6e][Create positive feedback loops]]
+
 ** Rule 5 | Network Relentlessly
 :PROPERTIES:
 :NOTER_PAGE: (117 . 0.230114)

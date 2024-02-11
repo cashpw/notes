@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       91fe1528-88d1-4168-91f1-cf10b175db49
 :ROAM_REFS: [cite:@MediumMessage2022]
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2024-02-10 Sat 19:15]
 :END:
 #+title: The medium is the message
 #+hugo_custom_front_matter: :slug "91fe1528-88d1-4168-91f1-cf10b175db49"
@@ -42,7 +42,7 @@ A message must "fit" its medium. That is, a message must conform to the rules of
 [[id:91fe1528-88d1-4168-91f1-cf10b175db49][The medium is the message]]
 
 *** Back
-Messages must conform to the rules of their medium. A medium controls the types of messages which are possible.
+Communication must conform to the rules of means by which they're shared. Those means controls the types of communication that's possible.
 *** Source
 [cite:@MediumMessage2022]
 * Bibliography
