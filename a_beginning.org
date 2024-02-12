@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       9032f4f9-c2f4-4af5-9f69-4840c3bbbce8
-:LAST_MODIFIED: [2024-01-08 Mon 08:19]
+:LAST_MODIFIED: [2024-02-11 Sun 12:42]
+:ROAM_ALIASES: "A beginning is the time for taking the most delicate care that the balances are correct"
 :END:
 #+title: A beginning
 #+hugo_custom_front_matter: :slug "9032f4f9-c2f4-4af5-9f69-4840c3bbbce8"
@@ -15,9 +16,6 @@ A beginning is the time for taking the most delicate care that the balances are 
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
 ** A beginning is {{the time for taking the most delicate care that the balances are correct.}@0} [cite:@herbertDune1999] :fc:
 :PROPERTIES:
 :CREATED: [2022-11-23 Wed 11:48]

@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       94fabbea-ffeb-439e-bde8-9a52044bde20
+:LAST_MODIFIED: [2024-02-11 Sun 12:38]
+:END:
+#+title: Break some rules
+#+hugo_custom_front_matter: :slug "94fabbea-ffeb-439e-bde8-9a52044bde20"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-11 Sun 12:29]
+#+filetags: :concept:
+
+Not all rules are made equal. "Some of them can be bent. Others can be broken" [cite:@wachowskiMatrix1999].
+
+Rules reinforce existing power dynamics. Don't play by a set of rules which puts you at a disadvantage. Instead, find/create another path which works to your advantage.
+
+See also [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]], [[id:ee79bad4-e57f-4b59-973f-5a2ccc6fd0f8][It's better to ask forgiveness than permission]]
+
+* Flashcards :noexport:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2024-02-11 Sun 12:34]
+:FC_CREATED: 2024-02-11T20:34:53Z
+:FC_TYPE:  double
+:ID:       c4f3a39d-b8af-48ad-a909-21b965c998ce
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2024-02-11T20:34:53Z |
+| back     |  2.5 |  -1 |        0 | 2024-02-18T20:34:53Z |
+:END:
+
+[[id:94fabbea-ffeb-439e-bde8-9a52044bde20][Break some rules]]
+
+*** Back
+
+Rules reinforce existing power dynamics. Don't play by a set of rules which puts you at a disadvantage. Instead, find/create another path which works to your advantage.
+
+*** Source
+
+* Bibliography
+#+print_bibliography:

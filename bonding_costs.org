@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a85bd4a5-3009-4995-a7be-082f26b5ef0c
-:LAST_MODIFIED: [2024-01-17 Wed 06:59]
+:LAST_MODIFIED: [2024-02-11 Sun 07:22]
 :END:
 #+title: Bonding costs
 #+hugo_custom_front_matter: :slug "a85bd4a5-3009-4995-a7be-082f26b5ef0c"
@@ -47,12 +47,13 @@ Costs borne by the agent to build trust with their principal.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   294.09 | 2024-05-08T15:49:07Z |
-| back     | 2.50 |   7 |   233.82 | 2024-02-10T11:36:47Z |
+| back     | 2.50 |   8 |   529.53 | 2025-07-25T04:06:08Z |
 :END:
 
 [[id:a85bd4a5-3009-4995-a7be-082f26b5ef0c][Bonding costs]]
 
 *** Back
+
 - Provide transparency into the decision making process
 - Limiting the agent's decision making powers
 - Getting a license or accreditation

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       44df8020-9272-455c-91ea-268daf7c08d5
-:LAST_MODIFIED: [2024-01-11 Thu 09:34]
+:LAST_MODIFIED: [2024-02-11 Sun 07:21]
 :END:
 #+title: This is water
 #+hugo_custom_front_matter: :slug "44df8020-9272-455c-91ea-268daf7c08d5"
@@ -27,7 +27,7 @@ The point of the fish story is merely that the most obvious, important realities
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   8 |   209.94 | 2024-02-11T12:37:42Z |
+| front    | 1.90 |   9 |   381.95 | 2025-02-27T14:04:14Z |
 | back     | 2.65 |   7 |   339.85 | 2024-12-16T14:05:01Z |
 :END:
 

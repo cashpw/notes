@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       065a0303-c2d3-40a0-a8fb-793f19f02526
-:LAST_MODIFIED: [2023-12-24 Sun 09:31]
+:LAST_MODIFIED: [2024-02-11 Sun 12:14]
 :END:
 #+title: Branch book
 #+hugo_custom_front_matter: :slug "065a0303-c2d3-40a0-a8fb-793f19f02526"
@@ -19,6 +19,8 @@ The key feature of branch books, for me, is that you can easily summarise them. 
 #+end_quote
 
 Related: [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]], [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+
+Most branch books could have been blog posts or better yet [[id:1729c2dd-e027-436d-8ce4-53daff283158][tweets]]. Nonetheless, they're books because publishing a book is [[id:064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4][not only]] about getting the information out into the world.
 
 * Flashcards :noexport:
 ** Definition ([[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]) :fc:

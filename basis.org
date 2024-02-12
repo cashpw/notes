@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       90dcfc79-6808-48ab-8193-2b040295574c
 :ROAM_REFS: [cite:@BasisLinearAlgebra2022]
-:LAST_MODIFIED: [2024-02-09 Fri 06:20]
+:LAST_MODIFIED: [2024-02-11 Sun 07:24]
 :END:
 #+title: Basis
 #+hugo_custom_front_matter: :slug "90dcfc79-6808-48ab-8193-2b040295574c"
@@ -112,12 +112,13 @@ The cardinality of a basis in that vector space.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |  11 |   598.55 | 2025-04-10T05:09:19Z |
-| front    | 2.80 |   8 |   350.57 | 2024-02-04T07:01:11Z |
+| front    | 2.65 |   9 |   955.13 | 2026-09-23T18:30:07Z |
 :END:
 
 Basis
 
 *** Back
+
 A set of vectors in a vector space which can be uniquely linearly combined to form all vectors in the vector space.
 
 *** Extra

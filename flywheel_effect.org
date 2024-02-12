@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       160f50d0-4d35-4f2b-b1ab-f6b6da5a7902
-:LAST_MODIFIED: [2024-02-10 Sat 19:33]
+:LAST_MODIFIED: [2024-02-11 Sun 07:55]
 :ROAM_REFS: [cite:@collinsFlywheelEffect]
 :END:
 #+title: Flywheel effect
@@ -9,7 +9,7 @@
 #+date: [2024-02-10 Sat 19:23]
 #+filetags: :concept:
 
-The flywheel effect is the idea that effort compounds and makes subsequent rewards easier and greater. In the beginning, you may need to put a lot of effort into yield a small amount of reward. However, as you continue to put effort into the system, you begin to yield greater rewards and indeed the system can continue to yield reward even without continued effort (though it'll tend downward over time).
+The flywheel effect is the idea that the amount of reward received for one unit of effort increases as you continue to put effort into the system. Indeed, at some point the momentum might be such that you can stop putting in effort and yet continue to collect reward.
 
 #+begin_quote
 The Flywheel effect is [the idea that] [n]o matter how dramatic the end result, good-to-great transformations never happen in one fell swoop. [...] there is no single defining action, no grand program, no one killer innovation, no solitary lucky break, no miracle moment. Rather, the process resembles relentlessly pushing a giant, heavy flywheel, turn upon turn, building momentum until a point of breakthrough, and beyond.
@@ -28,7 +28,7 @@ The Flywheel effect is [the idea that] [n]o matter how dramatic the end result, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2024-02-11T03:28:28Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-12T15:18:55Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T03:28:28Z |
 :END:
 
@@ -36,7 +36,7 @@ The Flywheel effect is [the idea that] [n]o matter how dramatic the end result, 
 
 *** Back
 
-
+The idea that the amount of reward received for one unit of effort increases as you continue to put effort into the system.
 
 *** Source
 [cite:@collinsFlywheelEffect]

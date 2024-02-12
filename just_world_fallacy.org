@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       3dc1743c-7193-4df9-a69a-ebc7da01fc78
+:ROAM_REFS: [cite:@JustworldHypothesis2024]
+:LAST_MODIFIED: [2024-02-11 Sun 10:41]
+:END:
+#+title: Just-world fallacy
+#+hugo_custom_front_matter: :slug "3dc1743c-7193-4df9-a69a-ebc7da01fc78"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-11 Sun 10:40]
+#+filetags: :concept:
+
+#+begin_quote
+The just-world hypothesis or just-world fallacy is the cognitive bias that assumes that "people get what they deserve" – that actions will necessarily have morally fair and fitting consequences for the actor. For example, the assumptions that noble actions will eventually be rewarded and evil actions will eventually be punished fall under this hypothesis. In other words, the just-world hypothesis is the tendency to attribute consequences to—or expect consequences as the result of— either a universal force that restores moral balance or a universal connection between the nature of actions and their results.
+
+[cite:@JustworldHypothesis2024]
+#+end_quote
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2024-02-11 Sun 10:41]
+:FC_CREATED: 2024-02-11T18:41:37Z
+:FC_TYPE:  double
+:ID:       4d63e50a-e690-4da3-80b8-d7cde74a9037
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2024-02-11T18:41:37Z |
+| back     |  2.5 |  -1 |        0 | 2024-02-18T18:41:37Z |
+:END:
+
+[[id:3dc1743c-7193-4df9-a69a-ebc7da01fc78][Just-world fallacy]]
+
+*** Back
+
+The idea that people get what they deserve.
+
+*** Source
+[cite:@JustworldHypothesis2024]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-02-07 Wed 07:06]
+:LAST_MODIFIED: [2024-02-11 Sun 07:15]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -408,7 +408,7 @@ A speed up method for calculating the shortest path between nodes in a graph bas
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2023-12-28T17:24:24Z |
+| front    | 2.35 |   3 |     6.00 | 2024-02-17T15:15:49Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:20:40Z |
 :END:
 

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e1577e03-2bed-4209-b7bf-1399bd9dfc66
+:LAST_MODIFIED: [2024-02-11 Sun 11:26]
+:END:
+#+title: Be intentional
+#+hugo_custom_front_matter: :slug "e1577e03-2bed-4209-b7bf-1399bd9dfc66"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-11 Sun 11:23]
+#+filetags: :hastodo:concept:
+
+- [cite:@nandaIntentionallyMakingCloseFriends]
+- [cite:@narrativespodcast58BeIntentionalBenKuhn]
+* Bibliography
+#+print_bibliography:
+* TODO [#2] Flashcards :noexport:

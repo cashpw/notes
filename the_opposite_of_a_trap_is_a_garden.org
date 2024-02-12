@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d263a9a2-ed45-438b-a390-7f205f383d54
-:LAST_MODIFIED: [2023-09-06 Wed 08:04]
+:LAST_MODIFIED: [2024-02-11 Sun 07:24]
 :END:
 #+title: The opposite of a trap is a garden
 #+hugo_custom_front_matter: :slug "d263a9a2-ed45-438b-a390-7f205f383d54"
@@ -44,12 +44,13 @@ The opposite of a trap is a garden. The only way to avoid having all human value
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   397.79 | 2024-08-03T19:46:55Z |
-| back     | 2.50 |   7 |   264.93 | 2024-02-10T11:31:52Z |
+| back     | 2.50 |   8 |   713.01 | 2026-01-24T15:45:48Z |
 :END:
 
 [[id:d263a9a2-ed45-438b-a390-7f205f383d54][The opposite of a trap is a garden]]
 
 *** Back
+
 The only way to avoid having all human values gradually ground down by optimization-competition ([[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]) is to install a ... over the entire universe who optimizes for human values.
 *** Source
 [cite:@alexanderMeditationsMoloch2014]

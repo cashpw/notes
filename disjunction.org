@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       2b16ef01-2da2-4de8-ae0f-eb694367a7f7
-:LAST_MODIFIED: [2023-12-16 Sat 13:49]
+:LAST_MODIFIED: [2024-02-11 Sun 07:21]
 :ROAM_REFS: [cite:@LogicalDisjunction2023]
 :END:
 #+title: Disjunction
@@ -28,7 +28,7 @@ In logic, disjunction is a logical connective typically notated as $\vee$ and re
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.05 |   7 |   122.86 | 2024-02-10T03:22:13Z |
+|        0 | 2.05 |   8 |   261.35 | 2024-10-29T23:45:38Z |
 |        1 | 2.65 |   7 |   344.42 | 2024-11-25T07:59:13Z |
 :END:
 

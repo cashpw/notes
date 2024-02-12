@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       142f20ad-f98f-4927-8207-1c5939f5922a
+:ROAM_REFS: [cite:@ForcingFunction2022]
+:LAST_MODIFIED: [2024-02-11 Sun 10:11]
+:END:
+#+title: Forcing function
+#+hugo_custom_front_matter: :slug "142f20ad-f98f-4927-8207-1c5939f5922a"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-11 Sun 10:10]
+#+filetags: :concept:
+
+#+begin_quote
+A forcing function is any task, activity or event that forces one to take action and produce a result.
+
+[cite:@ForcingFunction2022]
+#+end_quote
+* Bibliography
+#+print_bibliography:
+* Flashcards :noexport:
+** Definition :fc:
+:PROPERTIES:
+:CREATED: [2024-02-11 Sun 10:10]
+:FC_CREATED: 2024-02-11T18:11:09Z
+:FC_TYPE:  double
+:ID:       53d03f4b-65f5-4616-bf41-39c3f1bb5137
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2024-02-11T18:11:09Z |
+| back     |  2.5 |  -1 |        0 | 2024-02-18T18:11:09Z |
+:END:
+
+[[id:142f20ad-f98f-4927-8207-1c5939f5922a][Forcing function]]
+
+*** Back
+#+begin_quote
+[...] any task, activity or event that forces one to take action and produce a result.
+#+end_quote
+*** Source
+[cite:@ForcingFunction2022]

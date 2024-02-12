@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-02-09 Fri 06:07]
+:LAST_MODIFIED: [2024-02-11 Sun 07:17]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1090,7 +1090,7 @@ Population mean
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.60 |   4 |     8.89 | 2024-02-01T12:11:14Z |
+|        0 | 1.60 |   5 |    14.61 | 2024-02-26T05:52:16Z |
 :END:
 
 - {{$s^2$}@0}

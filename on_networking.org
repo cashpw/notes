@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       cb6b4e1a-d2d9-4316-99ae-252d8a481526
+:LAST_MODIFIED: [2024-02-11 Sun 11:30]
+:END:
+#+title: On networking
+#+hugo_custom_front_matter: :slug "cb6b4e1a-d2d9-4316-99ae-252d8a481526"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-11 Sun 08:58]
+#+filetags: :hastodo:concept:
+
+An [[id:2a6113b3-86e9-4e70-8b81-174c26bfeb01][On X]].
+
+Send more time with the [[id:966f6682-54bf-4958-816c-fcd7482ccf79][periphery]] of a network than the center; focus on weak ties. "[...] people to whom one is strongly tied are likely to be strongly tied to each other, and therefore share mostly the same information, contacts, and perspectives. People to whom one is weakly tied are more likely to tap into different sources and social circles, and are therefore more likely to be able to provide non-redundant information and contacts. This non-redundant information has higher value because of its greater novelty" [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022].
+
+* TODO [#2] Expand
+
+- Become a broker
+
+   #+begin_quote
+[A broker] bring[s] together parties who could profitably benefit from interacting with or knowing each other.
+
+[...]
+
+[...] networking cannot be subcontracted to others. To obtain the benefits of networks and structural position, a person has to be in a favorable spot—and must do the work to get there themselves.
+
+[cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
+#+end_quote
+
+- Be central
+
+   #+begin_quote
+Centrality affects visibility. More people will know and know about people who are more central, and that visibility will often work to those people's advantage for becoming the focal point for information and opportunities. Centrality also affects access to information. The first network studies demonstrated that people in central positions saw more information—because more communication flowed through them—and had greater direct contact with more people. The implication: when people evaluate jobs and roles, one dimension they should account for is the centrality that will accrue to them from occupying that job or position. Other things being equal, choose more central jobs.
+
+[cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
+#+end_quote
+
+   Brokering connections between people is a central position.
+
+- Create value for others
+
+   #+begin_quote
+Last, be sure to create value for others—or why would people want to be connected to you? Sometimes this idea is described as being generous. I would describe it slightly differently: as putting yourself in the other's place, having some empathetic understanding of where they are coming from and what challenges they face, so that you can provide help reasonably easily and effectively. Help taps into the norm of reciprocity— the idea that favors create an obligation for some form of repayment later on. Help also binds people together through liking; people like those who help them more than those that don't. And providing value to others through social relationships transforms networking from something dirty or transactional to something viewed much more positively by everyone, including the networker. It is now more about serving and being of service to others.
+
+[cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
+#+end_quote
+
+* TODO [#2] Flashcards :noexport:
+* Bibliography
+#+print_bibliography:

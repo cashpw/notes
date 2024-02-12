@@ -2,7 +2,7 @@
 :ID:       a5079f3d-9926-4de1-8b60-5d5e64396a01
 :ROAM_ALIASES: "Euclidian norm"
 :ROAM_REFS: [cite:@EuclideanSpace2022]
-:LAST_MODIFIED: [2023-12-08 Fri 09:53]
+:LAST_MODIFIED: [2024-02-11 Sun 07:26]
 :END:
 #+title: L-two norm
 #+hugo_custom_front_matter: :slug "a5079f3d-9926-4de1-8b60-5d5e64396a01"
@@ -27,7 +27,7 @@ $\|\vec{x}\|_2 = \sqrt{\vec{x}\cdot\vec{x}}$
 |----------+------+-----+----------+----------------------|
 |        0 | 2.65 |  10 |   515.23 | 2024-11-27T07:12:22Z |
 |        1 | 2.65 |   9 |   580.71 | 2025-02-10T08:38:33Z |
-|        2 | 2.80 |   8 |   344.41 | 2024-01-28T00:59:20Z |
+|        2 | 2.80 |   9 |   944.40 | 2026-09-13T00:59:13Z |
 :END:
 
 - {{p-norm for $p = 2$}@0}

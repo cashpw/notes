@@ -2,7 +2,7 @@
 :ID:       170cf2cd-adb9-4a26-8793-1b31b2ef40c2
 :ROAM_REFS: [cite:@Btree2022]
 :ROAM_ALIASES: B-trees
-:LAST_MODIFIED: [2024-02-09 Fri 06:13]
+:LAST_MODIFIED: [2024-02-11 Sun 07:22]
 :END:
 #+title: B-tree
 #+hugo_custom_front_matter: :slug "170cf2cd-adb9-4a26-8793-1b31b2ef40c2"
@@ -115,7 +115,7 @@ Worst case: $\bigo{\log n}$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 1.60 |   9 |   181.76 | 2024-02-21T10:47:52Z |
-|        1 | 1.30 |   7 |    17.87 | 2024-02-07T17:24:37Z |
+|        1 | 1.30 |   8 |    24.34 | 2024-03-06T23:38:52Z |
 :END:
 *** Source
 [cite:@Btree2022]

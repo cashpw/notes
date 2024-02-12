@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4
-:LAST_MODIFIED: [2024-01-14 Sun 07:07]
+:LAST_MODIFIED: [2024-02-11 Sun 08:38]
 :END:
 #+title: X isn't (only) about Y
 #+hugo_custom_front_matter: :slug "064e87e5-6a2d-480f-9cab-9ae1c1cc3ba4"
@@ -8,7 +8,7 @@
 #+date: [2023-01-09 Mon 08:10]
 #+filetags: :hastodo:concept:
 
-People who do A say they do it because B /but may also/ do it because X, Y, Z, etc.
+People who do A say they do it because B, and that may be true, but they /also/ do it because X, Y, Z, etc. Behaviors have multiple purposes and some of them are [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]].
 
 * TODO [#2] Rewrite
 
@@ -28,7 +28,7 @@ People who do A say they do it because B /but may also/ do it because X, Y, Z, e
 - Research isn't about Progress
 - Politics isn't about Policy
 
-The above summarizes much of my contrarian world view.  (What else should go on this list?) When I say "X is not about Y," I mean that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X behavior more [[[id:8c1b0569-db17-41af-90a3-7f2c75dc8923][Realpolitik]], [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]]].
+The above summarizes much of my contrarian world view.  (What else should go on this list?) When I say "X is not about Y," I mean that while Y is the function commonly said to drive most X behavior, in fact some other function Z drives X behavior more.
 
 [formatting mine]
 

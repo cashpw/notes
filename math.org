@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-02-09 Fri 06:06]
+:LAST_MODIFIED: [2024-02-11 Sun 07:15]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1655,7 +1655,7 @@ $\delta_{ij} = \begin{cases}0 & \text{if}\; i \neq j \\ 1 & \text{if}\; i = j\en
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.90 |   3 |     6.00 | 2024-01-29T14:46:47Z |
+| back     | 2.05 |   4 |    11.28 | 2024-02-22T21:59:52Z |
 | front    | 2.65 |   9 |   414.63 | 2024-07-25T05:35:13Z |
 :END:
 

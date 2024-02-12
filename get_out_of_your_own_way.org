@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       47895906-e123-4c10-ae95-c073abcf0c58
-:LAST_MODIFIED: [2024-02-09 Fri 08:29]
+:LAST_MODIFIED: [2024-02-11 Sun 12:27]
 :END:
 #+title: Get out of your own way
 #+hugo_custom_front_matter: :slug "47895906-e123-4c10-ae95-c073abcf0c58"
 #+author: Cash Prokop-Weaver
 #+date: [2024-02-06 Tue 11:08]
-#+filetags: :hastodo:concept:
+#+filetags: :concept:
 
-The world will put obstacles in front of you. Don't add to those obstacles yourself. Achieving what you're aiming for is difficult enough on its own.
+Employ effective strategies to achieve your goals. This includes strategies and techniques which you may initially resist incorporating.
 
 Examples:
 
@@ -34,6 +34,28 @@ The fundamental point: everyone has choices, not only about how they think of th
 - [[id:30450600-cc69-4beb-9560-c7721a04ecee][Minimum viable product]]
 - [[id:eebb69ec-4bef-46e2-bf45-2b828fd9910a][Lie, sometimes]]
 
-* TODO [#0] Flashcards :noexport:
+* Flashcards :noexport:
+** Describe :fc:
+:PROPERTIES:
+:CREATED: [2024-02-11 Sun 12:23]
+:FC_CREATED: 2024-02-11T20:26:51Z
+:FC_TYPE:  double
+:ID:       ca6084f5-ba61-4bbe-ab61-5636f38991e1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |  -1 |        0 | 2024-02-11T20:26:51Z |
+| back     |  2.5 |  -1 |        0 | 2024-02-18T20:26:51Z |
+:END:
+
+[[id:47895906-e123-4c10-ae95-c073abcf0c58][Get out of your own way]]
+
+*** Back
+
+Employ effective strategies to achieve your goals. This includes strategies and techniques which you may initially resist incorporating.
+
+*** Source
+
 * Bibliography
 #+print_bibliography:

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       9dd7cac2-1ad5-41cf-b238-d9e5414a0be7
+:LAST_MODIFIED: [2024-02-11 Sun 10:49]
+:ROAM_REFS: [cite:@MotivatedReasoning2024]
+:ROAM_ALIASES: "Motivated cognition"
+:END:
+#+title: Motivated reasoning
+#+hugo_custom_front_matter: :slug "9dd7cac2-1ad5-41cf-b238-d9e5414a0be7"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-11 Sun 10:42]
+#+filetags: :concept:
+
+Motivated reasoning and motivated cognition broadly capture how incentives, goals, biases, etc, influence how individuals will think.
+
+Motivated cognition is the phenomenon "by which the goals and needs of individuals steer their thinking towards desired conclusions" [cite:@hughesNeuroscienceMotivatedCognition2015].
+
+#+begin_quote
+Motivated reasoning (motivational reasoning bias) is a cognitive and social response in which individuals, consciously or unconsciously, allow emotion-loaded motivational biases to affect how new information is perceived. Individuals tend to favor evidence that coincides with their current beliefs and reject new information that contradicts them, despite contrary evidence.
+
+[cite:@MotivatedReasoning2024]
+#+end_quote
+
+Also see [[id:b1a664cb-c661-4c44-bf55-fc407c528ad1][Wizard's first rule]] and [[id:d0930766-c7f4-4d54-83d4-fd62a418783e][When their salary depends on their not understanding]].
+
+* Flashcards :noexport:
+
+* Bibliography
+#+print_bibliography:
