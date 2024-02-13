@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8f61e9e6-4f19-4a64-b392-185062df45a0
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2024-02-12 Mon 08:02]
 :END:
 #+title: Email in emacs
 #+hugo_custom_front_matter: :slug "8f61e9e6-4f19-4a64-b392-185062df45a0"
@@ -10,6 +10,7 @@
 
 - [[id:5e8b11e4-9600-44b7-8cd4-1be85f359948][Read Gmail in Emacs with mbsync and mu4e]]
 - [[id:ada68d10-cec8-4af1-903d-29dfa71d2343][Read Gmail in Emacs with notmuch and lieer]]
+
 * Flashcards :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

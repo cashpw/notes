@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-02-11 Sun 07:15]
+:LAST_MODIFIED: [2024-02-12 Mon 06:36]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1538,13 +1538,14 @@ The points on a curve where the curvature changes its sign; between concave and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.60 |   4 |     9.65 | 2023-12-11T08:14:41Z |
+| back     | 1.75 |   5 |    17.23 | 2024-02-29T19:58:42Z |
 | front    | 2.65 |   8 |   306.09 | 2024-01-08T20:37:10Z |
 :END:
 
 Injective function
 
 *** Back
+
 A function that maps distinct elements of its domain to distinct elements of its codomain.
 
 *** Extra
@@ -3000,13 +3001,14 @@ The convolution of the underlying data points with $\frac{1}{n}\vec{1}_n$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   9 |   338.17 | 2024-02-11T07:03:10Z |
+| back     | 2.05 |   1 |     1.00 | 2024-02-13T14:36:39Z |
 | front    | 2.50 |   8 |   319.04 | 2023-12-22T19:46:06Z |
 :END:
 
 Step function
 
 *** Back
+
 A function on the real numbers which can be written as a finite linear combination of indicator functions of intervals.
 
 Informally: A piecewise constant function with finite pieces.

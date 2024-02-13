@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       10fb7c4a-8922-4d5f-aa1b-1251e34804e9
-:LAST_MODIFIED: [2024-01-21 Sun 09:55]
+:LAST_MODIFIED: [2024-02-12 Mon 06:34]
 :ROAM_REFS: [cite:@Sushi2022]
 :END:
 #+title: Sushi
@@ -61,12 +61,13 @@ Rice cylinder filled with ingredients
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |  11 |   590.70 | 2025-06-12T07:47:54Z |
-| front    | 2.50 |   8 |   349.01 | 2024-02-12T05:04:38Z |
+| front    | 2.50 |   9 |   902.82 | 2026-08-03T10:18:13Z |
 :END:
 
 [[id:21b2f51c-eab0-42eb-8e95-4fbaecc43da6][Nigiri]]
 
 *** Back
+
 Slice of fish, etc, over chunk of rice.
 
 *** Source

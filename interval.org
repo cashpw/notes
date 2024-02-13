@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       7cc198e7-ac0a-42b3-b32d-bb8b5bbac8bc
 :ROAM_REFS: [cite:@IntervalMathematics2022]
-:LAST_MODIFIED: [2024-01-26 Fri 06:39]
+:LAST_MODIFIED: [2024-02-12 Mon 06:35]
 :ROAM_ALIASES: "Open interval" "Closed interval"
 :END:
 #+title: Interval
@@ -112,13 +112,14 @@ Open interval
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   8 |   337.96 | 2024-02-12T04:24:18Z |
+| back     | 2.50 |   9 |   869.49 | 2026-07-01T02:16:47Z |
 | front    | 2.65 |   8 |   409.26 | 2024-05-04T20:07:13Z |
 :END:
 
 Open interval
 
 *** Back
+
 An interval that does not include its endpoints.
 
 *** Extra

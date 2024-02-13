@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d57fdb71-8ae6-4307-a255-bfeaeb50a5a9
-:LAST_MODIFIED: [2024-01-22 Mon 17:30]
+:LAST_MODIFIED: [2024-02-12 Mon 06:32]
 :END:
 #+title: Product rule
 #+hugo_custom_front_matter: :slug "d57fdb71-8ae6-4307-a255-bfeaeb50a5a9"
@@ -25,7 +25,7 @@ The rule may be extended or generalized to products of three or more functions, 
 This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Differentiation]].
 
 * Flashcards :noexport:
-** Definition :fc:
+** Definition (Calculus) :fc:
 :PROPERTIES:
 :CREATED: [2023-01-23 Mon 09:21]
 :FC_CREATED: 2023-01-23T17:23:13Z
@@ -35,7 +35,7 @@ This is one of the rules of [[id:d5355c3a-2137-46b2-af5a-10f9c3a6705f][Different
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   198.39 | 2024-02-12T00:26:13Z |
+| front    | 2.20 |   8 |   475.70 | 2025-06-02T07:13:49Z |
 | back     | 2.50 |   7 |   225.54 | 2024-03-18T04:40:57Z |
 :END:
 

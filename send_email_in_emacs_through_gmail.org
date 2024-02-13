@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       173d3d74-6ae7-4e4d-9eda-b96a88d60c0d
+:LAST_MODIFIED: [2024-02-12 Mon 08:00]
+:END:
+#+title: Send email in Emacs through Gmail
+#+hugo_custom_front_matter: :slug "173d3d74-6ae7-4e4d-9eda-b96a88d60c0d"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-12 Mon 07:52]
+#+filetags: :concept:
+
+This is an in-progress guide for setting up [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] ([[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]]) to send email from your personal Google (Gmail) user account.
+
+As of [2024-02-12 Mon], the best I can figure is:
+
+- Configure =smtpmail=
+
+  #+begin_src emacs-lisp
+(setq
+ smtpmail-smtp-server "smtp.gmail.com"
+ smtpmail-smtp-service 587
+ smtpmail-smtp-user "your-email@gmail.com")
+  #+end_src
+
+- Set up [[github:ccrusius/auth-source-xoauth2][xoauth2 as an =auth-source=]]
+
+  I think it'd be nice to integrate [[github:telotortium/emacs-oauth2-auto][=emacs-oauth2-auto=]] to handle pulling new refresh tokens and release the whole thing as a gmail-focused package, similar to [[github:kidd/org-gcal.el][=org-gcal.el=]].
+
+  #+begin_src emacs-lisp
+(setq
+ send-mail-function 'smtpmail-send-it
+ auth-source-xoauth2-creds ""
+ auth-source-xoauth2-use-curl t)
+(auth-source-xoauth2-enable)
+(add-to-list 'smtpmail-auth-supported 'xoauth2)
+  #+end_src
+
+* Flashcards :noexport:

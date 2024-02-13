@@ -1,5 +1,5 @@
 :PROPERTIES:
-:LAST_MODIFIED: [2024-02-11 Sun 12:48]
+:LAST_MODIFIED: [2024-02-12 Mon 06:28]
 :ROAM_REFS: [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 :ID:       8d42e706-7fa3-4910-a0be-db0fe90083a9
 :LAST_MODIFIED: [2024-02-11 Sun 08:44]
@@ -789,7 +789,7 @@ An enumeration of the ways by which one can, and others do, gather and wield pow
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2024-02-11T20:40:09Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-13T14:28:20Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T20:40:09Z |
 :END:
 

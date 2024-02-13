@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@hammingYouYourResearch]
 :ID:       a37c9f95-bbfb-449c-8fd8-dbb2bc7dfe22
-:LAST_MODIFIED: [2024-01-26 Fri 07:22]
+:LAST_MODIFIED: [2024-02-12 Mon 09:12]
 :END:
 #+title: Richard Hamming | You and Your Research
 #+hugo_custom_front_matter: :slug "a37c9f95-bbfb-449c-8fd8-dbb2bc7dfe22"
@@ -14,6 +14,10 @@
 * TODO Summary
 * TODO Thoughts
 * TODO [#0] Notes :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/a3/7c9f95-bbfb-449c-8fd8-dbb2bc7dfe22/you-and-your-research--richard-hamming.pdf
+:NOTER_PAGE: 6
+:END:
 * Bibliography
 #+print_bibliography:
-* TODO [#2] Flashcards :noexport:
+* TODO [#0] Flashcards :noexport:

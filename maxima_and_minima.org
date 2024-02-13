@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f
 :ROAM_ALIASES: Extrema
-:LAST_MODIFIED: [2024-01-21 Sun 09:54]
+:LAST_MODIFIED: [2024-02-12 Mon 06:31]
 :END:
 #+title: Maxima and minima
 #+hugo_custom_front_matter: :slug "c2ad13d0-6556-40ff-b19a-5b2eeba5ec6f"
@@ -184,13 +184,14 @@ The largest output of a function over the function's domain.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.80 |   8 |   366.16 | 2024-02-12T03:40:00Z |
+| back     | 2.80 |   9 |  1078.45 | 2027-01-26T01:25:13Z |
 | front    | 2.35 |   9 |   637.17 | 2025-07-31T19:29:05Z |
 :END:
 
 Global minima
 
 *** Back
+
 The smallest output of a function over the function's domain.
 
 *** Source

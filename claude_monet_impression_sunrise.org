@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       46a63d5c-0abb-426e-9424-ceec586e66bb
-:LAST_MODIFIED: [2024-02-11 Sun 07:25]
+:LAST_MODIFIED: [2024-02-12 Mon 06:34]
 :END:
 #+title: Claude Monet | Impression, Sunrise
 #+hugo_custom_front_matter: :slug "46a63d5c-0abb-426e-9424-ceec586e66bb"
@@ -32,13 +32,15 @@ Impression, Sunrise depicts the port of Le Havre, Monet's hometown. It is now di
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   227.37 | 2024-09-23T22:55:24Z |
-| back     | 2.20 |   6 |    54.90 | 2024-01-28T12:34:22Z |
+| back     | 2.20 |   7 |   124.47 | 2024-06-16T01:55:52Z |
 :END:
 
 [[id:46a63d5c-0abb-426e-9424-ceec586e66bb][Claude Monet | Impression, Sunrise]]
 
 *** Back
+
 [[file:2023-08-10_17-17-11_087_paris_marmottan_2.jpg.jpeg]]
+
 *** Source
 ** Cloze :fc:
 :PROPERTIES:

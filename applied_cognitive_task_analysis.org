@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       31152f53-1769-454c-be11-643a5405eb5d
-:LAST_MODIFIED: [2024-02-11 Sun 07:26]
+:LAST_MODIFIED: [2024-02-12 Mon 06:32]
 :END:
 #+title: Applied cognitive task analysis
 #+hugo_custom_front_matter: :slug "31152f53-1769-454c-be11-643a5405eb5d"
@@ -325,7 +325,7 @@ How to create a [[id:eea22cee-38bc-4163-becf-63853258f7ec][Task diagram]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   1 |     1.00 | 2024-02-12T15:26:41Z |
-| back     | 2.50 |   2 |     2.00 | 2023-12-30T05:47:39Z |
+| back     | 2.50 |   3 |     6.00 | 2024-02-18T14:32:10Z |
 :END:
 
 How to perform a [[id:1c918801-74a4-46a6-8fe6-3d50730f3d88][Knowledge audit]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3dc1743c-7193-4df9-a69a-ebc7da01fc78
 :ROAM_REFS: [cite:@JustworldHypothesis2024]
-:LAST_MODIFIED: [2024-02-11 Sun 10:41]
+:LAST_MODIFIED: [2024-02-12 Mon 06:34]
 :END:
 #+title: Just-world fallacy
 #+hugo_custom_front_matter: :slug "3dc1743c-7193-4df9-a69a-ebc7da01fc78"
@@ -27,7 +27,7 @@ The just-world hypothesis or just-world fallacy is the cognitive bias that assum
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2024-02-11T18:41:37Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-13T14:34:28Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T18:41:37Z |
 :END:
 

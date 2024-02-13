@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-02-11 Sun 07:16]
+:LAST_MODIFIED: [2024-02-12 Mon 06:30]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -494,7 +494,7 @@ An event that comes as a surprise, has a major effect, and is often inappropriat
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   230.45 | 2024-02-07T02:23:54Z |
+| front    | 2.50 |   8 |   554.15 | 2025-08-19T18:08:29Z |
 | back     | 2.80 |   6 |   124.73 | 2023-08-04T15:06:05Z |
 :END:
 - (of a person) giving their name to something
