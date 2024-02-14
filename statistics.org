@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-02-12 Mon 06:31]
+:LAST_MODIFIED: [2024-02-13 Tue 06:39]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1417,7 +1417,7 @@ A function which assigns each event in $\mathcal{F}$ a probability $[0, 1]$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   7 |    17.94 | 2024-02-09T23:57:54Z |
+| back     | 1.30 |   8 |    25.04 | 2024-03-09T15:31:45Z |
 | front    | 2.65 |   7 |   360.53 | 2024-08-01T03:29:13Z |
 :END:
 
@@ -1714,7 +1714,7 @@ The difference between an estimator's expected value and the true value of the p
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   9 |    22.76 | 2024-02-03T11:36:11Z |
+| back     | 1.30 |  10 |    28.03 | 2024-03-12T15:23:44Z |
 | front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-02-12 Mon 06:29]
+:LAST_MODIFIED: [2024-02-13 Tue 06:38]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -107,7 +107,7 @@ eg: $x+y^3$, $x+xy^2$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   8 |   329.47 | 2024-01-03T10:13:19Z |
+|        0 | 2.50 |   9 |   798.29 | 2026-04-21T21:32:52Z |
 |        1 | 2.20 |   7 |   168.02 | 2023-10-27T16:25:24Z |
 :END:
 
@@ -677,7 +677,7 @@ A set of eigenvectors of a vector space, $V$, which span $V$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   2 |     2.00 | 2024-02-07T16:39:37Z |
+| back     | 2.20 |   3 |     6.00 | 2024-02-19T14:38:30Z |
 | front    | 2.80 |   8 |   288.63 | 2023-10-24T06:40:23Z |
 :END:
 

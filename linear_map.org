@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f68f9024-150b-404f-9c9c-54fe8b720e53
-:LAST_MODIFIED: [2024-02-09 Fri 06:23]
+:LAST_MODIFIED: [2024-02-13 Tue 06:37]
 :END:
 #+title: Linear map
 #+hugo_custom_front_matter: :slug "f68f9024-150b-404f-9c9c-54fe8b720e53"
@@ -65,7 +65,7 @@ A mapping, $V \to W$, between two modules (eg: vector spaces) which preserve the
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   9 |   359.46 | 2024-02-13T05:42:18Z |
+|        0 | 2.80 |  10 |   964.23 | 2026-10-04T20:03:04Z |
 :END:
 
 *** Extra

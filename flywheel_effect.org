@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       160f50d0-4d35-4f2b-b1ab-f6b6da5a7902
-:LAST_MODIFIED: [2024-02-11 Sun 07:55]
+:LAST_MODIFIED: [2024-02-13 Tue 06:41]
 :ROAM_REFS: [cite:@collinsFlywheelEffect]
 :END:
 #+title: Flywheel effect
@@ -28,7 +28,7 @@ The Flywheel effect is [the idea that] [n]o matter how dramatic the end result, 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2024-02-12T15:18:55Z |
+| front    | 2.50 |   2 |     2.00 | 2024-02-15T14:41:50Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T03:28:28Z |
 :END:
 

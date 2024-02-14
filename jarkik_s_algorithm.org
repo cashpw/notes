@@ -2,7 +2,7 @@
 :ID:       2e340461-20cb-4d63-afdb-cac74fbea013
 :ROAM_ALIASES: "DJP algorithm" "Prim's algorithm"
 :ROAM_REFS: [cite:@PrimAlgorithm2022]
-:LAST_MODIFIED: [2024-02-05 Mon 08:36]
+:LAST_MODIFIED: [2024-02-13 Tue 06:38]
 :END:
 #+title: Jarnik's algorithm
 #+hugo_custom_front_matter: :slug "2e340461-20cb-4d63-afdb-cac74fbea013"
@@ -110,7 +110,7 @@ Time complexity of [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   7 |   236.20 | 2024-02-12T20:28:30Z |
+|        0 | 2.65 |   8 |   587.37 | 2025-09-22T23:30:57Z |
 :END:
 
 [[id:2e340461-20cb-4d63-afdb-cac74fbea013][Jarnik's algorithm]]'s purpose: {{find a [[id:eb6b18c0-f0ff-45e9-a747-2b7516ddef52][Minimum spanning tree]]}@0}.

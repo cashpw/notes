@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-02-12 Mon 06:32]
+:LAST_MODIFIED: [2024-02-13 Tue 06:39]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -531,7 +531,7 @@ We store a pointer to the interim vertex, $v$, when we contract $u, v, w$ into $
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 1.90 |   2 |     2.00 | 2024-02-14T14:32:36Z |
-| back     |  2.5 |  -1 |        0 | 2023-06-16T23:19:16Z |
+| back     | 2.50 |   1 |     1.00 | 2024-02-14T14:39:30Z |
 :END:
 
 Heuristics for choosing the order to contract vertices.

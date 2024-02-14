@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-02-12 Mon 06:33]
+:LAST_MODIFIED: [2024-02-13 Tue 06:41]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -428,7 +428,7 @@ auto& p = v[5];
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   154.82 | 2024-05-22T18:38:20Z |
-| back     | 2.50 |   2 |     2.00 | 2023-12-30T05:46:43Z |
+| back     | 2.50 |   3 |     6.00 | 2024-02-19T14:41:21Z |
 :END:
 
 Function definition with an argument which isn't copied, but also isn't modified.

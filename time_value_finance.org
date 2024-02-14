@@ -2,7 +2,7 @@
 :ID:       f41ce01a-f8d7-4d5e-a7c6-178706176f6c
 :ROAM_ALIASES: "Instrumental value (finance)" "Extrinsic value (finance)"
 :ROAM_REFS: [cite:@OptionTimeValue2022]
-:LAST_MODIFIED: [2024-02-11 Sun 07:26]
+:LAST_MODIFIED: [2024-02-13 Tue 06:44]
 :END:
 #+title: Option time value
 #+hugo_custom_front_matter: :slug "f41ce01a-f8d7-4d5e-a7c6-178706176f6c"
@@ -51,7 +51,7 @@ The part of an [[id:1263eb22-a819-43e6-9ab4-d45f790b095f][Option (finance)]]'s v
 |----------+------+-----+----------+----------------------|
 |        0 | 2.05 |   8 |   271.51 | 2024-09-16T10:53:44Z |
 |        1 | 1.30 |   9 |    26.66 | 2024-03-03T08:23:27Z |
-|        2 | 1.30 |   1 |     1.00 | 2024-02-12T15:26:51Z |
+|        2 | 1.30 |   2 |     2.00 | 2024-02-15T14:44:34Z |
 :END:
 
 - {{[[id:f41ce01a-f8d7-4d5e-a7c6-178706176f6c][Option time value]]}@0}

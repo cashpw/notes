@@ -1,5 +1,5 @@
 :PROPERTIES:
-:LAST_MODIFIED: [2024-02-12 Mon 06:28]
+:LAST_MODIFIED: [2024-02-13 Tue 06:43]
 :ROAM_REFS: [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 :ID:       8d42e706-7fa3-4910-a0be-db0fe90083a9
 :LAST_MODIFIED: [2024-02-11 Sun 08:44]
@@ -14,7 +14,7 @@
 
 * Summary
 
-Power comes from playing [[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]]. The ability to play the game comes from [[id:a1d74568-61f0-4a01-8aab-184d1b7a9752][practice]].
+Power comes from playing [[id:0fd22b02-281f-4a62-b60d-eded1a423c79][The game]]. The ability to play the game comes from [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][practice]].
 
 ** Rules
 
@@ -725,16 +725,7 @@ Lists provide you with specific goals of what you want to achieve and the steps 
 #+end_quote
 
    #+begin_quote
-If doing power doesn't come naturally to you, practice. [...] Build what some people call your "power muscles" the same way you would build any other muscle: through practice and use. It is not that difficult. Figure out who can
-be helpful to you and reach out to them, practicing the idea of Rule 5. Build
-a powerful brand—Rule 4—by developing a concise statement of who you
-are and why you are uniquely qualified to be doing what you're doing. Act
-and speak with power—Rule 3—by understanding and then implementing
-the ideas of how to convey power through your facial expressions, body
-language, and words. Get out of your own way—Rule 1—by not holding
-yourself back and unnecessarily worrying about what everyone else is
-thinking about you. And break the rules—Rule 2—to surprise others by
-being resourceful in your power strategies and tactics.
+If doing power doesn't come naturally to you, practice. [...] Build what some people call your "power muscles" the same way you would build any other muscle: through practice and use. It is not that difficult. Figure out who can be helpful to you and reach out to them, practicing the idea of Rule 5. Build a powerful brand—Rule 4—by developing a concise statement of who you are and why you are uniquely qualified to be doing what you're doing. Act and speak with power—Rule 3—by understanding and then implementing the ideas of how to convey power through your facial expressions, body language, and words. Get out of your own way—Rule 1—by not holding yourself back and unnecessarily worrying about what everyone else is thinking about you. And break the rules—Rule 2—to surprise others by being resourceful in your power strategies and tactics.
 #+end_quote
 
 ** Acknowledgments
@@ -767,7 +758,7 @@ being resourceful in your power strategies and tactics.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2024-02-11T20:19:01Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-14T14:35:58Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T20:19:01Z |
 :END:
 

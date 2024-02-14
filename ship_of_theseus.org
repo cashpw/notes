@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0e7c2358-2a89-4123-99a6-e55161ff8828
-:LAST_MODIFIED: [2024-02-07 Wed 07:14]
+:LAST_MODIFIED: [2024-02-13 Tue 06:42]
 :END:
 #+title: Ship of Theseus (argument)
 #+hugo_custom_front_matter: :slug "0e7c2358-2a89-4123-99a6-e55161ff8828"
@@ -21,12 +21,16 @@ See [[id:309082e8-abb5-4fdf-9944-fc63d8a8197e][Ian Danskin | The Ship of Theseus
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   8 |   176.87 | 2024-02-12T20:29:02Z |
+| front    | 1.75 |   9 |   331.40 | 2025-01-10T00:21:04Z |
 | back     | 2.50 |   8 |   472.06 | 2024-12-11T15:01:05Z |
 :END:
+
 [[id:0e7c2358-2a89-4123-99a6-e55161ff8828][Ship of Theseus (argument)]]
+
 *** Back
+
 Lying without lying. An argument constructed from, while at best technically true, misleading points which presents a deceptive view of the underlying facts.
+
 *** Extra
 How many words can you change in an argument before it's not the same argument anymore?
 *** Source

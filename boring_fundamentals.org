@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       650501e5-3253-46a2-8795-cf09c86edf16
-:LAST_MODIFIED: [2023-11-19 Sun 06:38]
+:LAST_MODIFIED: [2024-02-13 Tue 07:02]
 :END:
 #+title: Boring fundamentals
 #+hugo_custom_front_matter: :slug "650501e5-3253-46a2-8795-cf09c86edf16"
@@ -11,12 +11,17 @@
 #+begin_quote
 For any endeavor, there are a set of basic skills needed to build a strong foundation. These are the boring fundamentals:
 
-- Sleeping 8 hours a night, exercising consistently, eating your vegetables.
-- Meditating, reading books, writing for yourself and for your peers.
-- Domain specific fundamentals, like drilling guitar chords, or calculus.
-
 [cite:@stuberMasterBoringFundamentals01BoringFun]
 #+end_quote
+
+- Get enough sleep at night (7-8 hours)
+- [[id:ede98d80-26a5-4b11-8427-9b6fec550c3e][Exercise]] consistently
+- [[id:f029d4ec-6c14-4dbc-9782-3aa92783ae91][Eat food. Not too much. Mostly plants.]]
+- Meditate
+- [[id:a0b7f03a-9c15-4bf0-ae71-2cd4bca3e715][Read]]
+- Write
+- Continue [[id:2bb656cd-6834-4534-95e2-c77df28ffccb][purposeful]] learning throughout your life
+- "Domain specific fundamentals, like drilling guitar chords, or calculus" [cite:@stuberMasterBoringFundamentals01BoringFun]
 
 * Flashcards :noexport:
 ** Describe :fc:
