@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       582ee39e-23ab-4c19-a8a9-5b6ec13ecaf6
-:LAST_MODIFIED: [2024-02-11 Sun 07:17]
+:LAST_MODIFIED: [2024-02-14 Wed 07:02]
 :ROAM_ALIASES: "OSI model"
 :ROAM_REFS: [cite:@OSIModel2023]
 :END:
@@ -153,7 +153,7 @@ Layer responsible for transmission and reception of unstructured raw data betwee
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.20 |   8 |   302.99 | 2024-11-07T15:46:36Z |
-|        1 | 2.20 |   7 |   149.63 | 2024-02-14T14:11:26Z |
+|        1 | 2.05 |   8 |   290.14 | 2024-11-30T18:25:38Z |
 |        2 | 2.35 |   7 |   181.97 | 2024-06-14T15:00:44Z |
 |        3 | 2.50 |   5 |    44.91 | 2024-03-02T12:48:35Z |
 |        4 | 2.50 |   2 |     2.00 | 2024-02-11T14:15:28Z |

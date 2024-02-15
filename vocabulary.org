@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-02-13 Tue 06:39]
+:LAST_MODIFIED: [2024-02-14 Wed 07:01]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -796,7 +796,7 @@ An [...] is a concise, terse, laconic, or memorable expression of a general trut
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.75 |   7 |    63.26 | 2024-02-10T23:02:05Z |
+| front    | 1.75 |   8 |   115.36 | 2024-06-08T23:39:14Z |
 | back     | 2.35 |   4 |    15.45 | 2023-03-24T04:14:39Z |
 :END:
 

@@ -2,7 +2,7 @@
 :ID:       2eae74ba-4003-45cf-8425-7291aaa7a537
 :ROAM_ALIASES: "Abstract data types" ADT
 :ROAM_REFS: [cite:@AbstractDataType2022]
-:LAST_MODIFIED: [2023-12-29 Fri 13:51]
+:LAST_MODIFIED: [2024-02-14 Wed 07:06]
 :END:
 #+title: Abstract data type
 #+hugo_custom_front_matter: :slug "2eae74ba-4003-45cf-8425-7291aaa7a537"
@@ -27,7 +27,7 @@ In computer science, an abstract data type (ADT) is a mathematical model for dat
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.50 |   9 |   653.67 | 2025-09-21T06:29:02Z |
-| front    | 2.05 |   7 |   102.51 | 2024-02-14T03:01:18Z |
+| front    | 2.05 |   8 |   225.30 | 2024-09-26T22:20:09Z |
 :END:
 
 [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]

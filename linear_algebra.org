@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-02-13 Tue 06:38]
+:LAST_MODIFIED: [2024-02-14 Wed 07:00]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -258,7 +258,7 @@ A function that assigns a strictly positive length or size to each vector in a v
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.60 |   5 |    14.23 | 2024-02-06T20:12:47Z |
+| back     | 1.60 |   6 |    20.99 | 2024-03-06T14:50:21Z |
 | front    | 2.50 |   8 |   233.09 | 2023-08-24T18:33:45Z |
 :END:
 

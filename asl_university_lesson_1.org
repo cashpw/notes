@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@asluniversityLesson01]
 :ID:       fdf0dacf-eec1-432c-9e19-f00b2cc7f556
-:LAST_MODIFIED: [2024-02-13 Tue 06:37]
+:LAST_MODIFIED: [2024-02-14 Wed 07:01]
 :END:
 #+title: ASL University | Lesson 1
 #+hugo_custom_front_matter: :slug "fdf0dacf-eec1-432c-9e19-f00b2cc7f556"
@@ -551,7 +551,7 @@ TEACHER
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   3 |     6.00 | 2024-02-13T14:59:56Z |
+| front    | 2.50 |   4 |    16.27 | 2024-03-01T21:33:23Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-28T22:33:16Z |
 :END:
 

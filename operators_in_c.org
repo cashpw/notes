@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-02-13 Tue 06:41]
+:LAST_MODIFIED: [2024-02-14 Wed 07:03]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -451,7 +451,7 @@ void sort(const std::vector<double>& numbers);
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   184.22 | 2024-05-10T21:37:24Z |
-| back     |  2.5 |  -1 |        0 | 2023-05-11T16:51:29Z |
+| back     | 2.50 |   1 |     1.00 | 2024-02-15T15:03:44Z |
 :END:
 
 [[id:858e4265-986f-402c-b6a0-c7194b19e12f][Scope resolution operator]]

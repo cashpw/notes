@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kileBusyPersonPatterns2006]
 :ID:       f1882164-0604-4dd9-ae59-df0d7b9d5ca2
-:LAST_MODIFIED: [2024-02-09 Fri 06:15]
+:LAST_MODIFIED: [2024-02-14 Wed 07:04]
 :END:
 #+title: James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns
 #+hugo_custom_front_matter: :slug "f1882164-0604-4dd9-ae59-df0d7b9d5ca2"
@@ -819,7 +819,7 @@ Schedule important work for the time of day when you are most productive/alert/e
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   559.58 | 2025-08-01T06:03:34Z |
-| back     | 2.80 |   7 |   273.00 | 2024-02-14T12:26:41Z |
+| back     | 2.80 |   8 |   722.92 | 2026-02-06T13:05:13Z |
 :END:
 
 [[id:f1882164-0604-4dd9-ae59-df0d7b9d5ca2][James F. Kile, Donald J. Little, Samir Shah | Busy Person Patterns]]
@@ -827,6 +827,7 @@ Schedule important work for the time of day when you are most productive/alert/e
 [[id:9c55e2ff-b170-474c-81e7-670188adf303][Prioritize]]
 
 *** Back
+
 When you have more than one tasks with different levels of importance: do the work from the most important to the least important.
 *** Source
 [cite:@kileBusyPersonPatterns2006]

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       47895906-e123-4c10-ae95-c073abcf0c58
-:LAST_MODIFIED: [2024-02-13 Tue 07:15]
+:LAST_MODIFIED: [2024-02-14 Wed 07:05]
 :END:
 #+title: Get out of your own way
 #+hugo_custom_front_matter: :slug "47895906-e123-4c10-ae95-c073abcf0c58"
@@ -49,7 +49,7 @@ The fundamental point: everyone has choices, not only about how they think of th
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2024-02-13T14:34:12Z |
+| front    | 2.50 |   2 |     2.00 | 2024-02-16T15:05:00Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T20:26:51Z |
 :END:
 
