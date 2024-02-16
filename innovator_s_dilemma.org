@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e3915b9e-665b-4da5-b2ec-42ba090918c9
-:LAST_MODIFIED: [2024-02-07 Wed 07:09]
+:LAST_MODIFIED: [2024-02-15 Thu 06:08]
 :END:
 #+title: Innovator's dilemma
 #+hugo_custom_front_matter: :slug "e3915b9e-665b-4da5-b2ec-42ba090918c9"
@@ -36,7 +36,7 @@ Clayton Christensen demonstrates how successful, outstanding companies can do ev
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   7 |   309.58 | 2024-04-30T07:41:09Z |
-| back     | 1.30 |   4 |     7.87 | 2024-02-15T12:05:47Z |
+| back     | 1.30 |   5 |    11.12 | 2024-02-26T16:56:09Z |
 :END:
 
 [[id:e3915b9e-665b-4da5-b2ec-42ba090918c9][Innovator's dilemma]]

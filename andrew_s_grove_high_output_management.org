@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@groveHighOutputManagement1995]
 :ID:       e6634ad5-1247-4e38-873d-f081aea8d746
-:LAST_MODIFIED: [2024-02-05 Mon 09:12]
+:LAST_MODIFIED: [2024-02-15 Thu 16:52]
 :END:
 #+title: Andrew S. Grove | High Output Management
 #+hugo_custom_front_matter: :slug "e6634ad5-1247-4e38-873d-f081aea8d746"
@@ -14,8 +14,7 @@ TODO_AUTHOR, [cite:@groveHighOutputManagement1995]
 * TODO Summary
 * TODO Thoughts
 * TODO Notes
-==========
-﻿High Output Management (Andrew S. Grove)
+High Output Management (Andrew S. Grove)
 - Your Highlight on page 10 | Location 140-140 | Added on Thursday, June 11, 2015 11:39:05 PM
 
 Adapt or die.
@@ -1364,7 +1363,8 @@ After you've given the course, ask for anonymous critiques from the employees in
 - Your Highlight on page 207 | Location 3170-3170 | Added on Monday, June 15, 2015 8:02:37 AM
 
 One More Thing…
-
+==========
+=========
 * Bibliography
 #+print_bibliography:
 * TODO [#2] Flashcards :noexport:

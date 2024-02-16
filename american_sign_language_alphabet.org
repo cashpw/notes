@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       794104bb-9213-48d6-a3ac-27b517d7a4a6
-:LAST_MODIFIED: [2024-02-14 Wed 07:00]
+:LAST_MODIFIED: [2024-02-15 Thu 06:07]
 :END:
 #+title: American sign language: Alphabet
 #+hugo_custom_front_matter: :slug "794104bb-9213-48d6-a3ac-27b517d7a4a6"
@@ -249,7 +249,7 @@ J
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2023-12-22T00:20:19Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-16T14:07:10Z |
 | back     |  2.5 |  -1 |        0 | 2023-12-29T00:20:19Z |
 :END:
 

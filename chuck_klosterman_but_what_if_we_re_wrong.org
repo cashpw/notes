@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@klostermanWhatIfWeReWrongThinkingPresentIfItWere2018]
 :ID:       625e3a7e-a67c-4bd5-b195-74148fb3d3ee
-:LAST_MODIFIED: [2024-02-05 Mon 09:11]
+:LAST_MODIFIED: [2024-02-15 Thu 16:49]
 :END:
 #+title: Chuck Klosterman | But What If We're Wrong?
 #+hugo_custom_front_matter: :slug "625e3a7e-a67c-4bd5-b195-74148fb3d3ee"
@@ -14,16 +14,10 @@ TODO_AUTHOR, [cite:@klostermanWhatIfWeReWrongThinkingPresentIfItWere2018]
 * TODO Summary
 * TODO Thoughts
 * TODO Notes
-==========
 ﻿But What If We're Wrong? (Chuck Klosterman)
 - Your Highlight on page 4 | Location 49-50 | Added on Tuesday, June 9, 2015 5:17:47 PM
 
 I've spent most of my life being wrong. Not about everything. Just about most things.
-==========
-﻿How to Blow Up a Pipeline (Andreas Malm)
-- Your Highlight on page 2 | Location 26-26 | Added on Wednesday, June 10, 2015 6:29:38 AM
-
-No More Excuses for Passivity
 ==========
 ﻿But What If We're Wrong? (Chuck Klosterman)
 - Your Note on page 11 | Location 160 | Added on Wednesday, June 10, 2015 6:36:44 AM
@@ -209,6 +203,7 @@ Related quote:why mars speech; "Future people will remember what we did to make 
 - Your Highlight on page 74 | Location 1130-1130 | Added on Thursday, June 11, 2015 8:21:14 PM
 
 Burn Thy
+==========
 
 * Bibliography
 #+print_bibliography:

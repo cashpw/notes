@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kaplan-mossEmbraceGrind]
 :ID:       bdbd9f73-c91e-4979-ae15-f5682ebca630
-:LAST_MODIFIED: [2024-01-11 Thu 09:23]
+:LAST_MODIFIED: [2024-02-15 Thu 06:09]
 :END:
 #+title: Jacob Kaplan-Moss | Embrace the Grind
 #+hugo_custom_front_matter: :slug "bdbd9f73-c91e-4979-ae15-f5682ebca630"
@@ -71,7 +71,7 @@ Sometimes, programming feels like magic: you chant some arcane incantation and a
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   6 |    73.96 | 2024-03-22T15:24:31Z |
-| back     | 2.50 |   5 |    34.36 | 2024-02-15T02:00:10Z |
+| back     | 2.35 |   6 |    78.43 | 2024-05-04T00:29:09Z |
 :END:
 
 [[id:bdbd9f73-c91e-4979-ae15-f5682ebca630][Jacob Kaplan-Moss | Embrace the Grind]]

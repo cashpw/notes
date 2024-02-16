@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@valentineNoticingTasteLotus2018]
 :ID:       83ed5740-7670-4308-b82b-4bb788978e54
 :DIR:      /home/cashweaver/proj/roam/attachments/83ed5740-7670-4308-b82b-4bb788978e54
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2024-02-15 Thu 06:10]
 :END:
 #+title: Notice the taste of lotus
 #+hugo_custom_front_matter: :slug "83ed5740-7670-4308-b82b-4bb788978e54"
@@ -51,12 +51,13 @@ Related: [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your default
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   300.74 | 2024-04-07T11:13:44Z |
-| back     | 2.50 |   7 |   268.98 | 2024-02-15T13:20:58Z |
+| back     | 2.35 |   8 |   682.31 | 2025-12-28T21:30:58Z |
 :END:
 
 [[id:83ed5740-7670-4308-b82b-4bb788978e54][Notice the taste of lotus]]
 
 *** Back
+
 - Be aware of the things which seek to grab your attention away from you
 - [[id:f3ce6cfc-d119-4903-94db-9a2e2d4397e0][Be conscious of your defaults]]
 - Be aware of your sources of [[id:cce498c6-3fd2-40e1-9aee-fbc273d7fb32][Akrasia]]

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       1263eb22-a819-43e6-9ab4-d45f790b095f
 :ROAM_REFS: [cite:@OptionFinance2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2024-02-15 Thu 06:10]
 :END:
 #+title: Option (finance)
 #+hugo_custom_front_matter: :slug "1263eb22-a819-43e6-9ab4-d45f790b095f"
@@ -76,14 +76,16 @@ A European option may be exercised only at the expiration date of the option, i.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   287.08 | 2024-02-14T23:55:09Z |
+| front    | 2.80 |   8 |   773.72 | 2026-03-30T07:20:48Z |
 :END:
 
 [[id:d3ad448d-c93d-4f29-9e91-dea656de0bb2][American options]] and [[id:38e47dc2-d914-4569-9a81-f5e8c7eecfe8][European options]]
 
 *** Back
+
 - American options may be exercised at any time before the expiration date
 - European options may *only* be exercised at the expiration date
+
 *** Source
 [cite:@OptionStyle2022]
 * Bibliography

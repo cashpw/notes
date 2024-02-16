@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@chinExtractedTacitMentalModelBusinessExpertise2021]
 :ID:       731b4023-79ea-4671-9de9-2079008f14df
-:LAST_MODIFIED: [2023-12-29 Fri 17:43]
+:LAST_MODIFIED: [2024-02-15 Thu 08:28]
 :END:
 #+title: Cedric Chin | An Extracted Tacit Mental Model of Business Expertise
 #+hugo_custom_front_matter: :slug "731b4023-79ea-4671-9de9-2079008f14df"
@@ -11,12 +11,12 @@
 
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinExtractedTacitMentalModelBusinessExpertise2021]
 
-* TODO [#1] Summary
-* TODO [#1] Thoughts
+* TODO [#2] Summary
+* TODO [#2] Thoughts
 * Notes
 
 #+begin_quote
-it's nearly always more fruitful to mine the literature for /already/-extracted mental models of expertise. A few weeks ago, I learnt of Lia DiBello, an NDM researcher who specialises in the extraction of /tacit mental models of business expertise./
+[...] it's nearly always more fruitful to mine the literature for /already/-extracted mental models of expertise. A few weeks ago, I learnt of Lia DiBello, an NDM researcher who specialises in the extraction of /tacit mental models of business expertise./
 
 DiBello's findings are extremely compelling. She writes, in /[[https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198795872.001.0001/oxfordhb-9780198795872][The Oxford Handbook of Expertise]]/:
 
@@ -159,6 +159,6 @@ After this initial set of questions, DiBello steps forward the simulation and pr
 I believe DiBello when she says that the Profiler is able to detect blindspots in an exec team, that it is able to evaluate cognitive agility, and that you may use it to assess the expertise of business decision makers. I'm just not sure how this may be used, if one isn't able to afford DiBello's services.
 #+end_quote
 
-* TODO [#1] Flashcards :noexport:
+* TODO [#2] Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

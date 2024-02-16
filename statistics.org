@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-02-14 Wed 07:02]
+:LAST_MODIFIED: [2024-02-15 Thu 06:06]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -691,7 +691,7 @@ Parametric model
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.95 |   7 |   347.08 | 2024-01-31T19:17:23Z |
+|        0 | 3.10 |   8 |  1114.73 | 2027-03-06T07:38:35Z |
 |        1 | 2.80 |   7 |   362.47 | 2024-03-07T16:34:58Z |
 :END:
 ** {{$\operatorname{avg}(\vec{x})$}{function}@0} $=$ {{$\frac{1}{n} (\vec{1} \cdot \vec{x})$}{vector}@1} :fc:

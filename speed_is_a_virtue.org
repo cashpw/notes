@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID: 8b79fc74-135d-42e2-849e-8272619bcd4c
-:LAST_MODIFIED: [2023-10-19 Thu 17:35]
+:LAST_MODIFIED: [2024-02-15 Thu 07:59]
+:ROAM_ALIASES: "Slow systems starve"
 :END:
 #+title: Speed is a virtue
 #+hugo_custom_front_matter: :slug "8b79fc74-135d-42e2-849e-8272619bcd4c"
@@ -8,18 +9,31 @@
 #+date: [2023-10-19 Thu 17:34]
 #+filetags: :hastodo:concept:
 
-Also see [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Ben Kuhn | Be Impatient]].
+Going faster allows you to do more, yes, or even to do the same amount in less time. More importantly, going faster:
 
-* TODO [#1] Expand :noexport:
-* TODO [#1] Better title? :noexport:
-* TODO [#2] [[https://patrickcollison.com/fast][Fast]] :noexport:
-:PROPERTIES:
-:CREATED: [2023-07-05 19:34]
-:END:
-* TODO [#2] [[http://jsomers.net/blog/speed-matters][Working quickly is more important than it seems (2015)]] :noexport:
-:PROPERTIES:
-:CREATED: [2023-06-13 16:08]
-:END:
-* TODO [#2] Flashcards :noexport:
+- makes actions feel more possible and approachable because they're smaller (e.g. A letter that takes you two minutes to write is more approachable than a letter that takes you two weeks to write.)
+- enables "just try it" interactions
+- reduces the round trip time of everything interaction and every interaction you have
+- changes, in a positive way, the feeling others have when interacting with you; it's fun to interact with someone who's responsive
+
+#+begin_quote
+The obvious benefit to working quickly is that you'll finish more stuff per unit time. But there's more to it than that. If you work quickly, the cost of doing something new will seem lower in your mind. So you'll be inclined to do more.
+
+The converse is true, too. If every time you write a blog post it takes you six months, and you're sitting around your apartment on a Sunday afternoon thinking of stuff to do, you're probably not going to think of starting a blog post, because it'll feel too expensive.
+
+What's worse, because you blog slowly, you're liable to continue blogging slowly—simply because the only way to learn to do something fast is by doing it lots of times.
+
+This is true of any to-do list that gets worked off too slowly. A malaise creeps into it. You keep adding items that you never cross off. If that happens enough, you might one day stop putting stuff onto the list.
+
+[...]
+
+The general rule seems to be: systems which eat items quickly are fed more items. Slow systems starve.
+
+[[id:b98760c3-bcd5-48e4-9434-3bae494f464c][James Somers | Speed Matters: Why Working Quickly Is More Important than It Seems]]
+#+end_quote
+
+* TODO [#2] Expand :noexport:
+- [[https://patrickcollison.com/fast][Fast]]
+* Flashcards :noexport:
 * Bibliography
 #+print_bibliography:

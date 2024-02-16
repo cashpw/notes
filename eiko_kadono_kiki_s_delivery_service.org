@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@kadonoKikiDeliveryService2020]
 :ID:       041d3a78-05af-4a51-aff3-88f1ae415f54
-:LAST_MODIFIED: [2024-02-05 Mon 09:15]
+:LAST_MODIFIED: [2024-02-15 Thu 16:53]
 :END:
 #+title: Eiko Kadono | Kiki's Delivery Service
 #+hugo_custom_front_matter: :slug "041d3a78-05af-4a51-aff3-88f1ae415f54"
@@ -14,7 +14,6 @@ TODO_AUTHOR, [cite:@kadonoKikiDeliveryService2020]
 * TODO Summary
 * TODO Thoughts
 * TODO Notes
-==========
 ﻿Kiki's Delivery Service (Eiko Kadono)
 - Your Highlight on page 4 | Location 50-51 | Added on Monday, June 15, 2015 7:52:03 PM
 
@@ -194,7 +193,7 @@ will—witches don't need much. You can see how simple my clothes are, and I don
 - Your Highlight on page 36 | Location 549-549 | Added on Tuesday, June 16, 2015 2:43:12 AM
 
 humans are so quick to decide that anything they don't understand is evil.
-
+==========
 * Bibliography
 #+print_bibliography:
 * TODO [#2] Flashcards :noexport:

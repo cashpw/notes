@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       163ba0a0-7352-4489-98ca-5ecd785b125f
+:LAST_MODIFIED: [2024-02-15 Thu 07:02]
+:ROAM_ALIASES: "Double-blind subtext"
+:END:
+#+title: Double-blind signaling
+#+hugo_custom_front_matter: :slug "163ba0a0-7352-4489-98ca-5ecd785b125f"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-15 Thu 06:56]
+#+filetags: :hastodo:concept:
+
+Double-blind signaling refers to an interaction between two parties in which neither parties are aware of the [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]], or subtext, involved in the interaction if, indeed, there is any there at all.
+
+Example(s):
+
+- Interactions between [[id:fad8aefd-6395-4702-8f9a-e27091a5c3b8][Clueless (Gervais principle)]] and [[id:fad8aefd-6395-4702-8f9a-e27091a5c3b8][Clueless (Gervais principle)]]
+
+* TODO [#2] Flashcards :noexport:

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dc8441b9-7783-45e4-8f08-7cff68a669d5
+:LAST_MODIFIED: [2024-02-15 Thu 07:01]
+:ROAM_ALIASES: "Single-blind subtext"
+:END:
+#+title: Single-blind signaling
+#+hugo_custom_front_matter: :slug "dc8441b9-7783-45e4-8f08-7cff68a669d5"
+#+author: Cash Prokop-Weaver
+#+date: [2024-02-15 Thu 06:54]
+#+filetags: :hastodo:concept:
+
+Single-blind signaling refers to an interaction between two parties in which only one party is aware of the [[id:0a3904f5-1484-4c12-8abb-005c707401e1][Signaling]]/subtext involved in the interaction.
+
+Examples:
+
+- Interactions between [[id:b1cf7667-ce51-4ec8-b21f-56d3567f507a][Sociopath (Gervais principle)]] and [[id:fad8aefd-6395-4702-8f9a-e27091a5c3b8][Clueless (Gervais principle)]]
+
+* TODO [#2] Flashcards :noexport:
