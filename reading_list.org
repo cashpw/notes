@@ -1,7 +1,6 @@
 :PROPERTIES:
 :ID:       c93c0308-2ea5-47d1-b808-b0291b092527
-:LAST_MODIFIED: [2024-02-11 Sun 13:20]
-:ROAM_ALIASES: Unread
+:LAST_MODIFIED: [2024-02-18 Sun 18:33]
 :END:
 #+TITLE: Reading list
 #+hugo_custom_front_matter: :slug "c93c0308-2ea5-47d1-b808-b0291b092527"
@@ -103,6 +102,7 @@ Possibly read again!
   - The passenger
   - The Road
 - The Motern Method (Creativity)
+- Games people play (psychology)
 
 
 ** Graphic narrative
@@ -11148,7 +11148,7 @@ Traditional political views map well onto this framework, but there's more… 1/
 :PROPERTIES:
 :CREATED: [2023-01-03 13:15]
 :END:
-** TODO [#2] [[https://twitter.com/emollick/status/1589768615125221379][Related thread on how strategic errors can lead to complex cascades of failures. https://t.co/NopFrVu94O :systems:
+** TODO [#2] [[https://twitter.com/emollick/status/1589768615125221379][Related thread on how strategic errors can lead to complex cascades of failures. https://t.co/NopFrVu94O]] :systems:
 
 
 
@@ -11178,11 +11178,7 @@ If you understand these errors, you will know what questions to ask to avoid str
 :PROPERTIES:
 :CREATED: [2023-04-07 00:11]
 :END:
-** TODO [#0] [[https://twitter.com/emollick/status/1588890091706949632][Ethan Mollick retweeted: :systems:advice:
-
-
-
-
+** TODO [#0] [[https://twitter.com/emollick/status/1588890091706949632][Ethan Mollick retweeted]] :systems:advice:
 
 				Read these 3 pages. I post them every so often because I think it is some of the tightest, wisdom-packed writing on managing complex systems ever.
 

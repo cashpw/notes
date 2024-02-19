@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@yudkowskySomethingProtect2008]
 :ID:       ad3762f0-6d77-4289-baa7-4c3192b9c4b1
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2024-02-18 Sun 15:36]
 :END:
 #+title: Eliezer Yudkowsky | Something to Protect
 #+hugo_custom_front_matter: :slug "ad3762f0-6d77-4289-baa7-4c3192b9c4b1"
@@ -10,6 +10,10 @@
 #+filetags: :reference:
 
 [[id:614d0317-e7fc-4ee2-a68a-e93471500fa0][Eliezer Yudkowsky]], [cite:@yudkowskySomethingProtect2008]
+
+* Thoughts
+
+[[id:dfc647aa-89b0-400a-9669-cdf2e0650c8c][Something to protect]]
 
 * Notes
 #+begin_quote

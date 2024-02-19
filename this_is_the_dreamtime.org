@@ -1,19 +1,27 @@
 :PROPERTIES:
 :ID:       4d1a0eba-1f0f-4634-b574-6d66b7afa9b8
-:LAST_MODIFIED: [2023-10-20 Fri 17:13]
+:LAST_MODIFIED: [2024-02-18 Sun 20:44]
+:ROAM_ALIASES: "This is the dreamtime"
 :END:
-#+title: This is the dreamtime
+#+title: Dreamtime
 #+hugo_custom_front_matter: :slug "4d1a0eba-1f0f-4634-b574-6d66b7afa9b8"
 #+author: Cash Prokop-Weaver
 #+date: [2022-09-26 Mon 19:22]
-#+filetags: :concept:
+#+filetags: :hastodo:concept:
 
-The current era is one of relative abundance [[[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]]] wherein mankind can resist [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] via [[id:389385dc-aab6-4631-8397-7368d80ba68d][Excess resources]]. Advances in technology have uncovered alternative routes to improving lives than the old standbys like conquering, stealing, and enslaving. This is the time of [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum games]] and it won't last. It can't last due to physical limitations alone: "But if income only doubled every century, in a million years that would be a factor of 103000, which seems impossible to achieve with only the 1070 atoms of our galaxy available by then" [cite:@hansonThisDreamTime].
+The Dreamtime is a non-infinite period of time in which people have enough [[id:e6c3a056-5061-4152-8b12-41f001f637a5][Slack]] and [[id:389385dc-aab6-4631-8397-7368d80ba68d][Excess resources]] to resist [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]/[[id:a604cedc-f0a1-4652-8bdf-697b6781ffad][Collective action problem]]/[[id:440b6c99-7394-44d1-8e62-61a15673dd95][Red Queen's race]]. This is the time of [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum games]] and it is temporary. It's a time where dreams are real.
 
-* TODO [#2] [[https://www.cold-takes.com/this-cant-go-on/][This can't go on (2021)]] :noexport:
-:PROPERTIES:
-:CREATED: [2023-08-20 17:08]
-:END:
+Examples:
+
+- Technological advances (e.g. fertilizers, genetically modified crops, factories, automation, and engines) which increase our production superlinearly (i.e. We can produce 2x more with <2x human labor)
+- Discovery of resources which were either unknown or inaccessible (e.g. new continents)
+- Relative increase in resources through a decrease in population (e.g. the Black Death)
+
+The names comes from [cite:@hansonThisDreamTime2009] and comes from "[...] a term devised by early anthropologists to refer to a religio-cultural worldview attributed to Australian Aboriginal beliefs" [cite:@Dreaming2024]. Specifically, Hanson says: "Yet even these differences [between modern humans and our decendents] will pale relative to one huge difference: our lives are far more dominated by consequential delusions: wildly false beliefs and non-adaptive values that matter. While our descendants may explore delusion-dominated virtual realities, they will well understand that such things cannot be real, and don't much influence history. In contrast, we live in the brief but important "dreamtime" when delusions drove history. Our descendants will remember our era as the one where the human capacity to sincerely believe crazy non-adaptive things, and act on those beliefs, was dialed to the max".
+
+* TODO [#4] Expand :noexport:
+- [[https://www.cold-takes.com/this-cant-go-on/][This can't go on (2021)]]
+
 * Flashcards :noexport:
 ** Describe :fc:
 :PROPERTIES:

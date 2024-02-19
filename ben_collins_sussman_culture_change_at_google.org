@@ -1,21 +1,30 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@collins-sussmanCultureChangeGoogle]
 :ID:       c1a1a577-4b0b-4ac7-8375-21861cdd321e
-:LAST_MODIFIED: [2024-01-19 Fri 19:55]
+:LAST_MODIFIED: [2024-02-18 Sun 20:51]
 :END:
 #+title: Ben Collins-Sussman | Culture Change at Google
 #+hugo_custom_front_matter: :slug "c1a1a577-4b0b-4ac7-8375-21861cdd321e"
 #+author: Cash Weaver
 #+date: [2024-01-19 Fri 19:54]
-#+filetags: :hastodo:reference:
+#+filetags: :reference:
 
 [[id:d21b7711-9534-4389-95ab-0bcb8411d7ee][Ben Collins-Sussman]], [cite:@collins-sussmanCultureChangeGoogle]
 
-* TODO Summary
-* TODO Thoughts
+* Thoughts
 - [[https://news.ycombinator.com/item?id=39051655][Discussion on hacker news]]
 - A [[id:479d79c7-3ee4-435f-b5bf-e035a49676d5][Layoff letter]].
-* TODO [#1] Notes
+* Notes
+#+begin_quote
+But things change. In my first month at Google, I remember a co-worker whispering to me, "the day Google revenue stops growing without bound, is also the day all of this will change." The change was very gradual for a long time -- but then things accelerated during the pandemic. Revenue began to slow, and now, coming out of the pandemic, we're seeing waves of layoffs. Yes, we knew things would change, but we didn't expect it would accelerate this quickly, in the span of just a couple of years. The academic founders are gone, much of the C-suite is now former Wall Street execs; combine that with revenue flattening toward a stable horizontal asymptote, and the obvious, expected thing happens: the company suddenly moves from a "culture of infinite abundance" to a standard "culture of limited resources." It's a predictable regression toward becoming a 'normal' company
+
+[...]
+
+But, coming back to my first decade at Google, it was incredible to see employees valued above everything else. Perhaps this is a privilege only possible in a culture of infinite abundance. Or maybe not? Maybe it's possible in a limited-resource culture too, but only if the company is small.
+#+end_quote
+
+Early Google was a [[id:4d1a0eba-1f0f-4634-b574-6d66b7afa9b8][Dreamtime]] and the company is (or has already, and these are just the [[id:c112d0b0-ceef-4a41-9dc8-013a31bd1f49][Lagging indicator]]) reverting to the mean.
+
 * Bibliography
 #+print_bibliography:
-* TODO [#2] Flashcards :noexport:
+* Flashcards :noexport:

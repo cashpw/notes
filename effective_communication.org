@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       af59804b-3199-476f-89c0-0ad1e5b6cd6e
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2024-02-18 Sun 16:03]
 :END:
 #+title: Effective communication
 #+hugo_custom_front_matter: :slug "af59804b-3199-476f-89c0-0ad1e5b6cd6e"
@@ -9,6 +9,7 @@
 #+startup: overview
 #+filetags: :hastodo:concept:
 
+- [[id:e11dfbb7-63e3-4728-bbc4-d74ae3a1ac7c][Interrupt people, sometimes]]
 - [[id:279afdb0-48ca-4542-94f1-d20add351cae][Be curious]]
 
 * TODO [#4] Expand :noexport:

@@ -1,7 +1,7 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@hansonThisDreamTime]
+:ROAM_REFS: [cite:@hansonThisDreamTime2009]
 :ID:       35ea6ba6-1937-4a70-befa-81191ff059fa
-:LAST_MODIFIED: [2023-09-05 Tue 20:15]
+:LAST_MODIFIED: [2024-02-18 Sun 20:35]
 :END:
 #+title: Robin Hanson | This Is the Dream Time
 #+hugo_custom_front_matter: :slug "35ea6ba6-1937-4a70-befa-81191ff059fa"
@@ -9,10 +9,12 @@
 #+date: [2023-01-08 Sun 18:52]
 #+filetags: :reference:
 
-[[id:c5c893c1-84c9-4ea7-9cad-ba258e494400][Robin Hanson]], [cite:@hansonThisDreamTime]
+[[id:c5c893c1-84c9-4ea7-9cad-ba258e494400][Robin Hanson]], [cite:@hansonThisDreamTime2009]
 
 * Summary
-I've moved this into [[id:4d1a0eba-1f0f-4634-b574-6d66b7afa9b8][This is the dreamtime]].
+
+See [[id:4d1a0eba-1f0f-4634-b574-6d66b7afa9b8][This is the dreamtime]].
+
 * Notes
 #+begin_quote
 We will soon [[http://www.overcomingbias.com/2009/09/how-is-our-era-unique.html][enter an era]] where most anyone can at any time talk directly with most anyone else who can talk. Cheap global talk and travel continue to tie our global economy and culture more closely together. But in the distant future, our descendants will probably have spread out across space, and redesigned their minds and bodies to explode Cambrian-style into a vast space of possible creatures. If they are free enough to choose where to go and what to become, our distant descendants will fragment into diverse local economies and cultures.

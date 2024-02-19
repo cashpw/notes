@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f17a9096-2a81-4652-9e56-d5fe76abcbc0
-:LAST_MODIFIED: [2024-02-07 Wed 19:08]
+:LAST_MODIFIED: [2024-02-18 Sun 21:03]
 :END:
 #+title: Focus as magic
 #+hugo_custom_front_matter: :slug "f17a9096-2a81-4652-9e56-d5fe76abcbc0"
@@ -8,7 +8,9 @@
 #+date: [2023-09-14 Thu 15:23]
 #+filetags: :hastodo:concept:
 
-I like the idea that focus, concentration, attention, quiet, darkness, stillness, is a requirement for magic.
+I like the idea that focus, concentration, attention, quiet, darkness, stillness, is a requirement for magic; or that they /are/ magic themselves. Humanity has cast light into all the formerly dark places, physical and not, and thereby purged the magic held there.
+
+* In [[id:041d3a78-05af-4a51-aff3-88f1ae415f54][Eiko Kadono | Kiki's Delivery Service]]
 
 #+begin_quote
 At age ten, Kiki had decided to become a witch and learn Kokiri's magic right away. Kokiri had two magic abilities. The first was growing herbs to make sneeze medicine, and the second was flying through the sky on a broom.
@@ -26,7 +28,19 @@ Meanwhile there was the sneeze-medicine-making, but Kiki didn't seem to be cut o
 [cite:@kadonoKikiDeliveryService2020]
 #+end_quote
 
-* TODO [#1] Also quote the passage that contains "Some say it's because there's no such thing as a completely dark night or perfect silence anymore" :noexport:
+#+begin_quote
+"Now then, here's your lunch." Kokiri patted Kiki's shoulder and set a little bundle down next to her. "I used herbs so it won't go bad as fast. Don't eat it all in one place. I remember my mom did a great job making my coming-of-age lunch. She cast some spell on the herbs in the bread that kept it from going bad or even stale. It's a shame we don't know how to do that anymore."
+
+"That seems like the sort of thing that would be easy to pass on, though," Okino chimed in, coming in from his study with a book in his hand. "I wonder why it disappeared. Maybe that's just the nature of magic?"
+
+"It's strange that I'm a witch and even I don't know. Some say it's because there's no such thing as a completely dark night or perfect silence anymore—if there's a light on or if there's even a tiny noise, we get distracted and can't get our magic to work."
+
+"Certainly compared to ancient times, it's gotten a lot brighter," Okino said. "Nowadays there's always a light on somewhere."
+
+"Yes, the world sure has changed." Kokiri nodded, [...]
+
+[cite:@kadonoKikiDeliveryService2020]
+#+end_quote
 
 * TODO [#2] [[https://thewalrus.ca/noise-ethics/][Noise is all around us]] :noexport:
 :PROPERTIES:
