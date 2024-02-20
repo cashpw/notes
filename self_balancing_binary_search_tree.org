@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       b3fc99fa-5b7e-4e45-83c2-6d283aecca9a
 :ROAM_ALIASES: "Self-balancing binary search trees"
-:LAST_MODIFIED: [2024-02-13 Tue 06:34]
+:LAST_MODIFIED: [2024-02-19 Mon 14:14]
 :END:
 #+title: Self-balancing binary search tree
 #+hugo_custom_front_matter: :slug "b3fc99fa-5b7e-4e45-83c2-6d283aecca9a"
@@ -56,12 +56,13 @@ A node-based [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] whi
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   749.84 | 2026-02-05T11:11:30Z |
-| back     | 2.20 |   8 |   235.67 | 2024-02-16T09:50:02Z |
+| back     | 2.20 |   9 |   484.46 | 2025-06-18T09:12:07Z |
 :END:
 
 [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]
 
 *** TODO [#2] Back
+
 - [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]
 - [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]]
 *** Source

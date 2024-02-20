@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       e945552a-47b5-4b23-b7ee-615e99cc8f6e
-:LAST_MODIFIED: [2024-02-15 Thu 06:08]
+:LAST_MODIFIED: [2024-02-19 Mon 14:00]
 :END:
 #+title: Linear algebra
 #+hugo_custom_front_matter: :slug "e945552a-47b5-4b23-b7ee-615e99cc8f6e"
@@ -1295,7 +1295,7 @@ $S = \left \{ \begin{bmatrix}1 \\ 1 \\ 0\end{bmatrix}y + \begin{bmatrix}-1 \\ 0 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   8 |   348.29 | 2024-02-13T11:09:25Z |
+| front    | 2.65 |   9 |   962.25 | 2026-10-09T04:05:06Z |
 | back     | 2.30 |  11 |   278.66 | 2024-02-13T07:46:48Z |
 :END:
 

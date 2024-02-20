@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-02-15 Thu 06:06]
+:LAST_MODIFIED: [2024-02-19 Mon 13:51]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -1427,13 +1427,14 @@ eg: two groups, two rings, or two vector spaces
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   7 |   276.14 | 2024-02-03T19:09:37Z |
+| back     | 2.50 |   8 |   671.58 | 2025-12-22T11:40:56Z |
 | front    | 2.80 |   8 |   379.45 | 2024-03-13T15:43:29Z |
 :END:
 
 Idempotence
 
 *** Back
+
 A property of certain operations whereby they can be applied many times without changing the result beyond the initial application.
 
 *** Extra

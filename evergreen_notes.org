@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       eb88f117-4925-42c7-a9cf-5789987fd933
 :DIR:      /home/cashweaver/proj/roam/attachments/eb88f117-4925-42c7-a9cf-5789987fd933
-:LAST_MODIFIED: [2023-12-18 Mon 06:17]
+:LAST_MODIFIED: [2024-02-19 Mon 14:10]
 :END:
 #+title: Evergreen notes
 #+hugo_custom_front_matter: :slug "eb88f117-4925-42c7-a9cf-5789987fd933"
@@ -51,7 +51,7 @@ A note which is
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.90 |   7 |    74.66 | 2024-02-17T06:50:03Z |
+|        0 | 1.90 |   8 |   138.05 | 2024-07-06T23:20:54Z |
 :END:
 
 [[id:eb88f117-4925-42c7-a9cf-5789987fd933][Evergreen notes]] are {{atomic and concept-oriented}{content}@0}.

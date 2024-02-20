@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       622f9a3c-b4a2-400e-9ee3-434efaa1f0c2
 :ROAM_REFS: [cite:@PowerRule2022]
-:LAST_MODIFIED: [2024-01-25 Thu 07:22]
+:LAST_MODIFIED: [2024-02-19 Mon 14:18]
 :END:
 #+title: Power rule
 #+hugo_custom_front_matter: :slug "622f9a3c-b4a2-400e-9ee3-434efaa1f0c2"
@@ -82,7 +82,7 @@ $\frac{dy}{dx}=$ {{$-4x^{-5}$}@0}
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   6 |    25.04 | 2024-02-19T16:16:41Z |
+| front    | 1.60 |   7 |    39.01 | 2024-03-29T22:40:05Z |
 | back     | 2.80 |   7 |   404.18 | 2024-11-02T17:39:03Z |
 :END:
 

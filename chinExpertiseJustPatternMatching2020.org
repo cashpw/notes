@@ -2,7 +2,7 @@
 :ROAM_REFS: [cite:@chinExpertiseJustPatternMatching2020]
 :ID:       b481f4e5-63b4-4455-8406-49825121b06c
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/b481f4e5-63b4-4455-8406-49825121b06c
-:LAST_MODIFIED: [2024-01-17 Wed 06:50]
+:LAST_MODIFIED: [2024-02-19 Mon 14:09]
 :END:
 #+title: Cedric Chin | Expertise Is 'Just' Pattern Matching
 #+hugo_custom_front_matter: :slug "b481f4e5-63b4-4455-8406-49825121b06c"
@@ -64,12 +64,13 @@ What about creativity, for instance? Klein covers this in his research; in Sourc
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   9 |   391.69 | 2025-02-12T07:29:22Z |
-| back     | 2.65 |   7 |   242.23 | 2024-02-15T19:51:20Z |
+| back     | 2.65 |   8 |   698.07 | 2026-01-17T23:56:44Z |
 :END:
 
 [[id:b481f4e5-63b4-4455-8406-49825121b06c][Cedric Chin | Expertise Is 'Just' Pattern Matching]]
 
 *** Back
+
 Being an expert at something is a function of:
 
 1. recognizing situations

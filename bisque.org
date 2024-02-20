@@ -2,7 +2,7 @@
 :ID:       7a78f2f9-4a22-43aa-86a7-11dceb13e96a
 :ROAM_ALIASES: Biscuit
 :ROAM_REFS: [cite:@BiscuitPottery2022]
-:LAST_MODIFIED: [2023-09-05 Tue 20:19]
+:LAST_MODIFIED: [2024-02-19 Mon 14:08]
 :END:
 #+title: Bisque (Ceramics)
 #+hugo_custom_front_matter: :slug "7a78f2f9-4a22-43aa-86a7-11dceb13e96a"
@@ -30,7 +30,7 @@ Biscuit (also known as bisque) refers to any pottery that has been [[id:546a8c28
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   272.86 | 2024-02-16T13:01:43Z |
+| front    | 2.80 |   8 |   781.44 | 2026-04-11T08:37:55Z |
 | back     | 2.95 |   7 |   338.34 | 2024-05-23T04:52:52Z |
 :END:
 

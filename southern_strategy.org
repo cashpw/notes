@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       04893c03-a45f-4719-9404-ac09b32a5edb
-:LAST_MODIFIED: [2023-09-05 Tue 20:21]
+:LAST_MODIFIED: [2024-02-19 Mon 14:01]
 :END:
 #+title: Southern strategy
 #+hugo_custom_front_matter: :slug "04893c03-a45f-4719-9404-ac09b32a5edb"
@@ -24,14 +24,16 @@ In American politics, the Southern strategy was a Republican Party electoral str
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   291.85 | 2024-02-19T12:09:47Z |
+| front    | 2.80 |   8 |   895.65 | 2026-08-03T13:34:40Z |
 | back     | 2.80 |   7 |   266.65 | 2024-02-25T20:07:07Z |
 :END:
 
 [[id:04893c03-a45f-4719-9404-ac09b32a5edb][Southern strategy]]
 
 *** Back
+
 A political plan which sought to increase political support among white voters in the American South by appealing to racism against black people.
+
 *** Source
 [cite:@SouthernStrategy2022]
 * Bibliography

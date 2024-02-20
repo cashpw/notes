@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60
-:LAST_MODIFIED: [2024-02-09 Fri 06:22]
+:LAST_MODIFIED: [2024-02-19 Mon 14:17]
 :END:
 #+title: Higher order questions
 #+hugo_custom_front_matter: :slug "dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60"
@@ -27,12 +27,13 @@ Also see [[id:b0252e55-4cb5-4af8-8a28-9bf331052193][Lower order questions]].
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   8 |   279.20 | 2024-06-12T19:44:03Z |
-| back     | 2.65 |   7 |   244.66 | 2024-02-18T06:16:37Z |
+| back     | 2.65 |   8 |   654.17 | 2025-12-05T02:22:11Z |
 :END:
 
 [[id:dd8fa48a-100d-4e05-b4ff-cb5f4eb73c60][Higher order questions]]
 
 *** Back
+
 Questions which go beyond simple information; abstract language functions such as giving and justifying opinions, speculation, and hypothesizing
 *** Source
 [cite:@HigherorderQuestions]

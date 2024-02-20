@@ -2,7 +2,7 @@
 :ID:       ffff7383-e701-4fca-ad82-4e1a0ac3d509
 :ROAM_REFS: [cite:@SwitchingBarriers2022]
 :ROAM_ALIASES: "Switching cost"
-:LAST_MODIFIED: [2023-09-06 Wed 08:05]
+:LAST_MODIFIED: [2024-02-19 Mon 14:13]
 :END:
 #+title: Switching barrier
 #+hugo_custom_front_matter: :slug "ffff7383-e701-4fca-ad82-4e1a0ac3d509"
@@ -29,14 +29,16 @@ Also see [[id:877f3321-faac-463a-8619-787467251655][Network effect]].
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   7 |   268.65 | 2024-02-16T11:44:49Z |
+| front    | 2.65 |   8 |   683.77 | 2026-01-03T16:47:42Z |
 | back     | 2.05 |   8 |   295.86 | 2024-06-14T13:16:35Z |
 :END:
 
 [[id:ffff7383-e701-4fca-ad82-4e1a0ac3d509][Switching barrier]]
 
 *** Back
+
 Disadvantages or expenses incurred by changing from one alternative to another.
+
 *** Source
 [cite:@SwitchingBarriers2022]
 * Bibliography

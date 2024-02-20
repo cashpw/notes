@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       668cbbcc-170b-42c8-b92b-75f6868a0138
-:LAST_MODIFIED: [2024-02-14 Wed 07:06]
+:LAST_MODIFIED: [2024-02-19 Mon 13:51]
 :ROAM_REFS: [cite:@DijkstraAlgorithm2022]
 :END:
 #+title: Dijkstra's algorithm
@@ -240,7 +240,7 @@ Why does [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] fail 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   1 |     1.00 | 2024-02-15T15:06:21Z |
+|        0 | 2.20 |   2 |     2.00 | 2024-02-21T21:51:47Z |
 :END:
 
 [[id:668cbbcc-170b-42c8-b92b-75f6868a0138][Dijkstra's algorithm]] iterates over {{[[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]]}@0}.

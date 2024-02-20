@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e20ac0c6-f1ba-420d-9afb-c9f031264a2b
 :ROAM_REFS: [cite:@SpeedLight2023]
-:LAST_MODIFIED: [2023-12-31 Sun 10:24]
+:LAST_MODIFIED: [2024-02-19 Mon 14:15]
 :END:
 #+title: Speed of light
 #+hugo_custom_front_matter: :slug "e20ac0c6-f1ba-420d-9afb-c9f031264a2b"
@@ -46,7 +46,7 @@ The speed of light in a vacuum is approximately {{300,000}@0} kilometers per sec
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.65 |   5 |    45.99 | 2024-02-15T18:08:38Z |
+|        0 | 2.65 |   6 |   116.00 | 2024-06-14T22:20:12Z |
 :END:
 
 The speed of light in a vacuum is approximately {{186,000}@0} miles per second.

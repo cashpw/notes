@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       e00b9c0f-103f-4c55-8938-e777f58d04fb
 :ROAM_ALIASES: "Radix trie" "Patricia tree"
-:LAST_MODIFIED: [2024-01-25 Thu 07:24]
+:LAST_MODIFIED: [2024-02-19 Mon 14:06]
 :END:
 #+title: Radix tree
 #+hugo_custom_front_matter: :slug "e00b9c0f-103f-4c55-8938-e777f58d04fb"
@@ -35,7 +35,7 @@ In computer science, a radix tree (also radix trie or compact prefix tree or com
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   6 |    22.90 | 2024-02-17T12:55:34Z |
+| front    | 1.60 |   7 |    34.99 | 2024-03-25T21:57:19Z |
 | back     | 2.20 |   8 |   352.98 | 2024-10-03T07:05:08Z |
 :END:
 

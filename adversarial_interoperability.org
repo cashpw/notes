@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b043e085-a9d3-4da5-8686-938fb3bfdcda
-:LAST_MODIFIED: [2023-09-05 Tue 20:20]
+:LAST_MODIFIED: [2024-02-19 Mon 14:17]
 :END:
 #+title: Adversarial interoperability
 #+hugo_custom_front_matter: :slug "b043e085-a9d3-4da5-8686-938fb3bfdcda"
@@ -35,7 +35,7 @@ Since Pages' launch, document interoperability has stabilized, with multiple par
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   380.53 | 2024-07-04T09:02:17Z |
-| back     | 2.80 |   7 |   266.73 | 2024-02-17T07:59:56Z |
+| back     | 2.65 |   8 |   712.96 | 2026-02-01T21:25:13Z |
 :END:
 
 [[id:b043e085-a9d3-4da5-8686-938fb3bfdcda][Adversarial interoperability]]

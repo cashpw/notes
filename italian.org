@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       768e1b87-efef-4024-a356-e399d27cc98f
-:LAST_MODIFIED: [2024-02-15 Thu 06:06]
+:LAST_MODIFIED: [2024-02-19 Mon 14:05]
 :END:
 #+title: Italian
 #+hugo_custom_front_matter: :slug "768e1b87-efef-4024-a356-e399d27cc98f"
@@ -327,7 +327,7 @@ Seven
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.65 |   6 |   100.42 | 2024-02-12T00:34:15Z |
+| front    | 2.65 |   7 |   256.77 | 2024-11-02T16:41:12Z |
 | back     | 2.50 |   6 |    84.55 | 2024-01-30T04:01:16Z |
 :END:
 

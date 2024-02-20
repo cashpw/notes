@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       3910de4c-e0b0-4bad-93b9-334af4256906
-:LAST_MODIFIED: [2023-10-16 Mon 00:29]
+:LAST_MODIFIED: [2024-02-19 Mon 14:16]
 :END:
 #+title: Leveling up (Staff Engineer's Path)
 #+hugo_custom_front_matter: :slug "3910de4c-e0b0-4bad-93b9-334af4256906"
@@ -24,17 +24,19 @@ Every increase in seniority comes with more responsibility for raising the stand
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   7 |   135.84 | 2024-02-16T02:20:18Z |
+| front    | 2.20 |   8 |   314.85 | 2024-12-30T18:41:17Z |
 | back     | 2.35 |   7 |   162.19 | 2024-03-26T12:07:59Z |
 :END:
 
 [[id:3910de4c-e0b0-4bad-93b9-334af4256906][Leveling up (Staff Engineer's Path)]]
 
 *** Back
+
 The ability to:
 
 - raise the standards and skills of engineers within your orbit
 - influence through (active) teaching, mentoring, and (passive) being a role model
+
 *** Source
 [cite:@reillyStaffEngineerPathGuideIndividualContributorsNavigatingGrowthChange2022]
 * Bibliography

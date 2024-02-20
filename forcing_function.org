@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       142f20ad-f98f-4927-8207-1c5939f5922a
 :ROAM_REFS: [cite:@ForcingFunction2022]
-:LAST_MODIFIED: [2024-02-13 Tue 06:39]
+:LAST_MODIFIED: [2024-02-19 Mon 14:08]
 :END:
 #+title: Forcing function
 #+hugo_custom_front_matter: :slug "142f20ad-f98f-4927-8207-1c5939f5922a"
@@ -27,7 +27,7 @@ A forcing function is any task, activity or event that forces one to take action
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2024-02-15T14:39:01Z |
+| front    | 2.50 |   3 |     6.00 | 2024-02-25T22:08:07Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T18:11:09Z |
 :END:
 

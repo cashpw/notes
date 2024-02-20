@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-02-14 Wed 07:00]
+:LAST_MODIFIED: [2024-02-19 Mon 14:04]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -464,7 +464,7 @@ Steps:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   4 |    13.42 | 2024-02-02T02:15:43Z |
+| front    | 2.20 |   5 |    27.43 | 2024-03-18T08:19:33Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:30:07Z |
 :END:
 

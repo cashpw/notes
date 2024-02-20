@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       30450600-cc69-4beb-9560-c7721a04ecee
-:LAST_MODIFIED: [2024-02-15 Thu 16:35]
+:LAST_MODIFIED: [2024-02-19 Mon 14:17]
 :ROAM_REFS: [cite:@MinimumViableProduct2024]
 :END:
 #+title: Minimum viable product
@@ -28,7 +28,7 @@ A focus on releasing an MVP means that developers potentially avoid lengthy and 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    |  2.5 |  -1 |        0 | 2024-02-16T00:34:57Z |
+| front    | 2.50 |   1 |     1.00 | 2024-02-20T22:17:06Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-23T00:34:57Z |
 :END:
 

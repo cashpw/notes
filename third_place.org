@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       34fb63b5-5a47-436f-b123-a1d6ffbf4fab
 :ROAM_REFS: [cite:@ThirdPlace2022]
-:LAST_MODIFIED: [2023-10-16 Mon 00:26]
+:LAST_MODIFIED: [2024-02-19 Mon 14:12]
 :END:
 #+title: Third place
 #+hugo_custom_front_matter: :slug "34fb63b5-5a47-436f-b123-a1d6ffbf4fab"
@@ -60,12 +60,13 @@ Other scholars have summarized Oldenburg's view of a third place with eight char
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |   7 |   314.05 | 2024-04-11T02:19:55Z |
-| back     | 2.65 |   6 |   125.33 | 2024-02-18T15:18:06Z |
+| back     | 2.65 |   7 |   361.27 | 2025-02-15T04:43:55Z |
 :END:
 
 [[id:34fb63b5-5a47-436f-b123-a1d6ffbf4fab][Third place]]
 
 *** Back
+
 A place for people to gather which is distinct from home and the workplace.
 *** Source
 [cite:@ThirdPlace2022]

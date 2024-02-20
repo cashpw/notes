@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       426b6e66-710b-4d01-8ff0-f5311478260c
-:LAST_MODIFIED: [2023-11-02 Thu 08:38]
+:LAST_MODIFIED: [2024-02-19 Mon 14:11]
 :END:
 #+title: Pure functions
 #+hugo_custom_front_matter: :slug "426b6e66-710b-4d01-8ff0-f5311478260c"
@@ -53,13 +53,15 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 2.65 |   8 |   489.15 | 2024-08-30T02:04:48Z |
-| front    | 2.65 |   8 |   349.90 | 2024-02-18T15:07:51Z |
+| front    | 2.65 |   9 |   940.27 | 2026-09-17T04:34:09Z |
 :END:
 
 [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure functions]]
 
 *** Back
+
 A function in computer programming which (1) has no side effects and (2) is deterministic.
+
 *** Source
 [cite:@PureFunction2022]
 * Bibliography

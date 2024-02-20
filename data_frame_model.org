@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       98a0ed99-a6a1-4b05-aa8e-0261402cc961
-:LAST_MODIFIED: [2024-02-15 Thu 06:08]
+:LAST_MODIFIED: [2024-02-19 Mon 14:10]
 :ROAM_ALIASES: "Data-frame theory"
 :END:
 #+title: Data-frame model
@@ -103,7 +103,7 @@ Explanatory structures that define entities by describing their relationships to
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   5 |    36.99 | 2024-02-23T14:34:33Z |
-| back     | 2.50 |   3 |     6.00 | 2024-02-17T15:23:48Z |
+| back     | 2.50 |   4 |    14.17 | 2024-03-05T02:14:12Z |
 :END:
 
 [[id:98a0ed99-a6a1-4b05-aa8e-0261402cc961][Data-frame theory]]

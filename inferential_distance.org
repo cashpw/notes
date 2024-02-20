@@ -2,7 +2,7 @@
 :ID:       5185ffd0-b643-484a-a69d-85b7579eb38d
 :ROAM_ALIASES: "Inferential gap"
 :ROAM_REFS: [cite:@InferentialDistance]
-:LAST_MODIFIED: [2023-12-05 Tue 06:40]
+:LAST_MODIFIED: [2024-02-19 Mon 14:08]
 :END:
 #+title: Inferential distance
 #+hugo_custom_front_matter: :slug "5185ffd0-b643-484a-a69d-85b7579eb38d"
@@ -37,12 +37,13 @@ There is a short inferential distance between you and the physicist; there is a 
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   427.43 | 2024-11-28T02:20:09Z |
-| back     | 1.90 |   7 |    72.65 | 2024-02-16T06:17:01Z |
+| back     | 1.90 |   8 |   128.24 | 2024-06-27T03:58:12Z |
 :END:
 
 [[id:5185ffd0-b643-484a-a69d-85b7579eb38d][Inferential distance]]
 
 *** Back
+
 The set of prerequisite knowledge required to understand a new concept lacked by the learner.
 
 *** Source

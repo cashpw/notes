@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       06278a18-c5ee-48fb-80af-422c748c610d
-:LAST_MODIFIED: [2024-02-15 Thu 06:08]
+:LAST_MODIFIED: [2024-02-19 Mon 14:08]
 :ROAM_REFS: [cite:@Operators2023]
 :END:
 #+title: Operators in C++
@@ -228,7 +228,7 @@ int main() {
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.05 |   7 |   111.98 | 2024-02-29T15:48:36Z |
-| back     | 2.50 |   3 |     6.00 | 2024-01-29T14:57:22Z |
+| back     | 2.50 |   4 |    15.78 | 2024-03-06T16:58:58Z |
 :END:
 
 [[id:f9237075-e0c0-4edc-88ca-efcd846e6f5f][Indirection operator]] (C++)

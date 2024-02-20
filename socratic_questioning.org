@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       8611a2b5-378e-44ab-b601-6481f170c34a
 :ROAM_REFS: [cite:@SocraticQuestioning2022]
-:LAST_MODIFIED: [2024-02-07 Wed 07:04]
+:LAST_MODIFIED: [2024-02-19 Mon 14:03]
 :END:
 #+title: Socratic questioning
 #+hugo_custom_front_matter: :slug "8611a2b5-378e-44ab-b601-6481f170c34a"
@@ -255,16 +255,18 @@ A form of disciplined questioning credited to Socrates's teaching style.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   277.09 | 2024-02-18T14:43:45Z |
+| front    | 2.80 |   8 |   801.97 | 2026-05-01T21:13:45Z |
 | back     | 2.95 |   7 |   415.46 | 2024-09-24T02:48:29Z |
 :END:
 
 [[id:ac6eee1a-8d6a-4b23-95ff-468ee543d19b][Consider implications and consequences]]
 
 *** Back
+
 - What if you are wrong?
 - How does that affect ... ?
 - How could ... be used to ... ?
+
 *** Source
 [cite:@SocraticQuestioning2022]
 ** Example(s) :fc:

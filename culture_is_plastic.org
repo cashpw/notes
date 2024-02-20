@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       850e06b8-b739-462f-a2e9-5878a827dd12
-:LAST_MODIFIED: [2023-11-19 Sun 06:38]
+:LAST_MODIFIED: [2024-02-19 Mon 14:14]
 :END:
 #+title: Culture is plastic
 #+hugo_custom_front_matter: :slug "850e06b8-b739-462f-a2e9-5878a827dd12"
@@ -20,13 +20,14 @@ There isn't a fixed idea of culture. We create Culture and, intentionally or oth
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   7 |   355.66 | 2024-02-17T07:49:42Z |
+| front    | 2.50 |   8 |   891.94 | 2026-07-30T20:42:43Z |
 | back     | 2.20 |   8 |   518.12 | 2025-04-20T17:25:05Z |
 :END:
 
 [[id:850e06b8-b739-462f-a2e9-5878a827dd12][Culture is plastic]]
 
 *** Back
+
 There isn't a fixed idea of culture. We create Culture and, intentionally or otherwise, we can change it.
 * Bibliography
 #+print_bibliography:

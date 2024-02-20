@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d
-:LAST_MODIFIED: [2024-02-11 Sun 07:22]
+:LAST_MODIFIED: [2024-02-19 Mon 14:01]
 :END:
 #+title: Computer science
 #+hugo_custom_front_matter: :slug "cdbbd8dd-c8d0-4b7f-bc77-2a3635481b5d"
@@ -135,13 +135,14 @@ Floating and fixed point number representations
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.50 |   9 |   355.10 | 2024-02-18T07:12:08Z |
+| back     | 2.50 |  10 |   968.28 | 2026-10-15T04:44:16Z |
 | front    | 2.65 |   8 |   389.25 | 2024-04-19T23:05:12Z |
 :END:
 
 Hamming distance
 
 *** Back
+
 The number of positions in two strings of equal length at which the corresponding symbols are different.
 
 *** Extra

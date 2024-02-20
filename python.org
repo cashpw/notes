@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2024-02-12 Mon 06:36]
+:LAST_MODIFIED: [2024-02-19 Mon 14:17]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -490,12 +490,13 @@ Infinity in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.95 |   7 |   459.08 | 2024-11-27T16:50:49Z |
-| back     | 2.50 |   7 |   239.83 | 2024-02-18T10:04:12Z |
+| back     | 2.50 |   8 |   573.51 | 2025-09-15T10:33:55Z |
 :END:
 
 ([[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]) Dunder
 
 *** Back
+
 Names with two leading and two trailing underscores (e.g. =__init__=).
 *** Source
 [cite:@PEPStyleGuidePythonCodePepsPythonOrg]
