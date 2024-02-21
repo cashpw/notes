@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       42be7ce6-d83b-4717-86a0-0766565b2049
-:LAST_MODIFIED: [2024-02-14 Wed 07:02]
+:LAST_MODIFIED: [2024-02-20 Tue 07:57]
 :ROAM_REFS: [cite:@SessionComputerScience2023]
 :END:
 #+title: Session
@@ -38,7 +38,7 @@ Communication Transport may be implemented as part of protocols and services at 
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   3 |     6.00 | 2024-02-20T15:02:19Z |
+| front    | 2.05 |   4 |    11.77 | 2024-03-03T10:19:09Z |
 | back     | 2.95 |   7 |   355.88 | 2024-11-05T12:26:06Z |
 :END:
 

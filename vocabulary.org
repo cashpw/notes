@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       570a3103-cef5-4ce3-9498-fde21020fe22
-:LAST_MODIFIED: [2024-02-19 Mon 14:06]
+:LAST_MODIFIED: [2024-02-20 Tue 07:53]
 :END:
 #+title: Vocabulary
 #+hugo_custom_front_matter: :slug "570a3103-cef5-4ce3-9498-fde21020fe22"
@@ -165,7 +165,7 @@ An event or period marking a turning point in a course of action or state of aff
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.75 |   8 |   102.55 | 2024-03-31T12:07:01Z |
-| front    | 2.65 |   7 |   267.64 | 2023-11-21T07:09:09Z |
+| front    | 2.65 |   8 |   778.58 | 2026-04-09T05:55:18Z |
 :END:
 
 (of a product) made or used as a substitute, typically an inferior one, for something else

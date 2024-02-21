@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       244280a6-947c-4c8e-91b7-197f6856f79b
 :ROAM_REFS: [cite:@HypoxiaMedical2023]
-:LAST_MODIFIED: [2023-09-21 Thu 07:15]
+:LAST_MODIFIED: [2024-02-20 Tue 07:53]
 :END:
 #+title: Hypoxia
 #+hugo_custom_front_matter: :slug "244280a6-947c-4c8e-91b7-197f6856f79b"
@@ -32,7 +32,7 @@ For best protection, you are encouraged to use supplemental oxygen above [3 kilo
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   205.97 | 2024-02-20T14:17:06Z |
+| front    | 2.35 |   8 |   520.56 | 2025-07-25T05:13:57Z |
 | back     | 2.50 |   7 |   253.92 | 2024-05-07T11:54:16Z |
 :END:
 

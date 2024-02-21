@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@BloomTaxonomy2022]
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:LAST_MODIFIED: [2024-02-19 Mon 14:07]
+:LAST_MODIFIED: [2024-02-20 Tue 07:57]
 :END:
 #+title: Bloom's taxonomy
 #+hugo_custom_front_matter: :slug "5fbaa05c-666f-4d45-b798-ff36ace22126"
@@ -232,7 +232,7 @@ In order from least complex to most complex:
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.90 |   8 |   224.16 | 2024-02-19T19:25:01Z |
+| front    | 1.75 |   9 |   404.89 | 2025-03-31T13:12:44Z |
 | back     | 2.50 |   8 |   511.89 | 2025-05-10T13:00:21Z |
 :END:
 

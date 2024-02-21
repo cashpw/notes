@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
-:LAST_MODIFIED: [2024-02-19 Mon 14:09]
+:LAST_MODIFIED: [2024-02-20 Tue 07:57]
 :END:
 #+title: Greek alphabet
 #+hugo_custom_front_matter: :slug "a7c4fe3e-5372-4c00-a66c-5a40c4057a6e"
@@ -449,7 +449,7 @@ Pronounced: /lam-duh/
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   9 |   565.39 | 2025-05-18T00:17:49Z |
-|        1 | 2.65 |   8 |   326.06 | 2024-02-02T16:14:50Z |
+|        1 | 2.65 |   9 |   877.97 | 2026-07-17T15:17:17Z |
 :END:
 
 *** Extra

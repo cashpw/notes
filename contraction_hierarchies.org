@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       8d0bb3d4-18fb-4c38-a89e-11745614c640
-:LAST_MODIFIED: [2024-02-19 Mon 14:04]
+:LAST_MODIFIED: [2024-02-20 Tue 07:53]
 :ROAM_REFS: [cite:@ContractionHierarchies2023]
 :END:
 #+title: Contraction hierarchies
@@ -489,7 +489,7 @@ We contract $v$ when the path $u, v, w$ is the shortest path from $u$ to $w$.
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   5 |    33.93 | 2024-02-03T16:34:31Z |
+| front    | 2.50 |   6 |    87.92 | 2024-05-18T13:51:31Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-15T15:49:21Z |
 :END:
 
@@ -742,7 +742,7 @@ Store a pointer to the contracted node, $v$, whenever we contract $u, v, w$ into
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.20 |   3 |     6.00 | 2024-01-29T14:56:33Z |
+| front    | 2.20 |   4 |    12.76 | 2024-03-04T10:08:23Z |
 | back     |  2.5 |  -1 |        0 | 2023-06-20T15:44:41Z |
 :END:
 

@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       23037fe1-9cfc-45da-aa28-2a3ca867e540
 :ROAM_REFS: [cite:@SpotContract2021]
-:LAST_MODIFIED: [2024-02-14 Wed 07:06]
+:LAST_MODIFIED: [2024-02-20 Tue 07:58]
 :END:
 #+title: Spot price
 #+hugo_custom_front_matter: :slug "23037fe1-9cfc-45da-aa28-2a3ca867e540"
@@ -23,7 +23,7 @@ The current price of an asset.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   8 |   424.03 | 2024-12-27T15:40:41Z |
-| back     | 2.20 |   3 |     6.00 | 2024-02-20T15:06:08Z |
+| back     | 2.20 |   4 |    12.13 | 2024-03-03T19:05:46Z |
 :END:
 
 [[id:23037fe1-9cfc-45da-aa28-2a3ca867e540][Spot price]]

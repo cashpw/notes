@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       0a8c2a35-590e-4f8b-9d98-40a44e15dfb7
-:LAST_MODIFIED: [2024-01-08 Mon 08:20]
+:LAST_MODIFIED: [2024-02-20 Tue 07:59]
 :END:
 #+title: Path (graph theory)
 #+hugo_custom_front_matter: :slug "0a8c2a35-590e-4f8b-9d98-40a44e15dfb7"
@@ -25,14 +25,16 @@ A path is a trail [[[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theor
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.30 |  10 |    42.47 | 2024-02-20T03:35:09Z |
+| front    | 1.30 |   1 |     1.00 | 2024-02-21T15:59:43Z |
 | back     | 2.80 |   7 |   298.52 | 2024-05-07T13:32:48Z |
 :END:
 
 [[id:0a8c2a35-590e-4f8b-9d98-40a44e15dfb7][Path (graph theory)]]
 
 *** Back
+
 A [[id:25700064-b72e-4ad4-8fb5-898921f90478][Trail (Graph theory)]] in which all [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] (and therefore all [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]]) distinct.
+
 *** Source
 [cite:@PathGraphTheory2022]
 ** Compare and contrast :fc:

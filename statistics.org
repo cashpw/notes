@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-02-19 Mon 14:06]
+:LAST_MODIFIED: [2024-02-20 Tue 07:55]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1267,7 +1267,7 @@ $\hat{f}(X) = \beta_0 + \beta_1X_1 + \cdots + \beta_nX_n$
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.45 |  10 |   163.71 | 2024-07-03T10:29:51Z |
-| front    | 2.50 |   9 |   276.71 | 2023-10-15T07:30:05Z |
+| front    | 2.50 |  10 |   711.03 | 2026-01-31T16:44:14Z |
 :END:
 
 Mean squared error

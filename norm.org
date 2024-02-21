@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       d98f1ce2-f350-4be7-a8b1-a5741f908cdd
-:LAST_MODIFIED: [2024-02-11 Sun 07:21]
+:LAST_MODIFIED: [2024-02-20 Tue 07:58]
 :ROAM_REFS: [cite:@NormMathematics2022]
 :END:
 #+title: Norm
@@ -133,7 +133,7 @@ Also see [[id:1328dcd2-14a0-4f79-bf54-80ac0bf2e162][L-one norm]], [[id:a5079f3d-
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.50 |  13 |   767.37 | 2026-03-03T00:22:44Z |
-|        1 | 2.20 |   4 |    12.84 | 2024-02-20T11:28:42Z |
+|        1 | 2.05 |   5 |    24.00 | 2024-03-15T16:02:22Z |
 :END:
 
 - {{Norm}@0}
