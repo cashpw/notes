@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fe9b846a-00fb-4311-8103-0ab31dd65275
-:LAST_MODIFIED: [2024-02-14 Wed 07:02]
+:LAST_MODIFIED: [2024-02-22 Thu 08:01]
 :END:
 #+title: Level-order tree traversal
 #+hugo_custom_front_matter: :slug "fe9b846a-00fb-4311-8103-0ab31dd65275"
@@ -28,7 +28,7 @@ In [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] (BFS) or le
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   605.84 | 2025-10-12T11:06:28Z |
-| back     | 1.30 |   7 |    14.68 | 2024-02-22T07:38:06Z |
+| back     | 1.30 |   8 |    19.37 | 2024-03-13T00:50:43Z |
 :END:
 
 [[id:fe9b846a-00fb-4311-8103-0ab31dd65275][Level-order tree traversal]]

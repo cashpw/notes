@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff
 :ROAM_ALIASES: "No hidden information"
-:LAST_MODIFIED: [2024-02-07 Wed 07:14]
+:LAST_MODIFIED: [2024-02-23 Fri 07:52]
 :END:
 #+title: Imperfect information
 #+hugo_custom_front_matter: :slug "f9c7b1f9-0cb3-4de2-93c0-be1497fd47ff"
@@ -28,7 +28,7 @@ Also see [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], [[id:ec797dab
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.80 |   7 |   288.24 | 2024-02-22T21:40:47Z |
+| front    | 2.80 |   8 |   761.86 | 2026-03-26T12:36:22Z |
 | back     | 2.50 |   8 |   607.30 | 2025-10-06T22:28:55Z |
 :END:
 

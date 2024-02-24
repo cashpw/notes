@@ -2,7 +2,7 @@
 :ID:       1328dcd2-14a0-4f79-bf54-80ac0bf2e162
 :ROAM_REFS: [cite:@TaxicabGeometry2022]
 :ROAM_ALIASES: "Manhattan norm" "Taxicab norm"
-:LAST_MODIFIED: [2023-09-25 Mon 06:25]
+:LAST_MODIFIED: [2024-02-21 Wed 09:28]
 :END:
 #+title: L-one norm
 #+hugo_custom_front_matter: :slug "1328dcd2-14a0-4f79-bf54-80ac0bf2e162"
@@ -46,7 +46,7 @@ $\|\vec{x}\|_1 = \sum |x_i|$
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.80 |   8 |   375.28 | 2024-02-21T07:06:20Z |
+|        0 | 2.80 |   9 |   945.80 | 2026-09-24T12:43:58Z |
 |        1 | 2.80 |   8 |   373.13 | 2024-02-23T19:15:11Z |
 |        2 | 2.65 |   8 |   385.89 | 2024-03-30T00:23:06Z |
 |        3 | 2.65 |   9 |   488.97 | 2024-09-06T17:01:35Z |

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f454378e-9a94-4c15-b8b2-44f486077626
-:LAST_MODIFIED: [2024-02-05 Mon 08:36]
+:LAST_MODIFIED: [2024-02-23 Fri 07:54]
 :END:
 #+title: Thought-terminating cliché
 #+hugo_custom_front_matter: :slug "f454378e-9a94-4c15-b8b2-44f486077626"
@@ -24,7 +24,7 @@
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 1.30 |   7 |    15.83 | 2024-02-21T12:38:24Z |
+| back     | 1.30 |   2 |     2.00 | 2024-02-25T15:54:09Z |
 | front    | 1.30 |  12 |    98.30 | 2024-03-27T22:51:03Z |
 :END:
 

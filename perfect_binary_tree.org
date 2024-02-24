@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       de6bcd91-4a80-4ea9-b939-eb7f57077f63
-:LAST_MODIFIED: [2023-12-07 Thu 06:24]
+:LAST_MODIFIED: [2024-02-21 Wed 09:31]
 :END:
 #+title: Perfect binary tree
 #+hugo_custom_front_matter: :slug "de6bcd91-4a80-4ea9-b939-eb7f57077f63"
@@ -56,7 +56,7 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which (1) all inte
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.80 |  10 |   772.54 | 2026-01-18T03:15:30Z |
-| back     | 2.65 |   7 |   348.46 | 2024-02-21T14:13:22Z |
+| back     | 2.65 |   8 |   886.40 | 2026-07-27T03:05:08Z |
 :END:
 
 [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]

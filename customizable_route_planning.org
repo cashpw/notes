@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       41a0db19-6156-4242-8078-673cbd1e550e
-:LAST_MODIFIED: [2024-02-19 Mon 14:08]
+:LAST_MODIFIED: [2024-02-23 Fri 07:54]
 :END:
 #+title: Customizable route planning
 #+hugo_custom_front_matter: :slug "41a0db19-6156-4242-8078-673cbd1e550e"
@@ -276,7 +276,7 @@ To accelerate queries, we can use multiple levels of overlay graphs, a common te
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.35 |   7 |   208.26 | 2024-06-29T20:59:23Z |
-| back     | 2.50 |   5 |    43.75 | 2024-02-21T10:33:05Z |
+| back     | 2.50 |   6 |   114.25 | 2024-06-14T23:28:53Z |
 :END:
 
 Stages of [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]]
@@ -386,7 +386,7 @@ Why does [[id:41a0db19-6156-4242-8078-673cbd1e550e][Customizable route planning]
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   7 |   220.28 | 2024-07-25T20:56:23Z |
-| back     | 2.05 |   4 |    11.96 | 2024-02-23T14:21:31Z |
+| back     | 2.05 |   5 |    25.10 | 2024-03-19T18:14:09Z |
 :END:
 
 Nested partitions

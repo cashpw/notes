@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       518c35ac-35d7-4c12-9522-efb13e5be1e8
-:LAST_MODIFIED: [2024-02-19 Mon 14:04]
+:LAST_MODIFIED: [2024-02-22 Thu 08:02]
 :ROAM_ALIASES: "Topological sorting"
 :ROAM_REFS: [cite:@TopologicalSorting2022]
 :END:
@@ -64,7 +64,7 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.65 |   8 |   549.89 | 2025-08-22T19:30:40Z |
-| back     | 1.45 |   5 |    14.02 | 2024-02-21T15:43:06Z |
+| back     | 1.45 |   6 |    21.38 | 2024-03-15T01:15:42Z |
 :END:
 
 [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]]
@@ -129,7 +129,7 @@ One can use a topological ordering to reduce the time complexity of the [[id:9d3
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 1.30 |  10 |    40.60 | 2024-02-21T07:45:31Z |
+|        0 | 1.30 |  11 |    52.47 | 2024-04-14T04:45:41Z |
 :END:
 
 Time complexity for constructing a [[id:518c35ac-35d7-4c12-9522-efb13e5be1e8][Topological order]] using [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] is {{$\bigo{|V|+|E|}$}@0}.

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
-:LAST_MODIFIED: [2024-02-19 Mon 14:17]
+:LAST_MODIFIED: [2024-02-22 Thu 08:01]
 :END:
 #+title: Python
 #+hugo_custom_front_matter: :slug "27b0e33a-6754-40b8-99d8-46650e8626aa"
@@ -575,7 +575,7 @@ Names with two leading and two trailing underscores (e.g. =__init__=).
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.95 |   7 |   459.52 | 2025-01-01T20:27:47Z |
-|        1 | 2.35 |   7 |   221.96 | 2024-02-22T13:17:24Z |
+|        1 | 2.35 |   8 |   470.13 | 2025-06-06T19:03:17Z |
 :END:
 
 {{=random.random()=}{[[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]}@0} returns a random number in {{$[0.0, 1.0)$}@1}.

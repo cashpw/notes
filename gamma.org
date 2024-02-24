@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       258a5932-07d8-4d5c-8442-ef08e3f8d45d
-:LAST_MODIFIED: [2024-01-09 Tue 08:13]
+:LAST_MODIFIED: [2024-02-22 Thu 07:51]
 :END:
 #+title: Gamma (finance)
 #+hugo_custom_front_matter: :slug "258a5932-07d8-4d5c-8442-ef08e3f8d45d"
@@ -32,7 +32,7 @@ $\Gamma = \frac{\partial\Delta}{\partial S} = \frac{\partial^{2}V}{\partial S^{2
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 1.60 |   8 |    67.03 | 2024-02-21T22:27:57Z |
+| front    | 1.60 |   9 |   107.59 | 2024-06-09T06:07:04Z |
 | back     | 2.05 |   8 |   292.95 | 2024-06-18T11:42:20Z |
 :END:
 

@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       7c9624d9-8abd-4581-b0df-c5db61516818
-:LAST_MODIFIED: [2024-02-05 Mon 08:43]
+:LAST_MODIFIED: [2024-02-22 Thu 07:56]
 :ROAM_ALIASES: S-curve "Sigmoid curve"
 :ROAM_REFS: [cite:@SigmoidFunction2022]
 :END:
@@ -27,7 +27,7 @@ A sigmoid function is a mathematical function having a characteristic "S"-shaped
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.65 |   4 |    16.36 | 2024-02-22T01:27:01Z |
+| back     | 2.65 |   5 |    41.79 | 2024-04-04T11:00:28Z |
 | front    | 2.00 |  17 |   554.54 | 2025-08-03T03:33:29Z |
 :END:
 

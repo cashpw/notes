@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       fba2b035-cd82-46c9-9797-25b0b1419b42
-:LAST_MODIFIED: [2023-12-14 Thu 07:10]
+:LAST_MODIFIED: [2024-02-21 Wed 09:31]
 :END:
 #+title: Indifferent interoperability
 #+hugo_custom_front_matter: :slug "fba2b035-cd82-46c9-9797-25b0b1419b42"
@@ -26,7 +26,7 @@ This is the most common form of [[id:a41fccc0-fe85-462b-b8e9-5758fd6327b3][Inter
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   542.71 | 2025-01-13T08:17:54Z |
-| back     | 2.50 |   7 |   287.87 | 2024-02-21T13:37:55Z |
+| back     | 2.35 |   8 |   664.62 | 2025-12-17T08:21:14Z |
 :END:
 
 [[id:fba2b035-cd82-46c9-9797-25b0b1419b42][Indifferent interoperability]]

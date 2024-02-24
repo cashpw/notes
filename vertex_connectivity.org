@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       12de8109-6022-476c-ac21-9381115a0bc4
-:LAST_MODIFIED: [2024-01-11 Thu 09:20]
+:LAST_MODIFIED: [2024-02-21 Wed 09:32]
 :END:
 #+title: Vertex-connectivity
 #+hugo_custom_front_matter: :slug "12de8109-6022-476c-ac21-9381115a0bc4"
@@ -25,7 +25,7 @@ The vertex-connectivity, or just connectivity, of a graph is the largest k for w
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.05 |   7 |   102.81 | 2024-02-21T13:36:56Z |
+| front    | 2.05 |   8 |   227.16 | 2024-10-05T21:27:48Z |
 | back     | 1.90 |   8 |   172.78 | 2024-07-02T11:56:22Z |
 :END:
 

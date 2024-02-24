@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       b04fc3f4-7bb8-4cc3-b2b7-029f60022d84
-:LAST_MODIFIED: [2024-02-05 Mon 08:45]
+:LAST_MODIFIED: [2024-02-23 Fri 07:52]
 :ROAM_REFS: [cite:@DuplexTelecommunications2023]
 :END:
 #+title: Duplex
@@ -67,7 +67,7 @@ A [[id:b04fc3f4-7bb8-4cc3-b2b7-029f60022d84][Duplex]] system in which both parti
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.35 |   7 |   168.41 | 2024-02-23T00:26:25Z |
+| front    | 2.35 |   8 |   395.71 | 2025-03-25T08:47:54Z |
 | back     | 2.35 |   5 |    35.03 | 2024-02-25T18:24:25Z |
 :END:
 
@@ -76,6 +76,7 @@ A [[id:b04fc3f4-7bb8-4cc3-b2b7-029f60022d84][Duplex]] system in which both parti
 *** Back
 
 A point-to-point communication system composed of two or more parties which can communicate with one another in both directions.
+
 *** Source
 [cite:@DuplexTelecommunications2023]
 ** Definition :fc:

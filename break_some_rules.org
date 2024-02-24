@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       94fabbea-ffeb-439e-bde8-9a52044bde20
-:LAST_MODIFIED: [2024-02-20 Tue 07:59]
+:LAST_MODIFIED: [2024-02-21 Wed 09:32]
 :END:
 #+title: Break some rules
 #+hugo_custom_front_matter: :slug "94fabbea-ffeb-439e-bde8-9a52044bde20"
@@ -26,7 +26,7 @@ See also [[id:d737d99b-5154-41f2-8b31-7c3ba860d4e0][There's no speed limit]], [[
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   3 |     6.00 | 2024-02-25T22:09:51Z |
-| back     | 2.50 |   1 |     1.00 | 2024-02-21T15:59:04Z |
+| back     | 2.50 |   2 |     2.00 | 2024-02-23T17:32:48Z |
 :END:
 
 [[id:94fabbea-ffeb-439e-bde8-9a52044bde20][Break some rules]]

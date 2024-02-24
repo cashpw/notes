@@ -2,7 +2,7 @@
 :ID:       9649b104-6092-47f4-ac00-0e92463126cd
 :DIR:      /home/cashweaver/proj/roam/attachments/9649b104-6092-47f4-ac00-0e92463126cd
 :ROAM_ALIASES: "Fallacy of grey"
-:LAST_MODIFIED: [2023-10-30 Mon 07:53]
+:LAST_MODIFIED: [2024-02-23 Fri 07:54]
 :END:
 #+title: Fallacy of gray
 #+hugo_custom_front_matter: :slug "9649b104-6092-47f4-ac00-0e92463126cd"
@@ -36,12 +36,13 @@ I don't know if the Sophisticate's mistake has an official name, but I call it t
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 2.50 |   8 |   482.24 | 2025-02-23T20:45:31Z |
-| back     | 2.95 |   7 |   286.79 | 2024-02-23T11:09:32Z |
+| back     | 2.95 |   8 |   829.89 | 2026-06-02T13:14:05Z |
 :END:
 
 [[id:9649b104-6092-47f4-ac00-0e92463126cd][Fallacy of gray]]
 
 *** Back
+
 The assertion that since nothing is black and white that all things are equal.
 *** Source
 [cite:@yudkowskyFallacyGray]

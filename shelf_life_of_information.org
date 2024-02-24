@@ -2,7 +2,7 @@
 :ID:       0b20dbe0-1576-4c38-baa4-32522b42f798
 :ROAM_ALIASES: "Half-life of information"
 :ROAM_REFS: [cite:@streetHalfLifeDecayKnowledgeWhatIt2018]
-:LAST_MODIFIED: [2023-12-15 Fri 07:42]
+:LAST_MODIFIED: [2024-02-23 Fri 07:54]
 :END:
 #+title: Shelf-life of information
 #+hugo_custom_front_matter: :slug "0b20dbe0-1576-4c38-baa4-32522b42f798"
@@ -52,7 +52,7 @@ The length of time for which a piece of information is useful.
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.80 |   7 |   383.86 | 2024-06-27T12:10:31Z |
-|        1 | 2.50 |   7 |   267.24 | 2024-02-22T21:27:35Z |
+|        1 | 2.50 |   8 |   710.26 | 2026-02-02T22:16:07Z |
 :END:
 
 - {{[[id:0b20dbe0-1576-4c38-baa4-32522b42f798][Half-life of information]]}@0}

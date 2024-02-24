@@ -1,5 +1,5 @@
 :PROPERTIES:
-:LAST_MODIFIED: [2024-02-20 Tue 07:54]
+:LAST_MODIFIED: [2024-02-23 Fri 07:53]
 :ROAM_REFS: [cite:@pfefferRulesPowerSurprisingTrueAdviceHowGetThingsDoneAdvance2022]
 :ID:       8d42e706-7fa3-4910-a0be-db0fe90083a9
 :LAST_MODIFIED: [2024-02-11 Sun 08:44]
@@ -758,7 +758,7 @@ If doing power doesn't come naturally to you, practice. [...] Build what some pe
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   1 |     1.00 | 2024-02-14T14:35:58Z |
+| front    | 2.50 |   2 |     2.00 | 2024-02-24T15:53:17Z |
 | back     |  2.5 |  -1 |        0 | 2024-02-18T20:19:01Z |
 :END:
 
@@ -802,8 +802,8 @@ Appear powerful
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| front    | 2.50 |   2 |     2.00 | 2024-02-21T22:01:32Z |
-| back     |  2.5 |  -1 |        0 | 2024-02-18T20:47:23Z |
+| front    | 2.50 |   3 |     6.00 | 2024-02-29T15:53:00Z |
+| back     | 2.50 |   1 |     1.00 | 2024-02-22T17:33:31Z |
 :END:
 
 Use your power

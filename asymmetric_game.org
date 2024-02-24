@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ad6e2800-e722-4fc0-90e7-a6f895c16100
-:LAST_MODIFIED: [2023-12-05 Tue 06:39]
+:LAST_MODIFIED: [2024-02-22 Thu 08:02]
 :END:
 #+title: Asymmetric game
 #+hugo_custom_front_matter: :slug "ad6e2800-e722-4fc0-90e7-a6f895c16100"
@@ -27,7 +27,7 @@ In [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]], an [[id:ad6e2800-e7
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | front    | 3.10 |   7 |   519.56 | 2024-11-25T02:39:32Z |
-| back     | 2.20 |   8 |   245.16 | 2024-02-21T19:36:06Z |
+| back     | 2.20 |   9 |   591.06 | 2025-10-05T17:26:00Z |
 :END:
 
 [[id:ad6e2800-e722-4fc0-90e7-a6f895c16100][Asymmetric game]]

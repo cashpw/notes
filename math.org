@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       714128e9-11e7-44ec-8635-c978630d546d
-:LAST_MODIFIED: [2024-02-19 Mon 13:51]
+:LAST_MODIFIED: [2024-02-23 Fri 07:50]
 :END:
 #+title: Math
 #+hugo_custom_front_matter: :slug "714128e9-11e7-44ec-8635-c978630d546d"
@@ -124,7 +124,7 @@ Eg: \[\{(x, y, z) | 2x+z=3\ and\ -y-3z=1\}\] is parameterized by $x$, $y$, and $
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   7 |   200.22 | 2023-12-05T21:36:44Z |
+| back     | 2.05 |   8 |   383.46 | 2025-03-13T02:55:59Z |
 | front    | 2.50 |   9 |   297.53 | 2023-12-28T06:07:43Z |
 :END:
 
@@ -1634,7 +1634,7 @@ A mapping between two structures of the same type that can be reversed by an inv
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.35 |   1 |     1.00 | 2024-02-14T14:44:52Z |
+| back     | 2.35 |   2 |     2.00 | 2024-02-24T15:51:33Z |
 | front    | 2.35 |   8 |   210.38 | 2023-06-28T03:59:35Z |
 :END:
 
@@ -2558,7 +2558,7 @@ Unit ramp function
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.20 |   4 |    12.36 | 2024-01-22T00:48:55Z |
+| back     | 2.20 |   5 |    29.06 | 2024-03-21T18:59:39Z |
 | front    | 2.80 |   8 |   341.44 | 2024-01-14T14:31:49Z |
 :END:
 

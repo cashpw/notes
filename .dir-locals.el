@@ -86,34 +86,29 @@
       aliases)
      " ")))
 
-(defun cashpw/set-custom-front-matter ()
-  (interactive)
-  (let* ((prep-duration (org-roam-recipe-get-prep-duration))
-         (cook-duration (org-roam-recipe-get-cook-duration))
-         (total-duration (org-roam-recipe-get-total-duration))
-         (yield (org-roam-recipe-get-yield))
-         (stars (org-roam-recipe-get-stars))
-         (servings (org-roam-recipe-get-servings))
-         (id (cashpw/get-property "ID"))
-         (properties `(("prep_time" . ,prep-duration)
-                            ("cook_time" . ,cook-duration)
-                            ("total_time" . ,total-duration)
-                            ("servings" . ,servings)
-                            ("stars" . ,stars)
-                            ("yield" . ,yield)
-                            ;; ("aliases" . ,aliases)
-                            ("slug" . ,id)))
-         (front-matter (string-join
-                        (mapcar
-                         (lambda (item)
-                           (destructuring-bind (label . value) item
-                             (s-lex-format
-                              ":${label} \"${value}\"")))
-                         (--filter
-                          (cdr it)
-                          properties))
-                        " ")))
-    (cashpw/org-hugo--set-custom-front-matter front-matter)))
+(defun cashpw/org-hugo--get-custom-front-matter ()
+  "Return custom front-matter as a string."
+  (string-join (mapcar
+                (lambda (item)
+                  (destructuring-bind (label . value) item
+                    (s-lex-format
+                     ":${label} \"${value}\"")))
+                (cl-remove-if (lambda (item)
+                                (not (cdr item)))
+                              `(("prep_time" . ,(org-recipe-get-prep-duration (point-min)))
+                                ("cook_time" . ,(org-recipe-get-cook-duration (point-min)))
+                                ("total_time" . ,(org-recipe-get-total-duration (point-min)))
+                                ("servings" . ,(org-recipe-get-servings (point-min)))
+                                ("yield" . ,(org-recipe-get-yield (point-min)))
+                                ("slug" . ,(save-excursion
+                                             (org-entry-get (point-min) "ID"))))))
+               " "))
+
+(defun cashpw/org-hugo--set-custom-front-matter ()
+  "Set custom hugo front-matter."
+  (org-roam-set-keyword "HUGO_CUSTOM_FRONT_MATTER"
+                        (cashpw/org-hugo--get-custom-front-matter)))
+
 
                         (add-hook! 'before-save-hook
                                  :local
@@ -123,4 +118,4 @@
                                  #'cashpw/org-set-last-modified)
                         (add-hook! 'before-save-hook
                                 :local
-                                #'cashpw/set-custom-front-matter))))))
+                                #'cashpw/org-hugo--set-custom-front-matter))))))

@@ -2,7 +2,7 @@
 :ID:       436e3b6b-6b46-4173-b764-d3d902651feb
 :DIR:      /home/cashweaver/proj/roam/attachments/436e3b6b-6b46-4173-b764-d3d902651feb
 :ROAM_REFS: https://quoteinvestigator.com/2012/04/28/shorter-letter
-:LAST_MODIFIED: [2023-09-05 Tue 20:18]
+:LAST_MODIFIED: [2024-02-23 Fri 12:30]
 :END:
 #+title: If I had more time, I would have written a shorter letter
 #+hugo_custom_front_matter: roam_refs '("https://quoteinvestigator.com/2012/04/28/shorter-letter")
@@ -16,9 +16,5 @@ If I had more time, I would have written a shorter letter.
 #+end_quote
 
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 * Bibliography
 #+print_bibliography:

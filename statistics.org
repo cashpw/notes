@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       a55b6c56-64e8-4349-9c27-555217caeb91
-:LAST_MODIFIED: [2024-02-20 Tue 07:55]
+:LAST_MODIFIED: [2024-02-23 Fri 07:55]
 :END:
 #+title: Statistics
 #+hugo_custom_front_matter: :slug "a55b6c56-64e8-4349-9c27-555217caeb91"
@@ -1197,13 +1197,14 @@ The conflict of trying to simultaneously reduce both the bias and the variance o
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-| back     | 2.15 |   8 |   241.44 | 2024-02-15T00:48:00Z |
+| back     | 1.85 |   1 |     1.00 | 2024-02-24T15:55:07Z |
 | front    | 2.65 |  12 |   301.94 | 2024-01-01T15:52:32Z |
 :END:
 
 Deviation
 
 *** Back
+
 A measure of difference between the observed value of a variable and some other value, often the variable's mean.
 
 *** Source
@@ -1715,7 +1716,7 @@ The difference between an estimator's expected value and the true value of the p
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 | back     | 1.30 |  10 |    28.03 | 2024-03-12T15:23:44Z |
-| front    | 2.35 |   7 |   168.76 | 2024-01-11T09:07:52Z |
+| front    | 2.35 |   8 |   435.37 | 2025-05-03T00:44:44Z |
 :END:
 
 Correlation
@@ -1763,7 +1764,7 @@ Covariance
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
 |        0 | 2.35 |   8 |   343.95 | 2024-02-26T16:31:49Z |
-|        1 | 2.65 |   8 |   333.24 | 2024-01-30T19:38:02Z |
+|        1 | 2.65 |   9 |   871.67 | 2026-07-12T09:39:13Z |
 :END:
 
 - {{$\operatorname{P}(A)$}@0}
