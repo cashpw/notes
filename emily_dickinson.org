@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       f09861cf-7103-46d2-85b3-3e614c2bdd2a
-:LAST_MODIFIED: [2023-09-05 Tue 20:14]
+:LAST_MODIFIED: [2024-02-24 Sat 14:14]
 :END:
 #+title: Emily Dickinson
 #+hugo_custom_front_matter: :slug "f09861cf-7103-46d2-85b3-3e614c2bdd2a"
@@ -8,9 +8,5 @@
 #+date: [2022-03-28 Mon 21:13]
 #+filetags: :person:
 * Flashcards :noexport:
-:PROPERTIES:
-:ANKI_DECK: Default
-:END:
-
 * Bibliography
 #+print_bibliography:

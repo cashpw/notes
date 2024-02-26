@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4dc60214-2e6b-45de-bed5-6e2fec793385
-:LAST_MODIFIED: [2024-02-24 Sat 10:14]
+:LAST_MODIFIED: [2024-02-24 Sat 10:26]
 :END:
 #+title: Stages of problem solving
 #+hugo_custom_front_matter: :slug "4dc60214-2e6b-45de-bed5-6e2fec793385"
@@ -25,7 +25,6 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-
 
 * Bibliography
 #+print_bibliography:

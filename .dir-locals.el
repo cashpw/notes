@@ -6,7 +6,7 @@
          (eval . (setq-local
                   org-default-properties (append
                                           org-default-properties
-                                          org-roam-recipe--properties)
+                                          org-recipes--properties)
                  org-roam-directory (if (file-exists-p (concat default-directory ".dir-locals.el"))
                                                         (expand-file-name (locate-dominating-file default-directory ".dir-locals.el"))
                                                     nil)
@@ -95,11 +95,11 @@
                      ":${label} \"${value}\"")))
                 (cl-remove-if (lambda (item)
                                 (not (cdr item)))
-                              `(("prep_time" . ,(org-recipe-get-prep-duration (point-min)))
-                                ("cook_time" . ,(org-recipe-get-cook-duration (point-min)))
-                                ("total_time" . ,(org-recipe-get-total-duration (point-min)))
-                                ("servings" . ,(org-recipe-get-servings (point-min)))
-                                ("yield" . ,(org-recipe-get-yield (point-min)))
+                              `(("prep_time" . ,(org-recipes-get-prep-duration (point-min)))
+                                ("cook_time" . ,(org-recipes-get-cook-duration (point-min)))
+                                ("total_time" . ,(org-recipes-get-total-duration (point-min)))
+                                ("servings" . ,(org-recipes-get-servings (point-min)))
+                                ("yield" . ,(org-recipes-get-yield (point-min)))
                                 ("slug" . ,(save-excursion
                                              (org-entry-get (point-min) "ID"))))))
                " "))
